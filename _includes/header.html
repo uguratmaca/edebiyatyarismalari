@@ -1,0 +1,13 @@
+<div class="header-container container">
+  <header>
+    <a href="{{ site.url }}" class="top-link">{{ site.name }}</a>
+      <ul class="nav">
+        <li><a href="{{ site.url }}">Anasayfa</a></li>
+        <li><a href="{{ site.url }}/about">Hakkında</a></li>
+        {% if site.owner.github %}
+          <li><a href="{{ site.owner.github }}" target="_blank">Projeler</a></li>
+        {% endif %}
+        <li><a href="{{ site.url }}/feed.xml">RSS</a></li>
+      </ul>
+  </header>
+</div>

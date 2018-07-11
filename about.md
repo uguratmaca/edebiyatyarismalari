@@ -1,18 +1,27 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: About Vinit Kumar
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<h1 class="owner-name">{{ site.owner.name}} </h1>
+![user-avatar]({{ site.owner.avatar }})
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+{{site.about}}
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<div class="pagination">
+  {% if site.owner.linkedin %}
+    <a href="{{ site.owner.linkedin }}" class="social-media-icons"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a>
+  {% endif %}
+  {% if site.owner.email %}
+    <a href="mailto:{{ site.owner.email }}" class="social-media-icons"><i class="fa fa-2x fa-envelope" aria-hidden="true"></i></a>
+  {% endif %}
+  {% if site.owner.twitter %}
+    <a href="{{ site.owner.twitter }}" class="social-media-icons"><i class="fa fa-2x fa-twitter" aria-hidden="true"></i></a>
+  {% endif %}
+  {% if site.owner.github %}
+    <a href="{{ site.owner.github }}" class="social-media-icons"><i class="fa fa-2x fa-github" aria-hidden="true"></i></a>
+  {% endif %}
+  {% if site.owner.stackexchange %}
+    <a href="{{ site.owner.stackexchange }}" class="social-media-icons"><i class="fa fa-2x fa-stack-overflow" aria-hidden="true"></i></a>
+  {% endif %}
+</div>
