@@ -4,7 +4,7 @@ title: "TBD 2018 Bilimkurgu Öykü Yarışması"
 description: 
 category: articles
 tags: [tbd, bilimkurgu]
-comments: false
+comments: true
 ---
 
 Yirmincisi düzenlenen öykü yarışmasında toplam ödül 6bin TL. Son başvuru tarihi 31 Ağustos 2018.

@@ -5,7 +5,6 @@ about: >
     Elimden geldiğince ülkemizde düzenlenen öykü yarışmalarını toplamayı amaçlıyorum. Siz de katkıda bulabilirsiniz.
 
 master_repo: false
-url: "uguratmaca.github.io"
 markdown: kramdown
 highlighter: rouge
 
@@ -17,11 +16,12 @@ logo: logo.png
 
 rtl: false
 owner:
-  name: whitepaper
+  name: Uğur Atmaca
   email: "info@uguratmaca.com"
   twitter: uguratm
   github: https://github.com/uguratmaca
   linkedin: https://www.linkedin.com/in/atmacaugur/
+  avatar: https://images.gr-assets.com/users/1438516176p6/36802906.jpg
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
