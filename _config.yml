@@ -10,7 +10,7 @@ highlighter: rouge
 
 plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
 
-paginate: 4
+paginate: 10
 
 logo: logo.png
 
