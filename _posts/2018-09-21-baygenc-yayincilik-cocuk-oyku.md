@@ -3,7 +3,7 @@ layout: post
 title: "Baygenç Yayıncılık Çocuk Öyküleri Yarışması"
 description: 
 category: articles
-tags: [baygence yayincilik, cocuk, oyku, yarismasi]
+tags: [baygenc yayincilik, cocuk, oyku, yarismasi]
 comments: true
 ---
 
