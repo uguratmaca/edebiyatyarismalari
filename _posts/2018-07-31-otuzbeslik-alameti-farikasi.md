@@ -10,3 +10,5 @@ comments: true
 Temalar : Başka Bir Bedende Yaşamak - Ütopya / Distopya - Yıl 2023. Son başvuru tarihi 15 Eylül 2018.
 
 [Detaylar ve Başvuru için](https://www.otuzbeslik.com/yazilar/otuzbeslikin-alameti-farikasi-oyku-yarismasi)
+
+[Kazanan](https://www.otuzbeslik.com/yazilar/otuzbeslikin-alametifarikasi-oyku-yarismasi-kazanani)
