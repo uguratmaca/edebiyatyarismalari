@@ -1,6 +1,6 @@
-# Öykü Yarışmaları
+# Edebiyat Yarışmaları
 
-Elimden geldiğince ülkemizde düzenlenen öykü yarışmalarını toplamayı amaçlıyorum. Siz de katkıda bulabilirsiniz.
+Elimden geldiğince ülkemizde düzenlenen öykü, şiir, roman yarışmalarını toplamayı amaçlıyorum. Siz de katkıda bulabilirsiniz.
 Nasıl yeni öykü yarışması eklerim?
 
 Üye girişi yaptıktan sorna önce "Fork" butonuna basıyoruz. 
