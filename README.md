@@ -1,5 +1,7 @@
 # Edebiyat Yarışmaları
 
+Commit yaparken tarihte postun adındaki - yerine / değiştir.
+
 Elimden geldiğince ülkemizde düzenlenen öykü, şiir, roman yarışmalarını toplamayı amaçlıyorum. Siz de katkıda bulabilirsiniz.
 Nasıl yeni öykü yarışması eklerim?
 
