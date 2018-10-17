@@ -9,6 +9,6 @@ comments: true
 
 Son Başvuru Tarihi: 15 Kasım 2018. Toplam para ödülü 1000 TL
 
-Bizlere farklı gönül pencereleri açan büyük alimlerimiz, düşünürlerimiz eserleri ve felsefeleri ile bize emanettir. Onlara sahip çıktığımız, yaşattığımız sürece maneviyatı korunmuş güçlü bir toplum olarak ayakta kalabiliriz. Bu kapsamda çocuklarımıza Mevlana sevgisini aşılamak ve gönüllerindeki Mevlana’yı bulmak adına bu yarışmayı düzenlemekteyiz. Yarışma 81 ilde liseler arasında düzenlenmektedir. 
+Bodrum’daki ortaokul öğrencileri arasında ‘’Merhamet Sokakta’’ sloganıyla hikaye yarışması açıldı. Şehit Türkmen Tekin Anadolu İ.H.L tarafından açılan yarışmaya ilçenin merkez, mahalle ve köylerindeki tüm ortaokul öğrencileri katılabilecek.
 
 [Detaylar ve Başvuru için](http://www.bodrumdabirgun.com/merhamet-sokakta-konulu-odullu-hikaye-yazma-yarismasi.html)
