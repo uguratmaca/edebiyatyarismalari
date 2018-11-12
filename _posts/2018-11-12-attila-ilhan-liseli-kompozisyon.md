@@ -19,6 +19,6 @@ Atilla İlhan Bilim Sanat Kültür Vakfı Kompozisyon Yarışması Ülkemiz Sath
 2019 Atilla İlhan 11. Liseli Gençler Kompozisyon Yarışması Konusu “Bilgi Ve İnternet İletişim Teknolojilerinin Yaşamımızdaki Bugünkü Yeri Nedir? İleride Nasıl Olmalıdır”
 
 Yarışmaya Katılım:
-Eser Gönderimi Yarışmacının Kimlik Bilgileri Gizlenerek Yapılacaktır. Her Yarışmacı Kendi Belirleyeceği 4 Haneli Sayının Başına Türkçe Takma İsim İlavesi İle Kişisel Rumuz Oluşturmalıdır. (
+Eser Gönderimi Yarışmacının Kimlik Bilgileri Gizlenerek Yapılacaktır. Her Yarışmacı Kendi Belirleyeceği 4 Haneli Sayının Başına Türkçe Takma İsim İlavesi İle Kişisel Rumuz Oluşturmalıdır.
 
 [Detaylar ve Başvuru için](https://www.guncel-egitim.org/2018-attila-ilhan-10-liseli-gencler-kompozisyon-yarismasi/)
