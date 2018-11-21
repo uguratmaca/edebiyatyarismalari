@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://edebiyatyarismalari.com/sitemap.xml
