@@ -14,4 +14,4 @@ Yarışmamız uluslararası katılıma açıktır. Her yaş ve meslekten ilgilil
 Yarışmaya gönderilecek görseller kanserler ve kan hastalıklarıyla ilgili olmalıdır.
 Her katılımcı yarışmaya, daha önce herhangi bir sergide ödül almamış, yayımlanmamış veya sergilenmemiş en fazla 3 (üç) eseriyle katılabilir.
 
-[Detaylar ve Başvuru için](http://www.nadirhastaliklar.org.tr/)
+[Detaylar ve Başvuru için](http://www.nadirhastaliklar.org.tr/){:rel="nofollow"}

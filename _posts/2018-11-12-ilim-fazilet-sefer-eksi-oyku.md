@@ -7,8 +7,7 @@ tags: [ilim ve fazilet vakfi, sefer eksi, oyku, hikaye, yarisma, 2019]
 comments: true
 ---
 
-Son Başvuru Tarihi: 22 Şubat 2019. 
-
+Son Başvuru Tarihi: 22 Şubat 2019.
 İlim Ve Fazilet Vakfı Öykü Yarışmasına Her Meslekten (Öğretmen, Lise Ve Üniversite Düzeyindeki Öğrenciler Dahil) Türkiye İçinden Ve Dışından Dileyen Amatör Ve Profesyonel Yazarlar Katılabilir.
 
 Yarışma Ödülleri
@@ -21,4 +20,4 @@ Yarışmaya Her Yazar Sadece 1 Eser İle Katılabilir. Yarışmaya Katılan Eser
 
 Yarışmacılar Ayrı Bir Sayfada Kendi Ad Ve Soyadlarını Ve Özgeçmişlerini (Eğitim Durumu, Öğrenciler İçin Okul Adresi Ve Okul Telefonu, Diğer Katılımcılar İçin Adres Ve Telefonlarını, E-Posta Adreslerini) Yazıp “Sefer Ekşi 8. Kültür Ve Sanat Ödülleri Öykü Yarışmasının Tüm Şartlarını Kabul Ediyorum” İbaresini Yazarak Yollayacaktır.
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/ilim-ve-fazilet-vakfi-sefer-eksi-oyku-yarismasi/)
+[Detaylar ve Başvuru için](https://www.guncel-egitim.org/ilim-ve-fazilet-vakfi-sefer-eksi-oyku-yarismasi/){:rel="nofollow"}

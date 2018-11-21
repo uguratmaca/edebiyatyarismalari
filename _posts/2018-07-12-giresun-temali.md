@@ -9,4 +9,4 @@ comments: true
 
 Son katılım Tarihi: 01 Ağustos 2018
 
-[Detaylar ve Başvuru için](http://www.cemcemii.com/uluslararasi-giresun-temali-oyku-yarismasi/)
+[Detaylar ve Başvuru için](http://www.cemcemii.com/uluslararasi-giresun-temali-oyku-yarismasi/){:rel="nofollow"}

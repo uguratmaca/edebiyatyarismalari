@@ -9,4 +9,4 @@ comments: true
 
 Son Başvuru Tarihi: 20 Aralık 2018. Sonuçlar 1 Nisan 2019'da açıklanacaktır.
 
-[Detaylar ve Başvuru için](https://www.itvhaber.com/2019-umit-kaftancioglu-oyku-yarismasi-basvursu-basladi.html)
+[Detaylar ve Başvuru için](https://www.itvhaber.com/2019-umit-kaftancioglu-oyku-yarismasi-basvursu-basladi.html){:rel="nofollow"}

@@ -7,7 +7,7 @@ master_repo: false
 markdown: kramdown
 highlighter: rouge
 
-plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
+plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed', 'jekyll-sitemap']
 
 paginate: 10
 

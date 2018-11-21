@@ -10,4 +10,4 @@ comments: true
 Son Başvuru Tarihi: 3 Aralık 2018. 
 Şiir yarışmasının teması: Varoluş'tur.
 
-[Detaylar ve Başvuru için](https://twitter.com/pskbaskent/status/1059179560661594112)
+[Detaylar ve Başvuru için](https://twitter.com/pskbaskent/status/1059179560661594112){:rel="nofollow"}

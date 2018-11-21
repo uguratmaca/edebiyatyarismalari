@@ -8,7 +8,6 @@ comments: true
 ---
 
 Son Başvuru Tarihi: 21 Aralık 2018. Ödül töreni: 13 Ocak 2019
-
 2019 yılında beşincisini düzenleyecek olduğumuz İzmir Çocuk ve Gençlik Edebiyatı 
 Günleri kapsamında yer alacak yarışmayla, yazmayı seven, öyküye ve şiire ilgi duyan
 ortaokul ve liseli gençleri bir yarışma heyecanına ortak etmek,
@@ -16,4 +15,4 @@ ortaokul ve liseli gençleri bir yarışma heyecanına ortak etmek,
 Gençlere, dilimiz ve yazınımız (edebiyatımız) üzerine düşünme ve yazma yolculuğuna
 çıkma olanağı vermek
 
-[Detaylar ve Başvuru için](http://www.ecev.org.tr/dosyalar/EC%CC%A7EV_O%CC%88yku%CC%88_-_S%CC%A7iir_Yaris%CC%A7masi.pdf)
+[Detaylar ve Başvuru için](http://www.ecev.org.tr/dosyalar/EC%CC%A7EV_O%CC%88yku%CC%88_-_S%CC%A7iir_Yaris%CC%A7masi.pdf){:rel="nofollow"}

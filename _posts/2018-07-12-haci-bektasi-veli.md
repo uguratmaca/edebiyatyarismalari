@@ -9,4 +9,4 @@ comments: true
 
 Son katılım Tarihi: 01 Ağustos 2018
 
-[Detaylar ve Başvuru için](http://www.cemcemii.com/haci-bektas-veli-2018-siir-ve-kisa-oyku-yarismasi//)
+[Detaylar ve Başvuru için](http://www.cemcemii.com/haci-bektas-veli-2018-siir-ve-kisa-oyku-yarismasi/){:rel="nofollow"}

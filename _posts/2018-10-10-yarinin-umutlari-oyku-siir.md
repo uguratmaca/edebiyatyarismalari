@@ -9,4 +9,4 @@ comments: true
 
 Son Başvuru Tarihi: 5 Ocak 2019.
 
-[Detaylar ve Başvuru için](http://yarinaumutol.com/1-yarinin-umutlari-yarismasi-2018/)
+[Detaylar ve Başvuru için](http://yarinaumutol.com/1-yarinin-umutlari-yarismasi-2018/){:rel="nofollow"}

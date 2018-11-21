@@ -9,4 +9,4 @@ comments: true
 
 İlki düzenlenen yarışmada son başvuru tarihi 10 Eylül 2018.
 
-[Detaylar ve Başvuru için](http://futurescienceteam.org/1-future-science-team-bilim-kurgu-oyku-yarismasi/)
+[Detaylar ve Başvuru için](http://futurescienceteam.org/1-future-science-team-bilim-kurgu-oyku-yarismasi/){:rel="nofollow"}
