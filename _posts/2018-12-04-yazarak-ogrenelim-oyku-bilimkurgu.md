@@ -8,7 +8,7 @@ comments: true
 ---
 
 Son Başvuru Tarihi: 28 Aralık 2018. 
-8. sınıf Fen Bilimleri dersi kavramlarının geçtiği bilimkurgu türü öykü yazmak
+Sekizinci sınıf Fen Bilimleri dersi kavramlarının geçtiği bilimkurgu türü öykü yazmak
 Her öğrenci istediği kadar öyküyle yarışmaya katılabilir.
 Dereceye giren öykülerin İlçe Milli Eğitim Müdürlüğü´ne ait ilgili web sayfasında ve okul web sayfasında yayımlanması için gerekli olan onay belgesi öğrenci velisi tarafından imzalanmlalıdır.
 Minimal öykü yarışması sınuçları 11 Ocak 2019 tarihinde açıklanacaktır.
