@@ -10,4 +10,4 @@ comments: true
 Son Başvuru Tarihi: 14 Şubat Aralık 2019. 
 Tema: Barış
 
-[Detaylar ve Başvuru için](http://elazig1.ebs.org.tr/manset/1931/mehmet-akif-inan-anisina-duzenledigimiz--egitim-kultur-ve-genclik--konulu-siir-yarismasi-){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://yegitek.meb.gov.tr/meb_iys_dosyalar/2018_12/10152028_1918.pdf){:rel="nofollow"}
