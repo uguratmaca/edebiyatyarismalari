@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Kitap Okumu Ve Yazı Yazma Makale Yarışması"
-description: "kitap okumu ve yazı yazma makale yarışması, kitap okuma"
+title: "Kitap Okuma Ve Yazı Yazma Makale Yarışması"
+description: "kitap okuma ve yazı yazma makale yarışması"
 category: articles
-tags: [baskent ankara, anadolu konfederasyonu, kitap okumu, yazi yazma, makale yarismasi, kitap okuma]
+tags: [baskent ankara, anadolu konfederasyonu, yazi yazma, makale yarismasi, kitap okuma]
 comments: true
 ---
 
