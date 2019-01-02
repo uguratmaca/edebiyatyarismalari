@@ -3,7 +3,7 @@ layout: post
 title: "Yunus Nadi Öykü Yarışması"
 description: "yunus nadi öykü yarışması 2019"
 category: articles
-tags: [yunus nadi, cumhuriye, oyku yarismasi, hikaye yarismasi]
+tags: [yunus nadi, cumhuriyet, oyku yarismasi, hikaye yarismasi]
 comments: true
 ---
 
