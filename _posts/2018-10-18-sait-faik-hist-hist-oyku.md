@@ -12,4 +12,4 @@ Son Başvuru Tarihi: 8 Şubat 2019. Toplam para ödülü 3500 TL
 
 14. Düzenlenen Hişt Hişt Genç Sait Faik Öykü Yarışması Özel Darüşşafaka Lisesi Tarafından Düzenlenmektedir. Eserlerin Ön Eleme Tarihi 11 Şubat 2019 İle 8 Mart 2019 Tarihileri Arasında Belirlenecek. Yarışma Sonuçları Ve Ödül Töreni 24 Nisan 2019 Tarihinde Yapılacak.
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/2018-hist-hist-genc-sait-faik-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}
+[Detaylar ve Başvuru için](https://www.guncel-egitim.org/2018-hist-hist-genc-sait-faik-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}

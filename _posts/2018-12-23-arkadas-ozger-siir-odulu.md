@@ -10,4 +10,4 @@ comments: true
 Son Başvuru Tarihi: 15 Mart 2019.
 Konu: Bir Şiiri İnceleme
 
-[Detaylar ve Başvuru için](https://karmaturkiye.com/arkadas-z-ozger-siir-odulu-2019-basvurulari-basladi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}
+[Detaylar ve Başvuru için](https://karmaturkiye.com/arkadas-z-ozger-siir-odulu-2019-basvurulari-basladi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}

@@ -12,4 +12,4 @@ Yokluk, imkânsızlık ve her türlü sıkıntıya rağmen milleti esaretin sın
 
 Türk Eğitim-Sen Genel Merkezi tarafından şanlı tarihimizin ve binlerce yıllık köklü geçmişimizin birikimlerinden oluşan kültürel değerlerimizin doğru bir şekilde öğretilmesi ve gelecek kuşaklara aktarılması amacıyla, Gazi Mustafa Kemal Atatürk’ün Samsun’a çıkışı ve Türk Millî Mücadelesinin 100. yılı vesilesiyle makale yazma yarışması düzenlenmiştir.
 
-[Detaylar ve Başvuru için](https://www.turkegitimsen.org.tr/icerik_goster.php?Id=12811&utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}
+[Detaylar ve Başvuru için](https://www.turkegitimsen.org.tr/icerik_goster.php?Id=12811&utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}

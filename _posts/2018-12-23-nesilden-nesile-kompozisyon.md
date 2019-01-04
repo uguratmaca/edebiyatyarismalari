@@ -9,4 +9,4 @@ comments: true
 
 Son Başvuru Tarihi: 22 Şubat 2019.
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/nesilden-nesile-18-mart-canakkale-zaferi-kompozisyon-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}
+[Detaylar ve Başvuru için](https://www.guncel-egitim.org/nesilden-nesile-18-mart-canakkale-zaferi-kompozisyon-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}

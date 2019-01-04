@@ -26,4 +26,4 @@ Karakese köylüleri yola barikat kurar ve Fransızları beklerler. Fransızlar 
 Mehmet Kara ve arkadaşları Kara Hasan Paşa, Kuvayi Milliye çetesine katılırlar. Üç yıl Fransız ve Ermenilerle yapılan mücadele sonunda 9 Ocak 1922 ‘ de Dörtyol’ u Fransızlardan kurtarırlar.
 T.C. Genelkurmay Başkanlığı tarafından da tasdik edilen Milli Mücadelenin İlk Kurşununun Dörtyol’ da atılışının(19 Aralık 1918 – 19 Aralık 2018 ) 100. Yılı dolayısıyla “ İlk Kurşun Şiir ve Makale “ yarışması düzenlenecektir.
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/mili-mucadelede-ilk-kursun-konulu-siir-ve-makale-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}
+[Detaylar ve Başvuru için](https://www.guncel-egitim.org/mili-mucadelede-ilk-kursun-konulu-siir-ve-makale-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}

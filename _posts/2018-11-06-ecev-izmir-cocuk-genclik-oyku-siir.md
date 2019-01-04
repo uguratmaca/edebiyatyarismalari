@@ -15,4 +15,4 @@ ortaokul ve liseli gençleri bir yarışma heyecanına ortak etmek,
 Gençlere, dilimiz ve yazınımız (edebiyatımız) üzerine düşünme ve yazma yolculuğuna
 çıkma olanağı vermek
 
-[Detaylar ve Başvuru için](http://www.ecev.org.tr/dosyalar/EC%CC%A7EV_O%CC%88yku%CC%88_-_S%CC%A7iir_Yaris%CC%A7masi.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://www.ecev.org.tr/dosyalar/EC%CC%A7EV_O%CC%88yku%CC%88_-_S%CC%A7iir_Yaris%CC%A7masi.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}

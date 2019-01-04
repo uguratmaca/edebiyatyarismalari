@@ -9,4 +9,4 @@ comments: true
 
 Başvuru: 31 Ocak 2019
 
-[Detaylar ve Başvuru için](http://zarifcocuk.meb.gov.tr/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://zarifcocuk.meb.gov.tr/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}

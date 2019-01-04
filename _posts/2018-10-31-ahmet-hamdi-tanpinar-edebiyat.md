@@ -15,4 +15,4 @@ genç kuşaklar arasından yeni yetenekler çıkmasına vesile olmak, edebiyatı
 kazandırmak, edebiyatımızın güzel örneklerle zenginleşmesini sağlamanın yanında. Ayrıca eserleri ile Türk
 Edebiyatının önemli isimlerinden biri olan Ahmet Hamdi TANPINAR’ı saygı ile yâd etmek…
 
-[Detaylar ve Başvuru için](http://www.kepezkultur.com/uploads/other/AHMET_HAMDI_TANPINAR_EDEBIYAT_YARISMASI_2018.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://www.kepezkultur.com/uploads/other/AHMET_HAMDI_TANPINAR_EDEBIYAT_YARISMASI_2018.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
