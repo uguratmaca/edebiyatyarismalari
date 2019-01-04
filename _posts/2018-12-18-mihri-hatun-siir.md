@@ -10,4 +10,4 @@ comments: true
 Son Başvuru Tarihi: 2 Nisan 2019.  Toplam Ödül: 14 Bin TLdir.
 Konu: Serbest
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/amasya-belediyesi-mihri-hatun-siir-yarismasi/){:rel="nofollow"}
+[Detaylar ve Başvuru için](https://www.guncel-egitim.org/amasya-belediyesi-mihri-hatun-siir-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

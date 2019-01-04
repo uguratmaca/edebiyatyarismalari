@@ -15,4 +15,4 @@ Hikaye konusu "Serbest"dir.
 En çok 2 hikaye ile katılmanın mümkün olduğu yarışmada, hikayeler on bin kelimeyi geçmemelidir.
 
 
-[Detaylar ve Başvuru için](http://yarisma.umraniye.bel.tr/sartname-hikaye-2.html){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://yarisma.umraniye.bel.tr/sartname-hikaye-2.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

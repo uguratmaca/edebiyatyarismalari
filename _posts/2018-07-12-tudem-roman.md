@@ -9,4 +9,4 @@ comments: true
 
 Son katılım Tarihi: 2 Kasım 2018
 
-[Detaylar ve Başvuru için](https://www.tudem.com/tudem-edebiyat-odulleri/1020/2018-roman_yarismasi.aspx){:rel="nofollow"}
+[Detaylar ve Başvuru için](https://www.tudem.com/tudem-edebiyat-odulleri/1020/2018-roman_yarismasi.aspx?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

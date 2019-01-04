@@ -14,4 +14,4 @@ Birinciye 1.250 Türk Lirası Ve Dizüstü Bilgisayar Artı Yarışmaya Katılı
 İkinciye Dizüstü Bilgisayar Ve 1.000 Türk Lirası Artı Yarışma Katılım Plaketi
 Üçüncüye 750 Türk Lirası Ve Dizüstü Bilgisayar Artı Yarışmaya Katılım Plaketi
 
-[Detaylar ve Başvuru için](http://www.cocuketkinlikcanavari.com/?p=2166){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://www.cocuketkinlikcanavari.com/?p=2166&utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

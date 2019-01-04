@@ -10,4 +10,4 @@ comments: true
 Başvuru: 11-29 Mart 2019. Toplam ödül: 20 Bin TL.
 Konu: Yunus Emre ve Tasavvuf
 
-[Detaylar ve Başvuru için](https://www.karaman.bel.tr/HaberDetay.aspx?HaberId=4503){:rel="nofollow"}
+[Detaylar ve Başvuru için](https://www.karaman.bel.tr/HaberDetay.aspx?HaberId=4503&utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

@@ -9,4 +9,4 @@ comments: true
 
 Son başvuru tarihi 25 Eylül 2018.
 
-[Detaylar ve Başvuru için](http://gio.fabisad.com/#oykugio){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://gio.fabisad.com/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate#oykugio){:rel="nofollow"}

@@ -12,4 +12,4 @@ AMAÇ: ”Herkesin bir öyküsü vardır” sloganı ve edebiyatın bütünleşt
 olan ilgisini artırmak amacıyla “Sarıyer Belediyesi Fakir Baykurt Öykü Yarışması” düzenlenmiştir.
 
 
-[Detaylar ve Başvuru için](http://www.edebiyathaber.net/fakir-baykurt-oyku-yarismasina-basvurular-basladi/){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://www.edebiyathaber.net/fakir-baykurt-oyku-yarismasina-basvurular-basladi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

@@ -15,4 +15,4 @@ Yarışmaya katılacak şiirlerin daha önce hiçbir yarışmada ödül almamı�
 Bir şair, yarışmaya en fazla iki şiir ile katılabilir.
 
 
-[Detaylar ve Başvuru için](http://yarisma.umraniye.bel.tr/sartname-siir-1.html){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://yarisma.umraniye.bel.tr/sartname-siir-1.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

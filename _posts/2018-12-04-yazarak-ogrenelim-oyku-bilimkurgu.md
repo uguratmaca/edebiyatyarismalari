@@ -15,4 +15,4 @@ Minimal öykü yarışması sınuçları 11 Ocak 2019 tarihinde açıklanacaktı
 Ödül olarak birinci olan yarışmacıya 10 edebi eser ve plaket, ikinci olan yarışmacıya 5 edebi eser ve plaket, üçüncü olan yarışmacıya 3 edebi eser ve plaket verilecektir.
 Ayrıca yarışmaya katılan tüm öyküler biraraya getirirlip okul kütüphanesinde yer alacaktır.
 
-[Detaylar ve Başvuru için](http://refetbele.meb.k12.tr/icerikler/yazarak-ogrenelim-projesi-quotoyku-yarismasiquot-basvurusu-basladi_5775201.html){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://refetbele.meb.k12.tr/icerikler/yazarak-ogrenelim-projesi-quotoyku-yarismasiquot-basvurusu-basladi_5775201.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

@@ -15,4 +15,4 @@ Başvurular iki kategori halinde yapılabilir:
 Aynı Gökyüzü Altında: Bu kategoriye gönderilecek hikayeler astronominin insanları bir araya getirme potansiyelini göstermeli.
 İlham Veren Yıldızlar: Bu kategoriye gönderilecek hikayeler astronominin eşitlik, kapsayıcılık ve çeşitlilikteki rolünü vurgulamalı.
 
-[Detaylar ve Başvuru için](http://iau100.tad.org.tr/ayni-gokyuzu-altinda-konulu-kisa-hikaye-yarismasi/){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://iau100.tad.org.tr/ayni-gokyuzu-altinda-konulu-kisa-hikaye-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

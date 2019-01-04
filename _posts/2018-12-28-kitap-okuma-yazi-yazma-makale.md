@@ -10,4 +10,4 @@ comments: true
 Başvuru: 15 Ocak-15 Nisan 2019. Toplam ödül: 10 Bin TL.
 Konu: Kitap Okuma Ve Yazı Yazmanın Yaygınlaştırılması
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/kitap-okumu-ve-yazi-yazma-makale-yarismasi/){:rel="nofollow"}
+[Detaylar ve Başvuru için](https://www.guncel-egitim.org/kitap-okumu-ve-yazi-yazma-makale-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

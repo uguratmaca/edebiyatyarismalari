@@ -11,14 +11,14 @@ Başvuru: 20 Ocak 2019
 Konu: Zeytin ve zeytinyağı size ne çağrıştırıyor
 Yarışma şiir ve öykü olarak 2 kategori olmakla birlikte her kategori 3 ayrı grupta
 değerlendirilecektir.
-1. Grup orta öğretimler,
-    1. Kategori: Şiir
-    2. Kategori: Öykü
-2. Grup yüksek öğretimler,
-    1. Kategori: Şiir
-    2. Kategori: Öykü
-3. Grup serbest başvurular,
-    1. Kategori: Şiir
-    2. Kategori: Öykü
+- Grup orta öğretimler,
+    - Kategori: Şiir
+    - Kategori: Öykü
+- Grup yüksek öğretimler,
+    - Kategori: Şiir
+    - Kategori: Öykü
+- Grup serbest başvurular,
+    - Kategori: Şiir
+    - Kategori: Öykü
 
-[Detaylar ve Başvuru için](http://zeytindostu.org.tr/wp-content/uploads/2018/01/3.Edebiyat-Yar%C4%B1%C5%9Fmas%C4%B1-%C5%9Eartname.pdf){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://zeytindostu.org.tr/wp-content/uploads/2018/01/3.Edebiyat-Yar%C4%B1%C5%9Fmas%C4%B1-%C5%9Eartname.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

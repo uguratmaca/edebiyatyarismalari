@@ -10,4 +10,4 @@ comments: true
 Son Başvuru Tarihi: 24 Şubat 2019.
 Konu: Bi' haber ve aileden
 
-[Detaylar ve Başvuru için](https://twitter.com/gunisigiorg/status/1075757961253937152){:rel="nofollow"}
+[Detaylar ve Başvuru için](https://twitter.com/gunisigiorg/status/1075757961253937152?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

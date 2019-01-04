@@ -12,4 +12,4 @@ Son Başvuru Tarihi: 25 Ocak 2018.
 yıldönümüne ilişkin günün anlam ve önemini belirten resim, şiir ve kompozisyon dallarında yarışma
 düzenlenmesi.
 
-[Detaylar ve Başvuru için](http://sehitenginekerortaokulu.meb.k12.tr/meb_iys_dosyalar/17/06/717471/dosyalar/2018_11/13230515_YANAKKALE_RESYM_YYYR_KOMP.pdf){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://sehitenginekerortaokulu.meb.k12.tr/meb_iys_dosyalar/17/06/717471/dosyalar/2018_11/13230515_YANAKKALE_RESYM_YYYR_KOMP.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

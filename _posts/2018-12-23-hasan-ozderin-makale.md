@@ -10,4 +10,4 @@ comments: true
 Son Başvuru Tarihi: 15 Temmuz 2019. Toplam Ödül: 10 Bin Tldir.
 Konu: Alternatif Uyuşmazlık Çözüm Yöntemleri
 
-[Detaylar ve Başvuru için](http://makaleyarismasi.akdeniz.edu.tr/tr){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://makaleyarismasi.akdeniz.edu.tr/tr?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

@@ -10,4 +10,4 @@ comments: true
 Son Başvuru Tarihi: 18 Ocak 2019.
 Yarışmaya Her Aday Tek Dalda Katılabilecek. Masallar En Fazla 3 Sayfa, Öyküler En Fazla 5 Sayfa, Şiirlerde Sayfa Sınırlaması Yoktur.
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/ozel-rota-koleji-masal-oyku-siir-yarismasi/){:rel="nofollow"}
+[Detaylar ve Başvuru için](https://www.guncel-egitim.org/ozel-rota-koleji-masal-oyku-siir-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

@@ -12,4 +12,4 @@ Yarışma Konusu: Kurtuluş Mücadelesine Giden Yolda Erzurum Kongresinin Önemi
 Yarışma Sonuçları 26-28 Şubat 2019 Tarihleri Arasında Açıklanacak.
 Her Katılımcı Yarışmaya Bir Adet Kompozisyon İle Katılabilir.
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/erzurum-kongresinin-onemi-kompozisyon-yarismasi/){:rel="nofollow"}
+[Detaylar ve Başvuru için](https://www.guncel-egitim.org/erzurum-kongresinin-onemi-kompozisyon-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

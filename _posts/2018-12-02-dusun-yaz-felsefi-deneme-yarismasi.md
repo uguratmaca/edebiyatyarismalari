@@ -12,4 +12,4 @@ Birinci Adım 11 Ocak 2019
 İkinci Adım 15 Mart 2019
 Final Yarışması 25 Mayıs 2019
 
-[Detaylar ve Başvuru için](http://www.dusunyaz.com/){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://www.dusunyaz.com/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}

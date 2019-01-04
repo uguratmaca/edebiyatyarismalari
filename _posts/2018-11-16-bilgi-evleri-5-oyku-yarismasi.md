@@ -14,4 +14,4 @@ Gençlerle Baş Başa Sohbetleri, Kitap Okuma Saatleri, Kitap Okuma Yarışması
 
 Konusu serbest olan öykü yarışmasında, yarışmaya girecek öykülerin daha önce yayımlanmamış, başka bir yarışmaya veya herhangi bir yayınevine gönderilmemiş olması gerekiyor. Öykü yarışması 6, 7 ve 8. sınıf öğrencileri (1. Grup), lise öğrencileri (2.Grup), üniversite öğrencileri ve yetişkinler (3. Grup) olmak üzere üç farklı grupta gerçekleştirilecek. Yarışmaya gönderilecek olan eserlerin 9 Ocak 2019 Çarşamba günü saat 17.00’ye kadar Bilgi Evlerine teslim edilmesi gerekiyor. Yarışmacıların en fazla iki eserle katılabilecekleri öykü yarışmasının jüri başkanlığını Prof. Dr. M. Fatih Andı yapacak. Jüride Cemal Şakar, Sedat Demir, Aykut Ertuğrul, Güray Süngü, Handan Acar Yıldız ve Burcu Bayer ve edebiyat dünyamızın kıymetli yazarlarından oluşan bir kurul yer alıyor.
 
-[Detaylar ve Başvuru için](http://www.bilgievi.org.tr/Haberler/2498/Bilgi-Evleri-5-Oyku-Yarismasi-Basliyor.aspx){:rel="nofollow"}
+[Detaylar ve Başvuru için](http://www.bilgievi.org.tr/Haberler/2498/Bilgi-Evleri-5-Oyku-Yarismasi-Basliyor.aspx?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}
