@@ -29,11 +29,6 @@ Son başvuru tarihleri Ocak ayı olan öykü, hikaye yarışmaları aşağıdad�
 [Özel Rota Koleji Masal Öykü Şiir Yarışması](https://www.guncel-egitim.org/ozel-rota-koleji-masal-oyku-siir-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
 
 
-18 Ocak 2019
-
-[Enerji Bakanlığı 2018 Resim Ve Öykü Yarışması](http://www.cocuketkinlikcanavari.com/enerji-bakanligi-2018-resim-ve-oyku-yarismasi-son-katilim-18-ocak-2019/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
-
-
 20 Ocak 2019
 
 [3. Kültürümüzde Zeytin Edebiyatı Yarışması Zeytindostu Zeytin Kültürüne Dokunuyor](http://zeytindostu.org.tr/wp-content/uploads/2018/01/3.Edebiyat-Yar%C4%B1%C5%9Fmas%C4%B1-%C5%9Eartname.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}

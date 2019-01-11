@@ -15,3 +15,5 @@ Birinciye 1.250 Türk Lirası Ve Dizüstü Bilgisayar Artı Yarışmaya Katılı
 Üçüncüye 750 Türk Lirası Ve Dizüstü Bilgisayar Artı Yarışmaya Katılım Plaketi
 
 [Detaylar ve Başvuru için](http://www.cocuketkinlikcanavari.com/?p=2166&utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+
+[Kazananlar](https://www.enerjiportali.com/enerji-verimliligi-konulu-resim-ve-oyku-yarismasinin-kazanlari-belli-oldu/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}

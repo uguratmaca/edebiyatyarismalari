@@ -1,4 +1,5 @@
 name: Edebiyat Yarışmaları
+title: Edebiyat Yarışmaları
 description: >
     2019, 2020 yılında düzenlenen hikaye, öykü, mikro öykü, kısa öykü, roman, şiir, deneme, makale, masal, kompozisyon para ödüllü edebiyat yarışmaları tek adresten takip edebilirsiniz
 about: >
@@ -10,6 +11,8 @@ highlighter: rouge
 plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed', 'jekyll-sitemap']
 
 paginate: 10
+
+
 
 logo: logo.png
 
