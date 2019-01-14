@@ -10,4 +10,4 @@ comments: true
 Başvuru: 22 Şubat 2019 . Toplam para ödülü: 10 Bin 500 TL'dir.
 Yarışma Konusu: Kitap ve İnsan
 
-[Detaylar ve Başvuru için](http://www.cemcemii.com/ilim-ve-fazilet-vakfi-egitim-kurumlari-sefer-eksi-8-kultur-ve-sanat-odulleri/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://banazkizilhisaroo.meb.k12.tr/icerikler/kitap-ve-insan-konulu-oyku-yarismasi_5808407.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}

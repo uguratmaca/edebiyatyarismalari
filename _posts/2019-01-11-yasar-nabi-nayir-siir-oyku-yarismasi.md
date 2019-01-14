@@ -20,4 +20,4 @@ Dosyalar iade edilmez.
 Yarışma sonuçları Temmuz sayımızda açıklanacaktır.
 Ödüle değer görülen dosyalar Varlık Yayınları’nca kitap olarak yayımlanacaktır
 
-[Detaylar ve Başvuru için](http://www.cemcemii.com/yasar-nabi-nayir-genclik-odulleri-basvurulari-acildi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://varlikyayinlari.wordpress.com/2019/01/07/2019-yasar-nabi-nayir-genclik-odullerine-basvurular-basladi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
