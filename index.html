@@ -5,8 +5,7 @@ title: Edebiyat Yarışmaları, Öykü, Şiir, Masal, Roman
 <div class="listing">
   {% for post in paginator.posts %}
   <div class="post other link">
-    <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
-    {{ post.excerpt }}
+    <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2> {{ post.excerpt }}
   </div>
   {% endfor %}
 </div>

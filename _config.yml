@@ -5,16 +5,9 @@ about: Elimden geldiğince ülkemizde düzenlenen öykü yarışmalarını topla
 master_repo: false
 markdown: kramdown
 highlighter: rouge
-
 plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed', 'jekyll-sitemap']
-
 paginate: 10
-
-
-
 logo: logo.png
-
-rtl: false
 owner:
   name: Uğur Atmaca
   email: "info@uguratmaca.com"
