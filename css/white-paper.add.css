@@ -622,7 +622,7 @@ code.html span.doctype {
   }
 }
 
-@media only screen and (min-width: 720px) {
+@media only screen and (min-width: 960px) {
   .add-button {
     width: 30%;
     float: left;
