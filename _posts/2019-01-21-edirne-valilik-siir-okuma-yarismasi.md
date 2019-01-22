@@ -3,7 +3,7 @@ layout: post
 title: "Şiir Okuma Yarışması"
 description: "siir okuma yarismasi"
 category: articles
-tags: [omer asim aksoy odulu, dil dernegi,]
+tags: [siir okuma yarismasi, vatan, edirne valilik]
 comments: true
 ---
 
