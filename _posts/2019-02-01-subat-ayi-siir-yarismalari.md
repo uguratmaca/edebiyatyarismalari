@@ -46,7 +46,7 @@ Son başvuru tarihleri Şubat ayı 2019 olan şiir yarışmalarına aşağıdaki
 
 21 Şubat 2019
 
-[Aile Konulu Şiir ve Hikaye Yarışması](https://edebiyatyarismalari.com/articles/2018/12/23/aile-konulu-siir-hikaye-yarismasi.html){:rel="nofollow"}{:target="_blank"}
+[Aile Konulu Şiir ve Hikaye Yarışması](https://twitter.com/gunisigiorg/status/1075757961253937152?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
 
 
 22 Şubat 2019
