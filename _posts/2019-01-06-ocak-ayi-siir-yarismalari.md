@@ -7,7 +7,7 @@ tags: [edebiyat yarismalari, şiir yarismalari, ocak 2019]
 comments: true
 ---
 
-Son başvuru tarihleri Ocak ayı olan öykü, hikaye yarışmaları aşağıdadır.
+Son başvuru tarihleri Ocak ayı olan şiir yarışmaları aşağıdadır.
 
 11 Ocak 2019
 
