@@ -3,7 +3,7 @@ layout: post
 title: "Nakıyye Elgün Öykü ve Şiir Yarışması"
 description: "nakıyye elgün öykü ve şiir yarışması"
 category: articles
-tags: [isik ortaokulu, nakiyye elgun, oyku yarismasi, siir yarismasi, feyziye mektepleri vakfi]
+tags: [isik ortaokulu, nakiyye elgun, oyku yarismasi, siir yarismasi, fevziye mektepleri vakfi]
 comments: true
 ---
 
