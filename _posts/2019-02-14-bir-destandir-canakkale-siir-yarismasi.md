@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "Bursa'ya Mektuplar Yarışması"
-description: "bursa, mektup yarışması, para ödüllü yarışmalar, nilüfer belediyesi"
+title: "Bir Destandır Çanakkale Resim ve Şiir Yarışması"
+description: "ankara, şiir yarışması, resim yarışması, ödüllü yarışma"
 category: articles
-tags: [edebiyat yarismalari, 2019, edebiyat yarismasi, mektup yarismasi, nilufer belediyesi, bursa]
+tags: [edebiyat yarismalari, 2019, edebiyat yarismasi, odullu yarisma, ankara, siir yarismasi, resim yarismasi]
 comments: true
 ---
 
-Başvuru: 8 Mart 2019 . Toplam para ödülü: 4250 TL'dir.
-Yarışmanın Amacı: Köklü tarihi ve doğal güzellikleriyle tüm zamanların güzel şehri Bursamıza dair farkındalığı, unutulmaya yüz tutmuş bir yazın türü olan mektup aracılığıyla sağlamak.
-Başvuru yapan tüm mektupseverlere Nilüfer Belediyesi’nin yayımladığı Bursa Şiirleri/ Nahit Kayabaşı’nın kitabı armağan edilecektir.
+Başvuru: 8 Mart 2019 
+Konu: Bir Destandır Çanakkale
+Ödüller: 
+Yarışmamızda ilk 10 öğrenciye ödül verilecektir, ilk 3‘e giren öğrencilerin öğretmenlerine de plaket takdim edilecektir.
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/bursaya-mektuplar-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+Ödüller:
+1 – 3.Tablet
+4 – 6. Gram Altın
+7 -10. Kol Saati
+
+[Detaylar ve Başvuru için](https://www.bilimsenligi.com/bir-destandir-canakkale-ankara-geneli-ortaokul-ogrencileri-arasi-resim-ve-siir-yarismasi.html/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
