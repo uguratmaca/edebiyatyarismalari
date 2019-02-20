@@ -1,5 +1,5 @@
 {% if paginator %}
-<div class="pagination">
+<div>
   {% if site.owner.linkedin %}
   <a href="{{ site.owner.linkedin }}" class="social-media-icons" rel="nofollow">
     <i class="fa fa-2x fa-linkedin-square" aria-hidden="true"></i>
@@ -16,39 +16,27 @@
   <a href="{{ site.owner.github }}" class="social-media-icons" rel="nofollow">
     <i class="fa fa-2x fa-github-square" aria-hidden="true"></i>
   </a>
-  {% endif %} {% if paginator.next_page %}
-  <a href="{{site.url}}/page{{paginator.next_page}}" class="older">
-    <span class="mega-octicon octicon-playback-{% if site.rtl %}fast-forward{% else %}rewind{% endif %}" style="min-width: 32px;"></span>
-  </a>
-  {% else %}
-  <span class="next">
-    <span class="mega-octicon octicon-playback-{% if site.rtl %}fast-forward{% else %}rewind{% endif %}" style="min-width: 32px;"></span>
-  </span>
-  {% endif %} {% if paginator.previous_page %} {% if paginator.page == 2 %}
-  <a href="{{site.url}}/" class="newer">
-    <span class="mega-octicon octicon-playback-{% if site.rtl %}rewind{% else %}fast-forward{% endif %}" style="min-width: 32px;"></span>
-  </a>
-  {% else %}
-  <a href="{{site.url}}/page{{paginator.previous_page}}" class="newer">
-    <span class="mega-octicon octicon-playback-{% if site.rtl %}rewind{% else %}fast-forward{% endif %}" style="min-width: 32px;"></span>
-  </a>
-  {% endif %} {% else %}
-  <span class="previous">
-    <span class="mega-octicon octicon-playback-{% if site.rtl %}rewind{% else %}fast-forward{% endif %}" style="min-width: 32px;"></span>
-  </span>
   {% endif %}
+
+  <ul class="pagination">
+
+    {% if paginator.previous_page %} {% if paginator.page == 2 %}
+    <li class="page-item"><a class="page-link" href="{{site.url}}/">Önceki Sayfa</a></li>
+    {% else %}
+    <li class="page-item"><a class="page-link" href="{{site.url}}/page{{paginator.previous_page}}/">Önceki Sayfa</a>
+    </li>
+    {% endif %}
+    {% endif %}
+
+    {% if paginator.next_page %}
+    <li class="page-item"><a class="page-link" href="{{site.url}}/page{{paginator.next_page}}">Sonraki Sayfa</a></li>
+    {% endif %}
+
+
+  </ul>
 </div>
 {% endif %}
-<div class="add-button">
-  <a href='https://play.google.com/store/apps/details?id=com.ballkayaadventures.coon&hl=tr&utm_source=edebiyatyarismalari.com&utm_medium=affiliate'>
-    <img class="add-button-img" alt='Get it on Google Play' src="{{ '/images/play-store.png' | relative_url }}" />
-  </a>
-</div>
-<div class="add-button">
-  <a href='https://itunes.apple.com/tr/app/hayvanat-bah%C3%A7esi-maceras%C4%B1/id1251701932?l=tr&mt=8&utm_source=edebiyatyarismalari.com&utm_medium=affiliate'>
-    <img class="add-button-img" alt='Get it on App Store' src="{{ '/images/app-store.png' | relative_url }}" />
-  </a>
-</div>
+
 <script>
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', '{{site.google_analytics}}']);

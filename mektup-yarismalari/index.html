@@ -2,11 +2,24 @@
 layout: default
 title: Mektup Yarışmaları
 ---
-
-{% for post in site.posts %}
+<div style="padding: 3%;">
+	{% for post in site.posts %}
 	{% if post.tags contains 'mektup yarışması'  %}
-		<div class="post other link">
-			<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2> {{ post.excerpt }}
-		</div>
+	<div>
+		<h3><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h3>
+		{% if post.dateHuman %}
+		<h4>Son başvuru tarihi {{post.dateHuman}}</h4>
+		{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+		{% assign nowDateInt = nowunix | plus: 0 %}
+		{% if post.lastDate > nowDateInt %}
+		<span style="color:green;">Başvuru devam ediyor...</span>
+		{% else %}
+		<span style="color:red;">Başvuru bitti!</span>
+		{% endif %}
+		{% endif %}
+		{{ post.excerpt }}
+	</div>
+	<hr>
 	{% endif %}
-{% endfor %}
+	{% endfor %}
+</div>
