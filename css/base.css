@@ -324,10 +324,6 @@ p.intro a {
   color: #55acee;
 }
 
-h1 {
-  margin-left: 20px;
-}
-
 h1.words {
   color: #DB2C17;
 }
@@ -349,13 +345,11 @@ h1.link .desc {
 }
 
 h2 {
-  margin: 2.0em 0 -0.5em 0;
   font-size: 20px;
   color: #000;
 }
 
 h3 {
-  margin: 2.0em 0 -0.75em 0;
   font-size: 17px;
   color: #333;
 }

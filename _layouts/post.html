@@ -2,16 +2,28 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
+{% if page.dateHuman %}
+  <h2>Son başvuru tarihi {{page.dateHuman}}</h2>
+  {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+  {% assign nowDateInt = nowunix | plus: 0 %}
+  {% if page.lastDate > nowDateInt %}
+    <span style="color:green;">Başvuru devam ediyor...</span>
+  {% else %}
+    <span style="color:red;">Başvuru bitti!</span>
+  {% endif %}
+{% endif %}
+{% if page.price %}
+  <h3>Toplam para ödülü {{page.price}}</h3>
+{% endif %}
+
+
+
+
+<br>
 <div class="post">
 {{ content }}
 </div>
-{% if site.owner.twitter %}
-    <div class="keep-in-touch">
-      <p>
-        Tweet me <a href="https://twitter.com/{{site.owner.twitter}}" rel="nofollow">@{{ site.owner.twitter }}</a> if you like this post.
-      </p>
-    </div>
-{% endif %}
+
 <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.owner.twitter }}" data-size="large" data-hashtags="{{site.name}}">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 {% if site.disqus_shortname %}
