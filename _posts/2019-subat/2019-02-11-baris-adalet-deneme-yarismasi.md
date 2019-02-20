@@ -5,10 +5,11 @@ description: "deneme yarışması, aliya izzetbegoviç anısına"
 category: articles
 tags: [nisan 2019, deneme yarışması]
 comments: true
+lastDate: 1555016400
+dateHuman: "12 Nisan 2019"
+comTopic: "Küresel Barış ve Adalet"
 ---
 
-Başvuru: 12 Nisan 2019 . 
-Konu: “Küresel Barış ve Adalet”tir.
 Yarışma Ödülleri
 Birinci, İkinci Ve Üçüncüye Bosna Hersek Seyahati Ve Pc
 İlk 10 Kişiye Bosna Hersek Seyahati

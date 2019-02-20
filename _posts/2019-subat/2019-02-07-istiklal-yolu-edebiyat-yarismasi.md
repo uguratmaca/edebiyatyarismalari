@@ -5,9 +5,11 @@ description: "yaşanmış hatıralar, kurgu hikayeler, şiir yarışması, hikay
 category: articles
 tags: [şiir yarışması, hikaye yarışması, mart 2019]
 comments: true
+lastDate: 1554066000
+dateHuman: "1 Mart 2019"
+price: "15 Bin 750 TL'dir."
 ---
 
-Başvuru: 1 Mart 2019 . Toplam para ödülü 15 Bin 750 TL'dir.
 Konu:
 Türk Milleti Milli Mücadeleyi cephe ve cephe gerisinde iki orduyla AİLECE yapmıştı. Cephede kazanılan destansı zafere cephe gerisindeki karınca ordusu da ortak olmuştu.  Karınca Ordusunun ağır adımlara yaptığı bu büyük yürüyüş, Türk Milletini istiklale ve istikbale taşıdı.
 
