@@ -15,11 +15,10 @@ layout: default
 {% if page.price %}
   <h3>Toplam para ödülü {{page.price}}</h3>
 {% endif %}
+{% if page.comTopic %}
+  <h3>Konu: {{page.comTopic}}</h3>
+{% endif %}
 
-
-
-
-<br>
 <div class="post">
 {{ content }}
 </div>

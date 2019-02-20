@@ -1,0 +1,12 @@
+---
+layout: default
+title: Hikaye Yarışmaları
+---
+
+{% for post in site.posts %}
+	{% if post.tags contains 'hikaye yarışması'  %}
+		<div class="post other link">
+			<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2> {{ post.excerpt }}
+		</div>
+	{% endif %}
+{% endfor %}
