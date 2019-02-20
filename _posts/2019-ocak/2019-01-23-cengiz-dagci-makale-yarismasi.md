@@ -3,7 +3,7 @@ layout: post
 title: "Cengiz Dağcı Makale Yarışması"
 description: "cengiz dağcı konulu makale yarışması"
 category: articles
-tags: [cengiz dagci, makale yarismasi, turk ocaklari, bursa subesi, kirim tatar]
+tags: [makale yarışması, nisan 2019]
 comments: true
 ---
 

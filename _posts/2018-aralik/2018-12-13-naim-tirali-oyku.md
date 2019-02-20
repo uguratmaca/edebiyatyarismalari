@@ -7,7 +7,7 @@ tags: []
 comments: true
 ---
 
-Son Başvuru Tarihi: 14 Şubat Aralık 2019. 
+Son Başvuru Tarihi: 14 Şubat 2019. 
 Tema: Barış
 
 [Detaylar ve Başvuru için](http://yegitek.meb.gov.tr/meb_iys_dosyalar/2018_12/10152028_1918.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}

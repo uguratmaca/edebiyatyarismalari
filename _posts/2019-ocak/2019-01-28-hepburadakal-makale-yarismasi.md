@@ -3,7 +3,7 @@ layout: post
 title: "Makale Yarışması"
 description: "hepburadakal makale yarışması"
 category: articles
-tags: [makale yarismasi, hepburadakal]
+tags: [makale yarışması, nisan 2019]
 comments: true
 ---
 

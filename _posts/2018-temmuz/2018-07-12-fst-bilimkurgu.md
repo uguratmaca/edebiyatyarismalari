@@ -3,7 +3,7 @@ layout: post
 title: "Future Science Team Öykü Yarışması"
 description: 
 category: articles
-tags: [eylül 2019, hikaye yarışması]
+tags: [eylül 2018, hikaye yarışması]
 comments: true
 ---
 

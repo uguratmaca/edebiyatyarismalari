@@ -3,7 +3,7 @@ layout: post
 title: "Aile Konulu Şiir ve Hikaye Yarışması"
 description: "günışığı derneği aile konulu şiir ve hikaye yarışması"
 category: articles
-tags: [gunisigi dernegi, aile, oyku yarismasi, hikaye yarismasi]
+tags: []
 comments: true
 ---
 

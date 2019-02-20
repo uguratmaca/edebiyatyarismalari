@@ -3,7 +3,7 @@ layout: post
 title: "Nesilden Nesile 18 Mart Çanakkale Zaferi Kompozisyon Yarışması"
 description: "çanakkale zaferi kompozisyon yarışması"
 category: articles
-tags: [yukari konak ortaokulu, nesilden nesile, 18 mart, canakkale zaferi, kompozisyon yarismasi]
+tags: []
 comments: true
 ---
 

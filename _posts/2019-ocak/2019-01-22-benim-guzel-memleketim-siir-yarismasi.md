@@ -3,7 +3,7 @@ layout: post
 title: "Benim Güzel Memleketim Şiir Yarışması"
 description: "benim güzel memleketim şiir yarışması, güney bulgaristan türkçe öğretmenleri derneği"
 category: articles
-tags: [benim guzel memleketim, siir yarismasi, guney bulgaristan turkce ogretmenleri dernegi]
+tags: []
 comments: true
 ---
 

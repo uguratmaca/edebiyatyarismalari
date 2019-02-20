@@ -3,7 +3,7 @@ layout: post
 title: "Bilgi Evi Geleneksel 15. Kitap Okuma Yarışması"
 description: "bilgi evleri, zeytinburnu belediyesi, kitap okuma yarışması"
 category: articles
-tags: [şubat 2019]
+tags: [şubat 2019, kitap okuma yarışması]
 comments: true
 ---
 

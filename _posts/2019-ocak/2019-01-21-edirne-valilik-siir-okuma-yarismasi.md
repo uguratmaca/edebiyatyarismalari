@@ -3,7 +3,7 @@ layout: post
 title: "Şiir Okuma Yarışması"
 description: "siir okuma yarismasi"
 category: articles
-tags: [siir okuma yarismasi, vatan, edirne valilik]
+tags: []
 comments: true
 ---
 

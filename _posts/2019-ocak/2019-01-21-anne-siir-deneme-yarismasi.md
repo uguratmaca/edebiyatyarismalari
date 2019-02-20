@@ -3,7 +3,7 @@ layout: post
 title: "Anne Şiir ve Deneme Yarışması"
 description: "anne siir ve deneme yarismasi"
 category: articles
-tags: [anne, siir yarismasi, deneme yarismasi, turkiye dil ve edebiyat dernegi mersin subesi]
+tags: [şiir yarışması, deneme yarışması, nisan 2019]
 comments: true
 ---
 

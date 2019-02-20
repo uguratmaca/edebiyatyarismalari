@@ -3,7 +3,7 @@ layout: post
 title: "12. Ahmet Rasim Yaşıyor Köşe Yazısı Yazma Yarışması"
 description: "12. ahmet rasim yaşıyor köşe yazısı yazma yarışması"
 category: articles
-tags: [ahmet rasim, kose yazisi, yazma yarismasi, darussafaka ortaokul]
+tags: []
 comments: true
 ---
 

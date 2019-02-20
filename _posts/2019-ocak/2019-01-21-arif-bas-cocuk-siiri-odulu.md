@@ -3,7 +3,7 @@ layout: post
 title: "Arif Baş Çocuk Şiiri Ödülü 2019"
 description: "arif baş çocuk şiiri ödülü 2019"
 category: articles
-tags: [arif bas, cocuk siiri]
+tags: [şiir yarışması, mayıs 2019]
 comments: true
 ---
 

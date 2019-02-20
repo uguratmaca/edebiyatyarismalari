@@ -3,7 +3,7 @@ layout: post
 title: "Atabiyat Dergi Şiir Yarışması"
 description: "atabiyat dergi"
 category: articles
-tags: [siir yarismas, atabiyat dergi, ikinci sayi, furkan ozdemir]
+tags: [şiir yarışması]
 comments: true
 ---
 

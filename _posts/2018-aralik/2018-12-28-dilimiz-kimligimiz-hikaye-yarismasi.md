@@ -3,11 +3,12 @@ layout: post
 title: "Dilimiz Kimliğimiz-2 Hikaye Yarışması"
 description: "karaman belediyesi dilimiz kimliğimiz hikaye yarışması"
 category: articles
-tags: [karaman belediyesi, universite, yunus emre, ve, tasavvuf, dilimiz kimligimiz, hikaye yarismasi, oyku yarismasi]
+tags: [hikaye yarışması, mart 2019]
 comments: true
+lastDate: 1553806800
+dateHuman: "29 Mart 2019"
+price: "20 Bin TL'dir."
+comTopic: "Yunus Emre ve Tasavvuf"
 ---
-
-Başvuru: 11-29 Mart 2019. Toplam ödül: 20 Bin TL.
-Konu: Yunus Emre ve Tasavvuf
 
 [Detaylar ve Başvuru için](https://www.karaman.bel.tr/HaberDetay.aspx?HaberId=4503&utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}

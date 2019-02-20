@@ -3,7 +3,7 @@ layout: post
 title: "Yukarı Konak Yankı Dergisi Öğretmenler Arası Anı Yarışması"
 description: "mardin yukarı konak anı yarışması"
 category: articles
-tags: [mardin, ani, ogretmen, yukari konak, yanki dergisi, yarisma]
+tags: []
 comments: true
 ---
 

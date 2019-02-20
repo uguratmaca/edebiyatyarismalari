@@ -3,7 +3,7 @@ layout: post
 title: "3. Hikaye Yarışması"
 description: "kayseri belediyesi, ucuncu hikaye yarismasi"
 category: articles
-tags: [hikaye yarismasi, oyku yarismasi, kayseri belediyesi]
+tags: [nisan 2019, hikaye yarışması]
 comments: true
 ---
 

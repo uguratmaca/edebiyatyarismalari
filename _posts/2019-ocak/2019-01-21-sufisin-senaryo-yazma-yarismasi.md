@@ -3,7 +3,7 @@ layout: post
 title: "Sufisin Uzun Metraj Sinema Filmi Senaryo Yarışması"
 description: "sufisin uzun metraj sinema filmi senaryo yarışması"
 category: articles
-tags: [sufisin, uzun metraj, sinema filmi, senaryo yazma yarismasi, konya il kultur ve turizm mudurlugu]
+tags: [nisan 2019, senaryo yarışması]
 comments: true
 ---
 

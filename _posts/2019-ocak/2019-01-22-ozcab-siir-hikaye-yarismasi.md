@@ -3,7 +3,7 @@ layout: post
 title: "ÖZÇAB Şiir Ve Hikaye Yarışması"
 description: "özçab şiir ve hikaye yarışması"
 category: articles
-tags: [artvin rehberlik ve arastirma merkezi, siir yarismasi, hikaye yarismasi]
+tags: [şiir yarışması, hikaye yarışması, mart 2019]
 comments: true
 ---
 

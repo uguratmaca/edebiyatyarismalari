@@ -3,7 +3,7 @@ layout: post
 title: "Ömer Asım Aksoy Ödülü"
 description: "ömer asım aksoy ödülü"
 category: articles
-tags: [omer asim aksoy odulu, dil dernegi]
+tags: [çeviri yarışması, temmuz 2019]
 comments: true
 ---
 

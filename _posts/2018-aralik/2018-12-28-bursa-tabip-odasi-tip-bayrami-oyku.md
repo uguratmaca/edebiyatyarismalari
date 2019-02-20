@@ -3,7 +3,7 @@ layout: post
 title: "Bursa Tabip Odası Tıp Bayramı Öykü Yarışması"
 description: "bursa tabip odası tıp bayramı öykü yarışması"
 category: articles
-tags: [bursa tabip odasi, tip bayrami, oyku yarismasi, hikaye yarismasi]
+tags: []
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "2019 Muzaffer İzgü Çocuk Öyküleri Yarışması"
 description: "muzaffer izgü çocuk öyküleri yarışması"
 category: articles
-tags: [muzaffer izgu, cocuk oykuleri, oyku yarismasi, hikaye yarismasi, edebiyat yarismalari, 2019]
+tags: [hikaye yarışması, ağustos 2019]
 comments: true
 ---
 

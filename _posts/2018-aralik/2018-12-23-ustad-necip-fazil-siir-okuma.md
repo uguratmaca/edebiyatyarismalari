@@ -3,7 +3,7 @@ layout: post
 title: "Üstad Necip Fazıl Şiir Okuma Yarışması"
 description: "üstad necip fazıl şiir okuma yarışması yalova tügva"
 category: articles
-tags: [yalova, necip fazil, siir okuma yarismasi, tugva ortaokul, turkiye genclik vakfi]
+tags: []
 comments: true
 ---
 

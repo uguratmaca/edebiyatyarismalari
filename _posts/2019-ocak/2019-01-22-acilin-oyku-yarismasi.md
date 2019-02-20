@@ -3,7 +3,7 @@ layout: post
 title: "Acilin Öyküsü 2019"
 description: "acilin öyküsü 2019"
 category: articles
-tags: [acilin oykusu, oyku yarismasi, acil tip uzmanlari dernegi, hikaye yarismasi, atuder]
+tags: [mart 2019, hikaye yarışması]
 comments: true
 ---
 

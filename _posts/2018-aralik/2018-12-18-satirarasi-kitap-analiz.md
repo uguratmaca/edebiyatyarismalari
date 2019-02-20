@@ -3,7 +3,7 @@ layout: post
 title: "Satırarası Kitap Analiz Yarışması"
 description: "satırarası kitap analiz yarışması"
 category: articles
-tags: [satirarasi, kitap, analiz, liselerarasi, yarisma]
+tags: []
 comments: true
 ---
 

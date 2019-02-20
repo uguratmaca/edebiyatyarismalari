@@ -3,7 +3,7 @@ layout: post
 title: "Gençlerden Ecdada Mektup 1919 Yarışması"
 description: "gençlerden ecdada mektup yarismasi"
 category: articles
-tags: [mektup yarismasi, genclik ve spor bakanligi]
+tags: [mektup yarışması, mart 2019]
 comments: true
 ---
 

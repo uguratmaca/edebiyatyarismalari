@@ -3,7 +3,7 @@ layout: post
 title: "Kadıköy Belediyesi Ulusal Tiyatro Sahne Eseri (Oyun) Yarışması 2020"
 description: "kadıköy belediyesi, sahne eseri yazma yarışması"
 category: articles
-tags: [tiyatro yarismasi, oyun yarismasi, sahne eseri belediyesi, kadikoy belediyesi]
+tags: [temmuz 2019]
 comments: true
 ---
 

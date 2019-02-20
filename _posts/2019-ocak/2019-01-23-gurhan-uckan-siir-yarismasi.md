@@ -3,7 +3,7 @@ layout: post
 title: "Dil Derneği Gürhan Uçkan Şiir Yarışması"
 description: "gazeteci, yazar, şair, gürhan uçkan şiir yarışması"
 category: articles
-tags: [dil dernegi, gurhan uckan, siir yarismasi]
+tags: [şiir yarışması, nisan 2019]
 comments: true
 ---
 
