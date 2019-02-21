@@ -5,9 +5,9 @@ description: "kişisel verileri koruma kurumu, akademi makale yarışması"
 category: articles
 tags: [makale yarışması, mart 2019]
 comments: true
+lastDate: 1554066000
+dateHuman: "1 Mart 2019"
 ---
-
-Başvuru: 1 Mart 2019
 
 Konu
 Makaleler; Kişisel Verilerin Korunması Ve Öneminin -Ulusal Ve Uluslararası Uygulamalar Göz Önünde Bulundurularak- Hukuki, Sosyal Ve Teknik Açıdan Değerlendirilmesine dair tüm konularda hazırlanabilecektir.

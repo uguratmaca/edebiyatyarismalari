@@ -5,9 +5,11 @@ description: "3. uluslararasi su ve sağlık kongresi, suya dair her şey"
 category: articles
 tags: [kompozisyon yarışması, mart 2019]
 comments: true
+lastDate: 1553806800
+dateHuman: "29 Mart 2019"
+comTopic: "Suya Dair Her Şey"
 ---
 
-Başvuru: 29 Mart 2019
 Yarışmaya Türkiye Geneli İlkokulu Ve Ortaokul Öğrencileri Katılabilir. Yarışma Sonuçları 15 Mayıs 2019 Tarihinde Açıklanacak.
 
 Yarışma Ödülleri

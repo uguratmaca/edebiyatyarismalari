@@ -3,12 +3,13 @@ layout: post
 title: "Adıgüzel Okulları Senaryo Yazma Yarışması"
 description: "adiguzel okullari senaryo yazma yarismasi"
 category: articles
-tags: [mart 2019]
+tags: [mart 2019, senaryo yarışması]
 comments: true
+lastDate: 1552597200
+dateHuman: "15 Mart 2019"
 ---
 
-Başvuru: 15 Mart 2019
-İstanbul Üniversitesi Vakfı Adıgüzel Okulları Senaryo Yazma Yarışması Son Başvuru Tarihi 15 Mart 2019. Yarışmaya Türkiye Geneli Ortaokul Ve Lise Öğrencileri Katılabilir.
+İstanbul Üniversitesi Vakfı Adıgüzel Okulları Senaryo Yazma Yarışması. Yarışmaya Türkiye Geneli Ortaokul Ve Lise Öğrencileri Katılabilir.
 
 Yarışma Ödülleri
 

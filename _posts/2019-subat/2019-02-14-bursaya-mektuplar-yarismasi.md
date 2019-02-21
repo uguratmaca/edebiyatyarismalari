@@ -5,9 +5,11 @@ description: "bursa, mektup yarışması, para ödüllü yarışmalar, nilüfer 
 category: articles
 tags: [mektup yarışması, mart 2019]
 comments: true
+lastDate: 1551992400
+dateHuman: "8 Mart 2019"
+price: "4250 TL'dir"
 ---
 
-Başvuru: 8 Mart 2019 . Toplam para ödülü: 4250 TL'dir.
 Yarışmanın Amacı: Köklü tarihi ve doğal güzellikleriyle tüm zamanların güzel şehri Bursamıza dair farkındalığı, unutulmaya yüz tutmuş bir yazın türü olan mektup aracılığıyla sağlamak.
 Başvuru yapan tüm mektupseverlere Nilüfer Belediyesi’nin yayımladığı Bursa Şiirleri/ Nahit Kayabaşı’nın kitabı armağan edilecektir.
 

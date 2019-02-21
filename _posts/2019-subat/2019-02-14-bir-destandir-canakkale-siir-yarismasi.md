@@ -5,10 +5,11 @@ description: "ankara, şiir yarışması, resim yarışması, ödüllü yarışm
 category: articles
 tags: [resim yarışması, şiir yarışması, mart 2019]
 comments: true
+lastDate: 1551992400
+dateHuman: "8 Mart 2019"
+comTopic: "Bir Destandır Çanakkale"
 ---
 
-Başvuru: 8 Mart 2019 
-Konu: Bir Destandır Çanakkale
 Ödüller: 
 Yarışmamızda ilk 10 öğrenciye ödül verilecektir, ilk 3‘e giren öğrencilerin öğretmenlerine de plaket takdim edilecektir.
 
