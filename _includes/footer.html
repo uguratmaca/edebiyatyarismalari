@@ -19,6 +19,9 @@
   {% endif %}
 
   <ul class="pagination">
+    {% if paginator.next_page %}
+    <li class="page-item"><a class="page-link" href="{{site.url}}/page{{paginator.next_page}}">Sonraki Sayfa</a></li>
+    {% endif %}
 
     {% if paginator.previous_page %} {% if paginator.page == 2 %}
     <li class="page-item"><a class="page-link" href="{{site.url}}/">Önceki Sayfa</a></li>
@@ -27,12 +30,6 @@
     </li>
     {% endif %}
     {% endif %}
-
-    {% if paginator.next_page %}
-    <li class="page-item"><a class="page-link" href="{{site.url}}/page{{paginator.next_page}}">Sonraki Sayfa</a></li>
-    {% endif %}
-
-
   </ul>
 </div>
 {% endif %}

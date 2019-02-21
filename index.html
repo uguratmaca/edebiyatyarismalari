@@ -2,7 +2,10 @@
 layout: default
 title: Edebiyat Yarışmaları, Öykü, Şiir, Masal, Roman
 ---
+
 <div style="padding: 3%;">
+  <h1>{{site.title}}</h1>
+  <hr>
   {% for post in paginator.posts %}
   <div>
     <h3><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h3>

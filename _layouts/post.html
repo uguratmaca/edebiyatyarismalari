@@ -1,30 +1,33 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-{% if page.dateHuman %}
+<div style="padding: 3%;">
+  <h1>{{ page.title }}</h1>
+  {% if page.dateHuman %}
   <h2>Son başvuru tarihi {{page.dateHuman}}</h2>
   {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
   {% assign nowDateInt = nowunix | plus: 0 %}
   {% if page.lastDate > nowDateInt %}
-    <span style="color:green;">Başvuru devam ediyor...</span>
+  <span style="color:green;">Başvuru devam ediyor...</span>
   {% else %}
-    <span style="color:red;">Başvuru bitti!</span>
+  <span style="color:red;">Başvuru bitti!</span>
   {% endif %}
-{% endif %}
-{% if page.price %}
+  {% endif %}
+  {% if page.price %}
   <h3>Toplam para ödülü {{page.price}}</h3>
-{% endif %}
-{% if page.comTopic %}
+  {% endif %}
+  {% if page.comTopic %}
   <h3>Konu: {{page.comTopic}}</h3>
-{% endif %}
+  {% endif %}
 
-<div class="post">
-{{ content }}
+  <div class="post">
+    {{ content }}
+  </div>
+
+  <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.owner.twitter }}" data-size="large"
+    data-hashtags="{{site.name}}">Tweet</a>
+  <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs');</script>
+  {% if site.disqus_shortname %}
+  {% include disqus_comments.html %}
+  {% endif %}
 </div>
-
-<a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.owner.twitter }}" data-size="large" data-hashtags="{{site.name}}">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-{% if site.disqus_shortname %}
-{% include disqus_comments.html %}
-{% endif %}
