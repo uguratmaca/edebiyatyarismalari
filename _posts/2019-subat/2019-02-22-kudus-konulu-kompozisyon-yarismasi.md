@@ -3,7 +3,7 @@ layout: post
 title: "Kudüs ve Mescid-i Aksa Konulu Kompozisyon Yarışması"
 description: "kompozisyon yarışması, kudüs mescid-i aksa konulu"
 category: articles
-tags: [kompozisyon yarışması, nisan 2019]
+tags: [kompozisyon yarışması, mart 2019]
 comments: true
 lastDate: 1553806800
 dateHuman: "29 Mart 2019"
