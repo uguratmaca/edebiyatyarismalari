@@ -5,6 +5,8 @@ description: "gençlerden ecdada mektup yarismasi"
 category: articles
 tags: [mektup yarışması, mart 2019]
 comments: true
+lastDate: 1553979600
+dateHuman: "31 Mart 2019"
 ---
 
 Başvuru: 31 Mart 2019 
