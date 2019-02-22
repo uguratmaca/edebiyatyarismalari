@@ -4,7 +4,7 @@ layout: default
 <div style="padding: 3%;">
   <h1>{{ page.title }}</h1>
   {% if page.dateHuman %}
-  <h2>Son başvuru tarihi {{page.dateHuman}}</h2>
+  <h2>Son başvuru tarihi: {{page.dateHuman}}</h2>
   {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
   {% assign nowDateInt = nowunix | plus: 0 %}
   {% if page.lastDate > nowDateInt %}
@@ -14,7 +14,7 @@ layout: default
   {% endif %}
   {% endif %}
   {% if page.price %}
-  <h3>Toplam para ödülü {{page.price}}</h3>
+  <h3>Toplam para ödülü: {{page.price}}</h3>
   {% endif %}
   {% if page.comTopic %}
   <h3>Konu: {{page.comTopic}}</h3>
