@@ -1,13 +1,22 @@
 <!DOCTYPE html>
 <html lang="tr">
+
 <head>
   {% include head.html %}
 </head>
+
 <body>
   {% include header.html %}
   <div class="container">
-  {{ content }}
-  {% include footer.html %}
+    {{ content }}
+    {% include footer.html %}
   </div>
+
+  <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js"
+    data-dojo-config="usePlainJson: true, isDebug: false"></script>
+  <script
+    type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function (L) { L.start({ "baseUrl": "mc.us20.list-manage.com", "uuid": "ac6dc70b4478502afbb68305c", "lid": "f17b6d3bf7", "uniqueMethods": true }) })</script>
+
 </body>
+
 </html>
