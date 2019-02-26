@@ -20,17 +20,17 @@ layout: default
   <h3>Konu: {{page.comTopic}}</h3>
   {% endif %}
 
+  <hr />
+
   {% if page.image %}
   <div style="text-align:center;">
-    <img style="max-height:720px;" src="{{page.image}}" alt="{{ page.title }}" />
+    <img style="max-height:720px;max-width: 90%;" src="{{page.image}}" alt="{{ page.title }}" />
   </div>
   {% endif %}
 
   <div class="post">
     {{ content }}
   </div>
-
-
 
   <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.owner.twitter }}" data-size="large"
     data-hashtags="{{site.name}}">Tweet</a>
