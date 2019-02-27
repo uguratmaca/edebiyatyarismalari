@@ -6,7 +6,6 @@ category: articles
 tags: [nisan 2019]
 comments: true
 lastDate: 1554152400
-comTopic: "Dostluk"
 dateHuman: "2 Nisan 2019"
 price: "28 Bin TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kitap-kurdu.jpeg?alt=media&token=dd71a382-e901-4d72-99bb-29315eee225b"
