@@ -10,7 +10,7 @@ title: Edebiyat Yarışmaları, Öykü, Şiir, Masal, Roman
   <div>
     <h3><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h3>
     {% if post.dateHuman %}
-    <h4>Son başvuru tarihi {{post.dateHuman}}</h4>
+    <h4>Son başvuru tarihi: {{post.dateHuman}}</h4>
     {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
     {% assign nowDateInt = nowunix | plus: 0 %}
     {% if post.lastDate > nowDateInt %}
