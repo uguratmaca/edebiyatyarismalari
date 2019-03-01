@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "23 Nisan Benim Bayramım Şiir yarışması"
+title: "23 Nisan Benim Bayramım Şiir Yarışması"
 description: "denizli, serinhisar"
 category: articles
 tags: [mart 2019, şiir yarışması]
