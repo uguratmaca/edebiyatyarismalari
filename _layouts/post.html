@@ -3,21 +3,24 @@ layout: default
 ---
 <div style="padding: 3%;">
   <h1>{{ page.title }}</h1>
-  {% if page.dateHuman %}
-  <h2>Son başvuru tarihi: {{page.dateHuman}}</h2>
   {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
   {% assign nowDateInt = nowunix | plus: 0 %}
+  {% if page.dateHuman %}
+  <h2>Son başvuru tarihi: {{page.dateHuman}}</h2>
+  {% endif %}
+
+  {% if page.price %}
+  <h4>Toplam para ödülü: {{page.price}}</h4>
+  {% endif %}
+  {% if page.comTopic %}
+  <h5>Konu: {{page.comTopic}}</h5>
+  {% endif %}
+  {% if page.dateHuman %}
   {% if page.lastDate > nowDateInt %}
   <span style="color:green;">Başvuru devam ediyor...</span>
   {% else %}
   <span style="color:red;">Başvuru bitti!</span>
   {% endif %}
-  {% endif %}
-  {% if page.price %}
-  <h3>Toplam para ödülü: {{page.price}}</h3>
-  {% endif %}
-  {% if page.comTopic %}
-  <h3>Konu: {{page.comTopic}}</h3>
   {% endif %}
 
   <hr />

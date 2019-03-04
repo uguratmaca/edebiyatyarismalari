@@ -4,22 +4,27 @@ layout: default
 <div style="padding: 3%;">
 	<h1>{{page.title}}</h1>
 	<hr>
+
+	{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+	{% assign nowDateInt = nowunix | plus: 0 %}
+
 	{% for post in site.posts %}
 	{% if post.tags contains page.key %}
 	<div>
 		<h3><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h3>
 		{% if post.dateHuman %}
 		<h4>Son başvuru tarihi: {{post.dateHuman}}</h4>
-		{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-		{% assign nowDateInt = nowunix | plus: 0 %}
+		{% endif %}
+		{% if post.price %}
+		<h5>Toplam para ödülü: {{post.price}}</h5>
+		{% endif %}
+	
+		{% if post.dateHuman %}
 		{% if post.lastDate > nowDateInt %}
 		<span style="color:green;">Başvuru devam ediyor...</span>
 		{% else %}
 		<span style="color:red;">Başvuru bitti!</span>
 		{% endif %}
-		{% endif %}
-		{% if page.price %}
-		<h4>Toplam para ödülü: {{page.price}}</h4>
 		{% endif %}
 		{{ post.excerpt }}
 	</div>
