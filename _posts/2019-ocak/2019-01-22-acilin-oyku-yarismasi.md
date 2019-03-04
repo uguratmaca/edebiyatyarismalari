@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "Acilin Öyküsü 2019"
-description: "acilin öyküsü 2019"
+description: "acilin öyküsü 2019, para ödüllü yarışmalar"
 category: articles
 tags: [mart 2019, hikaye yarışması]
 comments: true
+dateHuman: "10 Mart 2019"
+lastDate: 1552165200
+price: "6 Bin TL'dir"
 ---
 
 Başvuru: 10 Mart 2019 . Ödül: 6 Bin TL'dir.

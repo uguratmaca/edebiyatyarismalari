@@ -5,6 +5,8 @@ description: "sihirli lamba masal yarışması 2019"
 category: articles
 tags: [masal yarışması, mart 2019]
 comments: true
+dateHuman: "29 Mart 2019"
+lastDate: 1553806800
 ---
 
 Başvuru: 29 Mart 2019

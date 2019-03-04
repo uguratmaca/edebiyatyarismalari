@@ -1,13 +1,15 @@
 ---
 layout: post
 title: "İksad Yayınevi Makale Yarışması"
-description: "iksad yayınevi makale yarışması"
+description: "para ödüllü yarışmalar, iksad yayınevi makale yarışması"
 category: articles
 tags: [nisan 2019, makale yarışması]
 comments: true
+dateHuman: "5 Nisan 2019"
+lastDate: 1554411600
+price: "6 Bin TL'dir"
 ---
 
-Başvuru: 5 Nisan 2019 . Toplam para ödülü : 6000 TL'dir.
 İksad Yayınevi Makale Yarışması
 Ana tema: Ekonomik ve Sosyal Kalkınma
 

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "UPU Uluslararası Mektup Yazma Yarışması"
-description: "upu uluslararası mektup yazma yarışması, dünya posta birliği"
+description: "para ödüllü yarışmalar, upu uluslararası mektup yazma yarışması, dünya posta birliği"
 category: articles
 tags: [nisan 2019, mektup yarışması]
 comments: true
+dateHuman: "5 Nisan 2019"
+lastDate: 1554066000
+price: "3 Bin TL'dir"
 ---
-
-Başvuru: 1 Nisan 2019 . 
 
 PTT AŞ Tarafından Verilecek Ödüller
 Birinciye 1.500 Türk Lirası İle Dizüstü Bilgisayar Ve Orta Boy Pul Albümü.

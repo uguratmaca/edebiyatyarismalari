@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "İçel Anadolu Lisesi Tematik Öykü, Kompozisyon, Şiir Yarışması"
-description: "içel anadolu lisesi tematik öykü, kompozisyon, şiir yarışması"
+description: "para ödüllü yarışmalar, içel anadolu lisesi tematik öykü, kompozisyon, şiir yarışması"
 category: articles
 tags: [nisan 2019, hikaye yarışması, öykü yarışması, kompozisyon yarışması]
 comments: true
+dateHuman: "19 Nisan 2019"
+lastDate: 1555621200
+price: "1500 TL'dir"
 ---
 
 Başvuru: 19 Nisan 2019 . Toplam para ödülü: 1500 TL'dir.

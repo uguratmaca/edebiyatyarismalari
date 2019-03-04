@@ -5,6 +5,8 @@ description: "sennur sezer emek direniş şiir ve öykü ödülleri 2019"
 category: articles
 tags: [şiir yarışması, hikaye yarışması, mart 2019]
 comments: true
+dateHuman: "15 Mart 2019"
+lastDate: 1552597200
 ---
 
 Başvuru: 15 Mart 2019

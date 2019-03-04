@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "Cengiz Dağcı Makale Yarışması"
-description: "cengiz dağcı konulu makale yarışması"
+description: "para ödüllü yarışmalar, cengiz dağcı konulu makale yarışması"
 category: articles
 tags: [makale yarışması, nisan 2019]
 comments: true
+dateHuman: "20 Nisan 2019"
+lastDate: 1555707600
+price: "4 Bin 500 TL'dir"
+comTopic: "Cengiz Dağcı'nın eserleri"
+image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/cengiz-dagci.jpg?alt=media&token=f7746ec5-30ce-4957-8243-08f1dfb215aa"
 ---
-
-Başvuru: 20 Nisan 2019 . Toplam Para Ödülü: 4500 TL.
-Konu: Cengiz Dağcı'nın eserleri
 
 Türk Ocakları Bursa Şubesi tarafından ortaöğretim öğrencilerine yönelik olarak meşhur Kırım Tatar yazar Cengiz Dağcı'nın eserleriyle alakalı makale yarışması düzenleniyor.
 

@@ -5,11 +5,12 @@ description: "hepburadakal makale yarışması"
 category: articles
 tags: [makale yarışması, nisan 2019]
 comments: true
+dateHuman: "1 Nisan 2019"
+lastDate: 1554066000
+price: "500 USD'dir"
 ---
 
-Başvuru: 1 Nisan 2019 . Toplam para ödülü : 500 USD'dir.
 Yarışmaya Katılmak İçin;
-
 Yarışmaya 18 yaş ve üstü tüm kadınlar katılabilir.
 Yarışmaya katılmak için en az 500 kelimelik, özgün ve imla kurallarına uygun içerik göndermeniz gerekir.
 İlgili makaleyi iletişim sayfamızdan veya hepburadakal@gmail com adresine mail atarak gönderebilirsiniz. Birden fazla makale gönderebilirsiniz.

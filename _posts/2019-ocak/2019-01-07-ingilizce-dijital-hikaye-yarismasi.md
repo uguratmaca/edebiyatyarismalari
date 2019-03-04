@@ -5,6 +5,8 @@ description: "terakki vakfı okulları liseler arası 2. ingilizce dijital hikay
 category: articles
 tags: [hikaye yarışması, nisan 2019]
 comments: true
+dateHuman: "5 Nisan 2019"
+lastDate: 1554411600
 ---
 
 Başvuru: 5 Nisan 2019

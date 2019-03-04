@@ -5,6 +5,8 @@ description: "uluslararası hikaye anlatıcılığı"
 category: articles
 tags: [mart 2019]
 comments: true
+lastDate: 1553288400
+dateHuman: "23 Mart 2019"
 ---
 
 Başvuru: 20-23 Mart 2019

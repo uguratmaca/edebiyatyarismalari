@@ -5,7 +5,7 @@ description: "kişisel verileri koruma kurumu, akademi makale yarışması"
 category: articles
 tags: [makale yarışması, mart 2019]
 comments: true
-lastDate: 1554066000
+lastDate: 1551387600
 dateHuman: "1 Mart 2019"
 ---
 

@@ -5,6 +5,8 @@ description: "özçab şiir ve hikaye yarışması"
 category: articles
 tags: [şiir yarışması, hikaye yarışması, mart 2019]
 comments: true
+dateHuman: "29 Mart 2019"
+lastDate: 1553806800
 ---
 
 Başvuru: 29 Mart 2019 . 

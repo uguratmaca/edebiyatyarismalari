@@ -5,7 +5,7 @@ description: "ormanın gizemi, şiir yarışması, resim yarışması, 2019, ede
 category: articles
 tags: [resim yarışması, şiir yarışması]
 comments: true
-lastDate: 1554066000
+lastDate: 1551387600
 dateHuman: "1 Mart 2019"
 price: "12 Bin TL'dir."
 comTopic: "Ormanın Gizemi"

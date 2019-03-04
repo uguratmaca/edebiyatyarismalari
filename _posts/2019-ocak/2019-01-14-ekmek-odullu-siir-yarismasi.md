@@ -5,6 +5,8 @@ description: "ekmek ödüllü uluslararası şiir yarışması, osmaniye ozanlar
 category: articles
 tags: [nisan 2019, şiir yarışması]
 comments: true
+dateHuman: "11 Nisan 2019"
+lastDate: 1554930000
 ---
 
 Başvuru: 11 Nisan 2019 . 

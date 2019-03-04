@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "15 Temmuz Konulu Hikaye Yarışması"
-description: "15 temmuz konulu hikaye yarışması"
+description: "15 temmuz konulu hikaye yarışması, ödüllü yarışmalar"
 category: articles
 tags: [mart 2019, hikaye yarışması]
 comments: true
+dateHuman: "15 Mart 2019"
+lastDate: 1552597200
 ---
 
 Başvuru: 15 Mart 2019 . 
