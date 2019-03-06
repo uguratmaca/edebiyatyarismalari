@@ -8,6 +8,7 @@ comments: true
 lastDate: 1555016400
 dateHuman: "12 Nisan 2019"
 comTopic: "Küresel Barış ve Adalet"
+image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/mavera.jpg?alt=media&token=ade8ccbe-7761-4bd3-bc92-a1caf68dbe89"
 ---
 
 Yarışma Ödülleri
