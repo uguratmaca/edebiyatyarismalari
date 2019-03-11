@@ -8,13 +8,8 @@ highlighter: rouge
 plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed', 'jekyll-sitemap']
 paginate: 10
 logo: logo.png
-owner:
-  name: Uğur Atmaca
-  email: "info@uguratmaca.com"
-  twitter: yarismaedebiyat
-  github: https://github.com/uguratmaca
-  linkedin: https://www.linkedin.com/in/atmacaugur/
-
+twitter: https://twitter.com/yarismaedebiyat
+facebook: https://www.facebook.com/yarismaedebiyat
 google_analytics: 'UA-122320408-1'
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here

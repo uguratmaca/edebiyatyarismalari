@@ -1,46 +1,11 @@
-{% if paginator %}
-<div>
-  {% if site.owner.linkedin %}
-  <a href="{{ site.owner.linkedin }}" class="social-media-icons" rel="nofollow">
-    <i class="fa fa-2x fa-linkedin-square" aria-hidden="true"></i>
-  </a>
-  {% endif %} {% if site.owner.email %}
-  <a href="mailto:{{ site.owner.email }}" class="social-media-icons">
-    <i class="fa fa-2x fa-envelope-square" aria-hidden="true"></i>
-  </a>
-  {% endif %} {% if site.owner.twitter %}
-  <a href="https://twitter.com/{{ site.owner.twitter }}" class="social-media-icons" rel="nofollow">
-    <i class="fa fa-2x fa-twitter-square" aria-hidden="true"></i>
-  </a>
-  {% endif %} {% if site.owner.github %}
-  <a href="{{ site.owner.github }}" class="social-media-icons" rel="nofollow">
-    <i class="fa fa-2x fa-github-square" aria-hidden="true"></i>
-  </a>
-  {% endif %}
-
-  <ul class="pagination">
-    {% if paginator.next_page %}
-    <li class="page-item"><a class="page-link" href="{{site.url}}/page{{paginator.next_page}}">Sonraki Sayfa</a></li>
-    {% endif %}
-
-    {% if paginator.previous_page %} {% if paginator.page == 2 %}
-    <li class="page-item"><a class="page-link" href="{{site.url}}/">Önceki Sayfa</a></li>
-    {% else %}
-    <li class="page-item"><a class="page-link" href="{{site.url}}/page{{paginator.previous_page}}/">Önceki Sayfa</a>
-    </li>
-    {% endif %}
-    {% endif %}
-  </ul>
+<div class="container">
+    <hr>
+    <div style="text-align: center;margin-bottom: 2%;">
+        <a href="{{ site.twitter }}" rel="nofollow" target="_blank" style="padding:3%">
+            <i class="fab fa-2x fa-twitter"></i>
+        </a>
+        <a href="{{ site.facebook }}" rel="nofollow" target="_blank" style="padding:3%">
+            <i class="fab fa-2x fa-facebook"></i>
+        </a>
+    </div>
 </div>
-{% endif %}
-
-<script>
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', '{{site.google_analytics}}']);
-  _gaq.push(['_trackPageview']);
-  (function () {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
