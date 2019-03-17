@@ -3,7 +3,7 @@ layout: post
 title: "Hatırla ve Hayal Et, Deneme, Hikaye, Şiir Yarışması"
 description: "türk dil kurumu, para ödüllü yarışma, şiir yarışması, hikaye yarışması, öykü yarışması, deneme yarışması, liseler arası"
 category: articles
-tags: [deneme yarışması, hikaye yarışması, şiir yarışması, mart 2019]
+tags: [deneme yarışması, hikaye yarışması, şiir yarışması, mart 2019, lise]
 comments: true
 lastDate: 1553547600
 dateHuman: "26 Mart 2019"
