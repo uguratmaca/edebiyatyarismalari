@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Kurtuluşun 100. Yılı Şiir Yarışması"
+title: "Kurtuluşun 100. Yılı Makale Yarışması"
 description: "cumhuriyet"
 category: articles
-tags: [mayıs 2019, lise, şiir yarışması, samsun]
+tags: [mayıs 2019, üniversite, makale yarışması, samsun]
 comments: true
 lastDate: 1557003600
 dateHuman: "5 Mayıs 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kurtulus-siir-yarismasi.jpg?alt=media&token=ce7ae8a7-0b98-4c09-8fd0-fe5aa34f798a"
+image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kurtulus-makale-yarismasi.jpg?alt=media&token=87f4d262-8338-4118-8b23-4f381b20cb13"
 comTopic: "1919 yılında başlayan Ulusal Kurtuluş Savaşı sonrasında gelişen bağımsızlık duygusu"
 ---
 
@@ -15,7 +15,7 @@ Samsun 100. Yıl Platformu ve Cumhuriyet gazetesi, ulusal bağımsızlık ve Kuv
 
 Yarışmaya katılacak öğrencilerin,1919 yılında başlayan Ulusal Kurtuluş Savaşı sonrasında gelişen bağımsızlık duygusunu resim, şiir ve makale kurullarına uygun ifade etmeleri bekleniyor.
 
-Samsun il genelindeki tüm resmi ortaöğretim okullarının 9-10-11-12. sınıf öğrencileri
+Samsun il genelindeki devlet, vakıf ve özel üniversite öğrencileri yarışacak.
 
 Yarışmada ilk 3'e giren öğrenciler, Cumhuriyet Kitaplarından bir set ile ödüllendirilecek.
 
