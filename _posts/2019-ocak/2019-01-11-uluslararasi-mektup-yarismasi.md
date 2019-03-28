@@ -20,4 +20,4 @@ Dereceye Girenler, Özel Bir Madalya İle Birlikte (Birinci İçin Altın, İkin
 Altın Madalya Sahibine İsviçre, Berne’deki UPU Merkezine Bir Gezi Yada Upu’nun Takdirine Bağlı Olarak Karar Verilecek Alternatif Ödül Önerilebilir.
 Özel Bir Mansiyon Ödülü Alacak Olanlara Diğer Ödüllerle Birlikte (UPU Tarafından Karar Verilecek Diğer Ödüller) Bir Sertifika Da Verilecektir.
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/upu-uluslararasi-mektup-yazma-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://www.guncel-egitim.org/upu-uluslararasi-mektup-yazma-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

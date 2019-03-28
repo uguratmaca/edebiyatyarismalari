@@ -21,4 +21,4 @@ Bu bağlamda,  il Kültür ve Turizm Müdürlüğümüzce III.  Milli Kültür �
  
 İl sınırlarımız içerisinde eğitim gören ilkokul, ortaokul ve lise  öğrencileri dahil herkesin katılım sağlayabileceği masal yazma yarışmasına başvurular 11 Mart 2019-15 Nisan 2019 tarihleri arasındadır. Yarışma ilkokul, ortaokul, lise ve yetişkin olmak üzere dört kategoride gerçekleştirilecek olup her grup kendi arasında değerlendirilecektir. Her kategoride 1. 2. ve 3. seçilen yarışmacılar ödüllendirilecektir.
 
-[Detaylar ve başvuru için](http://www.edirnekulturturizm.gov.tr/TR-232590/edirneli-masallar-konulu-odullu-masal-yarismasi.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://www.edirnekulturturizm.gov.tr/TR-232590/edirneli-masallar-konulu-odullu-masal-yarismasi.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

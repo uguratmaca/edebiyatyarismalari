@@ -11,4 +11,4 @@ price: "10 Bin TL'dir."
 comTopic: "Alternatif Uyuşmazlık Çözüm Yöntemleri"
 ---
 
-[Detaylar ve Başvuru için](http://makaleyarismasi.akdeniz.edu.tr/tr?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://makaleyarismasi.akdeniz.edu.tr/tr?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

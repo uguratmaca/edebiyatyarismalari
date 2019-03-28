@@ -20,4 +20,4 @@ Genel Müdürlüğün yaptığı değerlendirmede (Türkiye Derecesi);
 *13-17/18-21/22-29 yaş kategorisi ikincileri dizüstü bilgisayar 
 *13-17/18-21/22-29 yaş kategorisi üçüncüleri akıllı telefon ile ödüllendirilecektir.
 
-[Detaylar ve Başvuru için](http://e-genc.gsb.gov.tr/EGenc/GEM1919/GEM1919Detay?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://e-genc.gsb.gov.tr/EGenc/GEM1919/GEM1919Detay?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

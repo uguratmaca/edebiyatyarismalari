@@ -10,4 +10,4 @@ comments: true
 Başvuru: 21 Şubat 2019 
 Konu: Vatan, Milli Mücadele, Bağımsızlık, Kahramanlık
 
-[Detaylar ve Başvuru için](https://www.trakya.edu.tr/news/edirne-valiligi-genclik-ve-spor-il-mudurlugu-nden-turk-muzigi--kisa-oyun-ve-siir-yarismalari?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://www.trakya.edu.tr/news/edirne-valiligi-genclik-ve-spor-il-mudurlugu-nden-turk-muzigi--kisa-oyun-ve-siir-yarismalari?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

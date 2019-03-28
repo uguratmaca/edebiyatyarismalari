@@ -19,4 +19,4 @@ Samsun il genelindeki devlet, vakıf ve özel üniversite öğrencileri yarışa
 
 Yarışmada ilk 3'e giren öğrenciler, Cumhuriyet Kitaplarından bir set ile ödüllendirilecek.
 
-[Detaylar ve başvuru için](http://www.cumhuriyet.com.tr/haber/kultur-sanat/1303328/_Kurtulusun_100.yili__yarismasi_icin_basvurular_basliyor.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://www.cumhuriyet.com.tr/haber/kultur-sanat/1303328/_Kurtulusun_100.yili__yarismasi_icin_basvurular_basliyor.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

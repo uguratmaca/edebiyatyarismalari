@@ -20,4 +20,4 @@ Anadil, bir kimlik, bir medeniyet ve bir tarih gibidir. Anadil, özbenliktir, ar
 3'nciye Sandıklı Thermal Park Resort Spa otelde 3 gün konaklama.
 4'nciye Sandıklı Thermal Park Resort Spa otelde 2 gün konaklama
 
-[Detaylar ve Başvuru için](http://www.kamuajans.com/guncel/avrupa-2-oyku-yarismasi-basladi-h534357.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://www.kamuajans.com/guncel/avrupa-2-oyku-yarismasi-basladi-h534357.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

@@ -12,4 +12,4 @@ image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot
 
 Başvuru: 30 Nisan 2019
 
-[Detaylar ve Başvuru için](http://www.karsiyaka.bel.tr/tr/haberler/karsiyakadan-%E2%80%98sukran-kurdakul-siir-odulu?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://www.karsiyaka.bel.tr/tr/haberler/karsiyakadan-%E2%80%98sukran-kurdakul-siir-odulu?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

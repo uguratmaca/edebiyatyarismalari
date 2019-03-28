@@ -33,4 +33,4 @@ Yukarıda yer alan kurallara aykırı olarak gönderilen makaleler değerlendirm
 
 Yarışmada dereceye giren makaleler AVİM tarafından yayınlanması öngörülmektedir. Bu çerçevede makaleler hakem incelemesinden geçirilecek ve değerlendirmeye alınacaktır. Derece alan makalelerin yayınlanması durumunda, yazarlar makalelerin aynen veya hakemler tarafından öngörülen değişikliklerle birlikte yayımlanmasını kabul etmiş ve bu yayım için her türlü telif ücretinden feragat etmiş sayılacaktır.
 
-[Detaylar ve başvuru için](https://avim.org.tr/tr/Duyuru/31-MART-1918-KATLIAMI-KONULU-MAKALE-YARISMASI?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://avim.org.tr/tr/Duyuru/31-MART-1918-KATLIAMI-KONULU-MAKALE-YARISMASI?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

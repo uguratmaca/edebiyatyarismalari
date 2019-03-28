@@ -18,4 +18,4 @@ Yarışmamızda ilk 10 öğrenciye ödül verilecektir, ilk 3‘e giren öğrenc
 4 – 6. Gram Altın
 7 -10. Kol Saati
 
-[Detaylar ve Başvuru için](https://www.bilimsenligi.com/bir-destandir-canakkale-ankara-geneli-ortaokul-ogrencileri-arasi-resim-ve-siir-yarismasi.html/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://www.bilimsenligi.com/bir-destandir-canakkale-ankara-geneli-ortaokul-ogrencileri-arasi-resim-ve-siir-yarismasi.html/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

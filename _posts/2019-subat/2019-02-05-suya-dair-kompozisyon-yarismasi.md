@@ -40,4 +40,4 @@ Ayder Seyahat Turizm Aş.
 Menekşe 1. Sokak No: 8-B/18 Kızılay Ankara
 Tüm Sorularınız İçin su@ayder.com.tr
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/suya-dair-her-sey-kompozisyon-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://www.guncel-egitim.org/suya-dair-her-sey-kompozisyon-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

@@ -12,4 +12,4 @@ price: "900 TL'dir"
 
 Yarışma anında verilen konuyla ilgili yazılacak şiirler, aynı süre içerisinde önce Türkçe yazılacak, daha sonra İngilizce'ye çevrilecektir.
 
-[Detaylar ve başvuru için](https://www.bornovakoleji.k12.tr/images/dosya/2dil1siir-sartname.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.bornovakoleji.k12.tr/images/dosya/2dil1siir-sartname.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

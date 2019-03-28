@@ -24,4 +24,4 @@ Kırmızı Kedi Yayınevi
 
 (0212) 244 89 82 - kirmizikedi@kirmizikedikitap.com
 
-[Detaylar ve Başvuru için](https://www.kirmizikedi.com/haberler?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://www.kirmizikedi.com/haberler?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

@@ -9,4 +9,4 @@ comments: true
 
 Son Başvuru Tarihi: 5 Kasım 2018. Sonuçlar 14 Kasım 2018'de açıklanacaktır.
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/2018-hasan-bayri-siir-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://www.guncel-egitim.org/2018-hasan-bayri-siir-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

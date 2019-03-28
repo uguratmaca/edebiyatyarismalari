@@ -21,4 +21,4 @@ değerlendirilecektir.
     - Kategori: Şiir
     - Kategori: Öykü
 
-[Detaylar ve Başvuru için](http://zeytindostu.org.tr/wp-content/uploads/2018/01/3.Edebiyat-Yar%C4%B1%C5%9Fmas%C4%B1-%C5%9Eartname.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://zeytindostu.org.tr/wp-content/uploads/2018/01/3.Edebiyat-Yar%C4%B1%C5%9Fmas%C4%B1-%C5%9Eartname.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

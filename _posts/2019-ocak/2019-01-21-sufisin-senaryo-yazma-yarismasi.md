@@ -15,4 +15,4 @@ image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot
 Başvuru: 1 Nisan 2019 . Uygun görülen senariste 30 Bin TL para ödülü.
 Konu: Tasavvuf
 
-[Detaylar ve Başvuru için](https://konyakultur.gov.tr/index.php?route=pages/pages&page_id=65&utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://konyakultur.gov.tr/index.php?route=pages/pages&page_id=65&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

@@ -11,4 +11,4 @@ Başvuru: 15 Şubat 2019 . Toplam para ödülü : 2250 TL'dir.
 Şiir ve öykü yarışması.
 Konu: Çocuk Hakları
 
-[Detaylar ve Başvuru için](http://fmvisikokullari.k12.tr/oykuvesiiryarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://fmvisikokullari.k12.tr/oykuvesiiryarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

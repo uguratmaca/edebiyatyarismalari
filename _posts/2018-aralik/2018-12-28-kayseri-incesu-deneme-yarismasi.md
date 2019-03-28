@@ -11,4 +11,4 @@ comTopic: "Cemil Meriç"
 ---
 
 
-[Detaylar ve Başvuru için](http://incesucpl.meb.k12.tr/icerikler/personel-arasinda-odullu-deneme-yarismasi_6211985.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://incesucpl.meb.k12.tr/icerikler/personel-arasinda-odullu-deneme-yarismasi_6211985.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

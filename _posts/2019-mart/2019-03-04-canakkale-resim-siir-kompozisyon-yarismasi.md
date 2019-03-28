@@ -12,4 +12,4 @@ image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot
 
 Yarışmaya katılacak adayların 1-15 Mart tarihleri arasında şiir resim ve kompozisyonları danışma bankosuna (adıyaman park avm) bırakması gerekmektedir. Yarışma Sonuçları 18 Mart tarihinde açıklanacaktır.
 
-[Detaylar ve başvuru için](https://twitter.com/adiyaman_park/status/1101754378288054272?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://twitter.com/adiyaman_park/status/1101754378288054272?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

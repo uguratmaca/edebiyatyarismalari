@@ -26,4 +26,4 @@ Birinciye: Yarım Altın                                                    Biri
 Mansiyon: Resim defteri ve boya takımı                                    Mansiyon: Dolma Kalem ve Ajanda
 
 
-[Detaylar ve başvuru için](http://www.malatyakentkonseyi.com/haberler/malatya-kent-konseyi-gelenekten-gelecege-kompozisyon-ve-resim-yarismasi-duzenliyor?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://www.malatyakentkonseyi.com/haberler/malatya-kent-konseyi-gelenekten-gelecege-kompozisyon-ve-resim-yarismasi-duzenliyor?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

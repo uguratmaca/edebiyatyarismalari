@@ -11,4 +11,4 @@ lastDate: 1553806800
 
 Başvuru: 29 Mart 2019
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/ulusal-ve-uluslararasi-fransizca-siir-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://www.guncel-egitim.org/ulusal-ve-uluslararasi-fransizca-siir-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

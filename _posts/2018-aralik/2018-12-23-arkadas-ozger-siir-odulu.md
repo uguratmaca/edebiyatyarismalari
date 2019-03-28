@@ -11,4 +11,4 @@ comTopic: "Bir Şiiri İnceleme"
 ---
 
 
-[Detaylar ve Başvuru için](https://karmaturkiye.com/arkadas-z-ozger-siir-odulu-2019-basvurulari-basladi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://karmaturkiye.com/arkadas-z-ozger-siir-odulu-2019-basvurulari-basladi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

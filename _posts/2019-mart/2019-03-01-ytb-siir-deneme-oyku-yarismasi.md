@@ -19,4 +19,4 @@ YTB Türkçe Ödülleri yarışması öykü, şiir, deneme ve kitap desteği olm
 
 Bununla birlikte tüm kategorilerde ilk 10’a giren yarışmacılara YTB Türk Edebiyatı Kitap Seti hediye edilecek olup YTB Yazarlık Akademisi Programına ücretsiz olarak katılma imkânı sunulacak.
 
-[Detaylar ve başvuru için](https://www.ytb.gov.tr/guncel/ytb-turkce-odulleri-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.ytb.gov.tr/guncel/ytb-turkce-odulleri-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

@@ -33,4 +33,4 @@ SABAHATTİN ALİ BÜTÜN ESERLERİ YKY ÖZEL BASIM
 Dil Anlatım Ödülü: 
 SABAHATTİN ALİ BÜTÜN ESERLERİ YKY ÖZEL BASIM
 
-[Detaylar ve başvuru için](http://www.fenerbahce.k12.tr/sabahattin-ali-hikaye.php?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://www.fenerbahce.k12.tr/sabahattin-ali-hikaye.php?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

@@ -12,4 +12,4 @@ lastDate: 1554411600
 Başvuru: 5 Nisan 2019
 Konu: Arkadaşlık
 
-[Detaylar ve Başvuru için](https://docs.google.com/forms/d/e/1FAIpQLSeyy0EwfHdtrwoZp61I1u_dsj51odqQwJeyaTqoT41aPbuhcA/viewform?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://docs.google.com/forms/d/e/1FAIpQLSeyy0EwfHdtrwoZp61I1u_dsj51odqQwJeyaTqoT41aPbuhcA/viewform?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

@@ -12,4 +12,4 @@ Son Başvuru Tarihi: 16 Aralık 2018. Toplam para ödülü 6000 TL.
 
 Aşağıda kuralları bulunan yarışmamıza katılımlarınız kongremizi zengileştirecek olup, değerli katılımlarınızı bekleriz.
 
-[Detaylar ve Başvuru için](http://www.nadirhastaliklar.org.tr/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://www.nadirhastaliklar.org.tr/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

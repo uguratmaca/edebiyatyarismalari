@@ -10,4 +10,4 @@ comments: true
 Başvuru: 15 Şubat 2019 . Toplam para ödülü: 2 Bin TL'dir.
 Konu: Serbest
 
-[Detaylar ve Başvuru için](https://www.kanesyayinlari.com/link_goster.asp?id=169&utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://www.kanesyayinlari.com/link_goster.asp?id=169&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

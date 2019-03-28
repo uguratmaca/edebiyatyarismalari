@@ -9,4 +9,4 @@ comments: true
 
 Onaltıncı Öykü Yarışması
 
-[Detaylar ve Başvuru için](http://sme.meb.k12.tr/icerikler/oyku-yarismasi_6549301.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://sme.meb.k12.tr/icerikler/oyku-yarismasi_6549301.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

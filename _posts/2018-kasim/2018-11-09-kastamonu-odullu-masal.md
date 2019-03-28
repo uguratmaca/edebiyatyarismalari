@@ -12,4 +12,4 @@ Son Başvuru Tarihi: 16 Kasım 2018. Toplam para ödülü: 3bin TL.
 
 Müdürlüğümüzce, Okul öncesi çocuklara yönelik, yeni ve özgün metinler yazılmasını teşvik etmek ve edebiyatımıza yeni masallar kazandırılmasını sağlamak amacıyla "ÖDÜLLÜ MASAL YARIŞMASI" düzenlemiştir. Yarışmaya katılmak isteyenler Başvuru Formu ve Yarışma Şartnamesini aşağıdaki linklerden veya Müdürlüğümüzden temin edebilirler. Eserlerin Teslim Tarihi 17 Eylül 2018-16 Kasım 2018 tarihleri arasındadır.
 
-[Detaylar ve Başvuru için](http://www.kastamonukultur.gov.tr/TR-215949/odullu-masal-yazma-yarismasi.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://www.kastamonukultur.gov.tr/TR-215949/odullu-masal-yazma-yarismasi.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

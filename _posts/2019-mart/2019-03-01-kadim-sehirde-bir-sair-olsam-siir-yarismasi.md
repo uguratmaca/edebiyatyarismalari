@@ -25,4 +25,4 @@ AMAÇ:
 - Şiir yazma yeteneği olan gençleri tespit edip onlara kendini ifade etme ortamı sağlamak.
 - Hedefe Doğru 4 Başlık 7 Adım projesiyle Mardin´de oluşturulan okuma alışkanlığına katkıda bulunm
 
-[Detaylar ve başvuru için](http://cahitzarifogluimamhatip.meb.k12.tr/icerikler/kadim-sehirde-bir-sair-olsam-odullu-siir-yarismasi_6419058.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://cahitzarifogluimamhatip.meb.k12.tr/icerikler/kadim-sehirde-bir-sair-olsam-odullu-siir-yarismasi_6419058.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

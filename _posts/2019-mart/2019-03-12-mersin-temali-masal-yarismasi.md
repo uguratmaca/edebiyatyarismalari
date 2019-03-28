@@ -18,4 +18,4 @@ Birincilik Ödülü : Bisiklet
 İkincilik Ödülü : 500 TL değerinde Kitap Hediye Çeki
 Üçüncülük Ödülü : 350 TL değerinde Kitap Hediye Çeki
 
-[Detaylar ve başvuru için](http://yenisehir33.meb.gov.tr/meb_iys_dosyalar/2019_03/08160053_Mersin_TemalY_Masal_Yazma_YarYYmasY.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://yenisehir33.meb.gov.tr/meb_iys_dosyalar/2019_03/08160053_Mersin_TemalY_Masal_Yazma_YarYYmasY.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

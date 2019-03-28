@@ -25,4 +25,4 @@ Birincilik Ödülü Mp3 Çalar Wireless Kulaklık Artı Adıgüzel Eğitim Kurum
 
 Burslar, Okullarımızda Yeterli Kontenjan Olması Durumunda Geçerlidir.
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/adiguzel-okullari-senaryo-yazma-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://www.guncel-egitim.org/adiguzel-okullari-senaryo-yazma-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

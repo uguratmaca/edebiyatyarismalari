@@ -20,4 +20,4 @@ Planlanan yarışmalara ilişkin şartnameler  ekte gönderilmiş olup, şartnam
 
 Bilgilerinizi ve gereğini önemle rica ederim. 
 
-[Detaylar ve Başvuru için](http://selcukondokuzmayisortaokulu.meb.k12.tr/icerikler/18-mart-resim-ve-siir-yarismasi_6540817.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://selcukondokuzmayisortaokulu.meb.k12.tr/icerikler/18-mart-resim-ve-siir-yarismasi_6540817.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

@@ -20,4 +20,4 @@ Yarışmaya katılmak isteyen öğrenciler 28 Şubat 2019 tarihinden itibaren 11
 
 
 
-[Detaylar ve başvuru için](http://ktod-ks.org/2019/02/siir-ve-resim-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://ktod-ks.org/2019/02/siir-ve-resim-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

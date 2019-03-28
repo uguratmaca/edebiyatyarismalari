@@ -16,5 +16,5 @@ Masal Yarışmasına, Kayseri İl Kültür ve Turizm Müdürlüğünde çalışa
 
 Yarışmaya katılacak eserlerin teslimi 22 Şubat – 30 Mayıs 2019 tarihleri arasında Kayseri İl Kültür ve Turizm Müdürlüğü’ne olacaktır.
 
-[Detaylar ve Başvuru için](http://www.kayserikultur.gov.tr/TR-231290/bir-varmis-bir-yokmus-adli-odullu-masal-yarismasi.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://www.kayserikultur.gov.tr/TR-231290/bir-varmis-bir-yokmus-adli-odullu-masal-yarismasi.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
 

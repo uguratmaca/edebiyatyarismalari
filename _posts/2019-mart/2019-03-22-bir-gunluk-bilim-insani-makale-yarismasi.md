@@ -14,4 +14,4 @@ comTopic: "Satürn'ün uydusu Enceladus, Titan ve Jüpiter'in Uydusu Europa'yı 
 Makaleler son başvuru tarihine kadar scientistforaday@eyuboglu.k12.tr mail adresine gönderilmelidir.
 En fazla 500 sözcükten oluşmalıdır.
 
-[Detaylar ve başvuru için](http://yegitek.meb.gov.tr/meb_iys_dosyalar/2019_03/20114158_2308.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://yegitek.meb.gov.tr/meb_iys_dosyalar/2019_03/20114158_2308.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

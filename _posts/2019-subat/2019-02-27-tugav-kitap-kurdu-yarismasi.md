@@ -16,4 +16,4 @@ image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot
 Bitmedi… Gençliğe harika bir dünya emanet etmekle kalmayacaksın kitap kurdu! Seni bekleyen sürprizlerimizde beraberinde gelecek 🙂
 
 
-[Detaylar ve başvuru için](http://tugva.org/kitap-kurdu/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://tugva.org/kitap-kurdu/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

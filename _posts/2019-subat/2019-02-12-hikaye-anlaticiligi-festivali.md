@@ -11,4 +11,4 @@ dateHuman: "23 Mart 2019"
 
 Başvuru: 20-23 Mart 2019
 
-[Detaylar ve Başvuru için](https://kayiprihtim.com/haberler/etkinlik/2-uluslararasi-i%CC%87stanbul-hikaye-anlaticiligi-festivali-basliyor/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://kayiprihtim.com/haberler/etkinlik/2-uluslararasi-i%CC%87stanbul-hikaye-anlaticiligi-festivali-basliyor/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

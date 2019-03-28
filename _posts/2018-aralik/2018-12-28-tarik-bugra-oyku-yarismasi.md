@@ -11,4 +11,4 @@ price: "8 Bin TL'dir."
 comTopic: "Şehir Yalnızlığı"
 ---
 
-[Detaylar ve Başvuru için](http://istanbulerkeklisesi.meb.k12.tr/icerikler/tarik-bugra-oyku-yarismasi-basvuru_6235167.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://istanbulerkeklisesi.meb.k12.tr/icerikler/tarik-bugra-oyku-yarismasi-basvuru_6235167.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

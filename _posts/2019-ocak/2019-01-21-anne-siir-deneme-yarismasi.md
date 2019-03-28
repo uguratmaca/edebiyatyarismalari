@@ -13,4 +13,4 @@ image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot
 Başvuru: 05 Nisan 2019 
 Konu: Annelere olan duygular, özlemler
 
-[Detaylar ve Başvuru için](http://www.mersin.edu.tr/haberler/350433/anne-konulu-siir-ve-deneme-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://www.mersin.edu.tr/haberler/350433/anne-konulu-siir-ve-deneme-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

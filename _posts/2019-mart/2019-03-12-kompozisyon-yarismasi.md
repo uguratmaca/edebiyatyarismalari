@@ -23,4 +23,4 @@ Genel Katılım Koşulları:
     Katılacak yazıların sağ üst köşesinde rumuz olacak.
     Yazılar, içinde kişisel bilgilerin de bulunacağı ( ad-soyad, iletişim ve kimlik bilgileri) kapalı bir zarf ile elden ya da posta yoluyla ADD Tekirdağ Şubesi’ne iletilecek.
 
-[Detaylar ve başvuru için](http://www.portakalhaber.com.tr/haber/haber_detay.asp?haberID=9313&utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://www.portakalhaber.com.tr/haber/haber_detay.asp?haberID=9313&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

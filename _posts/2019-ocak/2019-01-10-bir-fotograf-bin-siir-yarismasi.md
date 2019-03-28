@@ -10,4 +10,4 @@ comments: true
 Başvuru: 28 Şubat 2019 . 
 Toplam para ödülü : 3 Bin 500 TL'dir.
 
-[Detaylar ve Başvuru için](http://mustafakutluiho.meb.k12.tr/icerikler/bir-fotograf-bin-siir-yarismasi_6325671.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://mustafakutluiho.meb.k12.tr/icerikler/bir-fotograf-bin-siir-yarismasi_6325671.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

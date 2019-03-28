@@ -23,4 +23,4 @@ Birincilik Ödülü 3 Adet Tam Altın
 
 Türkiye İmam Hatipliler Vakfı (TİMAV) tarafından geleneksel hale getirilen hikâye yarışmalarının bu yıl sekizincisi düzenleniyor. Türkiye genelindeki İmam Hatip Lisesi öğrencilerinin katılabildiği yarışmada bu yıl tema “Serbest” belirlendi.
 
-[Detaylar ve Başvuru için](http://selcukluanadoluihl.meb.k12.tr/icerikler/timav-8-geleneksel-hikaye-yarismasi-sartnamesi_6448599.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://selcukluanadoluihl.meb.k12.tr/icerikler/timav-8-geleneksel-hikaye-yarismasi-sartnamesi_6448599.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

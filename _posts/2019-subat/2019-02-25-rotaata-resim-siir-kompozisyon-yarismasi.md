@@ -17,7 +17,7 @@ Ortaöğretim okullarındaki öğrencileri kapsamak üzere 5-6-7-8. sınıf öğ
 Lise okullarındaki öğrencileri kapsamak üzere 9-10-11-12. sınıf öğrencileri arasında kompozisyon yarışmalarına katılabileceklerdir.
 
 
-[Detaylar için](http://rotaataturkiye.org/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar için](http://rotaataturkiye.org/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
 
-[Başvuru için](http://rotaataturkiye.org/sartname/sartname.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://rotaataturkiye.org/sartname/sartname.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
 

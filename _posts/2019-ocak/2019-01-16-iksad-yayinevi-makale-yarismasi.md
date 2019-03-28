@@ -13,4 +13,4 @@ price: "6 Bin TL'dir"
 İksad Yayınevi Makale Yarışması
 Ana tema: Ekonomik ve Sosyal Kalkınma
 
-[Detaylar ve Başvuru için](https://docs.wixstatic.com/ugd/614b1f_8a087978a8ae4ee39a5f9f9d801dc66f.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://docs.wixstatic.com/ugd/614b1f_8a087978a8ae4ee39a5f9f9d801dc66f.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

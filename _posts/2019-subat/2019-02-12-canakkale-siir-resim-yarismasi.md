@@ -12,4 +12,4 @@ dateHuman: "8 Mart 2019"
 Başvuru: 
 Türkiye genelinde Çanakkale Zaferi ve Şehitlerimizi Anma Günü “104 yıllık saygı duruşu” adlı şiir ve resim dalında  yarışma düzenlenmiştir. Katılım ve katkılarınızı bekliyoruz.
 
-[Detaylar ve Başvuru için](https://twitter.com/iyipartiurla35/status/1094656676093968389?utm_source=edebiyatyarismalari.com&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://twitter.com/iyipartiurla35/status/1094656676093968389?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
