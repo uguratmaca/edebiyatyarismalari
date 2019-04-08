@@ -5,7 +5,7 @@ description: "Eğitim ve Bilim İşgörenleri Sendikası"
 category: articles
 tags: [mayıs 2019, mektup yarışması, lise]
 comments: true
-lastDate: 1554152400
+lastDate: 1556744400
 dateHuman: "2 Mayıs 2019"
 comTopic: "Ulusal Bağımsızlığın 100. Yılında Gençliğin Ata'sına Özlemi"
 ---
