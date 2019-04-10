@@ -11,7 +11,7 @@ image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot
 ---
 
 MAHBEZ DERGİSİ
-1. ȘİİR YARIȘMASI
+Birinci Șiir Yarışması
 📌Mahbez Dergisi olarak ilk șiir yarıșmamızı yapıyoruz.
 📌Katılımcılar sadece bir tane șiir ile katılabilir
 📌Yarıșmaya her yaș grubundan katılım sağlanabilir.
@@ -20,4 +20,4 @@ MAHBEZ DERGİSİ
 
 Yarışma Usulü: Yarışmaya Katılan Eserler Arasından Editörlerimizin Seçtiği 8 Şiir Finalist Olacak. Final Oylamalarını Instagram Hesabımızdan Takipçilerimiz Yapacak. Eleminasyon Sistemine Göre Her Eşleşmede Bir Şiir Üst Kademeye Taşınacak ve Birinci Belirlenecek.
 
-[Detaylar ve başvuru için](https://www.guncel-egitim.org/sivas-kongresinin-100-yildonumu-kisa-oyku-ve-siir-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://twitter.com/mahbezdergi/status/1109228687893979137?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
