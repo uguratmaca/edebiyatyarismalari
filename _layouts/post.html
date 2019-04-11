@@ -1,34 +1,47 @@
 ---
 layout: default
 ---
-<div style="padding: 3%;">
-  <h1>{{ page.title }}</h1>
+<article style="padding: 3%;">
+  <header>
+    <h1>{{ page.title }}</h1>
+  </header>
   <hr />
+
 
   {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
   {% assign nowDateInt = nowunix | plus: 0 %}
   {% if page.dateHuman %}
+  <section>
     <h2>Son başvuru tarihi: {{page.dateHuman}}</h2>
+  </section>
   {% endif %}
 
   {% if page.price %}
-    <h4>Toplam para ödülü: {{page.price}}</h4>
+  <section>
+    <h3>Toplam para ödülü: {{page.price}}</h3>
+  </section>
   {% endif %}
   {% if page.comTopic %}
-    <h5>Konu: {{page.comTopic}}</h5>
+  <section>
+    <h4>Konu: {{page.comTopic}}</h4>
+  </section>
   {% endif %}
   {% if page.dateHuman %}
   {% if page.lastDate > nowDateInt %}
+  <section>
     <span style="color:green;">Başvuru devam ediyor...</span>
+  </section>
   {% else %}
+  <section>
     <span style="color:red;">Başvuru bitti!</span>
+  </section>
   {% endif %}
   {% endif %}
 
   {% if page.image %}
-  <div style="text-align:center; margin-bottom: 3%;">
+  <section style="text-align:center; margin-bottom: 3%;">
     <img style="max-height:720px;max-width: 90%;" src="{{page.image}}" alt="{{ page.title }}" />
-  </div>
+  </section>
   {% endif %}
 
   <div class="post">
@@ -38,4 +51,4 @@ layout: default
   {% if site.disqus_shortname %}
   {% include disqus_comments.html %}
   {% endif %}
-</div>
+  </div>
