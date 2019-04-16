@@ -22,4 +22,14 @@ LÜTFÜ BÜTÜN  (Sabahattin Kudret Aksal Şiir Ödülü)
 Bağdat Caddesi Ateş Apartmanı No: 102-12 Fenerbahçe 34726 Istanbul
  (Kitapların gönderim bilgisinin bir elektronik postayla selcukbutun@gmail.com adresine bildirilmesi gerekir.) 
 
+2)	SABAHATTİN KUDRET AKSAL YAZIN ÖDÜLÜ SONUÇLARI
+
+Eray Canberk başkanlığında Egemen Berköz, Abdülkadir Budak, Adil İzci, Turgay Kantürk, Gonca Özmen ve aile adına Selçuk Bütün’den oluşan Sabahattin Kudret Aksal Yazın Ödülü 2019 Seçiciler Kurulu, 28 Mart 2019 tarihinde ikinci kez toplanarak aşağıdaki kararları almıştır:
+1)	2019 yılında şiir dalında verilecek ödülü, Seçiciler Kurulunun da yapıt önerebilmesi bağlamında; kurduğu şiir yapısı, dil ve söyleyiş yalınlığı, poetik duruşu, düşünsel derinliği, doğaya ve doğal olana özel dikkati; bu değerlerin yanı sıra kuşağı içindeki konumu ve şiirimizi uluslararası düzeyde temsil becerisiyle, “Giderken Öpmeseydin Keşke” yapıtıyla Gökçenur Ç.’ye,
+2)	Seçiciler Kurulu Özel Ödülünün, Sabahattin Kudret Aksal’ın yapıtlarını, yanı sıra dergi ve gazetelerde kalan yazı ve söyleşilerini, soruşturma yanıtlarını bilimsel yol ve yöntemlerle, özveri ve titizlikle yayına hazırlayan Dr. Arif Yılmaz’a sunulmasına karar vermiştir. 
+Ödül töreni, Sabahattin Kudret Aksal’ın doğum günü olan 25 Nisan 2019 tarihinde, saat 19.00’da YKY’de yapılacaktır.
+
+Kamuoyuna saygıyla duyurulur.
+
+
 [Detaylar ve Başvuru için](https://724kultursanat.com/sabahattin-kudret-aksal-yazin-odulu-duzenleniyor/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
