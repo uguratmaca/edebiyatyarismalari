@@ -15,12 +15,12 @@ layout: default
     {% if post.lastDate > nowDateInt %}
         {% if post.tags contains page.key %}
         <div>
-            <h3><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h3>
+            <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
             {% if post.dateHuman %}
-            <h4>Son başvuru tarihi: {{post.dateHuman}}</h4>
+            <h3>Son başvuru tarihi: {{post.dateHuman}}</h3>
             {% endif %}
             {% if post.price %}
-                <h5>Toplam para ödülü: {{post.price}}</h5>
+                <h4>Toplam para ödülü: {{post.price}}</h4>
             {% endif %}
             <span style="color:green;">Başvuru devam ediyor...</span>
             
