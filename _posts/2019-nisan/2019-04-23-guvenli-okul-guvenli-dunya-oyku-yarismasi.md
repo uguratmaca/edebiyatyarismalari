@@ -7,7 +7,7 @@ tags: [nisan 2019, ilkokul, hikaye yarışması]
 comments: true
 lastDate: 1556571600
 dateHuman: "30 Nisan 2019"
-comTopc: "Güvenli Yaşam"
+comTopic: "Güvenli Yaşam"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/guvenli-okul-guvenli-dunya-oyku-yarismasi.jpg?alt=media&token=0561754d-fc1d-43f9-9f38-00837cf4ea5f"
 ---
 
