@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Edebiyat Yarışmaları, Öykü, Şiir, Masal, Roman
+title: Edebiyat Yarışmaları, Öykü, Hikaye, Şiir, Masal, Roman, Makale, Destan, Kısa Hikaye
 ---
 
 <div style="padding: 3%;">
@@ -10,12 +10,12 @@ title: Edebiyat Yarışmaları, Öykü, Şiir, Masal, Roman
   {% assign nowDateInt = nowunix | plus: 0 %}
   {% for post in paginator.posts %}
   <div>
-    <h3><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h3>
+    <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
     {% if post.dateHuman %}
-    <h4>Son başvuru tarihi: {{post.dateHuman}}</h4>
+    <h3>Son başvuru tarihi: {{post.dateHuman}}</h3>
     {% endif %}
     {% if post.price %}
-    <h5>Toplam para ödülü: {{post.price}}</h5>
+    <h4>Toplam para ödülü: {{post.price}}</h4>
     {% endif %}
 
     {% if post.dateHuman %}

@@ -7,6 +7,7 @@ tags: [mayıs 2019, hikaye yarışması, şiir yarışması, lise]
 comments: true
 lastDate: 1558645200
 dateHuman: "24 Mayıs 2019"
+price: "7 Bin TL'dir"
 ---
 
 Sivas Kongresinin 100 Yıldönümü Kısa Öykü Ve Şiir Yarışması Sivas Kongresinin Öneminin Daha İyi Anlaşılmasının Sağlanması İle Öğrencileri Demokrasi Ve Milli Mücadele Kavramlarının Pekiştirilmesi Amacıyla Düzenlenmiştir.
