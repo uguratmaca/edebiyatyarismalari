@@ -3,11 +3,13 @@ layout: post
 title: "Kadıköy Belediyesi Ulusal Tiyatro Sahne Eseri (Oyun) Yarışması 2020"
 description: "kadıköy belediyesi, sahne eseri yazma yarışması"
 category: articles
-tags: [temmuz 2019]
+tags: [temmuz 2019, tiyatro eseri yazma yarışması]
+lastDate: 1563138000
+dateHuman: "15 Temmuz 2019"
+price: "42 Bin 500 TL'dir"
 comments: true
 ---
 
-Başvuru: 15 Temmuz 2019 . Toplam para ödülü : 42 Bin 500 TL'dir
 Sanat ve kültür hayatını desteklemeyi, çeşitli sanat alanlarına katkıda bulunmayı önemli bir kamusal sorumluluk kabul eden Kadıköy Belediyesi, Ulusal Tiyatro Sahne Eseri (Oyun) Yarışması’nın üçüncüsünü düzenliyor. Türk tiyatro edebiyatı repertuvarına yeni ve özgün oyunlar kazandırmak, oyun yazarı, edebiyatçı ve şairleri tiyatro oyunları yazmaya teşvik etmek için başlatılan yarışma Türkiye vatandaşı tüm yazar ve edebiyatçıların katılımına açık. Katılımcıların birden fazla eserle de başvurabileceği yarışmaya daha önce sahnelenmemiş, telif hakkı katılımcıyla ait, özgün eserler kabul ediliyor. Yarışmada birincilik, ikincilik ve üçüncülük ödüllerinin yanı sıra 2 adet de mansiyon ödülü yer alıyor.
 
 Kadıköy Belediye Başkanı Aykurt Nuhoğlu geçtiğimiz yıllarda da düzenlenen yarışmaya yoğun bir katılım olduğunu ve tiyatroya yeni, özgün eserler kazandırdıklarının altını çizerek şunları söyledi:  “Toplumların, insanların yeni tiyatro oyunlarına her zaman ihtiyacı vardır. Elbet tiyatro topluluklarının da... Biz Kadıköy Belediyesi olarak bu ihtiyacın bilinciyle ve nitelikli sanat çalışmalarına destek olmayı zorunlu görev sayan anlayışla 2020 yılında sonuçlanacak Ulusal Tiyatro Sahne Eseri Yarışması’nı düzenliyoruz. Değerli yazarlarımızın katılımlarıyla geçtiğimiz yıllarda olduğu gibi bu yıl da yeni, özgün tiyatro oyunlarının ortaya çıkacağını umut ediyorum.” dedi.
