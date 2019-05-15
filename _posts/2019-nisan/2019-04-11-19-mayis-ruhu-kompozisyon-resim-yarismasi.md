@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "19 Mayıs Ruhu Kompozisyon ve Resim Yarışması"
-description: "ödüllü yarışmalar, özel sanko koleji, gaziantep"
+description: "ödüllü yarışmalar, özel sanko koleji, gaziantep, kompozisyon yarışmaları"
 category: articles
 tags: [mayıs 2019, resim yarışması, kompozisyon yarışması, lise]
 comments: true

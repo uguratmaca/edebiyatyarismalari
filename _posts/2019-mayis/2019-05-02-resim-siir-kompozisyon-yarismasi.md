@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yunus Emre Resim, Şiir ve Kompozisyon Yarışması"
-description: "afyonkarahisar, ödüllü yarışmalar"
+description: "afyonkarahisar, ödüllü yarışmalar, kompozisyon yarışmaları"
 category: articles
 tags: [mayıs 2019, ortaokul, ilkokul, lise, resim yarışması, şiir yarışması, kompozisyon yarışması]
 comments: true

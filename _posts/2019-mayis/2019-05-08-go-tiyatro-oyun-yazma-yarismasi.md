@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2019 GO Tiyatro Oyun Yazma Yarışması"
-description: "güzel ordu kültür sanat derneği, tiyatro, oyun yazma yarışması"
+description: "güzel ordu kültür sanat derneği, tiyatro, oyun yazma yarışması, para ödüllü yarışmalar 2019"
 category: articles
 tags: [ekim 2019, genel, tiyatro eseri yazma yarışması]
 comments: true

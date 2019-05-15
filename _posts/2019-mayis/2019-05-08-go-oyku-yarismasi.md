@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2019 GO Öykü Yarışması"
-description: "öykü yarışması, hikaye yarışması, güzel ordu kültür sanat derneği"
+description: "öykü yarışması, hikaye yarışması, güzel ordu kültür sanat derneği, para ödüllü yarışmalar 2019"
 category: articles
 tags: [ekim 2019, genel, hikaye yarışması]
 comments: true
