@@ -5,31 +5,27 @@ layout: default
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 {% assign nowDateInt = nowunix | plus: 0 %}
 
-
-
-<div style="padding: 3%;">
-	<h1>{{page.title}}</h1>
-	<hr>
+<section style="padding: 3%;">
+    <h1>{{page.headline}}</h1>
+    <hr>
 
     {% for post in site.posts %}
-    {% if post.lastDate > nowDateInt %}
-        {% if post.tags contains page.key %}
-        <div>
-            <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
-            {% if post.dateHuman %}
-            <h3>Son başvuru tarihi: {{post.dateHuman}}</h3>
+        {% if post.lastDate > nowDateInt %}
+            {% if post.tags contains page.key %}
+            <section>
+                <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
+                {% if post.dateHuman %}
+                    <h3>Son başvuru tarihi: {{post.dateHuman}}</h3>
+                {% endif %}
+                {% if post.price %}
+                    <h4>Toplam para ödülü: {{post.price}}</h4>
+                {% endif %}
+                <span style="color:green;">Yarışma başvurusu devam ediyor...</span>
+
+                {{ post.excerpt }}
+            </section>
+            <hr>
             {% endif %}
-            {% if post.price %}
-                <h4>Toplam para ödülü: {{post.price}}</h4>
-            {% endif %}
-            <span style="color:green;">Başvuru devam ediyor...</span>
-            
-            {{ post.excerpt }}
-        </div>
-        <hr>
         {% endif %}
-    {% endif %}
-	{% endfor %}
-</div>
-
-
+    {% endfor %}
+</section>

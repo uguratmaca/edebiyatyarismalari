@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div style="padding: 3%;">
+<section style="padding: 3%;">
 	<h1>{{page.title}}</h1>
 	<hr>
 
@@ -9,26 +9,27 @@ layout: default
 	{% assign nowDateInt = nowunix | plus: 0 %}
 
 	{% for post in site.posts %}
-	{% if post.tags contains page.key %}
-	<div>
-		<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
-		{% if post.dateHuman %}
-		<h3>Son başvuru tarihi: {{post.dateHuman}}</h3>
+		{% if post.tags contains page.key %}
+		<section>
+			<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
+			{% if post.dateHuman %}
+				<h3>Son başvuru tarihi: {{post.dateHuman}}</h3>
+			{% endif %}
+			{% if post.price %}
+				<h4>Toplam para ödülü: {{post.price}}</h4>
+			{% endif %}
+
+			{% if post.dateHuman %}
+				{% if post.lastDate > nowDateInt %}
+					<span style="color:green;">Yarışma başvurusu devam ediyor...</span>
+				{% else %}
+					<span style="color:red;">Yarışma başvurusu bitti!</span>
+				{% endif %}
+			{% endif %}
+
+			{{ post.excerpt }}
+		</section>
+		<hr>
 		{% endif %}
-		{% if post.price %}
-		<h4>Toplam para ödülü: {{post.price}}</h4>
-		{% endif %}
-	
-		{% if post.dateHuman %}
-		{% if post.lastDate > nowDateInt %}
-		<span style="color:green;">Başvuru devam ediyor...</span>
-		{% else %}
-		<span style="color:red;">Başvuru bitti!</span>
-		{% endif %}
-		{% endif %}
-		{{ post.excerpt }}
-	</div>
-	<hr>
-	{% endif %}
 	{% endfor %}
-</div>
+</section>

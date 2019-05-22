@@ -7,9 +7,9 @@ layout: default
   </header>
   <hr />
 
-
   {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
   {% assign nowDateInt = nowunix | plus: 0 %}
+
   {% if page.dateHuman %}
   <section>
     <h2>Son başvuru tarihi: {{page.dateHuman}}</h2>
@@ -21,21 +21,23 @@ layout: default
     <h3>Toplam para ödülü: {{page.price}}</h3>
   </section>
   {% endif %}
+
   {% if page.comTopic %}
   <section>
     <h4>Konu: {{page.comTopic}}</h4>
   </section>
   {% endif %}
+
   {% if page.dateHuman %}
-  {% if page.lastDate > nowDateInt %}
-  <section>
-    <span style="color:green;">Başvuru devam ediyor...</span>
-  </section>
-  {% else %}
-  <section>
-    <span style="color:red;">Başvuru bitti!</span>
-  </section>
-  {% endif %}
+    {% if page.lastDate > nowDateInt %}
+    <section>
+      <span style="color:green;">Yarışma başvurusu devam ediyor...</span>
+    </section>
+    {% else %}
+    <section>
+      <span style="color:red;">Yarışma başvurusu bitti!</span>
+    </section>
+    {% endif %}
   {% endif %}
 
   {% if page.image %}
@@ -49,6 +51,6 @@ layout: default
   </div>
 
   {% if site.disqus_shortname %}
-  {% include disqus_comments.html %}
+    {% include disqus_comments.html %}
   {% endif %}
   </div>
