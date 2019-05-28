@@ -3,18 +3,19 @@ layout: post
 title: "Yaman Dede 2. Şiir Yarışması"
 description: "güncel şiir yarışmaları 2019, para ödüllü yarışmalar 2019, kayseri büyükşehir belediyesi"
 category: articles
-tags: [ağustos 2019, lise, şiir yarışması]
+tags: [ağustos 2019, genel, şiir yarışması]
 comments: true
 lastDate: 1566507600
 dateHuman: "23 Ağustos 2019"
 price: "18 Bin TL'dir."
 comTopic: "Serbest"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/sosyal-bilimler-makale-yarismasi.jpg?alt=media&token=56f38fde-64b1-4bc5-b485-85f5f0a05c96"
+image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/yaman-dede-siir-yarismasi.jpg?alt=media&token=fc3f4fe5-bddb-462f-bbc8-c57104b7931b"
 ---
 
 Katılım Şartları:
 
-1.	Yarışmaya Seçici Kurul Üyeleri ve birinci derecede yakınları katılamazlar. 2.	Yarışmanın konusu; "SERBEST " olarak belirlenmiştir.
+1.	Yarışmaya Seçici Kurul Üyeleri ve birinci derecede yakınları katılamazlar. 
+2.	Yarışmanın konusu; "SERBEST " olarak belirlenmiştir.
 3.	Yarışmaya katılacak şiirlerin daha önce hiçbir yarışmada ödül almamış ve herhangi bir yerde (basılı olarak) yayımlanmamış olması gerekmektedir.
 4.	Kayseri Büyükşehir Belediyesinin açmış olduğu şiir yarışmalarında birincilik ödülü alan kişiler katılamazlar.
 5.	Şiir gönderen yarışmacının İsim ve Soy isim bilgileri şiir metninde kesinlikle yer almayacak olup. Sadece başvuru kısmında yer alacaktır.
