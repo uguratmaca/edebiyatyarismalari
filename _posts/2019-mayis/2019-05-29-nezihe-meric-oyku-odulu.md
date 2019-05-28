@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nezihe Meriç Öykü Ödülü"
-description: "güncel şiir yarışmaları 2019, para ödüllü yarışmalar 2019, bursa nilüfer belediyesi"
+description: "güncel öykü yarışmaları 2019, para ödüllü yarışmalar 2019, bursa nilüfer belediyesi"
 category: articles
 tags: [ağustos 2019, genel, hikaye yarışması]
 comments: true
