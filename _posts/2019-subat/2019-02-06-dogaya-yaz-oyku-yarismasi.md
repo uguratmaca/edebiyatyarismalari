@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "6. Doğa'ya Yaz Öykü Yarışması"
-description: "doğa koleji, teknoloji, doğaya yaz, hikaye yarışması, öykü yarışması, edebiyat yarışmaları, 2019"
+description: "doğa koleji, teknoloji, doğaya yaz, hikaye yarışması, öykü yarışması, edebiyat yarışmaları 2019, edebiyat yarışması sonuçları"
 category: articles
 tags: [hikaye yarışması, nisan 2019]
 comments: true
@@ -21,3 +21,5 @@ Mansiyon Ödülü: Okuma kitaplarından oluşan hediye paketi
 
 
 [Detaylar ve Başvuru için](http://www.dogayayaz.com/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+
+[Öykü Yarışması Sonuçları](https://kitapeki.com/dogaya-yazin-6incisi-sona-erdi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
