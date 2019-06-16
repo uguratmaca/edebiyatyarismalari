@@ -7,7 +7,6 @@ tags: [eylül 2019, genel, hikaye yarışması]
 comments: true
 lastDate: 1568494800
 dateHuman: "15 Eylül 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/serzan-kurt-oyku-yarismasi.png?alt=media&token=8aa11bbe-390d-42cd-98da-49334674160d"
 ---
 
 Öykü Yarışması:
