@@ -3,7 +3,7 @@ layout: post
 title: "Lefkoşa Şarkı Sözü Yarışması"
 description: "lefkoşa türk belediyesi, para ödüllü yarışmalar 2019"
 category: articles
-tags: [haziran 2019, genel, sarki sozu]
+tags: [haziran 2019, genel, şarkı sözü yarışması]
 comments: true
 price: "2500 TL'dir"
 lastDate: 1561064400
