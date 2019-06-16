@@ -92,4 +92,4 @@ f. Yarışmaya katılanlar bu şartnamede belirtilen tüm hususları kabul etmi�
 Madde-11. Bu yarışmanın tüm aşamaları Dokuz Eylül Üniversitesi Rektörlüğü tarafından oluşturan
 komisyon ile yürütülmektedir.
 
-[Başvuru için](https://www.lefkosabelediyesi.org/ltb-lefkosa-sarki-sozu-yarismasi-duzenliyor/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](https://www.deu.edu.tr/duyurular/15-temmuz-demokrasi-ve-milli-birlik-gunu-konulu-siir-ve-kompozisyon-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
