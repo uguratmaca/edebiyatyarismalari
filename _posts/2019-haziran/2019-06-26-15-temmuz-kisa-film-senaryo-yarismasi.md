@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "15 Temmuz Kısa Film ve Senaryo Yarışması"
-description: "kısa film yarışması 2019, senaryo yarışması 2019"
+description: "kısa film yarışması 2019, senaryo yarışması 2019, büyük para ödüllü yarışmalar"
 category: articles
 tags: [temmuz 2019, genel, senaryo yarışması, kısa film yarışması]
 comments: true
