@@ -7,25 +7,29 @@ layout: default
 
 <section style="padding: 3%;">
     <h1>{{page.headline}}</h1>
+    {% if page.subline %}
+    <p>{{page.subline}}</p>
+    {% endif %}
+
     <hr>
 
     {% for post in site.posts %}
-        {% if post.lastDate > nowDateInt %}
-            {% if post.tags contains page.key %}
-            <section>
-                <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
-                {% if post.dateHuman %}
-                    <h3>Son başvuru tarihi: {{post.dateHuman}}</h3>
-                {% endif %}
-                {% if post.price %}
-                    <h4>Toplam para ödülü: {{post.price}}</h4>
-                {% endif %}
-                <span style="color:green;">Yarışma başvurusu devam ediyor...</span>
-
-                {{ post.excerpt }}
-            </section>
-            <hr>
-            {% endif %}
+    {% if post.lastDate > nowDateInt %}
+    {% if post.tags contains page.key %}
+    <section>
+        <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
+        {% if post.dateHuman %}
+        <h3>Son başvuru tarihi: {{post.dateHuman}}</h3>
         {% endif %}
+        {% if post.price %}
+        <h4>Toplam para ödülü: {{post.price}}</h4>
+        {% endif %}
+        <span style="color:green;">Yarışma başvurusu devam ediyor...</span>
+
+        {{ post.excerpt }}
+    </section>
+    <hr>
+    {% endif %}
+    {% endif %}
     {% endfor %}
 </section>
