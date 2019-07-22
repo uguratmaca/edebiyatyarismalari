@@ -29,15 +29,15 @@ layout: default
   {% endif %}
 
   {% if page.dateHuman %}
-    {% if page.lastDate > nowDateInt %}
-    <section>
-      <span style="color:green;">Yarışma başvurusu devam ediyor...</span>
-    </section>
-    {% else %}
-    <section>
-      <span style="color:red;">Yarışma başvurusu bitti!</span>
-    </section>
-    {% endif %}
+  {% if page.lastDate > nowDateInt %}
+  <section>
+    <span style="color:green;">Yarışma başvurusu devam ediyor...</span>
+  </section>
+  {% else %}
+  <section>
+    <span style="color:red;">Yarışma başvurusu bitti!</span>
+  </section>
+  {% endif %}
   {% endif %}
 
   {% if page.image %}
@@ -46,11 +46,12 @@ layout: default
   </section>
   {% endif %}
 
-  <div class="post">
+  <br>
+  <section class="post">
     {{ content }}
-  </div>
+  </section>
 
   {% if site.disqus_shortname %}
-    {% include disqus_comments.html %}
+  {% include disqus_comments.html %}
   {% endif %}
   </div>
