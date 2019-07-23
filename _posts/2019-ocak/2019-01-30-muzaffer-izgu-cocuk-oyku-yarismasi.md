@@ -3,11 +3,13 @@ layout: post
 title: "2019 Muzaffer İzgü Çocuk Öyküleri Yarışması"
 description: "muzaffer izgü çocuk öyküleri yarışması"
 category: articles
-tags: [hikaye yarışması, ağustos 2019]
+tags: [hikaye yarışması, ağustos 2019, genel]
+lastDate: 1567112400
+dateHuman: "30 Ağustos 2019"
+price: "3 Bin TL'dir"
 comments: true
 ---
 
-Başvuru: 30 Ağustos 2019 . Birincilik ödülü 3 Bin TL'dir.
 "Çocuk okuru olmayan toplumun, yetişkin okuru da olmaz."
 Bu sözüyle çocuk edebiyatına verdiği önemi özetleyen Muzaffer İzgü, yüzü aşkın çocuk kitabıyla üç kuşağın "yazar dede"si oldu. Okumaya ilk kez onun kitabıyla başlayan birinin çocuklarının ve torunlarının da yine bir Muzaffer İzgü kitabıyla okumaya başladığına, okumayı sevdiğine tanık olduk. 
 Çocuk edebiyatına eserleriyle verdiği katkılar yanında, her fırsatta çocuklara kitap okuma alışkanlığının kazandırılmasının önemini vurgulayan değerli yazarımız Muzaffer İzgü'nün adına düzenlediğimiz yarışmayı bu yıl Çocuk Öyküleri dalında düzenlemeye karar verdik.
