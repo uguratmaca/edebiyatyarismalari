@@ -10,7 +10,7 @@ dateHuman: "20 Ağustos 2019"
 ---
 
 BİN ÇİÇEKLİ BAHÇE YAŞAR KEMAL Kültür Şöleni dünyaca ünlü yazarımız Yaşar Kemal’in, memleketi Osmaniye’de bir dizi etkinlikle anılıyor.
-Osmaniye Anadolu Halk Bilimleri - Kültür Akademisi’nin geleneksel olarak düzenlediği; kültür ve sanat bayramı “Özgür İnsan ödülü, Özgür Film Festivali ve Yaşar Kemal anısına öykü, halk bilim ve şiir yarışması’ dır. 4 yıl önce aramızdan ayrılan ve 2007 yılında Özgür İnsan Ödülü sahibi olan, Osmaniyeli ünlü yazarımız Yaşar Kemal anısına, 2019 yılında da yarışma düzenlenmiştir.
+Osmaniye Anadolu Halk Bilimleri - Kültür Akademisi’nin geleneksel olarak düzenlediği; kültür ve sanat bayramı “Özgür İnsan ödülü, Özgür Film Festivali ve Yaşar Kemal anısına öykü, halk bilim ve **şiir yarışması**’ dır. 4 yıl önce aramızdan ayrılan ve 2007 yılında Özgür İnsan Ödülü sahibi olan, Osmaniyeli ünlü yazarımız Yaşar Kemal anısına, 2019 yılında da yarışma düzenlenmiştir.
 Seçici Kurul;
 Öykü dalında ;
 --Hatice Altunay, yazar, öğretmen

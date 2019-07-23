@@ -16,7 +16,7 @@ Bartın Belediyesi Basın Yayın ve Halkla İlişkiler Şubesi’ne posta ve kar
 
 Bartın Belediyesi 23. Kitap Fuarı kapsamında düzenlenecek olan 22. Hasan Bayrı Şiir Yarışması’na ait şartname şu şekilde:
 
-22. HASAN BAYRI ŞİİR YARIŞMASI ŞARTNAMESİ 
+22. **HASAN BAYRI ŞİİR YARIŞMASI** ŞARTNAMESİ 
 
 Yarışma amatör-profesyonel herkese açıktır.
 Konu serbesttir.

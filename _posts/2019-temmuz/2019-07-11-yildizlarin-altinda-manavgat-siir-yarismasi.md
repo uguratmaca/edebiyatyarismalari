@@ -38,7 +38,7 @@ Manavgat Belediyesi'ne verdiğini kabul eder.
 alıntı yapmadıklarını, bugüne kadar düzenlenen hiçbir yarışmaya göndermediklerini,
 hiçbir kitap, cd, vcd, dvd, vb. üründe yer alması için muvafakat vermediklerini, hiçbir
 kuruma ya da kuruluşa kaydettirmediklerini NOTER aracılığıyla taahhüt ederek,
-“MANAVGAT BELEDŞYESŞ ŞİİR YARIŞMASI” Özel Şartnamesi ‟ni aynen kabul
+**MANAVGAT BELEDİYESİ ŞİİR YARIŞMASI** Özel Şartnamesi ‟ni aynen kabul
 ettiklerini belirten yazılı ve imzalı EK-1‟de örneği sunulan belgeyi Manavgat
 Belediyesine vermekle yükümlüdürler.
 J) Yarışmaya gönderilen eserler (Yarışmanın hangi aşamasında olursa olsun) Şartname‟nin

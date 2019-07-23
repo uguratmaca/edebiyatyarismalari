@@ -13,11 +13,11 @@ image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot
 
 Deneme, Tiyatro, Roman ve Şiir dallarında özgün eserlerin yaratıcısı Melih Cevdet Anday artık bu türlerde verilecek ödüllerle de anılacak.Her yıl ayrı dalda verilecek ödülün türü 2019 yılında “ROMAN” olarak belirlendi.
 
-Milas Belediyesi tarafından bu yıl 14.’sü düzenlenecek  olan Melih Cevdet Anday anma günlerinin bu yıl ki yarışma konusu “ROMAN .Yarışmaya  son katılım tarihi ise 31 Temmuz 2019.Kazanan yapıt sahibine Ödülü 24 Ağustos 2019 tarihinde Ören’de düzenlenen törende verilecek.
+Milas Belediyesi tarafından bu yıl 14.’sü düzenlenecek  olan Melih Cevdet Anday anma günlerinin bu yıl ki yarışma konusu “ROMAN .Yarışmaya son katılım tarihi ise 31 Temmuz 2019.Kazanan yapıt sahibine Ödülü 24 Ağustos 2019 tarihinde Ören’de düzenlenen törende verilecek.
 Seçici kurulunun Ataol Behramoğlu ,Oğuz Demiralp,Sadık Aslankara ,Asuman Kafaoğlu Büke ve Turgay Fişekci  isimlerinden oluştuğu yarışmada  yapıt sahibine 3.000,00-TL ödül verilecek.Yarışmaya katılmak isteyenlerin daha önce hiçbir yerde yarışmaya katılmamış  bir adet Roman kitabını  adı,açık adresi ve kısa yaşam öyküleri ile beraber Milas Belediyesi Özel Kalem Müdürlüğü  Hisarbaşı Mahallesi Belediye Caddesi No:24/A  Milas- Muğla adresine  (6 adet olarak)göndermeleri gerekmekte.
 
 T.C.MİLAS BELEDİYESİ
-“MELİH CEVDET ANDAY ROMAN YARIŞMASI” ŞARTNAMESİ
+**MELİH CEVDET ANDAY ROMAN YARIŞMASI** ŞARTNAMESİ
  
 I-	AMAÇ: Melih Cevdet Anday’ı yapıtları ile yaşatmak, yaşamının bir bölümünü geçirdiği Milas’ı tanıtmak.
 II-	YARIŞMA ŞARTLARI:

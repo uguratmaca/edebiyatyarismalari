@@ -12,12 +12,10 @@ comTopic: "Öykünün konuları, meslek odalarının işbirliği içerisinde yü
 ---
 
 AMAÇ
-
 TMMOB Başkanı olan Mimar Teoman Öztürk’ün  TMMOB’a  ve topluma  getirdiği birikimin, bugünün kentsel ve mekansal mücadelesinin içerisinde yeni bir bakış ve yorum ile yazmaya yönelenlerin potansiyellerini açığa çıkartarak sanat yoluyla yeni bir mücadele farkındalığı yaratmak
 
 KAPSAM
-
-“Teoman Öztürk Mekan Öyküleri Yarışması”  Mimarlar Odası Ankara Şubesi tarafından düzenlenmekte olup, tek kademeli ve ulusaldır. Yarışmanın organizasyon ve başvuru sürecinden Mimarlar Odası Ankara Şubesi sorumludur.
+**Teoman Öztürk Mekan Öyküleri Yarışması** Mimarlar Odası Ankara Şubesi tarafından düzenlenmekte olup, tek kademeli ve ulusaldır. Yarışmanın organizasyon ve başvuru sürecinden Mimarlar Odası Ankara Şubesi sorumludur.
 
 KATILIM KOŞULLARI
 

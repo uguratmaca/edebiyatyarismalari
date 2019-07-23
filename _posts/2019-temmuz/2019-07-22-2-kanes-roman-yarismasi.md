@@ -10,7 +10,6 @@ dateHuman: "31 Aralık 2019"
 ---
 
 YARIŞMANIN AMACI
-
 Çağdaş Türk Edebiyatına özgün eserler kazandırmak amacıyla her yıl düzenlediğimiz roman yarışmamız, şartname koşullarına uyan tüm katılımcılara açıktır. İş bu şartnamede katılımcılar eser sahibi olarak anılacaktır.
 
 YARIŞMAYA KATILIM ŞARTLARI
@@ -22,7 +21,7 @@ Eser sahibi, şartname koşullarını peşinen kabul etmiş sayılır.
 ESERİN NİTELİKLERİ
 
 Eserin dili Türkçe olacaktır.
-Roman yarışmasında herhangi bir tema, karakter, sayfa sınırlaması yoktur.
+**Roman yarışması**nda herhangi bir tema, karakter, sayfa sınırlaması yoktur.
 Yarışmaya gönderilen eserler kısmen veya tamamen herhangi bir mecrada yayımlanmamış olmalı ve yayımlanmak üzere eser sahibine yasal sorumluluk getiren bir sözleşmesi bulunmamalıdır.
 Eser sahibi gönderdiği dosyanın özgün olduğunu, telif yasasını bağlayıcı herhangi bir eseri çağrıştırmadığını, kopya olmadığını beyan eder.
 Eser sahibi, eserinin içeriğinde edebi değerlerden uzak; cinsiyetçi, ırkçı ayrımcılığa yönelik suç unsurları ve nefret söylemi olmadığını beyan eder. Tespit edilen dosyalar elenecektir.
