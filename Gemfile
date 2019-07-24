@@ -1,8 +1,9 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "jekyll-paginate"
-gem "jekyll-gist"
-gem "jekyll"
+gem 'jekyll-paginate'
+gem 'jekyll-gist'
+gem 'jekyll'
 gem 'jekyll-feed'
-gem "rouge"
+gem 'rouge'
 gem 'jekyll-sitemap'
+gem 'amp-jekyll'
