@@ -3,10 +3,10 @@
     "shor_name": "Edebiyat Yarışmaları",
     "theme_color": "#978eb7",
     "background_color": "#ffffff",
-    "display": "browser",
-    "orientation": "fullscreen",
-    "Scope": "http://edebiyatyarismalari.com",
-    "start_url": "http://edebiyatyarismalari.com",
+    "display": "standalone",
+    "orientation": "portrait",
+    "Scope": "https://edebiyatyarismalari.com",
+    "start_url": "https://edebiyatyarismalari.com",
     "icons": [
         {
             "src": "images/icons/icon-72x72.png",
