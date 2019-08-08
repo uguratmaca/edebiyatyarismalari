@@ -41,3 +41,5 @@ Cemalettin Çelebi Caddesi No: 1 50800 Hacıbektaş Nevşehir.
 
 
 [Detaylar ve başvuru için](http://www.hacibektas.bel.tr/portal/2019-kisa-oyku-ve-siir-yarismalari-sartnamesi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+
+[Yarışma Sonuçları](https://www.cthaber.com/haber/2985504/haci-bektas-veli-anma-toreninde-yapilan-yarismanin-sonuclari?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
