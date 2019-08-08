@@ -5,7 +5,7 @@ description: "kısa film yarışması 2019, senaryo yarışması 2019, büyük p
 category: articles
 tags: [temmuz 2019, genel, senaryo yarışması, kısa film yarışması]
 comments: true
-lastDate: 1565557200
+lastDate: 1562878800
 dateHuman: "12 Temmuz 2019"
 price: "200 Bin TL'dır"
 ---
