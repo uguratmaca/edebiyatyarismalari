@@ -3,7 +3,7 @@ layout: post
 title: "4. Denizbank İlk Senaryo İlk Film Yarışması"
 description: "ödüllü senaryo yarışması 2019"
 category: articles
-tags: [ekim 2019, senaryo yarışması, film yarışması]
+tags: [kasım 2019, senaryo yarışması, film yarışması]
 comments: true
 lastDate: 1572555600
 dateHuman: "1 Kasım 2019"
