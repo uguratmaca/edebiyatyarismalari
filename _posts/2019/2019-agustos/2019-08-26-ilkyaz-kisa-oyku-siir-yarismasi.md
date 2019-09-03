@@ -19,8 +19,8 @@ Yarışma Takvimi: Aylık (Her ay tekrarlanıyor)
 Her ay seçilen yazar sayısı: 3 (üç) Genç Yazar veya Şair 
 Ödül: Her ay seçilen 3 (üç) genç yazarın eseri (kısa öykü ya da şiir) İngilizceye ve onun dışında her ay değişen ikinci bir dile çevrilerek eserin PEN bünyesinde uluslararası düzeyde tanıtımı yapılır, ayrıca PEN International tarafından her üç genç kaleme de honararium bedeli olarak 300 Türk Lirası ödenir. 
 Başvuru Tarihi: Proje her ay farklı 3 genç yazar ve eseriyle devam edeceğinden, genç yazarlar eserlerini daima, diledikleri zaman gönderebilirler. Gönderilen çalışmalar direkt olarak bir sonraki ayın değerlendirmesine dahil edilir. Değerlendirmeler tamamlandıktan sonra, sonuç ilgili genç yazara e-posta yoluyla bildirilir. 
-Başvuru Şekli: 35 yaş ve altı genç yazarlar isim, soy isim ve yaş bilgileriyle birlikte eser veya eserlerini **ilkyaz2018@gmail.com** e-posta adresi üzerinden İlkyaz Platformuna ulaştırarak başvuru yapabilirler. 
- 
+Başvuru Şekli: 35 yaş ve altı genç yazarlar isim, soy isim ve yaş bilgileriyle birlikte eser veya eserlerini **ilkyaz2018@gmail.com** e-posta adresi üzerinden İlkyaz Platformuna ulaştırarak başvuru yapabilirler.
+
 PROJE HAKKINDA
 **İlkyaz Projesi**, Aralık 2018’de Türkiye’deki 35 yaş altı genç yazar ve şairleri teşvik etmek ve onların eserlerini farklı dillere çevirerek uluslararası düzeyde tanıtımını yapmak gayesiyle yayın yolculuğuna başladı. Proje kapsamında her ay seçilen üç genç yazarın eserleri İlkyaz tarafından önce İngilizceye, ardından farklı bir ülkenin PEN Merkeziyle işbirliği yapılarak her ay değişen ikinci bir dile çevriliyor. 
 Projenin başlangıç ayı olan Aralık ayında bu işbirliğine Norveç PEN ile başlandı ve seçilen üç eser İngilizcenin yanı sıra Norveççeye de çevrildi. Ocak ayında PEN Almanya, Şubat’ta ise Belçika/Flemen PEN ile devam edildi. Mart ayı eserleri için aynı rolü PEN Fransız Merkezi üstlenerek eserleri Fransızcaya çevirirken, Nisan ayı içinse bu görev PEN Güney Afrika’daydı. Mayıs ayında genç yazarların eserleri İskoçya’da, İskoç PEN tarafından tanıtılmıştı. Haziran ayı eserleri ise İngilizcenin yanı sıra Katalancaya çevrilerek Katalan PEN tarafından tanıtıldı. 
