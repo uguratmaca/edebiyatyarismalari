@@ -7,7 +7,6 @@ tags: [eylül 2019, şiir yarışması]
 comments: true
 lastDate: 1568062800
 dateHuman: "10 Eylül 2019"
-comTopic: "Sigarasız Yaşam"
 ---
 
 Eskişehir Sanat Derneği, şiirimizin büyük usta şairi Yunus Emre’mizi sanat ortamında anmak ve tanıtmak amacıyla geleneksel olarak her yıl düzenlediği “Yunus Emre Sanat Buluşması” etkinliklerinde ödül töreni olan **Yunus Emre Şiir Yarışması** düzenlemektedir.
