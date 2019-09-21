@@ -24,6 +24,10 @@ layout: default
         {% if post.price %}
         <h4>Toplam para ödülü: {{post.price}}</h4>
         {% endif %}
+        {% if post.attendance %}
+        <h5>Katılım Şekli: {{post.attendance}}</h5>
+        {% endif %}
+
         <span style="color:green;">Yarışma başvurusu devam ediyor...</span>
 
         {{ post.excerpt }}

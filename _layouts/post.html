@@ -25,6 +25,12 @@ layout: default
   {% if page.comTopic %}
   <section>
     <h4>Konu: {{page.comTopic}}</h4>
+
+  {% endif %}
+
+  {% if post.attendance %}  
+  <section>
+    <h5>Katılım Şekli: {{post.attendance}}</h5>
   </section>
   {% endif %}
 

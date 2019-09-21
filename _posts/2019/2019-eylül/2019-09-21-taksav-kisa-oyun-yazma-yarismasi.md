@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sigaranın Zararları Senaryo Yarışması"
+title: "Taksav Kısa Oyun Yazma Yarışması"
 description: "ödüllü tiyatro oyunu yazma yarışması 2019, uluslararası izmir tiyatro festivali"
 category: articles
 tags: [kasım 2019, tiyatro oyun yarışması, üniversite]
