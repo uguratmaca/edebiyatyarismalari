@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020 Ümit Kaftancıoğlu Öykü Yarışması"
+title: "Kocaeli Yüksek Öğrenim Vakfı Çocuk Edebiyatı Ödülleri"
 description: "öykü yarışması, hikaye yarışması, para ödüllü yarışmalar 2020, edebiyat yarışmaları, güncel şiir yarışmaları 2019, roman yarışması"
 category: articles
 tags: [aralık 2019, genel, hikaye yarışması, roman yarışması, şiir yarışması]
