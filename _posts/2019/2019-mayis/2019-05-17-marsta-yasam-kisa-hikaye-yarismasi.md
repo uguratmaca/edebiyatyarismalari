@@ -76,3 +76,5 @@ ilçe Değerlendirmesi 12 Haziran – 28 Haziran 2019
 9. Sayfa içeriğine ve düzene dikkat edilmiş olmalıdır.
 
 [Başvuru için](http://www.bilgecocuk.com/yarisma/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+
+[Sonuçlar](http://meb.gov.tr/turkiyenin-gelecegi-icin-heyecanlanin/haber/19413/tr?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
