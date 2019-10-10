@@ -9,7 +9,6 @@ lastDate: 1577221200
 dateHuman: "25 Aralık 2019"
 comTopic: "Serbest"
 attendance: "Posta (CD-Flash bellek)" 
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/hasan-ali-yucel-kisa-oyku-yarismasi.PNG?alt=media&token=44b1a53a-fe0c-485b-980a-0ac94bdd86a0"
 ---
 
 Bu **ödüllü yarışma** ile çocuklara, gençlere yazmayı sevdirmek, kendilerini yazılı olarak daha iyi ifade edebilmelerine yardımcı olabilmek ve okumaya yönlendirmek, Öykü yazarlığının genç kuşaklarca da sürdürülmesinin teşvik edilmesi, okuyan, düşünen ve yazan bireylerin ortaya çıkmasına katkı sağlamak, özellikle toplumda dil bilincinin yerleşmesi, dilin doğru ve etkin biçimde kullanılması ve geliştirilmesini amaçlanmaktadır.
