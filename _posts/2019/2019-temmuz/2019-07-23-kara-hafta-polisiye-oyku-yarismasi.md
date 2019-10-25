@@ -35,3 +35,5 @@ Yarışmaya katılan öyküler ön elemeden geçirildikten sonra jüriye sunulac
 Yarışma birincisinin ulaşım ve 2 gece otel konaklama masrafları Kara Hafta İstanbul tarafından karşılanacaktır.
 
 [Başvuru için](https://blog.perapalace.com/etkinlik/5-kara-hafta-festivalinde-genc-yazarlar-icin-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+
+[Öykü Yarışmasının Sonuçları:](https://twitter.com/karahaftaistan1/status/1186302138999345153?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
