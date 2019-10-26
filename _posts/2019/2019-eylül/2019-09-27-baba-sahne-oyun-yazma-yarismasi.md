@@ -3,7 +3,7 @@ layout: post
 title: "Baba Sahne Oyun Yazma Yarışması"
 description: "para ödüllü yarışmalar 2020"
 category: articles
-tags: [ocak 2020, tiyatro oyun yarışması, üniversite]
+tags: [ocak 2020, senaryo yarışması, üniversite]
 comments: true
 lastDate: 1579208400
 dateHuman: "17 Ocak 2020"

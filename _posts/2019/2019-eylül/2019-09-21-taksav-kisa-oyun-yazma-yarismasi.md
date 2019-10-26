@@ -3,7 +3,7 @@ layout: post
 title: "Taksav Kısa Oyun Yazma Yarışması"
 description: "ödüllü tiyatro oyunu yazma yarışması 2019, uluslararası izmir tiyatro festivali"
 category: articles
-tags: [kasım 2019, tiyatro oyun yarışması, üniversite]
+tags: [kasım 2019, senaryo yarışması, üniversite]
 comments: true
 lastDate: 1573419600
 dateHuman: "11 Kasım 2019"
