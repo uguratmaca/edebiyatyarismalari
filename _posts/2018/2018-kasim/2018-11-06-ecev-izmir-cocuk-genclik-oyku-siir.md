@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "EÇEV - 5. İzmir	Çocuk ve Gençlik Edebiyatı Günleri Gençler Öykü - Şiir Yarışması"
-description: "EÇEV - 5. İzmir	Çocuk ve Gençlik Edebiyatı Günleri Gençler Öykü - Şiir Yarışması"
+title: "5. İzmir Çocuk ve Gençlik Edebiyatı Günleri Gençler Öykü, Şiir Yarışması"
+description: "EÇEV 5. İzmir Çocuk ve Gençlik Edebiyatı Günleri Gençler Öykü, Şiir Yarışması"
 category: articles
 tags: []
 comments: true
