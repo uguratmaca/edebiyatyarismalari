@@ -21,6 +21,10 @@ title: "Edebiyat Yarışmaları 2019, Para Ödüllü Yarışmalar 2019, Makale Y
     <h5>Katılım Şekli: {{post.attendance}}</h5>
     {% endif %}
 
+    {% if post.requirements %}
+    <h6>Kısıtlar: {{post.requirements}}</h6>
+    {% endif %}
+
     {% if post.dateHuman %}
     {% if post.lastDate > nowDateInt %}
     <span style="color:green;">Başvuru devam ediyor...</span>

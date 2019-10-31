@@ -11,19 +11,23 @@ layout: default
   {% assign nowDateInt = nowunix | plus: 0 %}
 
   {% if page.dateHuman %}
-    <h2>Son başvuru tarihi: {{page.dateHuman}}</h2>
+  <h2>Son başvuru tarihi: {{page.dateHuman}}</h2>
   {% endif %}
 
   {% if page.price %}
-    <h3>Toplam para ödülü: {{page.price}}</h3>
+  <h3>Toplam para ödülü: {{page.price}}</h3>
   {% endif %}
 
   {% if page.comTopic %}
-    <h4>Konu: {{page.comTopic}}</h4>
+  <h4>Konu: {{page.comTopic}}</h4>
   {% endif %}
 
   {% if page.attendance %}
-    <h5>Katılım Şekli: {{page.attendance}}</h5>
+  <h5>Katılım Şekli: {{page.attendance}}</h5>
+  {% endif %}
+
+  {% if post.requirements %}
+  <h6>Kısıtlar: {{post.requirements}}</h6>
   {% endif %}
 
   {% if page.dateHuman %}
