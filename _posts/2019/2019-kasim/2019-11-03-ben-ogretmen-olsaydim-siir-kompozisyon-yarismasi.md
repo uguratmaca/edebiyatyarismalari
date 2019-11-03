@@ -10,7 +10,6 @@ dateHuman: "8 Kasım 2019"
 attendance: "Okula teslim"
 requirements: "Sakarya ili ve ilçelerinde okuyan ilköğretim ve lise öğrencileri"
 comTopic: "Ben Öğretmen Olsaydım…"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/iyiki-%C3%B6%C4%9Fretmenim-resim-%C5%9Fiir-an%C4%B1-fotograf-yarismasi.jpg?alt=media&token=a5340486-03a6-431f-9510-463260a059d2"
 ---
 
 Sakarya İl Milli Eğitim Müdürlüğü tarafından 24 Kasım Öğretmenler Günü anısına ilkokul öğrencilerinin şiir; ortaokul ve lise öğrencilerinin kompozisyon dallarında katılabilecekleri yarışma düzenlenecektir.

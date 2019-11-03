@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Senin İklim Kahramanın Kim Öykü, Resim, Fotograf Yarışması"
+title: "Senin İklim Kahramanın Kim Öykü, Resim, Fotoğraf Yarışması"
 description: "öykü yarışması 2019, hikaye yarışması 2019, para ödüllü yarışmalar 2019"
 category: articles
-tags: [kasım 2019, lise, hikaye yarışması, resim yarışması, fotograf yarışması]
+tags: [kasım 2019, lise, hikaye yarışması, resim yarışması, fotoğraf yarışması]
 comments: true
 lastDate: 1575061200
 dateHuman: "30 Kasım 2019"
