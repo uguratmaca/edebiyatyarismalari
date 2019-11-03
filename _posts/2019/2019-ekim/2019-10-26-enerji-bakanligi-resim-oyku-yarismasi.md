@@ -9,7 +9,7 @@ lastDate: 1575061200
 dateHuman: "6 Aralık 2019"
 comTopic: "Enerji Kaynaklarının Verimli Kullanılması"
 attendance: "Okul"
-age: "İlkokul ve Ortaokul"
+requirements: "İlkokul ve Ortaokul"
 ---
 
 Enerji Bakanlığı Resim Ve Öykü Yarışması Düzenliyor. Enerji Ve Tabii Kaynaklar Bakanlığı Enerji Verimliliği Ve Çevre Dairesi Başkanlığı İlkokul Öğrencilerine Yönelik Ödüllü Resim Ve Ortaokul Öğrencilerine Yönelik Öykü Yarışmasının Konusu Enerji Kaynaklarının Verimli Kullanılması.
