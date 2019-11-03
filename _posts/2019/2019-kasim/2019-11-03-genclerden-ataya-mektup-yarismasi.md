@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gençlerden Ata'ya Mektup Yarışması"
-description: "güncel senaryo yarışması 2020, para ödüllü yarışmalar 2020"
+description: "güncel mektup yarışması 2020, para ödüllü yarışmalar 2020"
 category: articles
 tags: [mayıs 2020, lise, mektup yarışması]
 comments: true
