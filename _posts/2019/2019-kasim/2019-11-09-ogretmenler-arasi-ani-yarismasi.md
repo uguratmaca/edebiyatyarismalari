@@ -9,7 +9,7 @@ lastDate: 1574024400
 dateHuman: "18 Kasım 2019"
 comTopic: "Öğretmenlerin meslek yaşamları süresindeki eğitim öğretim ile ilgili yaşanmışlıkları yarışmanın konusunu oluşturmaktadır."
 attendance: "Okul müdürlüklerine teslim"
-requirements: "Biga İlçe Milli Eğitim Müdürlüğüne bağlı resmî ve özel okul/kurumlarda görev yapan öğretmen ve yöneticiler başvuru yapabileceklerdir"  
+requirements: "Biga İlçe Milli Eğitim Müdürlüğüne bağlı resmî ve özel okul/kurumlarda aktif olarak görev yapan öğretmen ve yöneticiler başvuru yapabileceklerdir"  
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ogretmenler-arasi-ani-yarismasi.jpg?alt=media&token=b91fbb9b-5062-4b66-95d1-7bdd8a505955"
 ---
 
@@ -17,7 +17,7 @@ Yarışmanın Amacı:
 Öğretmenlik mesleğinin algı ve statüsünün yükselmesine katkı sağlayacak, birlik ve beraberliğini pekiştirmek, moral ve motivasyonlarını artırmak, öğretmenlik mesleğinin kamuoyuna daha iyi tanıtılmasını sağlamasıyla öğretmenlerin eğitim öğretim ile ilgili yaşanmışlıklarının meslek yaşamlarındaki önemini çizmek, öğretmenlerin kişisel gelişimine katkıda bulunmak, gelecek kuşaklara ve diğer öğretmenlere aktarılmasını sağlamak.
 
 Yarışma Şartları:
-a)  Biga İlçe Milli Eğitim Müdürlüğüne bağlı resmî ve özel okul/kurumlarda görev yapan öğretmen ve yöneticiler başvuru yapabileceklerdir.
+a)  Biga İlçe Milli Eğitim Müdürlüğüne bağlı resmî ve özel okul/kurumlarda aktif olarak görev yapan öğretmen ve yöneticiler başvuru yapabileceklerdir.
 b)  Başvuru yapılan anının yazımında, Türkiye Cumhuriyeti Anayasası, Millî Eğitim Temel Kanunu ile Türk Millî Eğitiminin genel amaçlarına uygun olarak,ilgili yasal düzenlemelerde belirtilen ilke, esas ve amaçlara aykırılık teşkil etmeyecek şekilde hazırlanması gerekmektedir. Bu şekilde hazırlanmayan eserler değerlendirilmeye alınmayacaktır.
 c)  Başvuru sahipleri en fazla bir anı ile yarışmaya katılacaklardır. Birden fazla anı ile katılanların başvuruları geçersiz sayılacaktır.
 ç)  Yarışmaya başvurusu yapılan anının daha önce herhangi bir yarışmada ödül almamış ve yayımlanmamış olması gerekmektedir.
