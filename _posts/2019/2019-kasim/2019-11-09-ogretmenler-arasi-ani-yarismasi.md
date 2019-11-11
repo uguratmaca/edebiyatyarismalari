@@ -36,8 +36,8 @@ Komisyon değerlendirmesi
 Sonuçların duyurulması
 21 Kasım 2019
 
-Ödül Töreni
-24 Kasım 2019
+Ödül töreni 
+25 Kasım 2019
 
 Değerlendirme:
 Eserler, Biga İlçe Millî Eğitim Müdürlüğü tarafından oluşturulacak komisyon (1 şube müdürü, 2 şer tane Türk Dili ve Edebiyatı, Türkçe branşlarından oluşan 5 (beş) kişilik Eser İnceleme ve Değerlendirme Komisyonu) tarafından değerlendirilecektir.
@@ -49,7 +49,7 @@ Değerlendirme puanı, tüm üyelerin vermiş oldukları puanların aritmetik or
 2.Olan esere :  750 TL Hediye Çeki
 3.Olan esere :  500 TL Hediye Çeki verilecektir.
 
-Ödül töreni 24 Kasım 2019 tarihinde ilçemizde Atatürk Kültür Merkezinde yapılacak olan 24 Kasım Öğretmenler Günü İlçe Programında gerçekleşecektir.
+Ödül töreni 25 Kasım 2019 tarihinde ilçemizde Atatürk Kültür Merkezinde yapılacak olan 24 Kasım Öğretmenler Günü İlçe Programında gerçekleşecektir.
 
 İletişim
 KOORDİNATÖR: Damla GÜNDÜZ
