@@ -8,9 +8,8 @@ comments: true
 lastDate: 1589922000
 dateHuman: "20 Mayıs 2020"
 comTopic: "Özgürlük, “Tekerleklerin üstünde yelle yarışıyordu.” Zeynep Cemali’nin Patenli Kız kitabından."
-attendance: "Posta/Kargo"
+attendance: "E-Posta"
 requirements: "2019 - 2020 öğretim yılında tüm okulların 6, 7 ve 8. sınıflarında okuyan öğrenciler katılabilir."  
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/sefer-eksi-kultur-sanat-odulleri-oyku-yarismasi.jpg?alt=media&token=e419164e-1554-4693-b16e-c2642e8c37bb"
 ---
 
 1- Yarışmaya Türkiye genelinde, 2019 - 2020 öğretim yılında tüm okulların 6, 7 ve 8. sınıflarında okuyan öğrenciler katılabilir.
@@ -19,6 +18,7 @@ image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot
 4- Metin, öykü türüne uygun olarak yazılmalıdır.
 5- Öykü, Türkçe dilinde yazılmalıdır.
 6- Öykü, “özgürlük” temasında yazılmalıdır. Esinlenme için önerilen kılavuz cümlenin öyküde kullanılması şart değildir.
+
 7- Öykü, A4 boyutunda dosya kâğıdına, tercihen bilgisayarda 12 punto, “Times New Roman” yazı karakteriyle ya da okunaklı elyazısıyla yazılmalıdır.
 8- Öykünün uzunluğunun 1,5 satır aralığıyla, iki (2) A4 sayfadan az, dört (4) A4 sayfadan fazla olmaması önerilir.
 9- Öykünün başında öykü adı ve hemen altında da öyküyü yazan öğrencinin adı yer almalıdır.

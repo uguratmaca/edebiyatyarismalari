@@ -11,7 +11,7 @@ comTopic: "Serbest"
 price: "15 Bin TL'dir"
 attendance: "Websitesi"
 requirements: "Tüm lise öğrencileri ve yetişkinler katılabilir"  
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/31-omer-seyfettin-hikaye-yarismasi-2020.jpg?alt=media&token=3fd75d48-a8fc-4a9a-aaf0-fb5642cb4c15"
+image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/31-omer-seyfettin-hikaye-yarismasi-2020.jpg?alt=media&token=cfb6662d-3fad-4d2f-92ca-a257f0d74603"
 ---
 
 31'incisi Düzenlenen Gönen Belediye Belediyesi Ömer Seyfettin Hikaye Yarışması Lise Ve Yetişkinler Bölümü Olarak Yapılacak. Yarışmaya Tüm Resmi Ve Özel Lise Öğrencileri Ve Yetişkinler Katılabilir.
