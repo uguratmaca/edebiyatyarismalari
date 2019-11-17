@@ -45,7 +45,6 @@ Birinciye 3 Bin Türk Lirası
 Üçüncüye 2 Bin Türk Lirası
 1 Kişiye Özendirme Ödülü 1.000 Türk Lirası
 
-Sponsorlu Bağlantılar
 Yetişkin Ödülleri:
 Birinciye 3 Bin Türk Lirası
 İkinciye 2.500 Türk Lirası
