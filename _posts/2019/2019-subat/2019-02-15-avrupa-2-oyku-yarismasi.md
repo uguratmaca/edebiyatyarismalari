@@ -20,4 +20,13 @@ Anadil, bir kimlik, bir medeniyet ve bir tarih gibidir. Anadil, özbenliktir, ar
 3'nciye Sandıklı Thermal Park Resort Spa otelde 3 gün konaklama.
 4'nciye Sandıklı Thermal Park Resort Spa otelde 2 gün konaklama
 
+Sonuçlar:
+Bu sene gerçekleştirilen 2. Avrupa Öykü Yarışmasına Yoğun Katılım Oldu
+Avrupa’nın birçok ülkesinden ve Türkiye’den yoğun katılım oldu.
+Birinci :  Asiye adlı öyküsüyle  Dursaliye Şahan  (İngiltere )kazandı.
+İkinci :  Abdullah Bin Mükerrer’in Hikâyesi adlı öyküsüyle Bülent Başaran  (Türkiye - Adana )kazandı.
+Üçüncü:  Tahtadan Dünyalar Ateş Aldı Sobadan öyküsüyle Serra Gök (Türkiye- İstanbul) kazandı.
+Dördüncü : İntikam Bazen Bir Aperatiftir adlı öyküsüyle Kerime Sak ( Türkiye - İstanbul) kazandı.
+
 [Detaylar ve Başvuru için](http://www.kamuajans.com/guncel/avrupa-2-oyku-yarismasi-basladi-h534357.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Kazanan Öyküleri Okumak için](http://www.gundem.be/tr/kultur-sanat/avrupa-2-oyku-yarismasi-sonuclandi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
