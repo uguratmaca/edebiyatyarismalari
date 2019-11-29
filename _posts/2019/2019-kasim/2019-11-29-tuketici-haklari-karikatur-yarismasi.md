@@ -8,7 +8,6 @@ comments: true
 lastDate: 1581022800
 dateHuman: "7 Şubat 2020"
 attendance: "Elden/Posta/Kargo"
-price: "5 Bin TL'dir"
 comTopic: "Tüketici Hakları"
 requirements: "Yarışma lise 9,10,11 ve 12 inci sınıflar için yapılacaktır"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/tuketici-haklari-karikatur-yarismasi.jpg?alt=media&token=87cc2ef5-4a02-4e72-bbef-f1cd6b2e3065"
