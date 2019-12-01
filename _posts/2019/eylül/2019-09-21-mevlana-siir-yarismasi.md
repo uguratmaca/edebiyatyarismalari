@@ -11,11 +11,12 @@ attendance: "EPosta"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/mevlana-liseler-arasi-siir-yarismasi.jpg?alt=media&token=acd91f2a-7a93-4c1a-b414-c3be71833963"
 ---
 
-Bizlere farklı gönül pencereleri açan büyük alimlerimiz,düşünürlerimiz eserleri ve felsefeleri ile bize emanettir. Onlara sahip çıktığımız,yaşattığımız sürece maneviyatı korunmuş güçlü bir toplum olarak ayakta kalabiliriz.Bu kapsamda çocuklarımıza Mevlana sevgisini aşılamak ve gönüllerindeki Mevlana’yı bulmak adına bu **yarışma**yı düzenlemekteyiz.
+Bizlere farklı gönül pencereleri açan büyük alimlerimiz,düşünürlerimiz eserleri ve felsefeleri ile bize emanettir. 
+Onlara sahip çıktığımız yaşattığımız sürece maneviyatı korunmuş güçlü bir toplum olarak ayakta kalabiliriz.
+Bu kapsamda çocuklarımıza Mevlana sevgisini aşılamak ve gönüllerindeki Mevlana’yı bulmak adına bu **yarışma**yı düzenlemekteyiz.
 Yarışma 81 ilde liseler arasında düzenlenmektedir.
 
-KATILIM KOŞULLARI
-
+Katılım Koşulları:
 Yarışmanın konusu Mevlana başlığı altında serbesttir.
 Her yarışmacı yalnız 1 eserle yarışmaya katılabilir.
 Daha önce ödül almış olanlar katılamaz.
@@ -44,3 +45,8 @@ Danışman Öğretmenin Adı/
 Soyadı Telefonu (Cep)
 Şiirin Adı
 Rumuz
+
+**Yarışmanın Sonuçları:**
+Türkiye genelinden yoğun bir katılımın olduğu yarışmada birincilik ödülünü, Sakarya Cemil Meriç Sosyal Bilimler Lisesi'nden Nisa Nur Tetik, isimli öğrenci kazandı. Jüri üyelerinin dereceye girenleri belirlemekte zorlandığı yarışmada ikincilik ödülü Adana Hümeyra Ökten Kız Anadolu İmam Hatip Lisesi'nden Zeynep Sude Deveci'nin olurken, üçüncülük ödülü ise Muğla Kanuni Sultan Süleyman Anadolu Lisesi'nden Yağmur Şahin'e verildi. Yarışmada mansiyon ödülü kazanan isimler ise, Zonguldak İbrahim Süheyla İzmir Fen Lisesi'nden Muhammet Furkan Davulcu, Bursa Ali Karasu Anadolu Lisesi'nden Esra Yayla ve Rize Sosyal Bilimler Lisesi'nden Emirak Uzun oldu.
+
+Yarışmada dereceye giren eserlerin sahipleri için 14 Aralık 2019 tarihinde Panorama 1326 Bursa Fetih Müzesi'nde ödül töreni düzenlenecek. Sema gösterisinin de yapılacağı ödül töreninde, dereceye giren eserlerin sahiplerine ödülleri Dündar tarafından takdim edilecek.

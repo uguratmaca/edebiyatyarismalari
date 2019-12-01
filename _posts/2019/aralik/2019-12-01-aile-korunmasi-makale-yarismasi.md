@@ -33,50 +33,27 @@ Katılım Şartları:
 -Yarışmaya katılanlar bu şartnamedeki hükümleri tümüyle kabul etmiş sayılırlar. Yarışmaya gönderilen makalelerin (yarışmanın hangi aşamasında olursa olsun) şartnamenin herhangi bir maddesine aykırılık tespit edildiği takdirde yarışma dışı bırakılacaktır.
 Yarışmada ödüle layık görülmüş bir makalenin şartnameye aykırılığı ortaya çıkmışsa, alınan ödül iptal edilir; eğer verilmişse, geri alınır.
 
-
-
-YARIŞMA TAKVİMİ
-
+Takvim
 25 Kasım 2019 Yarışma ilanı ve Eserlerin Kabulü
-
 20 Ocak 2020 Son Teslim Tarihi
-
 24 Ocak – 20 Şubat 2020 Jüri Değerlendirmeleri
-
 2 Mart 2020 Ödül Töreni
-
  
+Ödüller:
+Birinci : 10.000 TL  (On Bin Türk Lirası )
+İkinci  : 7.500 TL ( Yedi Bin Beş Yüz Türk Lirası)
+Üçüncü  : 5.000 TL ( Beş Bin Türk Lirası )  
 
-ÖDÜLLER 
-
-Birinci    : 10.000 TL  (On Bin Türk Lirası )
-
-İkinci     :  7.500 TL ( Yedi Bin Beş Yüz Türk Lirası)
-
-Üçüncü : 5.000 TL ( Beş Bin Türk Lirası )  
-
- 
-
-YARIŞMA JÜRİSİ 
-
+Jüri:
 FSMVÜ Öğretim Üyesi Prof. Dr. Murat BALCI
-
 Marmara Üniversitesi Öğretim Üyesi Doç. Dr. Mehmet Emin ALŞAHİN
-
 FSMVÜ Öğretim Üyesi Dr. Hüseyin AYDIN
-
 Bakırköy Adalet Komisyonu Başkanı Hâkim Atila ÖZTÜRK
-
 Cumhuriyet Savcısı İlkay ÖZCAN
-
 CTE İstanbul Eğitim Başkanı Hâkim Bedir FİDAN
 
- 
-
-DETAYLI BİLGİ VE İLETİŞİM 
-
+İletişim:
 Adres: Fatih Sultan Mehmet Vakıf Üniversitesi, Haliç Yerleşkesi Sütlüce Mah. Karaağaç Cad. No:12/A Beyoğlu / İSTANBUL
-
 İrtibat Numarası : 0539 657 66 38
 
 [Başvuru Formu](http://sks.fsm.edu.tr/makale_yarismasi_basvuru_formu?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
