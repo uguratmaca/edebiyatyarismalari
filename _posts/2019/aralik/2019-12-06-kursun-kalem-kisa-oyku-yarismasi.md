@@ -10,7 +10,6 @@ dateHuman: "27 Ocak 2020"
 comTopic: "İlkokul çağındaki çocukların dış mekânlarda oynamalarının onlara, dolayısıyla topluma ne kazandırdıklarına dikkat çekmektir"
 attendance: "E-Posta"
 requirements: "Yarışma 18 yaşını dolduran herkese açıktır."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kudus-konulu-hikaye-yarismasi.jpg?alt=media&token=1fbed096-4471-4d22-93ff-4dcf13de6bb1"
 ---
 
 Amaçlar:
