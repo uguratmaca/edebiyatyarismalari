@@ -5,7 +5,7 @@ description: "öykü yarışması 2020, güncel hikaye yarışması 2020, hikaye
 category: articles
 tags: [mart 2020, lise, ortaokul, hikaye yarışması]
 comments: true
-lastDate: 1552424400
+lastDate: 1584046800
 dateHuman: "13 Mart 2020"
 comTopic: "Doğa ve İnsan"
 attendance: "Posta ya da E-Posta"
