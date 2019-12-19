@@ -11,11 +11,11 @@ layout: default
   {% assign nowDateInt = nowunix | plus: 0 %}
 
   {% if page.dateHuman %}
-  <h2>Son başvuru tarihi: {{page.dateHuman}}</h2>
+  <h2>🗓️ Son başvuru tarihi: {{page.dateHuman}}</h2>
   {% endif %}
 
   {% if page.price %}
-  <h3>Toplam para ödülü: {{page.price}}</h3>
+  <h3>🏆 Toplam para ödülü: {{page.price}}</h3>
   {% endif %}
 
   {% if page.comTopic %}
@@ -43,7 +43,7 @@ layout: default
   {% endif %}
 
   {% if page.image %}
-  <section style="text-align:center; margin-bottom: 3%;">
+  <section style="text-align:center; margin-bottom: 3%; margin-top: 1%;">
     <img style="max-height:720px;max-width: 90%;" src="{{page.image}}" alt="{{page.title}}" />
   </section>
   {% endif %}
