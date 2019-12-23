@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Dünya Su Günü Kompozisyon ve Resim Yarışması"
-description: "öykü yarışması 2020, hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları, resim yarışması"
+description: "kompozisyon yarışması 2020, kompozisyon yarışmaları, resim yarışması"
 category: articles
-tags: [şubat 2020, ortaokul, hikaye yarışması, resim yarışması]
+tags: [şubat 2020, ortaokul, kompozisyon yarışması, resim yarışması]
 comments: true
 lastDate: 1581454800
 dateHuman: "12 Şubat 2020"
