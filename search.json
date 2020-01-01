@@ -1,13 +1,20 @@
 ---
 ---
+
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% assign nowDateInt = nowunix | plus: 0 %}
+
 [
   {% for post in site.posts %}
+    {% if post.lastDate > nowDateInt %}
     {
 
       "title"    : "{{ post.title | escape }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "tags"     : "{{ post.tags | join: ', ' }}"
 
-    } {% unless forloop.last %},{% endunless %}
+    } 
+    {% unless forloop.last %},{% endunless %}
+    {% endif %}
   {% endfor %}
 ]
