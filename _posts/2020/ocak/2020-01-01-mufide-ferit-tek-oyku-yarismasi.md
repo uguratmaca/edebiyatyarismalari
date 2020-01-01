@@ -5,7 +5,7 @@ description: "öykü yarışması 2020, hikaye yarışması 2020, hikaye yarış
 category: articles
 tags: [nisan 2020, üniversite, hikaye yarışması]
 comments: true
-lastDate: 1583442000
+lastDate: 1585861200
 dateHuman: "3 Nisan 2020"
 comTopic: "Hayat Bir Oyunsa, Kendi Rolünüzü Bu Oyunda Nasıl Görüyorsunuz?"
 attendance: "E-Posta"
