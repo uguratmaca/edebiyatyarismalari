@@ -1,12 +1,7 @@
 ---
 ---
-
-{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-{% assign nowDateInt = nowunix | plus: 0 %}
-
 [
   {% for post in site.posts %}
-    {% if post.lastDate > nowDateInt %}
     {
 
       "title"    : "{{ post.title | escape }}",
@@ -15,6 +10,5 @@
 
     } 
     {% unless forloop.last %},{% endunless %}
-    {% endif %}
   {% endfor %}
 ]
