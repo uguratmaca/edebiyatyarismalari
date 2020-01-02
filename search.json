@@ -1,13 +1,16 @@
 ---
 ---
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% assign nowDateInt = nowunix | plus: 0 %}
+{% assign filtered_posts = site.posts  | where_exp: "item", "item.lastDate > nowDateInt" %}
+
 [
-  {% for post in site.posts %}
+  {% for post in filtered_posts %}
     {
 
       "title"    : "{{ post.title | escape }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "tags"     : "{{ post.tags | join: ', ' }}"
-
     } 
     {% unless forloop.last %},{% endunless %}
   {% endfor %}
