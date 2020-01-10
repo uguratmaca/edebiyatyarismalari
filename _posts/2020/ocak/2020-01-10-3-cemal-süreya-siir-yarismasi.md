@@ -3,7 +3,7 @@ layout: post
 title: "3. Cemal Süreya Şiir Yarışması"
 description: "şiir yarışması, şiir yarışmaları 2020"
 category: articles
-tags: [şubat 2020, genel, istanbul, şiir yarışması]
+tags: [şubat 2020, lise, istanbul, şiir yarışması]
 comments: true
 lastDate: 1580590800
 dateHuman: "2 Şubat 2020"
