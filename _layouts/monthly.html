@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<section style="padding: 3%;">
+<section class="def-pad">
 	<h1>{{page.title}}</h1>
 	<hr>
 
@@ -12,26 +12,28 @@ layout: default
 	{% if post.tags contains page.key %}
 	<section>
 		<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
+
 		{% if post.dateHuman %}
-		<h3>🗓️ Son başvuru tarihi: {{post.dateHuman}}</h3>
-		{% endif %}
-		{% if post.price %}
-		<h4>🏆 Toplam para ödülü: {{post.price}}</h4>
+		<p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
 		{% endif %}
 
-		{% if post.attendance %}
-		<h5>Katılım Şekli: {{post.attendance}}</h5>
+		{% if post.price %}
+		<p>🏆 Yarışmanın toplam para ödülü: <b>{{post.price}}</b></p>
 		{% endif %}
 
 		{% if post.requirements %}
-		<h6>Kısıtlar: {{post.requirements}}</h6>
+		<p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
 		{% endif %}
 
 		{% if post.dateHuman %}
 		{% if post.lastDate > nowDateInt %}
-		<span style="color:green;">Yarışma başvurusu devam ediyor...</span>
+		<section>
+			<p class="up-to-date">Yarışma başvurusu devam ediyor...</p>
+		</section>
 		{% else %}
-		<span style="color:red;">Yarışma başvurusu bitti!</span>
+		<section>
+			<p class="past">Yarışma başvurusu bitti!</p>
+		</section>
 		{% endif %}
 		{% endif %}
 

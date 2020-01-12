@@ -3,7 +3,7 @@ layout: default
 title: "Şiir Yarışması,  Hikaye, Öykü, Resim Yarışması, Para Ödüllü Yarışmalar"
 ---
 
-<div style="padding: 3%;">
+<div class="def-pad">
   <h1>{{site.title}}</h1>
   <hr>
   {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
@@ -11,27 +11,30 @@ title: "Şiir Yarışması,  Hikaye, Öykü, Resim Yarışması, Para Ödüllü 
   {% for post in paginator.posts %}
   <div>
     <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
-    {% if post.dateHuman %}
-    <h3>Son başvuru tarihi: {{post.dateHuman}}</h3>
-    {% endif %}
-    {% if post.price %}
-    <h4>Toplam para ödülü: {{post.price}}</h4>
-    {% endif %}
-    {% if post.attendance %}
-    <h5>Yarışma katılım şekli: {{post.attendance}}</h5>
-    {% endif %}
-
-    {% if post.requirements %}
-    <h6>Yarışma kısıtları: {{post.requirements}}</h6>
-    {% endif %}
-
-    {% if post.dateHuman %}
-    {% if post.lastDate > nowDateInt %}
-    <span style="color:green;">Başvuru devam ediyor...</span>
-    {% else %}
-    <span style="color:red;">Başvuru bitti!</span>
-    {% endif %}
-    {% endif %}
+   
+	{% if post.dateHuman %}
+	<p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
+	{% endif %}
+  
+	{% if post.price %}
+	<p>🏆 Yarışmanın toplam para ödülü: <b>{{post.price}}</b></p>
+	{% endif %}
+  
+	{% if post.requirements %}
+	<p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
+	{% endif %}
+  
+	{% if post.dateHuman %}
+	{% if post.lastDate > nowDateInt %}
+	<section>
+	  <p class="up-to-date">Yarışma başvurusu devam ediyor...</p>
+	</section>
+	{% else %}
+	<section>
+	  <p class="past">Yarışma başvurusu bitti!</p>
+	</section>
+	{% endif %}
+	{% endif %}
 
     {{ post.excerpt }}
   </div>

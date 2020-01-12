@@ -5,7 +5,7 @@ layout: default
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 {% assign nowDateInt = nowunix | plus: 0 %}
 
-<section style="padding: 3%;">
+<section class="def-pad">
     <h1>{{page.headline}}</h1>
     {% if page.subline %}
     <p>{{page.subline}}</p>
@@ -18,20 +18,20 @@ layout: default
     {% if post.tags contains page.key %}
     <section>
         <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
+
         {% if post.dateHuman %}
-        <h3>🗓️ Son başvuru tarihi: {{post.dateHuman}}</h3>
-        {% endif %}
-        {% if post.price %}
-        <h4>🏆 Toplam para ödülü: {{post.price}}</h4>
-        {% endif %}
-        {% if post.attendance %}
-        <h5>Katılım Şekli: {{post.attendance}}</h5>
-        {% endif %}
-        {% if post.requirements %}
-        <h6>Kısıtlar: {{post.requirements}}</h6>
+        <p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
         {% endif %}
 
-        <span style="color:green;">Yarışma başvurusu devam ediyor...</span>
+        {% if post.price %}
+        <p>🏆 Yarışmanın toplam para ödülü: <b>{{post.price}}</b></p>
+        {% endif %}
+
+        {% if post.requirements %}
+        <p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
+        {% endif %}
+
+        <p class="up-to-date">Yarışma başvurusu devam ediyor...</p>
 
         {{ post.excerpt }}
     </section>

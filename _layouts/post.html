@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article style="padding: 3%;">
+<article class="def-pad">
   <header>
     <h1>{{ page.title }}</h1>
   </header>
@@ -11,40 +11,40 @@ layout: default
   {% assign nowDateInt = nowunix | plus: 0 %}
 
   {% if page.dateHuman %}
-  <h2>🗓️ Son başvuru tarihi: {{page.dateHuman}}</h2>
+  <p>🗓️ Yarışmanın son başvuru tarihi: <b>{{page.dateHuman}}</b></p>
   {% endif %}
 
   {% if page.price %}
-  <h3>🏆 Toplam para ödülü: {{page.price}}</h3>
+  <p>🏆 Yarışmanın toplam para ödülü: <b>{{page.price}}</b></p>
   {% endif %}
 
   {% if page.comTopic %}
-  <h4>Konu: {{page.comTopic}}</h4>
+  <p>✍️ Yarışmanın konusu: <b>{{page.comTopic}}</b></p>
   {% endif %}
 
   {% if page.attendance %}
-  <h5>Katılım Şekli: {{page.attendance}}</h5>
+  <p>✉️ Yarışmanın katılım şekli: <b>{{page.attendance}}</b></p>
   {% endif %}
 
   {% if page.requirements %}
-  <h6>Kısıtlar: {{page.requirements}}</h6>
+  <p>❗ Yarışmadaki kısıtlar: <b>{{page.requirements}}</b></p>
   {% endif %}
 
   {% if page.dateHuman %}
   {% if page.lastDate > nowDateInt %}
   <section>
-    <span style="color:green;">Yarışma başvurusu devam ediyor...</span>
+    <p class="up-to-date">Yarışma başvurusu devam ediyor...</p>
   </section>
   {% else %}
   <section>
-    <span style="color:red;">Yarışma başvurusu bitti!</span>
+    <p class="past">Yarışma başvurusu bitti!</p>
   </section>
   {% endif %}
   {% endif %}
 
   {% if page.image %}
-  <section style="text-align:center; margin-bottom: 3%; margin-top: 1%;">
-    <img style="max-height:720px;max-width: 90%;" src="{{page.image}}" alt="{{page.title}}" />
+  <section class="img-sec">
+    <img src="{{page.image}}" alt="{{page.title}}" />
   </section>
   {% endif %}
 

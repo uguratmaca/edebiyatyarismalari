@@ -14,10 +14,9 @@ requirements: "Yarışmaya üniversitelerde öğrenim gören herkes katılabilir
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/uyusturucu-madde-kullanimi-onleme-oyku-yarismasi.png?alt=media&token=3211fb38-d42c-41ed-8ebc-087c96fc8d12"
 ---
 
-Amaç:  
-Uyuşturucu madde bağımlılığının sağlığa, insan ilişkilerine ve topluma verdiği olumsuz etkileri ortaya koymak ve özellikle üniversite gençliği arasında uyuşturucu madde kullanımını önlemek ve uyuşturucunun zararlarına dikkat çekmektir.
+Yarışmanın amacı uyuşturucu madde bağımlılığının sağlığa, insan ilişkilerine ve topluma verdiği olumsuz etkileri ortaya koymak ve özellikle üniversite gençliği arasında uyuşturucu madde kullanımını önlemek ve uyuşturucunun zararlarına dikkat çekmektir.
 
-Katılım Şartları:  
+## Öykü Yarışması Katılım Şartları:  
 - Öykülerin teması; bağımlılık, uyuşturucunun insan ve toplum üzerindeki zararları konuları çerçevesinde oluşturulacaktır.
 - Eserlerde, uyuşturucu maddeyi özendiren, teşvik eden, kullanımı hakkında detaylı bilgi veren ifadeler kullanılmayacaktır.
 - Yarışmaya katılım sağlayan tüm eserler;
@@ -39,13 +38,13 @@ Katılım Şartları:
 - Usulüne uygun olarak doldurulmamış ve imzalanmamış katılım formlarına ilişkin eser değerlendirilmeye alınmayacaktır.
 - Yarışmaya katılım ücretsizdir.
 
-Değerlendirme Kriterleri:  
+## Değerlendirme Kriterleri:  
 - Öykü metninin temaya uygunluğu ve etkileyiciliği.
 - Üslup (Anlaşılabilir bir anlatım biçimi ve etkili bir giriş gelişme sonuç oluşturabilme).
 - Özgünlük ve edebi nitelik.
 - Türkçeyi Kullanma gücü (Anlatılmak isteneni ifade edecek doğru sözcükleri kullanabilme ve dilbilgisi ile yazım kurallarını uygulayabilme).
 
-Eserlerin Kullanım Hakkı:  
+## Eserlerin Kullanım Hakkı:  
 - Yarışmaya katılan bütün eserlerin her türlü telif hakkı 5846 sayılı Fikir ve Sanat Eserleri Kanunu kapsamında bedelsiz ve süresiz olarak T.C. İçişleri Bakanlığı Emniyet Genel Müdürlüğü’ne ait olacaktır. İçişleri Bakanlığı Emniyet Genel Müdürlüğü - Narkotik Suçlarla Mücadele Daire Başkanlığı yarışma yolu ile elde ettiği bu eserleri televizyon, internet ve diğer tüm ortamlarda yayımlama; katalog, broşür, afiş, kitap, ajanda, takvim, dergi, CD, video ve diğer ortamlara alarak yayınını ve dağıtımını yapma, ayrıca yurt içi ve yurt dışındaki eğitim ve kültür kurumlarına gönderme ve eğitim etkinliklerinde kullanma hakkına sahip olacaktır.
 - Emniyet Genel Müdürlüğü, hazırlanan ürün ve hizmetlerden kaynaklanan telif hakkı ihlallerinden sorumlu tutulamaz.
 - Yarışmacılar katılım formunu imzalayarak şartname hükümlerini tamamen kabul etmiş olacaklardır.
@@ -53,15 +52,15 @@ Eserlerin Kullanım Hakkı:
 Gönderilecek Bilgi ve Belgeler:  
 - Hazırlanan eser ile birlikte ekte bulunan katılım formu.
 
-Jüri ve Değerlendirme:  
+## Jüri ve Değerlendirme:  
 Değerlendirme EGM Narkotik Suçlarla Mücadele Daire Başkanlığınca oluşturulacak Seçici Kurul tarafından yapılarak; birinci, ikinci, üçüncü ve mansiyon ödülünü hak eden eserler seçilecektir.
 
-Takvim:  
+## Yarışma Takvimi:  
 Eserlerin Son Teslim Tarihi : 30 Nisan 2020
 Jüri Değerlendirmesi : 15 Mayıs 2020
 Sonuçların Duyurulması : 2 Haziran 2020
 
-Ödüller:  
+## Ödüller:  
 1.lik Ödülü ; 10.000 TL
 2.lik Ödülü ; 5.000 TL
 3.lük Ödülü ; 2.500 TL
