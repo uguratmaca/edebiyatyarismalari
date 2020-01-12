@@ -54,13 +54,13 @@ Yarışmaya başvuran şiirler, Seçici Kurul tarafından belirlenen aşağıdak
 1. Özgünlük
 2. Sanatsal değeri
 3. Türk örf, adet ve geleneklerine uygunluk
-4. Türkçe’nin kullanımı ve zenginliği
+4. Türkçe’nin kullanımı ve zenginliği  
  
 Ödüller:  
-Birincilik Ödülü	    : 5.000 TL
-İkincilik Ödülü	        : 4.000 TL
-Üçüncülük Ödülü	        : 3.000 TL
-Mansiyonlar (3 Adet)	: 1.500 TL
+Birincilik Ödülü	    : 5.000 TL  
+İkincilik Ödülü	        : 4.000 TL  
+Üçüncülük Ödülü	        : 3.000 TL  
+Mansiyonlar (3 Adet)	: 1.500 TL  
 Aile Özel Ödülü	: Cemal SAFİ’nin ailesi tarafından seçilen bir şiire, aile tarafından verilecektir.
  
 Dereceye giren ve mansiyona değer bulunan eser sahiplerine ayrıca plaket verilecek ve Jüri değerlendirmesi sonucu belirlenen eserlerle birlikte seçki albümü haline getirilerek yayınlanacaktır.
