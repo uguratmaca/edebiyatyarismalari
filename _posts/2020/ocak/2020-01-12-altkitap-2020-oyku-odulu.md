@@ -1,7 +1,7 @@
 ---
 layout: post
 title: altKitap 2020 Öykü Ödülü
-description: "öykü yarışması 2020, hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
+description: "altkitap öykü yarışması, hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
 category: articles
 tags: [mart 2020, genel, hikaye yarışması]
 comments: true
@@ -15,7 +15,7 @@ image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot
 
 Sadece öykü başvuruları kabul edilmektedir. Roman, deneme, şiir, vb. türlerde yapılan başvurular değerlendirme dışı bırakılacaktır.  
 
-## Öykü Ödülü Katılım koşulları
+## Öykü Ödülü Katılım Koşulları
 - Konu sınırlaması yoktur.
 - altKitap 2020 Öykü Ödülü’ne bir öykü ile başvurulur.
 - Bir kişi, birden fazla öykü ile başvuruda bulunamaz.
