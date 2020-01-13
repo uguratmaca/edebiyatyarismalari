@@ -15,3 +15,4 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 disqus_shortname: "edebiyatyarmalar"
+image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/Edebiyat.png?alt=media&token=6007c0df-3152-4516-845e-738053c775b2"
