@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ailenin Korunması ve Toplum Düzeni Ulusal Makale Yarışması"
+title: "Ailenin Korunması ve Toplum Düzeni Ulusal Makale Yarışması 2019"
 description: "güncel makale yarışması, para ödüllü makale yarışmaları"
 category: articles
 tags: [aralık 2019, genel, makale yarışması]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "15 Temmuz Demokrasi ve Milli Birlik Günü Konulu Şiir ve Kompozisyon Yarışması"
+title: "15 Temmuz Konulu Şiir ve Kompozisyon Yarışması"
 description: "dokuz eylül üniversitesi, para ödüllü yarışmalar 2019"
 category: articles
 tags: [temmuz 2019, genel, şiir yarışması, kompozisyon yarışması]

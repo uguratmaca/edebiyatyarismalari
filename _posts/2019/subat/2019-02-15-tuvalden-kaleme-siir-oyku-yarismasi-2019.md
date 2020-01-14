@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tuvalden Kaleme Şiir ve Öykü Yarışması"
+title: "Tuvalden Kaleme Şiir ve Öykü Yarışması 2020"
 description: "şiir yarışması, öykü yarışması, hikaye yarışması, notre dame de sion lisesi, özel bahçeşehir neslin değişen sesi ortaokulu"
 category: articles
 tags: [hikaye yarışması, şiir yarışması, şubat 2019]

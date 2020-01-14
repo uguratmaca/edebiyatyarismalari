@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3. Kültürümüzde Zeytin Edebiyatı Yarışması Zeytindostu Zeytin Kültürüne Dokunuyor"
+title: "3. Kültürümüzde Zeytin Edebiyatı Yarışması"
 description: "üçüncü kültürümüzde zeytin edebiyatı yarışması zeytindostu zeytin kültürüne dokunuyor"
 category: articles
 tags: []

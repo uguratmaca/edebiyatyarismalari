@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ümraniye Belediyesi 15. Geleneksel Şiir Yarışması"
-description: "Ümraniye Belediyesi 15. Geleneksel Şiir Yarışması"
+title: "Ümraniye Belediyesi 15. Geleneksel Hikaye Yarışması"
+description: "Ümraniye Belediyesi 15. Geleneksel Hikaye Yarışması"
 category: articles
 tags: []
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fethi Gemuhluoğlu Hikâye Yarışması"
+title: "Fethi Gemuhluoğlu Hikâye Yarışması 2020"
 description: "hikaye yarışması, hikaye yarışmaları, öykü yarışması, öykü yarışmaları"
 category: articles
 tags: [şubat 2020, lise, istanbul, hikaye yarışması]

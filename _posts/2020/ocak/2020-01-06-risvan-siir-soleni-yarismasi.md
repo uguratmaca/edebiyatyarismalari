@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cumhuriyetin 100. Yılına Doğru Anadolu Türkmenliği 'Rışvan' Şiir Şöleni ve Yarışması"
+title: "Rışvan Şiir Şöleni ve Yarışması"
 description: "şiir yarışması, şiir yarışmaları 2020"
 category: articles
 tags: [şubat 2020, genel, şiir yarışması]
@@ -13,6 +13,7 @@ attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"
 ---
 
+Cumhuriyetin 100. Yılına Doğru Anadolu Türkmenliği 'Rışvan' Şiir Şöleni ve Yarışması
 Anadolu, Türkler tarafından fethedildikten sonra yoğun bir Türk göçüne sahne olmuştur. Türkler buraya boy ve aşiretler halinde gelerek muhtelif bölgeleri yurt edinmişler ve Selçuklu Devleti yöneticileri de siyasî ve iktisadî hedefleri gözeterek Osmanlı Devleti’ni kuran Kayı boyuna mensup aşiretinde dâhil olduğu Türk boylarını çeşitli bölgelere yerleştirmişlerdir. Osmanlılarda aynı şekilde kendilerine gelip sığınan Türk topluluklarını değişik bölgelere iskân etmişlerdir. Böylece Osmanlı Devleti’nin kuruluş ve gelişme sürecinde de, Anadolu’nun muhtelif yerlerine çeşitli Türk oymak ve aşiretleri yerleştirilmiştir. XVI. yüzyılda Malatya Sancağına bağlı Kâhta Kazası ile Maraş Eyaleti’ne bağlı Hısn-ı Mansur Kazasında bulunan Rışvan Aşireti hakkında Osmanlı arşivlerinde Tapu Tahrir Defterlerinde malumata ulaşmak mümkündür. Halen azda olsa konar-göçer Türkmen kültürüne Rışvan nüfusunda rastlanmaktadır.  
 
 Yarışmaya Seçici Kurul Üyeleri katılamazlar. Gönderilen şiirlerin altına isim veya rumuz yazılmayacaktır. Yarışmanın konusu; “SERBEST” olarak belirlenmiştir. Yarışmaya katılacak şiirlerin daha önce hiçbir yarışmada ödül almamış ve herhangi bir yerde (basılı olarak) yayımlanmamış olması gerekmektedir. Şiirlerde hiçbir şekilde alıntı olmayacak, tamamen katılımcıların kendi eserleri olacaktır. Bir şair, yarışmaya en fazla iki şiir ile katılabilir. Şiirlerde tarz ve ekol sınırlaması yoktur. Gönderilen şiirlerin uzunluğu 100 satırı aşmamalıdır. Daha uzun şiirler değerlendirme dışı bırakılacaktır. Başvuru yalnızca internet üzerinden e-mail yoluyla yapılacaktır (**risvansolen@gmail.com**).  
