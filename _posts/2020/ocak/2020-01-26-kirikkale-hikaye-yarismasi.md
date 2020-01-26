@@ -17,8 +17,8 @@ image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot
 İlimizin hafızasını; unutulan, yazıya geçmemiş hikayelerini kayıt altına almak, bunları kitaplaştırmak; bu alandaki birikimleri gelecek nesillere aktarmak.
 
 Ödüller:  
-Birinci olan Hikâye 3 Bin TL
-İkinci olan Hikâye 2 Bin TL
+Birinci olan Hikâye 3 Bin TL  
+İkinci olan Hikâye 2 Bin TL  
 Üçüncü olan Hikâye Bin TL
 
 ## Hikaye Yarışması Şartnamesi

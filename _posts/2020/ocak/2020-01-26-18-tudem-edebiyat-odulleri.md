@@ -57,9 +57,9 @@ Sonuçların Açıklanması:
 3. 18.Tudem Edebiyat Ödülleri ve tutarları ile seçici kurul aşağıdaki gibidir.
 
 Ödüller:  
-BİRİNCİLİK ÖDÜLÜ 10.000 TL
-İKİNCİLİK ÖDÜLÜ 7.500 TL
-ÜÇÜNCÜLÜK ÖDÜLÜ 5.000 TL
+BİRİNCİLİK ÖDÜLÜ 10.000 TL  
+İKİNCİLİK ÖDÜLÜ 7.500 TL  
+ÜÇÜNCÜLÜK ÖDÜLÜ 5.000 TL  
 
 Seçici Kurul:  
 Doğan Gündüz  
