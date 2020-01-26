@@ -73,4 +73,4 @@ Eserlerin Yayımlanması:
 2. Ödül kazanan eserlerin yayın hakkı ise 5 (beş) yıl süre ile Tudem Eğitim Hizmetleri San. Tic. AŞ’ye devredilmiş olup eserin yayımlanmasına karar verilmesi hâlinde, taraflar arasında yayımcının ve eser sahibinin hak ve sorumluluklarını düzenleyen bir telif hakkı devri sözleşmesi imzalanacaktır.
 3. Tudem Yayın Grubu, ödül alan eserleri yayımlamak zorunda olmadığı gibi, ödül almayan eserlerin arasından bazılarını yayımlamak isteyebilir. Bu durum, yayınevi ile eser sahibi arasında görüşülecektir. Seçici kurulun bu konuda herhangi bir sorumluluğu yoktur. Seçici kurulun kararı, yayınevinden bağımsızdır.
 
-[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/18-tudem-edebiyat-odulleri-roman-yarismasi-basvuru-formu.pdf?alt=media&token=8aef611b-a8bf-4696-be1b-12fba13d2df0c){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/18-tudem-edebiyat-odulleri-roman-yarismasi-basvuru-formu.pdf?alt=media&token=8aef611b-a8bf-4696-be1b-12fba13d2df0){:rel="nofollow"}{:target="_blank"}
