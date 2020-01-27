@@ -3,7 +3,7 @@ layout: post
 title: "Cemal Safi Şiir Yarışması"
 description: "cemal safi şiir yarışması, para ödüllü şiir yarışmaları 2020"
 category: articles
-tags: [şubat 2020, genel, şiir yarışması]
+tags: [mart 2020, genel, şiir yarışması]
 comments: true
 lastDate: 1584651600
 dateHuman: "20 Mart 2020"

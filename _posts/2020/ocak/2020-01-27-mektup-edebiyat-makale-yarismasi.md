@@ -3,7 +3,7 @@ layout: post
 title: "Liseli Gençler Makale Yarışması"
 description: "liseli gençler makale yarışması, mektup edebiyat dergisi"
 category: articles
-tags: [mart 2020, genel, makale yarışması]
+tags: [mart 2020, lise, ankara, makale yarışması]
 comments: true
 lastDate: 1585515600
 dateHuman: "30 Mart 2020"

@@ -3,7 +3,7 @@ layout: post
 title: "Akademik Kaynak Makale Yarışması"
 description: "lisans ya da lisansüstü öğrencisi, mezunu, akademik kaynak makale yarışması"
 category: articles
-tags: [haziran 2020, genel, makale yarışması]
+tags: [haziran 2020, üniversite, makale yarışması]
 comments: true
 lastDate: 1585515600
 dateHuman: "1 Haziran 2020"
