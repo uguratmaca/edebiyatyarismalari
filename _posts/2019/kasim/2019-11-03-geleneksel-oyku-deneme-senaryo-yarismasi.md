@@ -3,10 +3,10 @@ layout: post
 title: "Geleneksel Öykü, Deneme ve Kısa Film Senaryo Yarışması"
 description: "güncel kısa film senaryo yarışması, para ödüllü yarışmalar, hikaye yarışmaları, öykü yarışması, deneme yarışması"
 category: articles
-tags: [aralık 2019, genel, senaryo yarışması, hikaye yarışması, deneme yarışması]
+tags: [şubat 2019, genel, senaryo yarışması, hikaye yarışması, deneme yarışması]
 comments: true
-lastDate: 1577653200
-dateHuman: "30 Aralık 2019"
+lastDate: 1581714000
+dateHuman: "15 Şubat 2019"
 attendance: "E-Posta"
 price: "9 Bin 750 TL'dir"
 comTopic: "Erzurum'da Yaşamak"
