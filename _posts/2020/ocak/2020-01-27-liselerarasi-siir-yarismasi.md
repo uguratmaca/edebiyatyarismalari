@@ -9,6 +9,7 @@ lastDate: 1584651600
 dateHuman: "20 Şubat 2020"
 attendance: "Şahsen"
 requirements: "Gebze, Darıca, Çayırova ve Dilovası sınırları içerisinde yer alan özel ya da resmi liselerde eğitim gören ya da bu ilçelerde ikamet edip açık lisede kayıtlı bulunanlar yarışmaya katılabilir."
+image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/o-siir-sensin-siir-okuma-yarismasi.png?alt=media&token=41ce3081-6d56-41de-ac28-59b257f8a255"
 ---
 
 Türkiye Dil ve Edebiyat Derneği (TDED) Gebze Şubesi, “O Şiir Sensin” sloganıyla, ‘Liseliler arası şiir okuma yarışması’ düzenliyor. Başvurular 20 Ocak’ta başlayacak ve 20 Şubat’ta sona erecek. Başvurular, Türkiye Dil ve Edebiyat Derneği’nin Sultan Orhan Mahallesi’ndeki merkezine yapılacak. Başvuruların ardından 1 Mart 2020 Pazar günü saat 14.00’de dernek merkezinde yarı final gerçekleştirilecek. Sonrasında ise dereceye giren öğrenciler finalde yarışacaklar. 
