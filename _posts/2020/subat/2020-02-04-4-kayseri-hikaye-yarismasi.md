@@ -35,4 +35,3 @@ Kayseri Büyükşehir Belediyesi tarafından her yıl geleneksel olarak düzenle
 17. Yarışmaya Katılan herkes bu şartnameyi kabul etmiş sayılacaktır.
 
 [Başvuru Formu](http://portal.kayseri.bel.tr/birim/kultursosyal/yarisma.aspx?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
-
