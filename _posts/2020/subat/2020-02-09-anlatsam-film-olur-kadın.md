@@ -6,7 +6,7 @@ category: articles
 tags: [mart 2020, genel, senaryo yarışması]
 comments: true
 lastDate: 1583614800
-dateHuman: "8 Şubat 2020"
+dateHuman: "8 Mart 2020"
 price: "D&R Hediye çekleri"
 comTopic: "Kadın"
 attendance: "Websitesi"
