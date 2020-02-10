@@ -9,7 +9,7 @@ lastDate: 1587070800
 dateHuman: "17 Nisan 2020"
 comTopic: "Kıyıdan uzaklaşmak"
 attendance: "E-Posta ve Posta"
-requirements: "İstanbuli Kartal sınırları içinde bulunan  lise 9- 10- 11 -12. sınıf öğrencileri"
+requirements: "İstanbuli Kartal sınırları içinde bulunan lise 9- 10- 11 -12. sınıf öğrencileri"
 ---
 
 Fatin Rüştü Zorlu Anadolu Lisesi tarafından eski Dışişleri Bakanımız "Fatin Rüştü Zorlu" adına öykü yarışması düzenlenmiştir.  
