@@ -10,7 +10,7 @@ dateHuman: "1 Mart 2020"
 comTopic: "İyi ki Cumhuriyet Kadınıyım"
 attendance: "Posta/Elden"
 requirements: "Odunpazarı Belediye sınırlarında ikamet eden ve 18 yaş üstü tüm kadınlar katılabilir."
-image: "https://edebiyatyarismalari.com/images/2020/subat/iyiki-cumhuriyet-kadınıyım-öykü-yarışması-2020.jpg"
+image: "https://edebiyatyarismalari.com/images/2020/subat/iyiki-cumhuriyet-kadiniyim-oyku-yarismasi-2020.jpg"
 ---
 
 Ulusal Egemenliğimizin 100. yılını kutladığımız bu yılda, istiyoruz ki bir Cumhuriyet Kadını olarak dünyaya gelmenin bizlere yaşattığı duygular kaleme dökülsün. Borcumuzu minnettarlığımızı, coşkumuzu paylaşalım. Buradan hareketle konu ile ilgili düşüncelerinizi içeren öykülerinizi yarışmamıza bekliyor ve bu anlamlı desteğiniz için sizleri şimdiden kutluyoruz.  
