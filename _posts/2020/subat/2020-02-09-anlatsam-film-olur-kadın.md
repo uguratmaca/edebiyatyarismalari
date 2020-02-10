@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anlatsam Film Olur - 8 Mart"
-description: "senaryo yarışması, kısa film, anlatsam film olur"
+description: "senaryo yarışması, kısa film, anlatsam film olur kadın"
 category: articles
 tags: [mart 2020, genel, senaryo yarışması]
 comments: true

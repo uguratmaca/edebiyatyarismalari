@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Fatin Rüştü Zorlu Anadolu Lisesi Geleneksel 5. Hikaye Yarışması"
-description: "7. orhan kemal öykü yarışması, hikaye yarışmaları"
+title: "Fatin Rüştü Zorlu 5. Hikaye Yarışması"
+description: "fatin rüştü zorlu hikaye yarışması, hikaye yarışmaları, öykü yarışması"
 category: articles
 tags: [nisan 2020, istanbul, kartal, lise, hikaye yarışması]
 comments: true
