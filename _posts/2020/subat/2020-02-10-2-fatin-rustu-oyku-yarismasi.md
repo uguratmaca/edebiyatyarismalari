@@ -42,7 +42,7 @@ Seçici Kurul:
 Fatin Rüştü Zorlu Anadolu Lisesi Edebiyat Zümresi (Erdoğan ERDOĞAN, İ. Bora AYÖZTÜRK ,  Zekiye GÜRBÜZ, Yeliz NUHOĞLU , Aysun BAKAR)
 
 İletişim:  
-İlgili Öğretmen: İbrahim Bora AYÖZTÜRK (Fatin Rüştü Zorlu Anadolu Lisesi Edebiyat Zümre Başkanı)
-Tel No: 0216  387 3011
-e-posta: frzaloykuyarisma@gmail.com
+İlgili Öğretmen: İbrahim Bora AYÖZTÜRK (Fatin Rüştü Zorlu Anadolu Lisesi Edebiyat Zümre Başkanı)  
+Tel No: 0216  387 3011  
+e-posta: frzaloykuyarisma@gmail.com  
 Adres:Topselvi Mah. Lise Sok. No:14  KARTAL / İSTANBUL
