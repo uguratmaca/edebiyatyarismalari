@@ -13,8 +13,8 @@ requirements: "İlkokul 3. ve 4. sınıf öğrencileri katılabilir"
 
 - Yarışma Türkiye genelinde özel okullarda, devlet okullarında ve Türkiye Maarif Vakfı`na bağlı yurt dışı okullarda eğitim öğretim gören ilkokul 3. ve 4. sınıf öğrencilerini kapsamaktadır.
 - Yarışma, ilkokul 3. ve 4. sınıf olmak üzere iki kategoride yapılacaktır.
-- 3. sınıf kategorisi; Çetin Ceviz kitabından 7 soru, Çubuk Makarna Düğümü kitabından 7 soru ve Kurtuluşun Kahramanları Onbaşı Nezahat kitabından 6 soru olmak üzere toplam 20 sorudan oluşmaktadır.
-- 4. sınıf kategorisi; Kahraman Türk Denizcileri Çaka Bey kitabından 5 soru, Küçük Kayılar Ertuğrul Gazi`nin Zaferi kitabından 5 soru, 80 Günde Dünya Turu kitabından 5 soru ve Şu Acayip Gökyüzü kitabından 5 soru olmak üzere toplam 20 sorudan oluşmaktadır.  
+- 3.sınıf kategorisi; Çetin Ceviz kitabından 7 soru, Çubuk Makarna Düğümü kitabından 7 soru ve Kurtuluşun Kahramanları Onbaşı Nezahat kitabından 6 soru olmak üzere toplam 20 sorudan oluşmaktadır.
+- 4.sınıf kategorisi; Kahraman Türk Denizcileri Çaka Bey kitabından 5 soru, Küçük Kayılar Ertuğrul Gazi`nin Zaferi kitabından 5 soru, 80 Günde Dünya Turu kitabından 5 soru ve Şu Acayip Gökyüzü kitabından 5 soru olmak üzere toplam 20 sorudan oluşmaktadır.  
 
 - Yarışma sınavı 100 puan üzerinden değerlendirilecektir.
 - Her soru için cevaplama süresi 2 dakika 30 saniyedir.
