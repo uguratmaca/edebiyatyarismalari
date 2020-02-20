@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sağlıklı Nesil Sağlıklı Gelecek Yarışması"
-description: "yeşilay sağlıklı nesil sağlıklı gelecek yetenek edebi, görsel yarışma 2020"
+description: "sağlıklı nesil sağlıklı gelecek yarışması 2020, görsel yarışma 2020"
 category: articles
 tags: [şubat 2020, ilkokul, ortaokul, lise, şiir yarışması, kompozisyon yarışması, makale yarışması, hikaye yarışması, deneme yarışması, anı yarışması, resim yarışması, afiş yarışması, karikatür yarışması, kısa film yarışması]
 comments: true

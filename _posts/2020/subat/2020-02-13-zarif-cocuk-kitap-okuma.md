@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zarif Çocuk Uluslararası Kitap Okuma Yarışması"
-description: "zarif çocuk kitap okuma yarışması 2020, 2020 edebiyat yarışmaları"
+description: "zarif kitap okuma yarışması 2020, 2020 edebiyat yarışmaları"
 category: articles
 tags: [şubat 2020, ilkokul, kitap okuma yarışması]
 comments: true
