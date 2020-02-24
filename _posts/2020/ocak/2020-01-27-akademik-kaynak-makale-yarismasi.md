@@ -5,7 +5,7 @@ description: "lisans ya da lisansüstü öğrencisi, mezunu, akademik kaynak mak
 category: articles
 tags: [haziran 2020, üniversite, makale yarışması]
 comments: true
-lastDate: 1585515600
+lastDate: 1590958800
 dateHuman: "1 Haziran 2020"
 comTopic: "Kemal Karpat Anısına"
 attendance: "E-Posta"
