@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Senin Öykün Öykü Yarışması"
-description: "kaplan okulları senin öykün öykü yarışması, ödüllü yarışmalar 2020"
+description: "kaplan okulları senin öykün öykü yarışması, ödüllü yarışmalar 2020, hikaye yazma yarışması"
 category: articles
 tags: [şubat 2020, ortaokul, bursa, hikaye yarışması]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "4. Reşat Nuri Güntekin Öykü Yarışması"
-description: "vefa'da bir edebiyat öğretmeni 4. reşat nuri güntekin para ödüllü öykü yarışması 2020"
+description: "vefa'da bir edebiyat öğretmeni 4. reşat nuri güntekin para ödüllü öykü yarışması 2020, hikaye yazma yarışması"
 category: articles
 tags: [mart 2020, lise, istanbul, hikaye yarışması]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3. Sabahattin Ali Öykü Yazma Yarışması"
-description: "3. sabahattin hali öykü yazma yarışması 2020, ödüllü edebiyat yarışması"
+description: "3. sabahattin hali öykü yazma yarışması 2020, ödüllü edebiyat yarışması, hikaye yazma yarışması"
 category: articles
 tags: [mart 2020, lise, istanbul, hikaye yarışması]
 comments: true

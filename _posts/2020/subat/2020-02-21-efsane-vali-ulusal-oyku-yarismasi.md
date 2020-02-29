@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Efsane Vali Yazıcıoğlu Anısına 1. Ulusal Öykü Yarışması"
-description: "efsane vali yazıcıoğlu anısına 1. ulusal öykü yarışması, ödüllü yarışmalar 2020"
+description: "efsane vali yazıcıoğlu anısına 1. ulusal öykü yarışması, ödüllü yarışmalar 2020, hikaye yazma yarışması"
 category: articles
 tags: [nisan 2020, ortaokul, hikaye yarışması]
 comments: true

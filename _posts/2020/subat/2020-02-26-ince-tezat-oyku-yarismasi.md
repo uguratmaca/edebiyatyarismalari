@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "14 Şubat Dünya Öykü Günü İnce Tezat Öykü Yarışması"
-description: "14 subat dünya öykü günü öykü yarışması, ödüllü yarışmalar 2020"
+description: "14 subat dünya öykü günü öykü yarışması, ödüllü yarışmalar 2020, hikaye yazma yarışması"
 category: articles
 tags: [mart 2020, genel, hikaye yarışması]
 comments: true
