@@ -4,40 +4,40 @@ title: "Şiir Yarışması, Hikaye, Öykü, Resim Yarışması, Para Ödüllü Y
 ---
 
 <div class="def-pad">
-  <h1>{{site.title}}</h1>
-  <hr>
-  {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-  {% assign nowDateInt = nowunix | plus: 0 %}
-  {% for post in paginator.posts %}
-  <div>
-    <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
-   
-	{% if post.dateHuman %}
-	<p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
-	{% endif %}
-  
-	{% if post.price %}
-	<p>🏆 Yarışmanın toplam para ödülü: <b>{{post.price}}</b></p>
-	{% endif %}
-  
-	{% if post.requirements %}
-	<p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
-	{% endif %}
-  
-	{% if post.dateHuman %}
-	{% if post.lastDate > nowDateInt %}
-	<section>
-	  <p class="up-to-date">Yarışma başvurusu devam ediyor...</p>
-	</section>
-	{% else %}
-	<section>
-	  <p class="past">Yarışma başvurusu bitti!</p>
-	</section>
-	{% endif %}
-	{% endif %}
+	<h1>{{site.title}}</h1>
+	<hr>
+	{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+	{% assign nowDateInt = nowunix | plus: 0 %}
+	{% for post in paginator.posts %}
+	<div>
+		<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
 
-    {{ post.excerpt }}
-  </div>
-  <hr>
-  {% endfor %}
+		{% if post.dateHuman %}
+		<p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
+		{% endif %}
+
+		{% if post.price %}
+		<p>🏆 Yarışmanın toplam para ödülü: <b>{{post.price}}</b></p>
+		{% endif %}
+
+		{% if post.requirements %}
+		<p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
+		{% endif %}
+
+		{% if post.dateHuman %}
+		{% if post.lastDate > nowDateInt %}
+		<section>
+			<p class="up-to-date">Yarışma başvurusu devam ediyor...</p>
+		</section>
+		{% else %}
+		<section>
+			<p class="past">Yarışma başvurusu bitti!</p>
+		</section>
+		{% endif %}
+		{% endif %}
+
+		{{ post.excerpt }}
+	</div>
+	<hr>
+	{% endfor %}
 </div>

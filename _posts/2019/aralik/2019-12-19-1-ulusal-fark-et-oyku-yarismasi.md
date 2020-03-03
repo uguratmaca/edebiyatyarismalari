@@ -43,7 +43,7 @@ Eserlerin Teslimi:
 - Öyküler 6 nüsha ve bilgisayar çıktısı olarak bir zarfa konacaktır.
 - Yazarın kısa öz geçmişi ve iletişim bilgilerinin yazılı olduğu kağıt ise ayrı bir zarfa konarak üzerine sadece rumuz yazılacaktır.
 - Yarışmaya katılacak eser dosyası, 6 nüshalık öyküler, öykünün cd kaydı ve iletişim bilgi zarfı ayrı olarak hazırlandıktan sonra tek bir zarfa konarak;
-**Enfa. Barbaros Mh. Atatürk Cd. No: 149 Çanakkale** adresine posta yolu ile teslim edilecektir.
+**Enfa Yapı / Fevzipaşa mh. İnönü Cad. No: 164/1 Çanakkale Tel: 0 507 2587214** adresine posta yolu ile teslim edilecektir.
 
 Yarışma Takvimi:   
 Son başvuru tarihi:    17.06.2020’dir  
