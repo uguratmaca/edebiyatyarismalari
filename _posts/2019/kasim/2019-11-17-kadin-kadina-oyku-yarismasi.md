@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "15. Kadın Kadına Öykü Yarışması"
-description: "güncel öykü yarışmaları 2020, güncel hikaye yarışması 2020, para ödüllü yarışmalar 2020"
+description: "öykü yarışmaları 2020, hikaye yarışması 2020, para ödüllü yarışmalar 2020"
 category: articles
 tags: [mart 2020, kadın, hikaye yarışması]
 comments: true
-lastDate: 1583010000
-dateHuman: "1 Mart 2020"
+lastDate: 1584738000
+dateHuman: "21 Mart 2020"
 price: "2 Bin 250 TL'dir"
 comTopic: "Geleceği Hatırla!"
 attendance: "E-Posta ya da Posta"
