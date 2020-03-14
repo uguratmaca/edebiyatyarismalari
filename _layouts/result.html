@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<section class="def-pad">
+    <h1>{{page.headline}}</h1>
+    {% if page.subline %}
+    <p>{{page.subline}}</p>
+    {% endif %}
+
+    <hr>
+
+    {% for post in site.posts %}
+    {% if post.tags contains page.key %}
+    <section>
+        <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
+        {{ post.excerpt }}
+    </section>
+    <hr>
+    {% endif %}
+    {% endfor %}
+</section>

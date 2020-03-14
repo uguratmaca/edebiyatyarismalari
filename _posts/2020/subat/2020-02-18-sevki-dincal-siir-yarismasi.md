@@ -10,7 +10,7 @@ dateHuman: "28 Şubat 2020"
 comTopic: "Serbest"
 attendance: "Posta/Kargo/Elden"
 requirements: "Yarışmaya T.C. vatandaşı olan şairler (şahsen) katılabilir."
-image: "https://edebiyatyarismalari.com/images/2020/subat/izmir-sairler-bestekarlar-derneği-sevki-dincal-siir-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2020/subat/izmir-sairler-bestekarlar-dernegi-sevki-dincal-siir-yarismasi.jpg"
 ---
 
 İzmir Şairler ve Bestekarlar Derneği İZŞABED tarafından bu yıl ŞEVKİ DİNÇAL adına düzenlenen şiir yarışmasının başvuruları 28 Şubat 2020 tarihine kadar devam etmektedir. Yarışmaya katılacak şiirlerin konusu serbest olup Türk Sanat Müziği formunda bestelenmeye uygun olması gerekmektedir. Her katılımcı en çok 2 şiir ile katılma hakkına sahiptir. Finale kalan 10 şiir içinden ilk 5'e girenler bestelenerek konser gecesinde açıklanacak ve icra edilecektir. Yarışma şartnamesine İzmir Şairler ve Bestekarlar Derneği facebook sayfası duyurular kısmından ulaşılabilir.
