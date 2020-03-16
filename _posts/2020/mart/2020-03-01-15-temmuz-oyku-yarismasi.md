@@ -12,8 +12,9 @@ requirements: "Tüm lise öğrencileri katılabilir"
 ---
 
 15 Temmuz 2016 tarihli darbe girişimi, halkın ve güvenlik güçlerinin büyük direnişi sonucu engellenmiştir. O gece bütün Türkiye'de; selalarla kendine gelen, dudakları kıpır kıpır dualar okuyan bir millet vardı. İşte bu tarihi anın gelecek nesiller tarafından anımsanması milli ve dini yönüyle bir bütün olan milletin o ruhunu canlı tutmak amacıyla, Şırnak Merkez Nazmiye Demirel Mesleki ve Teknik Anadolu Lisesi tarafından, Türkiye geneli Lise öğrencileri arasında "15 Temmuz Darbe Girişiminde Halkın Milli Egemenliğe Sahip Çıkmasında Selaların Etkisi” adlı Öykü Yarışması yapılacaktır.  
+
  
-## Öykü Yarışması Katılım
+## Öykü Yarışması Katılım Şartları
 1. Yarışma 81 ilde liseler arasında düzenlenmektedir.
 2. Öyküler daha önce basılmamış ve ödül almamış olmalıdır.
 3. Yarışma şartnamesine uygun olmayan ve son teslim tarihinden sonra gönderilen eserler değerIendirmeye alınmayacaktır.
