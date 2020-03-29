@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asım Bezirci Şiir Yarışması"
-description: "3 asim bezirci siir yarismasi, şiir yarışmaları 2020"
+description: "3 asim bezirci siir yarismasi, şiir yarışmaları 2020, para ödüllü yarışmalar 2020"
 tags: [haziran 2020, türmob, şiir yarışması]
 comments: true
 lastDate: 1592168400    
