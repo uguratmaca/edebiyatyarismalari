@@ -17,7 +17,7 @@ image: "https://edebiyatyarismalari.com/images/2020/nisan/balkaya-kisa-oyku-masa
 
 ## Masal Yarışması Katılım Şartları
 - Masal, türüne uygun bir şekilde yazılmalıdır
-- Hikaye, bilgisayarda 12 punto, Times New Roman yazı karakteri ve 1.5 satır aralığıyla A4 formatında yazılacaktır
+- Masal, bilgisayarda 12 punto, Times New Roman yazı karakteri ve 1.5 satır aralığıyla A4 formatında yazılacaktır
 - Yarışmada birinci, ikinci ve üçüncüye plaket verilecektir
 - Her öğrenci yarışmaya bir (1) adet masal ile katılabilecektir
 - Sayfa sınırlaması yoktur
