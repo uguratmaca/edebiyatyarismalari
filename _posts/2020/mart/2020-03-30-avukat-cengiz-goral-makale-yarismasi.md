@@ -11,8 +11,8 @@ comTopic: "Özgürlük, Demokrasi, Adalet"
 attendance: "E-Posta"
 requirements: "Avukat, hâkim, savcı, stajyer avukat, hukuk ve iletişim fakültesi öğrencileri ve
 gazeteciler katılabilir"
-image: "https://edebiyatyarismalari.com/images/2020/mart/avuktat-cengiz-goral-makale-yarismasi.jpg"
-permalink: "avuktat-cengiz-goral-makale-yarismasi-2020"
+image: "https://edebiyatyarismalari.com/images/2020/mart/avukat-cengiz-goral-makale-yarismasi.jpg"
+permalink: "avukat-cengiz-goral-makale-yarismasi-2020"
 ---
 
 Bursa Barosu, 2020 yılında Avukat CENGİZ GÜRAL makale yarışması düzenlemiştir.
