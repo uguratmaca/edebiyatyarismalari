@@ -3,10 +3,10 @@ layout: post
 title: "Kapadokya Üniversitesi Öykü Yazma Yarışması"
 description: "liseliler 2020 öykü yarışması, hikaye yarışmaları, öykü yarışması"
 category: articles
-tags: [mart 2020, lise, hikaye yarışması]
+tags: [nisan 2020, lise, hikaye yarışması]
 comments: true
-lastDate: 1585515600
-dateHuman: "30 Mart 2020"
+lastDate: 1588194000
+dateHuman: "30 Nisan 2020"
 comTopic: "Çevre – İnsan ve Geleneksel Yaşam"
 attendance: "Kargo (Aras-Yurtiçi)"
 requirements: "Türkiye genelindeki tüm ortaöğretim öğrencilerine açıktır"
