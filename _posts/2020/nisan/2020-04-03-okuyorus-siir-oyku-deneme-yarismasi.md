@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ökuyorus Dergisi Şiir, Öykü ve Deneme Yarışması"
+title: "Okuyorus Dergisi Şiir, Öykü ve Deneme Yarışması"
 description: "okuyorus dergisi, şiir yarışması, öykü yarışması, deneme yarışması, hikaye yazma yarışması"
 tags: [nisan 2020, genel, hikaye yarışması, şiir yarışması, deneme yarışması]
 comments: true
