@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "17. Tudem Edebiyat Ödülleri Roman Yarışması Sonuçları"
-description: "17. Tudem Edebiyat Ödülleri Roman Yarışması Sonuçları"
+title: "Cemal Safi Şiir Yarışması Sonuçları"
+description: "Cemal Safi Şiir Yarışması Sonuçları"
 category: articles
 tags: [sonuç]
 comments: true
