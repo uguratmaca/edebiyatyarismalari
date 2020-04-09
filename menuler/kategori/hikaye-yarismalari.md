@@ -1,9 +1,9 @@
 ---
 layout: category
-headline: "Hikaye/Öykü Yarışması 2019-2020"
+headline: "Hikaye/Öykü Yarışması 2020"
 subline: "Bu sayfada ülkemizde düzenlenen <strong>hikaye yarışması</strong>, <strong>öykü yarışması</strong> ve
 <strong>kısa öykü yarışması</strong> kayıtları bulunmaktadır. Bu <strong>öykü yarışmalarının</strong> bazılarında
-<strong>para ödülü</strong> bulunmaktadır. Aşağıda gösterilen <strong>hikaye yarışmaları 2019</strong> ve 2020 yılında
+<strong>para ödülü</strong> bulunmaktadır. Aşağıda gösterilen <strong>hikaye yarışmaları </strong> 2020 yılında
 yapılacak olan yarışmaları göstermektedir."
 title: "Hikaye Yarışması, Öykü Yarışması 2020"
 key: "hikaye yarışması"

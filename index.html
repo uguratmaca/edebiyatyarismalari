@@ -3,7 +3,7 @@ layout: default
 title: "Şiir Yarışması, Hikaye, Öykü, Resim Yarışması, Para Ödüllü Yarışmalar"
 ---
 
-<div class="def-pad">
+<div class="mt-5 mb-5">
 	<h1>{{site.title}}</h1>
 	<hr>
 	{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
@@ -27,11 +27,11 @@ title: "Şiir Yarışması, Hikaye, Öykü, Resim Yarışması, Para Ödüllü Y
 		{% if post.dateHuman %}
 		{% if post.lastDate > nowDateInt %}
 		<section>
-			<p class="up-to-date">Yarışma başvurusu devam ediyor...</p>
+			<p class="text-success">Yarışma başvurusu devam ediyor...</p>
 		</section>
 		{% else %}
 		<section>
-			<p class="past">Yarışma başvurusu bitti!</p>
+			<p class="text-danger">Yarışma başvurusu bitti!</p>
 		</section>
 		{% endif %}
 		{% endif %}

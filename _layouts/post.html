@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="def-pad">
+<article class="mt-5 mb-5">
   <header>
     <h1>{{ page.title }}</h1>
   </header>
@@ -33,18 +33,18 @@ layout: default
   {% if page.dateHuman %}
   {% if page.lastDate > nowDateInt %}
   <section>
-    <p class="up-to-date">Yarışma başvurusu devam ediyor...</p>
+    <p class="text-success">Yarışma başvurusu devam ediyor...</p>
   </section>
   {% else %}
   <section>
-    <p class="past">Yarışma başvurusu bitti!</p>
+    <p class="text-danger">Yarışma başvurusu bitti!</p>
   </section>
   {% endif %}
   {% endif %}
 
   {% if page.image %}
-  <section class="img-sec">
-    <img src="{{page.image}}" alt="{{page.title}}" />
+  <section class="text-center">
+    <img src="{{page.image}}" alt="{{page.title}}" style="max-height:720px;max-width:90%;" />
   </section>
   {% endif %}
 

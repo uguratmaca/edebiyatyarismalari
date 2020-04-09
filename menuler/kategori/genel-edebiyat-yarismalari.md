@@ -1,6 +1,6 @@
 ---
 layout: category
-headline: "Güncel (Genel Katılım) Edebiyat Yarışmaları 2019"
+headline: "(Genel Katılım) Edebiyat Yarışmaları 2020"
 title: Genel Yarışmalar
 key: "genel"
 description: Herkesin katılabileceği edebiyat yarışmaları

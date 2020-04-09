@@ -5,13 +5,15 @@ layout: default
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 {% assign nowDateInt = nowunix | plus: 0 %}
 
-<section class="def-pad">
+<section class="mt-5 mb-5">
     <h1>{{page.headline}}</h1>
     {% if page.subline %}
     <p>{{page.subline}}</p>
     {% endif %}
 
+    {% if page.key %}
     <hr>
+    {% endif %}
 
     {% for post in site.posts %}
     {% if post.lastDate > nowDateInt %}
@@ -31,10 +33,11 @@ layout: default
         <p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
         {% endif %}
 
-        <p class="up-to-date">Yarışma başvurusu devam ediyor...</p>
+        <p class="text-success">Yarışma başvurusu devam ediyor...</p>
 
         {{ post.excerpt }}
     </section>
+    
     <hr>
     {% endif %}
     {% endif %}

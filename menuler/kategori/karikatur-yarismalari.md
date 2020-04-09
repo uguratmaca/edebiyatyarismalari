@@ -1,12 +1,12 @@
 ---
 layout: category
-headline: "Güncel Karikatür Yarışmaları 2019"
+headline: "Karikatür Yarışmaları 2020"
 subline: "Bu sayfada ülkemizde düzenlenen <strong>karikatür yarışması</strong>, kayıtları bulunmaktadır. Bu <strong>karikatür
     yarışmalarının</strong> bazılarında <strong>para ödülü</strong> bulunmaktadır. Aşağıda gösterilen <strong>karikatür
-    yarışmaları 2019</strong> ve 2020 yılında yapılacak olan yarışmaları göstermektedir."
+    yarışmaları </strong> 2020 yılında yapılacak olan yarışmaları göstermektedir."
 title: "Karikatür Yarışmaları"
 key: "karikatür yarışması"
-description: "Karikatür yarışması, Karikatür yarışmaları, Karikatür yarışması duyuruları, Güncel Karikatür yarışmaları 2019, para ödüllü
-yarışmalar 2019"
+description: "Karikatür yarışması, Karikatür yarışmaları, Karikatür yarışması duyuruları, Güncel Karikatür yarışmaları 2020, para ödüllü
+yarışmalar 2020"
 permalink: "karikatur-yarismalari/"
 ---
