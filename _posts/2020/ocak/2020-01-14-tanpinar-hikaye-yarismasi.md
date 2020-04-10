@@ -3,10 +3,10 @@ layout: post
 title: "Tanpınar Hikaye Yarışması 2020"
 description: "tanpınar hikaye yarışması 2020, öykü yarışması, hikaye yarışmaları"
 category: articles
-tags: [nisan 2020, genel, hikaye yarışması]
+tags: [haziran 2020, genel, hikaye yarışması]
 comments: true
-lastDate: 1586466000
-dateHuman: "10 Nisan 2020"
+lastDate: 1591304400
+dateHuman: "5 Haziran 2020"
 price: "38 Bin 500 TL'dir"
 comTopic: "Gecmiş Zaman Aynasında Bursa"
 attendance: "Posta"
@@ -29,7 +29,7 @@ Metin Önal MENGÜŞOĞLU
 İhsan DENİZ 
 
 ## Tanpınar Hikaye Yarışması Katılım Koşulları
-1. Yarışmanın son başvuru tarihi 10 Nisan 2020 Cuma günüdür. Bu tarihten sonra gelecek eserler kabul edilmeyecektir. Eserler iade edilmeyecektir.
+1. Yarışmanın son başvuru tarihi 5 Haziran 2020 günüdür. Bu tarihten sonra gelecek eserler kabul edilmeyecektir. Eserler iade edilmeyecektir.
 2. Yarışmaya katılacak eserler daha önce yayımlanmamış olmalıdır.
 3. Yarışmaya yurt içi ve yurt dışından herkes katılabilir.
 4. Tanpınar Edebiyat Yarışması’ndan daha önce ödül alanlar katılamaz.
@@ -44,3 +44,6 @@ OSMANGAZİ BELEDİYESİ SOĞANLI KÜLTÜR MERKEZİ /Kültür ve Sosyal İşler M
 12. Yarışmanın sonuçları Mayıs 2020 tarihinde bir basın toplantısıyla açıklanacak, ödüller daha sonra açıklanacak bir tarihte düzenlenecek törenle sahiplerine verilecektir.
 13. Jüri’nin yayımlanmaya uygun bulduğu eserler kitaplaştırılacak. Yayımlanacak eserler için telif ücreti ödenmeyecektir.
 14. Yarışmaya, Bursa Osmangazi Belediyesi mensupları ile Seçici Kurul üyeleri ve bunların birinci derece yakınları katılamazlar.
+
+Güncelleme:
+Son başvuru tarihi 10 Nisan'dan - 5 Haziran'a ertelenmiştir!
