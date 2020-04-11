@@ -10,7 +10,6 @@ attendance: "E-Posta"
 comTopic: "Serbest"
 requirements: "İlkokul ve ortaokul öğrencileri katılabilir"
 permalink: "23-nisan-oyku-yarismasi-meb-2020"
-image: "https://edebiyatyarismalari.com/images/2020/nisan/evde-kal-oyku-yaz-yarismasi.jpg"
 ---
 
 Meb 23 Nisan Öykü Yarışması, Serbest Konulu Hikaye Yarışması
