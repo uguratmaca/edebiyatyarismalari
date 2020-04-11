@@ -13,7 +13,7 @@ permalink: "ilkyaz-genc-yazarlar-nisan-2020-siir-basvurusu"
 image: "https://edebiyatyarismalari.com/images/2020/nisan/ilkyaz-genc-yazarlar-siir-kisa-oyku-yarismasi.jpg"
 ---
 
-PEN International Uluslararası Yazarlar Birliği’nin desteğiyle yayın hayatına başlayan İlkyaz Platformu Türkiye’den 35 yaş altı genç yazar ve şairlere çağrıda bulunuyor. 
+Önemli: Sevgili genç yazarlar. İlkyaz bir yarışma değildir, uluslararası ağlara sahip bir genç yazarlar ailesidir. Bu nedenle lütfen çalışmalarınızı 'yarışma' notuyla İLETMEYİNİZ. PEN International Uluslararası Yazarlar Birliği’nin desteğiyle yayın hayatına başlayan İlkyaz Platformu Türkiye’den 35 yaş altı genç yazar ve şairlere çağrıda bulunuyor. 
 Proje kapsamında her ay seçilen 3 (üç) genç yazarın kısa eserleri (şiir veya kısa öykü) İlkyaz tarafından önce İngilizceye, ardından o ay işbirliği yapılan PEN Merkezine göre değişen ikinci bir dile çevriliyor. Böylece genç yazar ve kısa eserinin uluslararası düzeyde tanıtımının yapılması da sağlanıyor.  
 
 Kurucusu ve yayın yönetmeni Ege Dündar, yöneticisi Irmak Ertaş olan, Danışma Kurulu ise Halil Gediz ve Özge Sargın isimlerinden oluşan İlkyaz’a **ilkyaz2018@gmail.com** e-posta adresi üzerinden isim, soyisim ve yaşınızla birlikte yazılarınızı ulaştırarak başvuru sağlayabilirsiniz. Yayımlanan yazıların ve diğer kazanımların basılmasının ve beraberinde etkinliklerde de tanıtılmasının planladığı platformda, ayrıca yazısı kabul edilen yazarlara honorarium adı altında 45 pound’luk bir ödeme de yapılıyor. Daha detaylı bilgiler için [İlkyaz Nedir](https://www.ilkyaz.world/ilkyaznedir/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"} adresinizi ziyaret edebilirsiniz.
