@@ -10,10 +10,16 @@ layout: compress
 
 <body>
   {% include header.html %}
-  <div class="container">
-    <main>
-      {{ content }}
-    </main>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-2 d-none d-md-block"></div>
+      <div class="col">
+        <main>
+          {{ content }}
+        </main>
+      </div>
+      <div class="col-2 d-none d-md-block"></div>
+    </div>
     {% include body-footer.html %}
   </div>
 

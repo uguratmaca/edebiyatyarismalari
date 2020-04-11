@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% assign nowDateInt = nowunix | plus: 0 %}
+
+<section class="mt-5 mb-5">
+    <h1>{{page.headline}}</h1>
+    {% if page.subline %}
+    <p>{{page.subline}}</p>
+    {% endif %}
+
+    {% if page.key %}
+    <hr>
+    {% endif %}
+
+    {% for post in site.posts %}
+    {% if post.lastDate > nowDateInt %}
+    {% if post.price %}
+    <section>
+        <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
+
+        {% if post.dateHuman %}
+        <p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
+        {% endif %}
+
+        <p>🏆 Yarışmanın toplam para ödülü: <b>{{post.price}}</b></p>
+
+        {% if post.requirements %}
+        <p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
+        {% endif %}
+
+        <p class="text-success">Yarışma başvurusu devam ediyor...</p>
+
+        {{ post.excerpt }}
+    </section>
+    
+    <hr>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</section>
