@@ -38,6 +38,8 @@ title: "Şiir Yarışması, Hikaye, Öykü, Resim Yarışması, Para Ödüllü Y
 
 		{{ post.excerpt }}
 	</div>
+	{% if forloop.last == false %}
 	<hr>
+	{% endif %}
 	{% endfor %}
 </div>
