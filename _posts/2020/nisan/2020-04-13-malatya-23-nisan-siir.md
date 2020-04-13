@@ -2,7 +2,7 @@
 layout: post
 title: "Malatya 23 Nisan Şiir Yarışması 2020"
 description: "malatya belediyesi 23 nisan şiir yarışması 2020, ortaokul yarışmaları, ilkokul yarışmaları"
-tags: [nisan 2020, ilkokul, ortaokul, şiir yarışması]
+tags: [nisan 2020, ilkokul, ortaokul, malatya, şiir yarışması]
 comments: true
 lastDate: 1587070800    
 dateHuman: "17 Nisan 2020"
