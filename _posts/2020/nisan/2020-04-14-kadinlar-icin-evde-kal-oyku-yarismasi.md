@@ -10,7 +10,7 @@ attendance: "E-Posta"
 comTopic: "Evde Kal"
 requirements: "Yarışmaya katılmak için, Eskişehir‘de yaşamak ve 18 yaşını doldurmuş “kadın” olmak gerekmektedir."
 permalink: "eskisehir-kadinlar-icin-evde-kal-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/nisan/cocuklar-icin-evde-kal-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2020/nisan/evde-kal-kadinlar-icin-oyku-yarismasi.jpg"
 ---
 
 Öykü Yarışmasının Amacı:
