@@ -60,5 +60,5 @@ Adı Soyadı: Ceyda SÖĞÜT
 Adres: Eskişehir Büyükşehir Belediyesi  
 E-Posta Adresi: yaraticiyazar@eskisehir.bel.tr  
 
-[İlkyaz Nedir](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kadinlar-icin-evde-kal-oyku-yarismasi.pdf?alt=media&token=a96244f5-ea10-4e1b-b616-ffad55208ffc){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kadinlar-icin-evde-kal-oyku-yarismasi.pdf?alt=media&token=a96244f5-ea10-4e1b-b616-ffad55208ffc){:rel="nofollow"}{:target="_blank"}
 
