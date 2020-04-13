@@ -53,6 +53,129 @@ layout: default
     {{ content }}
   </section>
 
+  <hr>
+
+  <section>
+    Diğer:
+    <ul class="nav">
+      {% for tag in page.tags %}
+
+      {% if tag == 'ilkokul' %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/ilkokul-ogrencileri-edebiyat-yarismalari/" class="nav-link">
+          İlkokul Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "ortaokul" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/ortaokul-edebiyat-yarismalari/" class="nav-link">
+          Ortaokul Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "lise" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/lise-edebiyat-yarismalari/" class="nav-link">
+          Lise Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "üniversite" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/universite-ogrencileri-edebiyat-yarismalari/" class="nav-link">
+          Üniversite Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "genel" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/genel-edebiyat-yarismalari/" class="nav-link">
+          Genel Edebiyat Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "şiir yarışması" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/siir-yarismalari/" class="nav-link">
+          Şiir Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "hikaye yarışması" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/hikaye-yarismalari/" class="nav-link">
+          Hikaye, Öykü Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "makale yarışması" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/makale-yarismalari/" class="nav-link">
+          Makale Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "kompozisyon yarışması" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/kompozisyon-yarismalari/" class="nav-link">
+          Kompozisyon Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "resim yarışması" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/resim-yarismalari/" class="nav-link">
+          Resim Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "deneme yarışması" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/deneme-yarismalari/" class="nav-link">
+          Deneme Yarışmaları
+        </a>
+      </li>      
+      {% elsif tag == "roman yarışması" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/roman-yarismalari/" class="nav-link">
+          Roman Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "senaryo yarışması" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/senaryo-yarismalari/" class="nav-link">
+          Senaryo Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "masal yarışması" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/masal-yarismalari/" class="nav-link">
+          Masal Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "karikatür yarışması" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/karikatür-yarismalari/" class="nav-link">
+          Karikatür Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "mektup yarışması" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/mektup-yarismalari/" class="nav-link">
+          Mektup Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "fotoğraf yarışması" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/fotograf-yarismalari/" class="nav-link">
+          Fotoğraf Yarışmaları
+        </a>
+      </li>
+      {% elsif tag == "sonuç" %}
+      <li class="nav-item">
+        <a href="https://edebiyatyarismalari.com/yarisma-sonuclari/" class="nav-link">
+          Yarışma Sonuçları
+        </a>
+      </li>
+      {% endif %}
+
+      {% endfor %}
+    </ul>
+  </section>
+
+  <hr>
+
   {% if site.disqus_shortname %}
   {% include disqus_comments.html %}
   {% endif %}
