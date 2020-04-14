@@ -5,8 +5,8 @@ description: "edebiyat ve sanat akademisi tek millet iki devlet şiir yarışmas
 category: articles
 tags: [mayıs 2020, genel, şiir yarışması]
 comments: true
-lastDate: 1589490000    
-dateHuman: "15 Mayıs 2020"
+lastDate: 1596229200    
+dateHuman: "1 Ağustos 2020"
 comTopic: "Tek Millet İki Devlet"
 attendance: "Websitesi"
 requirements: "Yarışmaya isteyen herkes katılabilir."
@@ -29,3 +29,6 @@ Bilindiği gibi “İki Devlet Tek Millet“ özdeyişi Azerbaycan Cumhuriyeti�
 10. Ödül Töreni – 30  Mayıs ile 2 Haziran, Hatay,  Erzin ve Adana’da gerçekleşecek olan İki Devlet Tek Millet konulu etkinlik günleri içinde takdim edilecek,  ödül töreninin yapılacağı, gün ve tarih yarışma ilanı ile birlikte paylaşılacaktır.
 
 [Başvuru İçin Tıklayınız](https://edebiyatvesanatakademisi.com/uye-girisi?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+
+Güncelleme tarihi: 14-04-2020
+Güncelleme nedeni: Korona sebebiyle son başvuru tarihi 1 Ağustos 2020'ye ertelenmiştir.
