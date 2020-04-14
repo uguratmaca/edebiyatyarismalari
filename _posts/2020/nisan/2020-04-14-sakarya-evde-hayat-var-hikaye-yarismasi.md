@@ -6,7 +6,7 @@ tags: [mayıs 2020, ilkokul, ortaokul, lise, sakarya, hikaye yarışması]
 comments: true
 lastDate: 1588712400    
 dateHuman: "6 Mayıs 2020"
-attendance: "E-Posta"
+attendance: "Websitesi"
 comTopic: "Serbest"
 requirements: "Sakarya'da ikamet eden ilkokul, ortaokul ve lise öğrencileri katılabilir"
 permalink: "sakarya-evde-hayat-var-hikaye-yarismasi"
@@ -59,5 +59,5 @@ Seçici Kurul
 6. Yasin ÇETİN (SBB Kültür ve Sanat Şube Müdürü)
 7. Ercan YILMAZ (Şair-Edebiyat Öğretmeni)
 
-[Başvuru Formu ve Linki](https://docs.google.com/forms/d/e/1FAIpQLSeo2njLTev-Eb0_XdyNCtKY_3FnMAGGYThOYvKOJZNxYfMFqg/viewform?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvuru Linki](https://docs.google.com/forms/d/e/1FAIpQLSeo2njLTev-Eb0_XdyNCtKY_3FnMAGGYThOYvKOJZNxYfMFqg/viewform?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
 
