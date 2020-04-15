@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fikir Hareketi Derneği Evde Kal Öykü Yarışması"
-description: "fikir hareketi derneği evde kal öykü yaz, öykü yarışması, öykü yarışmaları"
+description: "fikir hareketi derneği evde kal öykü yaz, öykü yarışması, öykü yarışmaları, para ödüllü yarışmalar 2020"
 tags: [mayıs 2020, genel, hikaye yarışması]
 comments: true
 lastDate: 1590786000    
