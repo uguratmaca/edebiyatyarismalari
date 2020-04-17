@@ -3,21 +3,21 @@
 <div class="row mb-5">
   <div class="col-2 d-none d-md-block"></div>
   <div class="col">
-    <main>
-      <ul class="pagination">
-        {% if paginator.next_page %}
-        <li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/page{{paginator.next_page}}">Daha Eski</a></li>
-        {% endif %}
+    <ul class="pagination">
+      {% if paginator.next_page %}
+      <li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/page{{paginator.next_page}}">Daha Eski</a>
+      </li>
+      {% endif %}
 
-        {% if paginator.previous_page %} {% if paginator.page == 2 %}
-        <li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/">Daha Yeni</a></li>
-        {% else %}
-        <li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/page{{paginator.previous_page}}/">Daha Yeni</a>
-        </li>
-        {% endif %}
-        {% endif %}
-      </ul>
-    </main>
+      {% if paginator.previous_page %} {% if paginator.page == 2 %}
+      <li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/">Daha Yeni</a></li>
+      {% else %}
+      <li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/page{{paginator.previous_page}}/">Daha
+          Yeni</a>
+      </li>
+      {% endif %}
+      {% endif %}
+    </ul>
   </div>
   <div class="col-2 d-none d-md-block"></div>
 </div>
