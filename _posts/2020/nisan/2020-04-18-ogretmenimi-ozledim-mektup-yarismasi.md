@@ -10,6 +10,7 @@ attendance: "E-Posta"
 comTopic: "Öğretmenimi Özledim"
 requirements: "İstanbul’daki tüm ilkokul öğrencileri katılabilir"
 permalink: "istanbul-ogretmenimi-ozledim-mektup-yarismasi"
+image: "https://edebiyatyarismalari.com/images/2020/nisan/ogretmenimi-ozledim-mektup-yarismasi.jpg"
 ---
 
 Amaç:  
