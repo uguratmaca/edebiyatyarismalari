@@ -11,7 +11,7 @@ price: "2 Bin 250 TL'dir"
 comTopic: "Koronavirüs sürecinde mevcut durumun anlaşılması"
 requirements: "Üniversite öğrencileri katılabilir"
 permalink: "koronavirüs-mevcut-durumu-anlamak-makale-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/nisan/21-korona-virus-makale-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2020/nisan/koronavirüs-mevcut-durumu-anlamak-makale-yarismasi.jpg"
 ---
 
 Koronavirüs salgının yaşandığı günümüzde, küresel ve bölgesel düzeyde derin siyasi, ekonomik ve teknolojik değişimler yaşanmaktadır. Bu değişimler dikkate alınarak, bu virüsün gençlerimizin hayatına nasıl etki ettiğine dair “Koronavirüs sürecinde mevcut durumun anlaşılmasına” ihtiyaç duyulmaktadır.  
