@@ -3,10 +3,10 @@ layout: post
 title: "Zeynep Cemali Öykü Yarışması"
 description: "güncel öykü yarışmaları 2020, güncel hikaye yarışması 2020, ödüllü yarışmalar 2020"
 category: articles
-tags: [mayıs 2020, ortaokul, hikaye yarışması]
+tags: [haziran 2020, ortaokul, hikaye yarışması]
 comments: true
-lastDate: 1589922000
-dateHuman: "20 Mayıs 2020"
+lastDate: 1592773200
+dateHuman: "22 Haziran 2020"
 comTopic: "Özgürlük, “Tekerleklerin üstünde yelle yarışıyordu.” Zeynep Cemali’nin Patenli Kız kitabından."
 attendance: "E-Posta"
 requirements: "2019 - 2020 öğretim yılında tüm okulların 6, 7 ve 8. sınıflarında okuyan öğrenciler katılabilir."  
@@ -23,7 +23,7 @@ requirements: "2019 - 2020 öğretim yılında tüm okulların 6, 7 ve 8. sını
 8- Öykünün uzunluğunun 1,5 satır aralığıyla, iki (2) A4 sayfadan az, dört (4) A4 sayfadan fazla olmaması önerilir.
 9- Öykünün başında öykü adı ve hemen altında da öyküyü yazan öğrencinin adı yer almalıdır.
 10- Öykünün posta veya e-posta yoluyla tek (1) kopya gönderilmesi yeterlidir. Yarışmaya kişisel e-posta adresinden değil, danışman öğretmen veya veli e-posta adresinden başvuru yapılmalıdır.
-11- Yarışmaya son başvuru tarihi 20 Mayıs 2020 Çarşamba günüdür.
+11- Yarışmaya son başvuru tarihi 22 Haziran 2020 günüdür.
 12- Öykülerin en son sayfasında, başvuruda bulunan öğrencilerin adı soyadı, okulunun adı, sınıfı, öğretmeninin adı soyadı, okul adresi ve okul telefon numarası, velisinin adı soyadı ve telefonu ile **Zeynep Cemali Öykü Yarışması**’na daha önce katıldıysa, katılım yılı yazılmalıdır. Bütün bu bilgiler için, yarışmanın internet sayfasındaki Kayıt Formu’nu eksiksiz doldurmak da yeterli olacaktır: gunisigikitapligi.com/projeler/zeynep-cemali-oyku-yarismasi
 13- Öğretmen olarak yalnızca bir (1) isim belirtilmelidir.
 14- Başvuruların şartnameye uygunluğu Günışığı Kitaplığı raportörleri tarafından denetlenir.
@@ -42,3 +42,5 @@ dağıtılan Ödüllü Öyküler Kitapçığı’nda yer alır.
 Yetkili: Figen Ulu
 Telefon: 0212 212 99 73
 E-posta: **yarisma@gunisigikitapligi.com**
+
+Güncelleme: Son başvuru tarihi güncellendi.
