@@ -3,7 +3,7 @@ layout: post
 title: "Nilüfer Belediyesi Sahne Eseri Yazma Yarışması"
 description: "para ödüllü sahne eseri yazma yarışması, tiyatro eseri yazma yarışması"
 category: "senaryo-yarismasi"
-tags: [mayıs 2020, genel, senaryo yarışması]
+tags: [mayıs 2020, genel, oyun yazma yarışması]
 comments: true
 lastDate: 1588539600    
 dateHuman: "4 Mayıs 2020"

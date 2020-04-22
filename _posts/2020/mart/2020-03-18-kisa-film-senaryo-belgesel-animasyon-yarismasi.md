@@ -3,7 +3,7 @@ layout: post
 title: "Alemlere Rahmet Kısa Film, Senaryo, Animasyon, Belgesel Yarışması"
 description: "para ödüllü senaryo yarışması, kısa film yarışması"
 category: "senaryo-yarismasi"
-tags: [ekim 2020, genel, senaryo yarışması, kısa film yarışması ]
+tags: [ekim 2020, genel, senaryo yarışması, kısa film yarışması]
 comments: true
 lastDate: 1588539600    
 dateHuman: "31 Ekim 2020"
