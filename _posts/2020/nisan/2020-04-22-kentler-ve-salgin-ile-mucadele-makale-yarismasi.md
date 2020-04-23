@@ -9,7 +9,7 @@ dateHuman: "5 Haziran 2020"
 attendance: "E-Posta"
 comTopic: "KENTLER ve SALGINLA MÜCADELE: Yapılı Çevre Tasarımı ve Halk Sağlığı"
 requirements: "Yarışma Mimarlar Odası’na üye, lisans ve yüksek lisans mimarlık öğrencilerine açıktır"
-permalink: "kentler-ve-salgin-ile-mücadele-makale-yarismasi"
+permalink: "kentler-ve-salgin-ile-mucadele-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/nisan/kentler-ve-salgin-makale-yarismasi.png"
 ---
 
