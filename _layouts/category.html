@@ -47,8 +47,9 @@ layout: default
     {% endif %}
     {% endfor %}
 
+    {% if page.showEmpty != false %}
     {% if counter == 0 %}
     <p class="text-danger">Bu listede, hali hazırda başvuru bekleyen herhangi bir yarışma bulunmuyor!</p>
     {% endif %}
-
+    {% endif %}
 </section>
