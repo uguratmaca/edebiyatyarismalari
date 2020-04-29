@@ -2,7 +2,7 @@
 layout: post
 title: "Hikayemde Ramazan Hikaye Yarışması"
 description: "hikayemde ramazan, ramazan temalı hikaye yarışması 2020, giresun"
-tags: [mayıs 2020, üniversitesi, hikaye yarışması]
+tags: [mayıs 2020, üniversite, hikaye yarışması]
 comments: true
 lastDate: 1589662800    
 dateHuman: "17 Mayıs 2020" 
