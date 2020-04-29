@@ -1,6 +1,6 @@
 ---
 layout: category
-headline: "Kompozisyon Yarışmaları 2020"
+headline: "Kompozisyon Yarışmaları"
 subline: "Ülkemizde düzenlenen <strong>kompozisyon yarışması</strong>nı bu sayfadan takip edebilirsiniz. 2020
 yıllarında düzenlenecek olan <strong>kompozisyon yarışmaları</strong> için ilgili yarışmanın detay sayfasına
 gidebilirsiniz."

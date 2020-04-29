@@ -1,6 +1,6 @@
 ---
 layout: category
-headline: "Masal Yarışmaları 2020"
+headline: "Masal Yarışmaları"
 title: Masal Yarışmaları
 key: "masal yarışması"
 description: Masal yarışması 2020, Masal yarışmaları, Masal yarışması duyuruları, Güncel Masal yarışmaları 2020

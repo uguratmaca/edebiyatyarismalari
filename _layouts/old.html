@@ -17,10 +17,8 @@ layout: default
     {% endif %}
 
     {% for post in site.posts %}
-    {% if post.lastDate > nowDateInt %}
+    {% if post.lastDate < nowDateInt %}
     {% if post.tags contains page.key %}
-
-    {% assign counter=counter | plus:1 %}
 
     <section>
         <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
@@ -37,7 +35,7 @@ layout: default
         <p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
         {% endif %}
 
-        <p class="text-success">Yarışma başvurusu devam ediyor...</p>
+        <p class="text-danger">Yarışma başvurusu sona erdi!</p>
 
         {{ post.excerpt }}
     </section>
@@ -47,13 +45,4 @@ layout: default
     {% endif %}
     {% endfor %}
 
-    {% if page.showEmpty != false %}
-    {% if counter == 0 %}
-    <p class="text-danger">Bu listede, hali hazırda başvuru bekleyen herhangi bir yarışma bulunmuyor!</p>
-    {% endif %}
-    {% endif %}
-
-    <a href="{{site.url}}/gecmis-{{page.permalink}}" class="nav-link">
-        Geçmiş {{page.headline}}
-    </a>
 </section>
