@@ -3,7 +3,7 @@ layout: post
 title: "Kadıköy Belediyesi Ulusal Tiyatro Sahne Eseri (Oyun) Yarışması 2020"
 description: "kadıköy belediyesi, sahne eseri yazma yarışması"
 category: articles
-tags: [temmuz 2019, tiyatro eseri yazma yarışması]
+tags: [temmuz 2019, tiyatro oyunu yazma yarışması]
 lastDate: 1563138000
 dateHuman: "15 Temmuz 2019"
 price: "42 Bin 500 TL'dir"
