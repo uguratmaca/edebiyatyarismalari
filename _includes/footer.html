@@ -10,12 +10,14 @@
             <a href="{{ site.instagram }}" rel="noreferrer" target="_blank" class="nav-link">Instagram</a>
         </li>
         <li class="nav-item">
-            <a href="https://medium.com/eski-hikayeler?ref=edebiyatyarismalari.com" rel="noreferrer" target="_blank" class="nav-link">
+            <a href="https://medium.com/eski-hikayeler?ref=edebiyatyarismalari.com" rel="noreferrer" target="_blank"
+                class="nav-link">
                 Eski Hikayeler
             </a>
         </li>
         <li class="nav-item">
-            <a href="https://medium.com/kendi-macerani-kendin-sec?ref=edebiyatyarismalari.com" rel="noreferrer" target="_blank" class="nav-link">
+            <a href="https://medium.com/kendi-macerani-kendin-sec?ref=edebiyatyarismalari.com" rel="noreferrer"
+                target="_blank" class="nav-link">
                 Kendi Maceranı Kendin Seç
             </a>
         </li>
@@ -29,21 +31,20 @@
     <p>EdebiyatYarışmaları® | 2018 - 2020</p>
 </div>
 
-<script async src="/search-script.js"></script>
+<script async src="/search-script.js" onload="applySearch()"></script>
 
 <script>
 
-  document.addEventListener('DOMContentLoaded', function () {
+    function applySearch() {
 
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      limit: 5,
-      noResultsText: '<li class="list-group-item">Kayıt bulunamadı...</li>',
-      searchResultTemplate: '<li class="list-group-item"><a href="{url}" title="{desc}">{title}</a></li>'
-    });
-
-  }, false);
+        SimpleJekyllSearch({
+            searchInput: document.getElementById('search-input'),
+            resultsContainer: document.getElementById('results-container'),
+            json: '/search.json',
+            limit: 5,
+            noResultsText: '<li class="list-group-item">Kayıt bulunamadı...</li>',
+            searchResultTemplate: '<li class="list-group-item"><a href="{url}" title="{desc}">{title}</a></li>'
+        });
+    }
 
 </script>
