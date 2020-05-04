@@ -11,7 +11,7 @@ attendance: "Kargo-Posta"
 comTopic: "Geleneksel Anadolu Tiyatrosu’ndan beslenen, kalıplarını, biçem özelliklerini taşıyan ve gelenekseli günümüze getiren yeni yazılmış oyunlar."
 requirements: "Yarışmaya, herkes katılabilir."
 permalink: "14-aydin-ustuntas-tiyatro-oyunu-yazma-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/nisan/14-aydin-ustuntas-tiyatro-oyunu-yazma-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2020/mayis/14-aydin-ustuntas-tiyatro-oyunu-yazma-yarismasi.jpg"
 ---
 
 Amaç:
@@ -20,7 +20,7 @@ Amaç:
 - “Ulusal olmadan evrensel olunamayacağı” gerçeğinden hareketle Anadolu’nunTiyatrosu’nu yaşatmak ve tanıtmak, gelecek kuşaklara doğru bir tiyatro mirası bırakmak amacıyla, yeni oyunlar yazılmasını sağlamaktır.  
 
 **Tiyatro Oyunu Yazma Yarışması** Organizasyonu:
-14. AYDIN ÜSTÜNTAŞ GELENEKSEL ANADOLU TİYATROSU OYUN YAZMA YARIŞMASI Güzel Ordu Kültür Sanat Derneği tarafından organize edilmekte ve Proje danışmanı Gülçin Üstüntaş tarafından yürütülmektedir.  
+14.AYDIN ÜSTÜNTAŞ GELENEKSEL ANADOLU TİYATROSU OYUN YAZMA YARIŞMASI Güzel Ordu Kültür Sanat Derneği tarafından organize edilmekte ve Proje danışmanı Gülçin Üstüntaş tarafından yürütülmektedir.  
 
 Yarışma Türü:  
 Tiyatro Oyunu  
