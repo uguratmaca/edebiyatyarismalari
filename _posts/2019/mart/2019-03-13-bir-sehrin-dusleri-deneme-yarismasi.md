@@ -22,4 +22,4 @@ F) Katılımcılar, ödül alan ya da yayınlanmaya değer bulunan eserlerinin M
 G) Yarışmaya gönderilen eserler (Yarışmanın hangi aşamasında olursa olsun) şartnamenin herhangi bir maddesine aykırılıkları tespit edildiğinde yarışma dışı bırakılırlar.
 H) Yarışmaya katılan eser sahipleri, bu şartnamedeki hükümleri bütünüyle kabul etmiş sayılırlar.
 
-[Detaylar ve başvuru için](http://akmestal.meb.k12.tr/icerikler/yarismalar_6617965.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

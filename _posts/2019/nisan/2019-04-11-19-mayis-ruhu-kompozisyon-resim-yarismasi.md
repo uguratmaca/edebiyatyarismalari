@@ -48,4 +48,4 @@ Gaziantep’te bulunan tüm resmi ve özel lise öğrencileri.
   Üçüncülük Ödülü: 1000 TL. . Sanko Park AVM Hediye Çeki
   Mansiyon Ödülü: Kitap Seti
 
-[Detaylar ve başvuru için](http://www.sanko.k12.tr/ortaokul/duyuru.aspx?id=2151?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

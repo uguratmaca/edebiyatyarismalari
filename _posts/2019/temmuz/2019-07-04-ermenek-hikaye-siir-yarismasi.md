@@ -40,4 +40,4 @@ Gönderilecek filmler başka bir yerde yayınlanmamış (İnternet ortamı, TV, 
 3- ESERLERDEN DAHA ÖNCE KULLANILDIĞI VEYA TELİF HAKKI OLDUGU ANLAŞILIRSA DİSKALİFİYE OLACAKTIR.
 4- ESERLERİN SON TESLİM TARİHİ 30.07.2019 MESAİ BİTİMİDİR. BU TARİHTEN SONRA GELECEK ESERLER YARIŞMAYA KABUL EDİLMEYECEKTİR.
 
-[Başvuru için](http://ermenek.bel.tr/ermenek-belediyesi-festival-etkinlikleri-icerisindeki-yarismalar/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

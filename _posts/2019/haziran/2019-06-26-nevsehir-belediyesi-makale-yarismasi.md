@@ -24,4 +24,4 @@ Herhangi bir konu ve sayfa sınırlamasının bulunmadığı yarışmada gençle
 
 Yarışma hakkında daha detaylı bilgi almak isteyenler için tel: 0384 2132370
 
-[Başvuru için](http://nevsehir.bel.tr/news-details.php?ID=4653:nevsehir-belediyesi-nden-genc-yazarlara-davet&catid=13&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

@@ -39,4 +39,4 @@ Mansiyon Ödülleri 1.000 TL dir.
 İlk üç dereceye giren danışman öğretmenlere 1.500’ er TL ödül verilecektir.
 Dereceye giren öğrencilere okulları ve kendi adlarına temsili olarak altın, gümüş ve bronz madalyalar verilecektir.
 
-[Başvuru için](http://kbmsobiy.com/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

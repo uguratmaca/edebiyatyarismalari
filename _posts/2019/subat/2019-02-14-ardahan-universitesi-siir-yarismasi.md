@@ -13,4 +13,4 @@ comTopic: "Ardahan"
 
 Ardahan Üniversitesi "Ardahan" Konulu Şiir Yarışması
 
-[Detaylar ve Başvuru için](http://www.ebyu.edu.tr/tr/siir-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

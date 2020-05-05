@@ -18,6 +18,4 @@ Yarışmaya katılmak isteyen öğrenciler 28 Şubat 2019 tarihinden itibaren 11
 
 Şiir yarışmasında dereceye girenlere: Tablet, E-Kitap okuyucu, Mp3 çalar hediye edilecek.
 
-
-
-[Detaylar ve başvuru için](http://ktod-ks.org/2019/02/siir-ve-resim-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

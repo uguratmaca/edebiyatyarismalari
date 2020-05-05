@@ -45,4 +45,4 @@ HAKAN BIÇAKCI
 PROF. DR. SEDAT SEVER
 DOÇ. DR. TUĞBA ÇELİK
 
-[Başvuru online formu](https://www.tedankara.k12.tr/index.php/kampuste-yasam/duyurular/item/1340-oguz-atay-oyku-yazma-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

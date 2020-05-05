@@ -37,4 +37,4 @@ Yedi bölgede ilk üçe giren yarışmacılar, Cumhuriyet Başsavcılığı Koru
 
 Türkiye genelinde ilk üçe giren yarışmacılar, Cumhuriyet Başsavcılığı Koruma Kurulları tarafından temin edilecek ödüllerini Avrupa Yetişkin Öğrenimi Gündemi 4 Projesinin düzenleyeceği bir törenle alacaklardır.
 
-[Başvuru için](https://yetiskinproje.com/karanligi-aydinlananlar-konulu-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

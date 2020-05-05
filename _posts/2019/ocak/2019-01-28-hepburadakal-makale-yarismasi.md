@@ -19,4 +19,4 @@ Makalenizle birlikte isim, soyad ve iletişim bilgileriniz göndermeniz zorunlud
 
 Yarışmaya katılan tüm makaleler YARIŞMA  kategorisi altında yayınlanacaktır. İlgili makalelerin nekadar beğeni ve yorum aldığı herkese açık olacaktır. Böyelece hangi makalenin önde olduğunu herkes görebilir.Gönderilen tüm makaleler sitemizde yayınlanacaktır. 1 Nisan 2019 tarihine kadar ençok yorum ve beğeni alan makale birinci seçilerek 2 Nisan 2019 tarihinde yine sitemizde kazanan makale açıklanarak 500 usd almaya hak kazanacaktır. 500 usd aynı gün kazanan kişinin istediği banka hesabına havale yapılacaktır.
 
-[Detaylar ve Başvuru için](https://www.hepburadakal.com/500-usd-odullu-makale-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

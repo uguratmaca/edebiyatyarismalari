@@ -16,4 +16,4 @@ Cemal Reşit Rey İlkokulu Öykü Yarışması
 Amaç; öğrencilerin çevrelerinde var olan  problemleri ya da gözlemlerine dayandırdığı problemleri ve çözümlerini öykülerle anlatma ve Türkçe yazım  kurallara uygun bir dil kullanarak yazmalarını sağlamak.
 Açıklama Tarihi: 7 Mayıs
 
-[Detaylar ve başvuru için](http://cemalresitreyilkokulu.meb.k12.tr/icerikler/quotguvenli-okul-guvenli-dunyaquot-oyku-yarismasi_7083731.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

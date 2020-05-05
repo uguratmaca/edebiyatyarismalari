@@ -22,5 +22,4 @@ ilkokul ve ortaokul öğrencileri davetlidir.
 3. Drone
 
 Başvurular için aşağıdaki linke tıklayınız...
-
-[Başvuru Linki](https://turkiyeteknolojitakimi.org/23-Nisan-Yarisma-Basvurusu.html?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+Güncelleme: Link kırıldığı için kaldırıldı

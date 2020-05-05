@@ -63,7 +63,4 @@ Son başvuru tarihleri Şubat ayı 2019 olan hikaye, öykü yarışmalarına aş
 
 [12. Ahmet Rasim Yaşıyor Köşe Yazısı Yazma Yarışması](https://www.darussafaka.k12.tr/ahmet-rasim-yasiyor/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
 
-
-28 Şubat 2019
-
-[Deneme Yarışması](http://incesucpl.meb.k12.tr/icerikler/personel-arasinda-odullu-deneme-yarismasi_6211985.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc ){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

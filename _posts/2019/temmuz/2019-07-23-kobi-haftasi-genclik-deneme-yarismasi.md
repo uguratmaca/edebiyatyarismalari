@@ -19,4 +19,4 @@ Yarışma iki tura bölünecek:
 
 Helsinki’deki 2019 KOBİ Meclisine tüm masrafları karşılanmış şekilde olan seyahat ödülünü kazanmak için, 16 Ağustos 2019’dan önce İngilizce olarak en fazla 2500 kelime içeren konuşmanızı gönderin.
 
-[Başvuru için](https://ab-ilan.com/kobi-haftasi-genclik-deneme-yarismasi-2019/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

@@ -54,4 +54,4 @@ almayacağını ve eserin yukarıdaki şekilde kullanılmasını men etmeyeceği
 lisans için kendisine verilen ödülden başka herhangi bir telif hakkı ya da maddi manevi
 talepte bulunmayacağını, gayri kabili rücu kabul, beyan ve taahhüt eder.
 
-[Başvuru için](http://www.manavgat.bel.tr/duyurular/siir-yarismasi-sartnamesi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

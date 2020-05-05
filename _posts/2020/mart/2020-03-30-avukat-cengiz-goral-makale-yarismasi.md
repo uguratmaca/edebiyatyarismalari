@@ -50,4 +50,4 @@ Kıbrıs Şehitleri Caddesi, Bursa Adalet Sarayı G Blok Kat:1 Osmangazi - Bursa
 Selma Eğen - Bursa Barosu Başkanlık özel Kalemi -0224.273 04 94  
 Av,Metin Öztosun - Bursa Barosu Başkan Yardımcısı - 0530.150 80 00  
 
-[Başvuru Formu](https://www.bursabarosu.org.tr/tr/md-File-Download.htm?path=%2Ffiles%2Fdownloads%2Fpagefiles%2F%7Baf2640df-ed0d-4ff5-8358-bbb4a72dae3f%7D%2Ffiles%2Fmakale_form.doc?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+Güncelleme: Link kırıldığı için kaldırıldı.

@@ -30,4 +30,4 @@ AMAÇ: Yarışmanın amacı, genç kuşakları şiirle buluştururken aynı zama
 
 KAPSAM: Yarışmaya Türkiye genelinde, Millî Eğitim Bakanlığına bağlı bütün resmî – özel okullarda öğrenim gören lise öğrencileri katılabilir.
 
-[Detaylar ve başvuru için](https://www.radyo80.com/4-bestami-yazgan-siir-yarismasi.html/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

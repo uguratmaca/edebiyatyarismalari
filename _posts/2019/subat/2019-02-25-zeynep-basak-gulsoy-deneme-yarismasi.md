@@ -18,5 +18,4 @@ Ufuk Üniversitesi olarak öğrencimiz Zeynep Başak Gülsoy'un anısını ve ad
 
 Yarışma konusunu belirlemek için gerçekleştirdiğimiz anket sonucunda konu "Dostluk" olarak belirlenmiştir.
 
-
-[Detaylar ve başvuru için](https://www.ufuk.edu.tr/zeynep-basak-gulsoy-anisina-deneme-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

@@ -42,4 +42,4 @@ Yarışma Takvimi
 Başvuru           : 1 Nisan - 10 Mayıs 2019
 Sonuçların İlanı  : 20 Mayıs 2019
 
-[Detaylar ve başvuru için](https://benimisim.karatay.edu.tr/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: Bozuk linkler kaldırıldı

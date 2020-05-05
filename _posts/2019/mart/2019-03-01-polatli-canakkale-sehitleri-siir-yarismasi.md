@@ -29,4 +29,4 @@ Birincilere 1 gram altın
 İkincilere yarım gram altın
 Üçüncülere kırtasiye seti
 
-[Detaylar ve başvuru için](http://polatliimamhatiportaokulu.meb.k12.tr/icerikler/ilcemizde-ortaokullar-arasi-siir-yarismasi-18-mart-canakkale-sehitleri_6603112.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

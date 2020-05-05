@@ -89,5 +89,3 @@ Vakıf Tel: 0464 344 20 38
 Vakıf Yön. Kur. Üyesi:  Hikmet YANIK Telefon: 0505 716 20 65
 Web: www.guneysuilim.org / www.gusem.org
 Mail: bilgi@guneysuilim.org / guneysuvakfi@gmail.com
-
-[Başvuru Formu](http://www.gusem.org/form?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

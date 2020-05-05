@@ -15,4 +15,4 @@ Eserler A4 kağıdına mürekkepli kalemle yazılacak olup 1 sayfayı geçmeyece
 Sonuçlar 27 Mart 2019´da www.istanbulpol.tr adresinden yayımlanacaktır.
 Eselerinizi sınıflarınızın Türkçe öğretmenlerine teslim edebilirsiniz.
 
-[Detaylar ve Başvuru için](http://turkisveckardeslikortaokulu.meb.k12.tr/icerikler/turk-polis-teskilatinin-174yili-siir-yarismasi_6518040.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı
