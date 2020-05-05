@@ -39,6 +39,7 @@ Yarışma sonucunda isimleri belirtilen katılımcıların eserlerine ödül ve 
 | 8 | ADEM ESEN | PALYAÇO | MANSİYON |
 | 9 | MERT ŞÖLEN  | MADENDE | MANSİYON |
 | 10 | MURATHAN ÇARBOĞA | KAYIP HAYALİN PEŞİNDE | MANSİYON |
+{:.table-striped}
 
 ## Ümraniye Belediyesi “Serbest” Konulu 16. Geleneksel Şiir Yarışması Sonuçları
 
@@ -61,3 +62,4 @@ Seçici Kurul tarafından yapılan değerlendirme sonucunda, isimleri belirtilen
 | 8 | ARİF ODABAŞ | AŞKIN İSTANBUL HALİ | MANSİYON |
 | 9 | İLKNUR KURUHALİL | MEMLEKETİM | MANSİYON |
 | 10 | HÜSEYİN UZEL | KUDRET ÇİÇEĞİ | MANSİYON |
+{:.table-striped}

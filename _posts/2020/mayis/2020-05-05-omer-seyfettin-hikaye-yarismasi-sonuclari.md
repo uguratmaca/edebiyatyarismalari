@@ -40,3 +40,4 @@ Türk Eğitim-Sen olarak bu değerli yarışmayı düzenlemenin mutluluğunu ve 
 | Üyeler | 2. | Rizvan YILDIZHAN | Adana 1 No’lu Şube | Adamın Mevsimleri |
 | Üyeler | 3. | Mirac Furkan BAYAR | Erzurum 1 No’lu Şube | Alınyazı Saatleri |
 | Üyeler | Jüri Teşvik | Onur ÜNLÜTÜRK | Giresun Şube | Emanet |
+{:.table-striped}
