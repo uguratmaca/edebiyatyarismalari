@@ -9,11 +9,6 @@ comments: true
 
 Son başvuru tarihleri Ocak ayı olan şiir yarışmaları aşağıdadır.
 
-11 Ocak 2019
-
-[Ümraniye Belediyesi 15. Geleneksel Şiir Yarışması](http://yarisma.umraniye.bel.tr/sartname-siir-1.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
-
-
 15 Ocak 2019
 
 [Mehmet Hilmi Şiir Yarışması](https://www.burasibatitrakya.com/haberler/24651-iske%C3%A7e-t%C3%BCrk-birli%C4%9Fi-nden-%C5%9Fiir-yar%C4%B1%C5%9Fmas%C4%B1.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}

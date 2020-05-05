@@ -14,5 +14,4 @@ Yarışmanın konusu; "SERBEST" olarak belirlenmiştir.
 Yarışmaya katılacak şiirlerin daha önce hiçbir yarışmada ödül almamış ve herhangi bir yerde (basılı olarak) yayımlanmamış olması gerekmektedir.
 Bir şair, yarışmaya en fazla iki şiir ile katılabilir.
 
-
-[Detaylar ve Başvuru için](http://yarisma.umraniye.bel.tr/sartname-siir-1.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

@@ -51,4 +51,4 @@ Tel: 0 (216) 443 56 00 / 1196 - 1137
 Web: www.umraniye.bel.tr
 E-mail: kultur@umraniye.bel.tr
 
-[Başvuru Formu](http://yarisma.umraniye.bel.tr/yarisma-katil-1.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı

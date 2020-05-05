@@ -17,4 +17,4 @@ Yarışmaya avukat, hakim, savcı, stajyer avukat, hukuk fakültesi öğrencisi,
 
 Yarışmaya sadece elektronik posta yarisma@bursabarosu.org.tr adresine yapılan başvurular kabul edilecektir.
 
-[Detaylar ve başvuru için](http://www.bursabarosu.org.tr/tr/gundem-duyurular-makale-yarismasi-2019.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+Güncelleme: bozuk linkler kaldırıldı
