@@ -2,10 +2,10 @@
 layout: post
 title: "Ağrı Hikaye ve Şiir Yarışması"
 description: "ağrı hikaye ve şiir yarışması, hikaye yazma yarışması, şiir yarışmaları 2020, para ödüllü yarışmalar 2020"
-tags: [mayıs 2020, üniversite, hikaye yarışması, şiir yarışması]
+tags: [eylül 2020, üniversite, hikaye yarışması, şiir yarışması]
 comments: true
-lastDate: 1588885200    
-dateHuman: "8 Mayıs 2020"
+lastDate: 1601413200    
+dateHuman: "30 Eylül 2020"
 attendance: "Websitesi"
 comTopic: "Ağrı"
 price: "17 Bin TL'dir"
