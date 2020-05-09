@@ -41,7 +41,7 @@ Biçim Kuralları:
 - Yazarların yarışmaya gerçek ad ve soyadlarıyla katılmaları gerekmektedir.
 - Yazarın kimlik bilgilerinin bulunduğu dosyanın adına yazarın adı verilmelidir.
 - Yukarıda belirtilen özellikleri taşımayan eserler yarışma dışı bırakılacaktır.
-- Eserler 22 Mayıs 2020 tarihine kadar Ağrı İbrahim Çeçen Üniversitesi yarisma.agri.edu.tradresine diğer belgelerle beraber gönderilmelidir
+- Eserler 30 Eylül 2020 tarihine kadar Ağrı İbrahim Çeçen Üniversitesi yarisma.agri.edu.tradresine diğer belgelerle beraber gönderilmelidir
 
 ## Hikaye ve Şiir Yarışması Ödülleri
 1.2.3. ve mansiyon ödülleri, şiir ve hikâye kategorileri için ayrı ayrı verilecektir.  
@@ -49,5 +49,7 @@ Biçim Kuralları:
 - İkinciye: 2.500,00 TL, Bir yıllık Dil ve Edebiyat Dergisi aboneliği
 - Üçüncüye: 1.500,00 TL, Bir yıllık Dil ve Edebiyat Dergisi aboneliği
 - Mansiyon: 1.000,00 TL, Bir yıllık Dil ve Edebiyat Dergisi aboneli
+
+Güncelleme: Son başvuru tarihi
 
 [Başvuru Linki](https://yarisma.agri.edu.tr/basvuru.aspx?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
