@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Şanlıurfa Kurtuluşu Resim Yarışması"
-description: "şanlıurfanın kurtuluşu resim yarışması, resim yarışmaları 2020"
+description: "şanlıurfanın kurtuluşu resim yarışması 2020, resim yarışmaları 2020"
 tags: [mayıs 2020, genel, şanlıurfa, resim yarışması]
 comments: true
 lastDate: 1589490000    
@@ -20,7 +20,7 @@ Yarışmanın temel amacı, Urfa Kurtuluşu konulu eserleri ortaya çıkarmak, t
 Kimler Katılabilir?  
 Web ortamında düzenlenen bu yarışmaya başta Şanlıurfa ilinde ikamet eden veya Şanlıurfalı olup il dışında ikamet edenler iletişim adresi olarak Şanlıurfa'da bir akrabasının adresini gösterenler katılabileceklerdir.
 
-## Resim Yarışma Kuralları ve Yapılma Şekli
+## Resim Yarışması Kuralları ve Yapılma Şekli
 Yarışmacılar; resmin konusunu Urfa’nın Kurtuluşu olarak belirlemek ve resim kurallarına göre yazmak zorundadır. Eserler 35*50 ebatlında olacaktır. Yağlı boya, sulu boya, kuru boya, pastel boya, guaj boya gibi her türlü resim tekniği, serbest çalışma ve her türlü resim malzemesi kullanılabilir. Uygun ışık ortamında ve pikseli yüksek bir makine ile (Fotoğraf makinesi veya cep telefonu kamerası vasıtasıyla) tam cepheden çekilerek ve çekilen fotoğraf üzerinde oynama yapılmadan sisteme yüklenecektir. Bu çalışmaların orijinalini ayrıca Korona virüs Covit_19 Pandemi salgınına karşın alınan tedbirler kalktıktan sonra Büyükşehir Belediyesi Kütüphaneler Şube Müdürlüğüne teslim edilecektir. Eserler www.sanliurfa.bel.tr veya www.tarihinsanliyuzu.com web adresine kendi müracaatına ait sayfaya online olarak dosya halinde yüklenecektir. Son müracaat tarihine kadar müracaat bilgileri, bilgileri ve dosyalar yarışmacı tarafından güncellenebilecektir.
 
 Kanuni Haklar:  
