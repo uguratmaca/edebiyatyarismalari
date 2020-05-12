@@ -10,7 +10,7 @@ attendance: "Websitesi"
 comTopic: "Benim Ramazan'ım"
 requirements: "Yarışmaya İstanbul ili sınırları içerisinde yer alan ortaokul öğrencileri katılabilir."
 permalink: "benim-ramazanim-hikaye-yarismasi-istanbul"
-image: "https://edebiyatyarismalari.com/images/2020/mayis/benim-ramazanim-hikaye-yarismasi.jpeg"
+image: "https://edebiyatyarismalari.com/images/2020/mayis/benim-ramazanim-hikaye-yarismasi.jpg"
 ---
 
 Amaç:  
