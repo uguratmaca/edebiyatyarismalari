@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "İlahi Aşkın Sesi Beste Yarışması"
-description: "para ödüllü yarışmalar 2019"
+description: "ilahi aşkın sesi beste yarışması, beste yarışmaları, para ödüllü yarışmalar 2019"
 category: articles
 tags: [kasım 2019, genel, beste yarışması]
 comments: true

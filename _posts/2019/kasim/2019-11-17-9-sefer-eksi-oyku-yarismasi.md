@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sefer Ekşi 9. Kültür ve Sanat Ödülleri Öykü Yarışması"
-description: "güncel öykü yarışmaları 2020, güncel hikaye yarışması 2020, para ödüllü yarışmalar 2020"
+description: "sefer ekşi kültür sanat ödülleri, güncel hikaye yarışması 2020, para ödüllü yarışmalar 2020"
 category: articles
 tags: [şubat 2020, genel, hikaye yarışması]
 comments: true

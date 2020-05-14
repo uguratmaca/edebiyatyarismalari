@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2019 Öğretmenler Arası Kısa Öykü Yarışması"
-description: "öykü yarışması 2019, öykü yarışması, para ödüllü yarışmalar 2019, hikaye yarışması, ödüllü yarışmalar 2019"
+description: "öğretmenler arası kısa öykü yarışması 2019, öykü yarışması, para ödüllü yarışmalar 2019, hikaye yarışması, ödüllü yarışmalar 2019"
 category: articles
 tags: [eylül 2019, öğretmen, hikaye yarışması]
 comments: true

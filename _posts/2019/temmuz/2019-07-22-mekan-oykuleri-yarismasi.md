@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Teoman Öztürk Mekan Öyküleri Yarışması"
-description: "güncel para ödüllü öykü yarışmaları 2019, 2019 hikaye yarışmaları, para ödüllü yarışmalar 2019"
+description: "teoman öztürk mekan öyküleri, 2019 hikaye yarışmaları, para ödüllü yarışmalar 2019"
 category: articles
 tags: [ekim 2019, genel, hikaye yarışması]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hayata Tutunma Öyküleri 2020"
-description: "güncel para ödüllü öykü yarışmaları 2019, 2019 hikaye yarışmaları, para ödüllü yarışmalar 2019"
+description: "hayata tutunma öyküleri, 2019 hikaye yarışmaları, para ödüllü yarışmalar 2019"
 category: articles
 tags: [aralık 2019, genel, hikaye yarışması]
 comments: true

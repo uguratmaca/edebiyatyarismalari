@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hayal Melodileri Resim Yarışması"
-description: "güncel resim yarışması, ödüllü resim yarışmaları 2020"
+description: "hayal melodileri resim yarışması, ödüllü resim yarışmaları 2020"
 category: articles
 tags: [şubat 2020, üniversite, resim yarışması]
 comments: true

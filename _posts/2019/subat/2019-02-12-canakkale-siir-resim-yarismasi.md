@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "104 Yıllık Saygı Duruşu Konulu Şiir ve Resim Yarışması"
-description: "uluslararası hikaye anlatıcılığı"
+description: "çanakkale zaferi şiir yarışması, uluslararası hikaye anlatıcılığı"
 category: articles
 tags: [mart 2019, resim yarışması, şiir yarışması]
 comments: true

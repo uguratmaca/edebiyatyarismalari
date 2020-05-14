@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yeni Ufuk Dergisi Deneme Yarışması"
-description: "ödüllü yarışmalar"
+description: "deneme yarışmaları, yeni ufuk dergisi deneme yarışması"
 category: articles
 tags: [nisan 2019, deneme yarışması, genel]
 comments: true

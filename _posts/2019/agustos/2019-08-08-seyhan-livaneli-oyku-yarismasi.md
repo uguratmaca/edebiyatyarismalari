@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seyhan Livaneli Öykü Yarışması"
-description: "öykü yarışması 2019, öykü yarışması, para ödüllü yarışmalar 2019, hikaye yarışması, ödüllü yarışmalar 2019"
+description: "seyhan livaneli öykü yarışması 2019, öykü yarışması, para ödüllü yarışmalar 2019, hikaye yarışması, ödüllü yarışmalar 2019"
 category: articles
 tags: [ekim 2019, genel, hikaye yarışması]
 comments: true

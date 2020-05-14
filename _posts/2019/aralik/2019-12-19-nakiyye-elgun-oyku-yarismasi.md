@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nakıyye Elgün Ulusal Öykü Yarışması"
-description: "öykü yarışması 2020, hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
+description: "nakıyye elgün öykü yarışması 2020, hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
 category: articles
 tags: [ocak 2020, ortaokul, hikaye yarışması]
 comments: true

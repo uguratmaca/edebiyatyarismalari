@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Akhisar Şiir, Resim ve Fotoğraf Yarışması"
-description: "güncel şiir yarışması 2019, resim yarışmaları, fotoğraf yarışmaları, ödüllü yarışmalar 2019"
+description: "akhisar şiir yarışması, resim yarışması, resim yarışmaları, fotoğraf yarışmaları, ödüllü yarışmalar 2019"
 category: articles
 tags: [kasım 2019, lise, ortaokul, resim yarışması, şiir yarışması, fotoğraf yarışması]
 comments: true

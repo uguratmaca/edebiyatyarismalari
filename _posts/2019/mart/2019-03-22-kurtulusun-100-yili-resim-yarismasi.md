@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kurtuluşun 100. Yılı Resim Yarışması"
-description: "cumhuriyet"
+description: "kurtuluşun 100. yılı resim yarışması, resim yarışmaları"
 category: articles
 tags: [mayıs 2019, ortaokul, resim yarışması, diğer, samsun]
 comments: true

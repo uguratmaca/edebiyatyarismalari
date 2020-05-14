@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tüketici Hakları Resim Yarışması"
-description: "güncel resim yarışması, ödüllü resim yarışmaları 2020"
+description: "tüketici hakları resim yarışması, ödüllü resim yarışmaları 2020"
 category: articles
 tags: [şubat 2020, ortaokul, resim yarışması]
 comments: true

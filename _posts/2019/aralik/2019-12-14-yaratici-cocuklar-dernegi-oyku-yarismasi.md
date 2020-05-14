@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yaratıcı Çocuklar Derneği 12. Öykü Yarışması"
-description: "öykü yarışması 2020, güncel hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
+description: "yaratıcı çocuklar derneği öykü yarışması 2020, güncel hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
 category: articles
 tags: [mart 2020, lise, ortaokul, hikaye yarışması]
 comments: true

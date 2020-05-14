@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Çanakkale Zaferi Resim, Şiir, Kompozisyon Yarışması"
-description: "ödüllü yarışmalar"
+description: "çanakkale zaferi resim yarışmaları, resim yarışması, kompozisyon yarışmaları"
 category: articles
 tags: [mart 2019, resim yarışması, şiir yarışması, kompozisyon yarışması]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dijital Vatandaşlık Karikatür Yarışması"
-description: "güncel karikatür yarışması, ödüllü karikatür yarışmaları 2020"
+description: "dijital vatandaşlık güncel karikatür yarışması, ödüllü karikatür yarışmaları 2020"
 category: articles
 tags: [aralık 2019, genel, karikatür yarışması]
 comments: true

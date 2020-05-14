@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3 Ocak Şiir Yarışması"
-description: "güncel şiir yarışması, ödüllü şiir yarışmaları"
+description: "3 ocak mersin şiir yarışması, ödüllü şiir yarışmaları"
 category: articles
 tags: [aralık 2019, genel, şiir yarışması]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Türkiye İnsan Hakları ve Eşitlik Kurumu Şiir, Kompozisyon ve Resim Yarışması"
+title: "Türkiye İnsan Hakları Şiir, Kompozisyon ve Resim Yarışması"
 description: "Türkiye İnsan Hakları ve Eşitlik Kurumu"
 category: articles
 tags: []

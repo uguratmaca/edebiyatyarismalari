@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "9. Şerzan Kurt Öykü Ödülü"
-description: "güncel öykü yarışmaları 2019, eğitim sen, batman şubesi"
+description: "9. şerzan kurt öykü ödülü, öykü yarışması, güncel öykü yarışmaları 2019, eğitim sen, batman şubesi"
 category: articles
 tags: [eylül 2019, genel, hikaye yarışması]
 comments: true

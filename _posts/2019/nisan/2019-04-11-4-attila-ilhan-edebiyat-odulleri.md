@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "4. Attilâ İlhan Edebiyat Ödülleri"
-description: "para ödüllü yarışmalar"
+description: "4. attila ilhan edebiyat ödülleri, kitap yazma ödülleri, para ödüllü yarışmalar"
 category: articles
 tags: [haziran 2019, şiir yarışması, roman yarışması, genel]
 comments: true

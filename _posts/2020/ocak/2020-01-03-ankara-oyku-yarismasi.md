@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Edebiyat Ortamı Dergisi 1. Ankara Öykü Yarışması"
-description: "öykü yarışması 2020, hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
+description: "edebiyat ortamı öykü yarışması 2020, hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
 category: articles
 tags: [şubat 2020, genel, hikaye yarışması]
 comments: true

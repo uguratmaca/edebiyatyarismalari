@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Koronavirüs Süreci Sonrasında Geleceği Anlama Senaryoları Makale Yarışması"
+title: "Koronavirüs Süreci Sonrası Makale Yarışması"
 description: "koronavirüs süreci sonrasında geleceği anlama senaryoları makale yarışması, makale yarışmaları 2020"
 tags: [mayıs 2020, genel, makale yarışması]
 comments: true

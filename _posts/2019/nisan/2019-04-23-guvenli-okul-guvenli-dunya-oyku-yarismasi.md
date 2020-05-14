@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Güvenli Okul Güvenli Dünya Öykü Yarışması"
-description: "öykü yarışması"
+description: "güvenli dünya öykü yarışması, öykü yarışmaları"
 category: articles
 tags: [nisan 2019, ilkokul, hikaye yarışması]
 comments: true

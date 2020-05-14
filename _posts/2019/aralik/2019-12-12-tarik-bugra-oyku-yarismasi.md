@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tarık Buğra'nın İzinde Öykü Yarışması"
-description: "öykü yarışması 2020, güncel hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
+description: "tarık buğra öykü yarışması 2020, güncel hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
 category: articles
 tags: [mart 2020, genel, hikaye yarışması]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mimarlıkta Eleştirel Okumalar Metin Yarışması"
-description: "para ödüllü yarışmalar 2019"
+description: "mimarlıkta eleştirel okumalar metin yarışması, para ödüllü yarışmalar 2019"
 category: articles
 tags: [ekim 2019, üniversite]
 comments: true

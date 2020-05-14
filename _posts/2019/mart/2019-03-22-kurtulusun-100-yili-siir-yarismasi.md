@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kurtuluşun 100. Yılı Şiir Yarışması"
-description: "cumhuriyet"
+description: "kurtuluşun 100. yılı şiir yarışması, şiir yarışmaları"
 category: articles
 tags: [mayıs 2019, lise, şiir yarışması, samsun]
 comments: true

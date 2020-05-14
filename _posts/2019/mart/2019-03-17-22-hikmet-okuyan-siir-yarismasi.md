@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "22. Hikmet Okuyar Şiir Yarışması"
-description: "ödüllü yarışmalar"
+description: "hikmet okuyar şiir yarışması, şiir yarışmaları"
 category: articles
 tags: [mayıs 2019, şiir yarışması]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "15 Temmuz Darbe Girişiminde Halkın Milli Egemenliğe Sahip Çıkmasında Selaların Etkisi Öykü Yarışması"
+title: "15 Temmuz Darbe Girişimi Öykü Yarışması"
 description: "15 temmuz öykü yarışması, ödüllü yarışmalar 2020, hikaye yazma yarışması"
 category: articles
 tags: [mart 2020, genel, hikaye yarışması]

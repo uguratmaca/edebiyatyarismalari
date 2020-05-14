@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emin Özdemir Türkçe Ödülü 2019"
-description: "para ödüllü yarışmalar"
+description: "emin özdemir türkçe ödülü, kitap yazma ödülü, para ödüllü yarışmalar"
 category: articles
 tags: [haziran 2019, genel]
 comments: true
@@ -11,7 +11,7 @@ price: "1500 TL'dir"
 ---
 
 Emin Özdemir Türkçe Ödülü Katılım Koşulları
-Yaşamı boyunca Dil Devriminin ödünsüz savunucusu olan 1 Eylül 2017’de yitirdiğimiz Emin Özdemir’i dilci, yazıncı ve devrimci kişiliğiyle yaşatmak, düşünce ve yapıtlarını gelecek kuşaklara aktarmak; dil duyarlığını, dil ve yazın öğretimi anlayışını tanıtmak ve yaygınlaştırmak amacıyla Özdemir Ailesi ile Dil Derneği, “Dil Derneği Emin Özdemir  Türkçe Ödülü”nü düzenlemiştir.
+Yaşamı boyunca Dil Devriminin ödünsüz savunucusu olan 1 Eylül 2017’de yitirdiğimiz Emin Özdemir’i dilci, yazıncı ve devrimci kişiliğiyle yaşatmak, düşünce ve yapıtlarını gelecek kuşaklara aktarmak; dil duyarlığını, dil ve yazın öğretimi anlayışını tanıtmak ve yaygınlaştırmak amacıyla Özdemir Ailesi ile Dil Derneği, “Dil Derneği Emin Özdemir Türkçe Ödülü”nü düzenlemiştir.
 
 Ödüle Katılım Koşulları
 

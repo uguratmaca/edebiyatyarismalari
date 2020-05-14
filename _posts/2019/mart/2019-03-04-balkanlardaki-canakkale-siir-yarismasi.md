@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Balkanlar’daki Çanakkale Şiir Yarışması"
-description: "ödüllü yarışmalar"
+description: "çanakkale şiir yarışması, şiir yarışmaları"
 category: articles
 tags: [mart 2019, şiir yarışması]
 comments: true

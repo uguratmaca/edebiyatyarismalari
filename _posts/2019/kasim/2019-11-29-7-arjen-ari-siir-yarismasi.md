@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7. Arjen Ari Şiir Yarışması"
-description: "güncel şiir yarışması, ödüllü şiir yarışmaları"
+description: "7. arjen ari şiir yarışması, ödüllü şiir yarışmaları"
 category: articles
 tags: [mart 2020, genel, şiir yarışması]
 comments: true

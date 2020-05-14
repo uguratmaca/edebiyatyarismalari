@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "İyiki Öğretmenim Resim, Şiir, Anı, Fotoğraf Yarışması"
-description: "güncel şiir yarışması 2019, resim yarışmaları, fotoğraf yarışmaları, ödüllü yarışmalar 2019"
+description: "iyiki öğretmenim resim yarışması, resim yarışmaları, fotoğraf yarışmaları, ödüllü yarışmalar 2019"
 category: articles
 tags: [kasım 2019, öğretmen, resim yarışması, şiir yarışması, fotoğraf yarışması, anı yarışması]
 comments: true

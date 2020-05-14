@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "31. Ömer Seyfettin Hikaye Yarışması"
-description: "güncel öykü yarışmaları 2020, güncel hikaye yarışması 2020, para ödüllü yarışmalar 2020"
+description: "ömer seyfettin hikaye yarışması, güncel hikaye yarışması 2020, para ödüllü yarışmalar 2020"
 category: articles
 tags: [ocak 2020, lise, genel, hikaye yarışması]
 comments: true

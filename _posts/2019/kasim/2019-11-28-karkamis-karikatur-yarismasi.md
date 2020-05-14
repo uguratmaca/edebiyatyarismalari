@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "1. Ulusal Uludağ Bienali Karkamış Karikatür Yarışması 2020"
-description: "güncel karikatür yarışması, para ödüllü karikatür yarışmaları 2020"
+description: "1. ulusal uludağ bienali karkamış karikatür yarışması, para ödüllü karikatür yarışmaları 2020"
 category: articles
 tags: [şubat 2020, genel, karikatür yarışması]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "4. Denizbank İlk Senaryo İlk Film Yarışması"
-description: "ödüllü senaryo yarışması 2019"
+description: "4. denizbank ilk senaryo yarışması, ödüllü senaryo yarışması 2019"
 category: articles
 tags: [kasım 2019, senaryo yarışması, film yarışması]
 comments: true

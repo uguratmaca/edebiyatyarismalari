@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "1. Kurşun Kalem Kısa Öykü Yarışması"
-description: "öykü yarışması 2020, güncel hikaye yarışması 2020"
+description: "kurşun kalem kısa öykü yarışması 2020, güncel hikaye yarışması 2020"
 category: articles
 tags: [ocak 2020, genel, hikaye yarışması]
 comments: true

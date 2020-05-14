@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2. Uluslararası İstanbul Hikâye Anlatıcılığı Festivali"
-description: "uluslararası hikaye anlatıcılığı"
+description: "istanbul uluslararası hikaye anlatıcılığı"
 category: articles
 tags: [mart 2019]
 comments: true

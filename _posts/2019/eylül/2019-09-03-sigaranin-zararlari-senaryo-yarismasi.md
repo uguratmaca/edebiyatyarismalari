@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sigaranın Zararları Senaryo Yarışması"
-description: "ödüllü senaryo yarışması 2019"
+description: "sigaranın zararları senaryo yarışması, ödüllü senaryo yarışması 2019"
 category: articles
 tags: [ekim 2019, senaryo yarışması, üniversite]
 comments: true

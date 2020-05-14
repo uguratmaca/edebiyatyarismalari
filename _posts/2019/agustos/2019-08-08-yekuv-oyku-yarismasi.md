@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "21. Yüzyıl Eğitim ve Kültür Vakfı Öykü Yarışması Şenliği"
-description: "öykü yarışması 2019, öykü yarışması, para ödüllü yarışmalar 2019, hikaye yarışması, ödüllü yarışmalar 2019"
+description: "eğitim ve kültür vakfı öykü yarışması 2019, öykü yarışması, para ödüllü yarışmalar 2019, hikaye yarışması, ödüllü yarışmalar 2019"
 category: articles
 tags: [eylül 2019, lise, istanbul, hikaye yarışması]
 comments: true

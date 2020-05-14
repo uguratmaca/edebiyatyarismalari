@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Haldun Taner Öykü Ödülü"
-description: "para ödüllü yarışmalar"
+description: "haldun taner öykü ödülü, öykü kitabı yarışması, para ödüllü yarışmalar"
 category: articles
 tags: [nisan 2019, genel, öykü ödülü]
 comments: true

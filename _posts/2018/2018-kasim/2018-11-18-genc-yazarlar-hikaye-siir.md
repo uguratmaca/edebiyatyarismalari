@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3. Genç Yazarlar Hikâye Ve Şiir Yarışması"
-description: "Ben İstanbul Olsaydım"
+description: "3. genç yazarlar hikaye yarışması, şiir yarışması, Ben İstanbul Olsaydım"
 category: articles
 tags: []
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resim, Karikatür, Afiş ve Kompozisyon Yarışması"
-description: "ödüllü yarışmalar"
+description: "resim yarışmaları, afiş yarışmaları, kompozisyon yarışmaları"
 category: articles
 tags: [mart 2019, kompozisyon yarışması, resim yarışması, afiş yarışması, karikatür yarışması, lise]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beşiği Kütüphane Olan Alim Fuat Sezgin Öykü Yarışması"
-description: "öykü yarışması"
+description: "alim fuat sezgin öykü yarışması, hikaye yarışması"
 category: articles
 tags: [mayıs 2019, ortaokul, hikaye yarışması]
 comments: true

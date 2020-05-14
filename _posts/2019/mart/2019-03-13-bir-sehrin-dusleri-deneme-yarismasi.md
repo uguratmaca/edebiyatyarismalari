@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bir Şehrin Düşleri Deneme Yarışması"
-description: "ödüllü yarışmalar"
+description: "bir şehrin düşleri deneme yarışması, deneme yarışmaları"
 category: articles
 tags: [nisan 2019, deneme yarışması]
 comments: true

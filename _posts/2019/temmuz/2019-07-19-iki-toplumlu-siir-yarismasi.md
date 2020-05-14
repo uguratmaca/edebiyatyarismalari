@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "İki Toplumlu Şiir Yarışması"
-description: "şiir yarışmaları 2019"
+description: "iki toplumlu şiir yarışmaları 2019"
 category: articles
 tags: [ağustos 2019, genel, şiir yarışması]
 comments: true

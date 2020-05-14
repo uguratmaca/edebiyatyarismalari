@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Karacaahmet'te İlk Buluşma Hikâye Yarışması"
-description: "para ödüllü yarışmalar"
+description: "karacaahmet hikaye yarışması, öykü yarışmaları, para ödüllü yarışmalar"
 category: articles
 tags: [haziran 2019, hikaye yarışması, genç]
 comments: true

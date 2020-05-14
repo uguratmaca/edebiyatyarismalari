@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zeynep Cemali Öykü Yarışması"
-description: "güncel öykü yarışmaları 2020, güncel hikaye yarışması 2020, ödüllü yarışmalar 2020"
+description: "zeynep cemali öykü yarışması, güncel hikaye yarışması 2020, ödüllü yarışmalar 2020"
 category: articles
 tags: [haziran 2020, ortaokul, hikaye yarışması]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10. PONART Resim Yarışması"
-description: "güncel resim yarışması, ödüllü resim yarışmaları 2020"
+description: "10. ponart resim yarışması, ödüllü resim yarışmaları 2020"
 category: articles
 tags: [nisan 2020, üniversite, resim yarışması]
 comments: true

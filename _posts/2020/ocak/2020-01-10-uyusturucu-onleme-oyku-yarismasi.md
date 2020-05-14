@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Uyuşturucu Madde Kullanımını Önleme Öykü Yarışması"
-description: "öykü yarışması 2020, hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
+description: "uyuşturucu önleme öykü yarışması 2020, hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
 category: articles
 tags: [nisan 2020, üniversite, hikaye yarışması]
 comments: true

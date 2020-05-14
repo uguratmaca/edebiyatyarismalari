@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mahbez Dergisi 1. Şiir Yarışması"
-description: "ödüllü yarışmalar"
+description: "mahbez dergisi şiir yarışması, şiir yarışmaları"
 category: articles
 tags: [mayıs 2019, şiir yarışması, genel]
 comments: true

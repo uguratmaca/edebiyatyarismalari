@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Luna Yayınları Öykü ve Küçürek Öykü Yarışması"
-description: "güncel öykü yarışmaları 2020, güncel hikaye yarışması 2020, ödüllü yarışmalar 2020"
+description: "luna yayınları öykü yarışması, güncel hikaye yarışması 2020, ödüllü yarışmalar 2020"
 category: articles
 tags: [ocak 2020, genel, hikaye yarışması]
 comments: true

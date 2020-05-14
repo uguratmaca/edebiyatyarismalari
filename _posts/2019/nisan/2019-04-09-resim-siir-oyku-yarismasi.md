@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "19 Mayıs’ın 100. Yılında Milli Mücadele Resim, Şiir, Öykü Yarışması"
-description: "ödüllü yarışmalar"
+description: "resim yarışması, resim yarışmaları, şiir yarışması"
 category: articles
 tags: [mayıs 2019, resim yarışması, hikaye yarışması, şiir yarışması, lise]
 comments: true

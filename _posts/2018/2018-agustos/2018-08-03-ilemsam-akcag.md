@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "9.İlesam-Akçağ Çocuk Edebiyatı Roman Hikaye ve Masal 2018 YARIŞMASI"
+title: "9. Edebiyatı Roman Hikaye ve Masal 2018 Yarışması"
 description: 
 category: articles
 tags: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Baklalı Köyü Şiir ve Türkü Yarışması"
-description: "şiir yarışmaları 2019"
+description: "baklalı kötü şiir yarışmaları 2019"
 category: articles
 tags: [ekim 2019, genel, şiir yarışması, türkü yarışması]
 comments: true

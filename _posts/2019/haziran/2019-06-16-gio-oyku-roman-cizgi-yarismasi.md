@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2019 Gio Öykü, Roman, İllüstrasyon, Çizgi Roman Yarışması"
-description: "güncel öykü yarışmaları 2019, eğitim sen, batman şubesi"
+description: "gio öykü yarışması, gio roman yarışması, güncel öykü yarışmaları 2019, eğitim sen, batman şubesi"
 category: articles
 tags: [eylül 2019, genel, hikaye yarışması]
 comments: true

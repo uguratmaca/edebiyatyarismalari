@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3. Eflatun Nuri Ulusal Karikatür Yarışması"
-description: "güncel karikatür yarışması, para ödüllü karikatür yarışmaları 2020"
+description: "3. eflatun nuri karikatür yarışması, para ödüllü karikatür yarışmaları 2020"
 category: articles
 tags: [aralık 2019, genel, karikatür yarışması]
 comments: true

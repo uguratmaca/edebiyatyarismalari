@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bilgi Evleri 6. Öykü Yarışması"
-description: "öykü yarışması 2020, hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
+description: "bilgi evleri öykü yarışması 2020, hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
 category: articles
 tags: [ocak 2020, ortaokul, lise, üniversite, hikaye yarışması]
 comments: true

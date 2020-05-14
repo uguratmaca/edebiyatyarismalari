@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Çorlu Öykü Yarışması"
-description: "öykü yarışması 2020, hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
+description: "çorlu öykü yarışması 2020, hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
 category: articles
 tags: [şubat 2020, genel, hikaye yarışması]
 comments: true

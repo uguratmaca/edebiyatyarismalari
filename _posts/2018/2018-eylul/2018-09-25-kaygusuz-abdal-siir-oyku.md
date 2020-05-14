@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Güncel Sanat Dergisi 9. Öykü ve Kaygusuz Abdal Adına Açılan Şiir Yarışması"
+title: "9. Öykü ve Kaygusuz Abdal Adına Açılan Şiir Yarışması"
 description: "Oyku ve siir yarismasi 2019"
 category: articles
 tags: []

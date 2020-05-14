@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kurtuluşun 100. Yılı Makale Yarışması"
-description: "cumhuriyet"
+description: "kurtulusun 100. yılı makale yarışması, makale yarışmaları"
 category: articles
 tags: [mayıs 2019, üniversite, makale yarışması, samsun]
 comments: true

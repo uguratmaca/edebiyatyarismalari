@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ülke Sevgisi Hikaye Yarışması"
-description: "ödüllü yarışmalar"
+description: "öykü yarışmaları, ülke sevgisi, hikaye yarışmaları"
 category: articles
 tags: [mart 2019, hikaye yarışması, lise]
 comments: true

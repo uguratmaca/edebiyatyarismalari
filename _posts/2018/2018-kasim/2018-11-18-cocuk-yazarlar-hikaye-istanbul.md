@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "6. Çocuk Yazarlar Hikâye Yarışması"
-description: "Ben İstanbul Olsaydım"
+description: "6. çocuk yazarlar hikaye yarışması, Ben İstanbul Olsaydım"
 category: articles
 tags: []
 comments: true

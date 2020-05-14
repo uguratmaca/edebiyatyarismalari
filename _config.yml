@@ -1,12 +1,12 @@
 name: Edebiyat Yarışmaları
 title: Edebiyat Yarışmaları
-description: kısa hikaye yarışması 2019, öykü, roman, güncel şiir yarışmaları 2019, deneme, makale, destan, masal, kompozisyon, para ödüllü yarışmalar 2019
+description: "Ülkemizde düzenlenen şiir yarışması, öykü yarışması, hikaye yarışması, resim yarışması, roman yarışması bilgilerine sitemizden erişebilirsiniz"
 about: Elimden geldiğince ülkemizde düzenlenen öykü yarışmalarını toplamayı amaçlıyorum. Siz de katkıda bulabilirsiniz.
 master_repo: false
 markdown: kramdown
 highlighter: rouge
 plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed', 'jekyll-sitemap']
-paginate: 10
+paginate: 7
 logo: logo.png
 twitter: https://twitter.com/yarismaedebiyat
 facebook: https://www.facebook.com/yarismaedebiyat

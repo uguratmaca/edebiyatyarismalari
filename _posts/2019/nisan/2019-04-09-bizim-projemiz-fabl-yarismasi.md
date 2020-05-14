@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bizim Projemiz Fabl Yarışması"
-description: "para ödüllü yarışmalar"
+description: "bizim projemiz fabl yarışması, masal yarışmaları, para ödüllü yarışmalar"
 category: articles
 tags: [mayıs 2019, masal yarışması, ortaokul]
 comments: true

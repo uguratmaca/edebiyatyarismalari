@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tüketici Hakları Karikatür Yarışması"
-description: "güncel karikatür yarışması, ödüllü karikatür yarışmaları 2020"
+description: "tüketici hakları karikatür yarışması, ödüllü karikatür yarışmaları 2020"
 category: articles
 tags: [şubat 2020, lise, karikatür yarışması]
 comments: true

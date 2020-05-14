@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bir Günlük Bilim İnsanı Makale Yarışması"
-description: "para ödüllü yarışmalar"
+description: "bir günlük bilim insanı makale yarışması, para ödüllü yarışmalar"
 category: articles
 tags: [nisan 2019, lise, makale yarışması, ingilizce]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2. Dede Korkut Uluslararası Hikâye Yarışması"
-description: "öykü yarışması 2020, güncel hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
+description: "2. dede korkut hikaye yarışması 2020, güncel hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
 category: articles
 tags: [mart 2020, lise, ortaokul, genel, hikaye yarışması]
 comments: true

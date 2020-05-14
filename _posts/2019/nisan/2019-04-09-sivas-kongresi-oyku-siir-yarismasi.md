@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sivas Kongresinin 100 Yıldönümü Kısa Öykü Ve Şiir Yarışması"
-description: "para ödüllü yarışmalar"
+description: "sivas kongresi kısa öykü yarışması, şiir yarışması, kısa hikaye yarışması, para ödüllü yarışmalar"
 category: articles
 tags: [mayıs 2019, hikaye yarışması, şiir yarışması, lise]
 comments: true

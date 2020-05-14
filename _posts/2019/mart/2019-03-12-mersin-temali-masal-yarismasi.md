@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mersin Temalı Masal Yarışması"
-description: "ödüllü yarışmalar"
+description: mersin masal yarışması, yazı yazma yarışmaları, masal yarışmaları"
 category: articles
 tags: [nisan 2019, masal yarışması, ortaokul, ilkokul]
 comments: true

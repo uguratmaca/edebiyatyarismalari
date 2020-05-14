@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Edirneli Masallar - Masal Yarışması"
-description: "para ödüllü yarışmalar"
+description: "edirne masal yarışması, masal yarışmaları, para ödüllü yarışmalar"
 category: articles
 tags: [nisan 2019, masal yarışması, ilkokul, ortaokul, lise, genel]
 comments: true

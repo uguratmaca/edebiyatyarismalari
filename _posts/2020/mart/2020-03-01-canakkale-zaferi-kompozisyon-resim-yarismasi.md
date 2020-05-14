@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Çanakkale Zaferi ve Mehmet Akif ERSOY Resim ve Kompozisyon Yarışması"
+title: "Mehmet Akif ERSOY Resim ve Kompozisyon Yarışması"
 description: "çanakkale zaferi mehmet akif ersoy resim ve kompozisyon yarışması, ödüllü yarışmalar 2020"
 category: articles
 tags: [mart 2020, ortaokul, kompozisyon yarışması, resim yarışması]

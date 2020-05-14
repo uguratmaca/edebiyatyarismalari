@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Türkiye İmam Hatip Liseleri Arası Kudüs Konulu Hikaye Yarışması"
-description: "güncel öykü yarışmaları 2020, güncel hikaye yarışması 2020, para ödüllü yarışmalar 2020"
+description: "kudüs konulu hikaye yarışması, güncel hikaye yarışması 2020, para ödüllü yarışmalar 2020"
 category: articles
 tags: [nisan 2020, lise, hikaye yarışması]
 comments: true

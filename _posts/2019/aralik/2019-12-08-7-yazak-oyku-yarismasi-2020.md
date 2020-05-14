@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7. Yazak Öykü Yarışması"
-description: "öykü yarışması 2020, güncel hikaye yarışması 2020"
+description: "7. yazak öykü yarışması 2020, güncel hikaye yarışması 2020"
 category: articles
 tags: [ocak 2020, genel, hikaye yarışması]
 comments: true
