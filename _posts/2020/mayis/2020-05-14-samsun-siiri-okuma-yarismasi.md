@@ -33,7 +33,7 @@ Başvuru Şekli:
 - Yarışmada okunacak şiirler:
     - Okul Öncesi Öğrencileri İçin: İstiklal Marşı (İlk iki kıt’a)
     - İlkokul Öğrencileri İçin: [Bayrak Şiiri](http://edebiyatyarismalari.com/bayrak-siiri/)
-    - Lise Öğrencileri İçin:[Mescid-i Aksa](http://edebiyatyarismalari.com/mescidi-aksa-siiri/)
+    - Lise Öğrencileri İçin: [Mescid-i Aksa](http://edebiyatyarismalari.com/mescidi-aksa-siiri/)
  
 Teknik Şartlar:  
 - Yarışmaya katılacak eserler en fazla 4 dakika süreli olacaktır.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Edebiyat Yarışmaları"
+title: "Edebiyat Yarışmaları | Sayfa 3"
 ---
 
 <section class="mt-5 mb-5">
@@ -19,8 +19,7 @@ title: "Edebiyat Yarışmaları"
 			<p class="text-success">Yarışma başvurusu devam ediyor...</p>
 		</section>
 
-		<p>Her ay farklı bir dalda yarışma düzenleme serüvenine başlıyoruz. İlk yarışmamız Anneler günü vesilesiyle
-			<strong>Anne Şiirleri</strong> şiir yarışması olacaktır</p>
+		<p>Her ay farklı bir dalda yarışma düzenleme serüvenine başlıyoruz. İlk yarışmamız Anneler günü vesilesiyle <strong>Anne Şiirleri</strong> şiir yarışması olacaktır</p>
 	</section>
 	<hr>
 
@@ -29,17 +28,19 @@ title: "Edebiyat Yarışmaları"
 	{% assign counter = 0 %}
 
 	{% for post in site.posts %}
-	{% if post.lastDate > nowDateInt %}
+    {% if post.lastDate > nowDateInt %}
 	{% if post.hidden != true  %}
-
+	
 	{% assign counter=counter | plus:1 %}
 
-	{% if counter < 8 %}
+    {% if counter > 14  %}
+    {% if counter < 22  %}
+
 	<section>
 		<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
 
 		<p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
-
+	
 		{% if post.price %}
 		<p>🏆 Yarışmanın toplam para ödülü: <b>{{post.price}}</b></p>
 		{% endif %}
@@ -54,25 +55,26 @@ title: "Edebiyat Yarışmaları"
 
 		{{ post.excerpt }}
 	</section>
-
+	
 	<hr>
 
-	{% endif %}
+    {% endif %}
+    {% endif %}
 	{% endif %}
 	{% endif %}
 	{% endfor %}
 
 	<section class="row mb-5">
-		<section class="col-2 d-none d-md-block"></section>
-		<section class="col">
-			<ul class="pagination">
-				<li class="page-item active"><a class="page-link btn-lg" href="{{site.url}}/">1</a></li>
-				<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/sayfa2/">2</a></li>
-				<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/sayfa3/">3</a></li>
-				<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/sayfa4/">4</a></li>
-				<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/sayfa5/">5</a></li>
-			</ul>
-		</section>
-		<section class="col-2 d-none d-md-block"></section>
+	  <section class="col-2 d-none d-md-block"></section>
+	  <section class="col">
+		<ul class="pagination">
+			<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/">1</a></li>
+			<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/sayfa2/">2</a></li>
+			<li class="page-item active"><a class="page-link btn-lg" href="{{site.url}}/sayfa3/">3</a></li>
+			<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/sayfa4/">4</a></li>
+			<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/sayfa5/">5</a></li>
+		</ul>
+	  </section>
+	  <section class="col-2 d-none d-md-block"></section>
 	</section>
 </section>
