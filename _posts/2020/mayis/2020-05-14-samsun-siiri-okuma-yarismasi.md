@@ -32,8 +32,8 @@ Başvuru Şekli:
 - Yarışmaya son katılım tarih ve saatinden sonra yapılan başvurular değerlendirmeye alınmayacaktır.(son katılım 20 Mayıs 2020 Saat :24:00)
 - Yarışmada okunacak şiirler:
     - Okul Öncesi Öğrencileri İçin: İstiklal Marşı (İlk iki kıt’a)
-    - İlkokul Öğrencileri İçin: [Bayrak Şiiri](http://edebiyatyarismalari.com/bayrak-siiri/)
-    - Lise Öğrencileri İçin: [Mescid-i Aksa](http://edebiyatyarismalari.com/mescidi-aksa-siiri/)
+    - İlkokul Öğrencileri İçin: [Bayrak Şiiri](https://edebiyatyarismalari.com/bayrak-siiri/)
+    - Lise Öğrencileri İçin: [Mescid-i Aksa](https://edebiyatyarismalari.com/mescidi-aksa-siiri/)
  
 Teknik Şartlar:  
 - Yarışmaya katılacak eserler en fazla 4 dakika süreli olacaktır.
