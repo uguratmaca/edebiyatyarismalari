@@ -11,7 +11,7 @@ price: "2250 TL'dir"
 comTopic: "El-Aksa’ya Terennüm"
 requirements: "14-25 yaş arası tüm gençler katılabilir."
 permalink: "mescidi-aksa-siir-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/mayis/covid-19-oykuleri-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2020/mayis/mescid-i-aksa-siir-yarismasi.jpg"
 ---
 
 Yarışma Takvimi  

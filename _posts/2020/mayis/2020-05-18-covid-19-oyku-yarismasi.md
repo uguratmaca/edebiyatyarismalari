@@ -11,7 +11,7 @@ comTopic: "COVID-19 küresel salgını"
 price: "6 Bin TL'dir"
 requirements: "Herkese açıktır"
 permalink: "covid-19-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/mayis/korona-gunlerinde-umut-chp-istanbul-oyku-yarismasi.jpeg"
+image: "https://edebiyatyarismalari.com/images/2020/mayis/covid-19-oykuleri-oyku-yarismasi.jpg"
 ---
 
 COVİD-19 ÖYKÜLERİ  
