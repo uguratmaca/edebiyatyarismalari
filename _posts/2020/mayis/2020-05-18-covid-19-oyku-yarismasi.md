@@ -2,7 +2,7 @@
 layout: post
 title: "Covid 19 Öykü Yarışması"
 description: "covid 19 öykü yarışması, korona salgını günlerinde herkese açık bu öykü yarışmasına katılın"
-tags: [ağusto 2020, genel, hikaye yarışması]
+tags: [ağustos 2020, genel, hikaye yarışması]
 comments: true
 lastDate: 1596315600    
 dateHuman: "2 Ağustos 2020"
