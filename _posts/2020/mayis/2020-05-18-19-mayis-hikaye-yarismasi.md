@@ -4,7 +4,7 @@ title: "19 Mayıs Hikaye Yarışması"
 description: "Epik Novel'dan 19 Mayıs'ta başlayacak uzun soluklu bir hikaye yarışması"
 tags: [mayıs 2020, genel, hikaye yarışması]
 comments: true
-lastDate: 1596315600    
+lastDate: 1589922000    
 dateHuman: "19 Mayıs 2020"
 attendance: "Websitesi"
 comTopic: "Güncel Dünya"
