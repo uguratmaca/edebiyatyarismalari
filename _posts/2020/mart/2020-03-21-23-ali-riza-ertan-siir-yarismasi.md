@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "23. Ali Rıza Ertan Şiir Yarışması"
-description: "şiir yarışmaları 2020, şiir kitap ödülleri"
+description: "23. Ali Rıza Ertan Şiir Ödülü, Şiir Kitabı yarışmasına 1985 doğumlular katılabilir"
 tags: [mayıs 2020, genel, şiir yarışması]
 comments: true
 lastDate: 1588885200    

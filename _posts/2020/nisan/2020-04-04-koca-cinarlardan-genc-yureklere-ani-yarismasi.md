@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Koca Çınarlardan Genç Yüreklere Anı Yarışması"
-description: "koca çınarlardan genç yüreklere anı yarışması"
+description: "koca çınarlardan genç yüreklere anı yarışmasına 65 yaş ve üzeri herkes katılabilir"
 tags: [nisan 2020, genel, anı yarışması]
 comments: true
 lastDate: 1588194000    

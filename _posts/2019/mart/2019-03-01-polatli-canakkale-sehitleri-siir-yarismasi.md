@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "18 Mart Çanakkale Şehitleri Şiir Yarışması"
-description: "ankara, polatlı"
+description: "Ortaokul öğrencileri arasında düzenlenen Çanakkale Şehitleri şiir yarışması duyurusudur."
 category: articles
 tags: [mart 2019, şiir yarışması]
 comments: true

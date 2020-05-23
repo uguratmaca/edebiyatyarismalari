@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tarık Buğra 100 Yaşında Öykü ve Deneme Yarışması"
-description: "Tarık Buğra 100 Yaşında Öykü ve Deneme Yarışması"
+description: "Serbest konulu Tarık Buğra 100 Yaşında Öykü ve Deneme Yarışmasına 7. ve 8. sınıf öğrencileri katılabilir"
 category: articles
 tags: [hikaye yarışması, deneme yarışması, mart 2019]
 comments: true

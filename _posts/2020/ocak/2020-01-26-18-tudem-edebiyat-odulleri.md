@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "18. Tudem Edebiyat Ödülleri"
-description: "18 tudem roman yarismasi, cocuk edebiyati"
+description: "18. Tudem Edebiyat Ödülleri çocuk edebiyatı içeriği ile roman edebiyat dalını kapsamaktadır"
 category: articles
 tags: [kasım 2020, genel, roman yarışması]
 comments: true

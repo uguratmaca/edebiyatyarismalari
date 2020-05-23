@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "4. Vedat Günyol Deneme Yarışması Sonuçları"
-description: "4. Vedat Günyol Deneme Yarışması Sonuçları"
+description: "Kartal Belediyesinin düzenlediği 4. Vedat Günyol Deneme Yarışması sonuçları açıklanmıştır."
 category: articles
 tags: [sonuç]
 comments: true

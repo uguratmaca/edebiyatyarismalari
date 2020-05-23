@@ -12,4 +12,4 @@ image: "https://edebiyatyarismalari.com/images/2020/mayis/23-nisan-eba-meb-oyku-
 
 Sayın bakanımızı çağrısıyla düzenlenen Meb Eba 23 Nisan Öyküleri yarışması sonucunu kazanan ve kitap olarak yayınlanan 100 esere aşağıdaki linkten erişebilirsiniz.
 
-[Başvuru Formu](http://cdn.eba.gov.tr/oykuler/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Kitaplaşan Öyküler](http://cdn.eba.gov.tr/oykuler/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anlatsam Film Olur"
-description: "senaryo yarışması, senaryo yarışmaları 2020"
+description: "anlatsam film olur isimli senaryo yarışmasına isteyen herkes katılabilir"
 category: articles
 tags: [şubat 2020, genel, senaryo yarışması]
 comments: true

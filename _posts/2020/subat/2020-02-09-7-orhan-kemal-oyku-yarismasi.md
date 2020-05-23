@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7. Geleneksel Orhan Kemal Öykü Yarışması"
-description: "7. orhan kemal öykü yarışması, hikaye yarışmaları"
+description: "Yaşam konulu 7. Orhan Kemal öykü yarışmasıdır. İstanbuldaki öğrenciler katılabilir."
 category: articles
 tags: [şubat 2020, istanbul, ilkokul, hikaye yarışması]
 comments: true

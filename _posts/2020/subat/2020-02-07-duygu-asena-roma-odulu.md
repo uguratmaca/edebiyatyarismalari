@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Duygu Asena Roman Ödülü"
-description: "doğan kitap duygu asena roman yarışması"
+description: "Doğan Kitap, Duygu Asena adına Roman Ödülü, roman yarışması düzenlemiştir."
 category: articles
 tags: [şubat 2020, genel, roman yarışması]
 comments: true

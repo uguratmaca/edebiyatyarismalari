@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cemal Safi Şiir Yarışması Sonuçları"
-description: "Cemal Safi Şiir Yarışması Sonuçları"
+description: "Cemal Safi adına düzenlenen şiir yarışması büyük ilgi gördü, işte sonuçları"
 category: articles
 tags: [sonuç]
 comments: true

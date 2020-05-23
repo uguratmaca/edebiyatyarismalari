@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "12. Metin Altıok Şiir Ödülü"
-description: "şiir yarışması, kırmızı kedi"
+description: "Kırmızı Kedi yayınevi tarafından 12.si verilecek Metin Altıok şiir ödülü edebiyat yarışmasıdır."
 category: articles
 tags: [şiir yarışması, mart 2019]
 comments: true

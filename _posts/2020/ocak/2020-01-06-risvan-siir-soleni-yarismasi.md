@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rışvan Şiir Şöleni ve Yarışması"
-description: "şiir yarışması, şiir yarışmaları 2020"
+description: "Cumhuriyetin 100. yılı adına şiir şöleni, şiir yarışması düzenlenecektir"
 category: articles
 tags: [şubat 2020, genel, şiir yarışması]
 comments: true

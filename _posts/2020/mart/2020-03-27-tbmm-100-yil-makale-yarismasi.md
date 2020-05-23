@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Milli Düşünce Merkezi Makale Yarışması"
-description: "makale yarışması, tbmm 100. yıl makale yarışması"
+description: "Milli Düşünce Merkezinin düzenlediği tbmm 100. yıl makale yarışmasına isteyen herkes katılabilir"
 category: articles
 tags: [mart 2020, genel, makale yarışması]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ümit Kaftancıoğlu Öykü Yarışması Sonuçları 2020"
-description: "Ümit Kaftancıoğlu Öykü Yarışması Sonuçları 2020"
+description: "16. Ümit Kaftancıoğlu Öykü Yarışması 2020 sonuçları açıklanmıştır."
 category: articles
 tags: [sonuç]
 comments: true

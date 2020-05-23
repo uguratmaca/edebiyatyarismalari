@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eflatun Cem Güney Masal Yarışması 2020"
-description: "masal yarışması, masal yarışmaları 2020"
+description: "İstanbuldaki tüm lise öğrencileri Eflatun Cem Güney masal yarışmasına katılabilir"
 category: articles
 tags: [şubat 2020, lise, istanbul, masal yarışması]
 comments: true

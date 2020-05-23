@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "İngilizce Yaratıcı Yazın Yarışması"
-description: "kompozisyon yarışması, ingilizce yazma yarışması"
+description: "İngilizce Yaratıcı yazın kompozisyon yarışmasına Türkiye'deki tüm lise öğrencileri katılabilir"
 category: articles
 tags: [mart 2020, lise, kompozisyon yarışması]
 comments: true

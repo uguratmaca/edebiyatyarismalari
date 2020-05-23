@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Önce Vatan Önce Bayrak Şiir ve Kompozisyon Yarışması"
-description: "genç memur sendikası"
+description: "Genç-Memur-Sen'in düzenlediği önce vata önce bayrak şiir ve kompozisyon yarışmasıdır"
 category: articles
 tags: [mart 2019, şiir yarışması, kompozisyon yarışması]
 comments: true

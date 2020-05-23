@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Öğrenciler Arası Şiir Okuma Yarışması"
-description: "bayrak şiiri ve istiklal marşı okuma yarışması"
+description: "Öğrenciler arası şiir okuma yarışması, Bayrak Şiiri ve İstiklal Marşı okuma yarışması"
 tags: [mayıs 2020, samsun, ilkokul, ortaokul, okul öncesi, lise, şiir okuma yarışması]
 comments: true
 lastDate: 1589922000    

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Baba Sahne Oyun Yazma Yarışması"
-description: "para ödüllü yarışmalar 2020"
+description: "Tiyatro oyunu, sahne eseri yazma edebiyat yarışmasıdır."
 category: articles
 tags: [ocak 2020, senaryo yarışması, üniversite]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Onur Güvener Öykü Yazma ve Anlatı Yarışması"
-description: "trafik oyku"
+description: "Trafik kazasında yaşamını yitiren Onur Güvener adına düzenlenen öykü yarışmasıdır"
 category: articles
 tags: []
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adıgüzel Okulları Senaryo Yazma Yarışması"
-description: "adiguzel okullari senaryo yazma yarismasi"
+description: "adiguzel okullari senaryo yazma yarışmasına Türkiye geneli ortaokul ve lise öğrencileri katılabilir"
 category: articles
 tags: [mart 2019, senaryo yarışması]
 comments: true
