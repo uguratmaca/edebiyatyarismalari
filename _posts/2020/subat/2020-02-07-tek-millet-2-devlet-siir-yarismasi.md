@@ -3,7 +3,7 @@ layout: post
 title: "Tek Millet İki Devlet Şiir Yarışması"
 description: "edebiyat ve sanat akademisi tek millet iki devlet şiir yarışması, ödüllü şiir yarışmaları 2020"
 category: articles
-tags: [mayıs 2020, genel, şiir yarışması]
+tags: [ağustos 2020, genel, şiir yarışması]
 comments: true
 lastDate: 1596229200    
 dateHuman: "1 Ağustos 2020"

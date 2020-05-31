@@ -3,7 +3,7 @@ layout: post
 title: "QTurkey Kuantum Hikaye Yarışması"
 description: "güncel hikaye yarışması, para ödüllü hikaye yarışmaları, öykü yarışması"
 category: articles
-tags: [aralık 2020, genel, hikaye yarışması]
+tags: [aralık 2019, genel, hikaye yarışması]
 comments: true
 lastDate: 1577221200
 dateHuman: "25 Aralık 2019"
