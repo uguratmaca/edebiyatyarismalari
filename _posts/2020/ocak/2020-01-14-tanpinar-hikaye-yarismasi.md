@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tanpınar Hikaye Yarışması 2020"
-description: "tanpınar hikaye yarışması 2020, öykü yarışması, hikaye yarışmaları"
+description: "ahmet hamdi tanpınar hikaye yarışması 2020, öykü yarışması, hikaye yarışmaları"
 category: articles
 tags: [haziran 2020, genel, hikaye yarışması]
 comments: true
@@ -16,9 +16,9 @@ image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot
 
 Ödüller:  
 Birincilik 15.000 TL  
-İkincilik 10.000 TL
-Üçüncülük 7.500 TL
-Mansiyon 3.000 TL
+İkincilik 10.000 TL  
+Üçüncülük 7.500 TL  
+Mansiyon 3.000 TL  
 Mansiyon 3.000 TL  
 
 Seçici Kurul:  
