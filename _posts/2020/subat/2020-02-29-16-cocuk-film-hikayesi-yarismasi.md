@@ -3,10 +3,10 @@ layout: post
 title: "16. Çocuk Filmleri Festivali Filmimin Hikayesi Yarışması"
 description: "türsak vakfı 16 cocuk filmleri, filmimin hikayesi yarışması, hikaye yazma yarışması"
 category: articles
-tags: [mart 2020, ilkokul, ortaokul, hikaye yarışması]
+tags: [temmuz 2020, ilkokul, ortaokul, hikaye yarışması]
 comments: true
-lastDate: 1584306000    
-dateHuman: "16 Mart 2020"
+lastDate: 1594501200    
+dateHuman: "12 Temmuz 2020"
 comTopic: "Geleneksel Eyüp Oyuncakları"
 attendance: "E-Posta"
 requirements: "8-12 yaş aralığındaki herkes katılabilir"
