@@ -204,6 +204,12 @@ layout: default
           Samsun Yarışmaları
         </a>
       </li>
+      {% elsif tag == "kazanan" %}
+      <li class="nav-item">
+        <a href="{{ site.url }}/edebiyat-yarismalari-kazananlar/" class="nav-link">
+          Edebiyat Yarışmaları Kazananlar
+        </a>
+      </li>
       {% endif %}
 
       {% endfor %}

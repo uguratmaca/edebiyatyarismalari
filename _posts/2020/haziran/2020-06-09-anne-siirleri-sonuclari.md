@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Anne Şiirleri Şiir Yarışması Sonuçları"
+description: "Edebiyatyarismalari.com olarak düzenlediğimiz ilk yarışma Anne Şiirleri şiir yarışması sonuçlanmıştır."
+category: articles
+tags: [sonuç]
+comments: true
+permalink: "anne-siirleri-sonuclari"
+image: "https://edebiyatyarismalari.com/images/2020/haziran/anne-siirleri-yarismasi-sonuclari.jpg"
+---
+
+20 günlük kısa bir başvuru süresi olmasına rağmen yoğun katılımın yaşandığı **Anne Şiirleri** yarışmamız sonuçlanmıştır. Yarışmamıza her yaştan toplam 202 yarışmacı katıldı. Hepsi birbirinden güzel şiirler arasından seçim yapmak oldukça güç oldu. Her birini defalarca okuduk. Pek çoğunu okurken duygulandık.  
+Gönül isterdi ki çok daha fazla kişiye ödül verelim. [Alper Kaya](http://www.alperkaya.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"} ile yaptığımız detaylı incelemeler sonucunda aşağıdaki 3 kazananımızı belirledik. Onları gönülden kutluyoruz. Kazanan anne şiirlerine aşağıdaki linklere tıklayarak ulaşabilirsiniz.  
+İlerleyen günlerde ödül kazanamayan ama ilk 10'a giren diğer 7 şiiri de web sitemizde yayınlayacağız.
+
+## Anne Şiirleri Yarışmasını Kazananlar
+- [Anne - Hüseyin Solum]({{ site.url }}/anne-siiri/){:rel="nofollow"}{:target="_blank"}
+- [Dem - Ali MAZI]({{ site.url }}/dem-siiri/){:rel="nofollow"}{:target="_blank"}
+- [Yitik Kadın/Çocuk - Esra Gülışık]({{ site.url }}/yitik-kadin-cocuk-siiri/){:rel="nofollow"}{:target="_blank"}
