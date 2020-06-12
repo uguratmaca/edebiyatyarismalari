@@ -39,4 +39,4 @@ Son başvuru tarihi: 30 Haziran 2020
 Ön değerlendirme: 5 Temmuz 2020  
 Sonuçların açıklanması: 10 Temmuz 2020  
 
-[Yarışmaya katılmak için](https://forms.gle/CoQbEd5q8mTjGVho6){:rel="nofollow"}{:target="_blank"}
+### [Yarışmaya katılmak için](https://forms.gle/CoQbEd5q8mTjGVho6){:rel="nofollow"}{:target="_blank"}

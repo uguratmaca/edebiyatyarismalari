@@ -102,4 +102,4 @@ Eserlerin Son Teslim Tarihi : 28.08.2020 mesai bitimine kadardır.
 Final(CANLI TV YAYINI):26.09.2020 olup idarece değiştirilebilir. Final yarışması, Şanlıurfa Büyükşehir Belediyesi tarafından belirlenecek uygun bir yerde, halk huzurunda, jüri üyeleriyle, düzenlenecek; TRT Televizyon Dairesi Başkanlığı tarafından tespit edilecek, uygun bir kanaldan canlı olarak yayınlanacaktır. Final Jürisi değerlendirmelerini canlı yayın sırasında yapacak, sonuçlar canlı yayın sonunda kamuoyuna sunulur.  
 Not: Yarışma Düzenleme Komitesi yarışma takvimini değiştirebilir.  
 
-[Başvuru Linki](https://app.sanliurfa.bel.tr/yarisma/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+### [Başvuru Linki](https://app.sanliurfa.bel.tr/yarisma/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}

@@ -44,4 +44,4 @@ Sonuçların açıklanması: 20 Eylül 2020
 - Yarışmaya son katılım tarihi 25 Ağustos 2020’dir.
 - Dereceye giren kişilerin İstanbul dışında ikamet etmesi durumunda, karayolu ulaşım masrafları tarafımızca karşılanacaktır.
 
-[Başvuru Formu](https://docs.google.com/forms/d/e/1FAIpQLSfe75XN2Z9Ny3fFIREtu0SSSNtY3SmZ5-rxeFI7dhxeEc_h-A/viewform?vc=0&c=0&w=1&ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+### [Başvuru Formu](https://docs.google.com/forms/d/e/1FAIpQLSfe75XN2Z9Ny3fFIREtu0SSSNtY3SmZ5-rxeFI7dhxeEc_h-A/viewform?vc=0&c=0&w=1&ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}

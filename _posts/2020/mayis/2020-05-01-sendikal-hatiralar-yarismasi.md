@@ -58,4 +58,4 @@ Ayrıca jüri tarafından, yayınlanacak kitaba alınmaya değer bulunan eserler
 26. İhtilaf durumunda Türkiye Cumhuriyeti hukuku uygulanacak olup uyuşmazlıklarda Ankara Mahkemeleri ve İcra Daireleri yetkilidir.
 27. Yarışmaya başvuru yapan katılımcı, yönerge hükümlerinin tümünü kabul etmiş sayılır.
 
-[Başvuru İçin](https://www.ebshatirayarismasi.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+### [Başvuru İçin](https://www.ebshatirayarismasi.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
