@@ -3,10 +3,9 @@ layout: post
 title: "Tek Millet İki Devlet Şiir Yarışması"
 description: "edebiyat ve sanat akademisi tek millet iki devlet şiir yarışması, ödüllü şiir yarışmaları 2020"
 category: articles
-tags: [ağustos 2020, genel, şiir yarışması]
+tags: [iptal, genel, şiir yarışması]
 comments: true
-lastDate: 1596229200    
-dateHuman: "1 Ağustos 2020"
+lastDate: 1592514000    
 comTopic: "Tek Millet İki Devlet"
 attendance: "Websitesi"
 requirements: "Yarışmaya isteyen herkes katılabilir."
@@ -32,3 +31,6 @@ Bilindiği gibi “İki Devlet Tek Millet“ özdeyişi Azerbaycan Cumhuriyeti�
 
 Güncelleme tarihi: 14-04-2020
 Güncelleme nedeni: Korona sebebiyle son başvuru tarihi 1 Ağustos 2020'ye ertelenmiştir.
+
+Güncelleme tarihi: 20-06-2020
+Güncelleme nedeni: Yarışma iptal edilmiştir.
