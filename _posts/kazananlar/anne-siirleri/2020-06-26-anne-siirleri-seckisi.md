@@ -2,7 +2,7 @@
 layout: post
 title: "Anne Şiirleri Seçkisi"
 description: "Anne şiirleri şiir yarışmamızın ilk 10'a giren şiirlerin listesidir."
-tags: [edebiyat yarışmaları, anne şiirleri]
+tags: [edebiyat yarışmaları, anne şiirleri, kazanan]
 comments: true
 hidden: true
 permalink: "anne-siirleri/"
