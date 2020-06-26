@@ -9,7 +9,7 @@ dateHuman: "31 Mayıs 2020"
 attendance: "E-Posta"
 comTopic: "Serbest"
 requirements: "35 yaş altı isteyen herkes katılabilir"
-permalink: "ilkyaz-genc-yazarlar-mayıs-2020-kisa-oyku-basvurusu"
+permalink: "ilkyaz-genc-yazarlar-mayis-2020-kisa-oyku-basvurusu"
 image: "https://edebiyatyarismalari.com/images/2020/nisan/ilkyaz-genc-yazarlar-siir-kisa-oyku-yarismasi.jpg"
 ---
 
