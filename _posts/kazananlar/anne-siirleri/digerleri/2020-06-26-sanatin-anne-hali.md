@@ -6,7 +6,7 @@ tags: [edebiyat yarışmaları, kazanan, anne şiirleri]
 comments: true
 hidden: true
 permalink: "sanatin-anne-hali/"
-excerpt: "İnsan hep sonradan sevmelerde..."
+excerpt: "Yeteneğim olmadığı için çizmeye..."
 ---
 
 ## Sanatın Anne Hali
