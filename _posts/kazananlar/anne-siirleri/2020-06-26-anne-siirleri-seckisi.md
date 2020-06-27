@@ -11,10 +11,24 @@ excerpt: "Anne şiirleri şiir seçkisi"
 
 Anne şiirleri yarışmamızda ilk 10'a giren şiirleri buradan okuyabilirsiniz.  
 
-### [Anne, Hüseyin Solum](https://edebiyatyarismalari.com/anne-siiri/)
+## Anne Şiirleri Yarışması İlk 10 Şiir
 
-### [Dem, Ali Mazı](https://edebiyatyarismalari.com/dem-siiri/)
+- ### [Anne, Hüseyin Solum]({{ site.url }}/anne-siirleri/anne-siiri/)
 
-### [Yitik Kadın, Esra Gülışık](https://edebiyatyarismalari.com/yitik-kadin-cocuk-siiri/)
+- ### [Dem, Ali Mazı]({{ site.url }}/anne-siirleri/dem-siiri/)
 
-### [Sanatın Anne Hali, Özlem Ayşe Çiçek](https://edebiyatyarismalari.com/sanatin-anne-hali//)
+- ### [Yitik Kadın, Esra Gülışık]({{ site.url }}/anne-siirleri/yitik-kadin-cocuk-siiri/)
+ 
+- ### [Sanatın Anne Hali, Özlem Ayşe Çiçek]({{ site.url }}/anne-siirleri/sanatin-anne-hali/)
+
+- ### [Büyüdüm Seninle, Makbule Karaman]({{ site.url }}/anne-siirleri/buyudum-seninle/)
+
+- ### [Anam, İbrahim Aydın]({{ site.url }}/anne-siirleri/anam/)
+
+- ### [Feslegen, Ahmet Can Gülenç]({{ site.url }}/anne-siirleri/feslegen/)
+
+- ### [Bir İkindi Vakti, Furkan Karakoyun]({{ site.url }}/anne-siirleri/bir-ikindi-vakti/)
+
+- ### [Karanfili Kurutmak, Öznur Derya Değirmencioğlu]({{ site.url }}/anne-siirleri/karanfili-kurutmak/)
+
+- ### [Umudun Mavisi, Alaaddin Beken]({{ site.url }}/anne-siirleri/umudun-mavisi/)

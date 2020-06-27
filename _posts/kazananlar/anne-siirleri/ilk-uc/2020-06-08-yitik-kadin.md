@@ -5,7 +5,7 @@ description: "Anne şiirleri şiir yarışmamızın 3 kazanından birisi, Esra G
 tags: [edebiyat yarışmaları, kazanan, anne şiirleri]
 comments: true
 hidden: true
-permalink: "yitik-kadin-cocuk-siiri/"
+permalink: "anne-siirleri/yitik-kadin-cocuk-siiri/"
 excerpt: "Çocukluğunu kaybettiği yaştaydı henüz  
 O gür, siyah saçlarını örecek kimsesi olmadı..."
 ---

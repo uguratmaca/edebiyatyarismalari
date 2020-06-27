@@ -2,10 +2,10 @@
 layout: post
 title: "Sanatın Anne Hali | Anne Şiirleri Seçkisi"
 description: "Anne şiirleri şiir seçkisindeki ilk 10 şiirden birisi..."
-tags: [edebiyat yarışmaları, anne şiirleri]
+tags: [edebiyat yarışmaları, kazanan, anne şiirleri]
 comments: true
 hidden: true
-permalink: "sanatin-anne-hali/"
+permalink: "anne-siirleri/sanatin-anne-hali/"
 excerpt: "Yeteneğim olmadığı için çizmeye..."
 ---
 

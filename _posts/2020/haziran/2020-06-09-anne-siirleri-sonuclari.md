@@ -14,6 +14,6 @@ Gönül isterdi ki çok daha fazla kişiye ödül verelim. [Alper Kaya](http://w
 İlerleyen günlerde ödül kazanamayan ama ilk 10'a giren diğer 7 şiiri de web sitemizde yayınlayacağız.
 
 ## Anne Şiirleri Yarışmasını Kazananlar
-### [Anne - Hüseyin Solum]({{ site.url }}/anne-siiri/){:rel="nofollow"}{:target="_blank"}
-### [Dem - Ali MAZI]({{ site.url }}/dem-siiri/){:rel="nofollow"}{:target="_blank"}
-### [Yitik Kadın/Çocuk - Esra Gülışık]({{ site.url }}/yitik-kadin-cocuk-siiri/){:rel="nofollow"}{:target="_blank"}
+### [Anne - Hüseyin Solum]({{ site.url }}/anne-siirleri/anne-siiri/)
+### [Dem - Ali MAZI]({{ site.url }}/anne-siirleri/dem-siiri/)
+### [Yitik Kadın/Çocuk - Esra Gülışık]({{ site.url }}/anne-siirleri/yitik-kadin-cocuk-siiri/)
