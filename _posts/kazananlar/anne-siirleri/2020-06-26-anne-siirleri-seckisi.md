@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anne Şiirleri Seçkisi"
+title: "Anne Şiirleri | Şiir Seçkisi"
 description: "Anne şiirleri şiir yarışmamızın ilk 10'a giren şiirlerin listesidir."
 tags: [edebiyat yarışmaları, anne şiirleri, kazanan]
 comments: true
@@ -9,7 +9,7 @@ permalink: "anne-siirleri/"
 excerpt: "Anne şiirleri şiir seçkisi"
 ---
 
-Anne şiirleri yarışmamızda ilk 10'a giren şiirleri buradan okuyabilirsiniz.  
+Anneler günü kapsamında düzenlediğimiz **Anne Şiirleri** yarışmamızda ilk 10'a giren şiirleri ilgili linklere tıklayarak okuyabilirsiniz.  
 
 ## Anne Şiirleri Yarışması İlk 10 Şiir
 
