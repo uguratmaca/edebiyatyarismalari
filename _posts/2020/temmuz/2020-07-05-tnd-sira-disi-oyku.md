@@ -8,6 +8,7 @@ lastDate: 1604178000
 dateHuman: "1 Kasım 2020"
 attendance: "E-Posta"
 comTopic: "Nörogenetik"
+price: "6 Bin TL'dir"
 requirements: "Yarışmaya herkes katılabilir."
 permalink: "tnd-sira-disi-oykuler-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/temmuz/tnd-sira-disi-oykuler-oyku-yarismasi.jpg"
