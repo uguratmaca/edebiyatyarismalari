@@ -31,7 +31,7 @@ Edebiyatyarismalari.com web sitemizin 2. yarışmasının tipini **Kısa Öykü 
 
 Jüri  
 - [Alper Kaya | Gazeteci, Yazar](http://www.alperkaya.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}  
-[Kitapları](https://www.dr.com.tr/Yazar/alper-kaya/s=266706?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}  
+[Kitapları](https://kidega.com/yazar/alper-kaya-095464?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}  
 - [Uğur Atmaca](https://www.linkedin.com/in/atmacaugur/){:rel="nofollow"}{:target="_blank"}  
 
 Takvim  
