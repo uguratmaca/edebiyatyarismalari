@@ -4,7 +4,7 @@ title: "Ayasofya Camii Makale Yarışması"
 description: "Ayasofya Müzesinin Cami olmasının ardından fırsatı kaçırmadan İYV bu konu hakkında bir makale yarışması düzenlemiştir"
 tags: [ekim 2020, genel, makale yarışması]
 comments: true
-lastDate: 1605387600  
+lastDate: 1604005200  
 dateHuman: "30 Ekim 2020"
 attendance: "Web sitesi"
 comTopic: "Her Açıdan Ayasofya Camii"
