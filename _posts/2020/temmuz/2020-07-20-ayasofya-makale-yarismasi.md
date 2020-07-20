@@ -46,4 +46,4 @@ Bilim Kurulu tarafından, ödül alacak makalelerin belirlenmesinde, makale konu
 Başvuru Tarihi ve Şekli:  
 Başvurular aşağıda belirtilen elektronik sistem üzerinden yapılacaktır. Makaleler 30 Ekim 2020 tarihine kadar sisteme yüklenmesi gerekir. Yarışmaya katılan makaleler, oluşturulacak bilim kurulu tarafından değerlendirilecek ve ödüle layık görülenler 07.12.2020 tarihinde İlim Yayma Vakfı internet sayfasından ilan edilecektir.
 
-[Başvuru Formu](http://ayasofya.iyv.org.tr/?q=basvur&ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+### [Başvuru Formu](http://ayasofya.iyv.org.tr/?q=basvur&ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
