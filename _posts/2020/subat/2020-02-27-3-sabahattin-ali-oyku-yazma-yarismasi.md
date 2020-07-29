@@ -44,4 +44,4 @@ mervedundar@fenerbahce.k12.tr mail adreslerini kullanabilirsiniz.
 - DİL ANLATIM ÖDÜLÜ: SABAHATTİN ALİ BÜTÜN ESERLERİ YKY ÖZEL BASIM
 - DİL ANLATIM ÖDÜLÜ: SABAHATTİN ALİ BÜTÜN ESERLERİ YKY ÖZEL BASIM
 
-[Başvurmak İçin](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/3-sabahattin-ali-yarismasi-basvuru-formu.pdf?alt=media&token=57a296a7-7d89-4f24-a45a-cbf4168e9c60){:rel="nofollow"}{:target="_blank"}
+[Başvurmak İçin](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/3-sabahattin-ali-yarismasi-basvuru-formu.pdf?alt=media&token=57a296a7-7d89-4f24-a45a-cbf4168e9c60){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

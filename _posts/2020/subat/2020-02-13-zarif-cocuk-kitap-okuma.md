@@ -32,4 +32,4 @@ Başvurular 1 Ocak-16 Şubat 2020 tarihler arasında sınıf öğretmenleri tara
 - Sınıf öğretmenleri 17 Şubat 2020 tarihinden itibaren "Öğretmen Yönetim Paneli Girişi" bölümünden öğrenci durumlarını ve sınav sıralamalarını görebileceklerdir.
 - Teknik destek için +90 (274) 280 43 94 telefon numarasından veya arge43@meb.gov.tr e-posta adresinden iletişime geçebilirsiniz.
 
-[Başvurmak İçin](http://zarifcocuk.meb.gov.tr/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvurmak İçin](http://zarifcocuk.meb.gov.tr/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

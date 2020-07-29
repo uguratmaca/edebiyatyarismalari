@@ -74,4 +74,4 @@ Bilgi İçin
 Elektronik Posta (mail)  
 cokkisaoyku@gelisim.k12.tr
 
-[Katılım Formu](http://www.gelisim.k12.tr/TR/798/Katilim-Formu.htm?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Katılım Formu](http://www.gelisim.k12.tr/TR/798/Katilim-Formu.htm?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

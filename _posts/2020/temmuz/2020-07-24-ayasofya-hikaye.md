@@ -54,4 +54,4 @@ Sonuç Bildirimi: 03 EKİM 2020
 3. Dernek Yarışmanın duyurulması ve sonuçların ilan edilmesine yönelik olarak hazırlanacak basın bültenlerinde ve basılı materyallerde eserle birlikte Dernek logosu ve Resmi Sponsorun logosunu birlikte kullanmakla yükümlüdür.
 4. Telif Hakları; Yarışmada dereceye giren ve basılmaya değer görülen öykülerin telif hakkı eser sahibi ile birlikte süresiz olarak MÜSİAD'a ait olacaktır. MÜSİAD, bu haklar çerçevesinde eseri, süresiz olarak Türkiye içinde veya dışında her türlü ortam ve her türlü materyal içeriğinde eser sahibinin ismini belirterek kullanabilecek, kullandırabilecektir.
 
-### [Başvuru Formu](https://docs.google.com/forms/d/e/1FAIpQLSeQrqydmTp-DLc2ze026YgJZHhY192yQL7KEYnGG8uKNdIhcQ/viewform?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+### [Başvuru Formu](https://docs.google.com/forms/d/e/1FAIpQLSeQrqydmTp-DLc2ze026YgJZHhY192yQL7KEYnGG8uKNdIhcQ/viewform?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -18,4 +18,4 @@ Ankara ili sınırları içinde lise öğrencilerine yönelik düzenlenen temas�
 Ankara ili sınırları içinde lise öğrencilerine yönelik düzenlenen teması "Ormanın Gizemi" olan ödüllü resim yarışması ile yine çevre ve ormanlar konusunda öğrenciler arasında farkındalik oluşturulması, bilinç düzeyinin geliştirilmesi, orman, doğa ve çevre sevgisinin yayılması ve kökleşmesi amaçlanmıştır.
 
 
-[Detaylar ve Başvuru için](http://prosds.istiklalyolu.com/sartname-2/sartname/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://prosds.istiklalyolu.com/sartname-2/sartname/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -81,4 +81,4 @@ Fax: +90 312 287 61 80
 Web Adresi:
 E-posta: info@ogder.org
 
-[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ogder-senaryo-yarismasi-basvuru-formu.docx?alt=media&token=b248f295-8ede-4a78-8822-b21ff28eb77f){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ogder-senaryo-yarismasi-basvuru-formu.docx?alt=media&token=b248f295-8ede-4a78-8822-b21ff28eb77f){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

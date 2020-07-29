@@ -46,4 +46,4 @@ Birincilik DİZÜSTÜ BİLGİSAYAR VE BAŞARI PLAKET BİRİNCİLİK PLAKETİ
 Mansiyon TABLET VE BAŞARI PLAKET TEŞEKKÜR PLAKETİ Ankara Büyükşehir Belediyesi Özel Ödülü DİZÜSTÜ BİLGİSAYAR VE BAŞARI PLAKET ÖZEL ÖDÜL PLAKETİ
 
 
-[Başvuru Formu](https://tuketici.ticaret.gov.tr/data/5ddd184f13b87667f8ea10e0/resim_yarismasi_taahhutname_2019_2020.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://tuketici.ticaret.gov.tr/data/5ddd184f13b87667f8ea10e0/resim_yarismasi_taahhutname_2019_2020.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

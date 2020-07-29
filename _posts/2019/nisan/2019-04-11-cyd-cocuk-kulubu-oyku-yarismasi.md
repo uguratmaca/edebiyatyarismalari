@@ -47,4 +47,4 @@ Yarışma sonucunda birinci,ikinci ve üçüncü öykü sahiplerine birer tablet
 ÖDÜL TÖRENİ
 Ödül töreni ile ilgili ayrıntılar daha sonra şubelere bildirilecektir.
 
-[Detaylar ve başvuru için](https://www.cydd.org.tr/haber/cydd-cocuk-kulubu-oyku-yarismasi-2019-1367/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.cydd.org.tr/haber/cydd-cocuk-kulubu-oyku-yarismasi-2019-1367/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

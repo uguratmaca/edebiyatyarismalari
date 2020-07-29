@@ -54,4 +54,4 @@ Yapıt, 31 Ağustos 2019 tarihine dek bilimkurgu@tbd.org.tr adresine gönderilme
 Bilgi ve iletişim için: Ceyhun Atuf Kansu Caddesi 1246. Sokak No: 4/17 Balgat / ANKARA
 Tel: +90 (312) 473 8215 web:  www.tbd.org.tr, eposta: tbd-merkez@tbd.org.tr
 
-[Başvuru için](https://www.tbd.org.tr/turkiye-bilisim-dergisi-2019-bilimkurgu-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](https://www.tbd.org.tr/turkiye-bilisim-dergisi-2019-bilimkurgu-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

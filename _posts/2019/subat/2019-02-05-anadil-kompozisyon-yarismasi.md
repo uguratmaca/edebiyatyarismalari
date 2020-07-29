@@ -18,4 +18,4 @@ Eserlerin 11 Şubat 2019 tarihi mesai bitimine kadar Dernek e-posta adresine (ku
 
 21 Şubat 2019 tarihinde Sofya’da Derneğimizce düzenlenecek olan, Türkiye Cumhuriyeti Büyükelçisinin de katılacağı “Uluslararası Anadil Günü” etkinliğinde, yarışmada dereceye giren öğrencilere, Ortaokul ve Lise düzeylerinde ayrı ayrı olmak üzere, çeşitli ödüller verilecektir.”
 
-[Detaylar ve Başvuru için](https://kircaalihaber.com/?pid=3&id_news=22303&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://kircaalihaber.com/?pid=3&id_news=22303&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

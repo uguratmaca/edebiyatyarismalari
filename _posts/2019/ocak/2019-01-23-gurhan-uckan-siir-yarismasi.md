@@ -14,4 +14,4 @@ DİL DEVRİMİNİN ÖDÜNSÜZ SAVUNUCUSU GÜRHAN UÇKAN
 
 Üniversite öğrencileri arasındaki yarışmaya başvurular 5 Aralık 2018 - 30 Nisan 2019 arasında yapılacak, ödül töreni ise Mayıs 2019'da Ankara'da gerçekleştirilecektir.
 
-[Detaylar ve Başvuru için](http://www.dildernegi.org.tr/TR,152/gurhan-uckan-odulu.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://www.dildernegi.org.tr/TR,152/gurhan-uckan-odulu.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

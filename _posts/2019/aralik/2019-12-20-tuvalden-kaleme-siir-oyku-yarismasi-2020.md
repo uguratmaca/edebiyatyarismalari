@@ -61,5 +61,5 @@ yarisma@iIkokul.nds.k12.tr
 Özel Bahçeşehir Neslin Değişen Sesi Ortaokulu  
 Bahçeşehir 2.Kısım Mahallesi 9.Cadde No:12 Başakşehir /İstanbul
 
-[Şiir Görseli](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/tuvalden-kaleme-siir-gorseli.pdf?alt=media&token=5f98b232-2886-41da-bb3c-962b014caad9){:rel="nofollow"}{:target="_blank"}  
-[Öykü Görseli](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/tuvalden-kaleme-oyku-gorseli.pdf?alt=media&token=86ac22a9-264f-4733-9ffa-2f674f1151dd){:rel="nofollow"}{:target="_blank"}
+[Şiir Görseli](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/tuvalden-kaleme-siir-gorseli.pdf?alt=media&token=5f98b232-2886-41da-bb3c-962b014caad9){:rel="nofollow"}{:target="_blank"}{:class="gtag"}  
+[Öykü Görseli](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/tuvalden-kaleme-oyku-gorseli.pdf?alt=media&token=86ac22a9-264f-4733-9ffa-2f674f1151dd){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

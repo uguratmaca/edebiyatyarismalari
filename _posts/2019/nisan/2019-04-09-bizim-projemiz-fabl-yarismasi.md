@@ -25,4 +25,4 @@ Birincilik Ödülü 700 Türk Lirası
 İkincilik Ödülü 500 Türk Lirası
 Üçüncülük Ödülü 300 Türk Lirası
 
-[Detaylar ve başvuru için](https://www.guncel-egitim.org/bizim-projemiz-fabl-yazma-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.guncel-egitim.org/bizim-projemiz-fabl-yazma-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -34,4 +34,4 @@ Eşref Karadağ
 7-) Yarışmaya katılacak olan tüm katılımcılar dereceye giren öykülerin kitap olarak basımını kabul etmiş sayılır.  
 TESLİM VE GÖNDERİM  ADRESİ ÖZTÜRK TATAR **2020 ÜMİT KAFTANCIOĞLU ÖYKÜ YARIŞMASI** YÜZYIL MAH. BARBAROS CAD. No: 109A BAĞCILAR/İSTANBUL TEL: 0531 608 40 33  
 
-[Web sitesi](http://www.umitkaftancioglu.com/index/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Web sitesi](http://www.umitkaftancioglu.com/index/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

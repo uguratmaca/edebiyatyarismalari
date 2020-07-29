@@ -26,4 +26,4 @@ Sonuçlar Köprü Dergi’sinde ilân edilecek
 
 Adaylar hazırladıkları dosyayı 23 Mart 2020 tarihine kadar Enstitü yarışma sekretaryasının RNEank@gmail.com adresine gönderecek. Yarışma sonuçları 20 Nisan 2020 tarihinde başvuru sahiplerinin eposta adreslerine bildirilecek ve Köprü Dergisi’nin ilgili sayında da ilân edilecek. Yarışmada ödül alan üç kişi ile yarışmaya iştirak eden ve makale teslim eden adaylardan ödül almamışlar arasından çalışma dosyasını teslim sırasına göre ilk 7 (yedi) başvurucuya olmak üzere toplam 10 (on) kişiye bir yıllık Köprü Dergisi aboneliği de hediye edilecektir. Yarışmada birinciye bin 500 TL, ikinciye bin TL ve üçüncüye ise 500 TL ödül verilecek.
 
-[Başvuru için](https://www.yeniasya.com.tr/genclik/gencleri-yazmaya-davet-ediyoruz_496963?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](https://www.yeniasya.com.tr/genclik/gencleri-yazmaya-davet-ediyoruz_496963?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

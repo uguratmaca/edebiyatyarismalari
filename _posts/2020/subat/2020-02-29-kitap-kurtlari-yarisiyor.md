@@ -42,4 +42,4 @@ Kitap İsmi	Yazar İsmi	Yayın Evi
 4. Peygamberin Genç Arkadaşları-Medine	Özkan ÖZE	Uğur Böceği
 5. Çocuk Kalbi	Edmondo De AMICIS	Mecaz
 
-[Başvurmak İçin](https://formlar.tugva.org/Ortaokul/KitapKurduYarismasi?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvurmak İçin](https://formlar.tugva.org/Ortaokul/KitapKurduYarismasi?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

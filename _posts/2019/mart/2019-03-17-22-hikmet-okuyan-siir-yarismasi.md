@@ -41,4 +41,4 @@ AYRICA, 2019, HİKMET OKUYAR TANITIM TURİZM KÜLTÜR SANAT ETKİNLİKLERİ kaps
 2019, ’ HİKMET OKUYAR ŞİİRE ÜSTÜN HİZMET ÖDÜLÜ ’ 
 verilecektir.
 
-[Detaylar ve başvuru için](https://www.edebiyatdefteri.com/181547-22-hikmet-okuyar-odullu-siir-yarismasi-2019-sartnamesi-yayinlandi-hikm/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.edebiyatdefteri.com/181547-22-hikmet-okuyar-odullu-siir-yarismasi-2019-sartnamesi-yayinlandi-hikm/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

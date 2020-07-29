@@ -61,4 +61,4 @@ Üçüncülük Ödülü: 5.000 TL
 
 Ödüle değer eser bulunmadığında dağıtılmayan ödüller diğer derecelere tahsis edilmez.
 
-[Başvuru formu için](https://www.babasahne.com/oyun-yazma-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru formu için](https://www.babasahne.com/oyun-yazma-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

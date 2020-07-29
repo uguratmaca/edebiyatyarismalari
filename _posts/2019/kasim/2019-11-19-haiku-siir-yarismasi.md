@@ -55,4 +55,4 @@ Belirtilen kurallara uymayanlar,
 Slogan, öğüt, tavsiye ve düz yazı ifadeler bulunanlar,
 Kopya olan ve başka birinin yardımıyla yazılanlar.
 
-[Başvuru Formu](http://jikad.org.tr/cocukhaikuyarismasi/wp-content/uploads/2019/08/2019_haiku_basvuruformu.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](http://jikad.org.tr/cocukhaikuyarismasi/wp-content/uploads/2019/08/2019_haiku_basvuruformu.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

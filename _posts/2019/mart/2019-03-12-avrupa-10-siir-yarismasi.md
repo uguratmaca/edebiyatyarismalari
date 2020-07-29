@@ -22,4 +22,4 @@ Şiirlerin gönderileceği adresler :
 Platform Dergisi • Postbus 90460 • 1006 BL Amsterdam
 siiryarismasi@platformdergisi.com
 
-[Detaylar ve başvuru için](https://www.platformdergisi.com/yazi/haberler/27133/avrupa-10uncu-siir-yarismasi-basladi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.platformdergisi.com/yazi/haberler/27133/avrupa-10uncu-siir-yarismasi-basladi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

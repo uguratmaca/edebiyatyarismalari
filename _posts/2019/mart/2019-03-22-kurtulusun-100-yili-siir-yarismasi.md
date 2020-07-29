@@ -19,4 +19,4 @@ Samsun il genelindeki tüm resmi ortaöğretim okullarının 9-10-11-12. sınıf
 
 Yarışmada ilk 3'e giren öğrenciler, Cumhuriyet Kitaplarından bir set ile ödüllendirilecek.
 
-[Detaylar ve başvuru için](http://www.cumhuriyet.com.tr/haber/kultur-sanat/1303328/_Kurtulusun_100.yili__yarismasi_icin_basvurular_basliyor.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://www.cumhuriyet.com.tr/haber/kultur-sanat/1303328/_Kurtulusun_100.yili__yarismasi_icin_basvurular_basliyor.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

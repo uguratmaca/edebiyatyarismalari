@@ -20,4 +20,4 @@ Yarışmaya Her Yazar Sadece 1 Eser İle Katılabilir. Yarışmaya Katılan Eser
 
 Yarışmacılar Ayrı Bir Sayfada Kendi Ad Ve Soyadlarını Ve Özgeçmişlerini (Eğitim Durumu, Öğrenciler İçin Okul Adresi Ve Okul Telefonu, Diğer Katılımcılar İçin Adres Ve Telefonlarını, E-Posta Adreslerini) Yazıp “Sefer Ekşi 8. Kültür Ve Sanat Ödülleri Öykü Yarışmasının Tüm Şartlarını Kabul Ediyorum” İbaresini Yazarak Yollayacaktır.
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/ilim-ve-fazilet-vakfi-sefer-eksi-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://www.guncel-egitim.org/ilim-ve-fazilet-vakfi-sefer-eksi-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

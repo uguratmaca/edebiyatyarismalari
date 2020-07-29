@@ -38,4 +38,4 @@ Amaç:
 11. Alemlere Rahmet Uluslararası Senaryo Yarışması Organizasyon Komitesi bu yönetmelik ve yarışmaya katılma koşullarında değişiklik yapma hakkına ya da ek koşullar talep etme hakkına sahiptir. Bu durumda yarışmacılara gereken uygun süre verilebilir.
 12. Alemlere Rahmet Uluslararası Senaryo Yarışması Organizasyon Komitesi’nin, yarışmacıların yarışma koşullarını ihlali ya da eşdeğer bir neden ya da şüphe halinde senaryo/senaryoları yarışmanın dışında tutma hakkı saklıdır.
 
-[Başvuru Adresi](http://www.alemlererahmetfilm.com/basvuru/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvuru Adresi](http://www.alemlererahmetfilm.com/basvuru/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

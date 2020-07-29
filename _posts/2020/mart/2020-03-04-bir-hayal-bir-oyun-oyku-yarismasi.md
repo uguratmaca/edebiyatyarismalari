@@ -41,4 +41,4 @@ Birinci seçilen hikaye oyun metnine çevrilerek Aralık 2020’de Zorlu Çocuk 
 - İkincilik ödülü: 5 Bin TL
 - Üçüncülük ödülü: 3 Bin TL
 
-[Başvuru Formu](http://www.birhayalbiroyun.com/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](http://www.birhayalbiroyun.com/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

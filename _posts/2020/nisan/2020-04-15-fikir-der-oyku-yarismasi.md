@@ -65,4 +65,4 @@ Kurul tarafından ilk üçe giren yapıtlar ile mansiyon ödülü almaya hak kaz
 - Üçüncü: 500 TL 
 - Mansiyon Ödülü
 
-[Başvuru Linki](https://docs.google.com/forms/d/e/1FAIpQLSeD_iKpS9ACFqIMBIbpUzgb1vFXfpN8XksBw8i_FQ1IsxOoHQ/viewform?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvuru Linki](https://docs.google.com/forms/d/e/1FAIpQLSeD_iKpS9ACFqIMBIbpUzgb1vFXfpN8XksBw8i_FQ1IsxOoHQ/viewform?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

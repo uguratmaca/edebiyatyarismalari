@@ -58,4 +58,4 @@ e-posta: yekuv@yekuv.org
 
 Öykülerin başkasına ait, alıntı, kopya olmaması gerekir.  Yarışmaya katılan her öğrenci ve velisi bu şartları kabul etmiş sayılır. Öykülerde işlenen düşüncelerden doğabilecek hukuki sorumluluklar öykü sahiplerinindir.
 
-[Başvuru için](http://www.yekuv.org/yekuv-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://www.yekuv.org/yekuv-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

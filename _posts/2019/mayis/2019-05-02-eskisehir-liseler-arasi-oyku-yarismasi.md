@@ -47,4 +47,4 @@ SEÇİCİ KURUL
 5. Zerrin SARAL 
 6. Tayfun AK
 
-[Detaylar ve başvuru için](https://www.facebook.com/824931177870341/posts/dorlion-yayinlarieski%C5%9Fehir-liseler-arasi-eski%C5%9Fehir-konulu-%C3%B6yk%C3%BC-yari%C5%9Fmasi-%C5%9Fartnam/845168539179938/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.facebook.com/824931177870341/posts/dorlion-yayinlarieski%C5%9Fehir-liseler-arasi-eski%C5%9Fehir-konulu-%C3%B6yk%C3%BC-yari%C5%9Fmasi-%C5%9Fartnam/845168539179938/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

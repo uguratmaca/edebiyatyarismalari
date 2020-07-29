@@ -79,4 +79,4 @@ Adres: Eyüpsultan Belediyesi – Eyüpsultan / İST.
 Web: https://www.eyupsultan.bel.tr/ E-Posta: okumakguzeldir@eyupsultan.bel.tr
 
 
-[Başvurmak İçin](https://yarisma.eyupsultan.bel.tr/tr?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvurmak İçin](https://yarisma.eyupsultan.bel.tr/tr?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

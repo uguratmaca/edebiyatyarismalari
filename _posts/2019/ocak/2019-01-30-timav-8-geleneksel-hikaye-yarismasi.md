@@ -25,4 +25,4 @@ Türkiye İmam Hatipliler Vakfı (TİMAV) tarafından geleneksel hale getirilen 
 
 Güncelleme: bozuk linkler kaldırıldı
 
-[Sonuçları](https://timav.org.tr/genel/timav-8-geleneksel-hikaye-yarismasi-sonuclarimiz-belli-oldu/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Sonuçları](https://timav.org.tr/genel/timav-8-geleneksel-hikaye-yarismasi-sonuclarimiz-belli-oldu/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

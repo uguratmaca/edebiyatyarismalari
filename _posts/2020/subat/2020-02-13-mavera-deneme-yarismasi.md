@@ -74,4 +74,4 @@ Mehmet KIRTORUN– Mavera Eğitim ve Sağlık Vakfı Kurumsal İletişim Uzmanı
 Serhat HAZNEDAROĞLU– Program Koordinatörü  
 Buğra KARAMAN– Program Koordinatörü Yardımcısı
 
-[Katılım Formu](https://maveraodulleri.com/yarismaya-katilim-formu/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Katılım Formu](https://maveraodulleri.com/yarismaya-katilim-formu/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

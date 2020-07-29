@@ -35,4 +35,4 @@ image: "https://edebiyatyarismalari.com/images/2020/nisan/sanko-park-anneler-gun
 - Üçüncülük Ödülü: Altın Kolye
 - Mansiyon Ödülü: Pırlanta Nazar Boncuklu Bileklik
 
-[Başvurmak için](https://www.instagram.com/sankoparkgaziantep/?hl=tr&ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvurmak için](https://www.instagram.com/sankoparkgaziantep/?hl=tr&ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

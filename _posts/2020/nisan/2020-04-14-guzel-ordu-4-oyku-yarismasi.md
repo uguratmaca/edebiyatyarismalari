@@ -68,5 +68,5 @@ NO:3 KAT:2 NUROL TOWER ŞİŞLİ-İSTANBUL adresine kargo ile gönderilecektir.
 3. Dernek Yarışmanın duyurulması ve sonuçların ilan edilmesine yönelik olarak hazırlanacak basın bültenlerinde ve basılı materyallerde eserle birlikte Dernek logosu ve Resmi Sponsorun logosunu birlikte kullanmakla yükümlüdür.
 4. Telif Hakları; Yarışmada dereceye giren ve basılmaya değer görülen öykülerin telif hakkı eser sahibi ile birlikte süresiz olarak Güzel Ordu Kültür Sanat Derneği’ne ait olacaktır. Güzel Ordu Kültür Sanat Derneği, bu haklar çerçevesinde eseri, süresiz olarak Türkiye içinde veya dışında her türlü ortam ve her türlü meteryal içeriğinde eser sahibinin ismini belirterek kullanabilecek, kullandırabilecektir.
 
-[Başvuru Formu ve Linki](http://gzlordu.org/yarismalar/oyku-yarismasi/basvuru-formu?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu ve Linki](http://gzlordu.org/yarismalar/oyku-yarismasi/basvuru-formu?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 

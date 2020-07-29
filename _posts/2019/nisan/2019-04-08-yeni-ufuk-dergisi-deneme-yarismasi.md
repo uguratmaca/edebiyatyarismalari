@@ -48,4 +48,4 @@ Hatice BİLDİŞ
 Ramazan GÜNDER
 Rabia ÇİMEN
 
-[Detaylar ve başvuru için](https://www.yeniufukdergisi.com/deneme-yarismasi-sartnamesi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.yeniufukdergisi.com/deneme-yarismasi-sartnamesi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

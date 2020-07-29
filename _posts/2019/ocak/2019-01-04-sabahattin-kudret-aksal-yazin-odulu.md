@@ -32,4 +32,4 @@ Eray Canberk başkanlığında Egemen Berköz, Abdülkadir Budak, Adil İzci, Tu
 Kamuoyuna saygıyla duyurulur.
 
 
-[Detaylar ve Başvuru için](https://724kultursanat.com/sabahattin-kudret-aksal-yazin-odulu-duzenleniyor/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://724kultursanat.com/sabahattin-kudret-aksal-yazin-odulu-duzenleniyor/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

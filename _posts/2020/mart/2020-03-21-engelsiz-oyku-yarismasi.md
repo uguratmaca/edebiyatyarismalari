@@ -38,4 +38,4 @@ E-Mail: engelsizaof@anadolu.edu.tr
 Adres: Anadolu Üniversitesi Açıköğretim Fakültesi Kat: Zemin/ 007 Yunus Emre Kampüsü Tepebaşı - ESKİŞEHİR/ TÜRKİYE  
 Tel: +90 222 335 36 11  
 
-[Başvuru Formu](http://engelsizaof.anadolu.edu.tr/4-engelsiz-calistay-sartnameler/oyku-yarismasi-sartnamesi.docx?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](http://engelsizaof.anadolu.edu.tr/4-engelsiz-calistay-sartnameler/oyku-yarismasi-sartnamesi.docx?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

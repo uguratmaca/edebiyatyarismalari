@@ -24,4 +24,4 @@ Belirlenecek 10 senaryo, sektörün önde gelen isimlerinden oluşan ana jüri t
 
 Dereceye girecek eserlerden birincisi 25.000 TL, ikincisi 15.000 TL ve üçüncüsü ise 10.000 TL ile ödüllendirilecek. En iyi film kategorisinde ise, yarışmanın En İyi İlk Film ayağını kazanacak eser, 25.000 TL tutarındaki DenizBank Özel Ödülü’ne hak kazanacak.
 
-[Başvuru için](http://ilksenaryo.tursak.org.tr/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://ilksenaryo.tursak.org.tr/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -73,4 +73,4 @@ Sakarya İl Milli Eğitim Müdürlüğü
 Sosyal, Kültürel ve Sportif Etkinlikler Bürosu
 Tel: 0 264 251 36 14-15 Dahili: 1338
 
-[Katılım Formu](http://tokidemokrasiilkokulu.meb.k12.tr/meb_iys_dosyalar/54/05/732623/dosyalar/2019_10/23122800_Ben_OYretmen_OlsaydYm_konulu_Yiir_ve_Kompozisyon_YarYYmasY.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc#oykugio){:rel="nofollow"}{:target="_blank"}
+[Katılım Formu](http://tokidemokrasiilkokulu.meb.k12.tr/meb_iys_dosyalar/54/05/732623/dosyalar/2019_10/23122800_Ben_OYretmen_OlsaydYm_konulu_Yiir_ve_Kompozisyon_YarYYmasY.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc#oykugio){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

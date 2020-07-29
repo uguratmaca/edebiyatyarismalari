@@ -18,4 +18,4 @@ Nilüfer Belediyesi'nin “Yılın Yazarı” etkinlikleri kapsamında, o yılı
 
 İnsana, topluma dair yeni bir bakış ve yorumla yazmaya yönelenlerin öykü çalışmalarını değerlendirmeyi amaçlayan yarışmanın Seçici Kurulunu Nursel Duruel, Gaye Boralıoğlu, Nahit Kayabaşı, Jale Sancak ve Şafak Pala oluşturuyor. Yarışmada büyük ödül 3.000  TL olacak, ayrıca beş kişiye de mansiyon ödülü verilecek. Yarışma ile ilgili ayrıntılı bilgi almak isteyenler Nilüfer Kütüphane'nin sosyal medya sayfalarını takip edebilir veya 0224 494 19 54 numaralı telefondan kütüphaneye ulaşabilir.
 
-[Başvuru için](http://www.nilufer.bel.tr/dosya_yoneticisi/kutup/nezihemericbasvuru.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://www.nilufer.bel.tr/dosya_yoneticisi/kutup/nezihemericbasvuru.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

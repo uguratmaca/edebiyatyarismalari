@@ -34,4 +34,4 @@ image: "https://edebiyatyarismalari.com/images/2020/nisan/balkaya-kisa-oyku-masa
 - Birinci seçilen öğrenciye/öğrencilere %50 eğitim bursu
 - Yarışmada birinci, ikinci ve üçüncüye plaket verilecektir
 
-[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/balkaya-masal-yarismasi-basvuru-formu.pdf?alt=media&token=353c7b96-6d31-4290-a395-99ae5c28f7be){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/balkaya-masal-yarismasi-basvuru-formu.pdf?alt=media&token=353c7b96-6d31-4290-a395-99ae5c28f7be){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

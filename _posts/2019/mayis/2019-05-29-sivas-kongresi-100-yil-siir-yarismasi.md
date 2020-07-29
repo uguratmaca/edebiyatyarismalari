@@ -20,4 +20,4 @@ Her yarışmacının bir şiir ile müracaat edebileceği şiir yarışmasında 
 
 100. yılın şiir yarışması sonuçları ise 28 Haziran 2019 Cuma günü Sivas İl Kültür ve Turizm Müdürlüğü’nün web sayfasından duyurulacak. Yarışmada birinciye 5 bin, ikinciye 3 bin, üçüncüye ise 2 bin TL ödül verilecek
 
-[Başvuru için](http://www.sivas.gov.tr/100-yila-ozel-siir-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://www.sivas.gov.tr/100-yila-ozel-siir-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

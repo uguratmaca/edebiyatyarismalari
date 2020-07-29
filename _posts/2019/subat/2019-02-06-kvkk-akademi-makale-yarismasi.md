@@ -15,4 +15,4 @@ Amaç
 Makale yarışması ile 7 Nisan “Kişisel Verilerin Korunması Günü” münasebetiyle, toplumda kişisel verilerin korunmasına yönelik farkındalık düzeyinin artırılması ve kişisel verilerin korunmasına dair yapılacak akademik çalışmaları teşvik etmek amaçlanmaktadır.
 
 
-[Detaylar ve Başvuru için](https://www.kvkk.gov.tr/Icerik/5340/KVKK-Akademi-Makale-Yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://www.kvkk.gov.tr/Icerik/5340/KVKK-Akademi-Makale-Yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

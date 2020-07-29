@@ -56,5 +56,5 @@ Yarışmaya katılımlar online olarak gerçekleştirilecek olup, hazırlanan es
 - kinciliğe layık görülen eser sahibine 750-TL
 - Üçüncülüğe layık görülen eser sahibine 500-TL
 
-### [Ek Bilgi Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kompozisyon-yarismasi-ek.pdf?alt=media&token=6a6c2fcd-8ceb-4eae-a8f8-e2fd3a6c0f12){:rel="nofollow"}{:target="_blank"}
+### [Ek Bilgi Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kompozisyon-yarismasi-ek.pdf?alt=media&token=6a6c2fcd-8ceb-4eae-a8f8-e2fd3a6c0f12){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 

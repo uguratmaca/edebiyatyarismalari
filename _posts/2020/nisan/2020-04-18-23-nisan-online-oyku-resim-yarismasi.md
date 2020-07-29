@@ -33,4 +33,4 @@ OYLAMA BİTTİĞİNDE EN YÜKSEK OYU ALANLARDAN BAŞLAYARAK DERECELER AÇIKLANIR
 ## Öykü, Resim Yarışması Ödül
 Yarışma sona erdiğinde PANODA kalan eser sahiplerine "Katılım dijital sertifikası" kayıtlı maillerine gönderilir. İlk 100 yarışmacıya "100 seçkin Yazar/Ressam adayı sertifikası" dijital olarak maille gönderilir. Ayrıca aldıkları oylara göre ilk üç dereceye girenlere her kategoride tercihlerine göre grafik tablet veya Yo 50 burs verilir.
 
-[Başvuru Linki](https://www.kentkoleji.com.tr/yarisma/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvuru Linki](https://www.kentkoleji.com.tr/yarisma/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

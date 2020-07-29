@@ -30,4 +30,4 @@ Adres: Eskişehir Sanat Derneği Deliklitaş Mah.Gülcemal Sokak No:46 /1 Odunpa
 Bilgi için: esk.sanatdernegi@gmail.com Telefon : 05353238363
 
 
-[Başvuru için](https://www.mazeretimsiirdir.com/2019/08/11-yunus-emre-siir-yarismasi-2019.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](https://www.mazeretimsiirdir.com/2019/08/11-yunus-emre-siir-yarismasi-2019.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

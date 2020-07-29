@@ -29,4 +29,4 @@ Sadece öykü başvuruları kabul edilmektedir. Roman, deneme, şiir, vb. türle
 - altKitap 2020 Öykü Ödülü jürisi altKitap yayın kurulu ve altKitap 2019 Öykü Ödülü birincisi Aslıhan Kocabal’dan oluşmaktadır.
 - Başvuru 1 Mart 2020 23:59’da sona erecektir.
 
-[Başvuru Formu](http://www.altkitap.net/altkitap2020oykuodulu/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](http://www.altkitap.net/altkitap2020oykuodulu/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

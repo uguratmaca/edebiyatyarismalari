@@ -50,4 +50,4 @@ Dr. Öğretim Üyesi Etem KARA (DTUAM Yönetim Kurulu Üyesi)
 
 
 
-[Detaylar ve başvuru için](https://www.pirireis.edu.tr/2019-prof-dr-fuat-sezgin-yili-denizcilik-tarihi-ve-prof-dr-fuat-sezgin-konulu-bilimsel-makale-yarismasi-cagrisi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.pirireis.edu.tr/2019-prof-dr-fuat-sezgin-yili-denizcilik-tarihi-ve-prof-dr-fuat-sezgin-konulu-bilimsel-makale-yarismasi-cagrisi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -34,14 +34,14 @@ Geçen aylardan farklı olarak bundan sonraki yarışmalarımızda 3 kazanandan 
 - İlk 10' a giren **peri masalları** web sitemizde yayınlanacaktır.
 
 ### Masal Yarışması Seçici Kurul  
-- [Alper Kaya | Gazeteci, Yazar](http://www.alperkaya.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}  
-[Kitapları](https://kidega.com/yazar/alper-kaya-095464?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}  
-- [Uğur Atmaca](https://www.linkedin.com/in/atmacaugur/){:rel="nofollow"}{:target="_blank"}  
-- [İrem Çetin](https://www.linkedin.com/in/irem%C3%A7etin/){:rel="nofollow"}{:target="_blank"}  
+- [Alper Kaya | Gazeteci, Yazar](http://www.alperkaya.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}  
+[Kitapları](https://kidega.com/yazar/alper-kaya-095464?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}  
+- [Uğur Atmaca](https://www.linkedin.com/in/atmacaugur/){:rel="nofollow"}{:target="_blank"}{:class="gtag"}  
+- [İrem Çetin](https://www.linkedin.com/in/irem%C3%A7etin/){:rel="nofollow"}{:target="_blank"}{:class="gtag"}  
 
 ### Masal Yarışması Takvimi
 Son başvuru tarihi: 31 Temmuz 2020  
 Ön değerlendirme: 10 Ağustos 2020  
 Sonuçların açıklanması: 31 Ağustos 2020  
 
-### [Yarışmaya katılmak için](https://forms.gle/hLDS1zyEodX27Fi39){:rel="nofollow"}{:target="_blank"}
+### [Yarışmaya katılmak için](https://forms.gle/hLDS1zyEodX27Fi39){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

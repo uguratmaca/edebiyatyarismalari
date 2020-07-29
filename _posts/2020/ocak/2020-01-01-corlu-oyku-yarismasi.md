@@ -70,4 +70,4 @@ Haluk ECEVİT
 - Ödül töreni gecesinin yapılacağı yer ve program bilgileri web sitemizden, sosyal medya hesaplarımızdan duyurulacak, ayrıca yarışmacıların mail adreslerine yollanacaktır.
 - Bu şartname yarışmaya başvuran kişiler tarafından kabul edilmiş sayılır.
 
-[Başvuru Formu](https://www.corlu.bel.tr/duyuru/1/89/corlu-belediyesi-oyku-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://www.corlu.bel.tr/duyuru/1/89/corlu-belediyesi-oyku-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

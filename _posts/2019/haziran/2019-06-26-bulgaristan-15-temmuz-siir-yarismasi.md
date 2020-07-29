@@ -23,4 +23,4 @@ Yarışmada ilk üçe giren öğrencilere Ortaokul ve Lise düzeylerinde ayrı a
 
 TC Sofya Büyükelçiliği
 
-[Başvuru için](https://www.bghaber.org/bghaber/bulgaristanda-15-temmuz-demokrasi-milli-birlik-temali-siir-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](https://www.bghaber.org/bghaber/bulgaristanda-15-temmuz-demokrasi-milli-birlik-temali-siir-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

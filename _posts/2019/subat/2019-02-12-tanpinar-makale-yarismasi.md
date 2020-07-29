@@ -17,4 +17,4 @@ Yarışmaya katılım bir(1) eserle, metin uzunluğu yaklaşık 6-8 sayfa şekil
 Makale yarışmasının genel konusu “Bursa’da İkinci Bir Zaman Daha Vardır” olarak belirlenmiştir.
 Her yarışmacı, eserini 7 nüsha olarak çoğaltılmış halde ve bununla birlikte metni içeren cd veya disketi aşağıdaki adrese gönderecektir
 
-[Detaylar ve Başvuru için](http://www.osmangazikultursanat.com.tr/tr/etkinlik/tanpinar-makale-yarismasi-2019?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://www.osmangazikultursanat.com.tr/tr/etkinlik/tanpinar-makale-yarismasi-2019?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

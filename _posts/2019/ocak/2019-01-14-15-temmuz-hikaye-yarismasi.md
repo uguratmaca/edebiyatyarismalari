@@ -25,4 +25,4 @@ Değerlendirme Ölçütü
     Üçüncülük Ödülü: 1 (Bir) Cumhuriyet Altını
     2 kişiye Teşvik (Mansiyon) ödülü yarımşar altın
 
-[Detaylar ve Başvuru için](http://istanbul3.ebs.org.tr/manset/1854/15-temmuz-konulu-hik%C3%82ye-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://istanbul3.ebs.org.tr/manset/1854/15-temmuz-konulu-hik%C3%82ye-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

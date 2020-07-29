@@ -13,4 +13,4 @@ Onlara sahip çıktığımız, yaşattığımız sürece maneviyatı korunmuş g
 Bu kapsamda çocuklarımıza Mevlana sevgisini aşılamak ve gönüllerindeki Mevlana’yı bulmak adına bu yarışmayı düzenlemekteyiz. 
 Yarışma 81 ilde liseler arasında düzenlenmektedir. 
 
-[Detaylar ve Başvuru için](http://www.osmangazi.bel.tr/tr/duyuru/liseler-arasi-mevlana-siir-yarismasi-basvurusu-hakkinda-duyuru?utm_source=edebiyatyarismalari&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://www.osmangazi.bel.tr/tr/duyuru/liseler-arasi-mevlana-siir-yarismasi-basvurusu-hakkinda-duyuru?utm_source=edebiyatyarismalari&utm_medium=affiliate){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

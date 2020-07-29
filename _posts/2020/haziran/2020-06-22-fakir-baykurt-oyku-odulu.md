@@ -73,5 +73,5 @@ Tel: (224) 441 81 89.
 Tel: (224) 486 62 46.  
 
 
-### [Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/fakir-baykurt-oyku-odulu-basvuru-formu.pdf?alt=media&token=b211e1a5-8731-48d9-8c8a-3cb2a5084219){:rel="nofollow"}{:target="_blank"}
+### [Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/fakir-baykurt-oyku-odulu-basvuru-formu.pdf?alt=media&token=b211e1a5-8731-48d9-8c8a-3cb2a5084219){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 

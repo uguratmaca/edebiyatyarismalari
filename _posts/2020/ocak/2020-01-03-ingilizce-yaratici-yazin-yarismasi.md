@@ -114,4 +114,4 @@ e-posta: gunes@cankaya.edu.tr
 1.	2 MART 2020 tarihinden sonra yapılan başvurular dikkate alınmayacaktır.
 2.	Katılımcıların konaklama ve ulaşım giderleri karşılanmamaktadır.
 
-[Başvuru Formu](http://yaraticiyazin.cankaya.edu.tr?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](http://yaraticiyazin.cankaya.edu.tr?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -63,4 +63,4 @@ Başvuru formu ve şartname için web adresi: https://www.kyov.org
 Adres: Serdar Mah. (Arızlı Mevkii Radar Üstü) Tekin Sok. No:16 41100 İZMİT 
 
 
-[Başvuru Formu](https://docs.wixstatic.com/ugd/de58f5_c07e508b2f5049209b11709fcc3c4446.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://docs.wixstatic.com/ugd/de58f5_c07e508b2f5049209b11709fcc3c4446.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

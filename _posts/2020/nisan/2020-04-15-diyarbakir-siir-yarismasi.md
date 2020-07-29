@@ -34,4 +34,4 @@ YARIŞMAYA TEK BİR ŞİİR İLE KATILIM SAĞLANACAKTIR. BİRDEN FAZLA GÖNDERİ
 - İKİNCİ: YARIM ALTIN
 - ÜÇÜNCÜ: ÇEYREK ALTIN
 
-[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/diyarbakir-siir-katilim-formu.docx?alt=media&token=1fdb8544-8d3a-4b28-91e1-4e7668775910){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/diyarbakir-siir-katilim-formu.docx?alt=media&token=1fdb8544-8d3a-4b28-91e1-4e7668775910){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

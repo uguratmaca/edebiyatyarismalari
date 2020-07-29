@@ -70,4 +70,4 @@ Tel: 0 222 255 11 00 / 1230
 Adres: Arifiye mah. İki Eylül Cad. No:53 Odunpazarı / ESKİŞEHİR
 E-Posta Adresi: oykuyarismasi@eskisehir.bel.tr
 
-[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/engelsizsiniz-oyku-yarismasi-basvuru-formu.pdf?alt=media&token=48a17212-e40d-48a6-99ab-e85799e89ad0){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/engelsizsiniz-oyku-yarismasi-basvuru-formu.pdf?alt=media&token=48a17212-e40d-48a6-99ab-e85799e89ad0){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

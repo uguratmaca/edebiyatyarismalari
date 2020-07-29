@@ -17,4 +17,4 @@ image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot
 Geçen yıl birincisi şair Yalçın Benlican adına ve sadece İzmir ili kapsamında düzenlenen yarışma bu yıl gelen yoğun talep üzerine bütün şairlere açıktır.
 
 
-[Detaylar ve başvuru için](https://www.facebook.com/groups/178432265824085/permalink/818547201812585/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.facebook.com/groups/178432265824085/permalink/818547201812585/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

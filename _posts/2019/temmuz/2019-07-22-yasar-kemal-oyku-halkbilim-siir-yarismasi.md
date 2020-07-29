@@ -66,4 +66,4 @@ Anadolu Halk Bilimleri ve Kültür Akademisi, Çardak köyü / Osmaniye
 Tel : 0538-552 2992; Büro : 0328 -835 64 06.
 e-mail: cenetibrahim72@gmail.com
 
-[Başvuru için](http://anadoluhalkbilimleri.blogspot.com/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://anadoluhalkbilimleri.blogspot.com/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

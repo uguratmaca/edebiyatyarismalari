@@ -53,4 +53,4 @@ Jüri
 - Kıvanç PEHLİVANOĞLU
 - Eylem LODOS
 
-[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/odunpazari-basvuru-formu.docx?alt=media&token=bd39416d-f704-4f7e-89eb-553870869b80){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/odunpazari-basvuru-formu.docx?alt=media&token=bd39416d-f704-4f7e-89eb-553870869b80){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

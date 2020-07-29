@@ -52,4 +52,4 @@ Telefon : 0338 226 20 80
 Belgegeçer : 0338 226 20 74
 E-posta : sks@kmu.edu.tr
 
-[Taahhütname](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/piri-reis-israf-kompozisyon-yarismasi.docx?alt=media&token=9faca44c-985d-467f-94e8-da2765c5c2c8){:rel="nofollow"}{:target="_blank"}
+[Taahhütname](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/piri-reis-israf-kompozisyon-yarismasi.docx?alt=media&token=9faca44c-985d-467f-94e8-da2765c5c2c8){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

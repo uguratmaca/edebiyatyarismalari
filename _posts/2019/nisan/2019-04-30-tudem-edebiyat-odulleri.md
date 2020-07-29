@@ -35,4 +35,4 @@ Ayfer Gürdal Ünal, Can Göknil, Deniz Üçbaşaran, M. Banu Aksoy, Sedat Sever
 Yetişkin Edebiyatı Seçici Kurul:
 Asuman Kafaoğlu-Büke, Beliz Güçbilmez, Ceyhan Usanmaz, Hüseyin Kıran, Oylum Yılmaz
 
-[Detaylar ve başvuru için](https://www.tudem.com/tudem-edebiyat-odulleri.aspx?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.tudem.com/tudem-edebiyat-odulleri.aspx?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

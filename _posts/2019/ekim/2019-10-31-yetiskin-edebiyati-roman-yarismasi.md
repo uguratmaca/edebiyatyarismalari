@@ -53,4 +53,4 @@ Değerlendirme:
 2. Yayınevi ödül alan eserleri yayınlamak zorunda olmadığı gibi ödül almayanlardan da seçki yapma hakkını saklı tutar. Bu durumda yayın kurulu tarafından seçilen eserler de yayınlanmak üzere eser sahibi ile görüşme yapılabilir. İki kurul birbirinden bağımsızdır.
 3. Jüri üyelerinin herhangi bir etki altında kalmadan çalışabilmesi ve yarışmanın güvenliği açısından isimleri yarışma sonuçlarıyla birlikte açıklanacaktır.
 
-[Taahhütname](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kanes-yayinlari-yetiskin-edebiyati-taahh%C3%BCtname.pdf?alt=media&token=019c1129-9eb4-4d0d-b4f8-6f4deecb4faa){:rel="nofollow"}{:target="_blank"}
+[Taahhütname](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kanes-yayinlari-yetiskin-edebiyati-taahh%C3%BCtname.pdf?alt=media&token=019c1129-9eb4-4d0d-b4f8-6f4deecb4faa){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

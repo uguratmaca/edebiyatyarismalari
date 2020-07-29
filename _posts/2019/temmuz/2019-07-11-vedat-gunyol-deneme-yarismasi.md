@@ -19,4 +19,4 @@ Cumhuriyet Gazetesi’ni Vedat Günyol Deneme Ödülleri Yürütme Kurulu’nda 
 Öte yandan Türkiye Yazarlar Sendikası Başkanı değerli yazar Adnan Özyalçıner Seçici Kurul’a davet edildi. Özyalçıner bu çağrıyı kabul ederek Seçici Kurul’a katıldı.
 Kartal Belediye Başkanlığı’na seçildiğinden Seçici Kurul’dan ayrılan Gökhan Yüksel‘in yerine, Kartal Belediyesi Başkan Yardımcısı Adem Uçar Seçici Kurul’a katıldı.
 
-[Başvuru için](https://vedatgunyol.wordpress.com/category/vedat-gunyol-deneme-odulu/4-vedat-gunyol-deneme-odulu/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](https://vedatgunyol.wordpress.com/category/vedat-gunyol-deneme-odulu/4-vedat-gunyol-deneme-odulu/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

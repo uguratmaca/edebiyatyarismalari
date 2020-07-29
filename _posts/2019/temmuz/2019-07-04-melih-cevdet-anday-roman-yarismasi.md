@@ -70,4 +70,4 @@ B)	 Ödül töreni 24 Ağustos 2019 tarihinde Ören mahallesinde düzenlenecekti
  
     İrtibat Telefonu: : 0 2525121416 - dâhili: 112’dir
 
-[Başvuru için](http://www.milas.bel.tr/index.php?modul=9_1&lang=tr&ID=1814&pID=1&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://www.milas.bel.tr/index.php?modul=9_1&lang=tr&ID=1814&pID=1&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

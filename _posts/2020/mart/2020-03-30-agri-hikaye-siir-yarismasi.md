@@ -52,4 +52,4 @@ Biçim Kuralları:
 
 Güncelleme: Son başvuru tarihi
 
-[Başvuru Linki](https://yarisma.agri.edu.tr/basvuru.aspx?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvuru Linki](https://yarisma.agri.edu.tr/basvuru.aspx?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -52,4 +52,4 @@ Katılımcılar için herhangi bir şehir veya bölge sınırlaması yoktur. Yur
 - Belgeler posta ile gönderilmeyecek olup sadece belirtilen e-posta adreslerine 6 Mart 2021 tarihine kadar aktarılacaktır.
 - Kazanılan para ödülleri Türkiye’de hizmet veren bir banka şubesindeki -bizzat kazanan kişiye ait- IBAN numarasına 16 Mart 2021 tarihine kadar yatırılacaktır. Ödül kazanılması durumunda yonetici@simitcay.com’a gönderilen IBAN beyanları dikkate alınacaktır. Beyan hususunda yaşanan herhangi bir aksaklıktan yarışma kurulu sorumlu değildir.
 
-### [Yarışmaya katılmak için](http://simitcay.com/wp-admin/admin-ajax.php?action=frm_forms_preview&form=2020-siir-yarismasi-simit-cay-edebiyat-etkinlikleri&ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+### [Yarışmaya katılmak için](http://simitcay.com/wp-admin/admin-ajax.php?action=frm_forms_preview&form=2020-siir-yarismasi-simit-cay-edebiyat-etkinlikleri&ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

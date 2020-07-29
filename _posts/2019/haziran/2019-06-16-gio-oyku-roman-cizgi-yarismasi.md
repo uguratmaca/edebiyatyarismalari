@@ -89,4 +89,4 @@ FABİSAD Nurtanesi Sok. Kardeşler Apt. 17/3 Abbasağa Beşiktaş- İstanbul adr
 Danışma: E-posta: gioodulleri@fabisad.com
 
 
-[Başvuru için](http://www.fabisad.com/haber/2019-gio-basvuru-sartlari/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://www.fabisad.com/haber/2019-gio-basvuru-sartlari/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

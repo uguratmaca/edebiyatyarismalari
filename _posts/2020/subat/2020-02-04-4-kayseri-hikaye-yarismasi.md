@@ -34,4 +34,4 @@ Kayseri Büyükşehir Belediyesi tarafından her yıl geleneksel olarak düzenle
 16. Ödül töreni tarihi daha sonra Kayseri Büyükşehir Belediyesi’nin internet sitesinde veya ulusal ve yerel basında ilan edilecektir.
 17. Yarışmaya Katılan herkes bu şartnameyi kabul etmiş sayılacaktır.
 
-[Başvuru Formu](http://portal.kayseri.bel.tr/birim/kultursosyal/yarisma.aspx?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](http://portal.kayseri.bel.tr/birim/kultursosyal/yarisma.aspx?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

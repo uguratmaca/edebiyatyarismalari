@@ -28,5 +28,5 @@ Birinci :  Asiye adlı öyküsüyle  Dursaliye Şahan  (İngiltere )kazandı.
 Üçüncü:  Tahtadan Dünyalar Ateş Aldı Sobadan öyküsüyle Serra Gök (Türkiye- İstanbul) kazandı.
 Dördüncü : İntikam Bazen Bir Aperatiftir adlı öyküsüyle Kerime Sak ( Türkiye - İstanbul) kazandı.
 
-[Detaylar ve Başvuru için](http://www.kamuajans.com/guncel/avrupa-2-oyku-yarismasi-basladi-h534357.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
-[Kazanan Öyküleri Okumak için](http://www.gundem.be/tr/kultur-sanat/avrupa-2-oyku-yarismasi-sonuclandi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://www.kamuajans.com/guncel/avrupa-2-oyku-yarismasi-basladi-h534357.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+[Kazanan Öyküleri Okumak için](http://www.gundem.be/tr/kultur-sanat/avrupa-2-oyku-yarismasi-sonuclandi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

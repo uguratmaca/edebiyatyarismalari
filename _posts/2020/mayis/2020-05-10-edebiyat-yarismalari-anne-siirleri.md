@@ -30,13 +30,13 @@ Edebiyatyarismalari olarak her ay yeni bir yarışma düzenleme serüvenine baş
 - Birincilerin şiirleri sitemizde yayınlanacaktır.
 
 Jüri  
-- [Alper Kaya, Yazar](http://www.alperkaya.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}  
-[Kitapları](https://kidega.com/yazar/alper-kaya-095464?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}  
-- [Uğur Atmaca](https://www.linkedin.com/in/atmacaugur/){:rel="nofollow"}{:target="_blank"}  
+- [Alper Kaya, Yazar](http://www.alperkaya.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}  
+[Kitapları](https://kidega.com/yazar/alper-kaya-095464?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}  
+- [Uğur Atmaca](https://www.linkedin.com/in/atmacaugur/){:rel="nofollow"}{:target="_blank"}{:class="gtag"}  
 
 Takvim  
 Son başvuru tarihi: 31 Mayıs 2020  
 Ön değerlendirme: 5 Haziran 2020  
 Sonuçların açıklanması: 9 Haziran 2020  
 
-[Yarışmaya katılmak için](https://forms.gle/CZzqcBz97PJAkpSQA){:rel="nofollow"}{:target="_blank"}
+[Yarışmaya katılmak için](https://forms.gle/CZzqcBz97PJAkpSQA){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

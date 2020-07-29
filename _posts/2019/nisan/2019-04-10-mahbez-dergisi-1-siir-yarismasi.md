@@ -20,4 +20,4 @@ Birinci Șiir Yarışması
 
 Yarışma Usulü: Yarışmaya Katılan Eserler Arasından Editörlerimizin Seçtiği 8 Şiir Finalist Olacak. Final Oylamalarını Instagram Hesabımızdan Takipçilerimiz Yapacak. Eleminasyon Sistemine Göre Her Eşleşmede Bir Şiir Üst Kademeye Taşınacak ve Birinci Belirlenecek.
 
-[Detaylar ve başvuru için](https://twitter.com/mahbezdergi/status/1109228687893979137?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://twitter.com/mahbezdergi/status/1109228687893979137?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

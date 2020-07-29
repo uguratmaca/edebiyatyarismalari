@@ -22,4 +22,4 @@ Türk Milleti Milli mücadeleyi ailece yaptığına göre, her ailede mutlaka ş
 Proje sayesinde cephe gerisinin isimsiz kahramanları, unutulmuş olayları, kaybolmuş binaları/ortamları kapsamlı bir alan çalışmasıyla ortaya çıkarılması, son kuşak torunlar tarafından çağdaş, özgün edebi eserlere dönüştürülmesi, ebedileştirilmesi ve üretilmesi sağlanacaktır.  Özellikle genç nesilde farkındalık, tarih bilinci oluşturmak ve minnet duygusu tesis etmek mümkün olacaktır.
 
 
-[Detaylar ve Başvuru için](http://prosds.istiklalyolu.com/sartname-2/sartname/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://prosds.istiklalyolu.com/sartname-2/sartname/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

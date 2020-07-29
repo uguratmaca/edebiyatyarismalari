@@ -35,4 +35,4 @@ Biraz karışık oldu, farkındayım. O nedenle hemen bir özet geçiyorum:
 - Ödüller daha sonra açıklanacak ancak ciddi ciddi mutlu olacağınız şeyler olduğunu hayal edebilirsiniz. 
 - Umarım 19 Mayıs'da başlatacağımız bu yarışma, 19 Mayıs 1919'da Samsun'a çıkan Atatürk'ün ülkemizin kaderini değiştirmesine uzanan yolculuğunun başlangıcı gibi Türkiye'de internet romancılığının ve yaratıcı yazarlığın başlangıcı olur. Herkese başarılar diliyoruz!
 
-[Hikayenin paylaşılacağı site:](https://www.epiknovel.com/duyuru/63/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Hikayenin paylaşılacağı site:](https://www.epiknovel.com/duyuru/63/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -32,4 +32,4 @@ image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot
 
 - Seçici Kurul; Cemil Kavukçu, Müge İplikçi, Semih Gümüş, Selim İleri ve Handan İnci'den oluşmaktadır.
 
-[Detaylar ve başvuru için](https://www.everestyayinlari.com/haber-detay.php?h=215&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.everestyayinlari.com/haber-detay.php?h=215&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

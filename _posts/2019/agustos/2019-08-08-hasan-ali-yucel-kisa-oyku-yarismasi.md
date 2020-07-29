@@ -46,4 +46,4 @@ Türkçeyi kullanma gücü (Anlatılmak isteneni, ifade edebilecek doğru sözc�
 Üslup ( Etkili bir başlangıç yapabilme ve uygun başlık koyabilme, anlaşılır bir anlatım düzeni oluşturma) (25 Puan)
 Öykü metninin temaya uygunluğu ve etkileyiciliği (25 Puan)
 
-[Başvuru için](http://oygm.meb.gov.tr/kisaoyku/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://oygm.meb.gov.tr/kisaoyku/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

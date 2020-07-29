@@ -54,6 +54,6 @@ Posta Gönderim Adresi
 Kapadokya Üniversitesi, Mustafapaşa Yerleşkesi, 50420 - Mustafapaşa, Ürgüp / Nevşehir  
 Kargo gönderimlerini, üniversitemizin anlaşmalı olduğu Aras ve Yurtiçi Kargo ile yapmanız gerekmektedir.  
 
-[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kapadokya-oyku-yazma-yarismasi-basvuru-formu.docx?alt=media&token=2c64da9b-064c-498a-ab41-913c9b5fc8eb){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kapadokya-oyku-yazma-yarismasi-basvuru-formu.docx?alt=media&token=2c64da9b-064c-498a-ab41-913c9b5fc8eb){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 
-[Veli Onay Belgesi](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kapadokya-oyku-yazma-yarismasi-veli-onay-belgesi.docx?alt=media&token=43dd5d75-2cff-4994-b73a-e8158826caa8){:rel="nofollow"}{:target="_blank"}
+[Veli Onay Belgesi](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kapadokya-oyku-yazma-yarismasi-veli-onay-belgesi.docx?alt=media&token=43dd5d75-2cff-4994-b73a-e8158826caa8){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

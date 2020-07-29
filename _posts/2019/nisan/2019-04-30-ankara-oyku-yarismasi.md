@@ -29,4 +29,4 @@ image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot
 14. Eser sahibi eserinin yarışmada dereceye girmesi durumunda yarışma eseri olduğu açıklanmak şartıyla istediği mecralarda eserini telifsiz olarak yayınlayabilir. 
 15. Yarışmaya eser gönderen herkes yarışma şartlarını kabul etmiş sayılır.
 
-[Detaylar ve başvuru için](https://www.facebook.com/ilefankara/photos/a.1843381509315139/2286943841625568/?type=3&theater&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.facebook.com/ilefankara/photos/a.1843381509315139/2286943841625568/?type=3&theater&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

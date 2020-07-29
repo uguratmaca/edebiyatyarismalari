@@ -57,5 +57,5 @@ Yarışmaya katılan öykülerin daha önce düzenlenen benzer yarışmalarda de
 - Ödüle değer görülüp de ödül törenine katılamayan öğrencilerin ve öğretmenlerinin ödülleri kargo ile adreslerine gönderilecektir.
 - Son başvuru tarihinden sonra gönderilen öyküler değerlendirmeye alınmayacaktır.
 
-[Başvuru Formu](https://docs.google.com/forms/d/e/1FAIpQLSfgkDAMoBucaCQMjjCgdRgyRJEEFO6HkdgUKny-yjfXKsoEFg/viewform?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://docs.google.com/forms/d/e/1FAIpQLSfgkDAMoBucaCQMjjCgdRgyRJEEFO6HkdgUKny-yjfXKsoEFg/viewform?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 

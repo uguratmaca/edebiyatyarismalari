@@ -66,5 +66,5 @@ Adres: Arifiye mah. Belediye sok. Selami Vardar İş Merkezi Kat:3 No:21
 Odunpazarı / ESKİŞEHİR  
 E-Posta Adresi: oykuyarismasi@eskisehir.bel.tr
 
-[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/evde-kal-oyku-yarismasi-basvuru-formu.pdf?alt=media&token=938e60c6-f199-40d2-8353-940f58fec9f8){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/evde-kal-oyku-yarismasi-basvuru-formu.pdf?alt=media&token=938e60c6-f199-40d2-8353-940f58fec9f8){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 

@@ -56,4 +56,4 @@ CTE İstanbul Eğitim Başkanı Hâkim Bedir FİDAN
 Adres: Fatih Sultan Mehmet Vakıf Üniversitesi, Haliç Yerleşkesi Sütlüce Mah. Karaağaç Cad. No:12/A Beyoğlu / İSTANBUL
 İrtibat Numarası : 0539 657 66 38
 
-[Başvuru Formu](http://sks.fsm.edu.tr/makale_yarismasi_basvuru_formu?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](http://sks.fsm.edu.tr/makale_yarismasi_basvuru_formu?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

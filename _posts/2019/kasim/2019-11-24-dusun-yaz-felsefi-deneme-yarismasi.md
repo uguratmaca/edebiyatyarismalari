@@ -56,4 +56,4 @@ Beşinciye, tablet
 Diğer finalistlere ise olanaklar ölçüsünde çeşitli hediyeler ve kitap ödülleri.
 Tüm katılımcılara teşekkür ve katılım belgesi.
 
-[Başvuru ve Detaylar İçin](http://www.dusunyaz.com/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru ve Detaylar İçin](http://www.dusunyaz.com/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

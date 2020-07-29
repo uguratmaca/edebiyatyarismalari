@@ -36,4 +36,4 @@ Katılımcılar, yarışmaya birden fazla metinle -aynı rumuzu yazmak kaydıyla
 Seçici kurul gerek gördüğünde özel ve övgüye değer oyun ödülleri verebilir. Ancak yukarıda da anlatıldığı gibi Geleneksel Anadolu Tiyatrosu’ndan (Orta oyunu, Meddah, Dramatik Köylü Oyunları vb.) beslenen, kalıplarını, biçem özelliklerini ve gelenekseli moderne taşıyan oyunlar olmalıdır.
 Güzel Ordu Kültür Sanat Derneği yarışma sonunda ödül alan eserleri, yazarın adı belirtilmesi koşuluyla ticari amaç gözetmeksizin etkinliklerinde, derneğin web sitesinde, sosyal medya hesaplarında ve tarafımızdan bastırılacak kitaplarda yayınlanması yarışmacı tarafından kabul edilmiş sayılır.
 
-[Detaylar ve başvuru için](http://gzlordu.org/yarismalar/tiyatro-ve-oyun-yazma/sartname?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://gzlordu.org/yarismalar/tiyatro-ve-oyun-yazma/sartname?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

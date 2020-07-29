@@ -16,4 +16,4 @@ Türkiye’de hali hazırda eğitim gören uluslararası öğrenci sayısı resm
 
 Türkiye’de öğrenim gören uluslararası öğrencilerin Türkiye hakkındaki düşüncelerini ortaya koymalarına fırsat sağlamak. Türkiye’de öğrenim gören uluslararası öğrencilerin becerilerini ortaya koymalarını sağlamak. Türkiye’de öğrenim gören uluslararası öğrencilerin organizasyon becerisini arttırmak. Türkiye’de öğrenim gören uluslararası öğrencilerin sosyal yaşamlarına katkıda bulunmak. Türkiye’de öğrenim gören uluslararası öğrencilerin kültürel etkinliklerine katkıda bulunmak. Türkiye’de öğrenim gören uluslararası öğrencilerin farkındalığını arttırmak. Türkiye’de öğrenim gören uluslararası öğrenci hareketliliğini arttırabilmek.
 
-[Başvuru için](http://benimulkemturkiyeyarismasi.com/index.php?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://benimulkemturkiyeyarismasi.com/index.php?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

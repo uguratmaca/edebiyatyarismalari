@@ -77,4 +77,4 @@ Belgegeçer: 0362 230 19 49
 E-Posta: samsun1@ebs.org.tr  
 Web: http://samsun1.ebs.org.tr/
  
- [Başvuru Formu](https://ebssamsun.site/yarisma/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+ [Başvuru Formu](https://ebssamsun.site/yarisma/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

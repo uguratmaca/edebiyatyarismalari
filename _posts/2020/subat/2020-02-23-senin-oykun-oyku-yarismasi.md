@@ -58,4 +58,4 @@ Fethiye, Küre Sokak A-B Blok No:2, 16140 Nilüfer/Bursa
 TEL:  0224 245 10 80  
 bilgi@kaplanokullari.com
 
-[Öykü Yarışmasına Başvur](http://seninoykun.com/oykunu-gonder/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Öykü Yarışmasına Başvur](http://seninoykun.com/oykunu-gonder/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

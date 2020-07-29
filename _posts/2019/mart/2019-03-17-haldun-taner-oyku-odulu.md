@@ -17,4 +17,4 @@ Milliyet gazetesince 30 yıldır verilen Türk edebiyatının en saygın ödüll
 
 Başvuru sırasında aday gösterilecek ismin imzalı onay yazısı da eklenerek başvuru adresine gönderilecek. 20 bin TL’lik ödül için değerlendirilecek aday kitapların, 3 Nisan Çarşamba günü saat 17.00’ye kadar "Milliyet Ödülleri, Milliyet Gazetesi, Demirören Medya Center, 100. Yıl Mah. 2264. Sok. No:1 Bağcılar/İstanbul" adresine gönderilmesi gerekiyor.
 
-[Detaylar ve başvuru için](https://www.posta.com.tr/haldun-taner-oyku-odulu-icin-son-basvuru-3-nisan-2120943?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.posta.com.tr/haldun-taner-oyku-odulu-icin-son-basvuru-3-nisan-2120943?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

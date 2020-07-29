@@ -59,4 +59,4 @@ Değişiklik ve İptal
 - Türkiye Sinema ve Audiovisuel Kültür Vakfı, “Filmimin Hikâyesi” Yarışması ile ilgili iptal ve değişiklik haklarını saklı tutar.
 - Yarışmaya yapılan başvurular yalnızca ebeveynler tarafından ve en geç 24 Mart 2020 saat 18:00’e kadar iptal edilebilir. Bu tarihten sonra gelecek başvuru iptal talepleri geçersiz olacaktır.
 
-[İzin Yazısı](https://storage.tursak.org.tr/source//1/Filmimin_Hikayesi_Izin_Yazisi.pdf?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[İzin Yazısı](https://storage.tursak.org.tr/source//1/Filmimin_Hikayesi_Izin_Yazisi.pdf?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -59,5 +59,5 @@ Seçici Kurul
 6. Yasin ÇETİN (SBB Kültür ve Sanat Şube Müdürü)
 7. Ercan YILMAZ (Şair-Edebiyat Öğretmeni)
 
-[Başvuru Linki](https://docs.google.com/forms/d/e/1FAIpQLSeo2njLTev-Eb0_XdyNCtKY_3FnMAGGYThOYvKOJZNxYfMFqg/viewform?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvuru Linki](https://docs.google.com/forms/d/e/1FAIpQLSeo2njLTev-Eb0_XdyNCtKY_3FnMAGGYThOYvKOJZNxYfMFqg/viewform?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 

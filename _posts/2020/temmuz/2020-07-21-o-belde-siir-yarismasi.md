@@ -60,4 +60,4 @@ Tüm katılımcılara başarılar dileriz.
 Bu yazıyı paylaşarak destek olmanızı rica ederiz.  
 Devletle.  
 
-### [O Belde Forum](https://obelde.com/forum/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+### [O Belde Forum](https://obelde.com/forum/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

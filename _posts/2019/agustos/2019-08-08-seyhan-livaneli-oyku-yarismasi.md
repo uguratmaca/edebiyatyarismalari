@@ -29,4 +29,4 @@ Yarışmaya Her Katılımcı En Fazla 3 Öyküden Oluşan Bir Dosya İle Katıla
 • Seçici kurul oy çokluğuyla karar verecektir. Seçici kurul üyelerinin birinci dereceden yakınları yarışmaya katılamaz.
 • Yarışma için ‘seyhanlivanelioykuyarismasi@gmail.com’ adresinden detaylı bilgi alınabilir.
 
-[Başvuru için](https://www.facebook.com/Seyhan-Livaneli-%C3%96yk%C3%BC-Yar%C4%B1%C5%9Fmas%C4%B1-2363338480381137/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](https://www.facebook.com/Seyhan-Livaneli-%C3%96yk%C3%BC-Yar%C4%B1%C5%9Fmas%C4%B1-2363338480381137/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

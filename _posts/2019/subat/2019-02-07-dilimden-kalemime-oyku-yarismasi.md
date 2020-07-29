@@ -19,4 +19,4 @@ YARIŞMA KOŞULLARI
     Her okul yarışmaya en fazla iki öğrenciyle katılabilir. Öğrenciler aynı ya da farklı sınıf
 seviyesinde olabilirler. 
 
-[Detaylar ve Başvuru için](http://www.mevkolejiguzelbahce.k12.tr/duyurular/dilimden-kalemime-oyku-yarismasi-2/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://www.mevkolejiguzelbahce.k12.tr/duyurular/dilimden-kalemime-oyku-yarismasi-2/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

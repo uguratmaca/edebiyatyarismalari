@@ -34,4 +34,4 @@ Not: Telefon kullanmayan çocuklar ebeveynlerinin telefonunu kullanabilir yarı�
 
 Beğenilen 10 çalışmayı 21 nisanda instagram hesabımızdan oylama ile seçeceğiz.  Takipte kalınız.
 
-[Başvuru Formu](https://docs.google.com/forms/d/e/1FAIpQLSd-0O0tQeiYjufMsrku6fSKC-4e6rqex5UgaGBOdZ-z-Dy6cw/viewform?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://docs.google.com/forms/d/e/1FAIpQLSd-0O0tQeiYjufMsrku6fSKC-4e6rqex5UgaGBOdZ-z-Dy6cw/viewform?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

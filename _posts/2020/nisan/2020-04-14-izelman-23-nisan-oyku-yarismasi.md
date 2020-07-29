@@ -103,8 +103,8 @@ Son Hükümler:
 İletişim  
 İzelman A.Ş. Anaokulları Müdürlüğü 
 
-[Ek-1](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/23-nisan-oyku-yarismasi-ek-1.pdf?alt=media&token=07d8b718-9277-4a19-9c5e-fae462bf1c09){:rel="nofollow"}{:target="_blank"}
+[Ek-1](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/23-nisan-oyku-yarismasi-ek-1.pdf?alt=media&token=07d8b718-9277-4a19-9c5e-fae462bf1c09){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 
-[Ek-2](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/23-nisan-oyku-yarismasi-ek-2.pdf?alt=media&token=6fc67eb9-2dff-418b-9332-0aedb8ace793){:rel="nofollow"}{:target="_blank"}
+[Ek-2](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/23-nisan-oyku-yarismasi-ek-2.pdf?alt=media&token=6fc67eb9-2dff-418b-9332-0aedb8ace793){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 
 

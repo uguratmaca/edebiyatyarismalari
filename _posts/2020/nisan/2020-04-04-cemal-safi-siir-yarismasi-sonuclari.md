@@ -32,4 +32,4 @@ Türk Dünyası Özel Ödülleri
 1. Sen Öpünce, Aypara MEHMANOVA (Azerbaycan)
 2. Sonsuzluk Hatırası, Nikbin ABBASOV (Azerbaycan)
 
-[Şiirleri Okumak İçin](https://www.ilkadim.bel.tr/uploads/files/%C5%9Eiirler.pdf?ref=edebiyatyarismalaricom){:rel="nofollow"}{:target="_blank"}
+[Şiirleri Okumak İçin](https://www.ilkadim.bel.tr/uploads/files/%C5%9Eiirler.pdf?ref=edebiyatyarismalaricom){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

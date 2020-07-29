@@ -57,4 +57,4 @@ Teknik Şartlar (Fotoğraf)
 4) Fotoğrafların kenarında boşluk veya paspartu kullanılmayacaktır.
 5) Fotoğrafların üzerinde, fotoğrafı çeken kişiye ait herhangi bir bilgi, logo bulunmayacaktır.
 
-[Katılım Formu](https://buyukcekmece.meb.gov.tr/meb_iys_dosyalar/2019_09/30124620_Yyi_ki_OYretmenim_YarYYmasY_Yartnamesi.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc#oykugio){:rel="nofollow"}{:target="_blank"}
+[Katılım Formu](https://buyukcekmece.meb.gov.tr/meb_iys_dosyalar/2019_09/30124620_Yyi_ki_OYretmenim_YarYYmasY_Yartnamesi.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc#oykugio){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

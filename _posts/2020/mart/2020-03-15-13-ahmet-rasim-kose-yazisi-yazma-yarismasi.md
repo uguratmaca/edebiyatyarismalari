@@ -37,5 +37,5 @@ Amaç
 - Veli ya da vasiden alınan imzalı izin belgesi taranmış ya da fotoğrafı çekilmiş olarak maile eklenerek gönderilmelidir.
 - Katılımcıların vesikalık fotoğrafları kendi adları ve soyadlarıyla kaydedilip maile eklenmelidir.
 
-[Katılım ve İzin Formları](https://www.darussafaka.k12.tr/ahmet-rasim-yasiyor/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Katılım ve İzin Formları](https://www.darussafaka.k12.tr/ahmet-rasim-yasiyor/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 

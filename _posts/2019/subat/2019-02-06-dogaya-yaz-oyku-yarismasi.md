@@ -20,6 +20,6 @@ Birincilik Ödülü : iPad
 Mansiyon Ödülü: Okuma kitaplarından oluşan hediye paketi
 
 
-[Detaylar ve Başvuru için](http://www.dogayayaz.com/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://www.dogayayaz.com/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 
-[Öykü Yarışması Sonuçları](https://kitapeki.com/dogaya-yazin-6incisi-sona-erdi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Öykü Yarışması Sonuçları](https://kitapeki.com/dogaya-yazin-6incisi-sona-erdi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

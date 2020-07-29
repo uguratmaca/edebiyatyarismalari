@@ -56,4 +56,4 @@ Yarışmacı iş bu yarışmaya katılmakla, ‘’6698 sayılı Kişisel Verile
 
 Yarışmaya başvuran her bir katılımcı işbu şartnamede yer alan başvuru koşullarını kabul etmiş sayılır.
 
-[Başvuru için](http://vrlab.aydin.edu.tr/2019/07/29/sigarasiz-yasam-senaryo-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://vrlab.aydin.edu.tr/2019/07/29/sigarasiz-yasam-senaryo-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

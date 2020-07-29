@@ -91,4 +91,4 @@ Diğer Hususlar
 İrtibat e mail: 3nokta@3nokta.com
 İrtibat Kurulacak İlgili: Sabrican Akpına
 
-[Katılım Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/hayal-melodileri-resim-yarismasi-katilim-formu.pdf?alt=media&token=ddd86bbd-9d50-4248-b1b5-c36ae09b1f10){:rel="nofollow"}{:target="_blank"}
+[Katılım Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/hayal-melodileri-resim-yarismasi-katilim-formu.pdf?alt=media&token=ddd86bbd-9d50-4248-b1b5-c36ae09b1f10){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

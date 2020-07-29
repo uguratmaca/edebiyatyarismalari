@@ -56,4 +56,4 @@ Hasan Bayrı Şiir Yarışması ile ilgili ayrıntılı bilgi için: Emir Can SU
 (Bartın Belediyesi Özel Kalem Müdürlüğü Basın Yayın ve Halkla İlişkiler Şubesi)   Telefon:03782270232-05307617119 Fax:03782274013
 bartinbelediyesi@gmail.com / belediyebasinservisi@gmail.com
 
-[Başvuru için](https://bartin.bel.tr/22-hasan-bayri-siir-yarismasi-basvurulari-basladi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](https://bartin.bel.tr/22-hasan-bayri-siir-yarismasi-basvurulari-basladi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -44,4 +44,4 @@ Yarışmaya katılan eserlerin, intihal (çalıntı) veya suç unsuru içermesi 
 Yarışmaya katılanlar yukarıdaki şartları kabul etmiş sayılacaktır.
 Yarışmayla ilgili her türlü duyuru www.nadirhastaliklar.org.tr adresinden ilan edilecektir.
 
-[Başvuru için](http://www.nadirhastaliklar.org.tr/duyurular/hayata-tutunma-oykuleri-2020/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://www.nadirhastaliklar.org.tr/duyurular/hayata-tutunma-oykuleri-2020/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

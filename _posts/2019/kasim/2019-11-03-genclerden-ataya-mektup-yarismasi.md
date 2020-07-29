@@ -56,4 +56,4 @@ Bilgi Evleri Halkla İlişkiler Birimi
 İrtibat Telefonu: 444 4 360 (Dâhili 8965)
 (Hafta içi 09 00-17 00 saatleri arası)
 
-[Başvuru Formu](http://kucukcekmecebilgievleri.com/Yarisma/Genclerdenatayasiir2020/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc#oykugio){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](http://kucukcekmecebilgievleri.com/Yarisma/Genclerdenatayasiir2020/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc#oykugio){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

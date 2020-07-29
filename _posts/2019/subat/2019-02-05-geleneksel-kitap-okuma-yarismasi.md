@@ -23,4 +23,4 @@ Her Grubun;
 
 Ayrıca ilk 3’e girecek olan adaylar, ailelerinden iki kişiyle birlikte Çanakkale Yaz Kampı’na gitmeye hak kazanacaklar. 5 gece 6 gün sürecek olan kampın tüm masrafları Zeytinburnu Belediyesi tarafından karşılanacak. Kaybedeni olmayan yarışmanın ödül töreni 23 Mart 2019 Cumartesi günü saat 14.00’te Zeytinburnu Kültür ve Sanat Merkezinde gerçekleştirilecek.
 
-[Detaylar ve Başvuru için](http://www.bilgievi.org.tr/Haberler/2504/Geleneksel-Kitap-Okuma-Yarismasi--Basladi.aspx?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://www.bilgievi.org.tr/Haberler/2504/Geleneksel-Kitap-Okuma-Yarismasi--Basladi.aspx?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -14,4 +14,4 @@ image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot
 Cumba Kültür ve Sanat Platformu Şiir ve Öykü Yarışması
 İlk on sıralamasına giren eserler ve sahipleri 2 Eylül Pazartesi günü İnternet sayfamızda yayınlanacaktır. Şiir ve öykü dalında ilk 3'e girenler plaket ile ödüllendirilecektir. Hem şiir hem öykü dalında ilk on sıralamasına giren eserler, NİB Alüminyum A.Ş. ve ARTE Alüminyum San. ve Tic. Ltd. Şti. sponsorluğunda Yarışma Seçkileri adı altında toplanarak kitaplaştırılacak ve ayrıca yine ilk on sıralamasına girenlere katılım belgesi verilecektir. Ödül ve katılım belgeleri 28 Eylül 2019 Cumartesi günü 18:30’da Altunizade Kültür Merkezinde yapılacak törenle verilecektir. 
 
-[Detaylar ve Başvuru için](https://www.facebook.com/groups/cumbasanatplatformu/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://www.facebook.com/groups/cumbasanatplatformu/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

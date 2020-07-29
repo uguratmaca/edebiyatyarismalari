@@ -36,4 +36,4 @@ Turgay Coşkun (hikâyeci)
 
 **Teslim adresi:** YAZARLIK AKADEMİSİ DERNEĞİ Alemdar Mah. Alayköşkü Cad. Hasoğlu İşhanı K: 3 Cağaloğlu Fatih/İstanbul tel: (0212) 512 88 77  
 
-[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/yazak-turkiye-geneli-7-oyku-yarismasi-basvuru-formu.doc?alt=media&token=b0cec237-e1df-4fbc-992f-9d88f62760e7){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/yazak-turkiye-geneli-7-oyku-yarismasi-basvuru-formu.doc?alt=media&token=b0cec237-e1df-4fbc-992f-9d88f62760e7){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

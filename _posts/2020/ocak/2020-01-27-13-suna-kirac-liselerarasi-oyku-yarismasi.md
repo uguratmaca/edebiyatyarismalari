@@ -59,5 +59,5 @@ Koç Okulu - Lise
 Tepeören Mahallesi, Eski Ankara Asfaltı Caddesi  
 No: 60 Tuzla/İstanbul
 
-[Başvuru Formu](https://form.jotform.com/sunakiracoykuyarismasi/2020?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://form.jotform.com/sunakiracoykuyarismasi/2020?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 

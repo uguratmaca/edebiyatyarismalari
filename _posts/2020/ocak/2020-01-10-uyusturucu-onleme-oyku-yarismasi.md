@@ -83,4 +83,4 @@ Tel : 0312 462 80 68
       0312 462 80 72
 E-Posta : narkoyarisma@egm.gov.tr ve oykuyarismasi@egm.gov.tr
 
-[Katılım Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/uyusturucu-madde-kullanimi-onleme-oyku-yarismasi-katilim-formu.pdf?alt=media&token=be7fcf23-e1d5-444a-9401-9ca9db105f1a){:rel="nofollow"}{:target="_blank"}
+[Katılım Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/uyusturucu-madde-kullanimi-onleme-oyku-yarismasi-katilim-formu.pdf?alt=media&token=be7fcf23-e1d5-444a-9401-9ca9db105f1a){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

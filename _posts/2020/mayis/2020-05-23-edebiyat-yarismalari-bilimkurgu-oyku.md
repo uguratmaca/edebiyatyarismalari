@@ -30,13 +30,13 @@ Edebiyatyarismalari.com web sitemizin 2. yarışmasının tipini **Kısa Öykü 
 - Birincilerin öyküleri sitemizde yayınlanacaktır.
 
 Jüri  
-- [Alper Kaya | Gazeteci, Yazar](http://www.alperkaya.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}  
-[Kitapları](https://kidega.com/yazar/alper-kaya-095464?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}  
-- [Uğur Atmaca](https://www.linkedin.com/in/atmacaugur/){:rel="nofollow"}{:target="_blank"}  
+- [Alper Kaya | Gazeteci, Yazar](http://www.alperkaya.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}  
+[Kitapları](https://kidega.com/yazar/alper-kaya-095464?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}  
+- [Uğur Atmaca](https://www.linkedin.com/in/atmacaugur/){:rel="nofollow"}{:target="_blank"}{:class="gtag"}  
 
 Takvim  
 Son başvuru tarihi: 30 Haziran 2020  
 Ön değerlendirme: 10 Temmuz 2020  
 Sonuçların açıklanması: 31 Temmuz 2020  
 
-### [Yarışmaya katılmak için](https://forms.gle/CoQbEd5q8mTjGVho6){:rel="nofollow"}{:target="_blank"}
+### [Yarışmaya katılmak için](https://forms.gle/CoQbEd5q8mTjGVho6){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

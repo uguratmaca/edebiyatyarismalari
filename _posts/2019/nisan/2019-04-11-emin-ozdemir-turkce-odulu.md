@@ -29,4 +29,4 @@ Yaşamı boyunca Dil Devriminin ödünsüz savunucusu olan 1 Eylül 2017’de yi
 Bilgi için :
 Tel. 0312-425 83 60 /belgeç. 0312- 417 33 28
 
-[Detaylar ve başvuru için](http://www.dildernegi.org.tr/TR,1098/emin-ozdemir-turkce-odulu-katilim-kosullari.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://www.dildernegi.org.tr/TR,1098/emin-ozdemir-turkce-odulu-katilim-kosullari.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

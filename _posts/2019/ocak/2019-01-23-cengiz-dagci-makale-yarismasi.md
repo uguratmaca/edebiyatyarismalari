@@ -22,4 +22,4 @@ Gönderilecek eserlerin daha önce hiçbir yarışmaya gönderilmemiş olması, 
 
 Eserlerin Gönderileceği Adres: Türk Ocakları Bursa Şubesi, Kurtoğlu Mahallesi, 1. Yeşil Cadde, 8 A, 16360 Yıldırım-Bursa.
 
-[Detaylar ve Başvuru için](http://old.qha.com.ua/tr/egitim/ortaogretim-ogrencileri-icin-cengiz-dagci-konulu-makale-yarismasi/176300/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://old.qha.com.ua/tr/egitim/ortaogretim-ogrencileri-icin-cengiz-dagci-konulu-makale-yarismasi/176300/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

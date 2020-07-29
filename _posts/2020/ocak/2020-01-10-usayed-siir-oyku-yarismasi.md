@@ -55,4 +55,4 @@ Başvuru Başlangıç Tarihi: 02 Ocak 2020
 Son Başvuru Tarihi: 20 Haziran 2020
 Kazanan Katılımcıların İlan Edilmesi: 20 Eylül 2020
 
-[Katılım Formu](http://www.usayed.org/?pnum=10&pt=Yar%C4%B1%C5%9Fma+Ko%C5%9Fullar%C4%B1&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Katılım Formu](http://www.usayed.org/?pnum=10&pt=Yar%C4%B1%C5%9Fma+Ko%C5%9Fullar%C4%B1&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

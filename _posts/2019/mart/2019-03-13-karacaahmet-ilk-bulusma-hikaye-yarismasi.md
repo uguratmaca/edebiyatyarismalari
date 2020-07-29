@@ -27,4 +27,4 @@ Hikâyelerde genel ahlak kurallarına, Türk devleti ve milletine karşı olan; 
 Hikâyeler, TDK’nin 2012 ve sonrasında yayımladığı Yazım Kılavuzu’na uygun olarak yazılmalıdır.
 Katılımcıların yaş aralığı 15-25 arası olmalıdır.
 
-[Detaylar ve başvuru için](https://www.turkocaklari.org.tr/duyuru/karacaahmet-te-ilk-bulusma-hikaye-yarismasi-basliyor-9409?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.turkocaklari.org.tr/duyuru/karacaahmet-te-ilk-bulusma-hikaye-yarismasi-basliyor-9409?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

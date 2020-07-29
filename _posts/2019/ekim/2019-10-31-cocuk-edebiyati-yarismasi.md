@@ -53,4 +53,4 @@ Birincilik Ödülü: 1.000 TL
 2- Ödül kazanan eserlerin yayın hakları 5 (beş) yıl süreyle Kanes Yayınları-Miranka Basım Yayım Dağıtım San. Tic. Ltd. Şti’ye devredilmiş olacaktır. Yayımlanmaya karar verilmesi halinde 5846 Sayılı FSEK çerçevesinde telif sözleşmesi imzalanacaktır.
 3- Kanes Yayınları, ödül alan dosyaları yayımlamak zorunda olmadığı gibi ödül almayanlardan da seçki yapma hakkını saklı tutar. Bu durumda Yayın Kurulu tarafından seçilen eserler de yayımlanmak üzere Eser Sahibi ile görüşme yapılabilir. İki kurul birbirinden bağımsızdır
 
-[Taahhütname](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kanes-yayinlari-cocuk-edebiyati-taahh%C3%BCtname.pdf?alt=media&token=5f01c632-02ab-445d-b158-ae5be92f329a){:rel="nofollow"}{:target="_blank"}
+[Taahhütname](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kanes-yayinlari-cocuk-edebiyati-taahh%C3%BCtname.pdf?alt=media&token=5f01c632-02ab-445d-b158-ae5be92f329a){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

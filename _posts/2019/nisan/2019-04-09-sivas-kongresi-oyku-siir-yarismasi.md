@@ -46,4 +46,4 @@ Birincilik Ödülü 1.500 Türk Lirası
 İkincilik Ödülü 1.200 Türk Lirası
 Üçüncülük Ödülü 800 Türk Lirası
 
-[Detaylar ve başvuru için](https://www.guncel-egitim.org/sivas-kongresinin-100-yildonumu-kisa-oyku-ve-siir-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.guncel-egitim.org/sivas-kongresinin-100-yildonumu-kisa-oyku-ve-siir-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

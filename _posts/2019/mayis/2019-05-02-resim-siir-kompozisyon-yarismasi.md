@@ -16,4 +16,4 @@ Kategoriler:Liseler için kompoziyon, ortaokul için şiir,ilkokul için resim d
 
 Ödüller: Birinciye Sandıklı Termal Park Otelde 3 gün konaklama, İkinci ve Üçüncüye Plaket şekilnde olacaktır.
 
-[Detaylar ve başvuru için](http://yegitek.meb.gov.tr/www/863-resim-siir-ve-kompozisyon-yarismasi-yunus-emre-anadolu-lisesi/icerik/2722?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://yegitek.meb.gov.tr/www/863-resim-siir-ve-kompozisyon-yarismasi-yunus-emre-anadolu-lisesi/icerik/2722?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

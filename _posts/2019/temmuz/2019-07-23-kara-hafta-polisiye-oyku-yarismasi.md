@@ -34,6 +34,6 @@ Yarışmaya katılan öyküler ön elemeden geçirildikten sonra jüriye sunulac
 “Kara Hafta İstanbul Polisiye Öykü Yarışması”nın 2019 ödül töreni, Pera Palace Hotel’de düzenlenecek Kara Hafta İstanbul açılış töreni kapsamında 21 Kasım 2019 tarihinde gerçekleşecek, ödül kazanan dokuz katılımcının ödülleri törende takdim edilecektir.
 Yarışma birincisinin ulaşım ve 2 gece otel konaklama masrafları Kara Hafta İstanbul tarafından karşılanacaktır.
 
-[Başvuru için](https://blog.perapalace.com/etkinlik/5-kara-hafta-festivalinde-genc-yazarlar-icin-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](https://blog.perapalace.com/etkinlik/5-kara-hafta-festivalinde-genc-yazarlar-icin-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 
-[Öykü Yarışmasının Sonuçları:](https://twitter.com/karahaftaistan1/status/1186302138999345153?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Öykü Yarışmasının Sonuçları:](https://twitter.com/karahaftaistan1/status/1186302138999345153?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

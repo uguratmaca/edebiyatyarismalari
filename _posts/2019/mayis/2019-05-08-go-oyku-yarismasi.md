@@ -66,4 +66,4 @@ SANİYE YURDAKUL
 Ödül töreni gecesinin yapılacağı yer ve program bilgileri web sitemizden, sosyal medya hesaplarımızdan duyurulacak, ayrıca yarışmacıların mail adreslerine yollanacaktır.
 Bu şartname 11 maddeden ibaret olup yarışmaya başvuran kişiler tarafından kabul edilmiş sayılır.
 
-[Detaylar ve başvuru için](http://gzlordu.org/yarismalar/oyku-yarismasi/sartname?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://gzlordu.org/yarismalar/oyku-yarismasi/sartname?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

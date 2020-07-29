@@ -20,4 +20,4 @@ Yarışma, Avrupa Dayanışma Gücü Portalı’na kayıtlı ve gönüllülük f
 
 Aylık kazananlardan beş tanesine Avrupa Dayanışma Birliği promosyon seti ve 100 € değerinde bir kupon verilecek. Ayın en iyi hikayesi beş kazanan arasından online oylama ile seçilecektir. En iyi hikayeyi gönderen kişiye, en fazla bir ay boyunca yedi varış noktasına seyahat edecek bir Interrail bileti veya aynı değerdeki bir kupon verilecektir.
 
-[Başvuru için](https://europa.eu/youth/solidarity/short-story_en?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](https://europa.eu/youth/solidarity/short-story_en?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

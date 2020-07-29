@@ -40,4 +40,4 @@ Diğer Hususlar:
 1. Yarışmaya katılan tüm hikayeler Kurum tarafından sosyal medya hesaplarında paylaşılacaktır.
 2. Yarışmaya katılan tüm öğrenciler, bu şartname hükümlerini kabul etmiş sayılırlar.
 
-[Başvurmak için](http://agdyarisma.com/ortaokul/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvurmak için](http://agdyarisma.com/ortaokul/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

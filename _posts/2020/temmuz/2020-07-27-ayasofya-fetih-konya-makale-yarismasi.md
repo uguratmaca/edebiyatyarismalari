@@ -45,4 +45,4 @@ Konya Büyükşehir Belediyesi Gençlik Spor ve Eğitim Dairesi Başkanlığı t
 18. Kazananlara ödülleri kişisel/veliiban numaralından gönderilecek olup, 3 ay içerisinde gerekli bilgiler hak sahibi tarafından gönderilmezse ödül iptal olmuş sayılacaktır.
 19. İş bu şartname 2 sayfa ve 20 maddeden oluşmaktadır.
 
-### [Başvuru Formu](https://zincirlerkiriliyor.konya.bel.tr/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+### [Başvuru Formu](https://zincirlerkiriliyor.konya.bel.tr/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

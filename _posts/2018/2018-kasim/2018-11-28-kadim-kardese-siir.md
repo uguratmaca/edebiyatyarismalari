@@ -13,4 +13,4 @@ Eser sahipleri, yarışmaya serbest yahut ölçülü şiirlerle katılabilecekle
 Yarışma birincisinin şiiri Demlik dergisinde yayımlanacak ve kitap setiyle ödüllendirilecektir.
 İlk 4’e giren yarışmacıların şiirleri Demlik dergisinin sosyal medya hesaplarında yayımlanacaktır.
 
-[Detaylar ve Başvuru için](http://millidusunce.com/kadim-kardese-siir-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://millidusunce.com/kadim-kardese-siir-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

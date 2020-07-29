@@ -48,4 +48,4 @@ Mansiyon alan yarışmacıya: 2.000TL
 Ödül töreni dereceye giren yarışmacılara ayrıca bildirilecek olup dereceye giren yarışmacılar Kahramanmaraş’taki ödül törenine davet edilecek; il dışından dereceye giren yarışmacıların yol ücreti ile konaklama giderleri Kahramanmaraş Büyükşehir Belediyesi tarafından karşılanacaktır. 
 İletişim adresi: Kahramanmaraş Büyükşehir Belediyesi Kültür ve Turizm Şube Müdürlüğü Kayabaşı Mahallesi Vakıf Tarla Caddesi, No: 6  Tlf: (0344) 225 24 15-16  Dulkadiroğlu / Kahramanmaraş
 
-[Katılım Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/siir_yarismasi_yetiskinler_.docx?alt=media&token=5f2c86d5-c22a-43c5-8104-1007891e6427){:rel="nofollow"}{:target="_blank"}
+[Katılım Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/siir_yarismasi_yetiskinler_.docx?alt=media&token=5f2c86d5-c22a-43c5-8104-1007891e6427){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

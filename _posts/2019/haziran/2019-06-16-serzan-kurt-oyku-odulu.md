@@ -38,4 +38,4 @@ Aslı Perker, Ayşegül Tözeren, Belma Fırat, İrem Uzunhasanoğlu, Şengül C
 
 EĞTİM SEN BATMAN ŞUBE YÜRÜTME KURULU
 
-[Başvuru için](http://www.batmanolaygazetesi.com/haber-batman-haber-%C5%9Eerzan-Kurt-%C3%B6yk%C3%BC-%C3%B6d%C3%BCl%C3%BC-yar%C4%B1%C5%9Fma-ba%C5%9Fvurusu-ba%C5%9Flad%C4%B1-8990.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://www.batmanolaygazetesi.com/haber-batman-haber-%C5%9Eerzan-Kurt-%C3%B6yk%C3%BC-%C3%B6d%C3%BCl%C3%BC-yar%C4%B1%C5%9Fma-ba%C5%9Fvurusu-ba%C5%9Flad%C4%B1-8990.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

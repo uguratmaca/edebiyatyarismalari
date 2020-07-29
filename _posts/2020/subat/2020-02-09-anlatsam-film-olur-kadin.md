@@ -46,4 +46,4 @@ Yarışmada bir kural yok. Bir başvuran bir daha başvurabilir, ödül kazanan 
 Sonuçlar ne zaman ve nereden açıklanacak?  
 Sonuçlar; her ayın ilk günü, sosyal medya hesaplarımızdan ve websitemiz üzerinden açıklanacak. Ayrıca hediye kartlar email adreslerine gönderilecek ve kazananlarla iletişime geçilecek.
 
-[Başvuru Formu](https://anlatsamfilmolur.com/fikir-gonder/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://anlatsamfilmolur.com/fikir-gonder/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

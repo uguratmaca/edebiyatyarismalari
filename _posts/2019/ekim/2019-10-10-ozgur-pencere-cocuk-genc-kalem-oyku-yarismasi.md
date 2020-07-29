@@ -54,4 +54,4 @@ Kamuran Sungur
 **Ödüller**
 Değerlendirme sonucunda dereceye giren çocuklara plaket, öykülerinin yer aldığı öykü kitabı verilecektir. Gerekli görüldüğü takdirde özel ödül verilebilir.
 
-[Katılım Formu](http://www.ozgurpencere.com/-1.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Katılım Formu](http://www.ozgurpencere.com/-1.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

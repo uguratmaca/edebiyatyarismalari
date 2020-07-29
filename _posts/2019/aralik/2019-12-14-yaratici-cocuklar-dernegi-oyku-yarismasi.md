@@ -68,4 +68,4 @@ Kurum: Kandilli Mah. Kandilli İskele Cad. No: 3, D: 8 - 34684 Üsküdar- İstan
 Tel: 0216 332 78 58 Fax: 0216 332 76 56 Gsm: 0532 437 94 06  
 E-mail: info@yaraticicocuklardernegi.org
 
-[Başvuru Formu - Bilgi Etiketi](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/yaratici-cocuklar-dernegi-oyku-yarismasi-bilgi-etiketi.pdf?alt=media&token=853e7e4a-2ce9-45f5-ba5b-27218d8ed777){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu - Bilgi Etiketi](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/yaratici-cocuklar-dernegi-oyku-yarismasi-bilgi-etiketi.pdf?alt=media&token=853e7e4a-2ce9-45f5-ba5b-27218d8ed777){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

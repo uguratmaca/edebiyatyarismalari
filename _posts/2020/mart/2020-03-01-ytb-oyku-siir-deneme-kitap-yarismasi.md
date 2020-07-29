@@ -72,4 +72,4 @@ Mail: turkceodulleri@ytb.gov.tr
 Adres: Oğuzlar Mah. Mevlana Bulvarı, No: 145 Balgat-Çankaya, ANKARA  
 Tel: +90 312 2184000  
 
-[Başvuru Formu](https://ytbweb1.blob.core.windows.net/files/2020/2020Belgeler/T%C3%BCrk%C3%A7e%20%C3%96d%C3%BClleri%20Ba%C5%9Fvuru%20Formu-5e54e38303e1a.pdf?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://ytbweb1.blob.core.windows.net/files/2020/2020Belgeler/T%C3%BCrk%C3%A7e%20%C3%96d%C3%BClleri%20Ba%C5%9Fvuru%20Formu-5e54e38303e1a.pdf?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -18,4 +18,4 @@ Kadıköy Belediyesi’nin bu yıl 3’üncüsünü düzenlediği,  yazarların 
 
 Yarışma Seçici Kurulu’nda Türk Tiyatrosunun önde gelen isimlerinden Orhan Alkaya, Kemal Aydoğan, Cevat Çapan, Yücel Erten, Dikmen Gürün, Süreyya Karacabey, Nesrin Kazankaya  ve Ön Seçici Kurul’da Levent Aras, Günay Ertekin ve Sinem Özlek yer alıyor. Seçici kurulun ödüle değer gördüğü eserler, Kadıköy Belediyesi Kültür Yayınları tarafından geçen senelerde olduğu gibi 2020’de de kitap halinde yayımlanacak.
 
-[Detaylar ve Başvuru için](http://www.tiyatroyarismasi.kadikoy.bel.tr/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://www.tiyatroyarismasi.kadikoy.bel.tr/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

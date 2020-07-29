@@ -31,4 +31,4 @@ Ezgi Topçuoğlu - Ayla'nın Dostları
 Dereceye ve seçkiye giren yazarları tebrik ediyoruz! 
 altKitap 2019 Öykü Seçkisi en kısa zamanda yayında olacak.
 
-[Detaylar ve Başvuru için](http://www.altkitap.net/altkitap2019oykuodulu/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://www.altkitap.net/altkitap2019oykuodulu/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

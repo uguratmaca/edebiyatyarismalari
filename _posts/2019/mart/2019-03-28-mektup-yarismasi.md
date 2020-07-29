@@ -18,4 +18,4 @@ Birincilik ödülü: Ata Lira
 Dördüncülük ödülü: Ata Çeyrek Lira
 Beşincilik ödülü: Ata Çeyrek Lira
 
-[Detaylar ve başvuru için](http://yegitek.meb.gov.tr/www/834-mektup-yarismasi-egitim-ve-bilim-isgorenleri-sendikasi/icerik/2658?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://yegitek.meb.gov.tr/www/834-mektup-yarismasi-egitim-ve-bilim-isgorenleri-sendikasi/icerik/2658?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

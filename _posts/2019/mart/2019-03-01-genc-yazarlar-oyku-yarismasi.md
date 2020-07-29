@@ -20,4 +20,4 @@ hatırlamasına ve edebiyat alanında eğitim almasına katkı sağlamak amaçla
 Başvuran öyküler arasından başarılı bulunan 20 öykünün yazarı “Yükselen Genç Yazarlar”
 projesi kapsamında Yaratıcı Yazarlık Atölyesi programına katılmaya hak kazanacaktır.
 
-[Detaylar ve başvuru için](https://www.egeyonhaber.com/yukselen-genc-yazarlar-oyku-yarismasi-basliyor/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://www.egeyonhaber.com/yukselen-genc-yazarlar-oyku-yarismasi-basliyor/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

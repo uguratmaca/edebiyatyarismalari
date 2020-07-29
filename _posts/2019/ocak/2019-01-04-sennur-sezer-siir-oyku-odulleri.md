@@ -12,4 +12,4 @@ lastDate: 1552597200
 Başvuru: 15 Mart 2019
 Sennur Sezer anısına Manos Kitap ve Gıda-İş Sendikasının düzenlediği Sennur Sezer Emek-Direniş Öykü ve Şiir Yarışmasının 4.’sü için başvurular başladı.
 
-[Detaylar ve Başvuru için](https://ekmekvegul.net/etkinlik-takvimi/sennur-sezer-emek-direnis-siir-ve-oyku-odulleri-2019?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://ekmekvegul.net/etkinlik-takvimi/sennur-sezer-emek-direnis-siir-ve-oyku-odulleri-2019?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

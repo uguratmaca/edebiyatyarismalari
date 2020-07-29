@@ -19,4 +19,4 @@ Yarışma sonucunda  birincilik, ikincilik ve üçüncülük ödülleri verilec
 - İkinci olan eserin sahibine  1000 TL , plaket, 
 - Üçüncü olan eserin sahibine 750 TL , plaket, 
 
-[Detaylar ve başvuru için](http://vefalisesi.meb.k12.tr/icerikler/vefada-bir-edebiyat-ogretmeni-3-resat-nuri-guntekin-oyku-yarismasi_6656103.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://vefalisesi.meb.k12.tr/icerikler/vefada-bir-edebiyat-ogretmeni-3-resat-nuri-guntekin-oyku-yarismasi_6656103.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

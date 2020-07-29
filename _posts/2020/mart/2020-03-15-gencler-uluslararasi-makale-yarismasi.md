@@ -33,4 +33,4 @@ Neler Bekliyor?
 
 Birincilik Ödülü’nü kazanan kişi Kasım 2020’de Japonya’nın Tokyo kentinde düzenlenecek ödül törenine davet edilecek ve kendisine Eğitim Bakanı Ödülü verilecektir. (Seyahat masrafları organizatör tarafından karşılanacaktır.)
 
-[Başvuru websitesi](https://www.goipeace.or.jp/en/work/essay-contest/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvuru websitesi](https://www.goipeace.or.jp/en/work/essay-contest/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

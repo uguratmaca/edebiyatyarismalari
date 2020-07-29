@@ -40,4 +40,4 @@ Ortaöğretim Genel Müdürlüğüne bağlı okullarda okuyan öğrencilerimizin
 - Eserler(Eleştirel Bakış Formu) **ogm_etkinlik@meb.gov.tr** adresine gönderilecektir
 - Ödüller: Bakanlıkça yapılan değerlendirmede dereceye giren öğrencilerden ilk üçüne ‘E-Kitap Okuyucu, dördüncü ve beşinciye de mansiyon ödülü verilecektir.
 
-[Eleştirel Bakış Formu](http://ogmprojeler.meb.gov.tr/Content/Uploads/Dosyalar/Ele%C5%9FtirelBak%C4%B1%C5%9FFormu.pdf?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Eleştirel Bakış Formu](http://ogmprojeler.meb.gov.tr/Content/Uploads/Dosyalar/Ele%C5%9FtirelBak%C4%B1%C5%9FFormu.pdf?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

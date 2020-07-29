@@ -48,4 +48,4 @@ Formu (https://forms.gle/z4imY4hb3gmHnk8D7) doldurarak 25 Aralık saat 24.00’d
 Yarışma Takvimi:
 Bu yarışma kapsamında katılımcılar yazılarını 28 Ağustos - 25 Aralık 2019 tarihleri arasında Başvuru Şekli‘nde belirtildiği gibi göndereceklerdir. Kazananlar 25 Ocak 2020 tarihinde Düzenleyen Kurumların sayfalarında duyurulacaktır. Ayrıca ödül kazanan ve yazısı yayınlanmaya uygun görülmüş kişiler e-posta yoluyla bilgilendirileceklerdir. Yayınlanmaya uygun görülmüş yazılar ilgili platformlara iletilecek ve düzenli olarak bu yazılar okurlarla paylaşılacaktır.
 
-[Başvuru Formu](https://forms.gle/z4imY4hb3gmHnk8D7?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://forms.gle/z4imY4hb3gmHnk8D7?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

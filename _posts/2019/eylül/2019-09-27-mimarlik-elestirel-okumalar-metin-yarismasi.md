@@ -81,4 +81,4 @@ Faks 0 (312) 495 06 66
 e-posta info@md1927.org.tr
 web www.md1927.org.tr
 
-[Başvuru formu için](http://www.md1927.org.tr/media/PDF/MIMARLIKTA_ELESTIREL_OKUMALAR_8_SARTNAME_2019.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru formu için](http://www.md1927.org.tr/media/PDF/MIMARLIKTA_ELESTIREL_OKUMALAR_8_SARTNAME_2019.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

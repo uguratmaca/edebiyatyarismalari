@@ -20,4 +20,4 @@ Fen Edebiyat Fakültesi,
 Türk Dili ve Edebiyatı Bölümü, 
 Cumhuriyet Mah., Silahşör Cad. No: 71, Bomonti/Şişli 
 
-[Başvuru ve Detaylar için](http://www.cevdetkudretodulleri.com/2019-cevdet-kudret-edebiyat-odulu/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru ve Detaylar için](http://www.cevdetkudretodulleri.com/2019-cevdet-kudret-edebiyat-odulu/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

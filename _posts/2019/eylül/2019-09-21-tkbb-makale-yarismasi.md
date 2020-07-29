@@ -54,4 +54,4 @@ Dereceye giren makaleler için;
 2'inci, 3'üncü, 4'üncü ve 5'inciye 3000 TL
 ödül verilecektir. Ayrıca ödüllendirilen makaleler daha sonra Hakemli Dergi formatında basılıp, Katılım Finans dergisi ile dağıtılacaktır.
 
-[Başvuru için](http://www.tkbb.org.tr//makale-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://www.tkbb.org.tr//makale-yarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

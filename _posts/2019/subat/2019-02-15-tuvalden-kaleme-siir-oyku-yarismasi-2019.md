@@ -29,4 +29,4 @@ uygun bir şekilde kullanmaya teşvik etmektir.
     2 Adet Mansiyon Ödülü: Kitap Seti
 Not: Dereceye giren tüm öğrencilere başarı belgesi verilecektir
 
-[Detaylar ve Başvuru için](https://www.ilkokul.nds.k12.tr/spip.php?article4968&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://www.ilkokul.nds.k12.tr/spip.php?article4968&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -50,4 +50,4 @@ Sonuçlar
 Değerlendirme sonuçları 15 Temmuz 2019 günü www.setemakademi.com sitesinde ilan edilecektir. Derece alanlara ayrıca telefon ve e-posta yolu ile bilgi verilecektir.
 
 
-[Detaylar ve başvuru için](http://www.setemakademi.com/benim-eserim-kisa-film-senaryo-yarismasi-sartnamesi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://www.setemakademi.com/benim-eserim-kisa-film-senaryo-yarismasi-sartnamesi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

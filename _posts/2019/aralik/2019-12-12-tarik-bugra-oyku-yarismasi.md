@@ -55,4 +55,4 @@ Son Teslim Tarihi: 2 Mart 2020
 Değerlendirme Tarihi: 2 Nisan - 2 Mayıs 2020
 Ödül Töreni: 14 Mayıs 2020
 
-[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/tarik-bugra-oyku-yarismasi.pdf?alt=media&token=993ae6a6-fc22-415c-a762-88941687c2f4){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/tarik-bugra-oyku-yarismasi.pdf?alt=media&token=993ae6a6-fc22-415c-a762-88941687c2f4){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -82,4 +82,4 @@ Birincilik Ödülü 3000 TL
 
 TMMOB Mimarlar Odası Ankara Şubesi Konur Sokak 4/3  Kızılay Ankara
 
-[Başvuru için](http://mekan.mimarlarodasiankara.org/index.php?Did=7&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://mekan.mimarlarodasiankara.org/index.php?Did=7&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -15,7 +15,7 @@ image: "https://edebiyatyarismalari.com/images/2020/nisan/melke-on-road-hikaye-d
 
 Bu hafta üçüncüsünü düzenlediğim hikayenin devamını getirme oyununda asıl amacım insanların okumaya ve yazmaya olan ilgisini artırabilmek ve karantinada geçirdikleri zamanı verimli geçirmelerine yardımcı olabilmek. Bu nedenle blogumda her hafta yeni bir hikayeyle bu oyunu oynamaya devam ediyorum. Oyunun tek kuralı; hikayelerin 350 kelime kısıtlamasına uygun olarak yazılması.
 
-[Hikaye](https://melkeontheroad.com/disari-cikma-evde-kal-hikayenin-devamini-getir.html?ref=edebiyatyarismalaricom){:rel="nofollow"}{:target="_blank"}'nin devamını getirmek için bu linkten hikayeye gidip okuduktan sonra altına hikayenin devamını yorum olarak yazabilirsiniz.
+[Hikaye](https://melkeontheroad.com/disari-cikma-evde-kal-hikayenin-devamini-getir.html?ref=edebiyatyarismalaricom){:rel="nofollow"}{:target="_blank"}{:class="gtag"}'nin devamını getirmek için bu linkten hikayeye gidip okuduktan sonra altına hikayenin devamını yorum olarak yazabilirsiniz.
 
 Ödüller  
 Hikayeye en yaratıcı şekilde devam yazan 3 kişiye 50 TL değerinde kitap hediye çeki hediye ediyorum.

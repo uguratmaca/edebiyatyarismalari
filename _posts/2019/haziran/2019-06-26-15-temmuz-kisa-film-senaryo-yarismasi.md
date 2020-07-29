@@ -48,4 +48,4 @@ Başvuruların 15 Haziran-12 Temmuz 2019 tarihleri arasında alınacağı yarı�
 15 Temmuz Kısa Film ve Senaryo Yarışması’na katılan film ve senaryoların değerlendirilmesi sonucunda, “En İyi Kısa Film” ve “En İyi Senaryo” olmak üzere iki dalda toplam 4 ödül verilecektir.
 
 
-[Başvuru için](https://yarisma.15temmuz.gov.tr/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](https://yarisma.15temmuz.gov.tr/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -58,6 +58,6 @@ Resim, şiir ve öykü alanında dereceye giren ilk 3 kişi, asıl seçici kurul
 
 ÖDÜL TÖRENİ: 19 Mayıs 2019 – Küçükçiftlik Park, Maçka/İSTANBUL
 
-[Detaylar ve başvuru için](http://talebe.org/yarisma-basvuru/-28491?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://talebe.org/yarisma-basvuru/-28491?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 
-[Yarışmanın Sonuçları](http://talebe.org/liseliler-birligi/resim-siir-oyku-yarismasi-sonuclandi-28653?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Yarışmanın Sonuçları](http://talebe.org/liseliler-birligi/resim-siir-oyku-yarismasi-sonuclandi-28653?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

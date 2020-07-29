@@ -39,6 +39,6 @@ TR 790001000833754338955003 IBAN no’lu (hesap no: 754338955003) Ziraat Bankas�
 
 13. Yarışmaya başvuruda bulunan kişi ya da gruplar, bu şartnamede yazılı bulunan bütün şartları kayıtsız-şartsız ve vazgeçilemez / geri dönülemez olarak kabul etmiş sayılırlar.
 
-[Detaylar için](http://ilahiaskinsesi.com/sartname/genel-sartlar/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar için](http://ilahiaskinsesi.com/sartname/genel-sartlar/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 
-[Başvuru için](http://ilahiaskinsesi.com/sartname/online-basvuru/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://ilahiaskinsesi.com/sartname/online-basvuru/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

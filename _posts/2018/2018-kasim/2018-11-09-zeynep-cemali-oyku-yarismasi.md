@@ -20,6 +20,6 @@ kabul edilmez.
 - Öykü “yalan” temasında yazılmalıdır. Esinlenme için önerilen
 kılavuz cümlenin öyküde kullanılması şart değildir
 
-[Detaylar ve Başvuru için](http://gunisigikitapligi.com/projeler/zeynep-cemali-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](http://gunisigikitapligi.com/projeler/zeynep-cemali-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 
-[Sonuçları](https://www.inceeleyen.com/haberlik/zeynep-cemali-oyku-yarismasi-2019-kazananlari-aciklandi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Sonuçları](https://www.inceeleyen.com/haberlik/zeynep-cemali-oyku-yarismasi-2019-kazananlari-aciklandi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

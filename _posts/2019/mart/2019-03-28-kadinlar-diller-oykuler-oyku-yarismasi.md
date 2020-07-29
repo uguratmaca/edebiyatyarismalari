@@ -60,4 +60,4 @@ Yarışmayla ilgili sorularınızı aşağıdaki iletişim numaralarına iletini
 Eylem Tunalı -  Eğitim Sen İzmir 1 No’lu Şube Kadın Sekreteri-  05058535741
 Şube Telefonu : 02324894763
 
-[Detaylar ve başvuru için](http://egitimsen.org.tr/izmir-1-nolu-sube-kadin-meclisinden-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://egitimsen.org.tr/izmir-1-nolu-sube-kadin-meclisinden-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

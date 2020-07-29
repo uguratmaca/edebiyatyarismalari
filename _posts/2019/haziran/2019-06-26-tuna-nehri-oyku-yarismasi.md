@@ -49,4 +49,4 @@ Başvurular 09 Eylül 2019, saat 18.00’e kadar yapılabilir
 Tuna Nehrine Öyküler konulu yarışmanın kazananları ise şu şekilde: Ayşe Karlıdağ Süzer, Ayşe Şen Burak Özdemirci, Ceren Türkkan, Cihat Gemici, Ezgi Özbek Şenel, Fehime Özgür, Işıl Çelikel, Mert Çetin ve Ramazan Uğur Baranlı.
 
 
-[Başvuru için](https://edebiyatburada.com/tuna-nehri-ve-ulkeleri-konulu-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](https://edebiyatburada.com/tuna-nehri-ve-ulkeleri-konulu-oyku-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

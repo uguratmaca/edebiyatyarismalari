@@ -46,4 +46,4 @@ c) Şiir Ödülleri’nde ‘Toplu Eserler’ başlığı altında şairin tüm 
 
 10. Ödül kazanan eserler, Seçici Kurullarının değerlendirmesinin ardından Kasım ayı içinde açıklanır.
 
-[Detaylar ve başvuru için](http://tilahan.org/4-attila-ilhan-edebiyat-odulleri-sair-ve-yazarlarimiza-acik-cagri/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://tilahan.org/4-attila-ilhan-edebiyat-odulleri-sair-ve-yazarlarimiza-acik-cagri/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

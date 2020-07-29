@@ -14,4 +14,4 @@ dateHuman: "28 Mart 2019"
 Şiirler 2 sayfayı geçmeyecek olup el yazısı (düz yazı) olarak yazılacaktır.Eserlerin arka sağ alt köşesine yarışmacının adı soyadı, okulu ve okul telefonu yazılacaktır.
 Eserler en geç  28 Mart 2019 tarihinde Türkçe Öğretmenlerine teslim edilecektir.
 
-[Detaylar ve başvuru için](http://serinhisariho.meb.k12.tr/icerikler/23-nisan-benim-bayramim-konulu-siir-yarismasi_6641071.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://serinhisariho.meb.k12.tr/icerikler/23-nisan-benim-bayramim-konulu-siir-yarismasi_6641071.html?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

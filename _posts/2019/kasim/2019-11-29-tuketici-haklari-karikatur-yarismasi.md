@@ -38,4 +38,4 @@ Birincilik DİZÜSTÜ BİLGİSAYAR VE BAŞARI PLAKETİ Birincilik Plaketi
 Üçüncülük PROFOSYONEL DSLR FOTOĞRAF MAKİNASI VE BAŞARI PLAKETİ Üçüncülük Plaketi 
 Mansiyon TABLET VE BAŞARI PLAKETİ Teşekkür Plaketi Ankara Büyükşehir Belediyesi Özel Ödülü DİZÜSTÜ BİLGİSAYAR VE BAŞARI PLAKETİ Özel Ödül Plaket
 
-[Başvuru Formu](https://tuketici.ticaret.gov.tr/data/5ddd225f13b87667f8ea118a/karikatur_yarismasi_taahhutname_2019_2020.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://tuketici.ticaret.gov.tr/data/5ddd225f13b87667f8ea118a/karikatur_yarismasi_taahhutname_2019_2020.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

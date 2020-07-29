@@ -43,4 +43,4 @@ Polat İnangül (Yönetmen, Eğitmen)
 Yaşam Kaya ( Sanat Eleştirmeni)
 Kadir Yüksel (Kocaeli Ü. Sah. San. Öğr. Gör.),
 
-[Başvuru için](http://www.izmirtiyatrofestivali.org/?p=1151&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://www.izmirtiyatrofestivali.org/?p=1151&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

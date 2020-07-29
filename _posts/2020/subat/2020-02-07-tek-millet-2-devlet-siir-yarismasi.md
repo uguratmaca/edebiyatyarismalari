@@ -27,7 +27,7 @@ Bilindiği gibi “İki Devlet Tek Millet“ özdeyişi Azerbaycan Cumhuriyeti�
 9. Ödüller AMEA Folklor Enstitüsü Muhtar İmanov, Erzin Belediye Başkanı Ökkeş Elmasoğlu ile ödül gecesinde hazırunda bulunan önemli isimler tarafından takdim edilecektir.
 10. Ödül Töreni – 30  Mayıs ile 2 Haziran, Hatay,  Erzin ve Adana’da gerçekleşecek olan İki Devlet Tek Millet konulu etkinlik günleri içinde takdim edilecek,  ödül töreninin yapılacağı, gün ve tarih yarışma ilanı ile birlikte paylaşılacaktır.
 
-[Başvuru İçin Tıklayınız](https://edebiyatvesanatakademisi.com/uye-girisi?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvuru İçin Tıklayınız](https://edebiyatvesanatakademisi.com/uye-girisi?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 
 Güncelleme tarihi: 14-04-2020
 Güncelleme nedeni: Korona sebebiyle son başvuru tarihi 1 Ağustos 2020'ye ertelenmiştir.

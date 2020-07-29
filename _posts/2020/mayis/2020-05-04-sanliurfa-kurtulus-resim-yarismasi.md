@@ -45,4 +45,4 @@ Not: Yarışma 06-14; 14-20; 20 ve üzeri 3 yaş kategorisinde yapılacaktır
 TEL: 0 414 - 214 07 00 GSM: 0 530 505 63 11  
 urfakutuphane@gmail.com  
 
-### [Başvuru Linki](https://app.sanliurfa.bel.tr/yarisma/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+### [Başvuru Linki](https://app.sanliurfa.bel.tr/yarisma/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

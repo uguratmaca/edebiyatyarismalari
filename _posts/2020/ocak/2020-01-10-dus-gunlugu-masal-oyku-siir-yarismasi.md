@@ -76,4 +76,4 @@ Cep telefonu
 E-Posta tugba.dolasir@rotakoleji.com
 aylin.altin@rotakoleji.com
 
-[Katılım Formu](https://www.rotakoleji.com/Uploads/belgeler/2019-2020-dus-gunlugu-sartname.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Katılım Formu](https://www.rotakoleji.com/Uploads/belgeler/2019-2020-dus-gunlugu-sartname.pdf?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

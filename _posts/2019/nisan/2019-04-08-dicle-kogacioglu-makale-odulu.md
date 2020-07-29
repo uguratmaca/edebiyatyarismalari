@@ -36,4 +36,4 @@ Başvuru Koşulları:
 
 • Başvurular kogaciogluodulu@sabanciuniv.edu adresine iletilmelidir.
 
-[Detaylar ve başvuru için](https://sugender.sabanciuniv.edu/tr/gelecek-etkinlikler/dicle-ko%C4%9Fac%C4%B1o%C4%9Flu-makale-%C3%B6d%C3%BCl%C3%BC-2019?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](https://sugender.sabanciuniv.edu/tr/gelecek-etkinlikler/dicle-ko%C4%9Fac%C4%B1o%C4%9Flu-makale-%C3%B6d%C3%BCl%C3%BC-2019?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

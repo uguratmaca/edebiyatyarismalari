@@ -30,4 +30,4 @@ Katılım koşulları
 Son başvuru tarihi 21 Haziran Cuma
 Şartname ve başvuru dilekçesi örnekleri; www.lefkosaturkbelediyesi.org adresinden temin edilebilir.Yarışmacılar bilgi ve sorular için Lefkoşa Türk Belediyesi Halkla İlişkiler (LTB Binası 1. Kat) (Tel: 22 85221-1111) adresine ulaşabilirken ayrıntılı bilgi ve katılım formuna www.lefkosabelediyesi.org adresinden ulaşabilecek. Yarışmacılar en geç 21 Haziran 2019 Cuma günü mesai bitimine kadar başvurularını LTB Halkla İlişkiler Birimi’ne ulaştırabilirler.
 
-[Başvuru için](https://www.lefkosabelediyesi.org/ltb-lefkosa-sarki-sozu-yarismasi-duzenliyor/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](https://www.lefkosabelediyesi.org/ltb-lefkosa-sarki-sozu-yarismasi-duzenliyor/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

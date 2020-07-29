@@ -37,4 +37,4 @@ Birinci olan yarışmacıya 750 TL+plaket+Yazarlık Akademisinde ücretsiz Yarat
 İkinci olan yarışmacıya 500 TL+plaket+Yazarlık Akademisinde ücretsiz Yaratıcı Yazarlık Kursu
 Üçüncü olan yarışmacıya 250 TL+plaket+Yazarlık Akademisinde ücretsiz Yaratıcı Yazarlık Kursu
 
-[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/yazak-5-liselerarasi-oyku-yarismasi-2020.doc?alt=media&token=48de25cb-34db-4605-a0cf-d8211d5721f8){:rel="nofollow"}{:target="_blank"}
+[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/yazak-5-liselerarasi-oyku-yarismasi-2020.doc?alt=media&token=48de25cb-34db-4605-a0cf-d8211d5721f8){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

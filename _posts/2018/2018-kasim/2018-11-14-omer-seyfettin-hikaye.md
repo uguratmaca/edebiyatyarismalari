@@ -30,4 +30,4 @@ Birinciye 2.500 Türk Lirası
 Akademik Ödüller:
 Birinciye 3 Bin Türk Lirası
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/omer-seyfettin-hikaye-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve Başvuru için](https://www.guncel-egitim.org/omer-seyfettin-hikaye-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -46,4 +46,4 @@ Yalçın Armağan : Yazar
 - Üçüncülük ödülü: 650 tl
 
 
-[Başvuru Adresi](https://docs.google.com/forms/d/e/1FAIpQLSc8JYNH2D86Vzo0VZGWaHAASJLTm9TVLYfJ_z0NxweNjiPrqA/viewform?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
+[Başvuru Adresi](https://docs.google.com/forms/d/e/1FAIpQLSc8JYNH2D86Vzo0VZGWaHAASJLTm9TVLYfJ_z0NxweNjiPrqA/viewform?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

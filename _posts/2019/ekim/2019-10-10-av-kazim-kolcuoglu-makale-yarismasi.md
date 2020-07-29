@@ -48,4 +48,4 @@ Saklı Tutulan Madde ve Hükümler
 İstanbul Barosu Staj Eğitim Merkezi Yürütme Kurulunun değişen koşul ve şartlar ışığında bu şartnamede değişiklik yapma hakkı saklı tutulmuştur
 
 
-[Detaylar](https://www.istanbulbarosu.org.tr/HaberDetay.aspx?ID=15002&Desc=Av.-Kazım-Kolcuoğlu-Makale-Yarışması&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar](https://www.istanbulbarosu.org.tr/HaberDetay.aspx?ID=15002&Desc=Av.-Kazım-Kolcuoğlu-Makale-Yarışması&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

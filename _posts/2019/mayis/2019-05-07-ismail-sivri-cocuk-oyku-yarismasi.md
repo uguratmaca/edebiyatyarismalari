@@ -20,4 +20,4 @@ Yarışmaya katılmak isteyenler ayrıntılı bilgi için İzmir Gazeteciler Cem
 
 (Tel: 0-232 463 32 15 -16)
 
-[Detaylar ve başvuru için](http://igc.org.tr/igc/ismail-sivri-cocuk-oykuleri-yarismasina-basvurular-basladi-2/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Detaylar ve başvuru için](http://igc.org.tr/igc/ismail-sivri-cocuk-oykuleri-yarismasina-basvurular-basladi-2/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

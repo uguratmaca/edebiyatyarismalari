@@ -30,4 +30,4 @@ Türk Tabipleri Birliği 2 Temmuz 1993’te Sivas’ta yitirdiğimiz Şair Dr. B
 Ödüle başvuranlar ilan edilen tüm koşulları, kabul etmiş sayılır.
 Ödül tek yapıta verilecektir. Seçici Kurul uygun görürse ödül paylaştırılabilir.
 
-[Başvuru için](http://www.ttb.org.tr/haber_goster.php?Guid=c1e0ead0-d473-11e9-a633-39749bad91cd&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}
+[Başvuru için](http://www.ttb.org.tr/haber_goster.php?Guid=c1e0ead0-d473-11e9-a633-39749bad91cd&utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
