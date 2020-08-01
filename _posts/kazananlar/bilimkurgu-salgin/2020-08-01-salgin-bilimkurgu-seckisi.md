@@ -9,7 +9,7 @@ permalink: "bilimkurgu-salgin/"
 excerpt: "Salgın konulu bilim kurgu yarışmamıza katılan 77 öyküden ilk 10'a giren öyküyü buradan okuyabilirsiniz"
 ---
 
-Salgın konulu bilimkurgu yarışmamıza katılan 77 öyküden ilk 10'a giren öyküyü buradan okuyabilirsiniz
+Salgın konulu bilimkurgu yarışmamıza katılan 77 öyküden ilk 10'a giren öyküyü buradan okuyabilirsiniz.
 
 ## Salgın Konulu Bilimkurgu Öykü Yarışması
 
@@ -18,3 +18,17 @@ Salgın konulu bilimkurgu yarışmamıza katılan 77 öyküden ilk 10'a giren ö
 - ### [Tanıdık Bir Kokunun Yok Oluşu, Şimal Yanpınar]({{ site.url }}/bilimkurgu-salgin/tanidik-bir-kokunun-yok-olusu/)
 
 - ### [Ne Büyük Bir Nimet, Emre Eryılmaz]({{ site.url }}/bilimkurgu-salgin/ne-buyuk-bir-nimet/)
+
+- ### [Arkhe, Güneş Barguş]({{ site.url }}/bilimkurgu-salgin/arkhe/)
+
+- ### [Kara Kaçak, Gizem Çetin]({{ site.url }}/bilimkurgu-salgin/kara-kacak/)
+
+- ### [Merak Salgını, Canan Can Pearce]({{ site.url }}/bilimkurgu-salgin/merak-salgini/)
+
+- ### [Nisyan, Elif Gülay Özcanoğlu]({{ site.url }}/bilimkurgu-salgin/nisyan/)
+
+- ### [Tanıdık Bir Yüz, İsmail Çakır]({{ site.url }}/bilimkurgu-salgin/tanidik-bir-yuz/)
+
+- ### [Tapınaktaki Hayalet, İsmail Çakır]({{ site.url }}/bilimkurgu-salgin/tapinaktaki-hayalet/)
+
+- ### [Veriyi Sil ve Kendini Yok Et, Anıl Çetinel Örselli]({{ site.url }}/bilimkurgu-salgin/veriyi-sil-ve-kendini-yok-et/)
