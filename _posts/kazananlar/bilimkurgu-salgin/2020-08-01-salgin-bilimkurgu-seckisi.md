@@ -19,6 +19,8 @@ Salgın konulu bilimkurgu yarışmamıza katılan 77 öyküden ilk 10'a giren ö
 
 - ### [Ne Büyük Bir Nimet, Emre Eryılmaz]({{ site.url }}/bilimkurgu-salgin/ne-buyuk-bir-nimet/)
 
+- ### [Amerika'nın Oyunu, Derya İçyüz]({{ site.url }}/bilimkurgu-salgin/amerikanin-oyunu/)
+
 - ### [Arkhe, Güneş Barguş]({{ site.url }}/bilimkurgu-salgin/arkhe/)
 
 - ### [Kara Kaçak, Gizem Çetin]({{ site.url }}/bilimkurgu-salgin/kara-kacak/)
@@ -28,7 +30,5 @@ Salgın konulu bilimkurgu yarışmamıza katılan 77 öyküden ilk 10'a giren ö
 - ### [Nisyan, Elif Gülay Özcanoğlu]({{ site.url }}/bilimkurgu-salgin/nisyan/)
 
 - ### [Tanıdık Bir Yüz, İsmail Çakır]({{ site.url }}/bilimkurgu-salgin/tanidik-bir-yuz/)
-
-- ### [Tapınaktaki Hayalet, İsmail Çakır]({{ site.url }}/bilimkurgu-salgin/tapinaktaki-hayalet/)
 
 - ### [Veriyi Sil ve Kendini Yok Et, Anıl Çetinel Örselli]({{ site.url }}/bilimkurgu-salgin/veriyi-sil-ve-kendini-yok-et/)
