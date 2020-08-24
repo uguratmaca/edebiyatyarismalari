@@ -2,7 +2,7 @@
 layout: post
 title: "Neyzen Tevfik Hiciv Şiir Yarışması"
 description: "Kartal Belediyesi, edebiyat yarışmaları düzenlemeye devam ediyor. Neyzen Tevfik Hiciv Şiir Yarışması..."
-tags: [aralik 2020, genel, şiir yarışması]
+tags: [aralık 2020, genel, şiir yarışması]
 comments: true
 lastDate: 1609102800  
 dateHuman: "28 Aralık 2020"
