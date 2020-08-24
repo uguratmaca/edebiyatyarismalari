@@ -2,7 +2,7 @@
 layout: post
 title: "Güncel Sanat Dergisi Şiir ve Öykü Yarışması"
 description: "Güncel Sanat Dergisi Öykü ve Kaygusuz Abdal Şiir yarışması düzenliyor."
-tags: [aralık 2020, genel, şiir yarışması, hikaye Yarışması]
+tags: [aralık 2020, genel, şiir yarışması, hikaye yarışması]
 comments: true
 lastDate: 1609362000  
 dateHuman: "31 Aralık 2020"
