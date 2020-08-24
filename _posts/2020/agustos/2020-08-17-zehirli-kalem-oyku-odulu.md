@@ -2,7 +2,7 @@
 layout: post
 title: "Zehirli Kalem Öykü Ödülü"
 description: "Dedektif Dergi, bundan böyle her yıl bir öyküye Zehirli Kalem Ödülü verecek."
-tags: [ekim 2020, polisiye, hikaye yarışması]
+tags: [ekim 2020, polisiye, hikaye yarışması, genel]
 comments: true
 lastDate: 1603573200  
 dateHuman: "25 Ekim 2020"
