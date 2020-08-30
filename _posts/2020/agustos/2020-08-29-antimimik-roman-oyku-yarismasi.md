@@ -30,4 +30,4 @@ Antimimik yayınları polisiye roman ve öykü yarışması düzenliyor. 1.si d�
 Ödüller:  
 Dereceye giren öyküler ve 1 roman dosyası Antimimik yayınları tarafından kitaplaştırılacak
 
-### [Web sitesi](www.antimimik.com/yarışma?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Web sitesi](https://www.antimimik.com/yarışma?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
