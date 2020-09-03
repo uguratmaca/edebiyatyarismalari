@@ -2,7 +2,7 @@
 layout: post
 title: "Millet Kıraathaneleri 1. Öykü Yarışması"
 description: "Bu yıl ilki düzenlenecek olan “Sincan Belediyesi Millet Kıraathaneleri Öykü Yarışması” geleceğin yeteneklerini arıyor. Yarışmaya ortaokul, lise, üniversite öğrencileri ile yazmaya gönül veren vatandaşlar katılabilir. Adaylar öykülerini 15 Kasım’a kadar millet kıraathanelerine teslim edecek."
-tags: [kasım 2020, genel, ortaokul, lise, üniversite, hikaye yarışması]
+tags: [kasım 2020, ankara, genel, ortaokul, lise, üniversite, hikaye yarışması]
 comments: true
 lastDate: 1605387600  
 dateHuman: "15 Kasım 2020"
