@@ -53,7 +53,7 @@ Amaç:
 
 #### Seçici Kurul
 Güzella Bayındır  
-Doç. Dr. Saniye Cancı Çalışaneller  
+Dr. Saniye Cancı Çalışaneller  
 Bürkem Cevher  
 Şebnem Sezgin Canatalay  
 Necati Göksel  
