@@ -29,6 +29,4 @@ Anneler günü kapsamında düzenlediğimiz **Anne Şiirleri** yarışmamızda i
 
 - ### [Bir İkindi Vakti, Furkan Karakoyun]({{ site.url }}/anne-siirleri/bir-ikindi-vakti/)
 
-- ### [Karanfili Kurutmak, Öznur Derya Değirmencioğlu]({{ site.url }}/anne-siirleri/karanfili-kurutmak/)
-
 - ### [Umudun Mavisi, Alaaddin Beken]({{ site.url }}/anne-siirleri/umudun-mavisi/)
