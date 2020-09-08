@@ -4,7 +4,7 @@ title: "1. Gençler Arası Öykü Yarışması"
 description: "1. Gençler arası öykü yarışması başlıyooor. 📢 Yakın zamanda hayatını kaybeden usta yazar Asım Gültekin anısına öykü yarışması düzenliyoruz."
 tags: [ekim 2020, lise, üniversite, hikaye yarışması]
 comments: true
-lastDate: 13-24 yaş aralığındaki gençler katılabilecektir  
+lastDate: 1602709200
 dateHuman: "15 Ekim 2020"
 attendance: "E-Posta"
 comTopic: "Serbest"
