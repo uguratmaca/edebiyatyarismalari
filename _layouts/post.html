@@ -197,6 +197,10 @@ layout: default
       <li class="nav-item">
         <a href="{{ site.url }}/edebiyat-yarismalari-kazananlar/" class="nav-link"> Edebiyat Yarışmaları Kazananlar </a>
       </li>
+      {% elsif tag == "blog" %}
+      <li class="nav-item">
+        <a href="{{ site.url }}/blog/" class="nav-link"> Edebiyat Yarışmaları Blog </a>
+      </li>
       {% endif %}
 
       {% endfor %}

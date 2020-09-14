@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% assign counter = 0 %}
+
+<section class="mt-5 mb-5">
+    <h1>{{page.headline}}</h1>
+    {% if page.subline %}
+    <p>{{page.subline}}</p>
+    {% endif %}
+
+    <hr>
+
+    {% for post in site.posts %}
+    {% if post.tags contains page.key %}
+
+    {% assign counter=counter | plus:1 %}
+
+    <section>
+        <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
+
+        {{ post.excerpt }}
+    </section>
+    <hr>
+    
+    {% endif %}
+    {% endfor %}
+</section>
