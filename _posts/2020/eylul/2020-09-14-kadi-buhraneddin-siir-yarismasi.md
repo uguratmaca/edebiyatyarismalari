@@ -8,6 +8,7 @@ lastDate: 1608238800
 dateHuman: "18 Aralık 2020"
 attendance: "E-Posta"
 comTopic: "Serbest"
+price: "18 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "kadi-buhraneddin-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/eylul/kadi-buhraneddin-siir-yarismasi.jpg"
