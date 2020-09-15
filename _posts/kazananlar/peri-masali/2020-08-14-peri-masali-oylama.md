@@ -13,6 +13,4 @@ excerpt: "3. Yarışmamız Peri Masalı Masal Yarışmasına tam 60 adet masal b
 
 Sıralama peri masalı adına göre alfabetiktir.
 
-{% raw %}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScG7lAif8YbBIuitOfbud1Pm1GRTgE8LEkx95oacrYmY8cIcg/viewform?embedded=true" width="800" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-{% endraw %}
+Güncelleme: oylama sona erdi
