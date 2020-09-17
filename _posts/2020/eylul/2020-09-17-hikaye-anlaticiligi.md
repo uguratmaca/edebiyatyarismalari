@@ -14,7 +14,7 @@ image: "https://edebiyatyarismalari.com/images/2020/eylul/story-a-thon-story-tel
 excerpt: "Uluslararası Okuryazarlık Günü kapsamında Google'ın düzenlediği Story-a-thon yarışmasına 5-11 yaş aralağındaki tüm çocuklar katılabilir"
 ---
 
-Uluslararası Okuryazarlık Günü kapsamında Google'ın düzenlediği Story-a-thon yarışmasına 5-11 yaş aralağındaki tüm çocuklar katılabilir.
+Uluslararası Okuryazarlık Günü kapsamında Google'ın düzenlediği Story-a-thon yarışmasına 5-11 yaş aralağındaki tüm çocuklar katılabilir.  
 
 Hikayeler İngilizce olmalıdır.
 
