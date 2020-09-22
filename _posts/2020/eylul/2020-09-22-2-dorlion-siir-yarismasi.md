@@ -10,7 +10,7 @@ attendance: "E-Posta"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
 permalink: "2-dorlion-siir-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/eylul/kadi-buhraneddin-siir-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2020/eylul/2-dorlion-siir-yarismasi.jpg"
 excerpt: "Eskişehir Sanat Derneği, şiir sanatımıza Eskişehir’de etkinlik kazandırmak, Türk şiirini ve şairlerimizi Eskişehir’de buluşturmak, onlarla tanışmak amacıyla Eskişehir’in ilk adı olan Dorylaion (Dorlion) adını vererek, geleneksel hale getirmek üzere iki yılda bir düzenlediğimiz 2. Dorlion Şiir Yarışması'nı düzenlemiştir."
 ---
 
