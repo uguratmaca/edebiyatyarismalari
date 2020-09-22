@@ -22,3 +22,5 @@ Tabi bir de hem bir biblo şeklinde hem de yarı insan yarı balık olarak kanl�
 Son olarak “Yaşlı” karakterinin yunan mitolojisindeki Proteus ile benzerliklerinden bahsedeyim. Proteus denizin ilk yaşlı bilgelerindendi. Bilginin koruyucusu ve deniz yaratıklarının dostu. Bilinebilecek her şeyi bilen ama bu bilgiyi başkaları ile paylaşmaktan nefret eden bir karakter. Prometheus bilgiyi paylaşırken Proteus kendisine saklayan bir karakter. Bu ikili arasındaki zıtlık izlediğimiz filmde çok açık ve etkileyici bir şekilde yansıtılıyor. Bu iki karakter arasındaki dinamik uzun süre hafızamdan çıkmayacak bir şekilde “siyah-beyaz” perdeye taşınmış. The Lighthouse üzerine saatlerce tartışılabilecek ve analiz yapılabilecek bir film. Filmin estetiği ve atmosferi birebir yaşanması gereken bir deneyim. Son on yılın karşıma çıkan en sanatsal ve görsel derinliğe sahip sıra dışı filmi olmayı başaran The Lighthouse izlenmeye değer bir Robert Eggers şaheseri.
 
 **Sergen Aktaş**
+
+### [Aralık Fanzin](https://www.shopier.com/Aralik_Fanzin?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
