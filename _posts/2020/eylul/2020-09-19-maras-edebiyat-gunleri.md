@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kısa Oyun Yazma Yarışması"
+title: "1. Uluslararası Kahramanmaraş Şiir ve Edebiyat Günleri"
 description: "1. Uluslararası Kahramanmaraş Şiir ve Edebiyat Günleri kapsamında pek çok yarışma düzenleniyor."
 tags: [ekim 2020, şiir yarışması, deneme yarışması, hikaye yarışması, lise, ortaokul, resim yarışması, genel]
 comments: true
