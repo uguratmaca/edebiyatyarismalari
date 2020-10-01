@@ -23,6 +23,6 @@ Pandemi sürecinde yaşananlar bu İdeathon’u başlatmamızı kaçınılmaz k�
 3. İmkan Eşitsizliği
 4. Yeni Eğitim Yaklaşımı/Modeli
 
-Etkinlik 13-15 Kasım 2020 tarihleri arasında çevrim içi olarak gerçekleştirelecektir.
+Etkinlik 13-15 Kasım 2020 tarihleri arasında çevrimiçi olarak gerçekleştirelecektir.
 
 ### [Okula Dönüş Fikir Maratonu başvurusu](https://back2theschool.com/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
