@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deneme Yazma Yarışması"
-description: "Malatya İl Müftülüğünce 2020 Yılı Camiler ve Din Görevlileri Haftası etkinlikleri kapsamında üniversite düzeyinde eğitim gören öğrencilere yönelik "Cami, İlim ve Gençlik" konulu deneme yazma yarışması düzenlenecek."
+description: "Malatya İl Müftülüğünce 2020 Yılı Camiler ve Din Görevlileri Haftası etkinlikleri kapsamında üniversite düzeyinde eğitim gören öğrencilere yönelik Cami, İlim ve Gençlik konulu deneme yazma yarışması düzenlenecek."
 tags: [ekim 2020, genel, deneme yarışması, kompozisyon yarışması]
 comments: true
 lastDate: 1602795600
@@ -12,7 +12,7 @@ price: "1900 TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "diyanet-deneme-yazma-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/deneme-yazma-yarismasi.jpg"
-excerpt: "Malatya İl Müftülüğünce 2020 Yılı Camiler ve Din Görevlileri Haftası etkinlikleri kapsamında üniversite düzeyinde eğitim gören öğrencilere yönelik "Cami, İlim ve Gençlik" konulu deneme yazma yarışması düzenlenecek."
+excerpt: "Malatya İl Müftülüğünce 2020 Yılı Camiler ve Din Görevlileri Haftası etkinlikleri kapsamında üniversite düzeyinde eğitim gören öğrencilere yönelik Cami, İlim ve Gençlik konulu deneme yazma yarışması düzenlenecek."
 ---
 
 Malatya İl Müftülüğünce "2020 Yılı Camiler ve Din Görevlileri Haftası" etkinlikleri kapsamında üniversite düzeyinde eğitim gören öğrencilere yönelik "Cami, İlim ve Gençlik" konulu **deneme yazma yarışması** düzenlenecek.
