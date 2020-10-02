@@ -2,7 +2,7 @@
 layout: post
 title: "Mefahir-i Ecdad Beste Yarışması"
 description: "Konya Büyükşehir Belediyesi Yiğitlik ve Kahramanlık Türküsü, Fetih ve Mehter Marşı Beste yarışması düzenlemiştir"
-tags: [kasım 2020, genel, lise, üniversite, beste yarışması]
+tags: [kasım 2020, genel, beste yarışması]
 comments: true
 lastDate: 1605819600
 dateHuman: "20 Kasım 2020"
