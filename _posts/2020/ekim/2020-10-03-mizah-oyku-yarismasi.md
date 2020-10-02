@@ -11,7 +11,7 @@ comTopic: "Hekimlik ve Sağlıkta Mizah"
 price: "5 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "dr-kamil-furtun-mizah-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/eylul/kamil-furtun-mizah-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2020/ekim/kamil-furtun-mizah-oyku-yarismasi.jpg"
 excerpt: "Samsun Tabip Odası, Dr. Kamil Furtun Mizah Öyküleri Yarışması düzenlemektedir."
 ---
 
