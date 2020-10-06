@@ -11,7 +11,7 @@ comTopic: "Rize Şehir Belleği"
 price: "11 Bin TL'dir"
 requirements: "15 yaşını doldurmuş amatör ve profesyonel tüm film severlere açıktır."
 permalink: "1001-gozle-rize-kisa-film-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/ekim/kamil-furtun-mizah-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2020/ekim/1001-gozle-rize-kisa-film-yarismasi.jpg"
 excerpt: "Rize Belediyesi, Kültür ve Turizm Bakanlığı’nın destekleriyle “1001 Gözle Rize” isimli ödüllü kısa film yarışması düzenliyor."
 ---
 
