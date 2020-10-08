@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "3. Kadı Buhraneddin Şiir Yarışması"
-description: "En çok edebiyat yarışması düzenleyen belediyelerden birisi olan Kayseri Büyükşehir Belediyesi Kadı Buhraneddin Şiir Yarışmasını duyurdu."
+title: "3. Kadı Burhaneddin Şiir Yarışması"
+description: "En çok edebiyat yarışması düzenleyen belediyelerden birisi olan Kayseri Büyükşehir Belediyesi Kadı Burhaneddin Şiir Yarışmasını duyurdu."
 tags: [aralık 2020, genel, şiir yarışması]
 comments: true
 lastDate: 1608238800
@@ -10,12 +10,12 @@ attendance: "E-Posta"
 comTopic: "Serbest"
 price: "18 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
-permalink: "kadi-buhraneddin-siir-yarismasi"
+permalink: "kadi-burhaneddin-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/eylul/kadi-buhraneddin-siir-yarismasi.jpg"
-excerpt: "En çok edebiyat yarışması düzenleyen belediyelerden birisi olan Kayseri Büyükşehir Belediyesi Kadı Buhraneddin Şiir Yarışmasını duyurdu."
+excerpt: "En çok edebiyat yarışması düzenleyen belediyelerden birisi olan Kayseri Büyükşehir Belediyesi Kadı Burhaneddin Şiir Yarışmasını duyurdu."
 ---
 
-En çok edebiyat yarışması düzenleyen belediyelerden birisi olan Kayseri Büyükşehir Belediyesi **Kadı Buhraneddin Şiir Yarışmasını** duyurdu.
+En çok edebiyat yarışması düzenleyen belediyelerden birisi olan Kayseri Büyükşehir Belediyesi **Kadı Burhaneddin Şiir Yarışmasını** duyurdu.
 
 ## Şiir Yarışması
 - Yarışmaya Seçici Kurul Üyeleri ve birinci derecede yakınları katılamazlar.
