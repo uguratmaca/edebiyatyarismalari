@@ -2,7 +2,7 @@
 layout: post
 title: "Tihek Kısa Film ve Senaryo Yarışması"
 description: "TİHEK 10 Aralık Dünya İnsan Hakları Günü/Haftası münasebetiyle insan hakları alanında farkındalığı artırıcı özellikte “İnsan Hakları Bağlamında İnsani Değerler” temalı “Kısa Film Yarışması” ile “Kısa Film Senaryo Yarışması” düzenlemektedir. Yarışmaya başvurular elden veya posta yoluyla TİHEK Hizmet Binasına yapılacak olup, yarışmaya başvuruların alınacağı tarih aralığı 19 Ekim 2020 ile 19 Kasım 2020 tarihleri arasındadır. Her iki dalda birincilere 15.000 TL, ikincilere 12.500 TL, üçüncülere 10.000 TL ve ayrıca 2.000 TL teşvik ödülü bulunan yarışmayla ilgili tüm belgeler aşağıda yer almaktadır."
-tags: [kasım 2020, genel, kısa film yarışması]
+tags: [kasım 2020, genel, kısa film yarışması, senaryo yarıması]
 comments: true
 lastDate: 1605733200  
 dateHuman: "19 Kasım 2020"
