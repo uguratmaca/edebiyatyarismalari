@@ -17,7 +17,7 @@ excerpt: "Şehit Savcımız unutulmasın, yeni kuşaklar kendisini tanısın, ge
 
 Şehit Savcımız unutulmasın, yeni kuşaklar kendisini tanısın, genç meslektaşları onun aydınlık yolundan yürüsün isteyen Bakanlığımız, Mehmet Selim Kiraz adıyla bir öykü ve deneme yarışması düzenliyor.  
 
-## Öykü ve Deneme Yarışması Kuralları
+## Adalet Bakanlığı Mehmet Selim Kiraz Öykü ve Deneme Yarışması Kuralları
 - Yarışmaya herkes başvurabilir.
 - Eserlerin daha önce hiçbir yerde yayımlanmamış olması gerekmektedir.
 - Eserlerin her türlü hukuki sorumluluğu yazarlara aittir. Eserlerde gerçek ve tüzel kişilerin hakları korunmalıdır Diğer yandan eserlerde ele alınan konuların hukuka aykırılık teşkil etmemesi gerekmektedir.

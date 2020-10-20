@@ -18,7 +18,7 @@ excerpt: "2020 Hasan Ali Yücel Öğretmenler Arası Kısa Öykü Yarışması�
 Amaç:  
 Türk edebiyatının önemli eserleri yıllar boyunca öğretmen yazarlar tarafından verilmiştir. Mehmet Âkif’ten Refik Halid’e, Necip Fazıl’dan Tanpınar’a, Yahya Kemal’den Çamlıbel’e, Halide Edip’ten Gülten Dayıoğlu’na edebiyata önemli eserler kazandıran isimler, aynı zamanda öğretmendir ve edebiyatın sesi okullardan yükselmiştir. Millî Eğitim Bakanlığı, bu geleneğin devamını sağlamak ve okullarımızdaki suskun kalemlerin sesini duyurmak amacıyla, bu yıl ikincisi gerçekleştirilecek olan Hasan Âli Yücel Edebiyat Ödülleri kapsamında Öğretmenler Arası Kısa Öykü Yarışması düzenlemiştir.  
 
-## Kısa Öykü Yarışması Şartları
+## Hasan Ali Yücel Öğretmenler Arası Kısa Öykü Yarışması Şartları
 1. Yarışmaya Millî Eğitim Bakanlığına bağlı resmî ve özel okul/kurumlarda, eğitim öğretim hizmetleri sınıfında fiilen görev yapmakta olan öğretmen ve yöneticiler katılabileceklerdir.
 2. Başvuru yapılan eserin, Türkiye Cumhuriyeti Anayasası, Millî Eğitim Temel Kanunu ile Türk Millî Eğitiminin genel amaçlarına uygun olarak, ilgili yasal düzenlemelerde belirtilen ilke, esas ve amaçlara aykırılık teşkil etmeyecek şekilde hazırlanması gerekmektedir. Bu şekilde hazırlanmayan eserler değerlendirilmeye alınmayacaktır.
 3. Başvuru sahipleri en fazla bir eser ile yarışmaya katılacaklardır.

@@ -17,7 +17,7 @@ excerpt: "En çok edebiyat yarışması düzenleyen belediyelerden birisi olan K
 
 En çok edebiyat yarışması düzenleyen belediyelerden birisi olan Kayseri Büyükşehir Belediyesi **Kadı Burhaneddin Şiir Yarışmasını** duyurdu.
 
-## Şiir Yarışması
+## Kayseri Şiir Yarışması 2020
 - Yarışmaya Seçici Kurul Üyeleri ve birinci derecede yakınları katılamazlar.
 - Yarışmanın konusu; "SERBEST" olarak belirlenmiştir.
 - Yarışmaya katılacak şiirlerin daha önce hiçbir yarışmada ödül almamış ve herhangi bir yerde (basılı olarak) yayımlanmamış olması gerekmektedir.

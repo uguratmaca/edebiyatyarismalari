@@ -18,7 +18,7 @@ Amaç:
 - Eserlerinin yayın hakkı ve geliri Darüşşafaka Cemiyetine bırakılmış olan Sait Faik’in gençler tarafından tanınmasını, okunmasını sağlamak.
 - Gençleri yazmaya özendirmek ve geleceğin yazarlarının yetişmesine destek olmak.  
 
-## Öykü Yarışmasının Şartları
+## Sait Faik Öykü Yarışmasının Şartları
 - Türkçenin doğru kullanımına özen gösterilmelidir.
 - Öyküler, word belgesinde 2,5 x 2,5 kenar boşlukları bırakılarak bir buçuk satır aralığı ve 12 puntoyla times new roman yazı karakterinde yazılmalıdır. öyküler, beş sayfadan fazla olmamalıdır.
 - Her yarışmacı yarışmaya tek bir öyküyle katılabilir.

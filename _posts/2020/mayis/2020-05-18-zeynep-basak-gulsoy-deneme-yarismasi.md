@@ -16,7 +16,7 @@ image: "https://edebiyatyarismalari.com/images/2020/mayis/zeynep-basak-gulsoy-de
 
 Bu yıl Zeynep Başak Gülsoy Anısına Deneme Yarışması IV için konu Zeynep Başak Gülsoy’un yaşayamadığı gençliği, alamadığı yaşları düşünülerek “Eksik Yaşım” olarak belirlenmiştir. Yarışmanın amacı 13 Mart 2016’da Güvenpark terör saldırısında kaybettiğimiz Ufuk Üniversitesi Hukuk Fakültesi öğrencisi Zeynep Başak Gülsoy’un anısını yaşatmak ve üniversite öğrencilerinin toplumsal sorunlara ilişkin duyarlılıklarına katkıda bulunmak, yazınsal becerilerini geliştirmektir. En önemlisi, sevgili öğrencimizin hatırası vesilesiyle terör kayıplarımızı sanatla anmak ve şiddetin sanatla tedavi edilebileceğini hatırlatmaktır.  
 
-## Deneme Yarışması Şartları
+## Ufuk Üniversitesi Zeynep Başak Deneme Yarışması Şartları
 1. Yarışmaya katılabilmek için, yurtiçi veya yurt dışı üniversitelerde ön lisans, lisans veya lisansüstü düzeyde öğrenci olmak gerekir.
 2. Yarışmaya katılım ücrete tabi değildir.
 3. Yarışmaya her yarışmacı sadece bir eserle ve tek yazarlı katılabilir.
