@@ -10,7 +10,7 @@ attendance: "Herkes kendi okulu"
 comTopic: "Enerjinin ve enerji kaynaklarının verimli kullanılması"
 requirements: "Resim yarışmasına: Milli Eğitim Bakanlığına bağlı resmi ve özel ilkokulların (1-2-3 ve 4 üncü sınıflar) öğrencileri katılabilir. Öykü Yarışmasına: Milli Eğitim Bakanlığına bağlı resmi ve özel ortaokulların (5-6–7 ve 8 inci sınıflar) öğrencileri katılabilir."
 permalink: "enerji-resim-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/ekim/enerji-konulu-oyku-resim-yarismasi.png"
+image: "https://edebiyatyarismalari.com/images/2020/ekim/enerji-konulu-oyku-resim-yarismasi.jpg"
 excerpt: "Enerji ve Tabii Kaynaklar Bakanlığı, ücretsiz katılımlı Resim ve Öykü Yarışması düzenliyor. Yarışmaya ilkokul düzeyindeki öğrenciler katılabilecek."
 ---
 
