@@ -10,7 +10,7 @@ attendance: "Web sitesi"
 comTopic: "Çocuk Hakları"
 requirements: "Eskişehir'de yaşamak ve 8-16 yaş aralığında olmak gerekmektedir."
 permalink: "cocuklar-icin-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/ekim/cocuk-haklari-karikatur-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2020/ekim/cocuklar-icin-oyku-yarismasi.jpg"
 excerpt: "Eskişehir Büyükşehir Belediyesi çocuklar için Çocuk Hakları konulu Öykü Yarışması düzenliyor."
 ---
 
