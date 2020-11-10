@@ -7,6 +7,7 @@ comments: true
 lastDate: 1610658000  
 dateHuman: "15 Ocak 2021"
 attendance: "Web sitesi"
+price: "10500 TL'dir"
 comTopic: "Geleceğin çiftlikleri"
 requirements: "Alltech Resim Yarışması’na, temel eğitim seviyesinde (ilkokul-ortaokul) öğrenim gören, 2010 ile 2014 tarihleri arasında doğan, 7-11 yaşlarındaki Türkiye Cumhuriyeti vatandaşı öğrenciler katılabilirler"
 permalink: "alltech-resim-yarismasi"
@@ -48,3 +49,8 @@ verebilmek amacıyla, istatistiksel bilgileri (tarayıcı tipi, coğrafi konum, 
 - Yarışmacılar resim kağıdının dokusu, rengi, gramajı gibi özelliklerini belirlemede serbesttir.
 - Resmin ön yüzünde, bir yerden alınmış ve resme yapıştırılmış resim veya yazı bulunmamalıdır.
 - Değerlendirme süreci sonrasında elemeye kalan eserlerin asılları isteneceğinden resmin arka yüzünün
+
+## Resim Yarışması Ödüller
+Yarışmayı kazanan 6 yarışmacıya verilecek nakit para ödülü: 1.750 Türk Lirası’dır.
+
+### [Başvuru](https://resim.aklimfikrimtarim.com/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
