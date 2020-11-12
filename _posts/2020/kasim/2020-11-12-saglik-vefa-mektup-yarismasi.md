@@ -8,8 +8,8 @@ lastDate: 1606424400
 dateHuman: "27 Kasım 2020"
 attendance: "Elden-Posta-Kargo"
 comTopic: "Sağlık Çalışanlarına Vefa"
-requirements: "İsteyen herkes katılabilir"
-permalink: "saglik-calisanlari-mektup-yarismasi"
+requirements: "Türkiye geneli resmî ve özel okullarda öğrenim gören ilkokul 2.3.4. sınıf öğrencileri."
+permalink: "saglik-calisanlarina-mektup-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/kasim/saglik-calisanlari-mektup-yarismasi.jpg"
 excerpt: "Tüm dünyayı etkisi altına alan Covid-19 salgını, ülkemizi de etkilemiş ve pek çok can kaybına yol açmıştır. Beden sağlığı yanında ruh sağlığımızı da olumsuz etkileyen bu süreçten en yakından etkilenenler hiç şüphe yok ki sağlık çalışanları olmuştur. Özverili çalışmalarından dolayı sağlık çalışanlarına minnettarlığımızı ifade etmemiz, onların motivasyonunu artıracağı için yarışma konusu Sağlık Çalışanlarına Vefa olarak belirlenmiştir"
 ---
