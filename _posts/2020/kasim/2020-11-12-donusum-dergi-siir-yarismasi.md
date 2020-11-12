@@ -8,7 +8,7 @@ lastDate: 1606683600
 dateHuman: "30 Kasım 2020"
 attendance: "E-Posta"
 comTopic: "Serbest"
-requirements: "İsteyen herkes katılabilirs"
+requirements: "İsteyen herkes katılabilir"
 permalink: "1-nibelungen-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/kasim/1-nibelungen-siir-yarismasi.jpg"
 excerpt: "Dönüşüm Dergi (e-Edebiyat Dergisi), genç ve yetenekli yazarlarla birlikte dijital platformda edebiyatımızdan artık ölü derinin kalkmasının dönüşümünü amaçlıyor. Bunun için her iki ayda bir olacak olan 1.Nibelungen Şiir Yarışması'nı düzenlemiştir."
