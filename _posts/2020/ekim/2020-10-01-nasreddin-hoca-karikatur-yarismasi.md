@@ -11,7 +11,7 @@ comTopic: "Adalet, Demokrasi, Özgürlük"
 price: "10 Bin Dolar'dır"
 requirements: "İsteyen herkes katılabilir"
 permalink: "nasreddin-hoca-karikatur-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/ekim/40-uluslararasi-nasreddin-hoca-karikatur-yarismasi.gif"
+image: "https://edebiyatyarismalari.com/images/2020/ekim/40-uluslararasi-nasreddin-hoca-karikatur-yarismasi.jpg"
 excerpt: "40. Uluslararası Nasreddin Hoca Karikatür Yarışması başvuruları devam etmektedir."
 ---
 
