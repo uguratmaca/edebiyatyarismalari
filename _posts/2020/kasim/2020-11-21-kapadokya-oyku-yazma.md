@@ -11,7 +11,7 @@ comTopic: "Gezegenin Geleceği: Kaygılar ve Umutlar"
 price: "3750 TL'dir"
 requirements: "Tüm lisesi öğrencileri katılabilir"
 permalink: "kapadokya-oyku-yazma-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/kasim/kapadokya-oyku-yazma-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2020/kasim/kapadokya-universitesi-oyku-yazma-yarismasi.jpg"
 excerpt: "Kapadokya Üniversitesi lise öğrencileri arası öykü yazma yarışması düzenliyor."
 ---
 
