@@ -35,3 +35,6 @@ Yarışmada dereceye giren yirmi öykü kitaplaştırılacak, öykü sahiplerine
 - Birinciye 1.750
 - İkinciye 1.250
 - Üçüncüye 750 TL karşılığı kitap vb. hediye çeki verilecektir.
+
+Posta Gönderim Adresi:  
+Kapadokya Üniversitesi, Mustafapaşa Yerleşkesi, 50420 - Mustafapaşa, Ürgüp / Nevşehir
