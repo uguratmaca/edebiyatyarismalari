@@ -2,7 +2,7 @@
 layout: post
 title: "Fişek Enstitüsü Öykü Yarışması"
 description: "Fişek Enstitüsü çocuk işçiliğe hayır konulu öykü yarışması düzenliyor"
-tags: [nisan 2021, genel, hikaye yarışması]
+tags: [şubat 2021, genel, hikaye yarışması]
 comments: true
 lastDate: 1614200400  
 dateHuman: "25 Şubat 2021"
@@ -16,7 +16,7 @@ excerpt: "Fişek Enstitüsü çocuk işçiliğe hayır konulu öykü yarışmas�
 ---
 
 ## Fişek Enstitüsü Öykü Yarışması
-1. Öykü yarışmasının konusu çalışan çocuklardır. Sanayide, tarımda ve hizmetler (kafelerde, lokantalarda, sokakta çalışanlar vb) sektöründe çalışan çocuklar.
+1. **Öykü yarışması**nın konusu çalışan çocuklardır. Sanayide, tarımda ve hizmetler (kafelerde, lokantalarda, sokakta çalışanlar vb) sektöründe çalışan çocuklar.
 2. Yarışma herkesin katılımına açıktır.
 3. Yarışmaya gönderilecek öyküler daha önce başka bir yerde yayımlanmamış ve ödül almamış olmalıdır.
 4. Her yazar yarışmaya bir öykü ile başvurabilir.
