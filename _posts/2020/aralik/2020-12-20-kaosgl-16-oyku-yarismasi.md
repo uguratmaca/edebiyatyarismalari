@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "16. Kadın Kadına Öykü Yarışması’"
+title: "16. Kadın Kadına Öykü Yarışması"
 description: "Kaos GL’nin 16. Kadın Kadına Öykü Yarışması’na başvurular açıldı. Bu senenin teması Ev."
 tags: [nisan 2021, kadın, hikaye yarışması]
 comments: true
