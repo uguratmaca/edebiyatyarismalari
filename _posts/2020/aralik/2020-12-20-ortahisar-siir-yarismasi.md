@@ -5,7 +5,7 @@ description: "Ortahisar Belediyesi organizasyonuyla şiir kültürünün yaşat�
 tags: [aralık 2020, genel, şiir yarışması]
 comments: true
 lastDate: 1609362000 
-dateHuman: "31 Aralık 2021"
+dateHuman: "31 Aralık 2020"
 attendance: "Posta, Kargo"
 price: "13000 TL'dir"
 comTopic: "Cumhuriyet, Çanakkale Zafer, 15 Temmuz Destanı, Trabzon"
