@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kâzım Berzeg Makale Yarışması"
-description: "Liberal Düşünce Topluluğu hukukçu, avukat, yazar ve fikir insanı merhum Kâzım Berzeg'in anısına değerli ailesinin desteği ve katkılarıyla 2020 yılından itibaren her yıl Kâzım Berzeg Makale Yarışması düzenlemeye başlamıştır."
+description: "Liberal Düşünce Topluluğu hukukçu, avukat, yazar ve fikir insanı merhum Kâzım Berzeg'in anısına değerli ailesinin desteği ve katkılarıyla 2020 yılından itibaren her yıl Kâzım Berzeg Makale Yarışması düzenlemeye başlamıştır"
 tags: [ocak 2021, genel, makale yarışması]
 comments: true
 lastDate: 1610658000 
@@ -12,7 +12,7 @@ price: "10000 TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "kazim-berzeg-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/ocak/kazim-berzeg-makale-yarismasi.jpg"
-excerpt: "Liberal Düşünce Topluluğu hukukçu, avukat, yazar ve fikir insanı merhum Kâzım Berzeg'in anısına değerli ailesinin desteği ve katkılarıyla 2020 yılından itibaren her yıl Kâzım Berzeg Makale Yarışması düzenlemeye başlamıştır."
+excerpt: "Liberal Düşünce Topluluğu hukukçu, avukat, yazar ve fikir insanı merhum Kâzım Berzeg'in anısına değerli ailesinin desteği ve katkılarıyla 2020 yılından itibaren her yıl Kâzım Berzeg Makale Yarışması düzenlemeye başlamıştır"
 ---
 
 ## Kâzım Berzeg Makale Yarışması Şartları
