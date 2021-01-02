@@ -27,6 +27,9 @@ subline: "<strong>Şiir</strong>, duygu ve düşüncelerin ses ve ritme bağlı 
 <h3>Yahya Kemal Beyatlı (1884-1958)</h3>
 <p>Şiir Alanında Bilinen Eserleri: Kendi Gök Kubbemiz, Eski Şiirin Rüzgarlarıyla, Rubailer ve Hayyam, Rubailerini Türkçe Söyleyiş, Bitmemiş Şiirler.</p>
 <p>Yahya Kemal Beyatlı, 1948 yılında düzenlenen <strong>Şiir Yarışması</strong>nda “Hayal Şehir” eseriyle birinci olmuştur.</p><br>
+<h3>Mehmet Akif Ersoy (1873 – 1936)</h3>
+<p>Şiir Alanında Bilinen Eserleri: İstiklal Marşı, Zulmü Alkışlayamam, Hüsran, Ressam Haklı.</p>
+<a href='/mehmet-akif-ersoy-yarismalari/'> Mehmet Akif Ersoy Adına Yarışmalar </a><br><br>
 <h3>Ziya Gökalp (1876 – 1924)</h3>
 <p>Şiir Alanında Bilinen Eserleri: Kızıl Elma, Yeni Hayat, Altın Işık.</p><br>
 <h3>Mehmet Emin Yurdakul (1869 – 1944)</h3>

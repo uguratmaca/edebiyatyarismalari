@@ -2,7 +2,7 @@
 layout: post
 title: "Akif'e Mektuplar Mektup Yarışması"
 description: "Mehmet Akif Ersoy adına mektup yarışması düzenleniyor"
-tags: [şubat 2021, istanbul, ortaokul, lise, şiir yarışması]
+tags: [şubat 2021, istanbul, ortaokul, lise, şiir yarışması, mehmet akif ersoy]
 comments: true
 lastDate: 1613077200 
 dateHuman: "12 Şubat 2021"

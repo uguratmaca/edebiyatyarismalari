@@ -3,7 +3,7 @@ layout: post
 title: "Mehmet Akif ERSOY Resim ve Kompozisyon Yarışması"
 description: "çanakkale zaferi mehmet akif ersoy resim ve kompozisyon yarışması, ödüllü yarışmalar 2020"
 category: articles
-tags: [mart 2020, ortaokul, kompozisyon yarışması, resim yarışması]
+tags: [mart 2020, ortaokul, kompozisyon yarışması, resim yarışması, mehmet akif ersoy]
 comments: true
 lastDate: 1585602000    
 dateHuman: "31 Mart 2020"
