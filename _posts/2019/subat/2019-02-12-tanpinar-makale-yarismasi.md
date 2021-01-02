@@ -3,7 +3,7 @@ layout: post
 title: "Tanpınar Makale Yarışması"
 description: "bursa, ahmet hamdi tanpınar, makale yarışması"
 category: articles
-tags: [makale yarışması, mayıs 2019]
+tags: [makale yarışması, mayıs 2019, ahmet hamdi tanpınar]
 comments: true
 lastDate: 1556830800
 dateHuman: "3 Mayıs 2019"

@@ -2,7 +2,7 @@
 layout: post
 title: "Ahmet Hamdi Tanpınar Senaryo Edebiyat Ödülü"
 description: "Kepez Belediyesi Senaryo dalında Ahmet Hamdi Tanpınar Edebiyat Ödülü yarışması düzenlemektedir, son başvuru tarihi 17 Ağustos 2020' dir."
-tags: [ağustos 2020, genel, lise, üniversite, senaryo yarışması]
+tags: [ağustos 2020, genel, lise, üniversite, senaryo yarışması, ahmet hamdi tanpınar]
 comments: true
 lastDate: 1597611600  
 dateHuman: "17 Ağustos 2020"

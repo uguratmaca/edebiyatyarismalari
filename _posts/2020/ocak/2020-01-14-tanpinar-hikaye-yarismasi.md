@@ -3,7 +3,7 @@ layout: post
 title: "Tanpınar Hikaye Yarışması 2020"
 description: "ahmet hamdi tanpınar hikaye yarışması 2020, öykü yarışması, hikaye yarışmaları"
 category: articles
-tags: [haziran 2020, genel, hikaye yarışması]
+tags: [haziran 2020, genel, hikaye yarışması, ahmet hamdi tanpınar]
 comments: true
 lastDate: 1591304400
 dateHuman: "5 Haziran 2020"

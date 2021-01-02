@@ -3,7 +3,7 @@ layout: post
 title: "5. Ahmet Hamdi Tanpınar Edebiyat Yarışması"
 description: "5. Ahmet Hamdi Tanpınar Edebiyat Yarışması"
 category: articles
-tags: [masal yarışması, nisan 2019]
+tags: [masal yarışması, nisan 2019, ahmet hamdi tanpınar]
 comments: true
 lastDate: 1554411600
 dateHuman: "5 Nisan 2019"
