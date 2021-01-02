@@ -3,7 +3,7 @@ layout: post
 title: "12. Attila İlhan Liseli Gençler Kompozisyon Yarışması"
 description: "kompozisyon yarışması 2020, para ödüllü yarışmalar 2020, Attila İlhan Bilim Sanat Kültür Vakfı"
 category: articles
-tags: [şubat 2020, lise, kompozisyon yarışması]
+tags: [şubat 2020, lise, kompozisyon yarışması, attila ilhan]
 comments: true
 lastDate: 1581714000
 dateHuman: "15 Şubat 2020"

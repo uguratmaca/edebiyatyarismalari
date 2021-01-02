@@ -3,7 +3,7 @@ layout: post
 title: "2. Sabahattin Ali Öykü Yazma Yarışması"
 description: "fenerbahçe spor kulübü anadolu lisesi"
 category: articles
-tags: [mart 2019, hikaye yarışması, lise]
+tags: [mart 2019, hikaye yarışması, lise, sabahattin ali]
 comments: true
 lastDate: 1553806800
 dateHuman: "29 Mart 2019"

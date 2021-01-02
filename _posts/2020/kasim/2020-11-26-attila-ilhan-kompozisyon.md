@@ -2,7 +2,7 @@
 layout: post
 title: "13. Attila İlhan Kompozisyon Yarışması"
 description: "Attila İlhan Liseli Gençler Kompozisyon Yarışması Konusu Bilgi, mutluluğa zarar verebilir mi?. 13. Düzenlenen Yarışmaya Türkiye Geneli Resmi Ve Özel Lise Ve Dengi Okul Öğrencileri Katılabilir."
-tags: [şubat 2021, lise, kompozisyon yarışması]
+tags: [şubat 2021, lise, kompozisyon yarışması, attila ilhan]
 comments: true
 lastDate: 1614286800  
 dateHuman: "26 Şubat 2021"

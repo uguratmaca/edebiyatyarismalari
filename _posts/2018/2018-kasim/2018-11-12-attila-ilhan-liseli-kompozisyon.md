@@ -3,7 +3,7 @@ layout: post
 title: "Attila İlhan 11. Liseli Gençler Kompozisyon Yarışması"
 description: "Attila İlhan 11. Liseli Gençler Kompozisyon Yarışması"
 category: articles
-tags: []
+tags: [attila ilhan]
 comments: true
 ---
 

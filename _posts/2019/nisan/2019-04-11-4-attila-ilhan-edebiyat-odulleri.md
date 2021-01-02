@@ -3,7 +3,7 @@ layout: post
 title: "4. Attilâ İlhan Edebiyat Ödülleri"
 description: "4. attila ilhan edebiyat ödülleri, kitap yazma ödülleri, para ödüllü yarışmalar"
 category: articles
-tags: [haziran 2019, şiir yarışması, roman yarışması, genel]
+tags: [haziran 2019, şiir yarışması, roman yarışması, genel, attila ilhan]
 comments: true
 lastDate: 1560546000
 dateHuman: "15 Haziran 2019"

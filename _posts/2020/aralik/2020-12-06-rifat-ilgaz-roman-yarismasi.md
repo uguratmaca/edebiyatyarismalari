@@ -2,7 +2,7 @@
 layout: post
 title: "Rıfat Ilgaz Roman Yarışması"
 description: "Cide Belediyesi Rıfat Ilgaz adına roman yarışması düzenliyor."
-tags: [nisan 2021, genel, roman yarışması]
+tags: [nisan 2021, genel, roman yarışması, rıfat ılgaz]
 comments: true
 lastDate: 1618866000  
 dateHuman: "20 Nisan 2021"
