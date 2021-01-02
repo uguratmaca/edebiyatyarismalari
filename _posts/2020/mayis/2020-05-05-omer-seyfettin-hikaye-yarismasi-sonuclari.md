@@ -3,7 +3,7 @@ layout: post
 title: "Ömer Seyfettin 100. Yılı Anısı Hikaye Yarışması Sonuçları"
 description: "ömer seyfettin hikaye yarışması sonuçları, öykü yarışması sonuçları"
 category: articles
-tags: [sonuç]
+tags: [sonuç, ömer seyfettin]
 comments: true
 hidden: true
 permalink: "omer-seyfettin-hikaye-yarismasi-sonuclari-2020"

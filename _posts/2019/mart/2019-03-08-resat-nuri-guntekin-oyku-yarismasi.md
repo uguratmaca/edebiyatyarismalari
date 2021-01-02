@@ -3,7 +3,7 @@ layout: post
 title: "3. Reşat Nuri Güntekin Öykü Yarışması"
 description: "para ödüllü yarışmalar, vefa lisesi"
 category: articles
-tags: [mart 2019, hikaye yarışması, lise]
+tags: [mart 2019, hikaye yarışması, lise, reşat nuri güntekin]
 comments: true
 lastDate: 1553029200
 dateHuman: "20 Mart 2019"

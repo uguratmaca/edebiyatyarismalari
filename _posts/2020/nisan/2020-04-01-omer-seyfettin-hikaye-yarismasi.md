@@ -2,7 +2,7 @@
 layout: post
 title: "Ömer Seyfettin Hikaye Yarışması"
 description: "ömer seyfettin öğretmenler arası hikaye yarışması, hikaye yazma 2020"
-tags: [nisan 2020, öğretmen, hikaye yarışması]
+tags: [nisan 2020, öğretmen, hikaye yarışması, ömer seyfettin]
 comments: true
 lastDate: 1587070800    
 dateHuman: "17 Nisan 2020"

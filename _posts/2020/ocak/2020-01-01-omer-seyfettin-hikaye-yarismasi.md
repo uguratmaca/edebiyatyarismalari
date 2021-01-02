@@ -3,7 +3,7 @@ layout: post
 title: "Ömer Seyfettin Anısına Hikaye Yarışması"
 description: "ömer seyfettin anısına hikaye yarışması 2020, hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
 category: articles
-tags: [mart 2020, lise, üniversite, eğitimsen, hikaye yarışması]
+tags: [mart 2020, lise, üniversite, eğitimsen, hikaye yarışması, ömer seyfettin]
 comments: true
 lastDate: 1583442000
 dateHuman: "6 Mart 2020"

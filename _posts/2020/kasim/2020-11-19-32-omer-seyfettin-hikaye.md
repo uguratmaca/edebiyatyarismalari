@@ -2,7 +2,7 @@
 layout: post
 title: "32. Ömer Seyfettin Hikaye Yarışması"
 description: "Gönen Belediyesi her yıl tertiplediği Ömer Seyfettin Hikaye Yarışmasının bu sene 32.sini düzenliyor."
-tags: [ocak 2021, lise, genel, hikaye yarışması]
+tags: [ocak 2021, lise, genel, hikaye yarışması, ömer seyfettin]
 comments: true
 lastDate: 1611262800  
 dateHuman: "22 Ocak 2020"

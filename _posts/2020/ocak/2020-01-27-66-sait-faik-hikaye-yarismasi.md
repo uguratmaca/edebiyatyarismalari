@@ -3,7 +3,7 @@ layout: post
 title: "66. Sait Faik Hikaye Armağanı"
 description: "66. sait faik hikaye yarışması, öykü yarışması 2020"
 category: articles
-tags: [şubat 2020, genel, hikaye yarışması]
+tags: [şubat 2020, genel, hikaye yarışması, sait faik abasıyanık]
 comments: true
 lastDate: 1582837200
 dateHuman: "28 Şubat 2020"

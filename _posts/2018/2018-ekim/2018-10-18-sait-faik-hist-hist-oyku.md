@@ -3,7 +3,7 @@ layout: post
 title: "Hişt Hişt Genç Sait Faik Öykü Yarışması 2019"
 description: "Hişt Hişt Genç Sait Faik Öykü Yarışması 2019"
 category: articles
-tags: []
+tags: [sait faik abasıyanık]
 comments: true
 ---
 

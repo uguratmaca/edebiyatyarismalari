@@ -3,7 +3,7 @@ layout: post
 title: "Ölümünün 100'üncü Yılında Ömer Seyfettin Hikaye Yarışması"
 description: "para ödüllü hikaye yarışması, Ölümünün 100'üncü Yılında Ömer Seyfettin Hikaye Yarışması"
 category: articles
-tags: [eylül 2020, lise, hikaye yarışması]
+tags: [eylül 2020, lise, hikaye yarışması, ömer seyfettin]
 comments: true
 lastDate: 1598907600    
 dateHuman: "1 Eylül 2020"

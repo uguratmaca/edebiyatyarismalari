@@ -2,7 +2,7 @@
 layout: post
 title: "15. Hişt Hişt, Genç Sait Faik Öykü Yarışması"
 description: "para ödüllü öykü yarışmaları 2020, hikaye yazma yarışması 2020"
-tags: [mart 2020, lise, hikaye yarışması]
+tags: [mart 2020, lise, hikaye yarışması, sait faik abasıyanık]
 comments: true
 lastDate: 1585515600    
 dateHuman: "30 Mart 2020"
