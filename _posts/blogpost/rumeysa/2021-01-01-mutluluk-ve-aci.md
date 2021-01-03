@@ -2,7 +2,7 @@
 layout: post
 title: "Mutluluk ve Acı | Deneme | Blog"
 description: "Birçok şeyi arkamızda bırakıp gitmeliyiz belki de..."
-tags: [blog, deneme]
+tags: [blog, deneme, rümeysa ateş]
 comments: true
 permalink: "blog/mutluluk-ve-aci"
 excerpt: "Birçok şeyi arkamızda bırakıp gitmeliyiz belki de..."
