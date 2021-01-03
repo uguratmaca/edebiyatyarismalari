@@ -5,6 +5,7 @@ description: "Odasındaki ultraviyole ışınları geçirmeyen pencereden merakl
 tags: [blog, hikaye, uğur atmaca]
 comments: true
 permalink: "blog/eski-bir-yalan"
+image: "https://edebiyatyarismalari.com/images/2021/ocak/eski-bir-yalan.jpg"
 excerpt: "Odasındaki ultraviyole ışınları geçirmeyen pencereden meraklı gözlerle güneşi seyrediyordu."
 ---
 

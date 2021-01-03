@@ -5,6 +5,7 @@ description: "Senin suçun neydi?"
 tags: [blog, hikaye, uğur atmaca]
 comments: true
 permalink: "blog/azinliklar-raporu"
+image: "https://edebiyatyarismalari.com/images/2021/ocak/azinliklar-raporu.jpg"
 excerpt: "Senin suçun neydi?"
 ---
 
