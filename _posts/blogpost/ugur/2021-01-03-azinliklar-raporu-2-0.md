@@ -8,7 +8,7 @@ permalink: "blog/azinliklar-raporu"
 excerpt: "Senin suçun neydi?"
 ---
 
-## Sana ...
+## Azınlıklar Raporu 2.0
 - Senin suçun neydi?
 - Her ikimiz de biliyoruz ki suç işlemedik!
 - Evet, Bay Ukala. Tabii ki biliyorum ama sanırım beni anladın.
