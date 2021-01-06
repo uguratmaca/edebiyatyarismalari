@@ -12,18 +12,18 @@ excerpt: "Odasındaki ultraviyole ışınları geçirmeyen pencereden meraklı g
 ## Eski Bir Yalan
 Odasındaki ultraviyole ışınları geçirmeyen pencereden meraklı gözlerle güneşi seyrediyordu. Babasının yanına geldiğini kafasını okşayana kadar fark etmedi.  
 
-- Baba, ben nasıl oldum?  
+-- Baba, ben nasıl oldum?  
 
 Babasının anlamayan gözlerle baktığını görünce:  
 
-- Yani Ogo’ya nasıl geldim?  
+-- Yani Ogo’ya nasıl geldim?  
 
 Ogo insan yapımı on birinci gezegendi ve adını canlı hayatın var olduğu bilinen on ikinci gezegen olduğu için “twelve monkeys” filminden almıştı. Dünyadan yaklaşık olarak altı yüz kat küçüktü. Güneşin etrafında dünyanın takip ettiği yörüngeyi izliyordu fakat dünyadan üç ay gerideydi. Kütlesi çok daha küçük olduğundan yörüngede tutunabilmek için roket gücü kullanıyordu.
 Soru karşısında babası önce biraz afalladı. Bundan yedi sene önce eşiyle birlikte çocuk sahibi olmak için laboratuvara gittikleri günü hatırladı. Görevli, sahip olmak istedikleri çocuğun özelliklerini seçmeleri için onları bir odaya yönlendirmişti. Odada önce kan örneği verdiler. DNA analizi sonucuna göre belirleyecekleri özellikler kısıtlanıyordu. Eğer çiftte aynı çekinik genler bulunuyorsa bazı baskın genleri seçemiyorlardı. Yapılan incelemeler sonucunda odada muhtemel çocuklarının bir, yedi, on dört ve yirmi bir yaşındaki hologram görüntüleri belirdi. Ses komutları ile istedikleri özellikleri güncellediler.  
 
-- Boyu biraz daha uzun olsun.
-- Göz rengi mavi olsun.
-- Ten rengini biraz koyulaştırabilir miyiz? Hayır, hayır eski haline alalım.  
+-- Boyu biraz daha uzun olsun.  
+-- Göz rengi mavi olsun.  
+-- Ten rengini biraz koyulaştırabilir miyiz? Hayır, hayır eski haline alalım.  
 
 Son şekline karar verdikten sonra sahip olmasını istedikleri karakter ve zekâ üzerine yoğunlaştılar. Dahi bir evlat edinmek isterseniz duygusal özelliklerinden feragat etmeniz gerekiyordu ya da aksine iyi kalpli, sevecen ve uyumlu bir kişilik için ne yazık ki çok yüksek zekâ talep edemiyordunuz.  
 
@@ -35,7 +35,7 @@ Seçilen özellikleri taşıyacak şekilde suni ortamda döllenme gerçekleştir
 İki sene dolduğunda bebek ebeveynlerine leylek adı verilen, sadece teslimat işinden sorumlu kişilerden oluşan bir ekip ile teslim edildi. Bu ekip üyelerinin adı halk oylaması ile seçilmişti. Çocukken ailelerinden leylekler tarafından getirildiği yalanını duymaktan bıkmış olan bir nesil kendi çocuklarına bu yalanı söylememek için ekip üyelerine bu ismi seçmeyi uygun bulmuşlardı.  
 
 Çocuk tekrarladı.  
-- Daldın baba. Haydi, cevap ver, nasıl oldum?
-- Leylekler… Seni leylekler getirdi oğlum.
+-- Daldın baba. Haydi, cevap ver, nasıl oldum?  
+-- Leylekler… Seni leylekler getirdi oğlum.  
 
 ### [Uğur Atmaca]({{ site.url }}/ugur-atmaca)
