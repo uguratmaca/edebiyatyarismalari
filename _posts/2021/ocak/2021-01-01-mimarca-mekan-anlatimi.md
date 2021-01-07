@@ -2,7 +2,7 @@
 layout: post
 title: "Mimarca Mekan Anlatımı Metin Yarışması"
 description: "Mimarca Mekan Anlatıımı Metin Yarışması düz yazılar öykü, hikaye ya da deneme türünde olabilir."
-tags: [ocak 2021, genel, deneme yarışması, öykü yarışması]
+tags: [ocak 2021, genel, deneme yarışması, hikaye yarışması, mehmet akif ersoy]
 comments: true
 lastDate: 1610658000 
 dateHuman: "15 Ocak 2021"
