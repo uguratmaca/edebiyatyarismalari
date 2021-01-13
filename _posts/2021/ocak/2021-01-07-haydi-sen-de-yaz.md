@@ -4,7 +4,7 @@ title: "Haydi Sen de Yaz"
 description: "6 ay sürecek olan edebiyat yarışmalarımızın ilki ile başlıyoruz."
 tags: [ocak 2021, genel, kompozisyon yarışması]
 comments: true
-lastDate: 1579726800 
+lastDate: 1611349200 
 dateHuman: "23 Ocak 2021"
 attendance: "E-Posta"
 comTopic: "Ne İçin Yaşıyoruz?"
