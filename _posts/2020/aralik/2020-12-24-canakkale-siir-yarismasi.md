@@ -2,10 +2,10 @@
 layout: post
 title: "100 Yıl Sonra Çanakkale Akif'ini Arıyor Şiir Yarışması"
 description: "Anadolu Gençlik Derneği Üsküdar Şiir Yarışması düzenliyor"
-tags: [ocak 2021, genel, şiir yarışması]
+tags: [şubat 2021, genel, şiir yarışması]
 comments: true
-lastDate: 1611522000 
-dateHuman: "25 Ocak 2021"
+lastDate: 1614459600 
+dateHuman: "28 Şubat 2021"
 attendance: "E-Posta, Websitesi"
 price: "1750 TL'dir"
 comTopic: "Çanakkale Zaferi"
@@ -29,4 +29,5 @@ excerpt: "Anadolu Gençlik Derneği Üsküdar Şiir Yarışması düzenliyor"
 - Üçüncülük 2000 TL
 
 Başvuru için:  
-**canakkaleakif1936@hotmail.com**
+**canakkaleakif1936@hotmail.com**  
+Yarışmaya başvuranlar maile şiirleri ile birlikte kimlik ve adres bilgilerini de eklemeleri gerekmektedir.
