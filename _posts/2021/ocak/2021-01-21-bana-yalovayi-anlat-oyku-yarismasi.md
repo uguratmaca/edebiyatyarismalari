@@ -10,7 +10,7 @@ attendance: "Okul Müdürlükleri"
 comTopic: "Yalova"
 requirements: "Yarışmaya Müdürlüğümüze bağlı resmî ve özel liselerde okuyan 9, 10, 11 ve 12. sınıf öğrencileri katılabileceklerdir."
 permalink: "bana-yalovayi-anlat-kisa-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2021/ocak/yalovada-kisa-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2021/ocak/bana-yalovayi-anlat-oyku-yarismasi.jpg"
 excerpt: "Yerel özelliklerin olduğu postmodern çağ olarak atfedilen günümüzde, değerlerimiz disiplinlerarası bir yaklaşımla okullarımızda yükselmektedir. Bu bağlamda ilimizin edebi değerini arttırmak, okullarımızdaki genç kalemlerin sesini duyurmak amacıyla bu yıl ilk kez gerçekleştirilecek olan Bana Yalova’yı Anlat Liseler Arası Kısa Öykü Yarışması düzenlemiştir."
 ---
 
