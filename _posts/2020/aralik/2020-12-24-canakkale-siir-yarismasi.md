@@ -27,3 +27,6 @@ excerpt: "Anadolu Gençlik Derneği Üsküdar Şiir Yarışması düzenliyor"
 - Birincilik 5000 TL
 - İkincilik 3000 TL
 - Üçüncülük 2000 TL
+
+Başvuru için:  
+**canakkaleakif1936@hotmail.com**
