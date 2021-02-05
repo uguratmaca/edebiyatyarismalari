@@ -2,7 +2,7 @@
 layout: post
 title: "100 Yıl Sonra Çanakkale Akif'ini Arıyor Şiir Yarışması"
 description: "Anadolu Gençlik Derneği Üsküdar Şiir Yarışması düzenliyor"
-tags: [şubat 2021, genel, şiir yarışması]
+tags: [şubat 2021, genel, şiir yarışması, mehmet akif ersoy]
 comments: true
 lastDate: 1614459600 
 dateHuman: "28 Şubat 2021"
