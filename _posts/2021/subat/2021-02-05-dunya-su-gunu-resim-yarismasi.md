@@ -7,7 +7,7 @@ comments: true
 lastDate: 1613077200 
 dateHuman: "12 Şubat 2021"
 attendance: "İlgili Devlet Su İşleri Bölge Müdürlüklerine"
-comTopic: "Suyun Değeri”"
+comTopic: "Suyun Değeri"
 price: "15 Bin TL'dir"
 requirements: "7. ve 8. sınıf öğrencileri katılabilir"
 permalink: "dunya-su-gunu-resim-kompozisyon-yarismasi"
