@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bir Cümle Bırak"
-description: "Edebiyatseverleri yazmaya, düşünmeye, manevi değerlere ve güncel olaylara ilgisini arttırmak. Bu doğrultuda yazma yolunda ilk adımı atmaya yardımcı olmak. Her ay yapacağımız bu yarışmanın ilkine konusu, manevi bir olgu olan "Hoşgörü" ile başlıyoruz"
+description: "Edebiyatseverleri yazmaya, düşünmeye, manevi değerlere ve güncel olaylara ilgisini arttırmak. Bu doğrultuda yazma yolunda ilk adımı atmaya yardımcı olmak. Her ay yapacağımız bu yarışmanın ilkine konusu, manevi bir olgu olan Hoşgörü ile başlıyoruz"
 tags: [ocak 2021, genel, mikro hikaye yarışması]
 comments: true
 lastDate: 1611522000 
@@ -11,7 +11,7 @@ comTopic: "Hoşgörü"
 requirements: "İsteyen herkes katılabilir"
 permalink: "bir-cumle-birak-edebiyat-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/ocak/bir-cumle-birak-edebiyat-yarismasi.jpg"
-excerpt: "Edebiyatseverleri yazmaya, düşünmeye, manevi değerlere ve güncel olaylara ilgisini arttırmak. Bu doğrultuda yazma yolunda ilk adımı atmaya yardımcı olmak. Her ay yapacağımız bu yarışmanın ilkine konusu, manevi bir olgu olan "Hoşgörü" ile başlıyoruz"
+excerpt: "Edebiyatseverleri yazmaya, düşünmeye, manevi değerlere ve güncel olaylara ilgisini arttırmak. Bu doğrultuda yazma yolunda ilk adımı atmaya yardımcı olmak. Her ay yapacağımız bu yarışmanın ilkine konusu, manevi bir olgu olan Hoşgörü ile başlıyoruz"
 ---
 
 ## Bir Cümle Bırak Edebiyat Yarışması
