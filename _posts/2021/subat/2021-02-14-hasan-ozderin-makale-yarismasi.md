@@ -2,7 +2,7 @@
 layout: post
 title: "10. Hasan Özderin Makale Yarışması"
 description: "Akdeniz Üniversitesi her yıl düzenlediği Hasan Özderin Makale Yarışmasının 10.sunu düzenliyor."
-tags: [eylül 2021, üniversitesi, şiir yarışması]
+tags: [eylül 2021, üniversite, makale yarışması]
 comments: true
 lastDate: 1630443600 
 dateHuman: "1 Eylül 2021"
