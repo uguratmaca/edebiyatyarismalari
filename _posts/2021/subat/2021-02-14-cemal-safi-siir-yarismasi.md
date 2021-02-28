@@ -30,7 +30,7 @@ excerpt: "İlkadım Belediyesi 2021 Cemal Safi Şiir Yarışmasını duyurdu."
 - Tüm eserlerin telif hakkı İlkadım Belediyesi’ne ait olup iade edilmez. Yarışmacılar ödül alan ve yayınlanmaya uygun bulunan şiirlerinin Belediyemiz tarafından hazırlanacak olan albümde yayınlanmasını yarışmaya katılmakla kabul etmiş sayılacaklardır. 
 - Ödüle hak kazanan (İlk 3) ve şehir dışından Samsun’a gelecek olan yarışmacıların bir (1) kişilik ulaşım ve konaklama masrafları belediyemize aittir. Ödül gecesine katılmayanların (mansiyonlar hariç) ödülleri verilmeyecektir.
 
-E-Posta: cemalsafi2020@ilkadim.bel.tr
+E-Posta: **cemalsafi2021@ilkadim.bel.tr**
 
 Değerlendirme Kriterleri:  
 Yarışmaya başvuran şiirler, Seçici Kurul tarafından belirlenen aşağıdaki kriterlere göre 100 üzerinden puanlama yolu ile değerlendirilecektir.  
