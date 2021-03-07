@@ -18,4 +18,4 @@ Bir kültür sanat, fikir ve edebiyat forum sitesi olan **O Belde**, Türkçenin
 
  Müsabakaya katılmak için en az 750 kelimelik makalenizi **O Belde**'de Edebiyat kategorisindeki **[Lisaniyat](https://obelde.com/viewforum.php?f=8?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}** forumunda paylaşmanız ve **O Belde**'yi sosyal medyada takip etmeniz kafidir.
 
- Daha fazla bilgi için **[Lisaniyat](https://obelde.com?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}** adresini ziyaret ediniz. 
+ Daha fazla bilgi için **[obelde.com](https://obelde.com?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}** adresini ziyaret ediniz. 
