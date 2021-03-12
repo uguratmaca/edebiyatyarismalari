@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "İstiklal Marşının Kabulu 100. Yıl Yarışmalar"
+title: "İstiklal Marşının Kabulünün 100. Yılı Yarışmaları"
 description: "İstiklal Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü 100. Yıl Dönümü kapsamında Mektup Yarışması, Resim Yarışması,
  Kompozisyon Yarışması, Kısa Film Yarışması, Grafiti Yarışması, Kara Kalem Yarışması ve İstiklal Marşı Güzel Okuma Yarışması tertiplenmiştir."
 tags: [nisan 2021, ilkokul, ortaokul, kompozisyon yarışması, kısa film yarışması, mektup yarışması, resim yarışması]
