@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "İstiklal Marşının Kabulu 100. Yıl Yarışmalar"
-description: "Ocak ayında başlattığımız ve 6 ay sürecek olan edebiyat yarışmamızın üçüncüsü ile devam ediyoruz."
+description: "İstiklal Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü 100. Yıl Dönümü kapsamında Mektup Yarışması, Resim Yarışması,
+ Kompozisyon Yarışması, Kısa Film Yarışması, Grafiti Yarışması, Kara Kalem Yarışması ve İstiklal Marşı Güzel Okuma Yarışması tertiplenmiştir."
 tags: [nisan 2021, ilkokul, ortaokul, kompozisyon yarışması, kısa film yarışması, mektup yarışması, resim yarışması]
 comments: true
 lastDate: 1617310800 
@@ -11,7 +12,8 @@ comTopic: "İstiklâl Marşının Kabulü ve Mehmet Âkif Ersoy’u Anma Günü�
 requirements: "İlkokul ve ortaokul öğrencileri ilgili kategorilere katılabilir"
 permalink: "istiklal-marsi-100-yil-yarismalar"
 image: "https://edebiyatyarismalari.com/images/2021/mart/istiklal-marsi-100-yil-mektup.jpg"
-excerpt: "Ocak ayında başlattığımız ve 6 ay sürecek olan edebiyat yarışmamızın üçüncüsü ile devam ediyoruz."
+excerpt: "İstiklal Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü 100. Yıl Dönümü kapsamında Mektup Yarışması, Resim Yarışması,
+ Kompozisyon Yarışması, Kısa Film Yarışması, Grafiti Yarışması, Kara Kalem Yarışması ve İstiklal Marşı Güzel Okuma Yarışması tertiplenmiştir."
 ---
 
 ## İstiklal Marşı'nın Kabulü ve Mehmet Akif Ersoy'u Anma Günü 100. Yıl Dönümü Yarışmalar
