@@ -3,15 +3,15 @@ layout: post
 title: "1. Oğuz Atay Öykü Ödülü 2021"
 description: "İnebolu Kültür ve Sanat Derneği 1. Oğuz Atay Öykü Ödülü düzenliyor."
 category: articles
-tags: [haziran 2021, ortaokul, lise, hikaye yarışması]
+tags: [haziran 2021, genel, hikaye yarışması]
 comments: true
 lastDate: 1625000400    
 dateHuman: "30 Haziran 2021"
 comTopic: "Serbest"
 attendance: "Websitesi"
 requirements: "Katılım herkese açıktır"
-permalink: "bir-gunluk-bilim-insani-makale-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/mart/nasa-bir-gunluk-bilim-insani-makale-yarismasi.jpg"
+permalink: "oguz-atay-oyku-odulu"
+image: "https://edebiyatyarismalari.com/images/2020/mart/oguz-atay-oyku-odulu.jpg"
 excerpt: "İnebolu Kültür ve Sanat Derneği 1. Oğuz Atay Öykü Ödülü düzenliyor."
 ---
 
