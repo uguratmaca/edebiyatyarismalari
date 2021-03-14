@@ -11,7 +11,7 @@ comTopic: "Serbest"
 attendance: "Websitesi"
 requirements: "Katılım herkese açıktır"
 permalink: "oguz-atay-oyku-odulu"
-image: "https://edebiyatyarismalari.com/images/2020/mart/oguz-atay-oyku-odulu.jpg"
+image: "https://edebiyatyarismalari.com/images/2021/mart/oguz-atay-oyku-odulu.jpg"
 excerpt: "İnebolu Kültür ve Sanat Derneği 1. Oğuz Atay Öykü Ödülü düzenliyor."
 ---
 
