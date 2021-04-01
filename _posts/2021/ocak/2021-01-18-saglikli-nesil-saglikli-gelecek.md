@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sağlıklı Nesil Sağlıklı Gelecek Yarışması"
-description: "Öğrencilerin bağımlılık konularına duyarlılığını artırmak, yeteneklerini teşvik etmek ve başarılı bulunan eserleri ödüllendirmek amacıyla gerçekleştirilen Sağlıklı Nesil Sağlıklı Gelecek yarışması 2011 yılından beri her yıl düzenli olarak yapılmaktadır."
+description: "Öğrencilerin bağımlılık konularına duyarlılığını artırmak, yeteneklerini teşvik etmek ve başarılı bulunan eserleri ödüllendirmek amacıyla gerçekleştirilen Sağlıklı Nesil Sağlıklı Gelecek 2021 şiir, kompozisyon yarışması 2011 yılından beri her yıl düzenli olarak yapılmaktadır."
 tags: [mart 2021, ilkokul, ortaokul, lise, afiş yarışması, resim yarışması, karikatür yarışması, şiir yarışması, hikaye yarışması, kompozisyon yarışması, deneme yarışması, anı yarışması]
 comments: true
 lastDate: 1617138000 
@@ -12,7 +12,7 @@ comTopic: "Bağımlılık"
 requirements: "İlkokul, ortaokul ve lise kademelerinde öğrenim gören öğrenciler tarafından görsel ve edebi kategorilerde hazırlanacak olan eserleri kapsayacaktır."
 permalink: "saglikli-nesil-gelecek-yarismasi-2021"
 image: "https://edebiyatyarismalari.com/images/2021/ocak/saglikli-nesil-saglikli-gelecek-yetenek-yarismasi.jpg"
-excerpt: "Öğrencilerin bağımlılık konularına duyarlılığını artırmak, yeteneklerini teşvik etmek ve başarılı bulunan eserleri ödüllendirmek amacıyla gerçekleştirilen Sağlıklı Nesil Sağlıklı Gelecek yarışması 2011 yılından beri her yıl düzenli olarak yapılmaktadır."
+excerpt: "Öğrencilerin bağımlılık konularına duyarlılığını artırmak, yeteneklerini teşvik etmek ve başarılı bulunan eserleri ödüllendirmek amacıyla gerçekleştirilen Sağlıklı Nesil Sağlıklı Gelecek 2021 şiir, kompozisyon yarışması 2011 yılından beri her yıl düzenli olarak yapılmaktadır."
 ---
 
 ## Sağlıklı Nesil Sağlıklı Gelecek Yarışması
