@@ -11,7 +11,7 @@ comTopic: "Yunus Emre’nin çağları aşan düşünceleri aracılığıyla Ana
 attendance: "Websitesi"
 requirements: "1.Kategori: İlköğretim / Çocuk (6-14 Yaş) 2.Kategori: Ortaöğrenim/ Genç (14- 18 Yaş)"
 permalink: "yunus-emre-hikaye-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/nisan/yunus-emre-hikaye-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2021/nisan/yunus-emre-hikaye-yarismasi.jpg"
 excerpt: "6-18 yaşındaki öğrenciler için Yunus Emre Hikaye yarışması düzenleniyor."
 ---
 

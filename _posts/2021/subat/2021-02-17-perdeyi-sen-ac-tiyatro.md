@@ -4,7 +4,7 @@ title: "Perdeyi Sen Aç Genç Oyun Yazarları Yarışması"
 description: "T.C. Kültür Bakanlığı maddi katkılarıyla, Sahne ve Gösteri Sanatları Derneği PERDEYİ SEN AÇ!sloganıyla birlikte geleceğin genç oyun yazarlarını arıyor."
 tags: [mart 2021, üniversite, tiyatro oyunu yazma yarışması]
 comments: true
-lastDate: 1620162000 
+lastDate: 1615496400 
 dateHuman: "12 Mart 2021"
 attendance: "Posta, Kargo"
 comTopic: "Türkiye’de Yenilenebilir Enerji Kaynakları"
