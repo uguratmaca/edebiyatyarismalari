@@ -11,6 +11,7 @@ comTopic: "Serbest"
 attendance: "E-Posta, Kargo, Posta, Elden"
 requirements: "Yarışmada yaş sınırlaması yoktur. Katılımcılar için herhangi bir şehir veya bölge sınırlaması yoktur. Yurt içi ve yurt dışından katılımlar mümkündür."
 permalink: "sehr-i-van-a-siir-yakisir"
+image: "https://edebiyatyarismalari.com/images/2021/nisan/sehr-i-van-a-siir-yakisir.jpg"
 excerpt: "Van Tutku Radyo, Radyo Tamara ile Van Gölü İncileri Edebiyat Sayfası birlikteliğiyle gerçekleştirilen ulusal Şehr-İ Van'a Şiir Yakışır Şiir Yazma Yarışması düzenlenmektedir."
 ---
 
