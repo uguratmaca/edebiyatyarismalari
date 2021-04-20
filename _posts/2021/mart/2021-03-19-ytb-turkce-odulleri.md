@@ -3,7 +3,7 @@ layout: post
 title: "YTB Türkçe Ödülleri Yunus Emre Özel"
 description: "Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı öykü, şiir, deneme, kitap desteği yarışması düzenliyor"
 category: articles
-tags: [haziran 2020, genel, hikaye yarışması, şiir yarışması, deneme yarışması, kitap yarışması]
+tags: [haziran 2020, genel, hikaye yarışması, şiir yarışması, deneme yarışması, kitap yarışması, yunus emre]
 comments: true
 lastDate: 1625000400    
 dateHuman: "30 Haziran 2021"

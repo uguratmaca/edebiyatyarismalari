@@ -3,7 +3,7 @@ layout: post
 title: "12. Yunus Emre Şiir Yarışması"
 description: "eskişehir sanat derneği 12. yunus emre şiir yarışması"
 category: articles
-tags: [mart 2020, genel, şiir yarışması]
+tags: [mart 2020, genel, şiir yarışması, yunus emre]
 comments: true
 lastDate: 1584219600    
 dateHuman: "15 Mart 2020"

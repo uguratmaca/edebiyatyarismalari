@@ -3,7 +3,7 @@ layout: post
 title: "11. Yunus Emre Şiir Yarışması"
 description: "güncel şiir yarışması 2019, 2019 şiir yarışmaları"
 category: articles
-tags: [eylül 2019, şiir yarışması]
+tags: [eylül 2019, şiir yarışması, yunus emre]
 comments: true
 lastDate: 1568062800
 dateHuman: "10 Eylül 2019"

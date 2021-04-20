@@ -3,7 +3,7 @@ layout: post
 title: "Yaşar Üniversitesi Şiir ve Öykü Yarışması"
 description: "Yaşar Üniversitesi Şiir ve Öykü Yarışması düzenliyor."
 category: articles
-tags: [mayıs 2021, genel, üniversite, şiir yarışması, hikaye yarismasi]
+tags: [mayıs 2021, genel, üniversite, şiir yarışması, hikaye yarışması]
 comments: true
 lastDate: 1620162000    
 dateHuman: "5 Mayıs 2021"

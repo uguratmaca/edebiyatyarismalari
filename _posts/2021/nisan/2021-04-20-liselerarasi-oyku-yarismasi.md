@@ -3,7 +3,7 @@ layout: post
 title: "Birinci Liseler Arası Öykü Yarışması"
 description: "Alanya Kaymakamlığı Türkler İMKB Sosyal Bilimler Lisesi Liseler arası Öykü Yarışması düzenliyor."
 category: articles
-tags: [nisan 2021, lise, hikaye yarismasi]
+tags: [nisan 2021, lise, hikaye yarışması]
 comments: true
 lastDate: 1619038800    
 dateHuman: "22 Nisan 2021"
