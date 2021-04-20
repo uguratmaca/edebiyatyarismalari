@@ -22,8 +22,8 @@ excerpt: "Gençlik ve Spor Bakanlığı Eğitim, Araştırma ve Koordinasyon Gen
 - Eserin yer aldığı dosyaya yarışmacının adı verilecektir. (Örnek Ad Soyad)
 
 ## Gençlerin Kaleminde Bir Yunus Emre Deneme Yarışması Ödülleri
-- 1’inci:  Dizüstü Bilgisayar
-- 2’inci:   Akıllı Telefon
-- 3’üncü:  Akıllı Saat
+- 1’inci: Dizüstü Bilgisayar
+- 2’inci: Akıllı Telefon
+- 3’üncü: Akıllı Saat
 
 ### [Başvuru Formu](https://e-genc.gsb.gov.tr/EGenc/Basvuru/OykuYarismasi){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
