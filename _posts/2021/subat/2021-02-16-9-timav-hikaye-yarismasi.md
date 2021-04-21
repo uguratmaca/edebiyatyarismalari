@@ -2,13 +2,13 @@
 layout: post
 title: "TİMAV 9. Geleneksel Hikaye Yarışması"
 description: "Türkiye İmam Hatipliler Vakfı (TİMAV) tarafından geleneksel hale getirilen hikâye yarışmalarının bu yıl dokuzuncusu düzenleniyor"
-tags: [mayıs 2021, genel, hikaye yarışması]
+tags: [mayıs 2021, lise, hikaye yarışması]
 comments: true
 lastDate: 1620162000 
 dateHuman: "5 Mayıs 2021"
 attendance: "E-Posta"
 comTopic: "Yeni Normal Hayat"
-requirements: "İsteyen herkes katılabilir"
+requirements: "Türkiye genel örgün eğitim kapsamında eğitim öğretim yapan Anadolu İmam Hatip Liseleri'nde öğrenim gören öğrenciler başvuru yapabilir. Yarışmaya Açıköğretim İHL'de okuyanlar katılamazlar"
 permalink: "yeni-normal-hayat-timav-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/subat/9-timav-hikaye-yarismasi.jpg"
 excerpt: "Türkiye İmam Hatipliler Vakfı (TİMAV) tarafından geleneksel hale getirilen hikâye yarışmalarının bu yıl dokuzuncusu düzenleniyor"
