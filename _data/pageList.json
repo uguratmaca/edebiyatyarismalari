@@ -1,0 +1,146 @@
+{
+    "ilkokul": {
+        "url": "ilkokul-ogrencileri-edebiyat-yarismalari/",
+        "title": "İlkokul Yarışmaları"
+    },
+    "ortaokul": {
+        "url": "ortaokul-edebiyat-yarismalari/",
+        "title": "Ortaokul Yarışmaları"
+    },
+    "lise": {
+        "url": "lise-edebiyat-yarismalari/",
+        "title": "Lise Yarışmaları"
+    },
+    "üniversite": {
+        "url": "universite-ogrencileri-edebiyat-yarismalari/",
+        "title": "Üniversite Yarışmaları"
+    },
+    "genel": {
+        "url": "genel-edebiyat-yarismalari/",
+        "title": "Genel Edebiyat Yarışmaları"
+    },
+    "şiir yarışması": {
+        "url": "siir-yarismalari/",
+        "title": "Şiir Yarışmaları"
+    },
+    "hikaye yarışması": {
+        "url": "hikaye-yarismalari/",
+        "title": "Hikaye, Öykü Yarışmaları"
+    },
+    "makale yarışması": {
+        "url": "makale-yarismalari/",
+        "title": "Makale Yarışmaları"
+    },
+    "kompozisyon yarışması": {
+        "url": "kompozisyon-yarismalari/",
+        "title": "Kompozisyon Yarışmaları"
+    },
+    "resim yarışması": {
+        "url": "resim-yarismalari/",
+        "title": "Resim Yarışmaları"
+    },
+    "deneme yarışması": {
+        "url": "deneme-yarismalari/",
+        "title": "Deneme Yarışmaları"
+    },
+    "roman yarışması": {
+        "url": "roman-yarismalari/",
+        "title": "Roman, Kitap Yarışmaları"
+    },
+    "senaryo yarışması": {
+        "url": "senaryo-yarismalari/",
+        "title": "Senaryo Yarışmaları"
+    },
+    "masal yarışması": {
+        "url": "masal-yarismalari/",
+        "title": "Masal Yarışmaları"
+    },
+    "karikatür yarışması": {
+        "url": "karikatur-yarismalari/",
+        "title": "Karikatür Yarışmaları"
+    },
+    "mektup yarışması": {
+        "url": "mektup-yarismalari/",
+        "title": "Mektup Yarışmaları"
+    },
+    "fotoğraf yarışması": {
+        "url": "fotograf-yarismalari/",
+        "title": "Fotoğraf Yarışmaları"
+    },
+    "sonuç": {
+        "url": "yarisma-sonuclari/",
+        "title": "Yarışma Sonuçları"
+    },
+    "beste yarışması": {
+        "url": "beste-yarismalari/",
+        "title": "Beste Yarışmaları"
+    },
+    "sabahattin ali": {
+        "url": "sabahattin-ali-yarismalari/",
+        "title": "Sabahattin Ali Yarışmalar"
+    },
+    "rıfat ılgaz": {
+        "url": "rifat-ilgaz-yarismalari/",
+        "title": "Rıfat Ilgaz Yarışmalar"
+    },
+    "attila ilhan": {
+        "url": "attila-ilhan-yarismalari/",
+        "title": "Attila İlhan Yarışmalar"
+    },
+    "cemal süreya": {
+        "url": "cemal-sureya-yarismalari/",
+        "title": "Cemal Süreya Yarışmalar"
+    },
+    "mehmet akif ersoy": {
+        "url": "mehmet-akif-ersoy-yarismalari/",
+        "title": "Mehmet Akif Ersoy Yarışmalar"
+    },
+    "yunus emre": {
+        "url": "yunus-emre-yarismalari/",
+        "title": "Yunus Emre Yarışmalar"
+    },
+    "ahmet hamdi tanpınar": {
+        "url": "ahmet-hamdi-tanpinar-yarismalari/",
+        "title": "Ahmet Hamdi Tanpınar Yarışmalar"
+    },
+    "ömer seyfettin": {
+        "url": "omer-seyfettin-yarismalari/",
+        "title": "Ömer Seyfettin Yarışmalar"
+    },
+    "reşat nuri güntekin": {
+        "url": "resat-nuri-guntekin-yarismalari/",
+        "title": "Reşat Nuri Güntekin Yarışmalar"
+    },
+    "sait faik abasıyanık": {
+        "url": "sait-faik-abasiyanik-yarismalari/",
+        "title": "Sait Faik Abasıyanık Yarışmalar"
+    },
+    "kısa film yarışması": {
+        "url": "kisa-film-yarismalari/",
+        "title": "Kısa Film Yarışmaları"
+    },
+    "istanbul": {
+        "url": "istanbul-edebiyat-yarismalari/",
+        "title": "İstanbul Yarışmaları"
+    },
+    "bursa": {
+        "url": "bursa-edebiyat-yarismalari/",
+        "title": "Bursa Yarışmaları"
+    },
+    "eskişehir": {
+        "url": "eskisehir-edebiyat-yarismalari/",
+        "title": "Eskişehir Yarışmaları"
+    },
+    "samsun": {
+        "url": "samsun-edebiyat-yarismalari/",
+        "title": "Samsun Yarışmaları"
+    },
+    "kazanan": {
+        "url": "edebiyat-yarismalari-kazananlar/",
+        "title": "Edebiyat Yarışmaları Kazananlar"
+    },
+    "blog": {
+        "url": "blog/",
+        "title": "Edebiyat Yarışmaları Blog"
+    }
+}
