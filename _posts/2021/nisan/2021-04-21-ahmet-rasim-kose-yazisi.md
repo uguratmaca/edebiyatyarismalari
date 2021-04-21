@@ -11,7 +11,7 @@ comTopic: "Serbest"
 attendance: "Websitesi"
 requirements: "İstanbul İli Geneli, İstanbul'daki 6, 7. ve 8. sınıf öğrencileri"
 permalink: "14-ahmet-rasim-kose-yazisi-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2021/nisan/yunus-emre-deneme-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2021/nisan/ahmet-rasim-kose-yazisi-yazma-yarismasi.jpeg"
 excerpt: "Darüşşafaka Eğitim Kurumları 14. Ahmet Rasim Yaşıyor Köşe Yazısı Yazma Yarışması düzenliyor."
 ---
 
