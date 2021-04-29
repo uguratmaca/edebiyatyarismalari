@@ -2,10 +2,10 @@
 layout: post
 title: "Telsim Kısa Öykü Yarışması"
 description: "Milli Eğitim ve Kültür Bakanlığı, Telsim ile birlikte ülkemizin geleceği olan çocukların ve gençlerin, okuyan, yazan, sorgulayan, araştıran, düşünen bireyler olarak yetişmesine katkı koymak, onlara edebiyatı sevdirmek, geleceğin yazarlarına fırsat vermek ve onları teşvik etmek amacıyla, Ortaokullar ve Liseler Arası Kısa Öykü Yarışması düzenliyor."
-tags: [nisan 2021, lise, kıbrıs, ortaokul, hikaye yarışması]
+tags: [mayıs 2021, lise, kıbrıs, ortaokul, hikaye yarışması]
 comments: true
-lastDate: 1619730000  
-dateHuman: "30 Nisan 2021"
+lastDate: 1622408400  
+dateHuman: "31 Mayıs 2021"
 attendance: "E-Posta"
 comTopic: "Kıbrıs öykülerini büyükler anlatıyor, gençler yazıyor"
 requirements: "Yarışmaya Millî Eğitim ve Kültür Bakanlığı’na bağlı resmî ve özel okullardaki Ortaokul (6.7.8.) ve Lise (9.10.11.12.) öğrencileri katılabileceklerdir."
