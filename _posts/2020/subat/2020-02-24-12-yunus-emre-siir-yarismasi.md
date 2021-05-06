@@ -10,7 +10,6 @@ dateHuman: "15 Mart 2020"
 comTopic: "Serbest ve Yunus Emre"
 attendance: "Posta/Kargo/Elden"
 requirements: "Yarışmaya isteyen herkes katılabilir."
-image: "https://edebiyatyarismalari.com/images/2020/subat/izmir-sairler-bestekarlar-dernegi-sevki-dincal-siir-yarismasi.jpg"
 ---
 
 Eskişehir Sanat Derneği, şiirimizin büyük usta şairi Yunus Emre‘mizi sanat ortamında anmak ve tanıtmak amacıyla geleneksel olarak her yıl düzenlediği
