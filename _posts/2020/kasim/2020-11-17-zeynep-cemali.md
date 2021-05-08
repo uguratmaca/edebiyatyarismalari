@@ -2,10 +2,10 @@
 layout: post
 title: "Zeynep Cemali Öykü Yarışması 2021"
 description: "Günışığı Kitaplığı her sene düzenlediği Zeynep Cemali Öykü Yarışmasının 2021 temasını duyurdu."
-tags: [mayıs 2021, ortaokul, hikaye yarışması]
+tags: [haziran 2021, ortaokul, hikaye yarışması]
 comments: true
-lastDate: 1621890000  
-dateHuman: "25 Mayıs 2020"
+lastDate: 1624222800  
+dateHuman: "21 Haziran 2020"
 attendance: "Öğretmen/Veli Aracılığıyla E-Posta"
 comTopic: "Doğa Sevgisi"
 requirements: "6, 7 ve 8. sınıflarında okuyan öğrencilerinin katılım hakkı vardır"
@@ -25,7 +25,7 @@ excerpt: "Günışığı Kitaplığı her sene düzenlediği Zeynep Cemali Öyk�
 8. Öykünün uzunluğunun 1,5 satır aralığıyla, iki (2) A4 sayfadan az, dört (4) A4 sayfadan fazla olmaması önerilir.
 9. Öykünün başında öykü adı ve hemen altında da öyküyü yazan öğrencinin adı yer almalıdır.
 10. Öykünün posta veya e-posta yoluyla tek (1) kopya gönderilmesi yeterlidir. Yarışmaya kişisel e-posta adresinden değil, danışman öğretmen veya veli e-posta adresinden başvuru yapılmalıdır.
-11. Yarışmaya son başvuru tarihi 25 Mayıs 2021 Salı günüdür.
+11. Yarışmaya son başvuru tarihi 21 Haziran 2021'dir.
 12. Öykülerin en son sayfasında, başvuruda bulunanöğrencilerin adı soyadı, okulunun adı, sınıfı, öğretmeninin adı soyadı, okul adresi ve okul telefon numarası, velisinin adı soyadı ve telefonu ile **Zeynep Cemali Öykü Yarışması**’na daha önce katıldıysa, katılım yılı yazılmalıdır.
 Bütün bu bilgiler için, yarışmanın internet sayfasındaki Başvuru Formu’nu eksiksiz doldurmak da yeterli olacaktır: http://gunisigikitapligi.com/projeler/zeynep-cemali-oyku-yarismasi/
 13. Başvuru Formu ile birlikte şu 3 belge de yollanacaktır: Veli İzin Yazısı; veli tarafından doldurulup imzalanmış Katılımcı Aydınlatma ve Rıza Metni; öğretmen tarafından doldurulup imzalanmış Katılımcı Aydınlatma ve Rıza Metni. E-postayla yapılacak başvurularda belgelerin imzalı taranmış dijital kopyalarının eklenmesi yeterlidir.
