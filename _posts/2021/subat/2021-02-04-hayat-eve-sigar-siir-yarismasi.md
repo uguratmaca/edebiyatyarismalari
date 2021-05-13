@@ -9,7 +9,7 @@ dateHuman: "20 Şubat 2021"
 attendance: "Elden, E-Posta"
 comTopic: "Hayat Eve Sığar"
 requirements: "Yarışmaya Silivri sınırları içerisinde ikamet eden herkes katılabilir."
-permalink: "hayat-eve-sigar-siir-yarismasi"
+permalink: "hayat-eve-sigar-siir-yarismasi-2021"
 image: "https://edebiyatyarismalari.com/images/2021/subat/hayat-eve-sigar-siir-yarismasi.jpeg"
 excerpt: "Silivri belediyesi Hayat Eve Sığar Şiir Yarışması düzenliyor"
 ---

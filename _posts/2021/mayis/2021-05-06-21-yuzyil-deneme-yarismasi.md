@@ -12,7 +12,7 @@ comTopic: "İstiklâl Marşı’mızın Dilinden 21. Yüzyılda Vatan"
 attendance: "Okul Müdürlükleri"
 requirements: "Yarışmaya Türkiye genelindeki resmi Sosyal Bilimler Liselerinde eğitim gören tüm öğrenciler katılabilecektir."
 permalink: "21-yuzyil-vatan-deneme-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2021/nisan/21-yuzyilda-vatan-deneme-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2021/mayis/21-yuzyilda-vatan-deneme-yarismasi.jpg"
 excerpt: "Mehmet Akif ERSOY’un eserlerinin okunup incelenmesi ve İstiklâl Marşı yorumlanarak 21. Yüzyıl Türkiye’si ile ilgili deneme yazılması"
 ---
 

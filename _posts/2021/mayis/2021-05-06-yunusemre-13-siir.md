@@ -11,7 +11,7 @@ comTopic: "Serbest, Yunus Emre"
 attendance: "Posta"
 requirements: "İsteyen herkes katılabilir"
 permalink: "yunus-emre-siir-yarismasi-13"
-image: "https://edebiyatyarismalari.com/images/2021/nisan/yunus-emre-siir-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2021/mayis/yunus-emre-siir-yarismasi.jpg"
 excerpt: "Eskişehir Sanat Derneği, şiirimizin büyük usta şairi Yunus Emre’mizi sanat ortamında anmak ve tanıtmak amacıyla geleneksel olarak her yıl düzenlediği Yunus Emre Sanat Buluşması etkinliklerinde ödül töreni olan Yunus Emre Şiir Yarışması düzenlemektedir."
 ---
 

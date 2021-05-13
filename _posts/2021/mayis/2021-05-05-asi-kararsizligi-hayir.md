@@ -12,7 +12,7 @@ attendance: "E-Posta"
 price: "6 Bin TL'dir"
 requirements: "Her yaş ve meslek kümesinden değerli katılımlarınızı bekliyoruz."
 permalink: "asi-kararsizligi-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2021/nisan/asi-kararsizligina-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2021/mayis/asi-kararsizligina-oyku-yarismasi.jpg"
 excerpt: "Hematolojik Nadir Hastalıklar Derneği tarafından Aşı Kararsızlığına Hayır isimli öykü yarışması düzenlenecektir."
 ---
 
