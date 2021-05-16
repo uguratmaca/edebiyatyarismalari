@@ -32,12 +32,12 @@
 remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
 <link rel="canonical" href="{{ canonical }}">
 
-{% if page.category != "articles"%}
-<link rel="manifest" href="/manifest.json">{% endif %}
+{% if page.category != "articles"%}<link rel="manifest" href="/manifest.json">{% endif %}
 
 <link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
-{% if site.owner.google_plus %}
-<link rel="author" href="{{ site.owner.google_plus }}?rel=author">{% endif %}
+
+{% if site.owner.google_plus %}<link rel="author" href="{{ site.owner.google_plus }}?rel=author">{% endif %}
+
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
 <script>(function (w, d, s, l, i) {
