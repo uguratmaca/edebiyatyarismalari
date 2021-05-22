@@ -3,7 +3,7 @@ layout: post
 title: "Afetler Resim, Şiir, Kompozisyon Yarışması"
 description: "Resmi/Özel İlkokullar Arası Resim, Ortaokullar Arası Şiir ve Liseler Arası Kompozisyon düzenleniyor"
 category: articles
-tags: [mayıs 2021, ortaokul, ilkokul, lise, hikaye yarışması]
+tags: [mayıs 2021, ortaokul, ilkokul, lise, resim yarışması, şiir yarışması, kompozisyon yarışması]
 comments: true
 lastDate: 1622062800    
 dateHuman: "27 Mayıs 2021"
