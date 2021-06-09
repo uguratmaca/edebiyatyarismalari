@@ -9,6 +9,7 @@ lastDate: 1624136400
 dateHuman: "20 Haziran 2021"
 comTopic: "Ecdadın Ay Yıldızlı Türk Bayrağımızın ilelebet dalgalaması adına istiklal ve hak yolunda verdiği mücadele."
 attendance: "E-Posta"
+hidden: true
 requirements: "Konya'da yaşayan 12 yaş üstü herkes katılabilir"
 permalink: "bayrak-temali-karikatur-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/bayrak-temali-karikatur-yarismasi.jpg"

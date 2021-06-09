@@ -10,6 +10,7 @@ dateHuman: "30 Ağustos 2021"
 price: "10 Bin TL'dir"
 comTopic: "Güzel İstanbul"
 attendance: "E-Posta"
+hidden: true
 requirements: "İsteyen herkes katılabilir"
 permalink: "guzel-istanbul-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/guzel-istanbul-fotograf-yarismasi.jpeg"
