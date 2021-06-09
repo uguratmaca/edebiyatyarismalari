@@ -3,13 +3,13 @@ layout: post
 title: "İstiklalden İstikbale 10 Kıta Tek Ruh Öykü Yarışması"
 description: "Selçuklu Belediyesi öykü yarışması düzenliyor."
 category: articles
-tags: [temmuz 2021, genel, hikaye yarışması]
+tags: [temmuz 2021, genel, konya, lise,  hikaye yarışması]
 comments: true
 lastDate: 1626296400    
 dateHuman: "15 Temmuz 2021"
 comTopic: "Uğrunda canımızı seve seve feda edeceğimiz en önemli değer vatandır. Bu toprakları bize vatan kılan en önemli değerimiz ise Milli Birlik ve Beraberlik ruhudur."
 attendance: "E-Posta"
-requirements: "Konya'da yaşana 15 yaş üstü herkes katılabilir"
+requirements: "Konya'da yaşayan 15 yaş üstü herkes katılabilir"
 permalink: "istiklalden-istikbale-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/istiklalden-istikbale-oyku-yarismasi.jpg"
 excerpt: "Selçuklu Belediyesi öykü yarışması düzenliyor."
