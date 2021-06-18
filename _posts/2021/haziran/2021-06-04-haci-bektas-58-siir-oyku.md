@@ -11,7 +11,7 @@ comTopic: "Dünya Hacı Bektaş Veli’nin Hoşgörüsü, Ahi Evran’ın Cömer
 attendance: "Posta, Kargo"
 price: "4 Bin 500 TL'dir"
 requirements: "İsteyen herkes katılabilir"
-permalink: "haci-bektas-veli-kisa-oyku-siir-yarismasi"
+permalink: "haci-bektas-veli-kisa-oyku-siir-yarismasi-2021"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/58-haci-bektas-siir-oyku-yarismasi.jpg"
 excerpt: "16-18 Ağustos 2021 tarihleri arasında düzenlenecek olan Hacı Bektaş Veli Anma Törenleri ve Kültür Sanat Etkinlikleri çerçevesinde Şiir ve Kısa Öykü yarışması düzenleniyor."
 ---

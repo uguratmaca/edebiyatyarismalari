@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Olağanüstü Dönemlerde Temel Hak ve Özgürlükler Konulu Makale Yarışması"
-description: "Galatasaray Üniversitesi Hukuk Kulubü OLAĞANÜSTÜ DÖNEMLERDE TEMEL HAK VE ÖZGÜRLÜKLER" ödüllü makale yarışması düzenliyor."
+description: "Galatasaray Üniversitesi Hukuk Kulubü OLAĞANÜSTÜ DÖNEMLERDE TEMEL HAK VE ÖZGÜRLÜKLER ödüllü makale yarışması düzenliyor."
 category: articles
 tags: [temmuz 2021, genel, makale yarışması]
 comments: true
@@ -12,7 +12,7 @@ attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"
 permalink: "galatasaray-odullu-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/odullu-makale-yarismasi.jpeg"
-excerpt: "Galatasaray Üniversitesi Hukuk Kulubü OLAĞANÜSTÜ DÖNEMLERDE TEMEL HAK VE ÖZGÜRLÜKLER" ödüllü makale yarışması düzenliyor."
+excerpt: "Galatasaray Üniversitesi Hukuk Kulubü OLAĞANÜSTÜ DÖNEMLERDE TEMEL HAK VE ÖZGÜRLÜKLER ödüllü makale yarışması düzenliyor."
 ---
 
 ## Olağanüstü Dönemlerde Temel Hak ve Özgürlükler Konulu Makale Yarışması
