@@ -19,7 +19,7 @@ excerpt: "Sessiz Çığlık Mektup Yarışması 2021 duyurulmuştur."
 - Mektup yarışmasına sadece Kuzey Kıbrıs’ta yaşayan bireyler katılabilir.
 - Dernek yönetim kurulu üyeleri, mektup  yarışması seçici kurul üyeleri ve her iki kurul üyelerinin birinci dereceden akrabaları yarışmaya katılamazlar.
 - Daha önce başka herhangi bir yarışmada ödül almış mektuplar yarışmaya gönderilemez.
-- E-mail ile:  info@yaslihaklariveruhsagligi.org. Katılımcılar mektubun sonuna isim- soyisim ve ulaşabileceğimiz bir numara yazmalıdırlar. İsim-soyisim vermek istemeyen katılımcılar telefon numaralarını ve rumuzlarını yazabilirler.
+- E-mail ile: **info@yaslihaklariveruhsagligi.org**. Katılımcılar mektubun sonuna isim- soyisim ve ulaşabileceğimiz bir numara yazmalıdırlar. İsim-soyisim vermek istemeyen katılımcılar telefon numaralarını ve rumuzlarını yazabilirler.
 
 ## Sessiz Çığlık Mektup Yarışması 2021 Ödüller
 - Birinci Ödül: 2000 TL
