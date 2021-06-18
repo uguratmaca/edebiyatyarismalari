@@ -7,7 +7,7 @@ tags: [temmuz 2021, genel, makale yarışması]
 comments: true
 lastDate: 1626555600    
 dateHuman: "18 Temmuz 2021"
-comTopic: " Olağanüstü Dönemlerde Temel Hak ve Özgürlükler"
+comTopic: "Olağanüstü Dönemlerde Temel Hak ve Özgürlükler"
 attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"
 permalink: "galatasaray-odullu-makale-yarismasi"
