@@ -3,7 +3,7 @@ layout: post
 title: "Haymana Resim, Şiir, Kompozisyon Yarışması"
 description: "Haymana Kaymakamlığı, Haymana Belediye Başkanlığı ve Haymana Şlçe Milli Eğitim Müdürlüğü Resim, Şiir, Kompozisyon yarışması düzenliyor"
 category: articles
-tags: [eylül 2021, ortaokul, ilkokul, lise, hikaye yarışması]
+tags: [eylül 2021, ortaokul, ilkokul, lise, resim yarışması, şiir yarışması, kompozisyon yarışması]
 comments: true
 lastDate: 1631394000    
 dateHuman: "12 Eylül 2021"
