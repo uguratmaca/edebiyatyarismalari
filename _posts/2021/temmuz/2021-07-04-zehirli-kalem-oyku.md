@@ -5,8 +5,8 @@ description: "Dedektif Dergi, polisiye öykü yazılmasını teşvik etmek ve ed
 category: articles
 tags: [eylül 2021, genel, hikaye yarışması]
 comments: true
-lastDate: 1632171600    
-dateHuman: "21 Eylül 2021"
+lastDate: 1630443600    
+dateHuman: "1 Eylül 2021"
 comTopic: "Serbest"
 attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"
