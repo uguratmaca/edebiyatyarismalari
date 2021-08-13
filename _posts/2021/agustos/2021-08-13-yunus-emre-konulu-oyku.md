@@ -17,7 +17,7 @@ excerpt: "Vefatının 700. yılı nedeniyle 2021 yılı, Birleşmiş Milletler E
 ---
 
 ## 21.Yüzyılda Yunusça Yaşamak Kısa Öykü Yarışması
-- Yarışmanın dili Türkçedir.
+- **Öykü yarışması**nın dili Türkçedir.
 - Yarışmaya katılan eserler daha önce yayımlanmamış, herhangi bir ödül kazanmamış veya kopyalanmamış olmalıdır. Eserlerin daha önce herhangi bir yayın grubuna gönderildiğinin tespit edilmesi durumunda, eserler ödül kazanmış olsalar bile dereceleri iptal edilecektir ve eser sahibi hiçbir hak iddia edemeyecektir.
 - Yarışmaya katılan eserlerin Türk Dil Kurumu Yazım Kılavuzuna uygun şekilde, A4 kâğıt ebatında, Times New Roman yazı tipi, 10 punto ve tek satır aralıklı, sayfa kenar boşlukları her yandan 2 cm boşluk olacak ve 4 sayfayı aşmayacak şekilde yazılarak Word ve/veya PDF formatında hazırlanarak dijital ortamda, belirlenen tarihler arasında belirlenen e-posta adresine iletilmeleri gerekmektedir. Biçimsel ve teknik şartları taşımayan eserler değerlendirmeye alınmayacaktır.
 - Eserde yazarının kişisel bilgileri yer almaz. Eser üzerinde (sayfa düzeninin sol üst köşesinde yer alacak şekilde) RUMUZ kullanılacaktır.
