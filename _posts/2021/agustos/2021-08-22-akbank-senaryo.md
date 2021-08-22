@@ -9,6 +9,7 @@ lastDate: 1640300400
 dateHuman: "24 Aralık 2021"
 comTopic: "Serbest"
 attendance: "Websitesi"
+price: "5 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "18-akbank-senaryo-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/agustos/18-akbank-kisa-film-festivali.JPG"
