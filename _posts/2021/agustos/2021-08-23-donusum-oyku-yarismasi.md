@@ -21,7 +21,7 @@ Dönüşüm Yayın tarafından bu yıl ilk kez **Dönüşüm Öykü Yarışması
 Yarışma Başvuru Koşulları  
 - Ödüle aday olan yapıtlarda bulunduğu tarzda kendince ‘’Dönüşüm’’ünü yapabilmek temel ölçüt olacak.
 - Ödüle her yaştan insan katılabilir.
-- Ödüle  herhangi bir yerde yayınlanmamış veya kitap oylumunda kullanılmamış, hazır dosyalar katılabilir.
+- Ödüle herhangi bir yerde yayınlanmamış veya kitap oylumunda kullanılmamış, hazır dosyalar katılabilir.
 - Ödül; dosya dalında bir kişiye verilecektir. Gerekirse ‘’Jüri Özel Ödülü’’ de verilebilir.
 - Ödüle katılacak dosyalar, Word dosyası halinde, yanında özgeçmişiyle birlikte gönderilen mailin başlığına ‘’Öykü Yarışması için’’ ibaresi konularak editordonusum@gmail.com adresine en geç 15 Eylül’e kadar gönderilmesi gerekir.
 
