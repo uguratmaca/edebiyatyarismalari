@@ -12,7 +12,7 @@ attendance: "Posta ya da E-Posta"
 price: "5 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "13-turizm-karikatur-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2021/agustos/18-akbank-kisa-film-festivali.JPG"
+image: "https://edebiyatyarismalari.com/images/2021/agustos/turizm-karikatur-yarismasi.jpg"
 excerpt: "13. Uluslararası Karikatür Yarışması iki ayrı kategoride düzenlenmektedir."
 ---
 
