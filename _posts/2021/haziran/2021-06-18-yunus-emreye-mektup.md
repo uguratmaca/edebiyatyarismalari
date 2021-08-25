@@ -3,7 +3,7 @@ layout: post
 title: "Yunus Emre’ye Mektup Yarışması"
 description: "Karamanoğlu Mehmetbey Üniversitesi (KMÜ) ve Karaman Belediyesi iş birliğiyle Yunus Emre’ye Mektup konulu yarışma düzenlenecek."
 category: articles
-tags: [ekim 2021, lise, mektup yarışması]
+tags: [ekim 2021, lise, mektup yarışması, yunus emre]
 comments: true
 lastDate: 1633640400    
 dateHuman: "8 Ekim 2021"
