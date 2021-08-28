@@ -15,7 +15,7 @@ image: "https://edebiyatyarismalari.com/images/2021/agustos/donusum-siir-yarisma
 excerpt: "Dönüşüm Şiir Yarışması ilk kez düzenleniyor"
 ---
 
-## Dönüşüm Öykü Yarışması
+## Dönüşüm Şiir Ödülü
 Dönüşüm Yayın tarafından bu yıl ilk kez **Dönüşüm Şiir Ödülü** düzenleniyor. Dönüşüm adıyla kendisini açıklasa da yarışmanın amacı, kendini gösterememiş yazarları Türk Edebiyatı'na kazandırmak ve insanları e-kitaba karşı kötü tutumunu kırmaktır.
 
 Başvuru Koşulları
