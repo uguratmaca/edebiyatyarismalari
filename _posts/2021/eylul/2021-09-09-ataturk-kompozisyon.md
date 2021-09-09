@@ -12,7 +12,7 @@ attendance: "Posta, Elden"
 price: "7 Bin 500 TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "ataturk-kompozisyon-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2021/agustos/ataturk-kompozisyon-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2021/eylul/ataturk-kompozisyon-yarismasi.jpg"
 excerpt: "Ortahisar Belediyesi Kültür ve Sosyal İşler Müdürlüğü Bana Mustafa Kemal Atatürk'ü Anlat Kompozisyon Yarışması düzenliyor"
 ---
 
@@ -46,5 +46,5 @@ Birinci : 3.000 TL
 Üçüncü : 1.000 TL    
 Mansiyon (3 adet) : 500 TL  
 
-### [Başvuru Formu](https://www.trabzonortahisar.bel.tr/uploads/DUYURULAR/53.pdf){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://www.trabzonortahisar.bel.tr/uploads/DUYURULAR/55.pdf){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 
