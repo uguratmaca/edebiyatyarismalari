@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Instabot Cloud Function Trigger
+name: Instabot Cloud Function Triggerer
 
 # Controls when the workflow will run
 on:
@@ -29,5 +29,9 @@ jobs:
         uses: jitterbit/get-changed-files@v1
       - run: |
           for changed_file in ${{ steps.files.outputs.added }}; do
-            echo "Yeni etkinlik: ${changed_file}."
+            if [[ $changed_file == _posts* ]] &&  [[ $changed_file == *.md ]] ;
+            then
+              echo "Sharing event on Instagram: ${changed_file}"
+              curl "https://us-central1-edebiyat-yarismalari-instabot.cloudfunctions.net/shareOnInstagram?file=${changed_file}"
+            fi
           done
