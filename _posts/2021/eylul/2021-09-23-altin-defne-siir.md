@@ -11,7 +11,7 @@ comTopic: "Serbest"
 attendance: "Elden, Posta, Kargo"
 requirements: "1987 doğumlu veya daha küçük yaşta olması gerekir."
 permalink: "altin-defne-siir-odulu"
-image: "https://edebiyatyarismalari.com/images/2021/eylul/altin-kalemler-sonbahar-siir-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2021/eylul/altin-defne-siir-yarismasi.jpeg"
 excerpt: "Aalen-Antakya Kültür Derneği, Altın Defne Şiir Ödülü düzenleniyor."
 ---
 
