@@ -8,8 +8,7 @@ comments: true
 lastDate: 1640041200 
 dateHuman: "21 Aralık 2021"
 comTopic: "Serbest"
-attendance: "E-Posta"
-price: "12 Bin TL'dir"
+attendance: "Posta, Kargo"
 requirements: "İsteyen herkes katılabilir"
 permalink: "umit-kaftancioglu-oyku-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2021/ekim/umit-kaftancioglu-oyku-yarismasi.jpg"
