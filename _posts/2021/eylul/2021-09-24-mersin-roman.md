@@ -21,7 +21,7 @@ excerpt: "Mersin Büyükşehir Belediyesi ödüllü Mersin Roman Yarışması d�
 - Başvuruda bulunan kişi, romanın tümüyle kendisine ait olduğunu, özgün olduğunu ve başka bir yarışmada ödül almadığını kabul ve taahhüt eder. Ödül alan katılımcılardan bu taahhütleri dışında hareket ettiği anlaşılanlardan elde ettikleri ödül, unvan geri alınır.
 - Her yarışmacı yarışmaya tek bir romanla katılabilir.
 - Yazarlar, kitap oylumunda; A4 kâğıdına 12 punto ve Times New Roman fontuyla yazılmış ve sipirallenmiş bir roman dosyası ile yarışmaya katılacaklardır.
-- Dosyalar iletişim adresine elden ya da kargoyla 9 (dokuz) örnek sayıda gönderilecektir.
+- Dosyalar iletişim adresine elden ya da kargoyla 1 (bir) örnek sayıda gönderilecektir.
 - Yazarlar gerçek ad ve soyadlarını roman dosyasına yazmayıp rümuz kullanacaklardır. Gerçek ad - soyadlarını, adres - iletişim bilgilerini ve kısa özgeçmişlerini ayrı bir kâğıda yazıp zarf içinde göndereceklerdir.
 - Ödül alan dosya, Mersin Büyükşehir Belediyesince 1.000 (bin) adet bastırılır. Basım için ödül alana telif hakkı ödenmez.
 - Gelen dosyalar içinde ödüle lâyık bir yapıt bulunamamışsa ödül verilmeyecektir.
