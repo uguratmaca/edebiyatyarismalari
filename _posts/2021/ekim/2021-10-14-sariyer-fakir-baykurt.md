@@ -6,7 +6,7 @@ category: articles
 tags: [ocak 2022, hikaye yarışması, genel, ortaokul, lise, fakir baykurt]
 comments: true
 lastDate: 1642114800 
-dateHuman: "14 Ocak 2021"
+dateHuman: "14 Ocak 2022"
 price: "25 Bin TL'dir"
 comTopic: "Serbest"
 attendance: "Elden, Kargo, APS, Kurye"
