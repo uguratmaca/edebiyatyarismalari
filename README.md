@@ -39,3 +39,7 @@ https://edebiyatyarismalari.com/resat-nuri-guntekin-yarismalari/
 
 sait faik abasıyanık
 https://edebiyatyarismalari.com/sait-faik-abasiyanik-yarismalari/
+
+Local Serve  
+- bundle install
+- jekyll serve
