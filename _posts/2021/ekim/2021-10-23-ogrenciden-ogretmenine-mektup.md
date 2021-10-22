@@ -9,7 +9,7 @@ lastDate: 1636930800
 dateHuman: "15 Kasım 2021"
 price: "6 Bin TL'dir"
 comTopic: "Serbest"
-attendance: "Elden, Posta, Kargo"
+attendance: "E-Posta"
 requirements: "Gönül bağı Bağcılar gönüllüsü tüm öğrencilerimiz katılabilir"
 permalink: "ogrenciden-ogretmenine-mektup-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/ekim/ogrenciden-ogretmenine-gonulden-mektup-yarismasi.jpg"
