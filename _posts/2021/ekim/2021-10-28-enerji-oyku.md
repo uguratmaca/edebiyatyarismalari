@@ -3,7 +3,7 @@ layout: post
 title: "Dünyanın Enerjisini Ben Koruyorum Kısa Öykü Yarışması"
 description: "Enerjisa Enerji A.Ş. Dünyanın Enerjisini Ben Koruyorum konulu Kısa Öykü Yarışması düzenliyor."
 category: articles
-tags: [ekim 2021, ilkokul, hikaye yarışması]
+tags: [kasım 2021, ilkokul, hikaye yarışması]
 comments: true
 lastDate: 1636930800 
 dateHuman: "15 Kasım 2021"
