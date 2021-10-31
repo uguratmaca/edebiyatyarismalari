@@ -43,6 +43,10 @@
         "url": "deneme-yarismalari/",
         "title": "Deneme Yarışmaları"
     },
+    "anı yarışması": {
+        "url": "ani-yarismalari/",
+        "title": "Anı Yarışmaları"
+    },
     "roman yarışması": {
         "url": "roman-yarismalari/",
         "title": "Roman, Kitap Yarışmaları"
