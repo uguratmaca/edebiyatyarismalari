@@ -12,37 +12,67 @@ title: "Edebiyat Yarışmaları"
 	{% assign counter = 0 %}
 
 	{% for post in site.posts %}
-	{% if post.lastDate > nowDateInt %}
-	{% if post.hidden != true  %}
+		{% if post.sticky == true  %}
+			{% if post.lastDate > nowDateInt %}
+				<section>
+					<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
+					<em class="text-success">*Sponsorlu</em>
+					<p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
 
-	{% assign counter=counter | plus:1 %}
+					{% if post.price %}
+						<p>🏆 Yarışmanın toplam para ödülü: <b>{{post.price}}</b></p>
+					{% endif %}
 
-	{% if counter < 7 %}
-	<section>
-		<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
+					{% if post.requirements %}
+						<p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
+					{% endif %}
 
-		<p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
+					<section>
+						<p class="text-success">Yarışma başvurusu devam ediyor...</p>
+					</section>
 
-		{% if post.price %}
-		<p>🏆 Yarışmanın toplam para ödülü: <b>{{post.price}}</b></p>
+					{{ post.excerpt }}
+				</section>
+
+				<hr>
+			{% endif %}
 		{% endif %}
+	{% endfor %}
 
-		{% if post.requirements %}
-		<p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
+	{% for post in site.posts %}
+			
+		{% if post.hidden != true and post.sticky != true %}	
+			
+			{% if post.lastDate > nowDateInt %}
+			
+				{% assign counter=counter | plus:1 %}
+				{% if counter < 7 %}
+				
+				<section>
+					<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
+
+					<p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
+
+					{% if post.price %}
+						<p>🏆 Yarışmanın toplam para ödülü: <b>{{post.price}}</b></p>
+					{% endif %}
+
+					{% if post.requirements %}
+						<p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
+					{% endif %}
+
+					<section>
+						<p class="text-success">Yarışma başvurusu devam ediyor...</p>
+					</section>
+
+					{{ post.excerpt }}
+				</section>
+
+				<hr>
+
+				{% endif %}
+			{% endif %}
 		{% endif %}
-
-		<section>
-			<p class="text-success">Yarışma başvurusu devam ediyor...</p>
-		</section>
-
-		{{ post.excerpt }}
-	</section>
-
-	<hr>
-
-	{% endif %}
-	{% endif %}
-	{% endif %}
 	{% endfor %}
 
 	<section class="row mb-5">

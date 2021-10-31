@@ -6,7 +6,7 @@ category: articles
 tags: [kasım 2021, öğretmen, hikaye yarışması]
 comments: true
 lastDate: 1636066800 
-price: "2200 Bin TL'dir"
+price: "2200 TL'dir"
 dateHuman: "5 Kasım 2021"
 comTopic: "Salgın Döneminde Öğretmen Olmak"
 attendance: "Okul müdürlükleri"
