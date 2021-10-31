@@ -3,10 +3,10 @@ layout: post
 title: "Bana Mustafa Kemal Atatürk'ü Anlat Kompozisyon Yarışması"
 description: "Ortahisar Belediyesi Kültür ve Sosyal İşler Müdürlüğü Bana Mustafa Kemal Atatürk'ü Anlat Kompozisyon Yarışması düzenliyor"
 category: articles
-tags: [ekim 2021, kompozisyon yarışması, genel, atatürk]
+tags: [mart 2022, kompozisyon yarışması, genel, atatürk]
 comments: true
-lastDate: 1634248800    
-dateHuman: "15 Ekim 2021"
+lastDate: 1646953200    
+dateHuman: "11 Mart 2022"
 comTopic: "Mustafa Kemal Atatürk"
 attendance: "Posta, Elden"
 price: "7 Bin 500 TL'dir"
