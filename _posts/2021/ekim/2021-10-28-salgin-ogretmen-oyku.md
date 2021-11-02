@@ -16,7 +16,7 @@ image: "https://edebiyatyarismalari.com/images/2021/ekim/salgin-doneminde-ogretm
 excerpt: "Yahşiyan İlçe Milli Eğitim Müdürlüğü Salgın Döneminde Öğretmen Olmak 2021 Öğretmenler Arası Kısa Öykü Yarışması düzenliyor"
 ---
 
-## Dünyanın Enerjisini Ben Koruyorum Kısa Öykü Yarışması
+## 2021 Öğretmenler Arası Kısa Öykü Yarışması
 Yahşiyan İlçe Milli Eğitim Müdürlüğü Salgın Döneminde Öğretmen Olmak 2021 Öğretmenler Arası Kısa Öykü Yarışması düzenliyor.  
 
 Kısa bir öyküdür hayat.  
@@ -24,7 +24,7 @@ Kısa bir öyküdür hayat.
 - Başvurular okul müdürlüklerine yapılacaktır.
 - Yahşiyan İlçe Milli Müdürlüğü'ne göndereceği son tarih 8 Kasım 2021'dir.
 
-### Dünyanın Enerjisini Ben Koruyorum Kısa Öykü Yarışması Ödüller
+### 2021 Öğretmenler Arası Kısa Öykü Yarışması Ödüller
 - Birinci Eser: 1000 TL
 - İkinci Eser: 700 TL
 - Üçüncü Eser: 500 TL

@@ -3,6 +3,7 @@ layout: category
 headline: "Edebiyat Yarışmaları 2021"
 title: "Edebiyat Yarışmaları 2021"
 subline: "<ul class='nav flex-column'>
+   <li class='nav-item'><a class='nav-link' href='/ekim-2021-yarismalar'>Ekim 2021 Yarışmaları</a></li>
    <li class='nav-item'><a class='nav-link' href='/eylul-2021-yarismalar'>Eylül 2021 Yarışmaları</a></li>
    <li class='nav-item'><a class='nav-link' href='/agustos-2021-yarismalar'>Ağustos 2021 Yarışmaları</a></li>
    <li class='nav-item'><a class='nav-link' href='/temmuz-2021-yarismalar'>Temmuz 2021 Yarışmaları</a></li>
