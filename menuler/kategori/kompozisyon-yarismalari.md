@@ -1,12 +1,11 @@
 ---
 layout: category
-headline: "Kompozisyon Yarışmaları"
-subline: "Ülkemizde düzenlenen <strong>kompozisyon yarışması</strong>nı bu sayfadan takip edebilirsiniz. 2020
-yıllarında düzenlenecek olan <strong>kompozisyon yarışmaları</strong> için ilgili yarışmanın detay sayfasına
-gidebilirsiniz."
-title: "Kompozisyon Yarışmaları, kompozisyon yarışmaları 2020, yazı yarışmaları"
+headline: "Kompozisyon Yarışması, Kompozisyon Yarışmaları"
+subline: "Ülkemizde düzenlenen tüm <strong>kompozisyon yarışması</strong> duyurularına bu sayfadan ulaşabilirsiniz. 2021-2022
+yıllarında düzenlenecek olan <strong>kompozisyon yarışmaları</strong> için ilgili yarışmanın detay sayfasına gidebilirsiniz."
+title: "Kompozisyon Yarışması 2021, Kompozisyon Yarışmaları 2021"
 key: "kompozisyon yarışması"
-description: "Kompozisyon yarışması, Kompozisyon yarışmaları, Kompozisyon yarışması duyuruları, Güncel
-Kompozisyon yarışmaları 2020"
+description: "Kompozisyon Yarışması, Kompozisyon Yarışmaları, Kompozisyon yarışması duyuruları, Güncel
+Kompozisyon yarışmaları 2021"
 permalink: "kompozisyon-yarismalari/"
 ---
