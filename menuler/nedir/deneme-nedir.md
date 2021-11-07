@@ -2,7 +2,12 @@
 layout: category
 headline: "Deneme Nedir?"
 title: "Deneme Nedir? | Edebiyat Yarışmaları"
-subline: "<strong>Deneme</strong>, kişinin konu üzerinde edindiği düşünsel ve özel görüşlere dayalı kesin yargıları olmayan kısa metinlerdir. Toplumsal konulardan uzak, iç çatışmalara ve soyut dünyalardan beslenir. Senli Benli Deneme ve Düzenli Deneme olarak ikiye ayrılır. Konu sınırlılığı bulunmaz, günübirlik yazılardır, kanıtlama amacı gütmez. Ünlü Eleştirmen Nurullah Ataç’ın dediği gibi “Deneme ben’in ülkesidir.”
+permalink: "deneme-nedir/"
+showEmpty: false
+description: "Deneme Nedir | Edebiyat Türleri"
+---
+
+<strong>Deneme</strong>, kişinin konu üzerinde edindiği düşünsel ve özel görüşlere dayalı kesin yargıları olmayan kısa metinlerdir. Toplumsal konulardan uzak, iç çatışmalara ve soyut dünyalardan beslenir. Senli Benli Deneme ve Düzenli Deneme olarak ikiye ayrılır. Konu sınırlılığı bulunmaz, günübirlik yazılardır, kanıtlama amacı gütmez. Ünlü Eleştirmen Nurullah Ataç’ın dediği gibi “Deneme ben’in ülkesidir.”
 <h3>Nurullah Ataç (1898-1957)</h3>
 <p>Deneme Alanında Bilinen Eserleri: Günlerin getirdiği, Karalama Defteri, Sözden Söze, Diyelim.</p><br>
 <h3>Suut Kemal Yetkin (1903-1980)</h3>
@@ -20,10 +25,4 @@ subline: "<strong>Deneme</strong>, kişinin konu üzerinde edindiği düşünsel
 <h3>Sabahattin Eyüboğlu (1908-1973)</h3>
 <p>Deneme Alanında Bilinen Eserleri: Avrupa Resminde Gerçeklik Duygusu, Fatih Albümüne Bakış, Mavi ve kara, Yunus Emre'ye selam, Yunus Emre, Sanat Üzerine Denemeler, Pir Sultan Abdal, Köy Enstitüleri üzerine, Diyelim Söz Arasında, Kırkpınar.</p><br>
 <h3>Şevket Rado (1913-1988)</h3>
-<p>Deneme Alanında Bilinen Eserleri: Hayat Böyledir, Tatlı Dil, Aile Sohbetleri, Saadet Yolu, Eşref Saati, Ümit Dünyası, 50. yılında Sovyet Rusya.</p><br>"
-permalink: "deneme-nedir/"
-showEmpty: false
-description: "Deneme Nedir | Edebiyat Türleri"
----
-
-
+<p>Deneme Alanında Bilinen Eserleri: Hayat Böyledir, Tatlı Dil, Aile Sohbetleri, Saadet Yolu, Eşref Saati, Ümit Dünyası, 50. yılında Sovyet Rusya.</p><br>

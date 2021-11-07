@@ -10,15 +10,13 @@ layout: compress
 
 <body>
   {% include header.html %}
-  <div class="container-fluid" style="content-visibility:auto;">
+  <div class="container" style="content-visibility:auto;">
     <div class="row">
-      <div class="col-2 d-none d-md-block"></div>
       <div class="col">
         <main>
           {{ content }}
         </main>
       </div>
-      <div class="col-2 d-none d-md-block"></div>
     </div>
     {% include body-footer.html %}
   </div>
@@ -63,6 +61,14 @@ layout: compress
       }
     }
     </script>
+  <style>
+    img {
+      max-width: 80%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
 
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W25RZB6" height="0" width="0"
       style="display:none;visibility:hidden"></iframe></noscript>

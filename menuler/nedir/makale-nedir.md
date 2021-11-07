@@ -2,7 +2,12 @@
 layout: category
 headline: "Makale Nedir?"
 title: "Makale Nedir? | Edebiyat Yarışmaları"
-subline: "<strong>Makale</strong>, kişinin edindiği bir görüşü kanıtlarıyla birlikte açıklaması, savunması veya yermek için yazılan düşünce yazılarıdır. Belli bir çerçeve içerisinde detaylı bir nesnel dil kullanılarak içeriği kapsayan, süslü anlatımlardan uzak olan bilgi verme amacını taşıyan yazı türüdür. Edebi ve Mesleki Makale olarak ikiye ayrılır. Her konuda yararlı bilgiyi okura ulaştırır. Gerçek ve nettir.
+permalink: "makale-nedir/"
+showEmpty: false
+description: "Makale Nedir | Edebiyat Türleri"
+---
+
+<strong>Makale</strong>, kişinin edindiği bir görüşü kanıtlarıyla birlikte açıklaması, savunması veya yermek için yazılan düşünce yazılarıdır. Belli bir çerçeve içerisinde detaylı bir nesnel dil kullanılarak içeriği kapsayan, süslü anlatımlardan uzak olan bilgi verme amacını taşıyan yazı türüdür. Edebi ve Mesleki Makale olarak ikiye ayrılır. Her konuda yararlı bilgiyi okura ulaştırır. Gerçek ve nettir.
 <h2>Türk Edebiyatında Makale Temsilcileri</h2>
 <h3>İbrahim Şinasi (1826-1871)</h3>
 <p>Makale Alanında Bilinen Eserleri: Mukaddime.</p><br>
@@ -21,13 +26,7 @@ subline: "<strong>Makale</strong>, kişinin edindiği bir görüşü kanıtları
 <h3>Mehmet Kaplan (1915-1986)</h3>
 <p>Makale Alanında Bilinen Eserleri: Büyük Türkiye Rüyası, Kültür ve Dil, Nesillerin Ruhu.</p><br>
 <h3>Ahmet Hamdi Tanpınar (1901-1962)</h3>
-<p><Makale Alanında Bilinen Eserleri: Edebiyat Üzerine Makaleler./p>
+<p>Makale Alanında Bilinen Eserleri: Edebiyat Üzerine Makaleler.</p>
 <a href='/ahmet-hamdi-tanpinar-yarismalari/'> Ahmet Hamdi Tanpınar Adına Yarışmalar </a><br><br>
 <h3>Samiha Ayverdi (1905-1993)</h3>
-<p>Makale Alanında Bilinen Eserleri: Yusufçuk.</p><br>"
-permalink: "makale-nedir/"
-showEmpty: false
-description: "Makale Nedir | Edebiyat Türleri"
----
-
-
+<p>Makale Alanında Bilinen Eserleri: Yusufçuk.</p><br>

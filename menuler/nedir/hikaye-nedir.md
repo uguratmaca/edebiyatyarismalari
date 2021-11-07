@@ -2,7 +2,11 @@
 layout: category
 headline: "Hikaye Nedir?"
 title: "Hikaye, Öykü Nedir? | Edebiyat Yarışmaları"
-subline: "Hikaye bir diğer adı ile <strong>Öykü</strong>, yaşanmış ya da yaşanması olası olayların yer, zamanının belirtilmesi ile yazılan kısa yazı türüdür. Ayrıntıdan uzak ve olay merkezlidir. 3 farklı hikaye vardır. Olay, Durum ve Ben Merkezli Öykü olarak kategorilere ayrılmıştır. Kısa ama öz olan metinlerdir.
+permalink: "hikaye-nedir/"
+showEmpty: false
+description: "Hikaye Nedir | Edebiyat Türleri"
+---
+Hikaye bir diğer adı ile <strong>Öykü</strong>, yaşanmış ya da yaşanması olası olayların yer, zamanının belirtilmesi ile yazılan kısa yazı türüdür. Ayrıntıdan uzak ve olay merkezlidir. 3 farklı hikaye vardır. Olay, Durum ve Ben Merkezli Öykü olarak kategorilere ayrılmıştır. Kısa ama öz olan metinlerdir.
 <h2>Türk Edebiyatında Hikaye, Öykü Temsilcileri</h2>
 <h3>Ömer Seyfettin (1884-1920)</h3>
 <p>Hikaye Alanında Bilinen Eserleri: Harem, Yüksek Ökçeler, Gizli Mabed, Beyaz Lale, Asilzadeler, İlk Düşen Ak, Mahçupluk İmtihanı, Dalga, Nokta, Tarih Ezeli Bir Tekerrürdür.</p>
@@ -31,10 +35,4 @@ subline: "Hikaye bir diğer adı ile <strong>Öykü</strong>, yaşanmış ya da 
 <h3>Tomris Uyar (1941-2003)</h3>
 <p>Hikaye Alanında Bilinen Eserleri: İpek ve Bakır, Dizboyu Papatyalar, Yürekte Bukağı, Yaz Düşleri Düş Kışları, Sesler Yüzler ve Sokaklar, Gece Gezen Kızlar, Rus Ruleti, Dön Geri Bak, Ödeşmeler ve Şahmeran Hikayesi, Günlerin Tortusu, Yaza Yolculuk, Yazılı Günler, Sekizinci Günah, Otuzların Kadını, Aramızdaki Şey, Güzel Yazı Defteri.</p><br>
 <h3>Samim Kocagöz (1916-1963)</h3>
-<p>Hikaye Alanında Bilinen Eserleri: Telli Kavak, Sığınak, Sam Amca, Cihan Şoförü, Ahmet’in Kuzuları, Yolun Üstündeki Kaya, Yağmurdaki Kız, Alandaki Delikanlı, Gecenin Soluğu, Simon Pepeta, Baskın.</p><br>"
-permalink: "hikaye-nedir/"
-showEmpty: false
-description: "Hikaye Nedir | Edebiyat Türleri"
----
-
-
+<p>Hikaye Alanında Bilinen Eserleri: Telli Kavak, Sığınak, Sam Amca, Cihan Şoförü, Ahmet’in Kuzuları, Yolun Üstündeki Kaya, Yağmurdaki Kız, Alandaki Delikanlı, Gecenin Soluğu, Simon Pepeta, Baskın.</p><br>

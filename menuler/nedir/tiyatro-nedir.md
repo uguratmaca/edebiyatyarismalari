@@ -2,7 +2,12 @@
 layout: category
 headline: "Tiyatro Nedir?"
 title: "Tiyatro Nedir? | Edebiyat Yarışmaları"
-subline: "<strong>Tiyatro</strong>, interaktif bir şekilde oyuncuların seyirciye oyunlarını sergilediği gösteridir. Duygu ve düşüncelerin yerini mimik ve hareketler almış bir sahne sanatıdır. Tiyatro metinlerine ‘oyun’ adı verilir. ‘Müellif’ tiyatro oyunu yazan kişiye denir. Yaygın bir tanım olarak tiyatro “insanı, insana, insanla, insanca anlatma sanatı.” olarak ifade edilmektedir.
+permalink: "tiyatro-nedir/"
+showEmpty: false
+description: "Tiyatro Nedir | Edebiyat Türleri"
+---
+
+<strong>Tiyatro</strong>, interaktif bir şekilde oyuncuların seyirciye oyunlarını sergilediği gösteridir. Duygu ve düşüncelerin yerini mimik ve hareketler almış bir sahne sanatıdır. Tiyatro metinlerine ‘oyun’ adı verilir. ‘Müellif’ tiyatro oyunu yazan kişiye denir. Yaygın bir tanım olarak tiyatro “insanı, insana, insanla, insanca anlatma sanatı.” olarak ifade edilmektedir.
 <h2>Türk Edebiyatında Tiyatro Eseri Temsilcileri</h2>
 <h3>Ahmet Kutsi Tecer (1901-1967)</h3>
 <p>Tiyatro Alanında Bilinen Eserleri: Köşebaşı, Koçyiğit Köroğlu, Bir Pazar Günü, Satılık Ev.</p><br>
@@ -22,10 +27,4 @@ subline: "<strong>Tiyatro</strong>, interaktif bir şekilde oyuncuların seyirci
 <h3>Necip Fazıl Kısakürek (1904-1983)</h3>
 <p>Tiyatro Alanında Bilinen Eserleri: Para, Tohum, Bir Adam Yaratmak, Künye, Sabır taşı.</p><br>
 <h3>İbrahim Şinasi (1826-1871)</h3>
-<p>Tiyatro Alanında Bilinen Eserleri: Şair Evlenmesi.</p><br>"
-permalink: "tiyatro-nedir/"
-showEmpty: false
-description: "Tiyatro Nedir | Edebiyat Türleri"
----
-
-
+<p>Tiyatro Alanında Bilinen Eserleri: Şair Evlenmesi.</p><br>

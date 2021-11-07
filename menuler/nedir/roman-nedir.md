@@ -2,7 +2,11 @@
 layout: category
 headline: "Roman Nedir?"
 title: "Roman Nedir? | Edebiyat Yarışmaları"
-subline: "<strong>Roman</strong>, yaşanmış ve yaşanması olası olayların anlatıldığı düz yazı türüdür. Belli bir olay etrafında gelişerek olayları derinleştiren uzun yazılardır. Olay, kişi, yer ve zaman yapı unsurlarını taşır. Kahramanların tüm yönleri anlatılarak betimlenir, gözlem ön plandadır. Birçok roman türü bulunur. Gerçekçiliğe önem verir.
+permalink: "roman-nedir/"
+showEmpty: false
+description: "Roman Nedir | Edebiyat Türleri"
+---
+<strong>Roman</strong>, yaşanmış ve yaşanması olası olayların anlatıldığı düz yazı türüdür. Belli bir olay etrafında gelişerek olayları derinleştiren uzun yazılardır. Olay, kişi, yer ve zaman yapı unsurlarını taşır. Kahramanların tüm yönleri anlatılarak betimlenir, gözlem ön plandadır. Birçok roman türü bulunur. Gerçekçiliğe önem verir.
 <h2>Türk Edebiyatında Roman Temsilcileri</h2>
 <h3>Şemsettin Sami (1850-1904)</h3>
 <p>Roman Alanında Bilinen Eserleri: Taaşşuk-ı Talat ve Fitnat.</p><br>
@@ -30,10 +34,5 @@ subline: "<strong>Roman</strong>, yaşanmış ve yaşanması olası olayların a
 <p>Roman Alanında Bilinen Eserleri: Gençliğimiz, Sözde Kızlar, Şimşek, Mahşer, Bir Akşamdı, Süngülerin Gölgesinde, Bir Genç Kız Kalbinin Cürmü, Canan, Dokuzuncu Hariciye Koğuşu, Fatih-i Harbiye, Atilla, Bir Tereddüdün Romanı, Matmazel Noralya’nın Koltuğu, Yalnızız, Biz İnsanlar.</p><br>
 <h3>Reşat Nuri Güntekin (1889-1956)</h3>
 <p>Roman Alanında Bilinen Eserleri: Çalıkuşu, Gizli El, Damga, Dudaktan Kalbe, Akşam Güneşi, Bir Kadın Düşmanı, Yeşil Gece, Acımak, Yaprak Dökümü, Kızılcık Dalları, Gökyüzü, Eski Hastalık, Ateş Gecesi, Değirmen, Miskinler Tekkesi, Harabelerin Çiçeği, Kavak Yelleri, Son Sığınak, Kan Davası. </p>
-<a href='/resat-nuri-guntekin-yarismalari/'> Reşat Nuri Güntekin Adına Yarışmalar </a>"
-permalink: "roman-nedir/"
-showEmpty: false
-description: "Roman Nedir | Edebiyat Türleri"
----
-
+<a href='/resat-nuri-guntekin-yarismalari/'> Reşat Nuri Güntekin Adına Yarışmalar </a>
 

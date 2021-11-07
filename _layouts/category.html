@@ -8,10 +8,19 @@ layout: default
 
 <section class="mt-5 mb-5">
     <h1>{{page.headline}}</h1>
-    {% if page.subline %}
-    <p>{{page.subline}}</p>
-    {% endif %}
 
+    <section class="row align-items-center">
+        <section class="col-md-6 col-sm-12 justify-content-center">
+            {% if page.subline %}
+            <span>{{page.subline}}</span>
+            {% endif %}
+        </section>
+        <section class="col-md-6 col-sm-12">
+            {% if page.image %}
+            <img src="{{page.image}}" alt="{{page.title}}" />
+            {% endif %}
+        </section>
+    </section>
     {% if page.key %}
     <hr>
     {% endif %}
@@ -42,14 +51,19 @@ layout: default
         {{ post.excerpt }}
     </section>
     <hr>
-    
+
     {% endif %}
     {% endif %}
     {% endfor %}
 
+    <section class="post">
+        {{ content }}
+    </section>
+
     {% if page.showEmpty != false %}
     {% if counter == 0 %}
-    <p class="text-danger">Bu listede, hali hazırda başvuru bekleyen herhangi bir <strong>{{page.title}}</strong> bulunmamaktadır. 
+    <p class="text-danger">Bu listede, hali hazırda başvuru bekleyen herhangi bir <strong>{{page.title}}</strong>
+        bulunmamaktadır.
         Aşağıdaki linkten geçmiş yarışmalara ve menüden ilgilendiğiniz diğer yarışmalara bakabilirsiniz.</p>
     {% endif %}
     {% endif %}

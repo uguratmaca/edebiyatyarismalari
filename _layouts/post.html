@@ -10,43 +10,46 @@ layout: default
   {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
   {% assign nowDateInt = nowunix | plus: 0 %}
 
-  {% if page.dateHuman %}
-  <p>🗓️ Yarışmanın son başvuru tarihi: <b>{{page.dateHuman}}</b></p>
-  {% endif %}
+  <section class="row align-items-center">
+    <section class="col justify-content-center">
+      {% if page.dateHuman %}
+      <p>🗓️ Yarışmanın son başvuru tarihi: <b>{{page.dateHuman}}</b></p>
+      {% endif %}
 
-  {% if page.price %}
-  <p>🏆 Yarışmanın toplam para ödülü: <b>{{page.price}}</b></p>
-  {% endif %}
+      {% if page.price %}
+      <p>🏆 Yarışmanın toplam para ödülü: <b>{{page.price}}</b></p>
+      {% endif %}
 
-  {% if page.comTopic %}
-  <p>✍️ Yarışmanın konusu: <b>{{page.comTopic}}</b></p>
-  {% endif %}
+      {% if page.comTopic %}
+      <p>✍️ Yarışmanın konusu: <b>{{page.comTopic}}</b></p>
+      {% endif %}
 
-  {% if page.attendance %}
-  <p>✉️ Yarışmanın katılım şekli: <b>{{page.attendance}}</b></p>
-  {% endif %}
+      {% if page.attendance %}
+      <p>✉️ Yarışmanın katılım şekli: <b>{{page.attendance}}</b></p>
+      {% endif %}
 
-  {% if page.requirements %}
-  <p>❗ Yarışmadaki kısıtlar: <b>{{page.requirements}}</b></p>
-  {% endif %}
+      {% if page.requirements %}
+      <p>❗ Yarışmadaki kısıtlar: <b>{{page.requirements}}</b></p>
+      {% endif %}
 
-  {% if page.dateHuman %}
-  {% if page.lastDate > nowDateInt %}
-  <section>
-    <p class="text-success">Yarışma başvurusu devam ediyor...</p>
+      {% if page.dateHuman %}
+      {% if page.lastDate > nowDateInt %}
+      <section>
+        <p class="text-success">Yarışma başvurusu devam ediyor...</p>
+      </section>
+      {% else %}
+      <section>
+        <p class="text-danger">Yarışma başvurusu bitti!</p>
+      </section>
+      {% endif %}
+      {% endif %}
+    </section>
+    <section class="col">
+      {% if page.image %}
+      <img src="{{page.image}}" alt="{{page.title}}"/>
+      {% endif %}
+    </section>
   </section>
-  {% else %}
-  <section>
-    <p class="text-danger">Yarışma başvurusu bitti!</p>
-  </section>
-  {% endif %}
-  {% endif %}
-
-  {% if page.image %}
-  <section class="text-center">
-    <img src="{{page.image}}" alt="{{page.title}}" style="max-height:720px;max-width:90%;" />
-  </section>
-  {% endif %}
 
   <br>
   <section class="post">
@@ -59,13 +62,13 @@ layout: default
     Benzer İçerikler:
     <ul class="nav">
       {% for tag in page.tags %}
-        {% if site.data.pageList[tag] %}
-        <li class="nav-item">
-          <a href="{{ site.url }}/{{site.data.pageList[tag].url}}" class="nav-link">
-            {{site.data.pageList[tag].title}}
-          </a>
-        </li>
-        {% endif %}
+      {% if site.data.pageList[tag] %}
+      <li class="nav-item">
+        <a href="{{ site.url }}/{{site.data.pageList[tag].url}}" class="nav-link">
+          {{site.data.pageList[tag].title}}
+        </a>
+      </li>
+      {% endif %}
       {% endfor %}
     </ul>
   </section>
