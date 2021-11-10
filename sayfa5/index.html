@@ -13,8 +13,10 @@ description: "Güncel edebiyat yarışmalarının 5. sayfasındasınız."
 	{% assign counter = 0 %}
 
 	{% for post in site.posts %}
+	
+	{% if post.hidden != true and post.sticky != true %}
 	{% if post.lastDate > nowDateInt %}
-	{% if post.hidden != true  %}
+	
 
 	{% assign counter=counter | plus:1 %}
 
