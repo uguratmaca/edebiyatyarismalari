@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yeni Ufuk Dergisi Deneme Yarışması"
+title: "Yeni Ufuk Dergisi Deneme Yarışması 2021"
 description: "Ezelden Beri Hür Yaşayan Milletin Hürriyet Çığlığı: İstiklâl Marşı konulu Yeni Ufuk Dergisi Deneme Yarışması düzenleniyor"
 tags: [şubat 2021, üniversite, deneme yarışması]
 comments: true

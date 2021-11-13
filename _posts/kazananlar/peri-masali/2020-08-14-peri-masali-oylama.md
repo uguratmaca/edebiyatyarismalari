@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peri Masalı Yarışması Masalları | Masal Seçkisi"
+title: "Peri Masalı Yarışması Masalları | Masal Seçkisi Oylama"
 description: "3. Yarışmamız Peri Masalı Masal Yarışmasına tam 60 adet masal başvurdu. İlk 12'ye girip seçkide yer almayı hak eden masalları aşağıdan okuyabilir, içlerinden en beğendiğiniz masalı 6 Eylül tarihine kadar oylayabilirsiniz."
 tags: [edebiyat yarışmaları, peri masalı, kazanan]
 comments: true

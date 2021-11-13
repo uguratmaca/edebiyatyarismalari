@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "100. Yıl Marşı Şiir ve Beste Yarışması"
+title: "Çekmeköy 100. Yıl Marşı Şiir ve Beste Yarışması"
 description: "100. Yıl Marşı Şiir ve Beste Yarışması düzenleniyor"
 category: articles
 tags: [ekim 2021, şiir yarışması, beste yarışması, genel]

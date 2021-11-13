@@ -14,6 +14,8 @@ excerpt: "Asıl amacımız Türkiye’deki genç edebiyatı yeşertmek olduğu i
 image: "https://edebiyatyarismalari.com/images/2021/mart/ilkyaz-logo.jpg"
 ---
 
+## İlkyaz EDEBİYAT + Girişimi İçin Sanatçılara Çağrıda Bulunuyor!
+
 <span style="color:red">Önemli:</span> Sevgili genç sanatçılar. İlkyaz bir yarışma değildir, uluslararası bağlantıları olan bir genç yazarlar/sanatçılar ailesidir. Bu nedenle lütfen başvurunuzu “yarışma” notuyla değil “İlkyaz Edebiyat+ Sanatçı Başvurusu” başlığıyla İLETİNİZ. 
 
 PEN International Uluslararası Yazarlar Birliği’nin desteğiyle yayın hayatına başlayan İlkyaz Platformu Türkiye’den 35 yaş altı genç yazar ve şairlere çağrıda bulunuyor. Proje kapsamında her ay seçilen 3 (üç) genç yazarın kısa eserleri (şiir veya kısa öykü) İlkyaz tarafından önce İngilizceye, ardından o ay iş birliği yapılan PEN Merkezine göre değişen ikinci bir dile çevriliyor. Böylece genç yazar ve kısa eserinin uluslararası düzeyde tanıtımının yapılması da sağlanıyor.  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bir Günlük Bilim İnsanı Makale Yarışması"
+title: "Bir Günlük Bilim İnsanı Makale Yarışması 2021"
 description: "nasa bir günlük bilim insanı makale yarışması, lise geneli makale yarışması"
 category: articles
 tags: [nisan 2021, ortaokul, lise, makale yarışması]

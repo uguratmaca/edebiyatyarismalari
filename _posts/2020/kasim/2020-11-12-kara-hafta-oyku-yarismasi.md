@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kara Hafta İstanbul Polisiye Öykü Yarışması"
+title: "Kara Hafta İstanbul Polisiye Öykü Yarışması 2020"
 description: "Türkiye’nin ilk ve tek polisiye edebiyat organizasyonu “Kara Hafta İstanbul Festivali” Öykü Yarışması ile başlıyor."
 tags: [kasım 2020, genel, hikaye yarışması]
 comments: true

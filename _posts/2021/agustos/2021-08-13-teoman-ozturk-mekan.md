@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teoman Öztürk Mekan Öyküleri Yarışması"
+title: "Teoman Öztürk Mekan Öyküleri Yarışması 2021"
 description: "Mimarlar Odası Ankara Şubesi TMMOB 18., 19., 20., 21., 22., 23., 24. Dönem Başkanı Mimar Teoman Öztürk’ü 3. kez MEKÂN ÖYKÜLERİ yarışmasıyla anıyoruz."
 category: articles
 tags: [eylül 2021, genel, hikaye yarışması]

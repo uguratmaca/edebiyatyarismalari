@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KVKK Akademi Makale Yarışması"
+title: "KVKK Akademi Makale Yarışması 2021"
 description: "Bu sene yine KVKK Akademi Makale Yarışması düzenleniyor"
 tags: [mart 2021, üniversite, makale yarışması]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nakıyye Elgün Ulusal Öykü Yarışması"
+title: "Nakıyye Elgün Ulusal Öykü Yarışması 2021"
 description: "Feyziye Mektepleri Vakfı Işık Ortaokulu Nakıyye Elgün Ulusal Öykü Yarışması düzenliyor"
 tags: [mart 2021, ortaokul, hikaye yarışması]
 comments: true

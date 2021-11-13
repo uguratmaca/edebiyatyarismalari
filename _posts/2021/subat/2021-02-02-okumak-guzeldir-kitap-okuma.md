@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Okumak Güzeldir Kitap Okuma Yarışması"
+title: "2. Okumak Güzeldir Kitap Okuma Yarışması"
 description: "Eyüpsultan Belediyesi 2. Okumak Güzeldir kitap okuma yarışması düzenliyor"
 tags: [mayıs 2021, genel, kitap okuma yarışması, ömer seyfettin, sait faik abasıyanık]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Everest Yayınları İlk Roman Yarışması"
+title: "Everest Yayınları İlk Roman Yarışması 2021"
 description: "Everest Yayınları 2021 tarafından düzenlenen İlk Roman Yarışması'na başvurular başladı."
 category: articles
 tags: [temmuz 2021, genel, roman yarışması]

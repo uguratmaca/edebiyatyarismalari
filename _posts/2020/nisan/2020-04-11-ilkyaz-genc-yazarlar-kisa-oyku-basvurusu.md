@@ -13,6 +13,8 @@ permalink: "ilkyaz-genc-yazarlar-nisan-2020-kisa-oyku-basvurusu"
 image: "https://edebiyatyarismalari.com/images/2020/nisan/ilkyaz-genc-yazarlar-siir-kisa-oyku-yarismasi.jpg"
 ---
 
+## İlkyaz Genç Yazarlar 2020 Nisan Kısa Öykü Başvurusu
+
 Önemli: Sevgili genç yazarlar. İlkyaz bir yarışma değildir, uluslararası ağlara sahip bir genç yazarlar ailesidir. Bu nedenle lütfen çalışmalarınızı 'yarışma' notuyla İLETMEYİNİZ. PEN International Uluslararası Yazarlar Birliği’nin desteğiyle yayın hayatına başlayan İlkyaz Platformu Türkiye’den 35 yaş altı genç yazar ve şairlere çağrıda bulunuyor. 
 Proje kapsamında her ay seçilen 3 (üç) genç yazarın kısa eserleri (şiir veya kısa öykü) İlkyaz tarafından önce İngilizceye, ardından o ay işbirliği yapılan PEN Merkezine göre değişen ikinci bir dile çevriliyor. Böylece genç yazar ve kısa eserinin uluslararası düzeyde tanıtımının yapılması da sağlanıyor.  
 
