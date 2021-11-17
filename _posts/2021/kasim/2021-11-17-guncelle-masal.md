@@ -8,6 +8,7 @@ comments: true
 lastDate: 1648764000
 dateHuman: "1 Nisan 2022"
 comTopic: "Serbest"
+price: "7 Bin 500 TL'dir"
 attendance: "Posta, E-Posta"
 requirements: "İstanbul ilinde yerleşik tüm lise ve dengi okullar, tüm Fransız Liseleri 2021-2022 eğitim-öğretim yılında hazırlık sınıfları, 9, 10, 11 ve 12. sınıflarda okuyan öğrenciler"
 permalink: "5-guncelle-masal-hikaye-yarisma"
@@ -34,5 +35,11 @@ yazım kurallarına uygunluk gibi özellikler aranacaktır.
 13. Son başvuru tarihinden sonra ulaşan eserler değerlendirmeye alınmayacaktır
 14. Katılacak öğrencilerin, veli muvafakatnamelerini eserle birlikte göndermeleri gerekmektedir.
 15. Öğrenci bilgi formunun doldurulması şarttır
+
+### 5. Güncelle Masal ve Hikaye Yarışması Ödülleri
+1.’ye 3000 TL  
+2.’ye 2500 TL  
+3.’ye 2000 TL ödül verilecektir.  
+Ödüller okul bütçesinden karşılanacaktır.
 
 ### [Başvuru Formu](https://sm.k12.tr/wp-content/uploads/2021/11/GUNCELLE-Basvuru-Formu-.docx){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
