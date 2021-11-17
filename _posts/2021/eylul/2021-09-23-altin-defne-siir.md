@@ -3,10 +3,10 @@ layout: post
 title: "Altın Defne Şiir Ödülü 2022"
 description: "Aalen-Antakya Kültür Derneği, Altın Defne Şiir Ödülü düzenleniyor."
 category: articles
-tags: [şubat 2022, şiir yarışması, genel]
+tags: [ocak 2022, şiir yarışması, genel]
 comments: true
-lastDate: 1644879600 
-dateHuman: "15 Şubat 2022"
+lastDate: 1643583600 
+dateHuman: "31 Ocak 2022"
 comTopic: "Serbest"
 attendance: "Elden, Posta, Kargo"
 requirements: "1987 doğumlu veya daha küçük yaşta olması gerekir."
