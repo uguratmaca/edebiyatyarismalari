@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "grunt-contrib-concat": "^0.5.1",
-    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-cssmin": "^4.0.0",
     "grunt-rtlcss": "^2.0.1"
   },
   "dependencies": {
