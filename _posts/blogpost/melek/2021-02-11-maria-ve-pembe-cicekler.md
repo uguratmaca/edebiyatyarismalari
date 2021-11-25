@@ -40,4 +40,4 @@ Maria tüm canlıların içinde, kiraz çiçeklerinin gelişinde
 Ne zaman çıksam tarlaya, bir rüzgar eser öylece  
 Ve kulağıma bir ses gelir, neşeli bir kadının gülüşü gibi  
 
-### [Melek Kaya]({{ site.url }}/melek-kaya)
+### [Melek Kaya]({{ site.url }}/melek-kaya/)

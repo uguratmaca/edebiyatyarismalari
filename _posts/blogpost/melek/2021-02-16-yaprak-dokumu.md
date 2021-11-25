@@ -28,4 +28,4 @@ Geriye sadece kalan birkaç darbe ve göç etmek için çırpınan kanatların s
 Ama çok geç kaldı gönül kuşlarım, ayaza yakalandılar.  
 Vaktimiz bir rüzgar gibi esti kasvetli ve geçiyor şu anda tutmayacağım kadar hızlıca.  
 
-### [Melek Kaya]({{ site.url }}/melek-kaya)
+### [Melek Kaya]({{ site.url }}/melek-kaya/)

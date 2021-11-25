@@ -38,4 +38,4 @@ Seçilen özellikleri taşıyacak şekilde suni ortamda döllenme gerçekleştir
 -- Daldın baba. Haydi, cevap ver, nasıl oldum?  
 -- Leylekler… Seni leylekler getirdi oğlum.  
 
-### [Uğur Atmaca]({{ site.url }}/ugur-atmaca)
+### [Uğur Atmaca]({{ site.url }}/ugur-atmaca/)
