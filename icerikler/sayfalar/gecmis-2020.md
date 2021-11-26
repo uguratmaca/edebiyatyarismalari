@@ -3,7 +3,7 @@ layout: category
 headline: "Edebiyat Yarışmaları 2020"
 title: "Edebiyat Yarışmaları 2020"
 subline: "<ul class='nav flex-column'>   
-   <li class='nav-item'><a class='nav-link' href='/aralik-2020-yarismalar'>Aralık 2020 Yarışmaları</a></li>
+   <li class='nav-item'><a class='nav-link' href='/aralik-2020-yarismalar/'>Aralık 2020 Yarışmaları</a></li>
    <li class='nav-item'><a class='nav-link' href='/kasim-ayi-2020-edebiyat-yarismalari/'>Kasım 2020 Yarışmaları</a></li>
    <li class='nav-item'><a class='nav-link' href='/ekim-ayi-2020-edebiyat-yarismalari/'>Ekim 2020 Yarışmaları</a></li>
    <li class='nav-item'><a class='nav-link' href='/eylul-ayi-2020-edebiyat-yarismalari/'>Eylül 2020 Yarışmaları</a></li>

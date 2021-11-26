@@ -22,4 +22,4 @@ Ben de son 10 senemi beynimi bu konuda geliştirmekle geçirdim. Önce hayvanlar
 -- Peki, nasıl yakalandın?
 -- Nerede hata yaptığımı bilmiyorum, ama son işimin hazırlıklarını yaparken dona kaldım ve yakalayıcılar beni aldılar. Buraya getirmeden önce de sayemde sistemdeki pek çok açığı kapattıklarını bildirdiler. Beni de yazılımda yaptıkları son güncelleme ile yakaladıklarını söylediler…  
 
-### [Uğur Atmaca]({{ site.url }}/ugur-atmaca)
+### [Uğur Atmaca]({{ site.url }}/ugur-atmaca/)
