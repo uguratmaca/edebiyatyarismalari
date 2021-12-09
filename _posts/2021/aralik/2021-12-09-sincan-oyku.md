@@ -12,7 +12,7 @@ comTopic: "Serbest"
 attendance: "Elden"
 requirements: "Sincan ilçesi sınırları içinde ikamet eden, okuyan veya çalışan; ortaokul 6. sınıftan itibaren bütün öğrenciler ve yetişkinler katılabilir."
 permalink: "sincan-2-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2021/aralik/sincan-2-oyku-yarismasi"
+image: "https://edebiyatyarismalari.com/images/2021/aralik/sincan-2-oyku-yarismasi.jpg"
 excerpt: "Sincan Belediyesi Millet Kıraathaneleri 2. Öykü Yarışması düzenliyor."
 ---
 
