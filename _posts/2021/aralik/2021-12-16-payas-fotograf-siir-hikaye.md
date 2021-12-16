@@ -5,7 +5,7 @@ description: "Payas Belediyesi Dünden Bugüne Payas konulu Şiir, Hikaye, Foto�
 category: articles
 tags: [ağustos 2022, fotoğraf yarışması, hikaye yarışması, şiir yarışması, genel]
 comments: true
-lastDate: 30 Ağustos 2022
+lastDate: 1661810400
 dateHuman: "30 Ağustos 2022"
 comTopic: "Dünden Bugüne Payas"
 attendance: "Websitesi"
