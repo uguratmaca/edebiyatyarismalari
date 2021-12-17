@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2022 Ceyhun Atuf Kansu Şiir Ödülü"
-description: Şair Ceyhun Atuf Kansu adına her yıl düzenlenen Şiir Ödülü’ne 2022 için katılım şartları açıklandı."
+description: "Şair Ceyhun Atuf Kansu adına her yıl düzenlenen Şiir Ödülü’ne 2022 için katılım şartları açıklandı."
 category: articles
 tags: [ocak 2022, şiir yarışması, genel]
 comments: true
