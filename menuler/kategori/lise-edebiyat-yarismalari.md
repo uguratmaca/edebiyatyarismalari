@@ -1,8 +1,8 @@
 ---
 layout: category
-headline: "Liseler Yarışmaları, Liseler Arası Edebiyat Yarışmaları 2021"
-title: "Liseler Yarışmaları 2021, Liseler Arası Edebiyat Yarışmaları 2021, yazı yarışmaları"
+headline: "Liseler Yarışmaları, Liseler Arası Edebiyat Yarışmaları 2022"
+title: "Liseler Yarışmaları 2022, Liseler Arası Edebiyat Yarışmaları 2022, yazı yarışmaları"
 key: "lise"
-description: "Liseler Yarışmaları 2021, liseler arası yarışmalar 2020, lise yarışmaları 2020, yazı yazma yarışması"
+description: "Liseler Yarışmaları 2022, liseler arası yarışmalar 2020, lise yarışmaları 2022, yazı yazma yarışması"
 permalink: "lise-edebiyat-yarismalari/"
 ---
