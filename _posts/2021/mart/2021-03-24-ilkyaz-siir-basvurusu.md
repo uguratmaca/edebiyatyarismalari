@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "İlkyaz Genç Yazarlar 2021 Şiir Başvurusu"
-description: "PEN International Uluslararası Yazarlar Birliği’nin desteğiyle yayın hayatına başlayan İlkyaz Platformu Türkiye’den 35 yaş altı genç yazar ve şairlere çağrıda bulunuyor."
+description: "PEN International Uluslararası Yazarlar Birliği’nin desteğiyle yayın hayatına başlayan İlkyaz Platformu Türkiye’den 35 yaş altı genç yazar ve şairlere çağrıda bulunuyor. 2021 Şiir Başvurusu."
 tags: [mayıs 2021, genel, şiir yarışması]
 comments: true
 lastDate: 1622408400    
@@ -10,7 +10,7 @@ attendance: "E-Posta"
 comTopic: "Serbest"
 requirements: "35 yaş altı tüm genç yazarlar"
 permalink: "ilkyaz-siir-basvurusu-2021"
-excerpt: "PEN International Uluslararası Yazarlar Birliği’nin desteğiyle yayın hayatına başlayan İlkyaz Platformu Türkiye’den 35 yaş altı genç yazar ve şairlere çağrıda bulunuyor."
+excerpt: "PEN International Uluslararası Yazarlar Birliği’nin desteğiyle yayın hayatına başlayan İlkyaz Platformu Türkiye’den 35 yaş altı genç yazar ve şairlere çağrıda bulunuyor.  2021 Şiir Başvurusu."
 image: "https://edebiyatyarismalari.com/images/2021/mart/ilkyaz-logo.jpg"
 ---
 

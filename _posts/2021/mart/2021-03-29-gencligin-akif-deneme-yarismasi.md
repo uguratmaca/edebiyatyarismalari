@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gençliğin Kaleminden Mehmet Akif Deneme Yarışması"
-description: "Genç Memur Sen Asım'dan Akif'e Mektup Yarışması düzenliyor"
+description: "Gençliğin Kaleminden Mehmet Akif Deneme Yarışması düzenleniyor"
 category: articles
 tags: [haziran 2021, üniversite, deneme yarışması, mehmet akif ersoy]
 comments: true
@@ -13,7 +13,7 @@ permalink: "gencligin-kaleminden-akif-deneme-yarismasi"
 price: "16 Bin TL'dir"
 requirements: "Yarışmaya Türkiye’de faaliyet gösteren tüm devlet ve vakıf üniversitelerinde eğitim alan 35 yaşını doldurmamış yükseköğretim öğrencileri katılabilir"
 image: "https://edebiyatyarismalari.com/images/2021/mart/mehmet-akif-deneme-yarismasi.jpg"
-excerpt: "Genç Memur Sen Asım'dan Akif'e Mektup Yarışması düzenliyor"
+excerpt: "Gençliğin Kaleminden Mehmet Akif Deneme Yarışması düzenleniyor"
 ---
 
 ## Gençliğin Kaleminden Mehmet Akif Deneme Yarışması

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bir Günlük Bilim İnsanı Makale Yarışması 2021"
-description: "nasa bir günlük bilim insanı makale yarışması, lise geneli makale yarışması"
+description: "nasa bir günlük bilim insanı makale yarışması 2021, lise geneli makale yarışması"
 category: articles
 tags: [nisan 2021, ortaokul, lise, makale yarışması]
 comments: true
@@ -12,7 +12,7 @@ attendance: "Websitesi"
 requirements: "Özel ve resmi okulların 6, 7, 8, lise hazırlık, 9, 10, 11 ve 12. sınıfları"
 permalink: "bir-gunluk-bilim-insani-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/mart/nasa-bir-gunluk-bilim-insani-makale-yarismasi.jpg"
-excerpt: "nasa bir günlük bilim insanı makale yarışması, lise geneli makale yarışması"
+excerpt: "nasa bir günlük bilim insanı makale yarışması 2021, lise geneli makale yarışması"
 ---
 
 ## Makale Yarışması Katılım Şartları

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "100 Yıl Sonra Çanakkale Akif'ini Arıyor Şiir Yarışması"
-description: "Anadolu Gençlik Derneği Üsküdar Şiir Yarışması düzenliyor"
+description: "100 Yıl Sonra Çanakkale Akif'ini Arıyor Şiir Yarışması düzenlenmiştir."
 tags: [şubat 2021, genel, şiir yarışması, mehmet akif ersoy]
 comments: true
 lastDate: 1614459600 
@@ -12,7 +12,7 @@ comTopic: "Çanakkale Zaferi"
 requirements: "18 yaş üstü herkes katılabilir"
 permalink: "mehmet-akif-ersoy-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/aralik/mehmet-akif-ersoy-siir-yarismasi.jpg"
-excerpt: "Anadolu Gençlik Derneği Üsküdar Şiir Yarışması düzenliyor"
+excerpt: "100 Yıl Sonra Çanakkale Akif'ini Arıyor Şiir Yarışması düzenlenmiştir."
 ---
 
 ## 100 Yıl Sonra Çanakkale Akif'ini Arıyor Şiir Yarışması Şartları

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Öğretmenden Öğretmenine Gönülden Mektup Yarışması"
-description: "Bağcılar Belediyesi, Gönül Bağı Platformu olarak 24 Kasım Öğretmenler Günü Mektup Yarışması düzenliyor."
+description: "Bağcılar Belediyesi, Gönül Bağı Platformu olarak 24 Kasım Öğretmenler Günü Öğretmenden Öğretmenine Gönülden Mektup Yarışması düzenliyor."
 category: articles
 tags: [kasım 2021, genel, mektup yarışması, istanbul, öğretmen]
 comments: true
@@ -13,7 +13,7 @@ attendance: "E-Posta"
 requirements: "İstanbul Bağcılar İlçesinde görev yapan tüm öğretmenlerimizi kapsamaktadır"
 permalink: "ogretmenden-ogretmenine-mektup-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/ekim/ogretmenden-ogretmenine-mektup-yarismasi.jpg"
-excerpt: "Bağcılar Belediyesi, Gönül Bağı Platformu olarak 24 Kasım Öğretmenler Günü Mektup Yarışması düzenliyor."
+excerpt: "Bağcılar Belediyesi, Gönül Bağı Platformu olarak 24 Kasım Öğretmenler Günü Öğretmenden Öğretmenine Gönülden Mektup Yarışması düzenliyor."
 ---
 
 ## Öğretmenden Öğretmenine Gönülden Mektup Yarışması

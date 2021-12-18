@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Peri Masalı Yarışması Masalları | Masal Seçkisi"
-description: "3. Yarışmamız Peri Masalı Masal Yarışmasına tam 60 adet masal başvurdu. İlk 12'ye girip seçkide yer almayı hak eden masalları aşağıdan okuyabilir, içlerinden en beğendiğiniz masalı 6 Eylül tarihine kadar oylayabilirsiniz."
+description: "Edebiyatyarismalari.com olarak düzenlediğimiz 3. Yarışmamız Peri Masalı Masal Yarışmasına tam 60 adet masal başvurdu. İlk 12'ye girip seçkide yer almayı hak eden masalları aşağıdan okuyabilirsiniz."
 tags: [edebiyat yarışmaları, peri masalı, kazanan]
 comments: true
 hidden: true
 permalink: "peri-masali/"
-excerpt: "3. Yarışmamız Peri Masalı Masal Yarışmasına tam 60 adet masal başvurdu. İlk 12'ye girip seçkide yer almayı hak eden masalları aşağıdan okuyabilir, içlerinden en beğendiğiniz masalı 6 Eylül tarihine kadar oylayabilirsiniz."
+excerpt: "Edebiyatyarismalari.com olarak düzenlediğimiz 3. Yarışmamız Peri Masalı Masal Yarışmasına tam 60 adet masal başvurdu. İlk 12'ye girip seçkide yer almayı hak eden masalları aşağıdan okuyabilirsiniz."
 ---
 
 3.Yarışmamız Peri Masalı Masal Yarışmasına tam 60 adet masal başvurdu. İlk 12'ye girip seçkide yer almayı hak eden masalları aşağıdan okuyabilir, içlerinden en beğendiğiniz masalı 6 Eylül tarihine kadar oylayabilirsiniz.
@@ -37,10 +37,4 @@ Sıralama peri masalı adına göre alfabetiktir.
 
 - ### [Üç Başlı Koca Kara Kaz ile Küçük Ömer, Korhan Doğan]({{ site.url }}/peri-masali/uc-basli-koca-kara-kaz-ile-kucuk-omer/)
 
-- ### [Yeşil Diyarın Yedinci Kapısı, Pelin Yılmaz]({{ site.url }}/peri-masali/yesil-diyarin-yedinci-kapisi/)  
-
-{% raw %}
-<hr>
-{% endraw %}
-
-## [Peri Masalı Yarışması Oylama]({{ site.url }}/peri-masali-oylama/)
+- ### [Yeşil Diyarın Yedinci Kapısı, Pelin Yılmaz]({{ site.url }}/peri-masali/yesil-diyarin-yedinci-kapisi/) 
