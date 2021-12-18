@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Azınlıklar Raporu 2.0 | Öykü | Blog"
+title: "Azınlıklar Raporu 2.0 | Öykü"
 description: "Senin suçun neydi?"
-tags: [blog, hikaye, uğur atmaca]
+tags: [hikaye, uğur atmaca]
 comments: true
 permalink: "blog/azinliklar-raporu"
 image: "https://edebiyatyarismalari.com/images/2021/ocak/azinliklar-raporu.jpg"

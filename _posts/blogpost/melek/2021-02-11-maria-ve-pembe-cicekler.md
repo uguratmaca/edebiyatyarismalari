@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Maria ve Pembe Çiçekler | Şiir | Blog"
+title: "Maria ve Pembe Çiçekler | Şiir"
 description: "Maria giyinmiş, beyaz elbisesini ..."
-tags: [blog, şiir, melek kaya]
+tags: [şiir, melek kaya]
 comments: true
 permalink: "blog/maria-ve-pembe-cicekler"
 image: "https://edebiyatyarismalari.com/images/2021/subat/maria-ve-pembe-cicekler.jpeg"

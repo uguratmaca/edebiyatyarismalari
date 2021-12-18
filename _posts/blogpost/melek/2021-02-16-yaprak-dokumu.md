@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Yaprak Dökümü Gibi Yüreğim | Şiir | Blog"
+title: "Yaprak Dökümü Gibi Yüreğim | Şiir"
 description: "Yaprak dökümü gibi yüreğim ..."
-tags: [blog, şiir, melek kaya]
+tags: [şiir, melek kaya]
 comments: true
 permalink: "blog/yaprak-dokumu-gibi-yuregim"
 image: "https://edebiyatyarismalari.com/images/2021/subat/yaprak-dokumu-gibi-yuregim.jpg"

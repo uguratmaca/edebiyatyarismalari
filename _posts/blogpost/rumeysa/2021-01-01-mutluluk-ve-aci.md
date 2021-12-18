@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Mutluluk ve Acı | Deneme | Blog"
+title: "Mutluluk ve Acı | Deneme"
 description: "Birçok şeyi arkamızda bırakıp gitmeliyiz belki de..."
-tags: [blog, deneme, rümeysa ateş]
+tags: [deneme, rümeysa ateş]
 comments: true
 permalink: "blog/mutluluk-ve-aci"
 image: "https://edebiyatyarismalari.com/images/2021/ocak/mutluluk-ve-aci.jpeg"

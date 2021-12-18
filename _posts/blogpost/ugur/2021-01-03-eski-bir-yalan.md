@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Eski Bir Yalan | Öykü | Blog"
+title: "Eski Bir Yalan | Öykü"
 description: "Odasındaki ultraviyole ışınları geçirmeyen pencereden meraklı gözlerle güneşi seyrediyordu."
-tags: [blog, hikaye, uğur atmaca]
+tags: [hikaye, uğur atmaca]
 comments: true
 permalink: "blog/eski-bir-yalan"
 image: "https://edebiyatyarismalari.com/images/2021/ocak/eski-bir-yalan.jpg"

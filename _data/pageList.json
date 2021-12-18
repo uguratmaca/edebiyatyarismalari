@@ -147,8 +147,20 @@
         "url": "edebiyat-yarismalari-kazananlar/",
         "title": "Edebiyat Yarışmaları Kazananlar"
     },
-    "blog": {
-        "url": "eserler/",
-        "title": "Edebiyat Yarışmaları Eserler"
+    "hikaye": {
+        "url": "hikayeler/",
+        "title": "Hikayeler, Öyküler"
+    },
+    "şiir": {
+        "url": "siirler/",
+        "title": "Şiirler"
+    },
+    "deneme": {
+        "url": "denemeler/",
+        "title": "Denemeler"
+    },
+    "inceleme": {
+        "url": "inceleme/",
+        "title": "İncelemeler"
     }
 }
