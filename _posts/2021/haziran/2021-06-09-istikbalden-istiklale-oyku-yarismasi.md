@@ -41,6 +41,4 @@ excerpt: "Selçuklu Belediyesi öykü yarışması düzenliyor."
 - Mansiyon ödülü dördüncü ve beşincilere; 2,5 gr Altın (15 – 35 Yaş ve 36 Yaş - Üstü) 4 adet
 - Emek vererek yarışmamıza katılım sağlayan tüm katılımcılara Türk Bayrağı ve Safahat Kitabı hediye edilecektir.
 
-[Başvuru Formu](www.selcukludapekguzelseyler.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
-
-
+[Başvuru Formu](http://www.selcukludapekguzelseyler.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

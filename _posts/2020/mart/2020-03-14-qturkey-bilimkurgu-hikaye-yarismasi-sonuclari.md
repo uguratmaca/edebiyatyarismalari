@@ -24,4 +24,4 @@ Yarışma detaylarını ve sonuç kitapçığına aşağıdaki linkten ulaşabil
 Bilimma olarak desteklediğimiz bu çalışmada tüm katılımcıları tebrik ediyoruz. Bilim kurgu yolculuklarında bol kuantumlu hikayeler yazmalarını temenni ederiz.
 İlk 6’ya giren hikayelere Bilimma’da bu hafta yer vereceğiz. Hikayeleri kaçırmamak için takip etmeyi unutmayın.
 
-[Sonuç Kitapçığı](https://drive.google.com/file/d/1uz82UT4HLXcflHRIQsq6ha-DYiOIkvPJ/view?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+Güncelleme: Link kırılmış, kaldırıldı

@@ -48,4 +48,4 @@ Değerlendirme
 Ödüllendirme ve Ödül Töreni:  
 Yarışmada ilk üç dereceye giren eserlerin sahiplerinin ödülleri; duyurulacak tarihte verilecektir. Yarışmada derece alanların isimleri ülke genelinde ilan edilecektir.  
 
-[Başvuru Formu](http://www.kocacinar.org/wp-content/uploads/2020/03/taah%C3%BCtname.docx?ref=edebiyatyarismalaricom){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+Güncelleme: Link kırılmış, kaldırıldı.

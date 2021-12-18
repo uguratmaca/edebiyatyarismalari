@@ -2,7 +2,7 @@
 layout: post
 title: "2. Benim Eserim Kısa Film Senaryo Yarışması"
 description: "Sinema ve Televizyon Eseri Sahipleri Meslek Birliği (SETEM) tarafından T.C. Kültür ve Turizm Bakanlığı Telif Hakları Genel Müdürlüğü desteği ile “Kısa Film Senaryo Yarışması” düzenlenmiştir. “Benim Eserim-2” projesinin bir ayağı olan senaryo yarışmasının amacı; Telif Hakları konusunda farkındalık düzeyinin artmasını sağlamaktır."
-tags: [eylul 2020, genel, senaryo yarışması]
+tags: [eylül 2020, genel, senaryo yarışması]
 comments: true
 lastDate: 1609102800  
 dateHuman: "15 Eylül 2020"

@@ -51,5 +51,4 @@ Biçim Kuralları:
 - Mansiyon: 1.000,00 TL, Bir yıllık Dil ve Edebiyat Dergisi aboneli
 
 Güncelleme: Son başvuru tarihi
-
-[Başvuru Linki](https://yarisma.agri.edu.tr/basvuru.aspx?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+Güncelleme: Link kırılmış, kaldırıldı

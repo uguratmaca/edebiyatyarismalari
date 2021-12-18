@@ -3,7 +3,7 @@ layout: post
 title: "Sancar Maruflu Öykü ve Oyun Yazma Yarışması"
 description: "Karşıyaka Belediyesi Sancar Maruflu Öykü ve Oyun Yazma Yarışması düzenliyor"
 category: articles
-tags: [aralik 2021, hikaye yarışması, tiyatro oyunu yazma yarışması, genel, sancar maruflu]
+tags: [aralık 2021, hikaye yarışması, tiyatro oyunu yazma yarışması, genel, sancar maruflu]
 comments: true
 lastDate: 1638313200 
 dateHuman: "1 Aralık 2021"

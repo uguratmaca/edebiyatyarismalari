@@ -2,7 +2,7 @@
 layout: post
 title: "Köşk Belediyesi Şiir Yarışması"
 description: "Aydın İli Köşk İlçesi Ödüllü Şiir yarışması düzenliyor."
-tags: [agustos 2020, genel, şiir yarışması]
+tags: [ağustos 2020, genel, şiir yarışması]
 comments: true
 lastDate: 1597957200  
 dateHuman: "21 Ağustos 2020"

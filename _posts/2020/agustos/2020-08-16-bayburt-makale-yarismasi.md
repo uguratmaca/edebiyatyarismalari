@@ -2,7 +2,7 @@
 layout: post
 title: "Bayburt Makale Yarışması"
 description: "Koronavirüs salgını nedeniyle alınan önlemler kapsamında evinde kalan hemşehrilerimizin, moral ve motivasyonlarını üst seviyelere çıkarmak, kaygı ve endişe düzeylerini azaltmak, hemşehrilerimiz arasındaki dayanışmayı diri tutmak, salgınla mücadelede toplumsal duyarlılığın artmasına katkı sağlamaktır."
-tags: [agustos 2020, genel, makale yarışması]
+tags: [ağustos 2020, genel, makale yarışması]
 comments: true
 lastDate: 1598821200  
 dateHuman: "31 Ağustos 2020"

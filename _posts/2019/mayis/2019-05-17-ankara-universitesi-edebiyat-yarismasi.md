@@ -18,4 +18,4 @@ Eserlerin yetkin ve seçkin Seçici Kurullar tarafından değerlendirilmesinin a
 
 Yarışma başvuruları; Ankara Üniversitesi Sağlık Kültür ve Spor Daire Başkanlığına posta ile gerçekleştirilecektir.
 
-[Başvuru için](http://sks.ankara.edu.tr/2019/05/07/ankara-universitesi-edebiyat-odulleri-2019-basvurulari-basladi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+Güncelleme: Link kırılmuş, kaldırıldı.

@@ -2,7 +2,7 @@
 layout: post
 title: "1. Ulusal Şiir ve Öykü Yarışması"
 description: "Fikiroloji Dergi 1. Ulusal Şiir ve Öykü Yarışması düzenliyor."
-tags: [agustos 2020, genel, hikaye yarışması, şiir yarışması]
+tags: [ağustos 2020, genel, hikaye yarışması, şiir yarışması]
 comments: true
 lastDate: 1598821200  
 dateHuman: "31 Ağustos 2020"

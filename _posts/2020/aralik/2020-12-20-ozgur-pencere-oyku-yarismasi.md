@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Özgür Pencere Çocuk ve Genç Kalem Öykü Yarışması"
+title: "Özgür Pencere Çocuk ve Genç Kalem Öykü Yarışması 2021"
 description: "Özgür Pencere Çocuk Edebiyatı Grubu olarak, bu yıl 17. kez öyküleri kitaplaştıracağımız ulusal boyutta yaygınlaşan Çocuk ve Genç Kalem Öykü Yarışmamızın duyurusudur."
 tags: [aralık 2020, ortaokul, lise, hikaye yarışması]
 comments: true

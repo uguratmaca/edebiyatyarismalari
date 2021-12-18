@@ -51,4 +51,4 @@ Birincilik Ödülü: 1500 TL
 Üçüncülük Ödülü: 500 TL  
 Mansiyon Ödülü: Kitap Seti
 
-[Başvuru Formu](http://fmv.edu.tr/tr/oykuyarismasi?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+Güncelleme: Linkler kırılmış, kaldırıldı.

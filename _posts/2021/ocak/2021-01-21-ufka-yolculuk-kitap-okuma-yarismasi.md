@@ -33,4 +33,4 @@ excerpt: 9. Ufka Yolculuk “Sağlıklı Yaşam” konulu yarışması ile “Bi
     - Yarışma Düzenleme Kurulu üyeleri ve birinci derece yakınları,
     - Soru Hazırlama Kurulu üyeleri ve birinci derece yakınları katılamayacaklardır.
 
-### [Başvuru Adresi](www.ufkayolculuk.com/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Adresi](http://www.ufkayolculuk.com/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

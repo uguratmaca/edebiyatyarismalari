@@ -41,6 +41,4 @@ excerpt: "Selçuklu Belediyesi karikatür yarışması düzenliyor."
 - Mansiyon ödülü dördüncü ve beşincilere Tablet verilecektir.
 - Dereceye giren,eserleri sergilenmeye hak kazanan ve emek vererek yarışmamıza katılım sağlayan tüm katılımcılara Türk Bayrağı ve Safahat Kitabı hediye edilecektir.
 
-[Başvuru Formu](www.selcukludapekguzelseyler.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
-
-
+[Başvuru Formu](http://www.selcukludapekguzelseyler.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

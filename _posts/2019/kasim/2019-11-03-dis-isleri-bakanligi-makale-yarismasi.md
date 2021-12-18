@@ -42,4 +42,4 @@ Makaleler, yazarının güncel özgeçmiş ve öğrenci belgesiyle birlikte **ya
 Yarışma için hazırlanacak makaleler Türkçe veya İngilizce dillerinde en az 3.000 en fazla 4.000 kelime olmalıdır. İngilizce ve Türkçe özetler ile son notlar kelime sınırlamasına dâhil değildir.
 Yarışmaya katılan makalelerin tüm yayın, yayım ve dağıtım hakları Dışişleri Bakanlığı Stratejik Araştırmalar Merkezi’ne aittir.
 
-[Yazım Kuralları](http://sam.gov.tr/tr/instructions-for-authors/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc#oykugio){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+Güncelleme: Linkler kırılmış, kaldırıldı.
