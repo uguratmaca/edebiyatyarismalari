@@ -2,7 +2,7 @@
 layout: post
 title: "Şiir Yazma Yarışması"
 description: "Ortahisar Belediyesi organizasyonuyla şiir kültürünün yaşatılması, gelecek nesillere aktarılması adına Şiir Yazma Yarışması gerçekleştirilecektir"
-tags: [aralık 2020, genel, şiir yarışması]
+tags: [aralık 2020, genel, şiir yarışması, 15 temmuz]
 comments: true
 lastDate: 1609362000 
 dateHuman: "31 Aralık 2020"

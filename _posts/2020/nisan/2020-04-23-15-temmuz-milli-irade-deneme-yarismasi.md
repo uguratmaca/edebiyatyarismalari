@@ -2,7 +2,7 @@
 layout: post
 title: "15 Temmuz ve Milli İrade Deneme Yarışması 2020"
 description: "gümüşhane üniversitesi 15 temmuz ve milli irade deneme yarışması, deneme yarışmaları 2020, para ödüllü yarışmalar"
-tags: [haziran 2020, üniversite, deneme yarışması]
+tags: [haziran 2020, üniversite, deneme yarışması, 15 temmuz]
 comments: true
 lastDate: 1592168400    
 dateHuman: "15 Haziran 2020" 

@@ -3,7 +3,7 @@ layout: post
 title: "15 Temmuz: Milli İradenin Zaferi Konulu Şiir Yazma Yarışması"
 description: "Karadeniz Teknik Üniversitesi 15 Temmuz: Milli İradenin Zaferi Konulu Şiir Yazma Yarışması düzenliyor"
 category: articles
-tags: [haziran 2021, üniversite, şiir yarışması]
+tags: [haziran 2021, üniversite, şiir yarışması, 15 temmuz]
 comments: true
 lastDate: 1625000400    
 dateHuman: "30 Haziran 2021"

@@ -3,7 +3,7 @@ layout: post
 title: "15 Temmuz Demokrasi ve Milli Birlik Temalı Şiir/Mektup Yarışması"
 description: "van yüzüncü yıl üniversitesi, ödüllü yarışmalar 2019"
 category: articles
-tags: [temmuz 2019, genel, şiir yarışması, mektup yarışması]
+tags: [temmuz 2019, genel, şiir yarışması, mektup yarışması, 15 temmuz]
 comments: true
 lastDate: 1562878800
 dateHuman: "12 Temmuz 2019"

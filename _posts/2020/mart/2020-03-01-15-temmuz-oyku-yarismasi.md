@@ -3,7 +3,7 @@ layout: post
 title: "15 Temmuz Darbe Girişimi Öykü Yarışması"
 description: "15 temmuz öykü yarışması, ödüllü yarışmalar 2020, hikaye yazma yarışması"
 category: articles
-tags: [mart 2020, genel, hikaye yarışması]
+tags: [mart 2020, genel, hikaye yarışması, 15 temmuz]
 comments: true
 lastDate: 1585602000    
 dateHuman: "31 Mart 2020"
