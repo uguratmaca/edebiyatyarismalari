@@ -3,7 +3,7 @@ layout: post
 title: "100. Yıl Marşı Şiir ve Beste Yarışması"
 description: "Cumhuriyet’in kazanımlarına, insan hak ve özgürlüklerine gösterdiği saygıya; çağdaşlaşmayı ve çağdaş uygarlık düzeyine ulaşmayı amaçlayan Mustafa Kemal ATATÜRK’ün önderliğinde uygar bir toplum haline gelişe dikkat çekmek amacıyla İzmir Büyükşehir Belediyesi tarafından düzenlenmiştir."
 category: articles
-tags: [ekim 2021, genel, şiir yarışması, beste yarışması]
+tags: [ekim 2021, genel, şiir yarışması, beste yarışması, 29 ekim]
 comments: true
 lastDate: 1633035600    
 dateHuman: "1 Ekim 2021"

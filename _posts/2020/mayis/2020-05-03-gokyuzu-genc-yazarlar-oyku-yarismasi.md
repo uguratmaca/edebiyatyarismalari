@@ -2,7 +2,7 @@
 layout: post
 title: "Gökyüzü Genç Yazarlar Öykü Yarışması"
 description: "gökyüzü genç yazarlar öykü yarışması, 19 Mayıs öykü yarışması"
-tags: [mayıs 2020, lise, üniversite, genç, hikaye yarışması]
+tags: [mayıs 2020, lise, üniversite, genç, hikaye yarışması, 19 mayıs]
 comments: true
 lastDate: 1589576400    
 dateHuman: "16 Mayıs 2020"

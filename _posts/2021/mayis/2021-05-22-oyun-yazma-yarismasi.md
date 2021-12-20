@@ -3,7 +3,7 @@ layout: post
 title: "Cumhuriyetin 100. Yılında Kadın Oyun Yazma Yarışması"
 description: "T.C. Kültür ve Turizm Bakanlığı Devlet Tiyatroları Genel Müdürlüğü Cumhuriyetin 100. Yılında Kadın Oyun Yazma Yarışması düzenliyor."
 category: articles
-tags: [aralık 2021, genel, tiyatro oyunu yazma yarışması]
+tags: [aralık 2021, genel, tiyatro oyunu yazma yarışması, 29 ekim]
 comments: true
 lastDate: 1640898000    
 dateHuman: "31 Aralık 2021"

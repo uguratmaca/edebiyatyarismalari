@@ -3,7 +3,7 @@ layout: post
 title: "29 Ekim Cumhuriyet Bayramı Öykü Yarışması"
 description: "Halley Dergisi 29 Ekim Cumhuriyet Bayramı Öykü Yarışması düzenliyor."
 category: articles
-tags: [ekim 2021, genel, hikaye yarışması]
+tags: [ekim 2021, genel, hikaye yarışması, 29 ekim]
 comments: true
 lastDate: 1635458400 
 dateHuman: "29 Ekim 2021"

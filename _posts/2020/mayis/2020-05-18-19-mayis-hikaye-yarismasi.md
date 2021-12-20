@@ -2,7 +2,7 @@
 layout: post
 title: "19 Mayıs Hikaye Yarışması"
 description: "Epik Novel'dan 19 Mayıs'ta başlayacak uzun soluklu bir hikaye yarışması"
-tags: [mayıs 2020, genel, hikaye yarışması]
+tags: [mayıs 2020, genel, hikaye yarışması, 19 mayıs]
 comments: true
 lastDate: 1589922000    
 dateHuman: "19 Mayıs 2020"
