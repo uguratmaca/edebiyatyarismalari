@@ -3,7 +3,7 @@ layout: post
 title: "23 Nisan Resim, Şiir, Fotoğraf Yarışması"
 description: "yozgat demokrat dernekler fedarasyonu, 23 nisan yarışmaları"
 category: articles
-tags: [nisan 2020, ilkokul, ortaokul, resim yarışması, şiir yarışması, fotoğraf yarışması]
+tags: [nisan 2020, ilkokul, ortaokul, resim yarışması, şiir yarışması, fotoğraf yarışması, 23 nisan]
 comments: true
 lastDate: 1587675600    
 dateHuman: "24 Nisan 2020"

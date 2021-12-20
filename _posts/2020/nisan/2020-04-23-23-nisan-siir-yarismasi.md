@@ -2,7 +2,7 @@
 layout: post
 title: "Eskişehir Tepebaşı 23 Nisan Şiir Yarışması 2020"
 description: "23 nisan şiir yarışması, güncel şiir yarışmaları, eskişehir tepebaşı belediyesi"
-tags: [nisan 2020, ilkokul, ortaokul, eskişehir, şiir yarışması]
+tags: [nisan 2020, ilkokul, ortaokul, eskişehir, şiir yarışması, 23 nisan]
 comments: true
 lastDate: 1588107600    
 dateHuman: "29 Nisan 2020"

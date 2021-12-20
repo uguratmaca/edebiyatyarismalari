@@ -3,7 +3,7 @@ layout: post
 title: "Yarını Aydınlat Resim Yarışması 2020"
 description: "yarını aydınlat 23 nisan resim yarışması, ödüllü yarışmalar 2020"
 category: articles
-tags: [nisan 2020, ilkokul, ortaokul, resim yarışması]
+tags: [nisan 2020, ilkokul, ortaokul, resim yarışması, 23 nisan]
 comments: true
 lastDate: 1587589200    
 dateHuman: "23 Nisan 2020"

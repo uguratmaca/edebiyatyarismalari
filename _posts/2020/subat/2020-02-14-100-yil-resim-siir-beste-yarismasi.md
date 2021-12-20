@@ -3,7 +3,7 @@ layout: post
 title: "Milli Egemenliğin 100. Yılı Resim, Şiir ve Beste Yarışması"
 description: "chp 100. yıl 2020 resim yarışması, 2020 şiir yarışmaları, beste yarışması"
 category: articles
-tags: [şubat 2020, ilkokul, ortaokul, genel, şiir yarışması, resim yarışması, beste yarışması]
+tags: [şubat 2020, ilkokul, ortaokul, genel, şiir yarışması, resim yarışması, beste yarışması, 23 nisan]
 comments: true
 lastDate: 1583442000    
 dateHuman: "6 Mart 2020"

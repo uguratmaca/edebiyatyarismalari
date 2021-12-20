@@ -2,7 +2,7 @@
 layout: post
 title: "Eskişehir Tepebaşı 23 Nisan Kompozisyon Yarışması 2020"
 description: "23 nisan kompozisyon yarışması, para ödüllü yarışmalar 2020, kompozisyon yarışmaları 2020"
-tags: [nisan 2020, ilkokul, ortaokul, eskişehir, kompozisyon yarışması]
+tags: [nisan 2020, ilkokul, ortaokul, eskişehir, kompozisyon yarışması, 23 nisan]
 comments: true
 lastDate: 1588107600    
 dateHuman: "29 Nisan 2020" 

@@ -2,7 +2,7 @@
 layout: post
 title: "23 Nisan Adıyaman Bayrak Şiiri Okuma Yarışması"
 description: "23 nisan adıyaman bayrak şiiri okuma yarışması, ilkokul yarışmaları, ortaokul yarışmaları"
-tags: [nisan 2020, adıyaman, ilkokul, ortaokul, şiir okuma yarışması]
+tags: [nisan 2020, adıyaman, ilkokul, ortaokul, şiir okuma yarışması, 23 nisan]
 comments: true
 lastDate: 1587502800    
 dateHuman: "22 Nisan 2020"

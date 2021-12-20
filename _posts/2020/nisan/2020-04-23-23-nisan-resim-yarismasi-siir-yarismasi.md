@@ -2,7 +2,7 @@
 layout: post
 title: "23 Nisan Ödüllü Şiir ve Resim Yarışması"
 description: "23 nisan şiir yarışması, 23 nisan resim yarışması, ödüllü yarışma, türkiye teknoloji takımı"
-tags: [nisan 2020, ilkokul, ortaokul, şiir yarışması, resim yarışması]
+tags: [nisan 2020, ilkokul, ortaokul, şiir yarışması, resim yarışması, 23 nisan]
 comments: true
 lastDate: 1587934800    
 dateHuman: "27 Nisan 2020"
