@@ -27,17 +27,13 @@ layout: default
 
 		{% if post.dateHuman %}
 		{% if post.lastDate > nowDateInt %}
-		<section>
-			<p class="text-success">Yarışma başvurusu devam ediyor...</p>
-		</section>
+		<p class="text-success">Yarışma başvurusu devam ediyor...</p>
 		{% else %}
-		<section>
-			<p class="text-danger">Yarışma başvurusu bitti!</p>
-		</section>
+		<p class="text-danger">Yarışma başvurusu bitti!</p>
 		{% endif %}
 		{% endif %}
 
-		{{ post.excerpt }}
+		<p>{{ post.excerpt }}</p>
 	</section>
 	<hr>
 	{% endif %}

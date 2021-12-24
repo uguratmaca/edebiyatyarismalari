@@ -34,19 +34,15 @@ layout: default
 
       {% if page.dateHuman %}
       {% if page.lastDate > nowDateInt %}
-      <section>
-        <p class="text-success">Yarışma başvurusu devam ediyor...</p>
-      </section>
+      <p class="text-success">Yarışma başvurusu devam ediyor...</p>
       {% else %}
-      <section>
-        <p class="text-danger">Yarışma başvurusu bitti!</p>
-      </section>
+      <p class="text-danger">Yarışma başvurusu bitti!</p>
       {% endif %}
       {% endif %}
     </section>
     <section class="col">
       {% if page.image %}
-      <img src="{{page.image}}" alt="{{page.title}}" loading="lazy"/>
+      <img src="{{page.image}}" alt="{{page.title}}" loading="lazy" />
       {% endif %}
     </section>
   </section>

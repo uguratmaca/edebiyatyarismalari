@@ -17,11 +17,11 @@ layout: default
 
     {% assign counter=counter | plus:1 %}
 
-    <section>
+    <article>
         <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
 
-        {{ post.excerpt }}
-    </section>
+        <p>{{ post.excerpt }}</p>
+    </article>
     <hr>
     
     {% endif %}

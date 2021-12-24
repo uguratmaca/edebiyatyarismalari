@@ -14,7 +14,7 @@ title: "Edebiyat Yarışmaları"
 	{% for post in site.posts %}
 		{% if post.sticky == true  %}
 			{% if post.lastDate > nowDateInt %}
-				<section>
+				<article>
 					<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
 					<em class="text-success">*Sponsorlu</em>
 					<p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
@@ -27,12 +27,10 @@ title: "Edebiyat Yarışmaları"
 						<p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
 					{% endif %}
 
-					<section>
-						<p class="text-success">Yarışma başvurusu devam ediyor...</p>
-					</section>
-
-					{{ post.excerpt }}
-				</section>
+					<p class="text-success">Yarışma başvurusu devam ediyor...</p>
+					
+					<p>{{ post.excerpt }}</p>					
+				</article>
 
 				<hr>
 			{% endif %}
@@ -48,7 +46,7 @@ title: "Edebiyat Yarışmaları"
 				{% assign counter=counter | plus:1 %}
 				{% if counter < 7 %}
 				
-				<section>
+				<article>
 					<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
 
 					<p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
@@ -61,12 +59,10 @@ title: "Edebiyat Yarışmaları"
 						<p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
 					{% endif %}
 
-					<section>
-						<p class="text-success">Yarışma başvurusu devam ediyor...</p>
-					</section>
-
-					{{ post.excerpt }}
-				</section>
+					<p class="text-success">Yarışma başvurusu devam ediyor...</p>
+					
+					<p>{{ post.excerpt }}</p>
+				</article>
 
 				<hr>
 

@@ -23,7 +23,7 @@ description: "Güncel edebiyat yarışmalarının 3. sayfasındasınız."
     {% if counter > 13  %}
     {% if counter < 21  %}
 
-	<section>
+	<article>
 		<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
 
 		<p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
@@ -36,12 +36,10 @@ description: "Güncel edebiyat yarışmalarının 3. sayfasındasınız."
 		<p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
 		{% endif %}
 
-		<section>
-			<p class="text-success">Yarışma başvurusu devam ediyor...</p>
-		</section>
-
-		{{ post.excerpt }}
-	</section>
+		<p class="text-success">Yarışma başvurusu devam ediyor...</p>
+		<p>{{ post.excerpt }}</p>
+		
+	</article>
 	
 	<hr>
 
