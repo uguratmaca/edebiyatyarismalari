@@ -174,5 +174,9 @@
     "inceleme": {
         "url": "inceleme/",
         "title": "İncelemeler"
+    },
+    "tiyatro oyunu yazma yarışması": {
+        "url": "tiyatro-oyunu-yazma-yarismalari/",
+        "title": "Tiyatro Oyunu Yazma Yarışmaları"
     }
 }

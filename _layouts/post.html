@@ -70,6 +70,16 @@ layout: default
       </li>
       {% endif %}
       {% endfor %}
+
+      {% for tag in page.tags %}
+      {% if site.data.descriptionList[tag] %}
+      <li class="nav-item">
+        <a href="{{ site.url }}/{{site.data.descriptionList[tag].url}}" class="nav-link">
+          {{site.data.descriptionList[tag].title}}
+        </a>
+      </li>
+      {% endif %}
+      {% endfor %}
     </ul>
   </section>
 

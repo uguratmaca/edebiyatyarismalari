@@ -1,0 +1,54 @@
+{
+    "şiir yarışması": {
+        "url": "siir-nedir/",
+        "title": "Şiir Nedir?"
+    },
+    "şiir": {
+        "url": "siir-nedir/",
+        "title": "Şiir Nedir?"
+    },
+    "hikaye yarışması": {
+        "url": "hikaye-nedir/",
+        "title": "Hikaye Nedir?"
+    },
+    "hikaye": {
+        "url": "hikaye-nedir/",
+        "title": "Hikaye Nedir?"
+    },
+    "makale yarışması": {
+        "url": "makale-nedir/",
+        "title": "Makale Nedir?"
+    },
+    "deneme yarışması": {
+        "url": "deneme-nedir/",
+        "title": "Deneme Nedir?"
+    },
+    "deneme": {
+        "url": "deneme-nedir/",
+        "title": "Deneme Nedir?"
+    },
+    "mektup yarışması": {
+        "url": "mektup-nedir/",
+        "title": "Mektup Nedir?"
+    },
+    "masal yarışması": {
+        "url": "masal-nedir/",
+        "title": "Masal Nedir?"
+    },
+    "kompozisyon yarışması": {
+        "url": "kompozisyon-nedir/",
+        "title": "Kompozisyon Nedir?"
+    },
+    "roman yarışması": {
+        "url": "roman-nedir/",
+        "title": "Roman Nedir?"
+    },
+    "senaryo yarışması": {
+        "url": "senaryo-nedir/",
+        "title": "Senaryo Nedir?"
+    },
+    "tiyatro oyunu yazma yarışması": {
+        "url": "tiyatro-nedir/",
+        "title": "Tiyatro Nedir?"
+    }
+}
