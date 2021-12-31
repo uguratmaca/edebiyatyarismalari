@@ -17,7 +17,7 @@ layout: default
         </section>
         <section class="col-md-6 col-sm-12">
             {% if page.image %}
-            <img src="{{page.image}}" alt="{{page.title}}" loading="lazy"/>
+            <img src="{{page.image}}" alt="{{page.title}}" loading="lazy" />
             {% endif %}
         </section>
     </section>
@@ -49,6 +49,22 @@ layout: default
         <p class="text-success">Yarışma başvurusu devam ediyor...</p>
 
         <p>{{ post.excerpt }}</p>
+
+        <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "LiteraryEvent",
+              "@id": "{{post.url}}"
+              "eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode",
+              "name": "{{ post.title }}",
+              "url": "{{site.url}}{{post.url}}",
+              "endDate": "{{post.dateHuman}}"
+              "image":"{{post.image}}", 
+              "description": "{{ post.excerpt }}",
+              "eventStatus":"https://schema.org/EventScheduled"
+            }
+        </script>
+
     </section>
     <hr>
 
