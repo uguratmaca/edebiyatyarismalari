@@ -54,14 +54,24 @@ layout: default
             {
               "@context": "https://schema.org",
               "@type": "LiteraryEvent",
-              "@id": "{{post.url}}"
+              "@id": "{{post.url}}",
               "eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode",
               "name": "{{ post.title }}",
               "url": "{{site.url}}{{post.url}}",
-              "endDate": "{{post.dateHuman}}"
+              "startDate": "{{ post.lastDate | date: "%F" }}",
+              "endDate": "{{ post.lastDate | date: "%F" }}",
               "image":"{{post.image}}", 
               "description": "{{ post.excerpt }}",
-              "eventStatus":"https://schema.org/EventScheduled"
+              "eventStatus":"https://schema.org/EventScheduled",
+              "location": {
+                "@type": "Place",
+                "name":"Türkiye'den herkes katılabilir",
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressLocality": "Turkey",
+                  "addressRegion": "TR"
+                }
+              }
             }
         </script>
 
