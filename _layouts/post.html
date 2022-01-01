@@ -80,4 +80,29 @@ layout: default
   </section>
 
   <hr>
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LiteraryEvent",
+      "@id": "{{page.url}}",
+      "eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode",
+      "name": "{{ page.title }}",
+      "url": "{{site.url}}{{page.url}}",
+      "startDate": "{{ page.lastDate | date: "%F" }}",
+      "endDate": "{{ page.lastDate | date: "%F" }}",
+      "image":"{{page.image}}", 
+      "description": "{{ page.excerpt }}",
+      "eventStatus":"https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name":"Türkiye'den herkes katılabilir",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Turkey",
+          "addressRegion": "TR"
+        }
+      }
+    }
+</script>
 </article>
