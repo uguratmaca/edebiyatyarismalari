@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Kayseri Belediyesi Hikaye Yarışması Sonuçları"
 description: "Kayseri Belediyesi Hikaye Yarışması, Öykü Yarışması sonuçları açıklanmıştır."
 category: articles

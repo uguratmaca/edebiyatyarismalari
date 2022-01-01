@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Peri Masalı Masal Yarışması Sonuçları"
 description: "Edebiyatyarismalari.com olarak düzenlediğimiz 3. yarışma; Peri Masalları Yarışması sonuçlanmıştır."
 category: articles

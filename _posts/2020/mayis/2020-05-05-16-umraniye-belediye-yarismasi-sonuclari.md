@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "16. Ümraniye Belediyesi Hikaye, Şiir Yarışması Sonuçları"
 description: "16. ümraniye belediyesi hikaye, şiir yarışması sonuçları 2020"
 category: articles

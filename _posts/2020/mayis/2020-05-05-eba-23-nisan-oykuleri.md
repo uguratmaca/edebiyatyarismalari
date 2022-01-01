@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "MEB EBA 23 Nisan Öykü Yarışması Sonuçları"
 description: "23 nisan öyküleri, 23 nisan öykü yarışması meb eba sonuçları, meb öykü yarışması 2020"
 category: articles

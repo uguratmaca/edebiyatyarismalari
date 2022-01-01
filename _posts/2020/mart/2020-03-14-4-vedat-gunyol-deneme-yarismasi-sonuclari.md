@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "4. Vedat Günyol Deneme Yarışması Sonuçları"
 description: "Kartal Belediyesinin düzenlediği 4. Vedat Günyol Deneme Yarışması sonuçları açıklanmıştır."
 category: articles

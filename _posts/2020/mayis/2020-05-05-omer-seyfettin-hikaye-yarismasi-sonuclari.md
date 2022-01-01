@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Ömer Seyfettin 100. Yılı Anısı Hikaye Yarışması Sonuçları"
 description: "ömer seyfettin hikaye yarışması sonuçları, öykü yarışması sonuçları"
 category: articles

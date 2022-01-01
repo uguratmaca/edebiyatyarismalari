@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Anne Şiirleri Şiir Yarışması Sonuçları"
 description: "Edebiyatyarismalari.com olarak düzenlediğimiz ilk yarışma Anne Şiirleri şiir yarışması sonuçlanmıştır."
 category: articles

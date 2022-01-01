@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Salgın Konulu Bilimkurgu Öykü Yarışması Sonuçları"
 description: "Edebiyatyarismalari.com olarak düzenlediğimiz ikinci yarışma Salgın Konulu Bilimkurgu Öykü Yarışması sonuçlanmıştır."
 category: articles

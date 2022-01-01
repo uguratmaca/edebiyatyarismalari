@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Çorlu Öykü Yarışması Sonuçları"
 description: "Çorlu Belediyesi tarafından düzenlenen Çorlu konulu öykü yarışması sonuçlandı."
 category: articles

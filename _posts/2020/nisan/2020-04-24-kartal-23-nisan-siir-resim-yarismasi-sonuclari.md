@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Kartal Belediyesi 23 Nisan Resim ve Şiir Yarışması Sonuçları"
 description: "kartal belediyesi 23 nisan resim yarışması sonuçları, 23 nisan şiir yarışması sonuçları"
 category: articles
