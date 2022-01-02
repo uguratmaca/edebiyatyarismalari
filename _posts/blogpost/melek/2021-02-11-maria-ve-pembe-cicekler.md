@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Maria ve Pembe Çiçekler | Şiir"
 description: "Maria giyinmiş, beyaz elbisesini ..."
 tags: [şiir, melek kaya]

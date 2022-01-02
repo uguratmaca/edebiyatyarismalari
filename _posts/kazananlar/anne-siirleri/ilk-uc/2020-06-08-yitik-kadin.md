@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Yitik Kadın/Çocuk | Anne Şiirleri Kazananı"
 description: "Anne şiirleri şiir yarışmamızın 3 kazanından birisi, Esra Gülışık'ın Yitik Kadın/Çocuk şiiri"
 tags: [edebiyat yarışmaları, kazanan, anne şiirleri]

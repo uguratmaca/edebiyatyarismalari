@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Azınlıklar Raporu 2.0 | Öykü"
 description: "Senin suçun neydi?"
 tags: [hikaye, uğur atmaca]

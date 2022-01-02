@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Hatıra Yaması | Bilimkurgu Öykü Yarışması Kazananı"
 description: "Salgın konulu Bilimkurgu Öykü yarışmamızın 3 kazananından birisi Alaaddin Beken'in Hatıra Yaması öyküsü"
 tags: [edebiyat yarışmaları, kazanan, bilimkurgu salgın]

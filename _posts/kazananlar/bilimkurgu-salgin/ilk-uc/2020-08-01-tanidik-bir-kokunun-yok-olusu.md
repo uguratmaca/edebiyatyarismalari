@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Tanıdık Bir Kokunun Yok Oluşu | Bilimkurgu Öykü Yarışması Kazananı"
 description: "Salgın konulu Bilimkurgu Öykü yarışmamızın 3 kazananından birisi Şimal Yanpınar'ın Tanıdık Bir Kokunun Yok Oluşu öyküsü"
 tags: [edebiyat yarışmaları, kazanan, bilimkurgu salgın]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Bir İkindi Vakti | Anne Şiirleri Seçkisi"
 description: "Anne şiirleri şiir seçkisindeki ilk 10 şiirden Bir İkindi Vakti şiiri..."
 tags: [edebiyat yarışmaları, kazanan, anne şiirleri]

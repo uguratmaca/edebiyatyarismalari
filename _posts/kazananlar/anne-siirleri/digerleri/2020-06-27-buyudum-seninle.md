@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Büyüdüm Seninle | Anne Şiirleri Seçkisi"
 description: "Anne şiirleri şiir seçkisindeki ilk 10 şiirden büyüdüm seninle..."
 tags: [edebiyat yarışmaları, kazanan, anne şiirleri]

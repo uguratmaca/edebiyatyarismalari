@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Yeşil Diyarın Yedinci Kapısı | Peri Masalı Yarışması Seçkisi"
 description: "Peri Masalları Masal yarışmamızın ilk 12 masalından biri Pelin Yılmaz'ın kaleminden..."
 tags: [edebiyat yarışmaları, kazanan, peri masalı]

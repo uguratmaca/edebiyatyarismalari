@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Uzun Oğlan ve Su Perisi | Peri Masalı Yarışması Seçkisi"
 description: "Peri Masalları Masal yarışmamızın ilk 12 masalından biri İbrahim Şaşma'nın kaleminden..."
 tags: [edebiyat yarışmaları, kazanan, peri masalı]

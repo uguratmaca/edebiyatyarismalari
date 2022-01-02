@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Tanıdık Bir Yüz | Bilimkurgu Öykü Yarışması Seçkisi"
 description: "Salgın konulu Bilimkurgu Öykü yarışmamızın ilk 10 öyküsünden biri İsmail Çakır'ın Tanıdık Bir Yüz öyküsü"
 tags: [edebiyat yarışmaları, kazanan, bilimkurgu salgın]

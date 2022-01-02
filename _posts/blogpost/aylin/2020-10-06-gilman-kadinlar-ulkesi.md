@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Gilman ve Kadınlar Ülkesi | Kitap İnceleme"
 description: "“Onlara göre ülke bir birlikti, onların birliği. Kendileri de bir birlikti, bilinçli bir gruptular ve her şeye toplum açısından bakıyorlardı. Bu nedenle zaman algıları tek bir bireyin umutları ve amaçlarıyla sınırlı değildi.”"
 tags: [inceleme, aylin güçlü]

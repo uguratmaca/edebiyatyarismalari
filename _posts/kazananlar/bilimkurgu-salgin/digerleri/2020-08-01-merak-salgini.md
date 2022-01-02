@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Merak Salgını | Bilimkurgu Öykü Yarışması Seçkisi"
 description: "Salgın konulu Bilimkurgu Öykü yarışmamızın ilk 10 öyküsünden biri Canan Can Pearce'ın Merak Salgını öyküsü"
 tags: [edebiyat yarışmaları, kazanan, bilimkurgu salgın]

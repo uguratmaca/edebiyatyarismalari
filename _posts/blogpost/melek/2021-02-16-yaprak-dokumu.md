@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Yaprak Dökümü Gibi Yüreğim | Şiir"
 description: "Yaprak dökümü gibi yüreğim ..."
 tags: [şiir, melek kaya]

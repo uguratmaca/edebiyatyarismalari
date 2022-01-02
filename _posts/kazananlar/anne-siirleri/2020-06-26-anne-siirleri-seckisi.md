@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Anne Şiirleri | Şiir Seçkisi"
 description: "Anne şiirleri şiir yarışmamızın ilk 10'a giren şiirlerin listesidir."
 tags: [edebiyat yarışmaları, anne şiirleri, kazanan]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "'İyi Ki' Perisi | Peri Masalı Yarışması Seçkisi"
 description: "Peri Masalları Masal yarışmamızın ilk 12 masalından biri Elif Yavaş'ın kaleminden..."
 tags: [edebiyat yarışmaları, kazanan, peri masalı]

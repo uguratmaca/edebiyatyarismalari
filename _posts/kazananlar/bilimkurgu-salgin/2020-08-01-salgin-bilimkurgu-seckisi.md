@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Salgın Konulu Bilimkurgu Öyküleri | Öykü Seçkisi"
 description: "Salgın konulu bilimkurgu yarışmamıza katılan 77 öyküden ilk 9'a giren öyküyü buradan okuyabilirsiniz"
 tags: [edebiyat yarışmaları, bilimkurgu salgın, kazanan]

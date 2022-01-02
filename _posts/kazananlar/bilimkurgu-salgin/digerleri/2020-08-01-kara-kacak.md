@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: resultPost
 title: "Kara Kaçak | Bilimkurgu Öykü Yarışması Seçkisi"
 description: "Salgın konulu Bilimkurgu Öykü yarışmamızın ilk 10 öyküsünden biri Gizem Çetin'in Kara Kaçak öyküsü"
 tags: [edebiyat yarışmaları, kazanan, bilimkurgu salgın]
