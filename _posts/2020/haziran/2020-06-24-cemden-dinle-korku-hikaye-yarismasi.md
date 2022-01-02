@@ -13,7 +13,7 @@ permalink: "cemden-dinle-korku-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/haziran/cemden-dinle-korku-hikaye-yarismasi.jpg"
 ---
 
-Türkiye'nin en çok içerik çeşidi sunan korku kanalı [Cem'den Dinle](https://www.youtube.com/channel/UCybvJFDFRnWv5yUq3CRoBwA?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"} olarak yine heyecan dolu bir etkinlikle karşınızdayım. Bir hikaye kanalı olarak uzun zamandır kafamda olan ödüllü hikaye yarışması projesini hayata geçiriyorum. Sizler de bu yarışmaya katılıp ödülleri kazanmak istiyorsanız lütfen aşağıdaki açıklamalara göz atın. Haydi kaleminize kuvvet. Şimdiden başarılar ve bol şanslar :)  
+Türkiye'nin en çok içerik çeşidi sunan korku kanalı Cem'den Dinle olarak yine heyecan dolu bir etkinlikle karşınızdayım. Bir hikaye kanalı olarak uzun zamandır kafamda olan ödüllü hikaye yarışması projesini hayata geçiriyorum. Sizler de bu yarışmaya katılıp ödülleri kazanmak istiyorsanız lütfen aşağıdaki açıklamalara göz atın. Haydi kaleminize kuvvet. Şimdiden başarılar ve bol şanslar :)  
 
 ## Korku Hikaye Yarışması 
 

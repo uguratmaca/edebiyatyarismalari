@@ -11,7 +11,7 @@ comTopic: "Sağlıklı Yaşam"
 requirements: "Yarışmaya 31 Aralık 2020 tarihi esas alınarak 20 yaşından büyük olanlar (31.12.2000 tarihi ve bu tarihten önce doğanlar) katılamazlar"
 permalink: "ufka-yolculuk-kitap-okuma-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/ocak/ufka-yolculuk-kitap-okuma-yarismasi.jpg"
-excerpt: 9. Ufka Yolculuk “Sağlıklı Yaşam” konulu yarışması ile “Bir ülke halkının sağlığı, bir devletin dayandığı bütün mutluluk ve gücün temelidir” sözünde de vurgulandığı gibi; bugün ve yarın için sağlıklı, güçlü nesillerin yetişmesinde pay sahibi olmayı ve çocuklarımızda doğru kaynaktan doğru bilgilerle farkındalık oluşturmayı amaçlamaktadır."
+excerpt: "9. Ufka Yolculuk “Sağlıklı Yaşam” konulu yarışması ile “Bir ülke halkının sağlığı, bir devletin dayandığı bütün mutluluk ve gücün temelidir” sözünde de vurgulandığı gibi; bugün ve yarın için sağlıklı, güçlü nesillerin yetişmesinde pay sahibi olmayı ve çocuklarımızda doğru kaynaktan doğru bilgilerle farkındalık oluşturmayı amaçlamaktadır."
 ---
 
 ## Ufka Yolculuk Kitap Okuma Yarışması
