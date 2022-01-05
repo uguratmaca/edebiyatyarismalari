@@ -10,10 +10,10 @@ dateHuman: "30 Nisan 2022"
 comTopic: "Türk Dünyası Kültür Başkenti"
 attendance: "Posta"
 organizer: "Türk Ocakları Derneği Bursa Şubesi"
-requirements: "Tüm lise öğrenceleri katılabilir"
+requirements: "Tüm lise öğrencileri katılabilir"
 permalink: "turk-ocaklari-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/ocak/bursa-turk-ocaklari-makale-yarismasi.jpg"
-excerpt: "Türk Ocakları Derneği Bursa Şubesi 2021-2022 Eğitim – Öğretim yılı faaliyetleri kapsamında tüm özel ve resmi lise öğrencilerine yönelik bir makale yarışması düzenlemiştir."
+excerpt: "Türk Ocakları Derneği Bursa Şubesi 2021-2022 Eğitim – Öğretim yılı faaliyetleri kapsamında tüm özel ve resmi lise öğrencilerine yönelik bir <strong>makale yarışması</strong> düzenlemiştir."
 ---
 
 ## Türk Ocakları Makale Yarışması
