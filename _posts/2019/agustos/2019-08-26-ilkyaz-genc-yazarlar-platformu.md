@@ -3,6 +3,7 @@ layout: post
 title: "İlkyaz Genç Yazarlar Platformu"
 description: "kısa öykü yarışması 2019, şiir yarışması 2019, para ödüllü yarışmalar 2019, kısa hikaye yarışması"
 category: articles
+lastDate: 1569790800
 tags: [genç, hikaye yarışması, şiir yarışması]
 comments: true
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ilkyaz-kisa-oyku-siir-yarismasi.jpg?alt=media&token=e4011f30-24ca-45a5-aa8f-1ce69f1fc5fe"
