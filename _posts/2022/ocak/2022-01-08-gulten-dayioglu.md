@@ -3,7 +3,7 @@ layout: post
 title: "2022 İlk Gençlik Roman Ödülü"
 description: "Gülten Dayıoğlu Çocuk ve Gençlik Edebiyat Vakfı 2022 yılı ödülü İlk Gençlik Roman dalında verilecektir."
 category: articles
-tags: [aralık 2022, roman yarışması, gülten dayıoğlu, genel]
+tags: [aralık 2022, roman yarışması, gülten dayıoğlu, genel, kitap yarışması]
 comments: true
 lastDate: 1672441200
 dateHuman: "31 Aralık 2022"
