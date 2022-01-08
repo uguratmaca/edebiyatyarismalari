@@ -16,7 +16,7 @@ image: "https://edebiyatyarismalari.com/images/2020/mayis/anne-siirleri-siir-yar
 
 Herkese Merhaba,
 
-Edebiyatyarismalari olarak her ay yeni bir yarışma düzenleme serüvenine başlıyoruz. İlk yarışmamız bir **şiir yarışması**. Mayıs ayında olduğumuz için konusunu **anne şiirleri** olarak kısıtladık.
+Edebiyatyarismalari olarak her ay yeni bir yarışma düzenleme serüvenine başlıyoruz. İlk yarışmamız bir **anneler günü şiir yarışması**. Mayıs ayında olduğumuz için konusunu **anne şiirleri** olarak kısıtladık.
 
 ## Anne Şiirleri Şiir Yarışması Şartları
 - Yarışmaya 18 yaşını doldurmuş herkes katılabilir.
