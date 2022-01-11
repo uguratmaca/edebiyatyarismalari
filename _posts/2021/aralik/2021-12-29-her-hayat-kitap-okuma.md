@@ -3,7 +3,7 @@ layout: post
 title: "6. Her Kitap Yeni Bir Hayat Kitap Okuma Yarışması"
 description: "ÖNDER İmam Hatipliler Derneği olarak gelenekselleştirdiğimiz HER KİTAP YENİ BİR HAYAT kitap okuma yarışmamızın 6.sını gerçekleştiriyoruz."
 category: articles
-tags: [şubat 2022, deneme yarışması, lise, istanbul]
+tags: [şubat 2022, kitap okuma yarışması, lise, istanbul]
 comments: true
 lastDate: 1645311600
 dateHuman: "20 Şubat 2022"
