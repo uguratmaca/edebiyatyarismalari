@@ -1,6 +1,6 @@
 ---
 layout: category
-headline: "Kitap Okuma Yarışmaları"
+headline: "Kitap Okuma Yarışması, Kitap Okuma Yarışmaları"
 subline: "Bu sayfada <strong>kitap okuma yarışması</strong> kayıtlarını görüntüleyebilirsiniz. Genellikle öğrenciler için düzenlenen bu <strong>yarışmalar</strong>, umarız ki edebiyat dünyamız için yararlı olacaktır. Unutmayın okumak güzeldir."
 title: "Kitap Okuma Yarışması, Kitap Okuma Yarışmaları 2022"
 key: "kitap okuma yarışması"

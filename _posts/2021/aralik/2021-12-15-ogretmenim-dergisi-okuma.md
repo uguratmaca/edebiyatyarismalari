@@ -12,10 +12,10 @@ attendance: "Okul Müdürlükleri"
 requirements: "Beşiktaş İlçesinde yer alan Tüm resmi ve özel İlkokul ve Ortaokul öğrencileri"
 permalink: "ogretmenim-dergisi-kitap-okuma-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/ogretmenim-dergisi-kitap-okuma-yarismasi.JPG"
-excerpt: "Öğretmenim Dergisi Okuyorum, Öğreniyorum, Gelişiyorum konulu Kitap Okuma Yarışması düzenliyor."
+excerpt: "Öğretmenim Dergisi Okuyorum, Öğreniyorum, Gelişiyorum konulu <strong>Kitap Okuma Yarışması</strong> düzenliyor."
 ---
 
-## Konya Okuyor: Kitap Okuma Yarışması
+## Öğretmenim Dergisi Kitap Okuma Yarışması
 Öğretmenim Dergisi Okuyorum, Öğreniyorum, Gelişiyorum konulu **Kitap Okuma Yarışması** düzenliyor.  
 
 1. Yarışmaya katılmak isteyen öğrencilerimiz okullarına katılmak istediklerini en geç  25/03/2022 tarihine kadar beyan edecekler.
@@ -24,4 +24,3 @@ excerpt: "Öğretmenim Dergisi Okuyorum, Öğreniyorum, Gelişiyorum konulu Kita
 ÖNEMLİ: Öğrencilerimiz sınava yarışmaya kaydolurken belirledikleri kullanıcı adı ve şifreleri ile giriş yapacaklardır.
 4. Öğrencilerimiz kendi belirledikleri kullanıcı adı ve şifrelerini kimseyle paylaşmamalı ve unutmamalıdırlar.(Kolay bir kullanıcı adı ve şifre belirlemeleri tavsiye edilir ve şifre muhakkak bir kenara not alınmalıdır)
 5. Yarışmalarda sorulacak soruların kitapları https://www.ogretmenimdergisi.com/kitap-satin-al/ bağlantı adresinden veya https://www.genclerdevar.com/ veya kitapçılardan elde edebilirler.
-
