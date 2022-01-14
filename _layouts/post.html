@@ -11,7 +11,7 @@ layout: default
   {% assign nowDateInt = nowunix | plus: 0 %}
 
   <section class="row align-items-center">
-    <section class="col justify-content-center">
+    <section class="col-md-6 col-12 justify-content-center">
       {% if page.dateHuman %}
       <p>🗓️ Yarışmanın son başvuru tarihi: <b>{{page.dateHuman}}</b></p>
       {% endif %}
@@ -40,7 +40,7 @@ layout: default
       {% endif %}
       {% endif %}
     </section>
-    <section class="col">
+    <section class="col-md-6 col-12">
       {% if page.image %}
       <img src="{{page.image}}" alt="{{page.title}}" loading="lazy" />
       {% endif %}
@@ -102,6 +102,11 @@ layout: default
           "addressLocality": "Turkey",
           "addressRegion": "TR"
         }
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "{{page.organizer}}",
+        "url": "https://edebiyatyarismalari.com/"
       }
     }
 </script>
