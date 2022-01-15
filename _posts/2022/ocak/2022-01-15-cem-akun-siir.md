@@ -11,7 +11,7 @@ comTopic: "Serbest"
 attendance: "Posta, Kargo, Elden"
 organizer: "Eskişehir Sanat Derneği"
 requirements: "Eskişehir il sınırları içerisindeki tüm öğretmenler katılabilir"
-permalink: "eskisehir-ogretmenler-oyku-yarismasi"
+permalink: "eskisehir-ogretmenler-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/ocak/ogretmenler-siir-oyku-yarismasi.jpg"
 excerpt: "Eskişehir Sanat Derneği, edebiyatımıza yeni Şairler ve Şiirlerler kazandırmayı hedefleyerek <strong>Öğretmenler arasında Şiir Yarışması</strong> düzenlemiştir."
 ---
