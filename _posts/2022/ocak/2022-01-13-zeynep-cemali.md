@@ -3,7 +3,7 @@ layout: post
 title: "Zeynep Cemali Öykü Yarışması"
 description: "Günışığı Kitaplığı 2022 Zeynep Cemali Öykü Yarışması'nı duyurdu."
 category: articles
-tags: [mayıs 2022, genel, hikaye yarışması, ortaokul]
+tags: [mayıs 2022, hikaye yarışması, ortaokul]
 comments: true
 lastDate: 1653256800
 dateHuman: "23 Mayıs 2022"
