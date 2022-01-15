@@ -102,12 +102,15 @@ layout: default
           "addressLocality": "Turkey",
           "addressRegion": "TR"
         }
-      },
+      }
+      {% if page.organizer %}
+      ,
       "organizer": {
         "@type": "Organization",
         "name": "{{page.organizer}}",
         "url": "https://edebiyatyarismalari.com/"
       }
+      {% endif %}
     }
 </script>
 </article>
