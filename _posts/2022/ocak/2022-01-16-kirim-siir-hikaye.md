@@ -16,7 +16,7 @@ image: "https://edebiyatyarismalari.com/images/2022/ocak/kirim-ana-dil-gunu-siir
 excerpt: "Kırım Ailesi Kültür Merkezi <strong>Dil Halkının Gönlüdür konulu Şiir ve Hikaye yarışması</strong> düzenliyor."
 ---
 
-## 2022 Kemal Özer Şiir Ödülü
+## Kırım Tatar Türkleri Şiir ve Hikaye Yarışması
 Kırım Ailesi Kültür Merkezi, 21 Şubat Dünya Ana Dil Günü çerçevesinde bir çocuk yarışması başlattığını duyurdu. Dil Halkının Gönlüdür isimli yarışmaya işgal altındaki Kırım’da, Ukrayna’nın ana kısmında ve dünyanın her bir yerinde yaşayan çocuklar katılabilecek. Yarışmaya katılmak isteyen çocuklardan ana dil konulu bir hikaye veya şiir yazılması isteniliyor.  
 
 - Eser Kırım Tatar dilinde yazılmalı
