@@ -3,11 +3,12 @@ layout: post
 title: "20. İTK Ulusal Resim Yarışması"
 description: "İzmir Özel Türk Koleji 20. İTK Ulusal Resim Yarışması düzenliyor."
 category: articles
-tags: [nisan 2022, genel, ortaokul, lise, resim yarışması]
+tags: [nisan 2022, ortaokul, lise, resim yarışması]
 comments: true
 lastDate: 1650578400
 dateHuman: "22 Nisan 2022"
 comTopic: "Serbest"
+hidden: true
 attendance: "Posta, Kargo"
 organizer: "İzmir Özel Türk Koleji"
 requirements: "Resmi ve özel olmak üzere ortaokul, lise ve dengi okullarda öğrenim gören bütün öğrenciler katılabilecektir."
