@@ -9,7 +9,7 @@ lastDate: 1656626400
 dateHuman: "1 Temmuz 2022"
 comTopic: "Serbest"
 attendance: "E-Posta"
-organizer: ""Simit Çay Kültür, Edebiyat, Teknoloji"
+organizer: "Simit Çay Kültür, Edebiyat, Teknoloji"
 requirements: "İsteyen herkes katılabilir"
 permalink: "8-simit-cay-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/ocak/simit-cay-siir-yarismasi.jpg"
