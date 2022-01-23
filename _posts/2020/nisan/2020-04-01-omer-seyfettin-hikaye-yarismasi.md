@@ -12,9 +12,9 @@ requirements: "Yarışmaya Millî Eğitim Bakanlığına bağlı resmî kurumlar
 permalink: "ogretmenler-arasi-omer-seyfettin-hikaye-yarismasi-2020"
 ---
 
+## Ömer Seyfettin Hikaye Yarışması
 İstanbul'u Okuyorum Projesi kapsamında Ömer Seyfettin'in vefatının 100. yılı münasebetiyle Ömer Seyfettin anısına **Öğretmenler Arası Kısa Öykü Yarışması** düzenlenecektir.  
 
-## Hikaye Yarışması Katılım Şartları
 - Yarışmaya Millî Eğitim Bakanlığına bağlı resmî kurumlarda, eğitim öğretim hizmetleri sınıfında fiilen görev yapmakta olan öğretmen ve yöneticiler katılabileceklerdir.
 - Başvuru yapılan eserin, Türkiye Cumhuriyeti Anayasası, Millî Eğitim Temel Kanunu ile Türk Millî Eğitiminin genel amaçlarına uygun olarak, ilgili yasal düzenlemelerde belirtilen ilke, esas ve amaçlara aykırılık teşkil etmeyecek şekilde hazırlanması gerekmektedir. Bu şekilde hazırlanmayan eserler değerlendirilmeye alınmayacaktır.
 - Başvuru sahipleri en fazla bir eser ile yarışmaya katılacaklardır.

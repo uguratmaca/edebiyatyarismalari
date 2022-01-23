@@ -14,7 +14,7 @@ requirements: "Tüm lise öğrencileri ve yetişkinler katılabilir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/31-omer-seyfettin-hikaye-yarismasi-2020.jpg?alt=media&token=cfb6662d-3fad-4d2f-92ca-a257f0d74603"
 ---
 
-31'incisi Düzenlenen Gönen Belediye Belediyesi Ömer Seyfettin Hikaye Yarışması Lise Ve Yetişkinler Bölümü Olarak Yapılacak. Yarışmaya Tüm Resmi Ve Özel Lise Öğrencileri Ve Yetişkinler Katılabilir.
+31'incisi Düzenlenen Gönen Belediye Belediyesi **Ömer Seyfettin Hikaye Yarışması** Lise Ve Yetişkinler Bölümü Olarak Yapılacak. Yarışmaya Tüm Resmi Ve Özel Lise Öğrencileri Ve Yetişkinler Katılabilir.
 
 Yarışma Kuralları:
 1- Hikaye Dalında Yarışmaya Resmi/Özel Tüm Lise Kurumlarındaki Öğrenciler Ve Yetişkinler Katılabilecektir.
