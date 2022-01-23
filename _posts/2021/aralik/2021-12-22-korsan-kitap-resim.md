@@ -13,7 +13,7 @@ attendance: "Okul Müdürlükleri"
 requirements: "İstanbul 5, 6, 7, 8. sınıfları katılabilir"
 permalink: "korsan-kitaba-hayir-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/korsan-kitap-resim-yarismasi.jpg"
-excerpt: "Türkiye Basım Yayın Meslek Birliği Korsan Kitaba Hayır Resim Yarışması düzenliyor."
+excerpt: "Türkiye Basım Yayın Meslek Birliği <strong>Korsan Kitaba Hayır Resim Yarışması</strong> düzenliyor."
 ---
 
 ## Korsan Kitaba Hayır Resim Yarışması
