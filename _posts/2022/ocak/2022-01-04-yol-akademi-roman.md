@@ -3,7 +3,7 @@ layout: post
 title: "Yol Akademi Roman, Öykü, Şiir Yarışmaları"
 description: "Yol Akademi olarak yayıncılıktan kazandığımızın bir kısmını, yeni yazarları okuyucuları buluşturmak için kullanacağız. Bu kapsamda Roman, Öykü ve Şiir yarışmamızı duyuruyoruz. "
 category: articles
-tags: [kasım 2022, roman yarışması, genel, hikaye yarışması, şiir yarışması, kitap yarışması]
+tags: [kasım 2022, roman yarışması, genel, hikaye yarışması, şiir yarışması, kitap dosyası]
 comments: true
 lastDate: 1669762800
 dateHuman: "30 Kasım 2022"

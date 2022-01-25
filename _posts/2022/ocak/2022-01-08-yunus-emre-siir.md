@@ -3,7 +3,7 @@ layout: post
 title: "1. Uluslarası Yunus Emre Şiir Ödülü"
 description: "Alevi Vakıfları Federasyonu 1. Uluslarası Yunus Emre Şiir Ödülü düzenliyor."
 category: articles
-tags: [mayıs 2022, şiir yarışması, yunus emre, genel, kitap yarışması]
+tags: [mayıs 2022, şiir yarışması, yunus emre, genel, kitap dosyası]
 comments: true
 lastDate: 1653861600
 dateHuman: "30 Mayıs 2022"

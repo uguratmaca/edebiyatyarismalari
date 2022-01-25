@@ -3,7 +3,7 @@ layout: post
 title: "17. Tudem Edebiyat Ödülleri"
 description: "17. Tudem edebiyat ödülleri yarışması, para ödüllü yarışmalar, resimli kitap yarışması"
 category: articles
-tags: [kasım 2019, genel, roman yarışması, kitap yarışması]
+tags: [kasım 2019, genel, roman yarışması, kitap dosyası]
 comments: true
 lastDate: 1572555600
 dateHuman: "1 Kasım 2019"

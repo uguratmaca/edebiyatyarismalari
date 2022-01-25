@@ -3,7 +3,7 @@ layout: post
 title: "2022 Kemal Özer Şiir Ödülü"
 description: "Şair Kemal Özer’e ve şiirine saygı adına Klaros Yayınları tarafından düzenlenen 2022 Kemal Özer Şiir Ödülü için başvurular başladı."
 category: articles
-tags: [haziran 2022, genel, şiir yarışması, kitap yarışması]
+tags: [haziran 2022, genel, şiir yarışması, kitap dosyası]
 comments: true
 lastDate: 1656540000
 dateHuman: "30 Haziran 2022"

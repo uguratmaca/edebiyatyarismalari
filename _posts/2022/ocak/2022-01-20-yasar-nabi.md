@@ -3,7 +3,7 @@ layout: post
 title: "2022 Yaşar Nabi Nayır Gençlik Ödülleri"
 description: "Varlık Yayınları Şiir ve Öykü dallarında 2022 Yaşar Nabi Nayır Gençlik Ödülleri düzenliyor."
 category: articles
-tags: [nisan 2022, genel, hikaye yarışması, şiir yarışması, kitap yarışması]
+tags: [nisan 2022, genel, hikaye yarışması, şiir yarışması, kitap dosyası]
 comments: true
 lastDate: 1648764000
 dateHuman: "1 Nisan 2022"

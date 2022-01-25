@@ -3,7 +3,7 @@ layout: post
 title: "YTB Türkçe Ödülleri"
 description: "ytb türkçe ödülleri, hikaye yazma, para ödüllü yarışmalar 2020"
 category: articles
-tags: [mayıs 2020, genel, hikaye yarışması, şiir yarışması, deneme yarışması, kitap yarışması]
+tags: [mayıs 2020, genel, hikaye yarışması, şiir yarışması, deneme yarışması, kitap dosyası]
 comments: true
 lastDate: 1589662800    
 dateHuman: "17 Mayıs 2020"

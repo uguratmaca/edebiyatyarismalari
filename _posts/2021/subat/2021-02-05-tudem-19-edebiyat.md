@@ -2,7 +2,7 @@
 layout: post
 title: "19. Tudem Edebiyat Ödülleri 2021"
 description: "2003 yılından bu yana çocuk ve gençlik edebiyatımıza çağdaş ve özgün eserler kazandırmak amacıyla gerçekleştirilen Tudem Edebiyat Ödülleri, 19. yılında çocuk edebiyatı alanında resimli kitap dalında verilecek."
-tags: [kasım 2021, genel, roman yarışması]
+tags: [kasım 2021, genel, roman yarışması, kitap dosyası]
 comments: true
 lastDate: 1635714000 
 dateHuman: "1 Kasım 2021"
