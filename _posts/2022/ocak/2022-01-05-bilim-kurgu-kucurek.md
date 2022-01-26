@@ -3,7 +3,7 @@ layout: post
 title: "Bilim Kurgu Küçürek Öykü Yarışması"
 description: "Yalova Atatürk BİLSEM Bilim Kurgu Küçürek Öykü Yarışması düzenliyor."
 category: articles
-tags: [şubat 2022, hikaye yarışması, bilim kurgu, küçürek, ortaokul, lise]
+tags: [şubat 2022, hikaye yarışması, bilim kurgu, minimal öykü yarışması, ortaokul, lise]
 comments: true
 lastDate: 1644793200
 dateHuman: "14 Şubat 2022"

@@ -2,7 +2,7 @@
 layout: post
 title: "Bir Cümle Bırak"
 description: "Edebiyatseverleri yazmaya, düşünmeye, manevi değerlere ve güncel olaylara ilgisini arttırmak. Bu doğrultuda yazma yolunda ilk adımı atmaya yardımcı olmak. Her ay yapacağımız bu yarışmanın ilkine konusu, manevi bir olgu olan Hoşgörü ile başlıyoruz"
-tags: [ocak 2021, genel, mikro hikaye yarışması]
+tags: [ocak 2021, genel, minimal öykü yarışması]
 comments: true
 lastDate: 1611522000 
 dateHuman: "25 Ocak 2021"

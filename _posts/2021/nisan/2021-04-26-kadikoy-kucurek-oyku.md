@@ -3,7 +3,7 @@ layout: post
 title: "Kadıköy Anadolu Lisesi Küçürek Öykü Yarışması 2021"
 description: "Kadıköy Anadolu Lisesi Müdürlüğü Umut konulu Küçürek Öykü Yarışması düzenliyor"
 category: articles
-tags: [ağustos 2021, lise, istanbul, hikaye yarışması]
+tags: [ağustos 2021, lise, istanbul, hikaye yarışması, minimal öykü yarışması]
 comments: true
 lastDate: 1629406800    
 dateHuman: "20 Ağustos 2021"

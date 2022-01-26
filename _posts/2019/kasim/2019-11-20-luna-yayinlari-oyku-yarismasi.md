@@ -3,7 +3,7 @@ layout: post
 title: "Luna Yayınları Öykü ve Küçürek Öykü Yarışması"
 description: "luna yayınları öykü yarışması, güncel hikaye yarışması 2020, ödüllü yarışmalar 2020"
 category: articles
-tags: [ocak 2020, genel, hikaye yarışması]
+tags: [ocak 2020, genel, hikaye yarışması, minimal öykü yarışması]
 comments: true
 lastDate: 1578603600
 dateHuman: "10 Ocak 2020"

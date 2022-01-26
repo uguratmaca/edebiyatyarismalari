@@ -2,7 +2,7 @@
 layout: post
 title: "Luna Yayınları 2. Öykü ve Küçürek Öykü Yarışması"
 description: "Luna Yayınları 4. yılını öykü ve küçürek öykü yarışması ile kutluyor."
-tags: [ocak 2021, genel, hikaye yarışması]
+tags: [ocak 2021, genel, hikaye yarışması, minimal öykü yarışması]
 comments: true
 lastDate: 1611090000  
 dateHuman: "20 Ocak 2021"

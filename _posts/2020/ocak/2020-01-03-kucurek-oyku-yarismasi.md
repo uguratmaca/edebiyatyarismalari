@@ -3,7 +3,7 @@ layout: post
 title: "Kadıköy Anadolu Lisesi Küçürek Öykü Yarışması"
 description: "kadıköy anadolu lisesi öykü yarışması 2020, hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları"
 category: articles
-tags: [nisan 2020, istanbul, lise, hikaye yarışması]
+tags: [nisan 2020, istanbul, lise, hikaye yarışması, minimal öykü yarışması]
 comments: true
 lastDate: 1587330000
 dateHuman: "20 Nisan 2020"

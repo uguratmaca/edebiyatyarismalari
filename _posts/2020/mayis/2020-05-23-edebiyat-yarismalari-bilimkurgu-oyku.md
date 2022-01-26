@@ -7,7 +7,6 @@ comments: true
 lastDate: 1593464400    
 dateHuman: "30 Haziran 2020"
 attendance: "Websitesi"
-hidden: true
 comTopic: "Salgın"
 requirements: "Yarışmaya 18 yaşını doldurmuş herkes katılabilir."
 permalink: "salgin-bilim-kurgu-oyku-yarismasi"
