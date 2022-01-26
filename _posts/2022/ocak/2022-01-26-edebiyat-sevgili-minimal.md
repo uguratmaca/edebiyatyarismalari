@@ -12,14 +12,14 @@ attendance: "Websitesi"
 organizer: "edebiyatyarismalari.com"
 requirements: "Yarışmaya 18 yaşını doldurmuş herkes katılabilir."
 permalink: "sevgili-minimal-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/ocak/dogus-odullu-makale-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/ocak/sevgili-minimal-oyku-yarismasi.jpg"
 excerpt: "edebiyatyarismalari.com olarak <strong>14 Şubat Dünya Öykü Günü</strong> ve <strong>Sevgililer Günü</strong> kapsamında <strong>Sevgili Konulu Minimal Öykü Yarışması</strong> düzenliyoruz."
 ---
 
 ## Sevgili Konulu Minimal Öykü Yarışması
 Edebiyatyarismalari.com olarak **14 Şubat Dünya Öykü Günü** ve **Sevgililer Günü** kapsamında **Sevgili Konulu Minimal Öykü Yarışması** düzenliyoruz.  
 
-Sevgili konusunu farklı biçimlerde ele almak yazarların takdirine bırakılmıştır. Sevgili kelimesine bağlı kaldığınız sürece aşktan uzak bir hikaye de yazabilirsiniz.  
+Sevgili konusunu farklı biçimlerde ele almak yazarların takdirine bırakılmıştır. Sevgili kelimesine bağlı kaldığınız sürece, aşktan uzak bir hikaye de yazabilirsiniz.  
 
 - Yarışmaya 18 yaşını doldurmuş herkes katılabilir.
 - **Minimal öyküler en fazla 250** kelimeden oluşmalıdır.
