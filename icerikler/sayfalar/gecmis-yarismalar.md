@@ -4,7 +4,6 @@ headline: "Geçmiş Edebiyat Yarışmaları"
 title: Geçmiş Edebiyat Yarışmaları
 permalink: "gecmis-edebiyat-yarismalari/"
 description: "Eski aylarda ve yıllarda düzenlenen tüm edebiyat yarışmalarının ve diğer yarışmaların listesine ilgili aya tıklayarak erişebilirsiniz."
-showEmpty: false
 ---
 
 <ul class='nav flex-column'>

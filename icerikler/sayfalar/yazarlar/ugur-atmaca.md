@@ -1,13 +1,15 @@
 ---
-layout: category
+layout: simpleWithImage
 headline: "Uğur Atmaca | Yazar"
 title: "Uğur Atmaca | Yazar"
-subline: "<div class='row'><div class='col-4'><img src='https://edebiyatyarismalari.com/images/yazarlar/ugur-atmaca.jpg' alt='uğur atmaca' /></div><div class='col-8'><p>Çocukluktan beri kısa öyküler yazıyordum. Bazı öykü yarışmalarına katıldım ama bir başarı elde edemedim. </p> <p>Genellikle öyküler yazıyorum. Öykülerin yanında şiir, kitap, deneme ve şarkı sözleri de yazdım. Fırsat buldukça hepsini siteye eklemeye devam edeceğim.  </p> <p>
-Benim gibi yazmayı sevenleri motive etmesi için edebiyatyarismalari.com'u kurdum. Umarım birileri için faydalı olmuşumdur.
-</p><br> <a href='https://twitter.com/uguratm' target='_blank' class='gtag'>Uğur Atmaca | Twitter</a></div></div>"
 permalink: "ugur-atmaca/"
-showEmpty: false
 description: "Uğur Atmaca | edebiyatyarismalari.com Yazarı"
+image: "https://edebiyatyarismalari.com/images/yazarlar/ugur-atmaca.jpg"
 ---
 
+Çocukluktan beri kısa öyküler yazıyordum. Öykülerin yanında şiir, kitap, deneme ve şarkı sözleri de yazdım. Fırsat buldukça hepsini siteye eklemeye devam edeceğim.  
 
+Benim gibi yazmayı sevenleri motive etmesi için edebiyatyarismalari.com'u kurdum. Umarım birileri için faydalı olmuşumdur.
+
+## [Uğur Atmaca | Twitter](https://twitter.com/uguratm){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+## [Uğur Atmaca | Linkedin](https://www.linkedin.com/in/atmacaugur/){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
