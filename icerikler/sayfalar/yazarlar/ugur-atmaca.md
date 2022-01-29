@@ -7,7 +7,7 @@ description: "Uğur Atmaca | edebiyatyarismalari.com Yazarı"
 image: "https://edebiyatyarismalari.com/images/yazarlar/ugur-atmaca.jpg"
 ---
 
-Çocukluktan beri kısa öyküler yazıyordum. Öykülerin yanında şiir, kitap, deneme ve şarkı sözleri de yazdım. Fırsat buldukça hepsini siteye eklemeye devam edeceğim.  
+Çocukluktan beri kısa [öyküler](https://edebiyatyarismalari.com/hikayeler/) yazıyordum. Öykülerin yanında şiir, kitap, deneme ve şarkı sözleri de yazdım. Fırsat buldukça hepsini siteye eklemeye devam edeceğim.  
 
 Benim gibi yazmayı sevenleri motive etmesi için edebiyatyarismalari.com'u kurdum. Umarım birileri için faydalı olmuşumdur.
 

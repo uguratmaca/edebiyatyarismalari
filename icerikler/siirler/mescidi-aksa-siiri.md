@@ -1,11 +1,39 @@
 ---
-layout: category
+layout: simple
 headline: "Mescid-i Aksa Şiiri"
 description: "Mehmet Akif İnan'ın Mescid-i Aksa şiirini buradan okuyabilirsiniz."
 title: Mescid-i Aksa Şiiri
-subline: Mescid-i Aksa’yı gördüm düşümde<br>Bir çocuk gibiydi ve ağlıyordu<br>Varıp eşiğine alnımı koydum<br>Sanki bir yer altı nehr çağlıyordu<br><br>Gözlerim yollarda bekler dururum<br>Nerde kardeşlerim diyordu bir ses<br>İlk Kıblesi benim ulu Nebi’nin<br>Unuttu mu bunu acaba herkes<br><br>Burak dolanırdı yörelerimde<br>Mi’raca yol veren hız üssü idim<br>Bellidir kutsallığım şehir ismimden<br>Her yana nur saçan bir kürsü idim<br><br>Hani o günler ki binlerce mü’min<br>Tek yürek halinde bana koşardı<br>Hemşehrim nebi’ler yüzü hürmetine<br>Cevaba erişen dualar vardı<br><br>Şimdi kimsecikler varmaz yanıma<br>Mü’minde yoksunum tek ve tenhayım<br>Rüzgarlar silemez gözyaşlarımı<br>Çöllerde kayıp bir yetim vâhayım<br><br>Mescid-i Aksa’yı gördüm düşümde<br>Götür müslümana selam diyordu<br>Dayanamıyorum bu ayrılığa<br>Kucaklasın beni İslâm diyordu<br><br>Mehmet Akif İnan
 permalink: "mescidi-aksa-siiri/"
-showEmpty: false
 ---
 
+Mescid-i Aksa’yı gördüm düşümde  
+Bir çocuk gibiydi ve ağlıyordu  
+Varıp eşiğine alnımı koydum  
+Sanki bir yer altı nehr çağlıyordu  
   
+Gözlerim yollarda bekler dururum  
+Nerde kardeşlerim diyordu bir ses  
+İlk Kıblesi benim ulu Nebi’nin  
+Unuttu mu bunu acaba herkes  
+  
+Burak dolanırdı yörelerimde  
+Mi’raca yol veren hız üssü idim  
+Bellidir kutsallığım şehir ismimden  
+Her yana nur saçan bir kürsü idim  
+  
+Hani o günler ki binlerce mü’min  
+Tek yürek halinde bana koşardı  
+Hemşehrim nebi’ler yüzü hürmetine  
+Cevaba erişen dualar vardı  
+  
+Şimdi kimsecikler varmaz yanıma  
+Mü’minde yoksunum tek ve tenhayım  
+Rüzgarlar silemez gözyaşlarımı  
+Çöllerde kayıp bir yetim vâhayım  
+  
+Mescid-i Aksa’yı gördüm düşümde  
+Götür müslümana selam diyordu  
+Dayanamıyorum bu ayrılığa  
+Kucaklasın beni İslâm diyordu  
+  
+Mehmet Akif İnan
