@@ -1,5 +1,5 @@
 ---
-layout: blogpost
+layout: result
 headline: "Hikayeler, Öyküler | Eserler"
 title: "Hikayeler, Öyküler | Edebiyat"
 key: "hikaye"

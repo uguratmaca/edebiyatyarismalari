@@ -1,5 +1,5 @@
 ---
-layout: simpleWithImage
+layout: simple
 headline: "Melek Kaya | Yazar"
 title: "Melek Kaya | Yazar"
 permalink: "melek-kaya/"

@@ -1,5 +1,5 @@
 ---
-layout: simpleWithImage
+layout: simple
 headline: "Rümeysa Ateş | Yazar"
 title: "Rümeysa Ateş | Yazar"
 permalink: "rumeysa-ates/"

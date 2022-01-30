@@ -2,13 +2,22 @@
 layout: default
 ---
 
-<section class="mt-5 mb-5">
+<section class="mt-2 mb-2">
     <h1>{{page.headline}}</h1>
 
     <section class="row align-items-center">
+        {% if page.image %}
+        <section class="col-md-6 col-sm-12 justify-content-center">
+            {{ content }}
+        </section>
+        <section class="col-md-6 col-sm-12">
+            <img src="{{page.image}}" alt="{{page.title}}" loading="lazy" />
+        </section>
+        {% else %}
         <section class="col justify-content-center">
             {{ content }}
         </section>
-    </section>   
+        {% endif %}
+    </section>
 
 </section>

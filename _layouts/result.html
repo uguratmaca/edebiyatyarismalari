@@ -2,21 +2,29 @@
 layout: default
 ---
 
-<section class="mt-5 mb-5">
-    <h1>{{page.headline}}</h1>
+<section class="mt-2 mb-2">
+
+    <h1>
+        {{page.headline}}
+    </h1>
+    
     {% if page.subline %}
-    <p>{{page.subline}}</p>
+        <p>{{page.subline}}</p>
     {% endif %}
 
     <hr>
 
     {% for post in site.posts %}
-    {% if post.tags contains page.key %}
-    <article>
-        <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
-        {{ post.excerpt }}
-    </article>
-    <hr>
-    {% endif %}
+        {% if post.tags contains page.key %}
+        <article>
+            <h2>
+                <a href="{{site.url}}{{post.url}}">{{ post.title }}</a>
+            </h2>
+            
+            {{ post.excerpt }}
+        </article>
+
+        <hr>
+        {% endif %}
     {% endfor %}
 </section>

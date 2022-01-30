@@ -1,5 +1,5 @@
 ---
-layout: simpleWithImage
+layout: simple
 headline: "Uğur Atmaca | Yazar"
 title: "Uğur Atmaca | Yazar"
 permalink: "ugur-atmaca/"

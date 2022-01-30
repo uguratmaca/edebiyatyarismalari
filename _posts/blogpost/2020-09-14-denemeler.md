@@ -1,5 +1,5 @@
 ---
-layout: blogpost
+layout: result
 headline: "Denemeler | Eserler"
 title: "Denemeler | Edebiyat"
 key: "deneme"

@@ -1,5 +1,5 @@
 ---
-layout: simpleWithImage
+layout: simple
 headline: "Aylin Güçlü | Yazar"
 title: "Aylin Güçlü | Yazar"
 permalink: "aylin-guclu/"

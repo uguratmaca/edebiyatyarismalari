@@ -1,5 +1,5 @@
 ---
-layout: blogpost
+layout: result
 headline: "İncelemeler | Eserler"
 title: "İncelemeler | Edebiyat"
 key: "inceleme"
