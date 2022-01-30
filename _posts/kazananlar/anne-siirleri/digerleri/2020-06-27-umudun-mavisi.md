@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "Umudun Mavisi | Anne Şiirleri Seçkisi"
 description: "Anne şiirleri şiir seçkisindeki ilk 10 şiirden Umudun Mavisi şiiri..."
 tags: [edebiyat yarışmaları, kazanan, anne şiirleri]

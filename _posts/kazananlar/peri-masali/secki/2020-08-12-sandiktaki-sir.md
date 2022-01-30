@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "Sandıktaki Sır | Peri Masalı Yarışması Seçkisi"
 description: "Peri Masalları Masal yarışmamızın ilk 12 masalından biri Çağlar Çetok'un kaleminden..."
 tags: [edebiyat yarışmaları, kazanan, peri masalı]

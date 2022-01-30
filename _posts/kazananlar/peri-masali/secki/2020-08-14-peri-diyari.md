@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "Peri Diyarı | Peri Masalı Yarışması Seçkisi"
 description: "Peri Masalları Masal yarışmamızın ilk 12 masalından biri Reyhan Metin'in kaleminden..."
 tags: [edebiyat yarışmaları, kazanan, peri masalı]

@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "Mutluluk ve Acı | Deneme"
 description: "Birçok şeyi arkamızda bırakıp gitmeliyiz belki de..."
 tags: [deneme, rümeysa ateş]

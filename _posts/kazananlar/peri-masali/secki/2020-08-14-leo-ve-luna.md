@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "Leo ve Luna | Peri Masalı Yarışması Seçkisi"
 description: "Peri Masalları Masal yarışmamızın ilk 12 masalından biri Melek Kaya'nın kaleminden..."
 tags: [edebiyat yarışmaları, kazanan, peri masalı]

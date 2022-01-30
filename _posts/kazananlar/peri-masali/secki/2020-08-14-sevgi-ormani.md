@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "Sevgi Ormanı | Peri Masalı Yarışması Seçkisi"
 description: "Peri Masalları Masal yarışmamızın ilk 12 masalından biri Nejmi Atila'nın kaleminden..."
 tags: [edebiyat yarışmaları, kazanan, peri masalı]

@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "17. Tudem Edebiyat Ödülleri Roman Yarışması Sonuçları"
 description: "17. Tudem Edebiyat Ödülleri Roman Yarışması Sonuçları"
 category: articles

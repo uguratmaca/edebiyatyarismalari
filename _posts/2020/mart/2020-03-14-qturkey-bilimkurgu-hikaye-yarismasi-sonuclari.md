@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "QTurkey Kuantum Hikaye Yarışması Sonuçları"
 description: "QTurkey Kuantum Hikaye Yarışması Sonuçları"
 category: articles

@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "Eski Bir Yalan | Öykü"
 description: "Odasındaki ultraviyole ışınları geçirmeyen pencereden meraklı gözlerle güneşi seyrediyordu."
 tags: [hikaye, uğur atmaca]

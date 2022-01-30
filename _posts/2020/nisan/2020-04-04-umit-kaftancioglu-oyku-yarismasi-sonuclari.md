@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "Ümit Kaftancıoğlu Öykü Yarışması Sonuçları 2020"
 description: "16. Ümit Kaftancıoğlu Öykü Yarışması 2020 sonuçları açıklanmıştır."
 category: articles

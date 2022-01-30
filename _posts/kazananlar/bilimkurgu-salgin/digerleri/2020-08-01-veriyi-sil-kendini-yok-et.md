@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "Veriyi Sil ve Kendini Yok Et | Bilimkurgu Öykü Yarışması Seçkisi"
 description: "Salgın konulu Bilimkurgu Öykü yarışmamızın ilk 10 öyküsünden biri Anıl Çetinel Örselli'nin Veriyi Sil ve Kendini Yok Et öyküsü"
 tags: [edebiyat yarışmaları, kazanan, bilimkurgu salgın]

@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "Luna Yayınları Öykü ve Küçürek Öykü Yarışması Sonuçları"
 description: "Luna Yayınları Öykü ve Küçürek Öykü Yarışması Sonuçları 2020"
 category: articles

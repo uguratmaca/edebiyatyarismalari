@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "Kartepe Perisi | Peri Masalı Yarışması Seçkisi"
 description: "Peri Masalları Masal yarışmamızın ilk 12 masalından biri Serpil Kaya'nın kaleminden..."
 tags: [edebiyat yarışmaları, kazanan, peri masalı]

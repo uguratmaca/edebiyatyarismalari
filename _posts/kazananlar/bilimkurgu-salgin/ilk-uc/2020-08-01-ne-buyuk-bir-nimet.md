@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "Ne Büyük Bir Nimet | Bilimkurgu Öykü Yarışması Kazananı"
 description: "Salgın konulu Bilimkurgu Öykü yarışmamızın 3 kazananından birisi Emre Eryılmaz'ın Ne Büyük Bir Nimet öyküsü"
 tags: [edebiyat yarışmaları, kazanan, bilimkurgu salgın]

@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "Üç Başlı Koca Kara Kaz ile Küçük Ömer | Peri Masalı Yarışması Seçkisi"
 description: "Peri Masalları Masal yarışmamızın ilk 12 masalından biri Korhan Doğan'ın kaleminden..."
 tags: [edebiyat yarışmaları, kazanan, peri masalı]

@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "Güç Veren Dost 'Bilgi' | Peri Masalı Yarışması Seçkisi"
 description: "Peri Masalları Masal yarışmamızın ilk 12 masalından biri Banu Doğan'ın kaleminden..."
 tags: [edebiyat yarışmaları, kazanan, peri masalı]

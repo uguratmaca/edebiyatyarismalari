@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "altKitap 2020 Öykü Ödülü Sonuçları"
 description: "Ücretsiz e-kitap yayınevi altKitap'ın 2020 öykü ödülü yarışması sonuçlanmıştır."
 category: articles

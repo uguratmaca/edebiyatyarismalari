@@ -1,5 +1,5 @@
 ---
-layout: resultPost
+layout: simple
 title: "4. Vedat Günyol Deneme Yarışması Sonuçları"
 description: "Kartal Belediyesinin düzenlediği 4. Vedat Günyol Deneme Yarışması sonuçları açıklanmıştır."
 category: articles
@@ -8,6 +8,8 @@ comments: true
 hidden: true
 image: "https://edebiyatyarismalari.com/images/2020/mart/4-vedat-gunyol-deneme-yarismasi-kazananlar.jpg"
 ---
+
+## 4. Vedat Günyol Deneme Yarışması Sonuçları
 
 Kartal Belediyesi’nin; çevirmen, eleştirmen, öğretmen, yayıncı ve yazar Vedat Günyol anısına; Türkiye Yazarlar Sendikası, Cumhuriyet Gazetesi, Kırmızı Kedi Yayınevi ve İstanbul Atatürk Lisesi Mezunları Vakfı ile birlikte bu yıl 4.sünü düzenlediği ‘Vedat Günyol Deneme Ödülü’nde dereceye giren eserler, Kartal Hasan Ali Yücel Kültür Merkezi’nde  düzenlenen basın toplantısıyla açıklandı. 60 yazarın eserinin değerlendirildiği yarışmada Hürriyet Yaşar; “Söz Yazıları” adlı kitabıyla birincilik ödülünü kazandı. “Yazarların Cumhurbaşkanı” Vedat Günyol anısına düzenlenen deneme yarışmasının sonucu Kartal Belediyesi Hasan Ali Yücel Kültür Merkezi’nde düzenlenen basın toplantısı ile açıklandı. Seçici Kurul, yaptığı değerlendirme ile birincilik ödülü dışında 2 Jüri Özel Ödülü de verdi. “İmgelem-İmge-İmgelem” adlı eseri ile Yaşar Özmen; Seçici Kurul Özel Ödülü’ne layık görülürken, “Sonra Hayat” adlı eseri ile Onur Çalı; Vedat Günyol Genç Deneme Yazarı ödülünü almaya hak kazandı.  
 
