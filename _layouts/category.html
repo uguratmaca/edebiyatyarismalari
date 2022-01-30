@@ -10,16 +10,20 @@ layout: default
     <h1>{{page.headline}}</h1>
 
     <section class="row align-items-center">
+        {% if page.image %}
         <section class="col-md-6 col-sm-12 justify-content-center">
-            {% if page.subline %}
             <span>{{page.subline}}</span>
-            {% endif %}
         </section>
         <section class="col-md-6 col-sm-12">
-            {% if page.image %}
             <img src="{{page.image}}" alt="{{page.title}}" loading="lazy" />
+        </section>
+        {% else %}
+        <section class="col justify-content-center">
+            {% if page.subline %}
+                <span>{{page.subline}}</span>
             {% endif %}
         </section>
+        {% endif %}
     </section>
     {% if page.key %}
     <hr>
