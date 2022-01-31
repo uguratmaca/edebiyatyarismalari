@@ -6,10 +6,10 @@ tags: [edebiyat yarışmaları, bilimkurgu salgın, kazanan]
 comments: true
 hidden: true
 permalink: "bilimkurgu-salgin/"
-excerpt: "Düzenlediğimi <strong>Salgın konulu bilimkurgu yarışması</strong>na katılan 77 öyküden ilk 9'a giren öyküyü buradan okuyabilirsiniz"
+excerpt: "Düzenlediğimiz <strong>Salgın konulu bilimkurgu yarışması</strong>na katılan 77 öyküden ilk 9'a giren öyküyü buradan okuyabilirsiniz"
 ---
 
-Düzenlediğimi **Salgın konulu bilimkurgu yarışması**na katılan 77 öyküden ilk 9'a giren öyküyü buradan okuyabilirsiniz.
+Düzenlediğimiz **Salgın konulu bilimkurgu yarışması**na katılan 77 öyküden ilk 9'a giren öyküyü buradan okuyabilirsiniz.
 
 ## Salgın Konulu Bilimkurgu Öykü Yarışması
 
