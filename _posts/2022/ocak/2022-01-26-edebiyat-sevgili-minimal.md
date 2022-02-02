@@ -17,7 +17,7 @@ excerpt: "edebiyatyarismalari.com olarak <strong>14 Şubat Dünya Öykü Günü<
 ---
 
 ## Sevgili Konulu Minimal Öykü Yarışması
-Edebiyatyarismalari.com olarak **14 Şubat Dünya Öykü Günü** ve **Sevgililer Günü** kapsamında **Sevgili Konulu Minimal Öykü Yarışması** düzenliyoruz.  
+Edebiyatyarismalari.com olarak **14 Şubat Dünya Öykü Günü** ve **14 Şubat Sevgililer Günü** kapsamında **Sevgili Konulu Minimal Öykü Yarışması** düzenliyoruz.  
 
 Sevgili konusunu farklı biçimlerde ele almak yazarların takdirine bırakılmıştır. Sevgili kelimesine bağlı kaldığınız sürece, aşktan uzak bir hikaye de yazabilirsiniz.  
 
@@ -30,6 +30,8 @@ Sevgili konusunu farklı biçimlerde ele almak yazarların takdirine bırakılm�
 - Öyküler A4 kâğıdının ön yüzüne, Times New Roman yazım karakteri ve 12 punto 1,5 satır aralığında yazılacaktır.
 - Dosya isimleri Öykü Adı - Yazar Adı olacak şekilde adlandırılmalıdır.
 - Yarışma ödülleri en yakın zamanda açıklanacaktır.
-- İlk ona giren öyküler websitemizde yayınlanacaktır.
+- İlk 10'a giren öyküler websitemizde yayınlanacaktır.
+- İlk 5'e giren öykü sahipleri için kidega.com hediye kitap çeki verilecektir.
+- Yarışma sonuçları 1 Mart 2022'de açıklanacaktır.
 
 ### [Başvuru Formu](https://forms.gle/LEntMuoWWSWpjugJ9){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
