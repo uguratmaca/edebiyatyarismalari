@@ -1,5 +1,5 @@
 ---
-layout: all
+layout: monthly
 headline: "Mehmet Akif Ersoy Yarışmaları"
 title: "Mehmet Akif Ersoy Yarışmaları"
 key: "mehmet akif ersoy"

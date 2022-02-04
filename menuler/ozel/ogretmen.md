@@ -1,5 +1,5 @@
 ---
-layout: all
+layout: monthly
 headline: "Öğretmen Yarışmaları"
 title: "Öğretmen Yarışmaları"
 key: "öğretmen"

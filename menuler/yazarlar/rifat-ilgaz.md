@@ -1,5 +1,5 @@
 ---
-layout: all
+layout: monthly
 headline: "Rıfat Ilgaz Yarışmaları"
 title: "Rıfat Ilgaz Yarışmaları"
 key: "rıfat ılgaz"

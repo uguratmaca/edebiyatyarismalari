@@ -1,5 +1,5 @@
 ---
-layout: all
+layout: monthly
 headline: "Sabahattin Ali Yarışmaları"
 title: "Sabahattin Ali Yarışmaları"
 key: "sabahattin ali"

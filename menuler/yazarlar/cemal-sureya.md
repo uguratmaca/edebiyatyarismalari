@@ -1,5 +1,5 @@
 ---
-layout: all
+layout: monthly
 headline: "Cemal Süreya Yarışmaları"
 title: "Cemal Süreya Yarışmaları"
 key: "cemal süreya"

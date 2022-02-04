@@ -1,5 +1,5 @@
 ---
-layout: all
+layout: monthly
 headline: "Hukuk Yarışmaları"
 title: "Hukuk Yarışmaları"
 key: "hukuk"

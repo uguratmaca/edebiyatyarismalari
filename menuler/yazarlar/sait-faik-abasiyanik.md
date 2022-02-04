@@ -1,5 +1,5 @@
 ---
-layout: all
+layout: monthly
 headline: "Sait Faik Abasıyanık Yarışmaları"
 title: "Sait Faik Abasıyanık Yarışmaları"
 key: "sait faik abasıyanık"

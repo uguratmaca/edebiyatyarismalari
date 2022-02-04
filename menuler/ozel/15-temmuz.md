@@ -1,5 +1,5 @@
 ---
-layout: all
+layout: monthly
 headline: "15 Temmuz Yarışmaları"
 title: "15 Temmuz Yarışmaları"
 key: "15 temmuz"

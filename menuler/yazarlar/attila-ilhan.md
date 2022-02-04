@@ -1,5 +1,5 @@
 ---
-layout: all
+layout: monthly
 headline: "Attila İlhan Yarışmaları"
 title: "Attila İlhan Yarışmaları"
 key: "attila ilhan"

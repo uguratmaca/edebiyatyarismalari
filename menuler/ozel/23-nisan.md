@@ -1,5 +1,5 @@
 ---
-layout: all
+layout: monthly
 headline: "23 Nisan Yarışmaları"
 title: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Yarışmaları"
 key: "23 nisan"

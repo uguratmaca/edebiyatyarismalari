@@ -1,5 +1,5 @@
 ---
-layout: all
+layout: monthly
 headline: "Ahmet Hamdi Tanpınar Yarışmaları"
 title: "Ahmet Hamdi Tanpınar Yarışmaları"
 key: "ahmet hamdi tanpınar"

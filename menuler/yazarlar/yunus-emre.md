@@ -1,5 +1,5 @@
 ---
-layout: all
+layout: monthly
 headline: "Yunus Emre Adına Düzenlenen Yarışmalar"
 title: "Yunus Emre Adına Düzenlenen Yarışmalar"
 key: "yunus emre"

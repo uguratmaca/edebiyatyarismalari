@@ -1,5 +1,5 @@
 ---
-layout: all
+layout: monthly
 headline: "Kadınlar İçin Yarışmaları"
 title: "Kadınlar İçin Yarışmaları"
 key: "kadın"

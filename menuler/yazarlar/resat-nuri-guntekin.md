@@ -1,5 +1,5 @@
 ---
-layout: all
+layout: monthly
 headline: "Reşat Nuri Güntekin Yarışmaları"
 title: "Reşat Nuri Güntekin Yarışmaları"
 key: "reşat nuri güntekin"

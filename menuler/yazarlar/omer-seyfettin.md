@@ -1,5 +1,5 @@
 ---
-layout: all
+layout: monthly
 headline: "Ömer Seyfettin Yarışmaları"
 title: "Ömer Seyfettin Yarışmaları"
 key: "ömer seyfettin"
