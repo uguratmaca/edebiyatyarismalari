@@ -6,7 +6,7 @@ category: articles
 tags: [mayıs 2022, genel, kitap okuma yarışması]
 lastDate: 1653602400
 dateHuman: "27 Mayıs 2022"
-comTopic: "Sağlıklı Düşünmek"
+comTopic: "Serbest"
 attendance: "Websitesi"
 organizer: "Eyüpsultan Belediyesi"
 requirements: "İsteyen herkes katılabilir"
