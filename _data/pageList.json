@@ -178,5 +178,9 @@
     "tiyatro oyunu yazma yarışması": {
         "url": "tiyatro-oyunu-yazma-yarismalari/",
         "title": "Tiyatro Oyunu Yazma Yarışmaları"
+    },
+    "kitap dosyası": {
+        "url": "kitap-dosyasi-yarismalari/",
+        "title": "Kitap Dosyası Yarışmaları"
     }
 }
