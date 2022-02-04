@@ -1,9 +1,8 @@
 ---
-layout: category
+layout: simple
 headline: "Mektup Nedir?"
 title: "Mektup Nedir? | Edebiyat Yarışmaları"
 permalink: "mektup-nedir/"
-showEmpty: false
 description: "Mektup Nedir | Edebiyat Türleri"
 ---
 

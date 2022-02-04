@@ -1,9 +1,8 @@
 ---
-layout: category
+layout: simple
 headline: "Kompozisyon Nedir?"
 title: "Kompozisyon Nedir? | Edebiyat Yarışmaları"
 permalink: "kompozisyon-nedir/"
-showEmpty: false
 description: "Kompozisyon Nedir | Edebiyat Türleri"
 ---
 

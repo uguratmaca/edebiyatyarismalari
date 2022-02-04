@@ -1,9 +1,8 @@
 ---
-layout: category
+layout: simple
 headline: "Tiyatro Nedir?"
 title: "Tiyatro Nedir? | Edebiyat Yarışmaları"
 permalink: "tiyatro-nedir/"
-showEmpty: false
 description: "Tiyatro Nedir | Edebiyat Türleri"
 ---
 

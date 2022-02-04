@@ -1,9 +1,8 @@
 ---
-layout: category
+layout: simple
 headline: "Şiir Nedir?"
 title: "Şiir Nedir? | Edebiyat Yarışmaları"
 permalink: "siir-nedir/"
-showEmpty: false
 description: "Şiir Nedir | Edebiyat Türleri"
 ---
 

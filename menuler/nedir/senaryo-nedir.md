@@ -1,9 +1,8 @@
 ---
-layout: category
+layout: simple
 headline: "Senaryo Nedir?"
 title: "Senaryo Nedir? | Edebiyat Yarışmaları"
 permalink: "senaryo-nedir/"
-showEmpty: false
 description: "Senaryo Nedir | Edebiyat Türleri"
 ---
 

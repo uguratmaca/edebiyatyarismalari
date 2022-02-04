@@ -1,9 +1,8 @@
 ---
-layout: category
+layout: simple
 headline: "Makale Nedir?"
 title: "Makale Nedir? | Edebiyat Yarışmaları"
 permalink: "makale-nedir/"
-showEmpty: false
 description: "Makale Nedir | Edebiyat Türleri"
 ---
 

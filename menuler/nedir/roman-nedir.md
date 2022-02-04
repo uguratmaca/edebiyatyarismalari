@@ -1,9 +1,8 @@
 ---
-layout: category
+layout: simple
 headline: "Roman Nedir?"
 title: "Roman Nedir? | Edebiyat Yarışmaları"
 permalink: "roman-nedir/"
-showEmpty: false
 description: "Roman Nedir | Edebiyat Türleri"
 ---
 <strong>Roman</strong>, yaşanmış ve yaşanması olası olayların anlatıldığı düz yazı türüdür. Belli bir olay etrafında gelişerek olayları derinleştiren uzun yazılardır. Olay, kişi, yer ve zaman yapı unsurlarını taşır. Kahramanların tüm yönleri anlatılarak betimlenir, gözlem ön plandadır. Birçok roman türü bulunur. Gerçekçiliğe önem verir.

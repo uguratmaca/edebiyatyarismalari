@@ -20,7 +20,7 @@ layout: default
         {% else %}
         <section class="col justify-content-center">
             {% if page.subline %}
-                <span>{{page.subline}}</span>
+            <span>{{page.subline}}</span>
             {% endif %}
         </section>
         {% endif %}
@@ -90,18 +90,15 @@ layout: default
         {{ content }}
     </section>
 
-    {% if page.showEmpty != false %}
+
     {% if counter == 0 %}
     <p class="text-danger">Bu listede, hali hazırda başvuru bekleyen herhangi bir <strong>{{page.title}}</strong>
         bulunmamaktadır.
         Aşağıdaki linkten geçmiş yarışmalara ve menüden ilgilendiğiniz diğer yarışmalara bakabilirsiniz.</p>
     {% endif %}
-    {% endif %}
 
-    {% if page.showEmpty != false %}
     <a href="{{site.url}}/gecmis-edebiyat-yarismalari/" class="nav-link">
         Geçmiş Edebiyat Yarışmaları
     </a>
-    {% endif %}
 
 </section>

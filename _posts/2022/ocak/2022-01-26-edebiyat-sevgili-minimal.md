@@ -30,7 +30,7 @@ Sevgili konusunu farklı biçimlerde ele almak yazarların takdirine bırakılm�
 - Öyküler A4 kâğıdının ön yüzüne, Times New Roman yazım karakteri ve 12 punto 1,5 satır aralığında yazılacaktır.
 - Dosya isimleri Öykü Adı - Yazar Adı olacak şekilde adlandırılmalıdır.
 - Yarışma ödülleri en yakın zamanda açıklanacaktır.
-- İlk 10'a giren öyküler websitemizde yayınlanacaktır.
+- İlk 10'a giren öyküler web sitemizde yayınlanacaktır.
 - İlk 5'e giren öykü sahipleri için kidega.com hediye kitap çeki verilecektir.
 - Yarışma sonuçları 1 Mart 2022'de açıklanacaktır.
 

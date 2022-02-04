@@ -1,9 +1,8 @@
 ---
-layout: category
+layout: simple
 headline: "Deneme Nedir?"
 title: "Deneme Nedir? | Edebiyat Yarışmaları"
 permalink: "deneme-nedir/"
-showEmpty: false
 description: "Deneme Nedir | Edebiyat Türleri"
 ---
 
