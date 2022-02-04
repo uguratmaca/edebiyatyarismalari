@@ -1,7 +1,7 @@
 ---
 layout: simple
-headline: "Edebiyat Yarışmaları 2021"
-title: "Edebiyat Yarışmaları 2021"
+headline: "Edebiyat Yarışmaları 2022"
+title: "Edebiyat Yarışmaları 2022"
 permalink: "2022-edebiyat-yarismalari/"
 description: "2022 yılında düzenlenmiş olan tüm kitap okuma yarışması, şiir yarışması, senaryo yarışması ve diğer edebiyat yarışmalarını bu sayfadan ay-ay görüntüleyebilirsiniz."
 ---
