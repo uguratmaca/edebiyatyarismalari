@@ -3,7 +3,7 @@ layout: post
 title: "Rıfat Ilgaz Şiir Ödülü"
 description: "Cide Belediyesi tarafından 2022 Rıfat Ilgaz Şiir Ödülü yarışması düzenlenecek."
 category: articles
-tags: [nisan 2022, genel, şiir yarışması, rıfat ılgaz]
+tags: [nisan 2022, genel, şiir yarışması, rıfat ılgaz, kitap dosyası]
 comments: true
 lastDate: 1649973600 
 dateHuman: "15 Nisan 2022"

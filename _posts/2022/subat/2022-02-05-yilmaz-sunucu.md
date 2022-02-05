@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yılmaz Sunucu Öykü Ödülü"
-description: "Sokaktaki Öğretmen lakabıyla tanınan Eğitimci-Yazar Yılmaz Sunucu anısına düzenlenen öykü ödülüne başvurular başladı."
+description: "Sokaktaki Öğretmen lakabıyla tanınan Eğitimci, Yazar Yılmaz Sunucu anısına düzenlenen öykü ödülüne başvurular başladı."
 category: articles
 tags: [temmuz 2022, genel, hikaye yarışması]
 lastDate: 1657836000
@@ -12,7 +12,7 @@ organizer: "Arzum Sunucu Kerimli"
 requirements: "18 yaşını geçmiş herkes yetişkinler için yazdığı bir öykü ile ödüle başvurabilir"
 permalink: "yilmaz-sunucu-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2022/subat/yilmaz-sunucu-oyku-odulu.jpeg"
-excerpt: "Sokaktaki Öğretmen lakabıyla tanınan Eğitimci-Yazar Yılmaz Sunucu anısına düzenlenen öykü ödülüne başvurular başladı."
+excerpt: "Sokaktaki Öğretmen lakabıyla tanınan Eğitimci, Yazar Yılmaz Sunucu anısına düzenlenen öykü ödülüne başvurular başladı."
 ---
 
 ## Yılmaz Sunucu Öykü Ödülü
