@@ -32,6 +32,10 @@ layout: default
       <p>❗ Yarışmadaki kısıtlar: <b>{{page.requirements}}</b></p>
       {% endif %}
 
+      {% if page.organizer %}
+      <p>🏢 Düzenleyen: <b>{{page.organizer}}</b></p>
+      {% endif %}
+
       {% if page.dateHuman %}
       {% if page.lastDate > nowDateInt %}
       <p class="text-success">Yarışma başvurusu devam ediyor...</p>
@@ -39,6 +43,7 @@ layout: default
       <p class="text-danger">Yarışma başvurusu bitti!</p>
       {% endif %}
       {% endif %}
+
     </section>
     <section class="col-md-6 col-12">
       {% if page.image %}
