@@ -10,6 +10,7 @@ attendance: "Okul müdürlüklerine teslim"
 comTopic: "Serbest"
 requirements: "Yarışmaya Millî Eğitim Bakanlığına bağlı resmî kurumlarda, eğitim öğretim hizmetleri sınıfında fiilen görev yapmakta olan öğretmen ve yöneticiler katılabileceklerdir"
 permalink: "ogretmenler-arasi-omer-seyfettin-hikaye-yarismasi-2020"
+excerpt: "İstanbul'u Okuyorum Projesi kapsamında Ömer Seyfettin'in vefatının 100. yılı münasebetiyle Ömer Seyfettin anısına Öğretmenler Arası Kısa Öykü Yarışması düzenlenecektir."
 ---
 
 ## Ömer Seyfettin Hikaye Yarışması
