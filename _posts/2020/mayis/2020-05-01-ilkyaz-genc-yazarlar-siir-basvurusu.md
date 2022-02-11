@@ -11,6 +11,7 @@ comTopic: "Serbest"
 requirements: "35 yaş altı isteyen herkes katılabilir"
 permalink: "ilkyaz-genc-yazarlar-mayis-2020-siir-basvurusu"
 image: "https://edebiyatyarismalari.com/images/2020/nisan/ilkyaz-genc-yazarlar-siir-kisa-oyku-yarismasi.jpg"
+excerpt: "İlkyaz Genç Yazarlar 2020 Mayıs Şiir Başvurusu"
 ---
 
 ## İlkyaz Genç Yazarlar 2020 Mayıs Şiir Başvurusu
