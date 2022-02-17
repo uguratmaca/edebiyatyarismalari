@@ -3,7 +3,7 @@ layout: post
 title: "Gönen Belediyesi Ömer Seyfettin Hikaye Yarışması"
 description: "Gönen Belediyesi Ömer Seyfettin Hikaye Yarışması"
 category: articles
-tags: [ömer seyfettin]
+tags: []
 comments: true
 ---
 
