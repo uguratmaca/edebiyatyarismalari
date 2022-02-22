@@ -1,7 +1,6 @@
-name: Edebiyat Yarışmaları
-title: Edebiyat Yarışmaları
-description: "Ülkemizde düzenlenen şiir yarışması, öykü yarışması, hikaye yarışması, resim yarışması, roman yarışması bilgilerine sitemizden erişebilirsiniz"
-about: Elimden geldiğince ülkemizde düzenlenen öykü yarışmalarını toplamayı amaçlıyorum. Siz de katkıda bulabilirsiniz.
+name: "Edebiyat Yarışmaları | Edebiyat Ödülleri"
+title: "Edebiyat Yarışmaları | Edebiyat Ödülleri"
+description: "Ülkemizde düzenlenen şiir yarışması, öykü yarışması, hikaye yarışması, resim yarışması, roman yarışması gibi edebiyat ödüllerine sitemizden erişebilirsiniz"
 master_repo: false
 markdown: kramdown
 highlighter: rouge
