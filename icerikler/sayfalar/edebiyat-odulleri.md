@@ -17,3 +17,5 @@ description: "Her sene verilen Edebiyat Ödülleri bu sayfadan erişebilirsiniz.
 - [68. Sait Faik Hikaye Armağanı]({{site.url}}/68-sait-faik-hikaye-armagani)
 
 - [6. Vedat Günyol Deneme Yarışması]({{site.url}}/6-vedat-gunyol-deneme-yarismasi)
+
+- [20. Tudem Edebiyat Ödülleri Roman Yarışması]({{site.url}}/20-tudem-edebiyat-odulleri)

@@ -3,7 +3,7 @@ layout: post
 title: "20. Tudem Edebiyat Ödülleri Roman Yarışması"
 description: "2003 yılından bu yana çocuk ve gençlik edebiyatına çağdaş ve özgün eserler kazandırmak amacıyla düzenlenen Tudem Edebiyat Ödülleri, 20. yılında çocuk edebiyatı alanında ve roman dalında verilecektir."
 category: articles
-tags: [kasım 2022, roman yarışması, genel, çocuk edebiyatı]
+tags: [kasım 2022, roman yarışması, genel, çocuk edebiyatı, kitap dosyası]
 comments: true
 lastDate: 1667257200
 dateHuman: "1 Kasım 2022"
