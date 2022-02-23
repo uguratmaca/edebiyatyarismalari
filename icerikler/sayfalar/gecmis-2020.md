@@ -2,7 +2,6 @@
 layout: simple
 headline: "Edebiyat Yarışmaları 2020"
 title: "Edebiyat Yarışmaları 2020"
-subline: ""
 permalink: "2020-edebiyat-yarismalari/"
 description: "2020 yılında düzenlenmiş olan tüm edebiyat yarışmalarını bu sayfadan ay-ay görüntüleyebilirsiniz."
 ---

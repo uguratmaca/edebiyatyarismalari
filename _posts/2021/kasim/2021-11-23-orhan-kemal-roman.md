@@ -3,7 +3,7 @@ layout: post
 title: "51. Orhan Kemal Roman Armağanı"
 description: "Orhan Kemal Ailesi ve Everest Yayınları tarafından düzenlenen 2022 yılı Orhan Kemal Roman Armağanı'na başvuru süreci başlamıştır."
 category: articles
-tags: [ocak 2022, genel, roman yarışması, orhan kemal]
+tags: [ocak 2022, genel, roman yarışması, orhan kemal, edebiyat ödülleri]
 comments: true
 lastDate: 1641510000
 dateHuman: "7 Ocak 2022"

@@ -3,7 +3,7 @@ layout: post
 title: "Cevdet Kudret Edebiyat Ödülleri"
 description: "2022 Yılı Cevdet Kudret Edebiyat Ödülleri Tiyatro dalında verilecek."
 category: articles
-tags: [ağustos 2022, tiyatro oyunu yazma yarışması, genel]
+tags: [ağustos 2022, tiyatro oyunu yazma yarışması, genel, edebiyat ödülleri]
 lastDate: 1661896800
 dateHuman: "31 Ağustos 2022"
 comTopic: "Serbest"

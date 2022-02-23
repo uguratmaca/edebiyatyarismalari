@@ -3,7 +3,7 @@ layout: post
 title: "6. Vedat Günyol Deneme Yarışması"
 description: "Kartal Belediyesi her yıl düzenlediği Vedat Günyol Deneme yarışmasının 6. sını düzenliyor."
 category: articles
-tags: [kasım 2021, deneme yarışması, genel]
+tags: [kasım 2021, deneme yarışması, genel, edebiyat ödülleri]
 comments: true
 lastDate: 1636844400    
 dateHuman: "14 Kasım 2021"

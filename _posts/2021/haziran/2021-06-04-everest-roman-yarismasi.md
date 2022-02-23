@@ -3,7 +3,7 @@ layout: post
 title: "Everest Yayınları İlk Roman Yarışması 2021"
 description: "Everest Yayınları 2021 tarafından düzenlenen İlk Roman Yarışması'na başvurular başladı."
 category: articles
-tags: [temmuz 2021, genel, roman yarışması]
+tags: [temmuz 2021, genel, roman yarışması, edebiyat ödülleri]
 comments: true
 lastDate: 1627592400    
 dateHuman: "30 Temmuz 2021"
