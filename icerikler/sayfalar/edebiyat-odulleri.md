@@ -19,3 +19,6 @@ description: "Her sene verilen Edebiyat Ödülleri bu sayfadan erişebilirsiniz.
 - [6. Vedat Günyol Deneme Yarışması]({{site.url}}/6-vedat-gunyol-deneme-yarismasi)
 
 - [20. Tudem Edebiyat Ödülleri Roman Yarışması]({{site.url}}/20-tudem-edebiyat-odulleri)
+
+- [Cevdet Kudret Edebiyat Ödülleri]({{site.url}}/cevdet-kudret-edebiyat-odulleri)
+
