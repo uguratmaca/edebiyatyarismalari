@@ -13,11 +13,11 @@ organizer: "Başakşehir Kültürevi Derneği"
 requirements: "Başakşehir’de öğrenim gören veya ikamet eden ortaokul (5, 6, 7 ve 8. sınıflar) ve ortaöğretim (9, 10, 11 ve 12. sınıflar) kurumlarında okuyan öğrenciler."
 permalink: "6-basaksehir-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/subat/bir-fotograf-bin-siir-yarismasi.jpeg"
-excerpt: "Başakşehir Kültürevi Derneği Bir Fotoğraf Bin Şiir 6. Geleneksel Şiir Yarışması düzenliyor."
+excerpt: "Başakşehir Kültürevi Derneği <strong>Bir Fotoğraf Bin Şiir 6. Geleneksel Şiir Yarışması</strong> düzenliyor."
 ---
 
 ## 6. Geleneksel Şiir Yarışması
-Başakşehir Kültürevi Derneği Bir Fotoğraf Bin Şiir 6. Geleneksel Şiir Yarışması düzenliyor.  
+Başakşehir Kültürevi Derneği **Bir Fotoğraf Bin Şiir 6. Geleneksel Şiir Yarışması** düzenliyor.  
 
 - Eserlerin daha önce herhangi bir yarışmaya katılmamış olması ve herhangi bir yerde yayımlanmamış olması gerekmektedir.
 - Öğrenciler birer eserle yarışmaya katılacaklardır.
