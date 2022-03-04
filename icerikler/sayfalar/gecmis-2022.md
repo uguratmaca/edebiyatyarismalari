@@ -8,4 +8,5 @@ description: "2022 yılında düzenlenmiş olan tüm kitap okuma yarışması, �
 
 <ul class='nav flex-column'>
    <li class='nav-item'><a class='nav-link' href='/ocak-2022-yarismalar/'>Ocak 2022 Yarışmaları</a></li>
+   <li class='nav-item'><a class='nav-link' href='/subat-2022-yarismalar/'>Şubat 2022 Yarışmaları</a></li>
 </ul>
