@@ -32,6 +32,6 @@ Sevgili konusunu farklı biçimlerde ele almak yazarların takdirine bırakılm�
 - Yarışma ödülleri en yakın zamanda açıklanacaktır.
 - İlk 10'a giren öyküler web sitemizde yayınlanacaktır.
 - İlk 5'e giren öykü sahipleri için kidega.com hediye kitap çeki verilecektir.
-- Yarışma sonuçları 1 Mart 2022'de açıklanacaktır.
+- Güncelleme: Yarışma sonuçları 8 Mart 2022'de açıklanacaktır. (Yoğun başvurudan ötürü 1 Hafta ertelenmiştir)
 
 ### [Başvuru Formu](https://forms.gle/LEntMuoWWSWpjugJ9){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

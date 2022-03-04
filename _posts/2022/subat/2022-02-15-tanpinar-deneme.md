@@ -6,7 +6,7 @@ category: articles
 tags: [nisan 2022, genel, deneme yarışması, ahmet hamdi tanpınar]
 lastDate: 1649368800
 dateHuman: "8 Nisan 2022"
-comTopic: "Anne sevgisi"
+comTopic: "Serbest"
 attendance: "Posta, Kargo"
 price: "28500 TL'dir"
 organizer: "Osmangazi Belediyesi"
