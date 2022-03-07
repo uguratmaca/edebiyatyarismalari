@@ -17,11 +17,11 @@ excerpt: "Mesleki ve Teknik Eğitim Genel Müdürlüğü <strong>Yüreklerde Âk
 ---
 
 ## Yüreklerde Âkif, Dillerde Hürriyet
-Mesleki ve Teknik Eğitim Genel Müdürlüğü **Yüreklerde Âkif, Dillerde Hürriyet Şiir Yarışması** düzenliyor.  
+Mesleki ve Teknik Eğitim Genel Müdürlüğü **Yüreklerde Akif, Dillerde Hürriyet Şiir Yarışması** düzenliyor.  
 
 - Her öğrenci, yarışmaya en az sekiz en fazla 40 dizeden oluşan yalnız bir şiirle katılabilecektir.
 - En az sekiz en fazla 40 dizeden oluşacaktır, istenilen ölçü ve türde yazılabilir.
-- Şiir, Yüreklerde Âkif, Dillerde Hürriyet temasına uygun olarak Mehmet Âkif ERSOY’un vatan ve millet sevgisini, şanlı tarihimizi, milletimizin cesaretini, kahramanlığını ve hürriyet sevdasını yansıtan, farkındalık geliştiren özelliklerde olmalıdır.
+- Şiir, **Yüreklerde Akif, Dillerde Hürriyet** temasına uygun olarak Mehmet Âkif ERSOY’un vatan ve millet sevgisini, şanlı tarihimizi, milletimizin cesaretini, kahramanlığını ve hürriyet sevdasını yansıtan, farkındalık geliştiren özelliklerde olmalıdır.
 - Şiir, belirli bir organizasyonu, kurumu veya markayı yansıtmamalı ve özgün olmalıdır.
 - İçinde hakaret, siyasi içerik, estetik olmayan duygu ve düşünceler barındırmamalıdır.
 - Herhangi bir yerde yayımlanan ve/veya herhangi bir şiir yarışmasına katılan şiirler kabul edilmeyecektir.

@@ -23,7 +23,7 @@ Uluslararası Eğitimciler Derneği ilkokul, ortaokul ve lise öğrencileri içi
 
 ### İlkokullar Kategorisi Yarışma Şartları
 - Kaydolan öğrencilere SMS gönderilecektir. 
-- Öğrenciler, sınava online olarak www.**aydinlikyarinlara**.com adresinden gireceklerdir. Yarışma sonuçları da bu adresten duyurulacaktır.  
+- Öğrenciler, sınava online olarak **www.aydinlikyarinlara.com** adresinden gireceklerdir. Yarışma sonuçları da bu adresten duyurulacaktır.  
 - Öğrenciler, sınav esnasında başkasından destek almamalı, kitaba bakmamalı, online ekrandan ayrılmamalı, ekranda başka sayfalar açmamalı, soruları başkalarıyla sosyal medya vb. ortamlarda paylaşmamalıdır. Bu ve bunlara benzer kurallara uymayan öğrencilerin sınavı iptal edilecektir.
 - Sınava giriş şifresi, öğrencinin doğum tarihidir. (Gün.Ay.Yıl)
 - Sınav için, 27 Mart 2022 Pazar günü saat 13.00’te sistem açılacaktır. Öğrenciler sisteme; adı soyadı, telefon numarası ve doğum tarihi ile giriş yapacaklardır. Yayınlanan bu kriterler ekrana gelecek ve öğrenciler “okudum, kabul ediyorum” kutucuğunu işaretledikten sonra 13.10’da sınav başlayacaktır.
@@ -37,7 +37,7 @@ Uluslararası Eğitimciler Derneği ilkokul, ortaokul ve lise öğrencileri içi
 
 ### Ortaokullar Kategorisi Yarışma Şartları
 - Yarışmaya kayıt olan öğrencilere SMS gönderilecektir. 
-- Öğrenciler, sınava online olarak www.aydinlikyarinlara.com adresinden gireceklerdir. Yarışma sonuçları da bu adresten duyurulacaktır.  
+- Öğrenciler, sınava online olarak www.**aydinlikyarinlara**.com adresinden gireceklerdir. Yarışma sonuçları da bu adresten duyurulacaktır.  
 - Öğrenciler, sınav esnasında başkasından destek almamalı, kitaba bakmamalı, online ekrandan ayrılmamalı, ekranda başka sayfalar açmamalı, soruları başkalarıyla sosyal medya vb. ortamlarda paylaşmamalıdır. Bu ve bunlara benzer kurallara uymayan öğrencilerin sınavı iptal edilecektir. 
 - Sınava giriş şifresi, öğrencinin doğum tarihidir. (Gün.Ay.Yıl).
 - Sınav için, 27 Mart 2022 Pazar günü saat 16.00’da sistem açılacaktır. Öğrenciler sisteme; adı soyadı, telefon numarası ve doğum tarihi ile giriş yapacaklardır. Yayınlanan bu kriterler ekrana gelecek ve öğrenciler “okudum, kabul ediyorum” kutucuğunu işaretledikten sonra 16.10’da sınav başlayacaktır.
