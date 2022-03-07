@@ -19,11 +19,11 @@ excerpt: "Uluslararası Eğitimciler Derneği ilkokul, ortaokul ve lise öğrenc
 ## Aydınlık Yarınlara Kitap Okuma Yarışması
 Uluslararası Eğitimciler Derneği ilkokul, ortaokul ve lise öğrencileri için **Aydınlık Yarınlara Kitap Okuma Yarışması** düzenlemektedir.  
 
-İlkokul öğrencilerimiz "Benim Kılavuzum", Ortaokul öğrencilerimiz "Harika Hikayeler", Lise öğrencilerimize ise "Delilleriyle İman Esasları" kitaplarından sorumlu olacaklar...  
+İlkokul öğrencilerimiz "Benim Kılavuzum", Ortaokul öğrencilerimiz **Harika Hikayeler**, Lise öğrencilerimize ise **Delilleriyle İman Esasları** kitaplarından sorumlu olacaklar...  
 
 ### İlkokullar Kategorisi Yarışma Şartları
 - Kaydolan öğrencilere SMS gönderilecektir. 
-- Öğrenciler, sınava online olarak www.aydinlikyarinlara.com adresinden gireceklerdir. Yarışma sonuçları da bu adresten duyurulacaktır.  
+- Öğrenciler, sınava online olarak www.**aydinlikyarinlara**.com adresinden gireceklerdir. Yarışma sonuçları da bu adresten duyurulacaktır.  
 - Öğrenciler, sınav esnasında başkasından destek almamalı, kitaba bakmamalı, online ekrandan ayrılmamalı, ekranda başka sayfalar açmamalı, soruları başkalarıyla sosyal medya vb. ortamlarda paylaşmamalıdır. Bu ve bunlara benzer kurallara uymayan öğrencilerin sınavı iptal edilecektir.
 - Sınava giriş şifresi, öğrencinin doğum tarihidir. (Gün.Ay.Yıl)
 - Sınav için, 27 Mart 2022 Pazar günü saat 13.00’te sistem açılacaktır. Öğrenciler sisteme; adı soyadı, telefon numarası ve doğum tarihi ile giriş yapacaklardır. Yayınlanan bu kriterler ekrana gelecek ve öğrenciler “okudum, kabul ediyorum” kutucuğunu işaretledikten sonra 13.10’da sınav başlayacaktır.
@@ -33,7 +33,7 @@ Uluslararası Eğitimciler Derneği ilkokul, ortaokul ve lise öğrencileri içi
 - Süre 50 dakikadır. (Sisteme geç giren öğrencilere ek süre verilmeyecektir.)
 - 40 soru sorulacaktır. 100 puan üzerinden değerlendirilecektir. Öğrencinin verdiği her yanlış cevap için toplam doğru puanından 0,50 puan eksilecektir.
 - Derneğimizden kaynaklanmayan internet ve elektrik kesintisi gibi durumlardan derneğimiz sorumlu değildir.
-- Burada belirtilmeyen durumlarda Aydınlık Yarınlara Yarışma Komisyonu’nun alacağı kararlar geçerli olacaktır. 
+- Burada belirtilmeyen durumlarda **Aydınlık Yarınlara Yarışma** Komisyonu’nun alacağı kararlar geçerli olacaktır. 
 
 ### Ortaokullar Kategorisi Yarışma Şartları
 - Yarışmaya kayıt olan öğrencilere SMS gönderilecektir. 
@@ -47,7 +47,7 @@ Uluslararası Eğitimciler Derneği ilkokul, ortaokul ve lise öğrencileri içi
 - Süre 50 dakikadır. (Sisteme geç giren öğrencilere ek süre verilmeyecektir.)
 - 40 soru sorulacaktır. 100 puan üzerinden değerlendirilecektir. Öğrencinin verdiği her yanlış cevap için toplam doğru puanından 0,50 puan eksilecektir.
 - Derneğimizden kaynaklanmayan internet ve elektrik kesintisi gibi durumlardan derneğimiz sorumlu değildir.
-- Burada belirtilmeyen durumlarda Aydınlık Yarınlara Yarışma Komisyonu’nun alacağı kararlar geçerli olacaktır.
+- Burada belirtilmeyen durumlarda **Aydınlık Yarınlara Yarışma** Komisyonu’nun alacağı kararlar geçerli olacaktır.
 
 ### Lise Kategorisi Yarışma Şartnamesi 
 - Yarışmaya, www.aydinlikyarinlara.com adresinden kayıt olunacaktır.
@@ -63,6 +63,6 @@ Uluslararası Eğitimciler Derneği ilkokul, ortaokul ve lise öğrencileri içi
 - Süre 50 dakikadır. (Sisteme geç giren öğrencilere ek süre verilmeyecektir.)
 - 40 soru sorulacaktır. 100 puan üzerinden değerlendirilecektir. Öğrencinin verdiği her yanlış cevap için, toplam puanından 0,50 puan eksilecektir.
 - Derneğimizden kaynaklanmayan internet ve elektrik kesintisi gibi durumlardan derneğimiz sorumlu değildir.
-- Burada belirtilmeyen durumlarda Aydınlık Yarınlara Yarışma Komisyonu’nun alacağı kararlar geçerli olacaktır. 
+- Burada belirtilmeyen durumlarda **Aydınlık Yarınlara Yarışma** Komisyonu’nun alacağı kararlar geçerli olacaktır. 
 
 ### [Başvuru Formu](https://kayit.aydinlikyarinlara.com/?ref=edebiyatyarismalari){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
