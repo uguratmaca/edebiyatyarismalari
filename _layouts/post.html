@@ -16,31 +16,31 @@ layout: default
       {% endif %}
 
       {% if page.price %}
-      <p>🏆 Yarışmanın toplam para ödülü: <b>{{page.price}}</b></p>
+        <p>🏆 Yarışmanın toplam para ödülü: <b>{{page.price}}</b></p>
       {% endif %}
 
       {% if page.comTopic %}
-      <p>✍️ Yarışmanın konusu: <b>{{page.comTopic}}</b></p>
+        <p>✍️ Yarışmanın konusu: <b>{{page.comTopic}}</b></p>
       {% endif %}
 
       {% if page.attendance %}
-      <p>✉️ Yarışmanın katılım şekli: <b>{{page.attendance}}</b></p>
+        <p>✉️ Yarışmanın katılım şekli: <b>{{page.attendance}}</b></p>
       {% endif %}
 
       {% if page.requirements %}
-      <p>❗ Yarışmadaki kısıtlar: <b>{{page.requirements}}</b></p>
+        <p>❗ Yarışmadaki kısıtlar: <b>{{page.requirements}}</b></p>
       {% endif %}
 
       {% if page.organizer %}
-      <p>🏢 Düzenleyen: <b>{{page.organizer}}</b></p>
+        <p>🏢 Düzenleyen: <b>{{page.organizer}}</b></p>
       {% endif %}
 
       {% if page.dateHuman %}
-      {% if page.lastDate > nowDateInt %}
-      <p class="text-success">Yarışma başvurusu devam ediyor...</p>
-      {% else %}
-      <p class="text-danger">Yarışma başvurusu bitti!</p>
-      {% endif %}
+        {% if page.lastDate > nowDateInt %}
+        <p class="text-success">Yarışma başvurusu devam ediyor...</p>
+        {% else %}
+        <p class="text-danger">Yarışma başvurusu bitti!</p>
+        {% endif %}
       {% endif %}
 
     </section>
