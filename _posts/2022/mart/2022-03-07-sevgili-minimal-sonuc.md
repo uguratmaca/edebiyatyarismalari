@@ -25,3 +25,6 @@ edebiyatyarismalari.com olarak **14 Şubat Sevgililer Günü** ve **Dünya Öyk�
 - ### Sevgili Kaş Hadi Daha Hızlı Kaç, Nilay İnel
 
 - ### Sevgilinden, Seçil Yeşilırmak
+
+
+- ### [Seçkimiz]({{ site.url }}/sevgili-minimal-oykuleri/)
