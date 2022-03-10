@@ -13,7 +13,7 @@ organizer: "İksad Yayınevi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "iksad-yayinevi-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/subat/iksad-yayinevi-makale-yarismasi.jpg"
-excerpt: "İksad Yayınevi Türkiye'de Ekonomik Kalkınma: Yerel Dinamiklerin Etkisi konulu Makale Yarışması düzenliyor."
+excerpt: "İksad Yayınevi Türkiye'de Ekonomik Kalkınma: <strong>Yerel Dinamiklerin Etkisi konulu Makale Yarışması</strong> düzenliyor."
 ---
 
 ## İksad Yayınevi Makale Yarışması

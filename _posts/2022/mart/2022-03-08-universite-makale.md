@@ -12,7 +12,7 @@ organizer: "HOYA"
 requirements: "Türkiye’de yer alan, teknolojik gelişim ve bilgi üretimiyle ilgilenen tüm üniversite öğrencileri katılabilir. 18 yaşından küçükler yarışmaya katılamaz; katılmış ve kazanmış olsalar dahi hediyeleri verilmez."
 permalink: "hoya-universite-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/mart/hoya-universite-makale-yarismasi.JPG"
-excerpt: "HOYA Geleceği Gören Teknoloji Ne Olacak? konulu Üniversitelilere Özel Makale Yarışması düzenliyor."
+excerpt: "HOYA Geleceği Gören Teknoloji Ne Olacak? konulu <strong>Üniversitelilere Özel Makale Yarışması</strong> düzenliyor."
 ---
 
 ## Üniversitelilere Özel Makale Yarışması

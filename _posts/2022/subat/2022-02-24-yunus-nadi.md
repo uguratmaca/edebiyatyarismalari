@@ -12,11 +12,11 @@ organizer: "Cumhuriyet Gazetesi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "77-yunus-nadi-odulleri"
 image: "https://edebiyatyarismalari.com/images/2022/subat/yunus-nadi-edebiyat-odulleri.jpg"
-excerpt: "Cumhuriyet Gazetesi 77. Yunus Nadi Ödülleri düzenliyor."
+excerpt: "Cumhuriyet Gazetesi <strong>77. Yunus Nadi Ödülleri</strong> düzenliyor."
 ---
 
 ## 77. Yunus Nadi Ödülleri
-2022 Yunus Nadi Ödülleri Edebiyat Ana Dalı’nda öykü, roman, şiir; Görsel Sanatlar Dalı’nda karikatür, fotoğraf; Bilimsel Araştırma Dalı’nda sosyal bilimler araştırması olarak sürüyor.  
+**2022 Yunus Nadi Ödülleri** Edebiyat Ana Dalı’nda öykü, roman, şiir; Görsel Sanatlar Dalı’nda karikatür, fotoğraf; Bilimsel Araştırma Dalı’nda sosyal bilimler araştırması olarak sürüyor.  
 
 - Ödüller her dalda amatör-profesyonel herkese açıktır.
 - Cumhuriyet mensupları hiçbir dalda ödüle aday olamazlar.

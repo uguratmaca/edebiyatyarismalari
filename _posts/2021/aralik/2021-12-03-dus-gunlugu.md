@@ -12,7 +12,7 @@ attendance: "Web sitesi"
 requirements: "Ortaokul ve Lise öğrencileri katılabilir"
 permalink: "10-dus-gunlugu-masal-oyku-siir"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/10-dus-gunlugu-masa-oyku-siir-yarisma.jpg"
-excerpt: "Özel Rota Koleji 10. Düş Günlüğü Masal, Öykü, Şiir Yarışması düzenliyor."
+excerpt: "Özel Rota Koleji <strong>10. Düş Günlüğü Masal, Öykü, Şiir Yarışması</strong> düzenliyor."
 ---
 
 ## 10. Düş Günlüğü Masal, Öykü, Şiir Yarışması

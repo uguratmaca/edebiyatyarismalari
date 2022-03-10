@@ -63,6 +63,36 @@ layout: default
               }
             }
         </script>
+
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "NewsArticle",
+				"url": "{{site.url}}{{post.url}}",
+				"publisher":{
+				"@type":"Organization",
+				"name":"Edebiyat Yarışmaları",
+				"logo":"https://edebiyatyarismalari.com/images/icons/icon-384x384.png"
+				},
+				"headline": "{{ post.title }}",
+				"mainEntityOfPage": "{{site.url}}{{post.url}}",
+				"image":["{{post.image}}"],
+				"datePublished":"{{ post.date }}",
+				"articleBody": "{{ post.excerpt }}",
+				"author": {
+					"@type": "Person",
+					"url": "https://edebiyatyarismalari.com/ugur-atmaca/",
+					"name": "Uğur Atmaca",
+					"givenName": "Uğur",
+					"familyName": "Atmaca",
+					"birthDate": "1987-01-06",
+					"birthPlace": {
+						"@type": "Place",
+						"address": "Polatli, Ankara, Turkey"
+					}
+				}
+			}
+		</script>
 	</section>
 	<hr>
 	{% endif %}
