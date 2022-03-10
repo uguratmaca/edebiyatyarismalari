@@ -74,6 +74,14 @@ layout: default
                   "addressRegion": "TR"
                 }
               }
+              {% if post.organizer %}
+              ,
+              "organizer": {
+                "@type": "Organization",
+                "name": "{{post.organizer}}",
+                "url": "https://edebiyatyarismalari.com/"
+              }
+              {% endif %}
             }
         </script>
 
