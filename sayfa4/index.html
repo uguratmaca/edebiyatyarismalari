@@ -37,39 +37,6 @@ description: "Güncel edebiyat yarışmalarının 4. sayfasındasınız."
 
 		<p class="text-success">Yarışma başvurusu devam ediyor...</p>
 		<p>{{ post.excerpt }}</p>
-		
-        <script type="application/ld+json">
-            {
-              "@context": "https://schema.org",
-              "@type": "LiteraryEvent",
-              "@id": "{{post.url}}",
-              "eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode",
-              "name": "{{ post.title }}",
-              "url": "{{site.url}}{{post.url}}",
-              "startDate": "{{ post.lastDate | date: "%F" }}",
-              "endDate": "{{ post.lastDate | date: "%F" }}",
-              "image":"{{post.image}}", 
-              "description": "{{ post.excerpt }}",
-              "eventStatus":"https://schema.org/EventScheduled",
-              "location": {
-                "@type": "Place",
-                "name":"Türkiye'den herkes katılabilir",
-                "address": {
-                  "@type": "PostalAddress",
-                  "addressLocality": "Turkey",
-                  "addressRegion": "TR"
-                }
-              }
-			  {% if post.organizer %}
-			  ,
-			  "organizer": {
-				"@type": "Organization",
-				"name": "{{post.organizer}}",
-				"url": "https://edebiyatyarismalari.com/"
-			  }
-			  {% endif %}
-            }
-        </script>
 
 		<script type="application/ld+json">
 			{
