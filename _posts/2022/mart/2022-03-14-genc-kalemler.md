@@ -6,8 +6,8 @@ category: articles
 tags: [mart 2022, şiir yarışması, hikaye yarışması, deneme yarışması, lise, üniversite]
 lastDate: 1648677600
 dateHuman: "31 Mart 2022"
-comTopic: "E-Posta"
-attendance: "Websitesi"
+comTopic: "Serbest"
+attendance: "E-Posta"
 organizer: "Genç Gelecek, Sancaktepe Belediyesi"
 requirements: "Yarışmaya 15-25 yaş arası gençler katılabilecektir"
 permalink: "genc-kalemler-deneme-hikaye-siir-yarismasi"
