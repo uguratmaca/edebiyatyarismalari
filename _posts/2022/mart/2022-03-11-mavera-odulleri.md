@@ -3,13 +3,13 @@ layout: post
 title: "Mavera Ödülleri 2022"
 description: "Mavera Eğitim ve Sağlık Vakfı Malcolm X anısına Dünya Yeniden Kurgulanırken: Sözümüz Var! konulu Mavera Ödülleri 2022 Deneme Yarışması düzenliyor."
 category: articles
-tags: [mayıs 2022, deneme yarışması, genel]
-lastDate: 1647730800
+tags: [mayıs 2022, deneme yarışması, üniversite]
+lastDate: 1652133600
 dateHuman: "10 Mayıs 2022"
 comTopic: "Malcolm X anısına Dünya Yeniden Kurgulanırken: Sözümüz Var!"
 attendance: "Websitesi"
 organizer: "Mavera Eğitim ve Sağlık Vakfı"
-requirements: "İsteyen herkes katılabilir"
+requirements: "Deneme yarışmasına yurt içi ve yurt dışında yaşayan ön lisans, lisans ve yüksek lisans düzeyinde eğitim alan 20.03.1993 ve sonrası doğumlu öğrenciler katılabilir"
 permalink: "mavera-odulleri-2022"
 image: "https://edebiyatyarismalari.com/images/2022/mart/mavera-odulleri.jpg"
 excerpt: "Mavera Eğitim ve Sağlık Vakfı Malcolm X anısına Dünya Yeniden Kurgulanırken: Sözümüz Var! konulu <strong>Mavera Ödülleri 2022 Deneme Yarışması</strong> düzenliyor."
