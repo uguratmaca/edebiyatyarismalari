@@ -30,6 +30,6 @@ Yıldız Ahmet Arayıcı Anadolu Lisesi 'Dünyayı İyilik Kurtaracak' konulu **
     - Katılımcı Tarafından Gönderilen Eserin Aslı
 
 ### Edebiyatın Genç Yıldızları Öykü Yarışması Ödülleri
-- Birincilik Ödülü 1 Tam Altın Artı Plaket
-- İkincilik Ödülü 1 Yarım Altın Artı Plaket
-- Üçüncülük Ödülü 1 Çeyrek Altın Artı Plaket
+- Birincilik Ödülü 1 Tam Altın + Plaket
+- İkincilik Ödülü 1 Yarım Altın + Plaket
+- Üçüncülük Ödülü 1 Çeyrek Altın + Plaket
