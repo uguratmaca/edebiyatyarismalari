@@ -21,7 +21,7 @@ Yıldız Ahmet Arayıcı Anadolu Lisesi 'Dünyayı İyilik Kurtaracak' konulu **
 
 - 2021-2022 eğitim öğretim yılında resmi ve özel liselerde aktif öğrenci olmak.
 - Yarışmaya katılacak öyküler Times New Roman formatında 12 punto büyüklüğünde ve 1,5 satır aralığında en fazla 5 sayfa olacaktır.
-- 765116@meb.k12.tr adresine pdf formatında gönderilecektir. Eser üzerinde katılımcının adını, soyadını, okulunu belirten hiçbir yazı ve işaret bulunmayacak, eser öğrencinin kayıtlı olduğu okulun …….@meb.k12.tr uzantılı mail adresi ile konu bölümüne rumuz yazılarak gönderilecek.
+- 765116@meb.k12.tr adresine pdf formatında gönderilecektir. Eser üzerinde katılımcının adını, soyadını, okulunu belirten hiçbir yazı ve işaret bulunmayacak, eser öğrencinin kayıtlı olduğu okulun …….@meb.k12.tr uzantılı mail adresi ile konu bölümüne rumuz yazılarak gönderilecek. 
 
 - **Katılımcılardan İstenenler**
 -- Öğrenci Velisi Tarafından İmzalanmış “Ek-1, Veli İzin Belgesi.”
