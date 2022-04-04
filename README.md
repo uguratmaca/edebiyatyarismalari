@@ -30,3 +30,7 @@ https://edebiyatyarismalari.com/sait-faik-abasiyanik-yarismalari/
 Local Serve  
 - bundle install
 - jekyll serve
+
+Date  
+- https://jsbin.com/yodinefodu/edit?js,console
+- console.log(new Date(2022,4,9).getTime()/1000)
