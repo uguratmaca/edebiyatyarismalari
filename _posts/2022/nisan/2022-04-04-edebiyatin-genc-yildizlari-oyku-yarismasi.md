@@ -16,7 +16,7 @@ image: "https://edebiyatyarismalari.com/images/2022/nisan/edebiyatin-genc-yildiz
 excerpt: "Yıldız Ahmet Arayıcı Anadolu Lisesi 'Dünyayı İyilik Kurtaracak' konulu <strong>Edebiyatın Genç Yıldızları Öykü Yarışması</strong> düzenliyor."
 ---
 
-## Yıldız Ahmet Arayıcı Anadolu Lisesi Edebiyatın Genç Yıldızları Öykü Yarışması
+## Edebiyatın Genç Yıldızları Öykü Yarışması
 Yıldız Ahmet Arayıcı Anadolu Lisesi 'Dünyayı İyilik Kurtaracak' konulu **Edebiyatın Genç Yıldızları Öykü Yarışması** düzenliyor.
 
 - 2021-2022 eğitim öğretim yılında resmi ve özel liselerde aktif öğrenci olmak.
