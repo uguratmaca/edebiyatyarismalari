@@ -24,10 +24,10 @@ Yıldız Ahmet Arayıcı Anadolu Lisesi 'Dünyayı İyilik Kurtaracak' konulu **
 - 765116@meb.k12.tr adresine pdf formatında gönderilecektir. Eser üzerinde katılımcının adını, soyadını, okulunu belirten hiçbir yazı ve işaret bulunmayacak, eser öğrencinin kayıtlı olduğu okulun …….@meb.k12.tr uzantılı mail adresi ile konu bölümüne rumuz yazılarak gönderilecek. 
 
 - **Katılımcılardan İstenenler**
-    - Öğrenci Velisi Tarafından İmzalanmış “Ek-1, Veli İzin Belgesi.”
-    - Öğrenci Velisi Tarafından İmzalanmış “Ek-2 Açık Rıza Onayı”
-    - Katılımcı Ve Velisi Tarafından İmzalanmış “Ek-3, Katılım Formu Ve Taahhütname”
-    - Katılımcı Tarafından Gönderilen Eserin Aslı
+1. Öğrenci Velisi Tarafından İmzalanmış “Ek-1, Veli İzin Belgesi.”
+2. Öğrenci Velisi Tarafından İmzalanmış “Ek-2 Açık Rıza Onayı”
+3. Katılımcı Ve Velisi Tarafından İmzalanmış “Ek-3, Katılım Formu Ve Taahhütname”
+4. Katılımcı Tarafından Gönderilen Eserin Aslı
 
 ### Edebiyatın Genç Yıldızları Öykü Yarışması Ödülleri
 - Birincilik Ödülü 1 Tam Altın Artı Plaket
