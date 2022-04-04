@@ -11,8 +11,8 @@ attendance: "Websitesi"
 price: "30 Bin TL'dir"
 organizer: "Türk Eğitim-Sen"
 requirements: "Yarışmaya Türk Eğitim-Sen ve Türkiye Kamu Sen’e bağlı sendikaların üyeleri ve emeklileri katılabilirler."
-permalink: "türk-egitim-sen-marsi-söz-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/nisan/türk-egitim-sen-marsi-söz-yarismasi.jpg"
+permalink: "turk-egitim-sen-marsi-soz-yarismasi"
+image: "https://edebiyatyarismalari.com/images/2022/nisan/turk-egitim-sen-marsi-soz-yarismasi.jpg"
 excerpt: "Türk Eğitim-Sen 30.yıla armağan 'Türk Eğitim Sen Marşı' <strong> söz yarışması </strong> düzenliyor."
 ---
 

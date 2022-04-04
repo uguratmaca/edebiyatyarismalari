@@ -10,8 +10,8 @@ comTopic: "Dokun Hayata"
 attendance: "E-Posta"
 organizer: "Alkev Özel Ortaokulu"
 requirements: "İstanbul’da eğitim gören 5, 6, 7 ve 8. sınıflar"
-permalink: "özgün-düsünce-kompozisyon-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/nisan/özgün-düsünce-ve-kompozisyon.jpg"
+permalink: "ozgun-dusunce-kompozisyon-yarismasi"
+image: "https://edebiyatyarismalari.com/images/2022/nisan/ozgun-dusunce-ve-kompozisyon.jpg"
 excerpt: "Alkev Özel Ortaokulu Dokun Hayata konulu <strong> 20. Özgün Düşünce ve Kompozisyon Yarışması </strong> düzenliyor."
 ---
 

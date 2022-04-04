@@ -8,7 +8,6 @@ lastDate: 1651179600
 dateHuman: "29 Nisan 2022"
 comTopic: "Dünyayı İyilik Kurtaracak"
 attendance: "E-Posta"
-price: "Altın"
 organizer: "Yıldız Ahmet Arayıcı Anadolu Lisesi"
 requirements: "Türkiye Geneli Resmi Ve Özel Liselerin Hazırlık, 9, 10, 11 Ve 12. Sınıf Öğrencileri"
 permalink: "edebiyatin-genc-yildizlari-oyku-yarismasi"
