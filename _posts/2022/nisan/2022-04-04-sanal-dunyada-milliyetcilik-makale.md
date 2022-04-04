@@ -12,7 +12,7 @@ price: "27 Bin 500 TL'dir"
 organizer: "Türk Ocakları Genel Merkezi"
 requirements: "Yarışmaya, Türkiye’deki üniversitelerde okuyan veya mezun olan (lisans, yüksek lisans, doktora) 1990 ve sonrası doğumlular katılabilir."
 permalink: "sanal-dunyada-milliyetcilik-makale-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/nisan/sanal-dunyada-milliyetcilik-makale-yarismasi"
+image: "https://edebiyatyarismalari.com/images/2022/nisan/sanal-dunyada-milliyetcilik-makale-yarismasi.jpg"
 excerpt: "Türk Ocakları Genel Merkezi 'Sanal Dünyada Milliyetçilik ve Türk Milliyetçiliği' konulu <strong> makale yarışması </strong>  düzenliyor."
 ---
 
