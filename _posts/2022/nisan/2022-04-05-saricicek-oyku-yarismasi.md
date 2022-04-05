@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Sarı Çiçek Öykü Yarışması"
-description: "Karaman İl Milli Eğitim Müdürlüğü, Karaman İl Kültür ve Turizm Müdürlüğü 'Sarı Çiçek Öykü Yarışması' düzenliyor."
+title: "Sarıçiçek Öykü Yarışması"
+description: "Karaman İl Milli Eğitim Müdürlüğü, Karaman İl Kültür ve Turizm Müdürlüğü 'Sarıçiçek Öykü Yarışması' düzenliyor."
 category: articles
 tags: [nisan 2022, hikaye yarışması, genel]
 lastDate: 1650574800
@@ -13,11 +13,11 @@ organizer: "Karaman İl Milli Eğitim Müdürlüğü, Karaman İl Kültür ve Tu
 requirements: "Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir."
 permalink: "saricicek-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/saricicek-oyku-yarismasi.jpg"
-excerpt:  "Karaman İl Milli Eğitim Müdürlüğü, Karaman İl Kültür ve Turizm Müdürlüğü <strong> Sarı Çiçek Öykü Yarışması </strong> düzenliyor."
+excerpt:  "Karaman İl Milli Eğitim Müdürlüğü, Karaman İl Kültür ve Turizm Müdürlüğü <strong> Sarıçiçek Öykü Yarışması </strong> düzenliyor."
 ---
 
-## Sarı Çiçek Öykü Yarışması
-Karaman İl Milli Eğitim Müdürlüğü, Karaman İl Kültür ve Turizm Müdürlüğü **Sarı Çiçek Öykü Yarışması** düzenliyor.
+## Sarıçiçek Öykü Yarışması
+Karaman İl Milli Eğitim Müdürlüğü, Karaman İl Kültür ve Turizm Müdürlüğü **Sarıçiçek Öykü Yarışması** düzenliyor.
 
 - Yarışma Türkiye Cumhuriyeti vatandaşı olan herkese açık olup, konu sınırlaması yoktur.
 - Bir kişi yalnızca 1 (bir) öyküyle yarışmaya katılabilir ve birden fazla kişi tarafından ortaklaşa yazılmış öyküler yarışmaya kabul edilmez.
@@ -25,7 +25,7 @@ Karaman İl Milli Eğitim Müdürlüğü, Karaman İl Kültür ve Turizm Müdür
 - Yarışmaya başvurular **www.yunusemreninizinde.com** sitesi üzerinden yapılacaktır.  Öyküler siteye, Word formatında yüklenmelidir. Gönderilen öykünün ulaştığına dair yarışmacıya bir teyit e-postası gönderilecektir. Teyit e-postası almamış yarışmacıların başvurularının ulaşıp ulaşmadığından yarışmayı düzenleyen kurum ve kuruluşlar sorumlu değildir.
 - Ödüle layık görülen 9 öykü dahil olmak üzere ilk 25 öykü kitaplaştırılacaktır.
 
-### Sarı Çiçek Öykü Yarışması Ödülleri
+### Sarıçiçek Öykü Yarışması Ödülleri
 - Birincilik Ödülü: 10.000 TL
 - İkincilik Ödülü: 7.500 TL
 - Üçüncülük Ödülü: 5.000 TL
