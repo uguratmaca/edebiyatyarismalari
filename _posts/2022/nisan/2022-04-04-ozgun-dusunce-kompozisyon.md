@@ -3,7 +3,7 @@ layout: post
 title: "20. Özgün Düşünce ve Kompozisyon Yarışması"
 description: "Alkev Özel Ortaokulu 'Dokun Hayata' konulu 20. Özgün Düşünce ve Kompozisyon Yarışması düzenliyor."
 category: articles
-tags: [nisan 2022, kompozisyon yarışması, ortaokul]
+tags: [nisan 2022, kompozisyon yarışması, ortaokul, istanbul]
 lastDate: 1649365200
 dateHuman: "08 Nisan 2022"
 comTopic: "Dokun Hayata"

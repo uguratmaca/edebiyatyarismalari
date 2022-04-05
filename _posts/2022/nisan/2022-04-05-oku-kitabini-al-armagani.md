@@ -3,7 +3,7 @@ layout: post
 title: "Oku Kitabını Al Armağanını"
 description: "Ordu Valiliği (İl Millî Eğitim Müdürlüğü) 'Oku Kitabını Al Armağanını' adlı kitap okuma yarışması düzenliyor."
 category: articles
-tags: [nisan 2022, kitap okuma yarışması, ilkokul, ortaokul, lise]
+tags: [nisan 2022, kitap okuma yarışması, ilkokul, ortaokul, lise, ordu]
 lastDate: 1650574800
 dateHuman: "22 Nisan 2022"
 attendance: "Websitesi"
@@ -33,7 +33,4 @@ Ordu Valiliği (İl Millî Eğitim Müdürlüğü) 'Oku Kitabını Al Armağanı
 - Mansiyon/ teşvik ödülü olarak toplamda 20 öğrenciye 300 TL hediye çeki verilecektir.
 - Belirlenen kontenjan dâhilinde ilçelerinde dereceye giren 40 ortaokul öğrencisine Ankara, 40 lise öğrencisine İstanbul gezisi; 40 ilkokul öğrencisine il içi program ( sinema, yemek, Yason-Boztepe gezisi vs.) yapılacaktır.
 
-
 ### [Başvuru Formu](http://ordu.meb.gov.tr/kitap/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
-
-

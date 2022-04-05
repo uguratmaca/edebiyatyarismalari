@@ -3,7 +3,7 @@ layout: post
 title: "23 Nisan Öykü Yarışması"
 description: "Halley Dergisi '23 Nisan Öykü Yarışması' düzenliyor."
 category: articles
-tags: [nisan 2022, hikaye yarışması, ortaokul]
+tags: [nisan 2022, hikaye yarışması, ilkokul, ortaokul, 23 nisan]
 lastDate: 1649970000
 dateHuman: "15 Nisan 2022"
 comTopic: "23 Nisan Ulusal Egemenlik Çocuk Bayramı"

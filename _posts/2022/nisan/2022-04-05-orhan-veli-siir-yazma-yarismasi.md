@@ -3,7 +3,7 @@ layout: post
 title: "Orhan Veli Şiir Yazma Yarışması"
 description: "Özel Alev Okulları 'Orhan Veli Şiir Yazma Yarışması' düzenliyor."
 category: articles
-tags: [nisan 2022, şiir yarışması, ortaokul]
+tags: [nisan 2022, şiir yarışması, ortaokul, orhan veli, istanbul]
 lastDate: 1649538000
 dateHuman: "10 Nisan 2022"
 comTopic: "Bu yıl belirlenen tema 'Düşünüyorum'."

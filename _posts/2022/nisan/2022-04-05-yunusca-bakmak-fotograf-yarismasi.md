@@ -3,7 +3,7 @@ layout: post
 title: "Yunusça Bakmak Fotoğraf Yarışması"
 description: "SE-K-A-SAR Vakfı 'Yunusça Bakmak Fotoğraf Yarışması' düzenliyor."
 category: articles
-tags: [ekim 2022, fotoğraf yarışması, genel]
+tags: [ekim 2022, fotoğraf yarışması, genel, yunus emre]
 lastDate: 1664658000
 dateHuman: "02 Ekim 2022"
 comTopic: "Yunus Emre ve Felsefesidir."

@@ -3,7 +3,7 @@ layout: post
 title: "Türk Eğitim Sen Marşı Söz Yarışması"
 description: "Türk Eğitim-Sen 30.yıla armağan 'Türk Eğitim Sen Marşı' söz yarışması düzenliyor."
 category: articles
-tags: [nisan 2022, şiir yarışması, genel]
+tags: [nisan 2022, şiir yarışması, türk eğitim sen]
 lastDate: 1651266000
 dateHuman: "30 Nisan 2022"
 comTopic: "Eğitim çalışanlarının sendikal mücadelesinin yüz akı Türk Eğitim Sen’i ve ilkelerini ihtiva eden Türk Eğitim Sen’in kimliğini ve kurumsal bakış açısını yansıtan bir marş sözü yazılması."
