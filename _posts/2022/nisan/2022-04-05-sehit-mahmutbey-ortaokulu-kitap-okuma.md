@@ -3,7 +3,7 @@ layout: post
 title: "İkinci Ödüllü Kitap Okuma Yarışması"
 description: "Şehit Mahmutbey Ortaokulu 'İkinci Ödüllü Kitap Okuma Yarışması' düzenliyor."
 category: articles
-tags: [nisan 2022, kitap okuma yarışması, ortaokul]
+tags: [nisan 2022, kitap okuma yarışması, ortaokul, sakarya]
 lastDate: 1649970000
 dateHuman: "15 Nisan 2022"
 price: "1000 TL'dir"

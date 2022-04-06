@@ -3,7 +3,7 @@ layout: post
 title: "4. Reşat Nuri Güntekin Öykü Yarışması"
 description: "Vefa Lisesi '4. Reşat Nuri Güntekin Öykü Yarışması' düzenliyor."
 category: articles
-tags: [mayıs 2022, hikaye yarışması, lise]
+tags: [mayıs 2022, hikaye yarışması, lise, reşat nuri güntekin]
 lastDate: 1651698000
 dateHuman: "05 Mayıs 2022"
 comTopic: "Konu sınırlaması yoktur."

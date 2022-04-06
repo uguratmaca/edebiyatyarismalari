@@ -3,7 +3,7 @@ layout: post
 title: "3. Benim Eserim Senaryo Yarışması"
 description: "Sinema ve Televizyon Eseri Sahipleri Meslek Birliği (SETEM) '3. Benim Eserim Senaryo Yarışması' düzenliyor."
 category: articles
-tags: [nisan 2022, senaryo yarışması, genel, üniversite,]
+tags: [nisan 2022, senaryo yarışması, genel, üniversite]
 lastDate: 1651179600
 dateHuman: "29 Nisan 2022"
 comTopic: "Telif Hakları"
