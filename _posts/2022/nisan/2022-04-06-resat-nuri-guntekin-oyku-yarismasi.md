@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "4.Reşat Nuri Güntekin Öykü Yarışması"
-description: "Vefa Lisesi '4.Reşat Nuri Güntekin Öykü Yarışması' düzenliyor."
+title: "4. Reşat Nuri Güntekin Öykü Yarışması"
+description: "Vefa Lisesi '4. Reşat Nuri Güntekin Öykü Yarışması' düzenliyor."
 category: articles
 tags: [mayıs 2022, hikaye yarışması, lise]
 lastDate: 1651698000
@@ -13,10 +13,10 @@ organizer: "Vefa Lisesi"
 requirements: "Yurt genelindeki lise ve dengi okullarda okuyan tüm öğrenciler katılabilir."
 permalink: "resat-nuri-guntekin-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/resat-nuri-guntekin-oyku-yarismasi.jpg"
-excerpt:  "Vefa Lisesi <strong> 4.Reşat Nuri Güntekin Öykü Yarışması </strong> düzenliyor."
+excerpt:  "Vefa Lisesi <strong> 4. Reşat Nuri Güntekin Öykü Yarışması </strong> düzenliyor."
 ---
 
-## 4.Reşat Nuri Güntekin Öykü Yarışması
+## 4. Reşat Nuri Güntekin Öykü Yarışması
 Vefa Lisesi **4.Reşat Nuri Güntekin Öykü Yarışması** düzenliyor.
 
 Yarışma Koşulları:
@@ -30,7 +30,7 @@ Yarışma Koşulları:
 - Her okul bir (1) hikaye ile yarışmaya katılabilir.
 
 
-### 4.Reşat Nuri Güntekin Öykü Yarışması Ödülleri
+### 4. Reşat Nuri Güntekin Öykü Yarışması Ödülleri
 - Birinciye: 3000 TL + Plaket
 - İkinciye: 2000 TL + Plaket
 - Üçüncüye: 1000 TL + Plaket
