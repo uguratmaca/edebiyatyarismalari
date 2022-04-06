@@ -34,3 +34,5 @@ Yarışma Koşulları:
 - Birinciye: 3000 TL + Plaket
 - İkinciye: 2000 TL + Plaket
 - Üçüncüye: 1000 TL + Plaket
+
+### [Başvuru Formu](https://vefalisesi.meb.k12.tr/icerikler/4resat-nuri-guntekin-oyku-yarismasi_12720698.html/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
