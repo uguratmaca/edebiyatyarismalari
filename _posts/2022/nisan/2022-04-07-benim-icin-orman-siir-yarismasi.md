@@ -36,4 +36,3 @@ Katılım Koşulları:
 
 
 ### [Başvuru Formu](https://benimicinorman.com/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
-
