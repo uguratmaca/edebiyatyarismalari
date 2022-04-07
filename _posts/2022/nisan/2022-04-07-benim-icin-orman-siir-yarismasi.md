@@ -35,5 +35,5 @@ Katılım Koşulları:
 - Ayrıca 5 adet Gram Altın ve ödül alan her katılımcıya “Başarı Belgesi” verilecektir.
 
 
-### [Başvuru Formu](https://benimicinorman.com/yarisma.php?k=siir_yarismasi/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://benimicinorman.com/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 
