@@ -19,7 +19,7 @@ excerpt:  "Yaşlı Hakları ve Ruh Sağlığı Derneği <strong> 3. Sessiz Çı�
 ## 3. Sessiz Çığlık Mektup Yarışması
 Yaşlı Hakları ve Ruh Sağlığı Derneği **3. Sessiz Çığlık Mektup Yarışması** düzenliyor.
 
-- Mektup yarışmasına sadece Kıbrıs’ta yaşayan bireyler katılabilir.
+- **Mektup yarışması**na sadece Kıbrıs’ta yaşayan bireyler katılabilir.
 - Dernek yönetim kurulu üyeleri, mektup yarışması seçici kurul üyeleri ve her iki kurul üyelerinin birinci dereceden akrabaları yarışmaya katılamazlar.
 - Daha önce başka herhangi bir yarışmada ödül almış mektuplar yarışmaya gönderilemez.
 - Yarışmaya gönderilecek mektup, yaşlılarımızın ve ruh sağlığı sorunu yaşayan hasta ve hasta yakınlarının gerçek hayat hikayelerinden kesitler olmalıdır. Hayali veya olmamış olayları gerçek gibi anlatan mektuplar yarışma dışı bırakılacaktır. 

@@ -10,13 +10,13 @@ organizer: "Çukurova Edebiyatçılar Derneği (ÇED)"
 requirements: "Herkes katılabilir."
 permalink: "onuncu-anne-temali-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/onuncu-anne-temali-siir-yarismasi.jpg"
-excerpt:  "Çukurova Edebiyatçılar Derneği <strong> 10. Anne Temalı Şiir Yarışması </strong> düzenliyor."
+excerpt:  "Çukurova Edebiyatçılar Derneği <strong>Anneler Günü </strong> dolayısıyla <strong> 10. Anne Temalı Şiir Yarışması </strong> düzenliyor."
 ---
 
 ## 10. Anne Temalı Şiir Yarışması
-Çukurova Edebiyatçılar Derneği **10. Anne Temalı Şiir Yarışması** düzenliyor.
+Çukurova Edebiyatçılar Derneği **Anneler Günü** dolayısıyla **10. Anne Temalı Şiir Yarışması** düzenliyor.
 
-Bu yarışma anneler Günü dolayısıyla anneye yönelik duygu, düşüncelerini şiirle anlatmak amacıyla düzenlenmiştir.
+Bu yarışma **anneler Günü** dolayısıyla anneye yönelik duygu, düşüncelerini şiirle anlatmak amacıyla düzenlenmiştir.
 
 - Yarışmaya katılım için gönderilen şiirin, daha önce herhangi bir yerde yayımlanmamış olması gerekmektedir Eserin herhangi bir yayında daha önce yayımlandığının tespit edilmesi halinde, ödül iptal edilir. 
 - En fazla, iki şiir ile katılınabilir. (Serbest ve hece ayrımı yoktur.) 

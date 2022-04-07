@@ -3,7 +3,7 @@ layout: post
 title: "3. Gençler Arası Öykü Yarışması"
 description: "T.C. Gençlik ve Spor Bakanlığı '3. Gençler Arası Öykü Yarışması' düzenliyor."
 category: articles
-tags: [mayıs 2022, hikaye yarışması, genel]
+tags: [mayıs 2022, hikaye yarışması, genel, genç, lise, üniversite]
 lastDate: 1653944400
 dateHuman: "31 Mayıs 2022"
 comTopic: "Konu sınırlaması bulunmamaktadır."

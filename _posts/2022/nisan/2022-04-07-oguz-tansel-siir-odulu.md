@@ -27,6 +27,5 @@ Bilkent Üniversitesi **2022 Oğuz Tansel Şiir Ödülü** düzenliyor.
 - Katılımcı, kısa özgeçmiş, iletişim bilgileri ve bir adet fotoğrafının bulunduğu ayrı bir zarfı yapıtıyla birlikte ulaştıracaktır. Bunlar da e-posta ile gönderilebilir.
 - Başvurular **ottem@bilkent.edu.tr** e-posta adresine yapılacaktır.
 
-
 ### 2022 Oğuz Tansel Şiir Ödülü'nün Ödülleri
 Ödül Tutarı: 3000 TL
