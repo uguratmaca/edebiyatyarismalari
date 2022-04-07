@@ -24,6 +24,7 @@ Yaşlı Hakları ve Ruh Sağlığı Derneği **3. Sessiz Çığlık Mektup Yarı
 - Daha önce başka herhangi bir yarışmada ödül almış mektuplar yarışmaya gönderilemez.
 - Yarışmaya gönderilecek mektup, yaşlılarımızın ve ruh sağlığı sorunu yaşayan hasta ve hasta yakınlarının gerçek hayat hikayelerinden kesitler olmalıdır. Hayali veya olmamış olayları gerçek gibi anlatan mektuplar yarışma dışı bırakılacaktır. 
 - Mektubun uzunluğu en az 250 kelime olması önemlidir. 
+- Mektuplar **info@yaslihaklariveruhsagligi.org** adresine mail ile gönderilecektir.
 
 
 Yarışmaya aşağıda belirtilen şekilde ruh sağlığı veya yaşlılar ile ilgili bir mektupla katılabilirsiniz.
