@@ -3,7 +3,7 @@ layout: post
 title: "2022 Oğuz Tansel Şiir Ödülü"
 description: "Bilkent Üniversitesi '2022 Oğuz Tansel Şiir Ödülü' düzenliyor."
 category: articles
-tags: [mayıs 2022, şiir yarışması, genel, bilkent]
+tags: [mayıs 2022, şiir yarışması, genel, bilkent, edebiyat ödülleri]
 lastDate: 1653944400
 dateHuman: "31 Mayıs 2022"
 attendance: "E-posta"

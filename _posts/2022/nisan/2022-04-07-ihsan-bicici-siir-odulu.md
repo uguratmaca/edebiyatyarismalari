@@ -3,7 +3,7 @@ layout: post
 title: "Şair İhsan F. Biçici Şiir Ödülü"
 description: "Ditav(Diyarbakır Tanıtma, Kültür, Yardımlaşma Vakfı) 'Şair İhsan F. Biçici Şiir Ödülü' düzenliyor."
 category: articles
-tags: [mayıs 2022, şiir yarışması, genel, diyarbakır]
+tags: [mayıs 2022, şiir yarışması, genel, diyarbakır, edebiyat ödülleri, kitap dosyası]
 lastDate: 1653944400
 dateHuman: "31 Mayıs 2022"
 price: "3 Bin TL'dir."

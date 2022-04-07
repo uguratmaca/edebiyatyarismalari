@@ -3,7 +3,7 @@ layout: monthly
 headline: "Edebiyat Ödülleri"
 title: "Edebiyat Ödülleri"
 key: "edebiyat ödülleri"
-description: "Her sene verilen Edebiyat Ödülleri bu sayfadan erişebilirsiniz."
+description: "Değerli şair, yazar, gazeteci ve sanatçılarımız için her sene verilen tüm Edebiyat Ödüllerine, edebiyat yarışmalarına bu sayfadan erişebilirsiniz."
 permalink: "edebiyat-odulleri/"
-subline: "Her sene verilen <strong>Edebiyat Ödülleri</strong> bu sayfadan erişebilirsiniz."
+subline: "Değerli şair, yazar, gazeteci ve sanatçılarımız için her sene verilen tüm<strong>Edebiyat Ödülleri</strong>ne, edebiyat yarışmalarına bu sayfadan erişebilirsiniz."
 ---
