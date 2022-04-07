@@ -47,26 +47,26 @@ excerpt:  "İlim Yayma Cemiyeti Kastamonu Şubesi <strong> İstiklal Yolunda Şe
 
 
 ### İstiklal Yolunda Şehit Şerife Bacı Ödüllü 2. Şiir Yazma Yarışması
-- Ortaokul Kategorisi:
-    - Birincilik Ödülü: 1 Adet Tam Altın + Başarı Belgesi + Okuluna Plaket
-    - İkincilik Ödülü: 1 Adet Yarım Altın + Başarı Belgesi + Okuluna Plaket
-    - Üçüncülük Ödülü: 1 Adet Çeyrek Altın + Başarı Belgesi + Okuluna Plaket
-    - Mansiyon Ödülü: 1 Adet Gram Altın + Başarı Belgesi + Okuluna Plaket
-    - İYC Özel Ödülü: BURS (150 TL x 8 Ay = 1.200,00 TL) + Başarı Belgesi + Okuluna Plaket
-    - Jüri tarafından yapılan değerlendirmede ilk 25 öğrenciye kitap hediye edilecektir.
+Ortaokul Kategorisi:
+- Birincilik Ödülü: 1 Adet Tam Altın + Başarı Belgesi + Okuluna Plaket
+- İkincilik Ödülü: 1 Adet Yarım Altın + Başarı Belgesi + Okuluna Plaket
+- Üçüncülük Ödülü: 1 Adet Çeyrek Altın + Başarı Belgesi + Okuluna Plaket
+- Mansiyon Ödülü: 1 Adet Gram Altın + Başarı Belgesi + Okuluna Plaket
+- İYC Özel Ödülü: BURS (150 TL x 8 Ay = 1.200,00 TL) + Başarı Belgesi + Okuluna Plaket
+- Jüri tarafından yapılan değerlendirmede ilk 25 öğrenciye kitap hediye edilecektir.
 
-- Lise ve Dengi Okullar Kategorisi:
-    - Birincilik Ödülü: 1 Adet Tam Altın + Başarı Belgesi + Okuluna Plaket
-    - İkincilik Ödülü: 1 Adet Yarım Altın + Başarı Belgesi + Okuluna Plaket
-    - Üçüncülük Ödülü: 1 Adet Çeyrek Altın + Başarı Belgesi + Okuluna Plaket
-    - Mansiyon Ödülü: 1 Adet Gram Altın + Başarı Belgesi + Okuluna Plaket
-    - İYC Özel Ödülü: BURS (150 TL x 8 Ay = 1.200,00 TL) + Başarı Belgesi + Okuluna Plaket
-    - Jüri tarafından yapılan değerlendirmede ilk 25 öğrenciye kitap hediye edilecektir.
+Lise ve Dengi Okullar Kategorisi:
+- Birincilik Ödülü: 1 Adet Tam Altın + Başarı Belgesi + Okuluna Plaket
+- İkincilik Ödülü: 1 Adet Yarım Altın + Başarı Belgesi + Okuluna Plaket
+- Üçüncülük Ödülü: 1 Adet Çeyrek Altın + Başarı Belgesi + Okuluna Plaket
+- Mansiyon Ödülü: 1 Adet Gram Altın + Başarı Belgesi + Okuluna Plaket
+- İYC Özel Ödülü: BURS (150 TL x 8 Ay = 1.200,00 TL) + Başarı Belgesi + Okuluna Plaket
+- Jüri tarafından yapılan değerlendirmede ilk 25 öğrenciye kitap hediye edilecektir.
 
-- Üniversite Kategorisi:
-    - Birincilik Ödülü: BURS (500 TL x 8 Ay = 4.000,00 TL) + Başarı Belgesi
-    - İkincilik Ödülü: BURS (400 TL x 8 Ay = 3.200,00 TL) + Başarı Belgesi
-    - Üçüncülük Ödülü: BURS (300 TL x 8 Ay = 2.400,00 TL) + Başarı Belgesi
-    - Mansiyon Ödülü: BURS (200 TL x 8 Ay = 1.600,00 TL) + Başarı Belgesi
-    - İYC Özel Ödülü: BURS (150 TL x 8 Ay = 1.200,00 TL) + Başarı Belgesi + Okuluna Plaket
-    - Jüri tarafından yapılan değerlendirmede ilk 25 öğrenciye kitap hediye edilecektir.
+Üniversite Kategorisi:
+- Birincilik Ödülü: BURS (500 TL x 8 Ay = 4.000,00 TL) + Başarı Belgesi
+- İkincilik Ödülü: BURS (400 TL x 8 Ay = 3.200,00 TL) + Başarı Belgesi
+- Üçüncülük Ödülü: BURS (300 TL x 8 Ay = 2.400,00 TL) + Başarı Belgesi
+- Mansiyon Ödülü: BURS (200 TL x 8 Ay = 1.600,00 TL) + Başarı Belgesi
+- İYC Özel Ödülü: BURS (150 TL x 8 Ay = 1.200,00 TL) + Başarı Belgesi + Okuluna Plaket
+- Jüri tarafından yapılan değerlendirmede ilk 25 öğrenciye kitap hediye edilecektir.
