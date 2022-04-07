@@ -46,7 +46,7 @@ excerpt:  "İlim Yayma Cemiyeti Kastamonu Şubesi <strong> İstiklal Yolunda Şe
 - Yarışmaya katıla eserler ve ayrı bir Word sayfasına yazılacak olan "Yarışmacı Katılım Formu"un 27.05.2022 Cuma günü saat 17.00'ye kadar Kastamonu Üniversitesi Sağlık, Kültür ve Spor Daire Başkanlığı birimine kapalı zarf içinde teslim edilmesi gerekmektedir.
 
 
-### İstiklal Yolunda Şehit Şerife Bacı Ödüllü 2. Şiir Yazma Yarışması
+### İstiklal Yolunda Şehit Şerife Bacı Ödüllü 2. Şiir Yazma Yarışması Ödülleri
 Ortaokul Kategorisi:
 - Birincilik Ödülü: 1 Adet Tam Altın + Başarı Belgesi + Okuluna Plaket
 - İkincilik Ödülü: 1 Adet Yarım Altın + Başarı Belgesi + Okuluna Plaket
