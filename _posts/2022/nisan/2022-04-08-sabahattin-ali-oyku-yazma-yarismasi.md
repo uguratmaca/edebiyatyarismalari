@@ -36,8 +36,8 @@ Yarışma Şartları:
 - İkinci: 1500 TL 
 - Üçüncü: 1000 TL 
 - Mansiyon Ödülü (Dördüncü): Sabahattin Ali Bütün Eserleri
-- Mansiyon Ödülü (Beşinci): Sabahattin Ali Bütün Eserleri
-- Mansiyon Ödülü (Altıncı): Sabahattin Ali Bütün Eserleri
+- Jüri Özel Ödülü (Beşinci): Sabahattin Ali Bütün Eserleri
+- Dil Anlatım Ödülü (Altıncı): Sabahattin Ali Bütün Eserleri
 
 
 ### [Başvuru Formu](https://www.fenerbahce.k12.tr/kayit-yarisma/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
