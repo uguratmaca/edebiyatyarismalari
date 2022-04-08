@@ -32,9 +32,9 @@ Malatya İnönü Üniversitesi **Malatya Öyküleri Yarışması** düzenliyor.
 - Eserler millî ve manevi değerlere, genel ve evrensel ahlak ile insanlık ilkelerine uygun olmalıdır.
 - Yarışmaya katılan eserlerin, intihal (çalıntı) veya suç unsuru içermesi vb. durumlarda yayınların içindeki tüm bilgilerin hukuki ve cezai sorumluluğu yazarlarına aittir.
 
-
 ### Malatya Öyküleri Yarışması Ödülleri
 - Birinci: 3000 TL 
 - İkinci: 2000 TL 
 - Üçüncü: 1000 TL 
 - Aynı derece birden fazla kişi tarafından alınırsa ödül, kişiler arasında eşit olarak paylaştırılacaktır.
+
