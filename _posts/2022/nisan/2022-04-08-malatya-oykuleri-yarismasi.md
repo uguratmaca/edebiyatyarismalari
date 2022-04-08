@@ -38,7 +38,3 @@ Malatya İnönü Üniversitesi **Malatya Öyküleri Yarışması** düzenliyor.
 - İkinci: 2000 TL 
 - Üçüncü: 1000 TL 
 - Aynı derece birden fazla kişi tarafından alınırsa ödül, kişiler arasında eşit olarak paylaştırılacaktır.
-
-
-
-### [Başvuru Formu](https://www.tbd.org.tr/turkiye-bilisim-dergisi-2022-bilimkurgu-oyku-yarismasi/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:thttps://www.tbd.org.tr/turkiye-bilisim-dergisi-2022-bilimkurgu-oyku-yarismasi/
