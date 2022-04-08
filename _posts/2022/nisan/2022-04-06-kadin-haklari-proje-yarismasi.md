@@ -1,22 +1,22 @@
 ---
 layout: post
 title: "Kadın Hakları Proje Yarışması"
-description: "Fransa Büyükelçiliği Kültür Etkinlikleri ve İşbirliği Müsteşarlığı 'Kadın Hakları Proje Yarışması' düzenliyor."
+description: "Fransa Ankara Büyükelçiliği 'Kadın Hakları Proje Yarışması' düzenliyor."
 category: articles
 tags: [nisan 2022, makale yarışması, deneme yarışması, hikaye yarışması, genel, kadın]
 lastDate: 1651266000
 dateHuman: "30 Nisan 2022"
 comTopic: "Kadın-erkek eşitliği"
 attendance: "E-posta"
-organizer: "Fransa Büyükelçiliği Kültür Etkinlikleri ve İşbirliği Müsteşarlığı"
+organizer: "Fransa Ankara Büyükelçiliği"
 requirements: "Herkes katılabilir."
 permalink: "kadin-haklari-proje-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/kadin-haklari-proje-yarismasi.jpg"
-excerpt:  "Fransa Büyükelçiliği Kültür Etkinlikleri ve İşbirliği Müsteşarlığı <strong> Kadın Hakları Proje Yarışması </strong> düzenliyor."
+excerpt:  "Fransa Ankara Büyükelçiliği <strong> Kadın Hakları Proje Yarışması </strong> düzenliyor."
 ---
 
 ## Kadın Hakları Proje Yarışması
-Fransa Büyükelçiliği Kültür Etkinlikleri ve İşbirliği Müsteşarlığı **Kadın Hakları Proje Yarışması** düzenliyor.
+Fransa Ankara Büyükelçiliği **Kadın Hakları Proje Yarışması** düzenliyor.
 
 
 Bu proje çağrısı aşağıda belirtilen konulara odaklanmaktadır:
