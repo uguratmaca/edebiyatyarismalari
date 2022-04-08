@@ -1,49 +1,44 @@
 ---
 layout: post
-title: "2022 Bilimkurgu Öykü Yarışması"
-description: "Türkiye Bilişim Dergisi '2022 Bilimkurgu Öykü Yarışması' düzenliyor."
+title: "Malatya Öyküleri Yarışması"
+description: "Malatya İnönü Üniversitesi 'Malatya Öyküleri Yarışması' düzenliyor."
 category: articles
-tags: [ağustos 2022, hikaye yarışması, genel, bilimkurgu]
-lastDate: 1661893200
-dateHuman: "31 Ağustos 2022"
-comTopic: "Konu kısıtlaması olmamakla birlikte öykülerde bilimkurgusal ögeler aranacaktır."
-attendance: "Websitesi"
-price: "Hediye Çeki"
-organizer: "Türkiye Bilişim Dergisi"
-requirements: "TBD Yönetim Kurulu üyeleri ile TBD Bilişim Dergisi Yayın Kurulu Üyeleri dışında herkes katılabilir."
-permalink: "bilim-kurgu-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/nisan/bilim-kurgu-oyku-yarismasi.jpg"
-excerpt:  "Türkiye Bilişim Dergisi <strong> 2022 Bilimkurgu Öykü Yarışması </strong> düzenliyor."
+tags: [haziran 2022, hikaye yarışması, genel, malatya]
+lastDate: 1654376400
+dateHuman: "05 Haziran 2022"
+comTopic: "Öykülerin konusu Malatya ile ilgili olmalıdır."
+attendance: "E-posta"
+price: "6 Bin TL'dir."
+organizer: "Malatya İnönü Üniversitesi"
+requirements: "Yarışmamız ulusal ve uluslararası katılıma açıktır. Her yaş ve meslek kümesinden konuya ilgi duyanlar yarışmaya katılabilir."
+permalink: "malatya-oykuleri-yarismasi"
+image: "https://edebiyatyarismalari.com/images/2022/nisan/malatya-oykuleri-yarismasi.jpg"
+excerpt:  "Malatya İnönü Üniversitesi <strong> Malatya Öyküleri Yarışması </strong> düzenliyor."
 ---
 
-## 2022 Bilimkurgu Öykü Yarışması
-Türkiye Bilişim Dergisi **2022 Bilimkurgu Öykü Yarışması** düzenliyor.
+## Malatya Öyküleri Yarışması
+Malatya İnönü Üniversitesi **Malatya Öyküleri Yarışması** düzenliyor.
 
-Katılım Koşulları:
-- Öykü Türkçe yazılmalıdır.
-- Konu kısıtlaması olmamakla birlikte öykülerde bilimkurgusal ögeler aranacaktır.
-- Öykü daha önce herhangi bir yarışmada ödül almamış olmalıdır.
-- Yarışmaya gönderilmeden önce basılı ya da dijital ortamda yayımlanmış öyküler yarışmaya kabul edilmeyecektir.
-- Her yazar yalnızca bir öyküyle yarışmaya katılabilir.
-- Önceki yıllarda birincilik ödülü alan yazarlar yarışmaya katılamaz.
-- Dereceye girecek öyküler içinde seçici kurul tarafından yayımlanmaya değer bulunanlar kitap olarak yayımlanacaktır.
-- Öykülerin internet sitesinde, Bilişim Dergisi’nde ya da kitaplaştırılarak yayımlanması için https://www.tbd.org.tr/onayliyorum adresinde bulunan “Onaylıyorum” adlı belgenin yazar tarafından doldurulması ve sistemden gönderilmesi gerekmektedir. Onaylıyorum adlı belgeyi TBD’ye göndermeyen yarışmacılar yarışmaya kabul edilmeyecektir.
-
-Biçimsel Özellikler:
-- Öykü, yaygın olarak kullanılan bir kelime işlemciyle, “12” font büyüklüğünde, “Arial” karakter” seçilerek yazılmalı ve aşağıdaki çevrimiçi form kullanılarak gönderilmelidir. Başvurunun geçerli olabilmesi için yarışmacıların öykü, özgeçmiş ve onaylıyorum formundan oluşan üç adet dokümanı çevrimiçi form üzerinden TBD’ye göndermeleri gerekmektedir.
-- Yarışmacılar, başvuru formuna doğum tarihlerini girmelidirler. Başvuru tarihi itibariyle 18 yaşını doldurmamış yarışmacıların öyküleri kendi yaş grupları içinde değerlendirilecektir.
-- Öykünün yer aldığı dosyaya öykünün adı verilmelidir.
-- Öykü dosyasının içinde yazarla ilgili hiçbir bilgi olmamalıdır.
-- Özgeçmiş dosyasında yazarın açık adı, kısa özgeçmişi, açık adresi ve telefon numarası, ayrıca varsa kişisel web sitesi/blog adresi bulunmalıdır. Özgeçmiş dosyasına yazarın adı verilmelidir.
-- Yazarların yarışmaya gerçek ad ve soyadlarıyla katılmaları gerekmektedir. Yarışmada rumuz kullanılmamaktadır.
-- Öykü en fazla iki bin sözcükten oluşmalıdır.
-- Bu biçimsel özellikleri taşımayan öyküler yarışma dışı bırakılacaktır.
+- Yarışmamız ulusal ve uluslararası katılıma açıktır. Her yaş ve meslek kümesinden konuya ilgi duyanlar yarışmaya katılabilir.
+- Öykülerin konusu Malatya ile ilgili olmalıdır.
+- Yazılacak öykü bir hikâyenin temel unsurlarını (olay, yer, zaman, kişiler) içermelidir.
+- Yarışmaya katılan öyküler hiçbir yerde yayımlanmamış ve ödül almamış olmalıdır.
+- Başvuru için öykü ve kimlik dosyası olmak üzere elektronik ortamda iki dosya **malatyaoykuleri@gmail.com** adresine gönderilmelidir. Başvurular sadece elektronik ortamda kabul edilecektir.
+- Öykü dosyası: Öyküler Microsoft Office Word 2007 programıyla A4 kâğıdı boyutunda, bir buçuk satır aralığıyla, 12 punto, Times New Roman yazı karakteriyle beş sayfayı geçmeyecek şekilde yazılmalıdır. Gönderilecek öyküyü içeren MS Word dosyasının adı öykünün adı olmalıdır.
+- Kimlik dosyası: Öykü yazarının “adı-soyadı, yaşı, cinsiyeti, mesleği, telefon numarası, e- posta adresi ve yaşadığı il” bilgilerini içermelidir. Fotoğraf isteğe bağlı gönderilebilir.
+- Kişiler yarışmaya sadece bir öykü ile katılabilir.
+- Seçici kurulda görev alan kişiler, bu kişilerle birinci dereceden kan bağı olanlar ile onlarınyakınları yarışmaya katılamazlar.
+- Eserlerin dili Türkçe olmalıdır ve yazımında Türk Dil Kurumunun Yazım Kılavuzu’nda yer alan kurallara uyulmalıdır.
+- Eserler millî ve manevi değerlere, genel ve evrensel ahlak ile insanlık ilkelerine uygun olmalıdır.
+- Yarışmaya katılan eserlerin, intihal (çalıntı) veya suç unsuru içermesi vb. durumlarda yayınların içindeki tüm bilgilerin hukuki ve cezai sorumluluğu yazarlarına aittir.
 
 
-### 2022 Bilimkurgu Öykü Yarışması Ödülleri
-- Birinci: 6000 TL tutarında hediye çeki
-- İkinci: 4000 TL tutarında hediye çeki
-- Üçüncü: 2000 TL tutarında hediye çeki
+### Malatya Öyküleri Yarışması Ödülleri
+- Birinci: 3000 TL 
+- İkinci: 2000 TL 
+- Üçüncü: 1000 TL 
+- Aynı derece birden fazla kişi tarafından alınırsa ödül, kişiler arasında eşit olarak paylaştırılacaktır.
+
 
 
 ### [Başvuru Formu](https://www.tbd.org.tr/turkiye-bilisim-dergisi-2022-bilimkurgu-oyku-yarismasi/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:thttps://www.tbd.org.tr/turkiye-bilisim-dergisi-2022-bilimkurgu-oyku-yarismasi/
