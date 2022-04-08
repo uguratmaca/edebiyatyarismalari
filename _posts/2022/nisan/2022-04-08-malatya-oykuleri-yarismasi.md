@@ -46,4 +46,4 @@ Biçimsel Özellikler:
 - Üçüncü: 2000 TL tutarında hediye çeki
 
 
-### [Başvuru Formu](https://www.tbd.org.tr/turkiye-bilisim-dergisi-2022-bilimkurgu-oyku-yarismasi/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://www.tbd.org.tr/turkiye-bilisim-dergisi-2022-bilimkurgu-oyku-yarismasi/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:thttps://www.tbd.org.tr/turkiye-bilisim-dergisi-2022-bilimkurgu-oyku-yarismasi/
