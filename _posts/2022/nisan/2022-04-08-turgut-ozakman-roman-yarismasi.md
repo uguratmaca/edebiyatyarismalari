@@ -3,7 +3,7 @@ layout: post
 title: "Turgut Özakman İlk Roman Yarışması"
 description: "Bilgi Yayınevi 'Turgut Özakman İlk Roman Yarışması' düzenliyor."
 category: articles
-tags: [temmuz 2022, roman yarışması, genel, turgut özakman]
+tags: [temmuz 2022, roman yarışması, genel, turgut özakman, kitap dosyası]
 lastDate: 1659214800
 dateHuman: "31 Temmuz 2022"
 comTopic: "Turgut Özakman’ın sanat ve edebiyat anlayışına aykırı olmaması koşuluyla romanlarda konu ve tür sınırlaması yoktur."
@@ -26,7 +26,6 @@ Katılım Şartları:
 - Gönderilecek dosyalar Word formatında 12 punto büyüklüğünde ve Times New Roman yazı karakteriyle yazılmalıdır.
 - Roman dosyası **yarisma@bilgiyayinevi.com.tr** adresine e-posta ile gönderilmelidir. Ayrıca postaya ekli ayrı bir dosyada yazarın açık adı, kısa özgeçmişi, açık adresi ve telefon numarası bulunmalıdır. Yazarlar yarışmaya gerçek ad ve soyadlarıyla katılmalıdır.
 - Seçici Kurul ödüle değer bir eser bulamadığı takdirde ödül verilmez. Birinci seçilen dosyanın yayımlanması kararı Bilgi Yayınevi’ne aittir.
-
 
 ### Turgut Özakman İlk Roman Yarışması Ödülleri
 - Birinci: 5000 TL

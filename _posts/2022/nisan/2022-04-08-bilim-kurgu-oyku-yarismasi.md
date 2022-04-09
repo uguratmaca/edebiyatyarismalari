@@ -11,7 +11,7 @@ attendance: "Websitesi"
 price: "Hediye Çeki"
 organizer: "Türkiye Bilişim Dergisi"
 requirements: "TBD Yönetim Kurulu üyeleri ile TBD Bilişim Dergisi Yayın Kurulu Üyeleri dışında herkes katılabilir."
-permalink: "bilim-kurgu-oyku-yarismasi"
+permalink: "tbd-bilim-kurgu-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/bilim-kurgu-oyku-yarismasi.jpg"
 excerpt:  "Türkiye Bilişim Dergisi <strong> 2022 Bilimkurgu Öykü Yarışması </strong> düzenliyor."
 ---

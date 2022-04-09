@@ -2,7 +2,7 @@
 layout: post
 title: "23 Nisan 100. Yıl Online Öykü ve Resim Yarışması"
 description: "23 nisan resim yarışması, 23 nisan öykü yarışması, öykü yaz, kent koleji"
-tags: [nisan 2020, anaokulu, ilkokul, ortaokul, lise, hikaye yarışması, resim yarışması]
+tags: [nisan 2020, okul öncesi, ilkokul, ortaokul, lise, hikaye yarışması, resim yarışması]
 comments: true
 lastDate: 1587589200    
 dateHuman: "23 Nisan 2020" 

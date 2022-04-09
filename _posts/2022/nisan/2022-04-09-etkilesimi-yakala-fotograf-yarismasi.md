@@ -5,6 +5,7 @@ description: "Özyeğin Üniversitesi 'Etkileşimi Yakala 2022 - Dijital Fotoğr
 category: articles
 tags: [mayıs 2022, fotoğraf yarışması, lise]
 lastDate: 1651784400
+hidden: true
 dateHuman: "06 Mayıs 2022"
 comTopic: "İklim"
 attendance: "Websitesi"

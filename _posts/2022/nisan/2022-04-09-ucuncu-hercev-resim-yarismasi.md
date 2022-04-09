@@ -7,6 +7,7 @@ tags: [mayıs 2022, resim yarışması, ilkokul, ortaokul, okul öncesi]
 lastDate: 1652043600
 dateHuman: "09 Mayıs 2022"
 comTopic: "Toprak"
+hidden: true
 attendance: "Websitesi"
 organizer: "Her Çocuğa Eğitim Vakfı"
 requirements: "Ülke genelindeki tüm anaokulu, ilkokul ve ortaokul öğrencileri, özel eğitim kurumlarında öğrenim gören öğrenciler ile okul öncesi çağında olup herhangi bir kurumda kaydı bulunmayan herkes katılabilir."

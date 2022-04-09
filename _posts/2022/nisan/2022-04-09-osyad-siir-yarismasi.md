@@ -3,7 +3,7 @@ layout: post
 title: "25. Ekmek Konulu Şiir Yarışması"
 description: "Osmaniye Şairler ve Yazarlar Derneği(OŞYAD) '25. Ekmek Konulu Şiir Yarışması' düzenliyor."
 category: articles
-tags: [ağustos 2022, şiir yarışması, genel, osmaniye]
+tags: [ağustos 2022, şiir yarışması, genel]
 lastDate: 1661893200
 dateHuman: "31 Ağustos 2022"
 comTopic: "Ekmek"
