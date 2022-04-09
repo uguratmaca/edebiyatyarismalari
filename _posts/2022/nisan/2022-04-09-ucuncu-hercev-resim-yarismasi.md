@@ -50,4 +50,4 @@ Katılım Koşulları:
 - Tohum Kesesi
 - Herkadaş Çanta
 
-### [Başvuru Formu](https://yarisma.hercev.org/basvuru.php/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://yarisma.hercev.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
