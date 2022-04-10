@@ -48,4 +48,4 @@ Katılım Koşulları:
     - ODTÜDEN Mağazası’nda Geçerli 1000₺ Hediye Çeki (Bir adet olmak üzere takım adına takım sözcüsüne verilecektir. Hediye çekinin adil şekilde takım üyeleri arasında paylaşılması takım sözcüsünün sorumluluğundadır.)
     - Ödül Sertifikası (Tüm takım üyelerine verilecektir.)
 
-    ### [Başvuru Formu](https://tbm.metu.edu.tr/iep-basvuru/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://tbm.metu.edu.tr/iep-basvuru/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
