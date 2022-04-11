@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "İzmir Göztepe Rotary Kulübü Derneği Uluslararası Fotoğraf Yarışması 2022"
-description: "İzmir Göztepe Rotary Kulübü Derneği (İFOD) 'İzmir Göztepe Rotary Kulübü Derneği Uluslararası Fotoğraf Yarışması 2022' düzenliyor."
+title: "Uluslararası Fotoğraf Yarışması 2022"
+description: "İzmir Göztepe Rotary Kulübü Derneği (İFOD) 'Uluslararası Fotoğraf Yarışması 2022' düzenliyor."
 category: articles
 tags: [nisan 2022, fotoğraf yarışması, genel, izmir]
 lastDate: 1650747600
@@ -13,11 +13,11 @@ organizer: "İzmir Göztepe Rotary Kulübü Derneği (İFOD)"
 requirements: "İsteyen herkes katılabilir."
 permalink: "goztepe-rotary-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/goztepe-rotary-fotograf-yarismasi.jpg"
-excerpt:  "İzmir Göztepe Rotary Kulübü Derneği (İFOD) <strong> İzmir Göztepe Rotary Kulübü Derneği Uluslararası Fotoğraf Yarışması 2022 </strong> düzenliyor."
+excerpt:  "İzmir Göztepe Rotary Kulübü Derneği (İFOD) <strong> Uluslararası Fotoğraf Yarışması 2022 </strong> düzenliyor."
 ---
 
-## İzmir Göztepe Rotary Kulübü Derneği Uluslararası Fotoğraf Yarışması 2022
-İzmir Göztepe Rotary Kulübü Derneği (İFOD) **İzmir Göztepe Rotary Kulübü Derneği Uluslararası Fotoğraf Yarışması 2022** düzenliyor.
+## Uluslararası Fotoğraf Yarışması 2022
+İzmir Göztepe Rotary Kulübü Derneği (İFOD) **Uluslararası Fotoğraf Yarışması 2022** düzenliyor.
 
 Katılım Koşulları:
 - Yarışma; Dijital (Sayısal) Renkli veya Siyah-Beyaz fotoğraf olarak tek bölümlüdür. Renkli veya Siyah-Beyaz, tüm fotoğraflar bir arada değerlendirilecektir.
@@ -43,7 +43,7 @@ Yapıtların İsimlendirilmesi ve Gönderilmesi:
 - Her bir fotoğraf dosyasının ismi maksimum 31 karakter olmalıdır. İsimlendirmede Ç, Ğ, İ, Ö, Ş, Ü, ç, ı, ğ, ö, ş, ü karakterleri kullanılmamalıdır. İngilizce harfler ve alt çizgi ( _ ) kullanılabilir.
 
 
-### İzmir Göztepe Rotary Kulübü Derneği Uluslararası Fotoğraf Yarışması 2022 Ödülleri
+### Uluslararası Fotoğraf Yarışması 2022 Ödülleri
 - FIAP En İyi Fotoğrafçı Ödülü (Toplamda en fazla kabul ve ödül alan fotoğrafçıya verilecektir).
 - FIAP Altın Madalya
 - TFSF Altın Madalya
