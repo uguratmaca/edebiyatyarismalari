@@ -34,3 +34,6 @@ Katılım Koşulları:
 - Mansiyon (3 Adet): 2.000 TL + Madalya
 - 18 yaş altı (3 adet): 1000 TL + Madalya
 - Özel ödül (Belirlenecek kurum/isim adına): 3000 TL + Madalya
+
+### [Başvuru Formu](https://karikatur.bcekmece.bel.tr/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+
