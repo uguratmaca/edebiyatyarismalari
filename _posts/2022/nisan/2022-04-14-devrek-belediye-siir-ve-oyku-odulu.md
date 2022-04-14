@@ -3,7 +3,7 @@ layout: post
 title: "Rüştü Onur Şiir Ödülü ve Müfide Güzin Anadol Öykü Ödülü"
 description: "Devrek Belediye Başkanlığı 'Rüştü Onur Şiir Ödülü ve Müfide Güzin Anadol Öykü Ödülü' düzenliyor."
 category: articles
-tags: [nisan 2022, şiir yarışması, hikaye yarışması, genel]
+tags: [haziran 2022, şiir yarışması, hikaye yarışması, genel]
 lastDate: 1656536400
 dateHuman: "30 Haziran 2022"
 attendance: "Elden/Posta/Kargo"
