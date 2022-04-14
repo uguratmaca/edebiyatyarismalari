@@ -5,6 +5,7 @@ description: "Beylikdüzü Belediyesi Çevre Koruma ve Kontrol Müdürlüğü 'P
 category: articles
 tags: [mayıs 2022, resim yarışması, okul öncesi, ilkokul]
 lastDate: 1652821200
+hidden: true
 dateHuman: "18 Mayıs 2022"
 attendance: "Elden/Posta/Kargo"
 comTopic: "Çocukların Gözüyle Çevre"
