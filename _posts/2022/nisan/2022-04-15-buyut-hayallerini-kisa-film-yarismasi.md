@@ -7,7 +7,7 @@ tags: [mayıs 2022, kısa film yarışması, üniversite]
 lastDate: 1653598800
 dateHuman: "27 Mayıs 2022"
 attendance: "Websitesi"
-price: "26 Bin TL'dir."
+price: "10 Bin TL'dir."
 comTopic: "Başarılı Kadın Hikayeleri"
 organizer: "İstanbul Vakfı"
 requirements: "Türkiye Cumhuriyeti ve Kuzey Kıbrıs Türk Cumhuriyeti genelindeki devlet, özel ve vakıf okullarında okuyan ön lisans, lisans ve yüksek lisans öğrencileri katılabilir."
