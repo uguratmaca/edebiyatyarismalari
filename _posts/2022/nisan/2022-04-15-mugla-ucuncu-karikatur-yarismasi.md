@@ -3,7 +3,7 @@ layout: post
 title: "3. Uluslararası Karikatür Yarışması"
 description: "Muğla Büyükşehir Belediyesi '3. Uluslararası Karikatür Yarışması' düzenliyor."
 category: articles
-tags: [mayıs 2022, karikatür yarışması, genel, muğla]
+tags: [mayıs 2022, karikatür yarışması, genel]
 lastDate: 1652994000
 dateHuman: "20 Mayıs 2022"
 attendance: "E-posta"

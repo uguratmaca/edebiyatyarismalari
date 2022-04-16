@@ -3,7 +3,7 @@ layout: post
 title: "Muğla Sıtkı Koçman Üniversitesi Marşı Beste Yarışması"
 description: "Muğla Sıtkı Koçman Üniversitesi 'Muğla Sıtkı Koçman Üniversitesi Marşı Beste Yarışması' düzenliyor."
 category: articles
-tags: [mayıs 2022, beste yarışması, genel, muğla]
+tags: [mayıs 2022, beste yarışması, genel]
 lastDate: 1651352400
 hidden: true
 dateHuman: "01 Mayıs 2022"

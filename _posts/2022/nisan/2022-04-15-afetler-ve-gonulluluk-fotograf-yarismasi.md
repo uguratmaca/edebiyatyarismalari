@@ -3,7 +3,7 @@ layout: post
 title: "AFAD Gönüllüleri Arası Fotoğraf Yarışması"
 description: "Afet ve Acil Durum Yönetimi Başkanlığı 'AFAD Gönüllüleri Arası Fotoğraf Yarışması' düzenliyor."
 category: articles
-tags: [mayıs 2022, fotoğraf yarışması, genel]
+tags: [mayıs 2022, fotoğraf yarışması, genel, afad]
 lastDate: 1651784400
 hidden: true
 dateHuman: "06 Mayıs 2022"

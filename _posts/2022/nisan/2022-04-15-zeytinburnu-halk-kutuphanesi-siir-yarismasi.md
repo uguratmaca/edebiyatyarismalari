@@ -3,7 +3,7 @@ layout: post
 title: "23 Nisan Şiir Yarışması"
 description: "Zeytinburnu Halk Kütüphanesi '23 Nisan Şiir Yarışması' düzenliyor."
 category: articles
-tags: [nisan 2022, şiir yarışması, ilkokul, ortaokul]
+tags: [nisan 2022, şiir yarışması, ilkokul, ortaokul, 23 nisan]
 lastDate: 1650574800
 dateHuman: "22 Nisan 2022"
 comTopic: "23 Nisan"
