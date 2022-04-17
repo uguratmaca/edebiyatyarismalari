@@ -35,5 +35,3 @@ Katılım Koşulları:
 - İkinci: 10.000 TL
 - Üçüncü: 8.000 TL
 - Mansiyon: 3.000 TL
-
-### [Başvuru Formu](http://yarisma.umraniye.bel.tr/yarisma-katil-2.html/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
