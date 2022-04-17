@@ -7,7 +7,6 @@ tags: [haziran 2022, proje yarışması, genel, edirne]
 lastDate: 1655413200
 dateHuman: "17 Haziran 2022"
 attendance: "Elden/Posta/Kargo"
-comTopic: "Serbest"
 organizer: "Edirne Belediyesi"
 price: "150 Bin TL'dir."
 requirements: "Ekip olarak katılım sağlanmalıdır."
