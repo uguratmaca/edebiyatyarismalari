@@ -41,11 +41,11 @@ Karikatür Yarışması Katılım Koşulları:
 
 ### Baharın Gelişi Karikatür Ve Resim Yarışması Ödülleri
 Resim Yarışması Ödülleri:
-    - Birinci: 1000 TL Kırtasiye Çeki
-    - İkinci: Bluetooth Kulaklık
-    - Üçüncü: Flash Bellek
+- Birinci: 1000 TL Kırtasiye Çeki
+- İkinci: Bluetooth Kulaklık
+- Üçüncü: Flash Bellek
 
 Karikatür Yarışması Ödülleri:
-    - Birinci: 1000 TL Kırtasiye Çeki
-    - İkinci: Bluetooth Kulaklık
-    - Üçüncü: Flash Bellek
+- Birinci: 1000 TL Kırtasiye Çeki
+- İkinci: Bluetooth Kulaklık
+- Üçüncü: Flash Bellek
