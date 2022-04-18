@@ -3,9 +3,9 @@ layout: post
 title: "Koltuk Tasarım Yarışması"
 description: "FKT Koltuk Sistemleri Üretim ve Dağıtım San. Ve Tic. A.Ş. 'Koltuk Tasarım Yarışması' düzenliyor."
 category: articles
-tags: [temmuz 2022, tasarım yarışması, üniversite ]
-lastDate: 1657832400
-dateHuman: "15 Temmuz 2022"
+tags: [ağustos 2022, tasarım yarışması, üniversite ]
+lastDate: 1659301200
+dateHuman: "01 Ağustos 2022"
 attendance: "E-posta"
 organizer: "FKT Koltuk Sistemleri Üretim ve Dağıtım San. Ve Tic. A.Ş."
 price: "30 Bin TL'dir."
