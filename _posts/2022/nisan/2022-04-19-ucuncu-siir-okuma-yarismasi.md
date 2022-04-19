@@ -23,6 +23,7 @@ Katılım Koşulları:
 - Yarışma, 5 kategoride gerçekleştirilecek.
 - Okul öncesi öğrencileri Faruk Nazif Çamlıbel'in "Bayraklar altında" şiirini, İlkokul öğrencileri  Necip Fazıl Kısakürek'in " Utansın" şiirini, ortaokul öğrencileri Mehmet Akif İnan'ın " Mescid-i Aksa" şiirini, Lise ve Bosna Hersekli öğrenciler de Necad İBRİŞİMOVİÇ'in " Bosna" şiirini okuyup videosunu belirtilen internet adresine yükleyerek yarışmaya katılacaklar.
 
+
 ### 3. Şiir Okuma Yarışması Ödülleri
 Okul Öncesi öğrencileri için ödüller:
 - Birinci: 750 TL
