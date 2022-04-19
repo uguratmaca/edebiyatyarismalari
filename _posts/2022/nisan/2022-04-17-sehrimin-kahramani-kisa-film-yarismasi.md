@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Şehrimin Kahramanı-Şehrimin Şehidi Kısa Film Yarışması"
-description: "Aile Ve Sosyal Hizmetler Bakanlığı 'Büyüt Hayallerini Kısa Film Yarışması' düzenliyor."
+description: "Aile Ve Sosyal Hizmetler Bakanlığı 'Şehrimin Kahramanı-Şehrimin Şehidi Kısa Film Yarışması' düzenliyor."
 category: articles
 tags: [temmuz 2022, kısa film yarışması, üniversite]
 lastDate: 1660510800
