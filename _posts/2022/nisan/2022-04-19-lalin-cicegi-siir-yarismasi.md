@@ -32,6 +32,6 @@ Katılım Koşulları:
 - Ödüle aday hikâyelerde amaca ve konuya uygunluk, başarı, yazınsal duyarlık ve değer aranacaktır.
 
 
-### Lalin Çiçeği Şiir Yarışması
+### Lalin Çiçeği Şiir Yarışması Ödülleri
 - Birinci: 1000 TL + Kitaplar 
 - İkinci: 500 TL + Kitaplar
