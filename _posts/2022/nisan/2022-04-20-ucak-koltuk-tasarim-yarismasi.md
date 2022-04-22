@@ -29,7 +29,7 @@ Katılım Koşulları:
 - Yarışmaya gönderilen eserin özgün bir çalışma olmaması, aksine bir iddia olması ve üçüncü kişilerin tasarım üzerinde hak iddia etmesi durumunda sorumluluk yarışmacıya aittir.
 - TSI personeli yarışmaya hiçbir kategoride katılamaz. Seçici kurul asil üyeleri ve yarışma raportörleri ile bu kişilerin birinci dereceden yakınları seçici kurul üyesinin görevli bulunduğu kategoride yarışmaya katılamaz. Seçici Kurul üyelerinin çalıştığı kurum, firma veya çalıştığı firmadan bir kişi, veya ortaklık içinde olduğu bir firma veya kişi seçici kurul üyesinin görevli bulunduğu kategoride yarışmaya katılamaz.
 
-,
+
 ### 3. Geleneksel Ekonomi Sınıfı Uçak Koltuk ve Parçaları Tasarım ve Mühendislik Yarışması Ödülleri
 - Birinci: 15.000 TL
 - İkinci: 10.000 TL
