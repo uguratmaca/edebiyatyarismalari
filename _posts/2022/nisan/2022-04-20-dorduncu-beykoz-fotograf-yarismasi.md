@@ -3,7 +3,7 @@ layout: post
 title: "4. Fotoğraf Yarışması"
 description: "Beykoz Belediyesi '4. Fotoğraf Yarışması' düzenliyor."
 category: articles
-tags: [kasım 2022, fotoğraf yarışması, genel, beykoz]
+tags: [kasım 2022, fotoğraf yarışması, genel]
 lastDate: 1668459600
 hidden: true
 dateHuman: "15 Kasım 2022"

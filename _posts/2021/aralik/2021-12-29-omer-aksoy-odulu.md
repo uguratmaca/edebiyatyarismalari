@@ -3,7 +3,7 @@ layout: post
 title: "Ömer Asım Aksoy Öykü Kitabı Ödülü"
 description: "Yaşamı boyunca Dil Devriminin ödünsüz savunucusu olan, 30 Ekim 1993’te yitirdiğimiz Ömer Asım Aksoy’u dilci ve devrimci kişiliğiyle yaşatmak, düşünce ve yapıtlarını gelecek kuşaklara aktarmak amacıyla Aksoy Ailesiyle Dil Derneği’nin düzenlediği Dil Derneği Ömer Asım Aksoy Ödülü 2022’de bir öykü kitabına verilecektir."
 category: articles
-tags: [kasım 2022, hikaye yarışması, kitap dosyası, edebiyat ödülleri]
+tags: [temmuz 2022, hikaye yarışması, kitap dosyası, edebiyat ödülleri]
 comments: true
 lastDate: 1656972000
 dateHuman: "5 Temmuz 2022"

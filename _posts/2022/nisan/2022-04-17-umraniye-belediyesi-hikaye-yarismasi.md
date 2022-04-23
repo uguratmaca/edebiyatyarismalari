@@ -3,7 +3,7 @@ layout: post
 title: "Geleneksel 18. Hikâye Yarışması"
 description: "Ümraniye Belediyesi 'Geleneksel 18. Hikâye Yarışması' düzenliyor."
 category: articles
-tags: [mayıs 2022, hikaye yarışması, genel, istanbul]
+tags: [mayıs 2022, hikaye yarışması, genel]
 lastDate: 1653598800
 dateHuman: "27 Mayıs 2022"
 attendance: "Websitesi"

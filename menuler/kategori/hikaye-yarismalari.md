@@ -5,7 +5,7 @@ subline: "Bu sayfada ülkemizde düzenlenen <strong>öykü yarışması</strong>
 <strong>kısa öykü yarışması</strong> ve <strong>mikro öykü yarışması</strong> kayıtları bulunmaktadır. Bu <strong>öykü yarışmalarının</strong> bazılarında
 <strong>para ödülü</strong> bulunmaktadır. Aşağıda gösterilen <strong>hikaye yarışmaları </strong> 2021, 2022 yılında yapılacak olan yarışmaları göstermektedir. Ömer Seyfettin Hikaye Yarışması, 23 Nisan Öykü Yarışması, 19 Mayıs Öykü Yarışması, 23 Nisan Öyküleri, 15 Temmuz vb. yarışmaları bu listede bulabilirsiniz."
 title: "Öykü Yarışması 2022, Hikaye Yarışması 2022"
-key: "hikaye yarışması"
+key: "hikaye yarışması, öykü yarışması"
 image: "https://edebiyatyarismalari.com/images/genel/oyku-hikaye-yarismasi.jpg"
 description: "Öykü Yarışması 2022, Hikaye Yarışmaları 2022, Kısa Öykü Yarışması, Para Ödüllü Yarışmalar 2022, Yazı Yarışması, Yazı Yazma Yarışması"
 permalink: "hikaye-yarismalari/"

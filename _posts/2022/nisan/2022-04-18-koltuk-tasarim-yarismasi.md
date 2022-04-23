@@ -3,14 +3,14 @@ layout: post
 title: "Koltuk Tasarım Yarışması"
 description: "FKT Koltuk Sistemleri Üretim ve Dağıtım San. Ve Tic. A.Ş. 'Koltuk Tasarım Yarışması' düzenliyor."
 category: articles
-tags: [ağustos 2022, tasarım yarışması, üniversite ]
+tags: [ağustos 2022, tasarım yarışması, üniversite]
 lastDate: 1659301200
+hidden: true
 dateHuman: "01 Ağustos 2022"
 attendance: "E-posta"
 organizer: "FKT Koltuk Sistemleri Üretim ve Dağıtım San. Ve Tic. A.Ş."
 price: "30 Bin TL'dir."
-requirements: "T.C. Üniversitelerinin Endüstri ürünleri tasarımı bölümleri ve Mühendislik fakültelerindeki
-ilgili bölümlerin; kayıtlı tüm ön lisans, lisans, yüksek lisans ve doktora öğrencilerine açıktır."
+requirements: "T.C. Üniversitelerinin Endüstri ürünleri tasarımı bölümleri ve Mühendislik fakültelerindeki ilgili bölümlerin; kayıtlı tüm ön lisans, lisans, yüksek lisans ve doktora öğrencilerine açıktır."
 permalink: "koltuk-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/koltuk-tasarim-yarismasi.jpg"
 excerpt:  "FKT Koltuk Sistemleri Üretim ve Dağıtım San. Ve Tic. A.Ş.  <strong> Koltuk Tasarım Yarışması </strong> düzenliyor."

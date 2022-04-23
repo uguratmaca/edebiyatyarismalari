@@ -63,6 +63,26 @@
         "url": "karikatur-yarismalari/",
         "title": "Karikatür Yarışmaları"
     },
+    "tasarım yarışması": {
+        "url": "tasarim-yarismalari/",
+        "title": "Tasarım Yarışmaları"
+    },
+    "müzik yarışması": {
+        "url": "muzik-ses-sarki-yarismalari/",
+        "title": "Müzik, Ses, Şarkı Yarışmaları"
+    },
+    "ses yarışması": {
+        "url": "muzik-ses-sarki-yarismalari/",
+        "title": "Müzik, Ses, Şarkı Yarışmaları"
+    },
+    "şarkı yarışması": {
+        "url": "muzik-ses-sarki-yarismalari/",
+        "title": "Müzik, Ses, Şarkı Yarışmaları"
+    },
+    "afiş yarışması": {
+        "url": "afis-yarismalari/",
+        "title": "Afiş Yarışmaları"
+    },
     "mektup yarışması": {
         "url": "mektup-yarismalari/",
         "title": "Mektup Yarışmaları"

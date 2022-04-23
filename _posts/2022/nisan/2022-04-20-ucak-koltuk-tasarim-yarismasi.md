@@ -3,8 +3,9 @@ layout: post
 title: "3. Geleneksel Ekonomi Sınıfı Uçak Koltuk ve Parçaları Tasarım ve Mühendislik Yarışması"
 description: "TSI Seats '3. Geleneksel Ekonomi Sınıfı Uçak Koltuk ve Parçaları Tasarım ve Mühendislik Yarışması' düzenliyor."
 category: articles
-tags: [temmuz 2022, tasarım yarışması, lisans]
+tags: [temmuz 2022, tasarım yarışması, üniversite]
 lastDate: 1657746000
+hidden: true
 dateHuman: "14 Temmuz 2022"
 attendance: "Websitesi"
 price: "35 Bin TL'dir."

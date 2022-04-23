@@ -3,15 +3,15 @@ layout: post
 title: "SteelPRO Çelik Yapı Tasarımı Öğrenci Yarışması"
 description: "Türk Yapısal Çelik Derneği 'SteelPRO Çelik Yapı Tasarımı Öğrenci Yarışması' düzenliyor."
 category: articles
-tags: [ekim 2022, tasarım yarışması, üniversite, mühendislik, mimarlık ]
+tags: [ekim 2022, tasarım yarışması, üniversite, mühendislik, mimarlık]
 lastDate: 1666299600
 dateHuman: "21 Ekim 2022"
 attendance: "Websitesi"
 comTopic: "İklim değişikliklerinden kaynaklı sorunlara yaratıcı yapısal çözümler"
 organizer: "Türk Yapısal Çelik Derneği"
 price: "30 Bin TL'dir."
-requirements: "Yarışma, Türkiye ve KKTC üniversitelerinden, Mimarlık ve İnşaat Mühendisliği bölümlerinde
-lisans öğrenimi gören öğrencilere açıktır."
+hidden: true
+requirements: "Yarışma, Türkiye ve KKTC üniversitelerinden, Mimarlık ve İnşaat Mühendisliği bölümlerinde lisans öğrenimi gören öğrencilere açıktır."
 permalink: "celik-yapi-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/celik-yapi-tasarim-yarismasi.jpg"
 excerpt:  "Türk Yapısal Çelik Derneği  <strong> SteelPRO Çelik Yapı Tasarımı Öğrenci Yarışması </strong> düzenliyor."

@@ -29,7 +29,10 @@ layout: default
 
     {% for post in site.posts %}
     {% if post.lastDate > nowDateInt %}
-    {% if post.tags contains page.key %}
+
+    {% assign pageKeys = page.key | split: ", " %}
+    {% for pageKey in pageKeys %}
+    {% if post.tags contains pageKey %}
 
     {% assign counter=counter | plus:1 %}
 
@@ -86,6 +89,7 @@ layout: default
     <hr>
 
     {% endif %}
+    {% endfor %}
     {% endif %}
     {% endfor %}
 

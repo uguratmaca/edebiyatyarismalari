@@ -3,7 +3,7 @@ layout: post
 title: "Sağlıklı Fikirler Kısa Film Yarışması"
 description: "Yeşilay 'Sağlıklı Fikirler Kısa Film Yarışması' düzenliyor."
 category: articles
-tags: [eylül 2022, kısa film yarışması, üniversite, yeşilay]
+tags: [eylül 2022, kısa film yarışması, üniversite]
 lastDate: 1663275600
 dateHuman: "16 Eylül 2022"
 attendance: "Websitesi"

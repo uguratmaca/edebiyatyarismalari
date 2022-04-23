@@ -3,7 +3,7 @@ layout: post
 title: "İhsan Üren Şiir Ödülü 2022"
 description: "Bursa Yazın ve Sanat Derneği (BUYAZ) ve Üren Ailesi 'İhsan Üren Şiir Ödülü 2022' düzenliyor."
 category: articles
-tags: [haziran 2022, şiir yarışması, genel]
+tags: [haziran 2022, şiir yarışması, genel, kitap dosyası, edebiyat ödülleri]
 lastDate: 1656536400
 dateHuman: "30 Haziran 2022"
 comTopic: "Serbest"
