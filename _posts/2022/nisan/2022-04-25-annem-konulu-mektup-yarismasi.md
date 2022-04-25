@@ -9,6 +9,7 @@ dateHuman: "02 Mayıs 2022"
 comTopic: "Annem"
 attendance: "E-posta"
 organizer: "Bağcılar Belediyesi ve Gönül Bağı"
+price: "7 Bin TL'dir."
 requirements: "Yarışmaya Gönül Bağı Bağcılar Gönüllüsü olan tüm Gönüllülerimiz katılabilir."
 permalink: "annem-konulu-mektup-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/annem-konulu-mektup-yarismasi.jpg"
@@ -25,3 +26,9 @@ Katılım Koşulları:
 - Katılım için mektuplar **info@gonulbagi.org** mail adresine gönderilecektir.
 - Bir kişi birden fazla mektup ile yarışmaya katılamaz.
 - Mektuplar, özgünlük, kendini ifade edebilme, Türkçeyi doğru kullanma kriterleri doğrultusunda seçilecektir.
+
+
+### Annem'e Mektup Yarışması Ödülleri
+- Birinci: 3.500 TL
+- İkinci: 2.500 TL
+- Üçüncü: 1.000 TL
