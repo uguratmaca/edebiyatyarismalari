@@ -3,7 +3,7 @@ layout: post
 title: "Annem'e Mektup Yarışması"
 description: "Bağcılar Belediyesi ve Gönül Bağı 'Annem'e Mektup Yarışması' düzenliyor."
 category: articles
-tags: [mayıs 2022, mektup yarışması, gönül bağı gönüllüleri]
+tags: [mayıs 2022, mektup yarışması]
 lastDate: 1651438800
 dateHuman: "02 Mayıs 2022"
 comTopic: "Annem"
