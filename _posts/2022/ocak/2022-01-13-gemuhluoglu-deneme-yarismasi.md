@@ -3,10 +3,10 @@ layout: post
 title: "Gemuhluoğlu Deneme Yarışması"
 description: "Esenler Belediyesi Dostluk konulu Gemuhluoğlu Deneme Yarışması düzenliyor."
 category: articles
-tags: [mayıs 2022, deneme yarışması, üniversite]
+tags: [nisan 2022, deneme yarışması, üniversite]
 comments: true
-lastDate: 1653256800
-dateHuman: "23 Mayıs 2022"
+lastDate: 1648760400
+dateHuman: "1 Nisan 2022"
 comTopic: "Dostluk"
 price: "35 Bin TL'dir"
 attendance: "E-Posta veya Posta"
