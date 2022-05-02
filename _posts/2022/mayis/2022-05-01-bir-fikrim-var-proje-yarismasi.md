@@ -5,6 +5,7 @@ description: "Balıkesir İl Millî Eğitim Müdürlüğü ve Ne10 Şehir Araşt
 category: articles
 tags: [mayıs 2022, proje yarışması, lise]
 lastDate: 1652994000
+hidden: true
 dateHuman: "20 Mayıs 2022"
 attendance: "E-posta"
 organizer: "Balıkesir İl Millî Eğitim Müdürlüğü ve Ne10 Şehir Araştırmaları ve Teknoloji Geliştirme Merkezi"
