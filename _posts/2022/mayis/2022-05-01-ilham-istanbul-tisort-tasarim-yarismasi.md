@@ -7,6 +7,7 @@ tags: [mayıs 2022, tasarım yarışması, genel]
 lastDate: 1653858000
 dateHuman: "30 Mayıs 2022"
 comTopic: "İstanbul ilhamı"
+hidden: true
 attendance: "Websitesi"
 price: "MacBook Air'dir."
 organizer: "Adidas ve Mercado"

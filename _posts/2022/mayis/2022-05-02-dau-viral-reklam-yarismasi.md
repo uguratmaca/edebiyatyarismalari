@@ -3,6 +3,7 @@ layout: post
 title: "Liseler Arası Viral Reklam Yarışması"
 description: "DAÜ İletişim Fakültesi Halkla İlişkiler ve Reklamcılık Bölümü 'Liseler Arası Viral Reklam Yarışması' düzenliyor."
 category: articles
+hidden: true
 tags: [mayıs 2022, reklam yarışması, lise, kıbrıs]
 lastDate: 1653944400
 dateHuman: "31 Mayıs 2022"

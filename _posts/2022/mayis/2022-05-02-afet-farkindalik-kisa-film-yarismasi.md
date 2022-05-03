@@ -6,6 +6,7 @@ category: articles
 tags: [eylül 2022, kısa film yarışması, genel]
 lastDate: 1662066000
 dateHuman: "02 Eylül 2022"
+hidden: true
 comTopic: "Afet bilincinin geliştirilmesine yönelik kısa film hazırlanması"
 price: "104 Bin TL'dir."
 attendance: "Elden/Posta/Kargo"

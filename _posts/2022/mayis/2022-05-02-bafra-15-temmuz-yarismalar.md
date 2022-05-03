@@ -3,7 +3,7 @@ layout: post
 title: "Türkiye Aşkına 15 Temmuz Resim Şiir Kompozisyon Yarışması"
 description: "Bafra İlçe Milli Eğitim Müdürlüğü 'Türkiye Aşkına 15 Temmuz Resim Şiir Kompozisyon Yarışması' düzenliyor."
 category: articles
-tags: [mayıs 2022, resim yarışması, şiir yarışması, kompozisyon yarışması, ilkokulü ortaokul, lise]
+tags: [mayıs 2022, resim yarışması, şiir yarışması, kompozisyon yarışması, ilkokul, ortaokul, lise, 15 temmuz]
 lastDate: 1653598800
 dateHuman: "27 Mayıs 2022"
 comTopic: "15 Temmuz Demokrasi Zaferi ve Milli Birlik Günü"

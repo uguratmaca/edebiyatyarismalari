@@ -7,6 +7,7 @@ tags: [haziran 2022, tasarım yarışması, genel]
 lastDate: 1656190800
 dateHuman: "26 Haziran 2022"
 comTopic: "Zamansız Yolculuk"
+hidden: true
 attendance: "Websitesi"
 price: "140 Bin TL'dir."
 organizer: "Denizli İhracatçılar Birliği (DENİB)"
