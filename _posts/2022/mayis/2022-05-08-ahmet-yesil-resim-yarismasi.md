@@ -31,4 +31,4 @@ Katılım Koşulları:
 - Tablet Bilgisayar
 
 
-### [Başvuru Formu](https://yenisehirakademi.com/basvuru.php/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://yenisehirakademi.com/basvuru.php){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
