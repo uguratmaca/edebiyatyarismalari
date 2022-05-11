@@ -6,7 +6,7 @@ category: articles
 tags: [mayıs 2022, şiir yarışması, kitap dosyası, genel]
 lastDate: 1652392800
 dateHuman: "13 Mayıs 2022"
-comTopic: "Çanakkale Ruhu"
+comTopic: "Serbest"
 attendance: "Posta, Kargo, Elden"
 organizer: "Buca Belediyesi"
 requirements: "Ödüle, 1987 yılı ve sonrası doğumlular katılabilir"
