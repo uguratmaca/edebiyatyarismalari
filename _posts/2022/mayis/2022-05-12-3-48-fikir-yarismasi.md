@@ -32,7 +32,8 @@ Teslim Günü ve Saatleri:
 Teslim Şekli ve Sunum Tekniği:
 - Yarışmanın teslimi yalnızca dijital ortamda gerçekleştirilecektir. Yarışmaya katılacak tüm ekipler, projelerinin tüm belge ve paftalarını, klasör adı rumuz rakamlarından oluşacak tek bir dosya içerisinde “.zip” veya “.rar” formatlarında, wetransfer aracılığıyla 3_48saatyarisma@fsm.edu.tr adresine mail atarak teslim edeceklerdir.
 
-- Mail yoluyla teslim edilecek klasörde yer alacak dokümanlar şunlardır:
+Mail yoluyla teslim edilecek klasörde yer alacak dokümanlar şunlardır:
+
 1. Kimlik klasörü: 
 - Tüm katılımcılar dijital bir klasör içinde aşağıda yer alan belgeleri tarayarak kimlik klasörü içerisine yüklemek zorundadır.
 - Kimlik bilgilerine ait form (her katılımcı için ayrı ayrı doldurulmuş olmalıdır)
