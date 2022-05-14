@@ -3,7 +3,7 @@ layout: post
 title: "Sürdürülebilirlik Fikir Yarışması 2022"
 description: "Çevre Dostu Yeşil Binalar Derneği (ÇEDBİK) 'Sürdürülebilirlik Fikir Yarışması 2022' düzenliyor."
 category: articles
-tags: [mayıs 2022, fikir yarışması, tasarım yarışması, genel]
+tags: [mayıs 2022, fikir yarışması, tasarım yarışması, üniversite]
 lastDate: 1653771600
 dateHuman: "29 Mayıs 2022"
 comTopic: "Yeşil Sergi Pavyonu Tasarımı"
