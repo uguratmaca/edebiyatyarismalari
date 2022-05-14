@@ -10,6 +10,7 @@ comTopic: "Yeşil Sergi Pavyonu Tasarımı"
 attendance: "E-posta"
 organizer: "Çevre Dostu Yeşil Binalar Derneği (ÇEDBİK)"
 price: "50 Bin TL'dir."
+hidden: true
 requirements: "Türkiye ve Yurtdışındaki Üniversitelerin lisans ve lisansüstü, Mimarlık, Mühendislik, Tasarım ve Sanat Fakültelerinde okuyan öğrenciler katılabilir."
 permalink: "surdurulebilirlik-fikir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/mayis/surdurulebilirlik-fikir-yarismasi.jpg"

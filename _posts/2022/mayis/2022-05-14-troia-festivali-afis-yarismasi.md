@@ -10,6 +10,7 @@ comTopic: "Yarışmacılardan, kentin ve kentlinin yaşam süreci ve geleceğe a
 attendance: "Elden/Kargo/Posta"
 organizer: "Çanakkale Belediyesi"
 price: "15 Bin TL'dir."
+hidden: true
 requirements: "Türkiye genelinde ve Uluslararası alanda 18 yaş üzeri tüm tasarımcılar katılabilir."
 permalink: "troia-festivali-afis-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/mayis/troia-festivali-afis-yarismasi.jpg"

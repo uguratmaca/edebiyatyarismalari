@@ -11,7 +11,7 @@ attendance: "Websitesi"
 organizer: "Dursunbey Belediyesi"
 price: "15 Bin TL'dir."
 requirements: "16 yaş ve üzeri herkes katılabilir."
-permalink: "ramazan-dikmen-oyku-yarismasi"
+permalink: "ramazan-dikmen-oyku-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/mayis/ramazan-dikmen-oyku-yarismasi.jpg"
 excerpt:  "Dursunbey Belediyesi <strong> Ramazan Dikmen Öykü Yarışması 2022 </strong> düzenliyor."
 ---
