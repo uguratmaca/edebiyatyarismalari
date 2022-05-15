@@ -47,4 +47,4 @@ Eserlerin İsimlendirilmesi ve Gönderilmesi:
 - Sergileme (En fazla 30 adet): 300 TL
 - Ödül ve sergileme dışında düzenleyici kurum yarışmaya gönderilen fotoğraflardan en az sergileme bedeli karşılığı satın alabilir.
 
-### [Başvuru Formu](https://tfsfonayliyarismalar.org/tr/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://tfsfonayliyarismalar.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
