@@ -5,6 +5,7 @@ description: "İsmetpaşa İlkokulu 'Takı Tasarım Yarışması' düzenliyor."
 category: articles
 tags: [mayıs 2022, tasarım yarışması, ilkokul]
 lastDate: 1653253200
+hidden: true
 dateHuman: "23 Mayıs 2022"
 comTopic: "Kendi üretiminiz olması koşuluyla herhangi bir takıyı tasarlayabilirsiniz."
 attendance: "Elden/Kargo"
