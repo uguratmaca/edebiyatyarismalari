@@ -7,7 +7,7 @@ tags: [haziran 2022, fotoğraf yarışması, genel]
 lastDate: 1654808400
 hidden: true
 dateHuman: "10 Haziran 2022"
-comTopic: "“Ekolojik Dengesizlik"
+comTopic: "Ekolojik Dengesizlik"
 attendance: "Websitesi"
 organizer: "Büyükçekmece Belediyesi"
 requirements: "İsteyen herkes katılabilir."
