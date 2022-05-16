@@ -19,6 +19,7 @@ excerpt:  "Akşehir Belediyesi - Akşehir Fotoğraf Amatörleri Derneği (AKFAD)
 ## 8. Uluslararası Fotoğraf Yarışması
 Akşehir Belediyesi - Akşehir Fotoğraf Amatörleri Derneği (AKFAD) **8. Uluslararası Fotoğraf Yarışması** düzenliyor.
 
+
 Katılım Koşulları:
 - Yarışma; Organizasyon komitesi ve jüri üyeleri ile TFSF temsilcisi ve bunların birinci derece yakınları dışında, 18 yaşını doldurmuş amatör ve profesyonel tüm fotoğraf sanatçılarına açıktır.
 - Yarışmaya katılım ücretsizdir.
