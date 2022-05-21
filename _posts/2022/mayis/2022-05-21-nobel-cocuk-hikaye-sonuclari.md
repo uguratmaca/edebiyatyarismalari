@@ -6,7 +6,7 @@ category: articles
 tags: [sonuç]
 permalink: "nobel-cocuk-hikaye-sonuclari"
 excerpt: "Nobel Çocuk Hikaye Yarışması sonuçlandı."
-image: "https://edebiyatyarismalari.com/images/2022/mart/nobel-cocuk-hikaye-sonuclari.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/mayis/nobel-cocuk-hikaye-sonuclari.jpg"
 ---
 
 ## Nobel Çocuk Hikaye Yarışması Sonuçları
