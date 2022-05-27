@@ -42,13 +42,13 @@ Katılım Koşulları:
 
 ### Ulusal Şiir ve Öykü Yarışması Ödülleri
 Şiir Yarışması Ödülleri:
-Birinci: 3.000 TL 
-İkinci: 2.000 TL 
-Üçüncü: 1.000 TL 
-Mansiyon Ödülü: 500 TL 
+- Birinci: 3.000 TL 
+- İkinci: 2.000 TL 
+- Üçüncü: 1.000 TL 
+- Mansiyon Ödülü: 500 TL 
 
 Öykü Yarışması Ödülleri:
-Birinci: 3.000 TL 
-İkinci: 2.000 TL
-Üçüncü: 1.000 TL
-Mansiyon Ödülü: 500 TL
+- Birinci: 3.000 TL 
+- İkinci: 2.000 TL
+- Üçüncü: 1.000 TL
+- Mansiyon Ödülü: 500 TL
