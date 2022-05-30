@@ -3,7 +3,7 @@ layout: post
 title: "Bursa Uluslararası Hediyelik Eşya Tasarım Yarışması"
 description: "Bursa Belediyesi 'Bursa Uluslararası Hediyelik Eşya Tasarım Yarışması' düzenliyor."
 category: articles
-tags: [eylül 2022, tasarım yarışması, üniversite]
+tags: [eylül 2022, tasarım yarışması, genel]
 lastDate: 1661979600
 hidden: true
 dateHuman: "01 Eylül 2022"
