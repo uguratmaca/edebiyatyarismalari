@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ""Milli İrademizin Temsili, Bayrağımız" Fotoğraf Yarışması"
-description: "Yozgat Bozok Üniversitesi '"Milli İrademizin Temsili, Bayrağımız" Fotoğraf Yarışması' düzenliyor."
+title: "Milli İrademizin Temsili, Bayrağımız Fotoğraf Yarışması"
+description: "Yozgat Bozok Üniversitesi Milli İrademizin Temsili, Bayrağımız Fotoğraf Yarışması düzenliyor."
 category: articles
 tags: [haziran 2022, fotoğraf yarışması, üniversite]
 lastDate: 1656277200
@@ -14,7 +14,7 @@ price: "6 Bin TL'dir."
 requirements: "Türkiye'de üniversite öğrencisi olan amatör ve profesyonel bütün fotoğrafçılar katılabilir."
 permalink: "bayragimiz-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/mayis/bayragimiz-fotograf-yarismasi.jpg"
-excerpt:  "Yozgat Bozok Üniversitesi <strong> "Milli İrademizin Temsili, Bayrağımız" Fotoğraf Yarışması </strong> düzenliyor."
+excerpt:  "Yozgat Bozok Üniversitesi <strong>Milli İrademizin Temsili, Bayrağımız Fotoğraf Yarışması</strong> düzenliyor."
 ---
 
 ## "Milli İrademizin Temsili, Bayrağımız" Fotoğraf Yarışması
