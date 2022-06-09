@@ -38,4 +38,4 @@ Değerlendirme:
 - Yayınevi de her eser için 1-100 puan arası değerlendirmesini ekleyecek ve her eser için bu 4 puanın ortalaması alınacaktır.
 - Her ay Yol Akademinin bu yarışma için ayırdığı bütçe ölçüsünde yarışma havuzunda değerlendirilmiş bulunan eserlerin en yüksek puana sahip olanları kitaplaştırılıp yayınlanacaktır. Kaç adet kitabın yayınlanacağı kazanan eserlerin baskı maliyetlerine bağlı olmasına rağmen her ay en az 10 adet ücretsiz kitap ödülü vermeyi planlamaktayız.
 
-### [Başvuru Formu](https://www.kitabiniyayinla.com/ucretsiz-kitap-basimi-katil/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://www.yolakademiyayinevi.com/roman-yarismasi-2022/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
