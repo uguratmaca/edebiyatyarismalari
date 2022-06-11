@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2023 Seyhan Livaneli Öykü Yarışması"
-description: "İstanbul Üsküdar Lisesi Müdürlüğü '2023 Seyhan Livaneli Öykü Yarışması' düzenliyor."
+title: "Küçürek Öykü Yarışması"
+description: "İstanbul Üsküdar Lisesi Müdürlüğü 'Küçürek Öykü Yarışması' düzenliyor."
 category: articles
 tags: [eylül 2022, hikaye yarışması, lise]
 lastDate: 1662670800
@@ -12,11 +12,11 @@ organizer: "İstanbul Üsküdar Lisesi Müdürlüğü"
 requirements: "İstanbul'daki lise öğrencileri katılabilir."
 permalink: "kucurek-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/haziran/kucurek-oyku-yarismasi.jpg"
-excerpt:  "İstanbul Üsküdar Lisesi Müdürlüğü <strong> 2023 Seyhan Livaneli Öykü Yarışması </strong> düzenliyor."
+excerpt:  "İstanbul Üsküdar Lisesi Müdürlüğü <strong> Küçürek Öykü Yarışması </strong> düzenliyor."
 ---
 
-## 2023 Seyhan Livaneli Öykü Yarışması
-İstanbul Üsküdar Lisesi Müdürlüğü **2023 Seyhan Livaneli Öykü Yarışması** düzenliyor.  
+## Küçürek Öykü Yarışması
+İstanbul Üsküdar Lisesi Müdürlüğü **Küçürek Öykü Yarışması** düzenliyor.  
 
 Katılım Koşulları:
 - Yarışma İstanbul ili sınırları içindeki Ortaöğretim, Din Öğretimi, Mesleki ve Teknik Öğretim Genel Müdürlüğüne bağlı tüm özel-resmi liselerde (Resmi Anadolu Lisesi, Resmi Çok Programlı Anadolu Lisesi, Resmi Fen Lisesi, Resmi Güzel Sanatlar Lisesi, Resmi İmam-Hatip Anadolu Lisesi, Resmi Meslekî ve Teknik Anadolu Lisesi, Resmi Spor Lisesi, Resmi Sosyal Bilimler Lisesi, Özel Anadolu Lisesi, Özel Akşam Lisesi, Özel Fen Lisesi, Özel Meslekî ve Teknik Anadolu Lisesi, Özel Temel Lise, Özel Güzel Sanatlar Lisesi) öğrenim gören öğrencilere açıktır.
@@ -38,7 +38,7 @@ belirtilecek tüm bilgilerin doğruluğu, imza sahibini bağlar. Bu bilgiler ned
 sorumluluk imza sahibine aittir.
 - Eserler e-posta yoluyla gönderilebildiği için engelli bireylerin yarışmaya katılmaları konusunda herhangi bir sakınca bulunmamaktadır.
 
-### 2023 Seyhan Livaneli Öykü Yarışması Ödülleri
+### Küçürek Öykü Yarışması Ödülleri
 - Birinci: Birincilik Kupası + Plaket + Kitap Seti
 - İkinci: İkincilik Kupası + Kitap Seti
 - Üçüncü: Plaket + Kitap Seti
