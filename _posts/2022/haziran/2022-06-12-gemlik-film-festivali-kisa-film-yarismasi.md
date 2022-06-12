@@ -38,4 +38,4 @@ Katılım Koşulları:
 - Üçüncü: 10.000 TL
 - Mansiyon Ödülü: 5.000 TL
 
-### [Başvuru Formu](www.filmfreeway.com/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://filmfreeway.com/GemlikFilmFestivali/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
