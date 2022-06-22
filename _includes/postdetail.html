@@ -1,0 +1,54 @@
+<article>
+  <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
+  
+  {% if post.sticky %}
+  <em class="text-success">*Sponsorlu</em>
+  {% endif %}
+
+  <p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
+
+  {% if post.price %}
+  <p>🏆 Yarışmanın toplam para ödülü: <b>{{post.price}}</b></p>
+  {% endif %}
+
+  {% if post.requirements %}
+  <p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
+  {% endif %}
+
+  <p class="text-success">Yarışma başvurusu devam ediyor...</p>
+
+  <p>{{ post.excerpt }}</p>
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "url": "{{site.url}}{{post.url}}",
+      "publisher":{
+      "@type":"Organization",
+      "name":"Edebiyat Yarışmaları",
+      "logo":"https://edebiyatyarismalari.com/images/icons/icon-384x384.png"
+      },
+      "headline": "{{ post.title }}",
+      "mainEntityOfPage": "{{site.url}}{{post.url}}",
+      "image":["{{post.image}}"],
+      "datePublished":"{{ post.date }}",
+      "articleBody": "{{ post.excerpt }}",
+      "author": {
+        "@type": "Person",
+        "url": "https://edebiyatyarismalari.com/ugur-atmaca/",
+        "name": "Uğur Atmaca",
+        "givenName": "Uğur",
+        "familyName": "Atmaca",
+        "birthDate": "1987-01-06",
+        "birthPlace": {
+          "@type": "Place",
+          "address": "Polatli, Ankara, Turkey"
+        }
+      }
+    }
+  </script>
+
+</article>
+
+<hr>

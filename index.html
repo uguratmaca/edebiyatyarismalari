@@ -12,106 +12,40 @@ title: "Edebiyat Yarışmaları | Edebiyat Ödülleri"
 	{% assign counter = 0 %}
 
 	{% for post in site.posts %}
-	{% if post.sticky == true %}
-	{% if post.lastDate > nowDateInt %}
-	<article>
-		<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
-		<em class="text-success">*Sponsorlu</em>
-		<p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
-
-		{% if post.price %}
-		<p>🏆 Yarışmanın toplam para ödülü: <b>{{post.price}}</b></p>
-		{% endif %}
-
-		{% if post.requirements %}
-		<p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
-		{% endif %}
-
-		<p class="text-success">Yarışma başvurusu devam ediyor...</p>
-
-		<p>{{ post.excerpt }}</p>
-
-	</article>
-
-	<hr>
-	{% endif %}
-	{% endif %}
+		{% if post.hidden != true and post.sticky != true and post.lastDate > nowDateInt%}
+			{% assign counter = counter | plus:1 %}
+				{% if counter < 4 %} 
+					{% include postdetail.html %} 
+				{% endif %} 
+		{% endif %} 
 	{% endfor %}
 
 	{% for post in site.posts %}
-
-	{% if post.hidden != true and post.sticky != true %}
-
-	{% if post.lastDate > nowDateInt %}
-
-	{% assign counter=counter | plus:1 %}
-	{% if counter < 7 %} <article>
-		<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
-
-		<p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
-
-		{% if post.price %}
-		<p>🏆 Yarışmanın toplam para ödülü: <b>{{post.price}}</b></p>
+		{% if post.sticky == true and post.lastDate > nowDateInt %}
+			{% include postdetail.html %}
 		{% endif %}
+	{% endfor %}
 
-		{% if post.requirements %}
-		<p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
-		{% endif %}
+	{% for post in site.posts %}
+		{% if post.hidden != true and post.sticky != true and post.lastDate > nowDateInt%}
+			{% assign counter2 = counter2 | plus:1 %}
+				{% if counter2 > 3 and counter2 < 7 %} 
+					{% include postdetail.html %} 
+				{% endif %} 
+		{% endif %} 
+	{% endfor %}
 
-		<p class="text-success">Yarışma başvurusu devam ediyor...</p>
-
-		<p>{{ post.excerpt }}</p>
-
-		<script type="application/ld+json">
-			{
-				"@context": "https://schema.org",
-				"@type": "NewsArticle",
-				"url": "{{site.url}}{{post.url}}",
-				"publisher":{
-				"@type":"Organization",
-				"name":"Edebiyat Yarışmaları",
-				"logo":"https://edebiyatyarismalari.com/images/icons/icon-384x384.png"
-				},
-				"headline": "{{ post.title }}",
-				"mainEntityOfPage": "{{site.url}}{{post.url}}",
-				"image":["{{post.image}}"],
-				"datePublished":"{{ post.date }}",
-				"articleBody": "{{ post.excerpt }}",
-				"author": {
-					"@type": "Person",
-					"url": "https://edebiyatyarismalari.com/ugur-atmaca/",
-					"name": "Uğur Atmaca",
-					"givenName": "Uğur",
-					"familyName": "Atmaca",
-					"birthDate": "1987-01-06",
-					"birthPlace": {
-						"@type": "Place",
-						"address": "Polatli, Ankara, Turkey"
-					}
-				}
-			}
-		</script>
-
-		</article>
-
-		<hr>
-
-		{% endif %}
-		{% endif %}
-		{% endif %}
-		{% endfor %}
-
-		<section class="row mb-5">
-			<section class="col-2 d-none d-md-block"></section>
-			<section class="col">
-				<ul class="pagination">
-					<li class="page-item active"><a class="page-link btn-lg" href="{{site.url}}/">1</a></li>
-					<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/sayfa2/">2</a></li>
-					<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/sayfa3/">3</a></li>
-					<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/sayfa4/">4</a></li>
-					<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/sayfa5/">5</a></li>
-				</ul>
-			</section>
-			<section class="col-2 d-none d-md-block"></section>
-		</section>
+	<section class="row mb-5">
+	<section class="col-2 d-none d-md-block"></section>
+	<section class="col">
+		<ul class="pagination">
+			<li class="page-item active"><a class="page-link btn-lg" href="{{site.url}}/">1</a></li>
+			<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/sayfa2/">2</a></li>
+			<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/sayfa3/">3</a></li>
+			<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/sayfa4/">4</a></li>
+			<li class="page-item"><a class="page-link btn-lg" href="{{site.url}}/sayfa5/">5</a></li>
+		</ul>
+	</section>
+	<section class="col-2 d-none d-md-block"></section>
+</section>
 </section>

@@ -12,70 +12,14 @@ description: "Güncel edebiyat yarışmalarının 4. sayfasındasınız."
 	{% assign nowDateInt = nowunix | plus: 0 %}
 	{% assign counter = 0 %}
 
-	{% for post in site.posts %}
-	
-	{% if post.hidden != true and post.sticky != true %}
-	{% if post.lastDate > nowDateInt %}
-	
+	{% for post in site.posts %}    
+		{% if post.hidden != true and post.sticky != true and post.lastDate > nowDateInt%}
+			{% assign counter=counter | plus:1 %}
 
-	{% assign counter=counter | plus:1 %}
-	{% if counter > 20  %}
-	{% if counter < 28  %}
-
-	<article>
-		<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
-
-		<p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
-
-		{% if post.price %}
-		<p>🏆 Yarışmanın toplam para ödülü: <b>{{post.price}}</b></p>
+			{% if counter > 20 and  counter < 28  %}		
+				{% include postdetail.html %}
+			{% endif %}	
 		{% endif %}
-
-		{% if post.requirements %}
-		<p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
-		{% endif %}
-
-		<p class="text-success">Yarışma başvurusu devam ediyor...</p>
-		<p>{{ post.excerpt }}</p>
-
-		<script type="application/ld+json">
-			{
-				"@context": "https://schema.org",
-				"@type": "NewsArticle",
-				"url": "{{site.url}}{{post.url}}",
-				"publisher":{
-				"@type":"Organization",
-				"name":"Edebiyat Yarışmaları",
-				"logo":"https://edebiyatyarismalari.com/images/icons/icon-384x384.png"
-				},
-				"headline": "{{ post.title }}",
-				"mainEntityOfPage": "{{site.url}}{{post.url}}",
-				"image":["{{post.image}}"],
-				"datePublished":"{{ post.date }}",
-				"articleBody": "{{ post.excerpt }}",
-				"author": {
-					"@type": "Person",
-					"url": "https://edebiyatyarismalari.com/ugur-atmaca/",
-					"name": "Uğur Atmaca",
-					"givenName": "Uğur",
-					"familyName": "Atmaca",
-					"birthDate": "1987-01-06",
-					"birthPlace": {
-						"@type": "Place",
-						"address": "Polatli, Ankara, Turkey"
-					}
-				}
-			}
-		</script>
-
-	</article>
-
-	<hr>
-
-	{% endif %}
-	{% endif %}
-	{% endif %}
-	{% endif %}
 	{% endfor %}
 
 	<section class="row mb-5">

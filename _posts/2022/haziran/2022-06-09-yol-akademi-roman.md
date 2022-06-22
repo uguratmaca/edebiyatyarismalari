@@ -10,6 +10,7 @@ dateHuman: "1 Ocak 2023"
 comTopic: "Serbest"
 attendance: "Websitesi"
 requirements: "İsteyen herkes katılabilir."
+sticky: true
 permalink: "yol-akademi-roman-oyku-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/ocak/roman-oyku-siir-yarismasi.jpeg"
 excerpt: "Yol Akademi olarak yayıncılıktan kazandığımızın bir kısmını, yeni yazarları okuyucuları buluşturmak için kullanacağız. Bu kapsamda <strong>Roman, Öykü ve Şiir yarışmaları</strong>mızı duyuruyoruz."

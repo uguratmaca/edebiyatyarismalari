@@ -9,67 +9,9 @@ layout: default
 		<span>{{page.subline}}</span>
 	</section>
 
-	{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-	{% assign nowDateInt = nowunix | plus: 0 %}
-
 	{% for post in site.posts %}
-	{% if post.tags contains page.key %}
-	<section>
-		<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
-
-		{% if post.dateHuman %}
-		<p>🗓️ Yarışmanın son başvuru tarihi: <b>{{post.dateHuman}}</b></p>
+		{% if post.tags contains page.key %}
+			{% include postdetail.html %}
 		{% endif %}
-
-		{% if post.price %}
-		<p>🏆 Yarışmanın toplam para ödülü: <b>{{post.price}}</b></p>
-		{% endif %}
-
-		{% if post.requirements %}
-		<p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
-		{% endif %}
-
-		{% if post.dateHuman %}
-		{% if post.lastDate > nowDateInt %}
-		<p class="text-success">Yarışma başvurusu devam ediyor...</p>
-		{% else %}
-		<p class="text-danger">Yarışma başvurusu bitti!</p>
-		{% endif %}
-		{% endif %}
-
-		<p>{{ post.excerpt }}</p>
-		
-		<script type="application/ld+json">
-			{
-				"@context": "https://schema.org",
-				"@type": "NewsArticle",
-				"url": "{{site.url}}{{post.url}}",
-				"publisher":{
-				"@type":"Organization",
-				"name":"Edebiyat Yarışmaları",
-				"logo":"https://edebiyatyarismalari.com/images/icons/icon-384x384.png"
-				},
-				"headline": "{{ post.title }}",
-				"mainEntityOfPage": "{{site.url}}{{post.url}}",
-				"image":["{{post.image}}"],
-				"datePublished":"{{ post.date }}",
-				"articleBody": "{{ post.excerpt }}",
-				"author": {
-					"@type": "Person",
-					"url": "https://edebiyatyarismalari.com/ugur-atmaca/",
-					"name": "Uğur Atmaca",
-					"givenName": "Uğur",
-					"familyName": "Atmaca",
-					"birthDate": "1987-01-06",
-					"birthPlace": {
-						"@type": "Place",
-						"address": "Polatli, Ankara, Turkey"
-					}
-				}
-			}
-		</script>
-	</section>
-	<hr>
-	{% endif %}
 	{% endfor %}
 </section>
