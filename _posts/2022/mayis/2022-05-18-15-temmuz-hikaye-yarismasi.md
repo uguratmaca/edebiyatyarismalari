@@ -3,7 +3,7 @@ layout: post
 title: "15 Temmuz Milli Uyanışı Hikaye Yarışması"
 description: "Düzce Üniversitesi '15 Temmuz Milli Uyanışı Hikaye Yarışması' düzenliyor."
 category: articles
-tags: [haziran 2022, hikaye yarışması, üniversite]
+tags: [haziran 2022, hikaye yarışması, üniversite, 15 temmuz]
 lastDate: 1656536400
 dateHuman: "30 Haziran 2022"
 comTopic: "15 Temmuz Milli Uyanışı"
