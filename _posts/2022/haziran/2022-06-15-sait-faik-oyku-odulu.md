@@ -3,7 +3,7 @@ layout: post
 title: "2022 Sait Faik Öykü Ödülü"
 description: "Nilüfer Belediyesi '2022 Sait Faik Öykü Ödülü' düzenliyor."
 category: articles
-tags: [ağustos 2022, hikaye yarışması, genel]
+tags: [ağustos 2022, hikaye yarışması, genel, sait faik abasıyanık]
 lastDate: 1661461200
 dateHuman: "26 Ağustos 2022"
 comTopic: "Serbest"
