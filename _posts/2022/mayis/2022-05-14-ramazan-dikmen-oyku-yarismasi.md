@@ -39,4 +39,4 @@ Katılım Koşulları:
 - Mansiyon Ödülü (3 Adet): 1.000 TL
 
 
-### [Başvuru Formu](yarisma.dursunbey.bel.tr){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](http://yarisma.dursunbey.bel.tr/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
