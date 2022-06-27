@@ -9,6 +9,7 @@ dateHuman: "18 Kasım 2022"
 comTopic: "Ne Eğitimde Ne İstihdamda Yer Alan Genç Kadınlar"
 attendance: "Websitesi"
 organizer: "Sabancı Vakfı"
+hidden: true
 price: "60 Bin TL'dir."
 requirements: "TC veya KKTC vatandaşı olan herkes katılabilir."
 permalink: "sabanci-vakfi-kisa-film-yarismasi"

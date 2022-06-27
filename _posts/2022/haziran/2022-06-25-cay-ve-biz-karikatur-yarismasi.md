@@ -8,6 +8,7 @@ lastDate: 1660078800
 dateHuman: "10 Ağustos 2022"
 comTopic: "Çay ve Biz"
 attendance: "E-posta"
+hidden: true
 organizer: "Fındıklı Belediyesi"
 requirements: "Amatör ve profesyonel tüm karikatürcüler katılabilir."
 permalink: "cay-ve-biz-karikatur-yarismasi"

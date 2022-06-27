@@ -8,6 +8,7 @@ lastDate: 1659128400
 dateHuman: "30 Temmuz 2022"
 comTopic: "Değişen Hayatlar"
 attendance: "E-Posta"
+hidden: true
 organizer: "Anadolu Üniversitesi"
 requirements: "Anadolu Üniversitesi Açıköğretim Sistemi öğrencileri katılabilir."
 permalink: "degisen-hayatlar-kisa-film-yarismasi"
