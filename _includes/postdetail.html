@@ -1,6 +1,9 @@
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% assign nowDateInt = nowunix | plus: 0 %}
+
 <article>
   <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
-  
+
   {% if post.sticky %}
   <em class="text-success">*Sponsorlu</em>
   {% endif %}
@@ -15,7 +18,11 @@
   <p>❗ Yarışmadaki kısıtlar: <b>{{post.requirements}}</b></p>
   {% endif %}
 
+  {% if post.lastDate > nowDateInt %}
   <p class="text-success">Yarışma başvurusu devam ediyor...</p>
+  {% else %}
+  <p class="text-danger">Yarışma başvurusu bitti!</p>
+  {% endif %}
 
   <p>{{ post.excerpt }}</p>
 

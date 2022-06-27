@@ -26,6 +26,10 @@ title: "Edebiyat Yarışmaları | Edebiyat Ödülleri"
 		{% endif %}
 	{% endfor %}
 
+	<a href="https://www.makaleyaz.net/?ref=edebiyatyarismalari.com" target="_blank" class="gtag">
+        <img src="{{site.url}}/images/genel/makale-yaz-net.gif" alt="MakaleYaz.net">
+    </a>
+
 	{% for post in site.posts %}
 		{% if post.hidden != true and post.sticky != true and post.lastDate > nowDateInt%}
 			{% assign counter2 = counter2 | plus:1 %}
