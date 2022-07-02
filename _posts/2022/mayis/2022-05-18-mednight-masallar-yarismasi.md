@@ -3,9 +3,9 @@ layout: post
 title: "‘Mednight’tan Masallar Yarışması"
 description: "Akdeniz Araştırmacıları Gecesi '‘Mednight’tan Masallar Yarışması' düzenliyor."
 category: articles
-tags: [haziran 2022, masal yarışması, genel]
-lastDate: 1656536400
-dateHuman: "30 Haziran 2022"
+tags: [temmuz 2022, masal yarışması, genel]
+lastDate: 1659042000
+dateHuman: "29 Temmuz 2022"
 comTopic: "Sağlık, Akdeniz, antropoloji ve tarih, kirlilik, biyolojik çeşitlilik, kadın ve bilim, iklim acil durumu, jeoloji, mühendislik, diyet ve beslenme, temiz enerji, ve astronomi."
 attendance: "Websitesi"
 organizer: "Akdeniz Araştırmacıları Gecesi"
