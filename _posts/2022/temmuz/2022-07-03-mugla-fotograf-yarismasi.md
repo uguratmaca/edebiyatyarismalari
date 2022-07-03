@@ -8,7 +8,7 @@ lastDate: 1659646800
 hidden: true
 dateHuman: "05 Ağustos 2022"
 comTopic: "Büyük Taarruz 30 Ağustos Zafer Bayramı"
-attendance: "Kargo/Posta/Elden"
+attendance: "Websitesi"
 organizer: "Muğla Büyükşehir Belediyesi"
 price: "34 Bin 500 TL'dir."
 requirements: "İsteyen herkes katılabilir."
@@ -53,3 +53,5 @@ bilgi verilmesi gerekmektedir. Bu iletişim formu yalnızca olası sorunların �
 - Mansiyon: 3.000 TL
 - Nevzat Çakır Özel Ödülü: 2.000 TL
 - Sergileme (En fazla 30 adet): 250 TL 
+
+### [Başvuru Formu](https://tfsfonayliyarismalar.org/tr/yarisma/detay/mugla-bueyueksehir-belediyesi-5-ulusal-fotograf-yarismasi-tr/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
