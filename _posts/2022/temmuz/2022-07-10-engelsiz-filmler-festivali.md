@@ -31,4 +31,4 @@ Katılım Koşulları:
 - En İyi Senaryo: 500 $ (USD) 
 
 
-### [Başvuru Formu](filmfreeway.com/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://filmfreeway.com/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
