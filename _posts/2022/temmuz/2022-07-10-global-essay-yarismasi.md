@@ -26,4 +26,4 @@ Katılım Koşulları:
 ### Global Essay Yarışması Ödülleri
 - Kazanan makaleler nakit ödüller alacak.
 
-### [Başvuru Formu](https://docs.google.com/forms/d/e/1FAIpQLSdrTPrVOgS2wAScP72vObLIK7zAnSE92qAbAvWrMv-G3WsZXQ/viewform/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://docs.google.com/forms/d/e/1FAIpQLSdrTPrVOgS2wAScP72vObLIK7zAnSE92qAbAvWrMv-G3WsZXQ/viewform){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
