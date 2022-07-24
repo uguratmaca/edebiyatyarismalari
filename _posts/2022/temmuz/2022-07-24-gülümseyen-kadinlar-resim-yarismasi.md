@@ -8,7 +8,7 @@ lastDate: 1659819600
 hidden: true
 dateHuman: "07 Ağustos 2022"
 comTopic: "Gül’ümseyen Kadınlar"
-attendance: "Websitesi"
+attendance: "Elden/Kargo"
 organizer: "KADEM Isparta Temsilciliği"
 price: "21 Bin TL'dir."
 requirements: "Konuya ilgi duyan, başvurunun son günü itibariyle 18 yaşını doldurmuş olan tüm amatör veya profesyonel sanatçılar katılabilir."
