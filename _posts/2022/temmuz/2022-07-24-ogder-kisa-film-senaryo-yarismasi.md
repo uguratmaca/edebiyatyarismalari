@@ -4,7 +4,7 @@ title: "11. Kısa Film Senaryo Yarışması"
 description: "ÖĞ-DER Şuurlu Öğretmenler Derneği Genel Merkezi Tanıtma Komisyonu Başkanlığı '11. Kısa Film Senaryo Yarışması' düzenliyor."
 category: articles
 tags: [ekim 2022, kısa film yarışması, genel]
-lastDate: 1669064400
+lastDate: 1666386000
 dateHuman: "22 Ekim 2022"
 comTopic: "Engelli Olmak"
 attendance: "Elden/Kargo/Posta"
