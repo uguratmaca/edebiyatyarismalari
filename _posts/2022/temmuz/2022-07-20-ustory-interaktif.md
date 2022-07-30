@@ -38,7 +38,7 @@ Eserlerinizin, belirleyeceğiniz uzmanlık alanına ilgi duyan ya da duyabilecek
 - Yarışmaya katılacak hikâyenin interaktif bir biçimde ele alınması zorunludur. (Örnek interaktif hikâyelere uStory mobil uygulaması üzerinden erişim sağlanabilir) 
 - **İnteraktif hikâyeler** en az 4 farklı sonu olmalı ve genel toplamda 3000 kelime üzeri olmalıdır.
 - Hikâye yapısı en az 4 seçim yapılacak şekilde oluşturulmalıdır. (Okuyucu okumaya başladıktan sonra herhangi bir sona ulaşmak için en az 4 seçim yapabilmelidir.)
-![uStory Ağaç Yapısı]([http://url/to/img.png](https://edebiyatyarismalari.com/images/2022/temmuz/ustory-agac-yapisi.jpeg))
+![uStory Ağaç Yapısı](https://edebiyatyarismalari.com/images/2022/temmuz/ustory-agac-yapisi.jpeg)
 - Hikâyeler Twine programında yazılmalı ve bu uygulamadan alınan “HTML” uzantılı hikâye dosyası yazar paneli üzerinden iletilmelidir. (Twine program indirme linki: https://twinery.org/)(Twine Tanıtım videosu: https://www.youtube.com/watch?v=wITYovkHaQA&ab_channel=uStory)
 - Hikâyelerde tür kısıtlaması yoktur.
 - Hikâyeler daha önceden hiçbir yerde (basılı ve dijital olarak) yayınlanmamış, herhangi bir yarışmaya katılmamış ve ödül almamış olmalıdır.
