@@ -41,12 +41,12 @@ Katılım Koşulları:
 ### Kadın Öyküleri Ödülleri
 Öykü Kategorisi:
 - Birinci: 5.000 TL + Plaket
-- İkinci: 4.000TL + Plaket
-- Üçüncü: 3.000TL + Plaket
-- Jüri Özel Ödülü: 2.500TL + Plaket
+- İkinci: 4.000 TL + Plaket
+- Üçüncü: 3.000 TL + Plaket
+- Jüri Özel Ödülü: 2.500 TL + Plaket
 
 Şiir Kategorisi:
 - Birinci: 5.000 TL + Plaket
-- İkinci: 4.000TL + Plaket
-- Üçüncü: 3.000TL + Plaket
-- Jüri Özel Ödülü: 2.500TL + Plaket
+- İkinci: 4.000 TL + Plaket
+- Üçüncü: 3.000 TL + Plaket
+- Jüri Özel Ödülü: 2.500 TL + Plaket
