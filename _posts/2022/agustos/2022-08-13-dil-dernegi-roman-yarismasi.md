@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Dil Derneği Beşir Göğüş Çocuk Romanı Yarışması"
-description: "Dil Derneği 'Beşir Göğüş Çocuk Romanı Yarışması' düzenliyor."
+title: "Dil Derneği Beşir Göğüş Çocuk Roman Yarışması"
+description: "Dil Derneği 'Beşir Göğüş Çocuk Roman Yarışması' düzenliyor."
 category: articles
 tags: [ocak 2023, roman yarışması, genel]
 lastDate: 1667250000
@@ -12,11 +12,11 @@ price: "4 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "dil-dernegi-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/agustos/dil-dernegi-roman-yarismasi.jpg"
-excerpt:  "Dil Derneği <strong> Beşir Göğüş Çocuk Romanı Yarışması </strong> düzenliyor."
+excerpt:  "Dil Derneği <strong> Beşir Göğüş Çocuk Roman Yarışması </strong> düzenliyor."
 ---
 
-## Dil Derneği Beşir Göğüş Çocuk Romanı Yarışması
-Dil Derneği **Beşir Göğüş Çocuk Romanı Yarışması** düzenliyor.  
+## Dil Derneği Beşir Göğüş Çocuk Roman Yarışması
+Dil Derneği **Beşir Göğüş Çocuk Roman Yarışması** düzenliyor.  
 
 Katılım Koşulları:
 - Ödüle, çocuklarımızın dil bilincini besleyen, Türkçenin olanaklarını ve Türkçe sözcükleri doğru kullanarak onları okumaya, yazmaya ve konuşmaya özendiren, çocuklar için yazılan, dil duyarlılığı yüksek bir roman aday olabilir.
@@ -29,5 +29,5 @@ Katılım Koşulları:
 - Ödüle Dil Derneği yönetim kurulu üyeleri aday olamazlar.
 
 
-### Dil Derneği Beşir Göğüş Çocuk Romanı Yarışması Ödülleri
+### Dil Derneği Beşir Göğüş Çocuk Roman Yarışması Ödülleri
 - Birinci: 4.000 TL 
