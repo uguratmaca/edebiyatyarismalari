@@ -27,10 +27,10 @@ https://edebiyatyarismalari.com/resat-nuri-guntekin-yarismalari/
 sait faik abasıyanık
 https://edebiyatyarismalari.com/sait-faik-abasiyanik-yarismalari/
 
-Local Serve  
+## Local Serve  
 - bundle install
 - jekyll serve
 
-Date  
+## Date  
 - https://jsbin.com/yodinefodu/edit?js,console
 - console.log(new Date(2022,4,9).getTime()/1000)
