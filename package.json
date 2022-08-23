@@ -1,14 +1,13 @@
 {
-  "name": "white-paper",
-  "version": "1.0.0",
+  "name": "edebiyat-yarismalari",
+  "version": "1.0.1",
   "private": true,
   "engines": {
     "node": "7.5.0"
   },
   "devDependencies": {
     "grunt-contrib-concat": "^0.5.1",
-    "grunt-contrib-cssmin": "^4.0.0",
-    "grunt-rtlcss": "^2.0.1"
+    "grunt-contrib-cssmin": "^4.0.0"
   },
   "dependencies": {
     "grunt": "^1.5.3"

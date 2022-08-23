@@ -12,4 +12,6 @@ description: "2022 yılında düzenlenmiş olan tüm kitap okuma yarışması, �
    <li class='nav-item'><a class='nav-link' href='/mart-2022-yarismalar/'>Mart 2022 Yarışmaları</a></li>
    <li class='nav-item'><a class='nav-link' href='/nisan-2022-yarismalar/'>Nisan 2022 Yarışmaları</a></li>
    <li class='nav-item'><a class='nav-link' href='/mayis-2022-yarismalar/'>Mayıs 2022 Yarışmaları</a></li>
+   <li class='nav-item'><a class='nav-link' href='/haziran-2022-yarismalar/'>Haziran 2022 Yarışmaları</a></li>
+   <li class='nav-item'><a class='nav-link' href='/temmuz-2022-yarismalar/'>Temmuz 2022 Yarışmaları</a></li>
 </ul>
