@@ -3,9 +3,9 @@ layout: post
 title: "Emek Şiir Ödülü"
 description: "Odunpazarı Belediyesi, Sağlık ve Sosyal Hizmet Emekçileri Sendikası (SES) Eskişehir Şubesi 'Emek Şiir Ödülü' düzenliyor."
 category: articles
-tags: [ağustos 2022, şiir yarışması, genel]
-lastDate: 1659301200
-dateHuman: "01 Ağustos 2022"
+tags: [ekim 2022, şiir yarışması, genel]
+lastDate: 1665781200
+dateHuman: "15 Ekim 2022"
 comTopic: "Serbest"
 attendance: "Kargo/Posta"
 organizer: "Odunpazarı Belediyesi, Sağlık ve Sosyal Hizmet Emekçileri Sendikası (SES) Eskişehir Şubesi"
@@ -24,8 +24,7 @@ Katılım Koşulları:
 - Ödüle katılacak eserlerin yedi nüshası belirtilen adrese ayrı bir zarfta kısa özgeçmiş ve iletişim adresiyle birlikte gönderilecektir. Kargodan dolayı oluşacak aksaklıklardan ödül komitesi sorumlu değildir.
 - Ödül bir kişiye verilecek, bölüştürülmeyecektir.
 - Katılan dosyalar sahiplerine geri gönderilmeyecektir.
-- Son başvuru tarihi 1 Ağustos 2022 çalışma saati bitimine kadardır.
-- Sonuç 1 Eylül 2022 tarihinde açıklanacak ödül töreni ve yeri ile ilgili açıklamalar ayrı bir basın bülteniyle bildirilecektir.
+- Son başvuru tarihi 15 Ekim 2022 çalışma saati bitimine kadardır.
 - Eserlerin gönderileceği adres: Dr. Birtürk Özkavak  71 Evler Aile Sağlığı Merkezi- 71 Evler Mah. Dolunay Sok. No 98 Odunpazarı/ Eskişehir.
 
 
