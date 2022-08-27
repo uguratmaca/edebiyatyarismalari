@@ -3,7 +3,7 @@ layout: post
 title: "Göç Yılı Resim Yarışması"
 description: "Lüleburgaz Belediyesi 'Göç Yılı Resim Yarışması' düzenliyor."
 category: articles
-tags: [kasım 2022, resim yarışması, genel]
+tags: [kasım 2022, resim yarışması,üniversite, genel]
 lastDate: 1668114000
 hidden: true
 dateHuman: "11 Kasım 2022"
