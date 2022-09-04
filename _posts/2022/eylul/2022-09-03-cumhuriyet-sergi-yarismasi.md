@@ -17,7 +17,7 @@ excerpt:  "Antalya Kepez Belediyesi <strong> 99. Yıla Özel 99 Eser Cumhuriyet 
 ---
 
 ## 99. Yıla Özel 99 Eser Cumhuriyet Sergisi Yarışması
-Antalya Kepez Belediyesi **Konya Alaeddin Tepesi,II. Kılıçarslan Köşkü ve Kazı Alanı Mimari Fikir Projesi Yarışması** düzenliyor.
+Antalya Kepez Belediyesi **99. Yıla Özel 99 Eser Cumhuriyet Sergisi Yarışması** düzenliyor.
 
 Katılım Koşulları:
 - Yarışma; ulusal ve uluslar arası sanatçıların katılımına açıktır. Yaş sınırı yoktur. 
