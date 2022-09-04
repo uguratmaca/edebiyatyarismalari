@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VAOB Logo Tasarım Yarışması"
-description: "Van Akademik Odaları Birliği (VAOB) 'VAOB Logo Tasarım Yarışması' tasarım yarışması düzenliyor."
+description: "Van Akademik Odaları Birliği (VAOB) 'VAOB Logo Tasarım Yarışması' düzenliyor."
 category: articles
 tags: [eylül 2022, tasarım yarışması, genel]
 lastDate: 1664485200
@@ -14,11 +14,11 @@ price: "7 Bin 500 TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "vaob-logo-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/vaob-logo-tasarim-yarismasi.jpg"
-excerpt:  "Van Akademik Odaları Birliği (VAOB) <strong> VAOB Logo Tasarım Yarışması </strong> tasarım yarışması düzenliyor."
+excerpt:  "Van Akademik Odaları Birliği (VAOB) <strong> VAOB Logo Tasarım Yarışması </strong> düzenliyor."
 ---
 
 ## VAOB Logo Tasarım Yarışması
-Van Akademik Odaları Birliği (VAOB) **VAOB Logo Tasarım Yarışması** tasarım yarışması düzenliyor.  
+Van Akademik Odaları Birliği (VAOB) **VAOB Logo Tasarım Yarışması** düzenliyor.  
 
 Katılım Koşulları:
 - Yarışma herkesin katılımına açıktır. Ancak, meslek odalarına üye olan katılımcıların üyesi oldukları meslek odalarından alacakları, odaya kayıtlı olduklarına dair belgeyi sunmakla yükümlüdürler.
