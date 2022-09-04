@@ -16,7 +16,7 @@ excerpt:  "İBB Park Bahçe ve Yeşil Alanlar Dairesi Başkanlığı <strong> K�
 ---
 
 ## Küçükçekmece Lagünü Havzası Fikir Projesi Yarışması
-İBB Park Bahçe ve Yeşil Alanlar Dairesi Başkanlığı **Konya Alaeddin Tepesi,II. Kılıçarslan Köşkü ve Kazı Alanı Mimari Fikir Projesi Yarışması** düzenliyor.
+İBB Park Bahçe ve Yeşil Alanlar Dairesi Başkanlığı **Küçükçekmece Lagünü Havzası Fikir Projesi Yarışması** düzenliyor.
 
 Yarışmaya katılacaklarda aranacak koşullar şu şekildedir:
 - Türkiye Cumhuriyeti vatandaşı ve T.C. Kimlik Numarası sahibi olmak ve 1 Ocak 2004 tarihinden önce doğmuş olmak.

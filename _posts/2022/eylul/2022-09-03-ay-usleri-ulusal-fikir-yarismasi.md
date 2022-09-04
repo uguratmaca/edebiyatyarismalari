@@ -17,7 +17,7 @@ excerpt:  "Bursa Büyükşehir Belediyesi, Bursa Teknik Üniversitesi, Bursa İl
 ---
 
 ## Türkiye Ay Üsleri Ulusal Fikir Yarışması
-Bursa Büyükşehir Belediyesi, Bursa Teknik Üniversitesi, Bursa İl Milli Eğitim Müdürlüğü, GUHEM **Konya Alaeddin Tepesi,II. Kılıçarslan Köşkü ve Kazı Alanı Mimari Fikir Projesi Yarışması** düzenliyor.
+Bursa Büyükşehir Belediyesi, Bursa Teknik Üniversitesi, Bursa İl Milli Eğitim Müdürlüğü, GUHEM **Türkiye Ay Üsleri Ulusal Fikir Yarışması** düzenliyor.
 
 Lise ve Orta Öğretim Öğrencileri İçin Katılım Koşulları:
 - Paftaların Standardı ve İçeriği: 2 adet 100 cm X 70 cm boyutlarında pafta dikey (portrait) oryantasyon. 1x2 olacak şekilde yan yana kullanılmalıdır. (her pafta ayrı dosyada olmalıdır) Gerekli görülen miktarda plan, kesit, görünüm, modelleme, kavramsal şemalar ve görsel temsiller ile yazılı açıklamalar. Teslimler .rar formatında **yarışma e-mail** adresine gönderilecektir. (Dosya toplam boyutlarının mail kotasını aşması halinde wetransfer dosya paylaşım platformu kullanılmalıdır.)
