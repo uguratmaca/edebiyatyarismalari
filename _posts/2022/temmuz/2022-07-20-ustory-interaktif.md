@@ -4,7 +4,7 @@ title: "2. İnteraktif Hikâye Yarışması"
 description: "uStory İnteraktif Mesleki Kurgular konulu 2.İnteraktif Hikâye Yarışması düzenliyor."
 category: articles
 tags: [ekim 2022, hikaye yarışması, genel]
-lastDate: 1667163600
+lastDate: 1661032800
 dateHuman: "21 Ağustos 2022"
 comTopic: "İnteraktif Mesleki Kurgular"
 attendance: "Websitesi"
