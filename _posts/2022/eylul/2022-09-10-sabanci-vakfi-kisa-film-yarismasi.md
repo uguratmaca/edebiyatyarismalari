@@ -10,6 +10,7 @@ comTopic: "Ne Eğitimde Ne İstihdamda Yer Alan Genç Kadınlar"
 attendance: "Websitesi"
 organizer: "Sabancı Vakfı"
 price: "60 Bin TL'dir."
+hidden: true
 requirements: "İsteyen herkes katılabilir."
 permalink: "sabanci-vakfi-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/sabanci-vakfi-kisa-film-yarismasi.jpg"
