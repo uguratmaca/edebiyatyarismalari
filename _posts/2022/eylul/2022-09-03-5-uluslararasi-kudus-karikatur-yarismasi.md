@@ -12,6 +12,7 @@ price: "107 Bin 500 TL'dir."
 organizer: "Mirasımız Derneği"
 requirements: "Amatör ve profesyonel herkes katılabilir."
 permalink: "5-uluslararasi-kudus-karikatur-yarismasi"
+hidden: true
 image: "https://edebiyatyarismalari.com/images/2022/eylul/5-uluslararasi-kudus-karikatur-yarismasi.jpg"
 excerpt:  "Mirasımız Derneği  <strong> 5. Uluslararası Mirasımız Kudüs Karikatür Yarışması </strong> düzenliyor."
 ---
