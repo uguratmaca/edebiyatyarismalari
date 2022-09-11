@@ -10,6 +10,7 @@ comTopic: "Viyolonsel-Piyano Eseri"
 attendance: "Kargo/Posta"
 organizer: "Kadıköy Belediyesi Süreyya Operası"
 price: "37 Bin 500 TL'dir."
+hidden: true
 requirements: "36 yaşından küçük herkes katılabilir."
 permalink: "kadikoy-sureyya-operasi-ulusal-beste-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/kadikoy-sureyya-operasi-ulusal-beste-yarismasi.jpg"
