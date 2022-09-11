@@ -8,6 +8,7 @@ lastDate: 1667250000
 dateHuman: "1 Kasım 2022"
 comTopic: "İnsan Hakları"
 attendance: "E-posta"
+hidden: true
 organizer: "Avrupa Birliği Türkiye Delegasyonu"
 requirements: "Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir."
 permalink: "insan-haklari-kisa-film-yarismasi"
