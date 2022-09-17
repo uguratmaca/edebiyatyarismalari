@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hayalimdeki Barınak Resim Yarışması"
-description: "Beyoğlu Belediyesi 'Hayalimdeki Barınak Resim Yarışması' düzenliyor."
+title: "18. Doğançay Müzesi İstanbul Resim Yarışması"
+description: "Beyoğlu Belediyesi '18. Doğançay Müzesi İstanbul Resim Yarışması' düzenliyor."
 category: articles
 tags: [aralık 2022, resim yarışması, ortaokul]
 lastDate: 1670792400
@@ -13,11 +13,11 @@ organizer: "Beyoğlu Belediyesi"
 requirements: "İstanbul’da okuyan ortaokul 5, 6, 7, 8. sınıf öğrencileri katılabilir."
 permalink: "18-istanbul-dogancay-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/18-istanbul-dogancay-resim-yarismasi.jpg"
-excerpt:  "Beyoğlu Belediyesi <strong> Hayalimdeki Barınak Resim Yarışması </strong> düzenliyor."
+excerpt:  "Beyoğlu Belediyesi <strong> 18. Doğançay Müzesi İstanbul Resim Yarışması </strong> düzenliyor."
 ---
 
-## Hayalimdeki Barınak Resim Yarışması
-Beyoğlu Belediyesi **Hayalimdeki Barınak Resim Yarışması** düzenliyor.  
+## 18. Doğançay Müzesi İstanbul Resim Yarışması
+Beyoğlu Belediyesi **18. Doğançay Müzesi İstanbul Resim Yarışması** düzenliyor.  
 
 Katılım Koşulları:
 - Yarışmanın konusu, çocuklarımızın yaratıcılığını ortaya koyabilmesi için serbest bırakılacaktır. 
@@ -29,7 +29,7 @@ Katılım Koşulları:
 - Resim görselleri 12 Aralık 2022 tarihine kadar e-mail üzerinden **info@dogancaymuseum.org** adresine gönderilecektir. 
 
 
-### Hayalimdeki Barınak Resim Yarışması Ödülleri
+### 18. Doğançay Müzesi İstanbul Resim Yarışması Ödülleri
 - 5 öğrenciye üstün başarı ödülü verilecektir.
 - 5 öğrenciye başarı ödülü verilecektir. 
 - Jürinin sergilenmeye değer bulduğu 30 öğrenciye sergilenme ödülü verilecektir.
