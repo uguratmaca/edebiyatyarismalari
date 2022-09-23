@@ -6,7 +6,7 @@ category: articles
 tags: [aralık 2022, şiir yarışması, genel]
 lastDate: 1672434000
 dateHuman: "31 Aralık 2022"
-attendance: "Websitesi"
+attendance: "Elden, Posta"
 organizer: "Kuşadası Eğitim Ve Geliştirme Vakfı (KEGEV)"
 price: "3 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
@@ -27,3 +27,8 @@ Katılım Koşulları:
 
 ### M. Sunullah Arısoy 2023 Şiir Ödülü Ödülleri
 - Ödül: 3.000 TL + Plaket
+
+#### Başvuru Adresi  
+KEGEV M.SUNULLAH ARISOY ŞİİR ÖDÜLÜ  
+SEYAKMER Dağ Mah. Deniz Sok. No: 16  
+Kuşadası / AYDIN 09400
