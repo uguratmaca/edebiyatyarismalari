@@ -5,7 +5,7 @@ description: "Balad Şiir Vakfı 'Gülten Akın Şiir Ödülü' düzenliyor."
 category: articles
 tags: [ocak 2023, şiir yarışması, genel, kitap dosyası, edebiyat ödülleri]
 lastDate: 1672606800
-dateHuman: "02 Ocak 2022"
+dateHuman: "02 Ocak 2023"
 attendance: "Elden/Kargo"
 price: "5 Bin TL'dir."
 organizer: "Balad Şiir Vakfı"
