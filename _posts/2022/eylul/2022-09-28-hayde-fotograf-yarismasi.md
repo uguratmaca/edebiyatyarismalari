@@ -3,7 +3,7 @@ layout: post
 title: "2022 Pazar Fotoğraf Yarışması"
 description: "Pazar Kaymakamlığı '2022 Pazar Fotoğraf Yarışması' düzenliyor."
 category: articles
-tags: [kasım 2022, fotograf yarışması, genel]
+tags: [kasım 2022, fotoğraf yarışması, genel]
 lastDate: 1669755600
 hidden: true
 dateHuman: "30 Kasım 2022"
