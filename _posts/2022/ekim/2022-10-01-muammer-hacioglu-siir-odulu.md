@@ -18,7 +18,6 @@ excerpt:  "Artshop Yayıncılık ve Hacıoğlu Ailesi <strong> 2022 Muammer Hac�
 Artshop Yayıncılık ve Hacıoğlu Ailesi **2022 Muammer Hacıoğlu Şiir Ödülü** düzenliyor.  
 
 Katılım Koşulları:
-
 - Ödüle 1 Ocak 2022 ve 31 Aralık 2022 tarihleri arasında yayımlanmış bir kitap ya da yayına hazır bir dosya ile aday olunabilir. 
 - Kitap kategorisindeki başvurularda yaş sınırlaması yoktur. Dosya kategorisinde ise 35 ve 35 yaş altı şairler katılabilir.
 - Ödüle kişiler kendileri doğrudan katılabilir; kitap kategorisinde ise şair dışında, yayınevleri de şairin onayını almak koşuluyla katılabilir. Jüri üyeleri yarışmaya katılmayan bir şairi aday gösterebilir. Jüri ayrıca değer gördüğü eserlere “Jüri Özel Ödülü” verebilir.
