@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Öğrenciler Arası Resim Yarışması"
-description: "Milli Eğitim Bakanlığı 'Öğrenciler Arası Resim Yarışması' düzenliyor."
+title: "Öğrenciler Arası Şiir Yarışması"
+description: "Milli Eğitim Bakanlığı 'Öğrenciler Arası Şiir Yarışması' düzenliyor."
 category: articles
 tags: [ekim 2022, şiir yarışması, ortaokul, lise]
 lastDate: 1665694800
@@ -13,11 +13,11 @@ requirements: "Ortaokul ve lise öğrencileri katılabilir."
 price: "Tablet"
 permalink: "ortaokul-lise-ogretmen-olmak-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/ekim/ortaokul-lise-ogretmen-olmak-siir-yarismasi.jpg"
-excerpt:  "Milli Eğitim Bakanlığı <strong> Öğrenciler Arası Resim Yarışması </strong> düzenliyor."
+excerpt:  "Milli Eğitim Bakanlığı <strong> Öğrenciler Arası Şiir Yarışması </strong> düzenliyor."
 ---
 
-## Öğrenciler Arası Resim Yarışması
-Milli Eğitim Bakanlığı **Öğrenciler Arası Resim Yarışması** düzenliyor.  
+## Öğrenciler Arası Şiir Yarışması
+Milli Eğitim Bakanlığı **Öğrenciler Arası Şiir Yarışması** düzenliyor.  
 
 Katılım Koşulları:
 - Yarışmaya, Millî Eğitim Bakanlığına bağlı resmî/özel okullarda (ortaokul ve liselerde)  öğrenim gören öğrencilerimiz katılacaktır. 
@@ -26,7 +26,7 @@ Katılım Koşulları:
 - Şiirler dijital ortamda yazılacak, okul/kurum müdürlüğüne teslim edilecek, okul kurum müdürlüğü ilçe seçici kuruluna teslim edecek, ilçe seçici kurulu birinci şiiri seçerek il millî eğitim müdürlüğüne gönderecek, il millî eğitim müdürlüğü seçici kurulu lise ve ortaokul olmak üzere her iki kategori için il birincisi olan şiirleri Microsoft Word Belgesi (.docx) olarak Millî Eğitim Bakanlığı Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğüne DYS yolu ile ve  **oyg_ohskfdb@meb.gov.tr** e-posta adresine il/ilçe okul ve öğrenci adı belirtilerek gönderecektir. ( posta/kargo gönderi yapılmayacak)
 
 
-### Öğrenciler Arası Resim Yarışması Ödülleri
+### Öğrenciler Arası Şiir Yarışması Ödülleri
 Lise Ödülleri:
 - Birinci: Tablet
 - İkinci: Tablet
