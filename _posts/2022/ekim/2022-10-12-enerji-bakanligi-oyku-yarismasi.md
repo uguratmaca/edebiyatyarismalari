@@ -18,6 +18,7 @@ excerpt:  "Enerji Bakanlığı <strong> öykü yarışması </strong> düzenliyo
 ## Enerji Bakanlığı Öykü Yarışması 
 Enerji Bakanlığı **öykü yarışması** düzenliyor.  
 
+
 Katılım Koşulları:
 - Yarışmaya Milli Eğitim Bakanlığına bağlı resmi ve özel ortaokulların (5-6–7 ve 8 inci sınıflar) öğrencileri katılabilir. Yarışmaya katılım ücretsizdir. Yarışmaya katılımda gönüllük esastır.
 - Yarışmaya gönderilecek öyküler A4 çizgisiz dosya kağıdına, mürekkepli veya tükenmez siyah veya mavi renkli kalemlerle yazılacaktır.
