@@ -11,7 +11,7 @@ attendance: "Okul Müdürlükleri"
 organizer: "Şehit Sinan Oruç Çok Programlı Anadolu Lisesi"
 requirements: "Merkeze bağlı resmi/özel lise öğrencileri katılabilir."
 permalink: "isigimsin-ogretmenim-kisa-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/ekim/isigimsin-ogretmenim-kisa-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/kasim/isigimsin-ogretmenim-kisa-oyku-yarismasi.jpg"
 excerpt:  "Şehit Sinan Oruç Çok Programlı Anadolu Lisesi <strong> 24 Kasım Öğretmenler Günü Öykü Yarışması </strong> düzenliyor."
 ---
 
