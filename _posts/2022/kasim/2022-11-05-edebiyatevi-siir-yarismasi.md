@@ -34,20 +34,9 @@ Katılım Koşulları:
 - 3 kategoride ki yarışmamızın herhangi birinde dereceye girenler bir başka yarışmada dereceye girse bile ödül alamazlar.
 
 **Tarihler**
-SERBEST ŞİİR KATEGORİSİ
-Katılma Başlangıç : 01 Kasım 2022
-Son katılma Tarihi :01 Mart 2023
-Açıklama Tarihi :     25  Mart  2023
-
-HİKAYE  KATEGORİSİ
-Katılma Başlangıç : 01 Mart 2023
-Son katılma Tarihi :01 Temmuz 2023
-Açıklama Tarihi :     25  Temmuz  2023
-
-HECE ŞİİRİ KATEGORİSİ
-Katılma Başlangıç : 01 Temmuz 2023
-Son katılma Tarihi :01 Kasım  2023
-Açıklama Tarihi :     25  Kasım  2023
+- Serbest Şiir Kategorisi Son Katılma Tarihi :01 Mart 2023
+- Hikaye Kategorisi Son Katılma Tarihi: 01 Temmuz 2023
+- Hece Şiiri Kategorisi Son Katılma Tarihi: 01 Kasım  2023
 
 
 ### Ödüllü Şiir Yarışması Ödülleri
