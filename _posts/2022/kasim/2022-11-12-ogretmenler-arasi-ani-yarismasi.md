@@ -4,7 +4,7 @@ title: "Öğretmenler Arası Anı Yarışması"
 description: "Eskişehir İl Millî Eğitim Müdürlüğü 'Öğretmenler Arası Anı Yarışması' düzenliyor."
 category: articles
 tags: [kasım 2022, anı yarışması, genel]
-lastDate: 1671138000
+lastDate: 1668546000
 dateHuman: "16 Kasım 2022"
 comTopic: "Yarışmanın konusunu ilimiz öğretmenlerinin mesleki yaşamlarında eğitim öğretim ile ilgili yaşanmışlıkları oluşturmaktadır."
 attendance: "E-posta"
