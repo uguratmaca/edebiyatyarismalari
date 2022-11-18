@@ -5,7 +5,7 @@ description: "Habitat Derneği ve Samsung 'Solve For Tomorrow Yarışması' düz
 category: articles
 tags: [ocak 2023, proje yarışması, ortaokul, lise]
 lastDate: 1673730000
-dateHuman: "15 Ocak 20223"
+dateHuman: "15 Ocak 2023"
 attendance: "Websitesi"
 organizer: "Habitat Derneği ve Samsung"
 price: "75 Bin TL Hediye Çeki'dir."
