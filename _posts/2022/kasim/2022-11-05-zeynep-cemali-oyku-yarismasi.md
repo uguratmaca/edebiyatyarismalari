@@ -10,7 +10,7 @@ comTopic: "Sevinç"
 attendance: "E-posta/Posta"
 organizer: "Günışığı Kitaplığı"
 requirements: "Türkiye genelinde, 2022- 2023 öğretim yılında tüm okulların 6, 7 ve 8. sınıflarında okuyan öğrenciler katılabilir."
-permalink: "zeynep-cemali-oyku-yarismasi"
+permalink: "zeynep-cemali-oyku-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2022/kasim/zeynep-cemali-oyku-yarismasi.jpg"
 excerpt:  "Günışığı Kitaplığı <strong> Zeynep Cemali Öykü Yarışması 2023 </strong> düzenliyor."
 ---

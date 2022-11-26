@@ -3,7 +3,7 @@ layout: post
 title: "2023 Rıfat Ilgaz Şiir Ödülü"
 description: "Cide Belediyesi '2023 Rıfat Ilgaz Şiir Ödülü' düzenliyor."
 category: articles
-tags: [nisan 2033, şiir yarışması, genel]
+tags: [nisan 2033, şiir yarışması, rıfat ılgaz, genel]
 lastDate: 1681506000
 dateHuman: "15 Nisan 2023"
 attendance: "Elden/Posta/Kargo"

@@ -198,5 +198,9 @@
     "kitap dosyası": {
         "url": "kitap-dosyasi-yarismalari/",
         "title": "Kitap Dosyası Yarışmaları"
+    },
+    "kitap okuma yarışması": {
+        "url": "kitap-okuma-yarismalari/",
+        "title": "Kitap Okuma Yarışması"
     }
 }

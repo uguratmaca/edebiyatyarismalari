@@ -3,14 +3,14 @@ layout: post
 title: "Mehmet Âkif Ersoy Ulusal Şiir Yarışması"
 description: "Bayramiç Belediyesi 'Mehmet Âkif Ersoy Ulusal Şiir Yarışması' düzenliyor."
 category: articles
-tags: [kasım 2022, şiir yarışması, genel]
+tags: [kasım 2022, şiir yarışması, genel, mehmet akif ersoy]
 lastDate: 1668373200
 dateHuman: "14 Kasım 2022"
 attendance: "Websitesi"
 organizer: "Bayramiç Belediyesi"
 requirements: "İsteyen herkes katılabilir."
 price: "6 Bin TL'dir."
-permalink: "mehmet-akif-ersoy-siir-yarismasi"
+permalink: "mehmet-akif-ersoy-siir-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/kasim/mehmet-akif-ersoy-siir-yarismasi.jpg"
 excerpt:  "Bayramiç Belediyesi <strong> Mehmet Âkif Ersoy Ulusal Şiir Yarışması </strong> düzenliyor."
 ---

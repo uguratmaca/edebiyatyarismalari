@@ -3,7 +3,7 @@ layout: post
 title: "Öğretmenler Arası Deneme Yarışması"
 description: "Altınordu İlçe Milli Müdürlüğü 'Öğretmenler Arası Deneme Yarışması' düzenliyor."
 category: articles
-tags: [kasım 2022, deneme yarışması, genel]
+tags: [kasım 2022, deneme yarışması, genel, öğretmen]
 lastDate: 1669582800
 dateHuman: "28 Kasım 2022"
 comTopic: "Ordu'da Sonbahar ve Ben"

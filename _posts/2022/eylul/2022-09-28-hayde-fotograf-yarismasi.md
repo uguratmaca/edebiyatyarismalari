@@ -12,7 +12,7 @@ attendance: "E-Posta"
 organizer: "Pazar Kaymakamlığı"
 price: "6 Bin 500 TL'dir."
 requirements: "18 yaş üzeri herkes katılabilir."
-permalink: "kutuplar-ve-iklim-degisikligi-resim-yarismasi"
+permalink: "pazar-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/kutuplar-ve-iklim-degisikligi-resim-yarismasi.jpg"
 excerpt:  "Pazar Kaymakamlığı <strong> 2022 Pazar Fotoğraf Yarışması </strong> düzenliyor."
 ---
