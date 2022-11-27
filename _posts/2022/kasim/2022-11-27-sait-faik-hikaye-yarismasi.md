@@ -3,7 +3,7 @@ layout: post
 title: "2. Ulusal Sait Faik Hikaye Yarışması"
 description: "Sakarya Büyükşehir Belediyesi ve Sakarya İl Kültür Turizm Müdürlüğü '2. Ulusal Sait Faik Hikaye Yarışması' düzenliyor."
 category: articles
-tags: [mart 2023, hikaye yarışması, genel]
+tags: [mart 2023, hikaye yarışması, sait faik abasıyanık, genel]
 lastDate: 1680210000
 dateHuman: "31 Mart 2023"
 comTopic: "Ağaçlar"
