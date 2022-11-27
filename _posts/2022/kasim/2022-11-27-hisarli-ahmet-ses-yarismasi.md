@@ -6,7 +6,6 @@ category: articles
 tags: [aralık 2022, ses yarışması, genel]
 lastDate: 1671051600
 dateHuman: "15 Aralık 2022"
-comTopic: "Ağaçlar"
 attendance: "Websitesi"
 organizer: "Kütahya Belediyesi Kültür ve Sosyal İşler Müdürlüğü"
 requirements: "İsteyen herkes katılabilir."
