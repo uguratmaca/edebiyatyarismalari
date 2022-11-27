@@ -36,4 +36,4 @@ Katılım Koşulları:
 - Üçüncü: 6.000 TL
 - Mansiyon Ödülü (3 Adet): 2.000 TL 
 
-### [Başvuru Formu](https://docs.google.com/forms/d/e/1FAIpQLSff7Za7akwsCzCZdH9i_TYy8KOZbMNOyT8iTvZ3M4phUJjNpA/viewform/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://www.sakarya.bel.tr/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
