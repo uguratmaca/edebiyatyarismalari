@@ -6,7 +6,7 @@ category: articles
 tags: [sonuç]
 permalink: "ayse-sengoz-oyku-yarismasi-sonuc"
 excerpt: "FGK Yayınları <strong>Ayşe Şengöz Öykü Yarışması </strong> sonuçlanmıştır."
-image: "https://edebiyatyarismalari.com/images/2022/aralik/mustafa-ozbey-oyku-yarismasi-sonuc.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/aralik/ayse-sengoz-oyku-yarismasi-sonuc.jpg"
 ---
 
 ## Mustafa Özbey Edebiyat Ödülü Sonucu
