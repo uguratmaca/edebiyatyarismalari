@@ -9,6 +9,7 @@ dateHuman: "31 Ocak 2023"
 comTopic: "Serbest"
 attendance: "Websitesi"
 organizer: "uStory"
+sticky: true
 requirements: "İsteyen herkes katılabilir"
 price: "4 Bin TL'dir."
 permalink: "3-interaktif-hikaye-yarismasi"
