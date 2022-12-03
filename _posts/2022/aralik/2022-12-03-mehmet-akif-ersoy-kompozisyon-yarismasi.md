@@ -3,7 +3,7 @@ layout: post
 title: "Mehmet Akif Ersoy Kompozisyon Yarışması"
 description: "Genç Anadolu İmam Hatip Lisesi 'Mehmet Akif Ersoy Kompozisyon Yarışması' düzenliyor."
 category: articles
-tags: [aralık 2022, kompozisyon yarışması, lise]
+tags: [aralık 2022, kompozisyon yarışması, lise, mehmet akif ersoy]
 lastDate: 1671397200
 dateHuman: "19 Aralık 2022"
 attendance: "Websitesi"
