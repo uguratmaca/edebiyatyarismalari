@@ -4,11 +4,12 @@ title: "25 Aralık Gaziantep Savunması Şiir Okuma Yarışması"
 description: "Gaziantep Büyükşehir Belediyesi '25 Aralık Gaziantep Savunması Şiir Okuma Yarışması' düzenliyor."
 category: articles
 tags: [aralık 2022, şiir yarışması, lise]
-lastDate: 1671915600
-dateHuman: "25 Aralık 2022"
+lastDate: 1670878800
+dateHuman: "13 Aralık 2022"
 attendance: "Websitesi"
 organizer: "Gaziantep Büyükşehir Belediyesi"
 requirements: "Tüm resmi ve özel lise öğrencileri katılabilir."
+price: "Bisiklet"
 permalink: "25-aralik-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/aralik/25-aralik-siir-yarismasi.jpg"
 excerpt:  "Gaziantep Büyükşehir Belediyesi <strong> 25 Aralık Gaziantep Savunması Şiir Okuma Yarışması </strong> düzenliyor."
@@ -31,7 +32,7 @@ Katılım Koşulları:
 - 18 yaş altında katılım sağlayan yarışmacılar, ailesinin bilgisi dâhilinde yarışmaya katıldığını kabul ve taahhüt eder. 
 
 ### 25 Aralık Gaziantep Savunması Şiir Okuma Yarışması Ödülleri
-- İl değerlendirme kurul tarafından seçilecek olan 3 adet şiir sahibine ödül verilecek.
+- Dereceye giren ilk 3 (üç) kişiye ‘’Bisiklet’’
 
 
 ### [Başvuru Formu](https://basvuru.gaziantep.bel.tr/Detail/25-aralik-gaziantep-savunmasi-temali-siir-okuma-yarismasi/1/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
