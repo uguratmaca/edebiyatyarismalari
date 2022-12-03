@@ -3,7 +3,7 @@ layout: post
 title: "25 Aralık Gaziantep Savunması Şiir Okuma Yarışması"
 description: "Gaziantep Büyükşehir Belediyesi '25 Aralık Gaziantep Savunması Şiir Okuma Yarışması' düzenliyor."
 category: articles
-tags: [aralık 2022, şiir yarışması, lise]
+tags: [aralık 2022, şiir okuma yarışması, lise]
 lastDate: 1670878800
 dateHuman: "13 Aralık 2022"
 attendance: "Websitesi"
