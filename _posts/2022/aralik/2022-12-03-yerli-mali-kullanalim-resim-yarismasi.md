@@ -31,6 +31,7 @@ Katılım Koşulları:
 - Bilgileri Eksik Veya Yanlış Gönderilen Eserler Değerlendirilmeye Alınmayacaktır.
 - Kargodan Dolayı Yıpranmış Yada Zarar Görmüş Ürünler Değerlendirilmeye Alınmayacak Olup Bu Konudaki Sorumluluk Göndericiye Aittir.
 
+
 ### Yerli Malı Kullanalım Milli Serveti Çoğaltalım Resim Yarışması Ödülleri
 - Birinci: Bisiklet (2.500 TL) + Başarı Belgesi
 - İkinci: Boya Seti (1.000 TL) + Başarı Belgesi
