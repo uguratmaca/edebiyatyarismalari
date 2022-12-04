@@ -3,7 +3,7 @@ layout: post
 title: "Yerli Malı Kullanalım Milli Serveti Çoğaltalım Resim Yarışması"
 description: "Hüseyin Uluğ Anaokulu Ana Okulu 'Yerli Malı Kullanalım Milli Serveti Çoğaltalım Resim Yarışması' düzenliyor."
 category: articles
-tags: [ocak 2023, resim yarışması, okul öncei]
+tags: [ocak 2023, resim yarışması, okul öncesi]
 lastDate: 1672693200
 hidden: true
 dateHuman: "3 Ocak 2023"
@@ -12,7 +12,7 @@ attendance: "Kargo/E-posta"
 organizer: "Hüseyin Uluğ Anaokulu Ana Okulu"
 requirements: "Tüm resmi ve özel anaokulu öğrencileri katılabilir."
 permalink: "yerli-mali-kullanalim-resim-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/aralik/yerli-mali-kullanalim-resim-yarismasi.jpg
+image: "https://edebiyatyarismalari.com/images/2022/aralik/yerli-mali-kullanalim-resim-yarismasi.jpg"
 excerpt:  "Hüseyin Uluğ Anaokulu Ana Okulu <strong> Yerli Malı Kullanalım Milli Serveti Çoğaltalım Resim Yarışması </strong> düzenliyor."
 ---
 

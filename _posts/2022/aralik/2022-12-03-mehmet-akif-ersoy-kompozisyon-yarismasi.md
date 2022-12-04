@@ -10,7 +10,7 @@ attendance: "Websitesi"
 organizer: "Genç Anadolu İmam Hatip Lisesi"
 requirements: "Din Öğretimi Genel Müdürlüğü’ne bağlı Anadolu imam hatip liselerinde öğrenim gören öğrenciler katılabilir."
 price: "2 Bin 250 TL'dir."
-permalink: "mehmet-akif-ersoy-kompozisyon-yarismasi"
+permalink: "mehmet-akif-ersoy-kompozisyon-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/aralik/mehmet-akif-ersoy-kompozisyon-yarismasi.jpg"
 excerpt:  "Genç Anadolu İmam Hatip Lisesi <strong> Mehmet Akif Ersoy Kompozisyon Yarışması </strong> düzenliyor."
 ---
