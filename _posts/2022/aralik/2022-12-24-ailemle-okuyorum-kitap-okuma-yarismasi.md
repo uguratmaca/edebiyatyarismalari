@@ -10,7 +10,7 @@ attendance: "Okul"
 organizer: "Emlak Konutları Ortaokulu"
 requirements: "Gebze Emlak Konutları Ortaokulu 5 ve 6. sınıfında öğrenim gören öğrenciler ve velileri katılabilir."
 permalink: "ailemle-okuyorum-kitap-okuma-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/kasim/ailemle-okuyorum-kitap-okuma-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/aralik/ailemle-okuyorum-kitap-okuma-yarismasi.jpg"
 excerpt:  "Emlak Konutları Ortaokulu <strong> Ailemle Okuyorum Kitap Okuma Yarışması </strong> düzenliyor."
 ---
 
