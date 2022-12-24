@@ -9,7 +9,6 @@ dateHuman: "10 Ocak 2023"
 attendance: "Websitesi"
 organizer: "Gençlik ve Spor Bakanlığı"
 requirements: "Türkiye lise ve üniversite öğrencileri katılabilir."
-price: "2 Bin 500 TL'lik Hediye Çeki"
 permalink: "gencler-arasi-bilgi-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/aralik/gencler-arasi-bilgi-yarismasi.jpg"
 excerpt:  "Gençlik ve Spor Bakanlığı <strong> Gençler Arası Bilgi Yarışması </strong> düzenliyor."
@@ -30,14 +29,9 @@ Katılım Koşulları:
 
 
 ### Gençler Arası Bilgi Yarışması Ödülleri
-- Hadron Ödülü (50 ve 50 üstünde eser gönderen iller): Hadron Ödülü Belgesi
-- Mezon Ödülü (5 ve 5 üstünde eser gönderen okullar): Mezon Ödülü Belgesi
-- Proton Ödülü (En Çok Esere Danışmanlık Yapan Öğretmen) :500 TL
-- Işık Hızı Ödülü (İlk Eser Gönderen Öğrenci): 250 TL
-- Nötron Ödülleri (Dereceye Giren Öğrenciler):
-- Birincilik Ödülü: 4 günlük Tatil (3 kişilik)
-- İkincilik Ödülü: 3 günlük Tatil (3 kişilik)
-- Üçüncülük Ödülü: 2 günlük Tatil (3 kişilik) 
+- Birinci: Yurt Dışı Hareketlilik Programı Ödülü
+- İkinci: Dizüstü Bilgisayar
+- Üçüncü: Akıllı Telefon
 
 
 ### [Başvuru Formu](https://e-genc.gsb.gov.tr/EGenc/Basvuru/genclerarasiBilgiYarismasiBasvur#step-1/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
