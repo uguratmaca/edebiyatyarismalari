@@ -9,8 +9,8 @@ dateHuman: "10 Ocak 2023"
 attendance: "Websitesi"
 organizer: "Gençlik ve Spor Bakanlığı"
 requirements: "13-25 yaş aralığında olan tüm gençler katılabilir."
-permalink: "gencler-arasi-sir-okuma-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/aralik/gencler-arasi-sir-okuma-yarismasi.jpg"
+permalink: "gencler-arasi-siir-okuma-yarismasi"
+image: "https://edebiyatyarismalari.com/images/2022/aralik/gencler-arasi-siir-okuma-yarismasi.jpg"
 excerpt:  "Gençlik ve Spor Bakanlığı <strong> Gençler Arası Şiir Okuma Yarışması </strong> düzenliyor."
 ---
 
