@@ -34,6 +34,6 @@ Katılım Koşulları:
 
 
 ### Şair Şemsi Belli Öykü Yarışması Ödülleri
-Birinci: 1.000 TL
-İkinci: 750 TL
-Üçüncü: 500 TL
+- Birinci: 1.000 TL
+- İkinci: 750 TL
+- Üçüncü: 500 TL
