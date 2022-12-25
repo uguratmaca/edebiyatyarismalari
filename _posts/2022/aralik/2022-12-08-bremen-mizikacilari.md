@@ -8,6 +8,7 @@ lastDate: 1672441200
 dateHuman: "31 Aralık 2022"
 comTopic: "Masallar"
 attendance: "Websitesi"
+sticky: true
 organizer: "Edebiyat Yarışmaları"
 requirements: "İsteyen herkes katılabilir"
 price: "Kitap Hediye Çeki"
