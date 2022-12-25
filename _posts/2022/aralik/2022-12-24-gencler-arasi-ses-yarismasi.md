@@ -7,6 +7,7 @@ tags: [ocak 2023, ses yarışması, lise, üniversite]
 lastDate: 1675717200
 dateHuman: "10 Ocak 2023"
 attendance: "Websitesi"
+hidden: true
 organizer: "Gençlik ve Spor Bakanlığı"
 requirements: "17-25 yaş aralığında olan tüm gençler katılabilir."
 permalink: "gencler-arasi-ses-yarismasi"
