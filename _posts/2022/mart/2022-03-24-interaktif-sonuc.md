@@ -3,7 +3,7 @@ layout: simple
 title: "1. İnteraktif Hikâye Yarışması Sonuçları"
 description: "uStory tarafından düzenlenen, Türkiye’nin ilk İnteraktif Hikâye Yarışması sonuçlandı. 1 ay süren halk oylaması sonucunda, Türkiye'nin en sevilen 3 interaktif hikâyesi seçildi."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2022]
 permalink: "interaktif-hikaye-yarismasi-sonuclari"
 excerpt: "uStory tarafından düzenlenen, Türkiye’nin ilk İnteraktif Hikâye Yarışması sonuçlandı. 1 ay süren halk oylaması sonucunda, Türkiye'nin en sevilen 3 interaktif hikâyesi seçildi."
 image: "https://edebiyatyarismalari.com/images/2022/mart/interaktif-edebiyat-hikaye-yarismasi-sonuclari.jpg"

@@ -3,7 +3,7 @@ layout: simple
 title: "QTurkey Kuantum Hikaye Yarışması Sonuçları"
 description: "QTurkey Kuantum Hikaye Yarışması Sonuçları"
 category: articles
-tags: [sonuç]
+tags: [sonuç 2020]
 comments: true
 hidden: true
 image: "https://edebiyatyarismalari.com/images/2020/mart/qturkey-kuantum-bilimma-bilimkurgu-oyku-yarismasi-sonuclari.jpg"

@@ -3,7 +3,7 @@ layout: simple
 title: "Çorlu Öykü Yarışması Sonuçları"
 description: "Çorlu Belediyesi tarafından düzenlenen Çorlu konulu öykü yarışması sonuçlandı."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2020]
 comments: true
 hidden: true
 image: "https://edebiyatyarismalari.com/images/2020/mart/corlu-oyku-yarismasi-sonuclari.jpg"

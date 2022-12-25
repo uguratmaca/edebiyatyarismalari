@@ -3,7 +3,7 @@ layout: simple
 title: "Tanpınar Edebiyat Yarışması Sonuçları"
 description: "Tanpınar Edebiyat Yarışması sonuçlandı."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2022]
 permalink: "tanpinar-edebiyat-yarismasi-sonuclari"
 excerpt: "Tanpınar Edebiyat Yarışması sonuçlandı."
 image: "https://edebiyatyarismalari.com/images/2022/haziran/tanpinar-edebiyat-yarismasi-sonuclari.jpg"

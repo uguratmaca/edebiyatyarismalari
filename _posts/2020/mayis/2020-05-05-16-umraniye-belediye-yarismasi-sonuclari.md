@@ -3,7 +3,7 @@ layout: simple
 title: "16. Ümraniye Belediyesi Hikaye, Şiir Yarışması Sonuçları"
 description: "16. ümraniye belediyesi hikaye, şiir yarışması sonuçları 2020"
 category: articles
-tags: [sonuç]
+tags: [sonuç 2020]
 comments: true
 hidden: true
 permalink: "16-umraniye-belediyesi-hikaye-siir-yarismasi-sonuclari-2020"

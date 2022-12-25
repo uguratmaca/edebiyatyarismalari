@@ -3,7 +3,7 @@ layout: simple
 title: "Yunus Emre Edebiyat Armağanı Öykü Yarışması Sonuçları"
 description: "Yunus Emre Edebiyat Armağanı Öykü Yarışması sonuçlandı."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2022]
 permalink: "edebiyat-armagani-oyku-yarismasi-sonucu"
 excerpt: "Yunus Emre Edebiyat Armağanı Öykü Yarışması sonuçlandı."
 image: "https://edebiyatyarismalari.com/images/2022/mayis/edebiyat-armagani-oyku-yarismasi-sonucu.jpg"

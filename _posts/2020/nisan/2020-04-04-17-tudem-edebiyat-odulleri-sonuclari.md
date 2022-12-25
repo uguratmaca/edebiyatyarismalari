@@ -3,7 +3,7 @@ layout: simple
 title: "17. Tudem Edebiyat Ödülleri Roman Yarışması Sonuçları"
 description: "17. Tudem Edebiyat Ödülleri Roman Yarışması Sonuçları"
 category: articles
-tags: [sonuç]
+tags: [sonuç 2020]
 comments: true
 hidden: true
 image: "https://edebiyatyarismalari.com/images/2020/nisan/17-tudem-edebiyat-odulleri-roman-yarismasi-sonuclari.jpg"

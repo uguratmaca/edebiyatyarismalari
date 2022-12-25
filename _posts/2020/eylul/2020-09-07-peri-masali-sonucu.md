@@ -3,7 +3,7 @@ layout: simple
 title: "Peri Masalı Masal Yarışması Sonuçları"
 description: "Edebiyatyarismalari.com olarak düzenlediğimiz 3. yarışma; Peri Masalları Yarışması sonuçlanmıştır."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2020]
 comments: true
 permalink: "peri-masali-sonuclari"
 excerpt: "Edebiyatyarismalari.com olarak düzenlediğimiz 3. yarışma; <strong>Peri Masalları</strong> Yarışması sonuçlanmıştır."

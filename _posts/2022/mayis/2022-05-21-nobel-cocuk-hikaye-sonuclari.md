@@ -3,7 +3,7 @@ layout: simple
 title: "Nobel Çocuk Hikaye Yarışması Sonuçları"
 description: "Nobel Çocuk Hikaye Yarışması sonuçlandı."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2022]
 permalink: "nobel-cocuk-hikaye-sonuclari"
 excerpt: "Nobel Çocuk Hikaye Yarışması sonuçlandı."
 image: "https://edebiyatyarismalari.com/images/2022/mayis/nobel-cocuk-hikaye-sonuclari.jpg"

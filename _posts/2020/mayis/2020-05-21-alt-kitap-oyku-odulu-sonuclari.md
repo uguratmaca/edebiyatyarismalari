@@ -3,7 +3,7 @@ layout: simple
 title: "altKitap 2020 Öykü Ödülü Sonuçları"
 description: "Ücretsiz e-kitap yayınevi altKitap'ın 2020 öykü ödülü yarışması sonuçlanmıştır."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2020]
 comments: true
 hidden: true
 permalink: "altkitap-oyku-odulu-sonuclari-2020"

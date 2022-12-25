@@ -3,7 +3,7 @@ layout: simple
 title: "Salgın Konulu Bilimkurgu Öykü Yarışması Sonuçları"
 description: "Edebiyatyarismalari.com olarak düzenlediğimiz ikinci yarışma Salgın Konulu Bilimkurgu Öykü Yarışması sonuçlanmıştır."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2020]
 comments: true
 permalink: "bilimkurgu-salgin-oyku-sonuclari"
 excerpt: "Edebiyatyarismalari.com olarak düzenlediğimiz ikinci yarışma Salgın Konulu Bilimkurgu Öykü Yarışması sonuçlanmıştır."

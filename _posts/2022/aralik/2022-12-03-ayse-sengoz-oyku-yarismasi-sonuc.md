@@ -3,7 +3,7 @@ layout: simple
 title: "Ayşe Şengöz Öykü Yarışması Sonuçları"
 description: "FGK Yayınları Ayşe Şengöz Öykü Yarışması sonuçlanmıştır."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2022]
 permalink: "ayse-sengoz-oyku-yarismasi-sonuc"
 excerpt: "FGK Yayınları <strong>Ayşe Şengöz Öykü Yarışması </strong> sonuçlanmıştır."
 image: "https://edebiyatyarismalari.com/images/2022/aralik/ayse-sengoz-oyku-yarismasi-sonuc.jpg"

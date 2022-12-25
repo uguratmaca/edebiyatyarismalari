@@ -3,7 +3,7 @@ layout: simple
 title: "Sevgili Konulu Minimal Öykü Yarışması Sonuçları"
 description: "edebiyatyarismalari.com olarak 14 Şubat Sevgililer Günü ve Dünya Öykü Günü kapsamında düzenlediğimiz Sevgili Konulu Minimal Öykü Yarışması sonuçlanmıştır."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2022]
 permalink: "sevgili-minimal-oyku-sonuclari"
 excerpt: "edebiyatyarismalari.com olarak <strong>14 Şubat Sevgililer Günü</strong> ve <strong>Dünya Öykü Günü</strong> kapsamında düzenlediğimiz <strong>Sevgili Konulu Minimal Öykü Yarışması</strong> sonuçlanmıştır."
 image: "https://edebiyatyarismalari.com/images/2022/mart/sevgili-konulu-minimal-oyku-yarismasi-kazananlar.jpg"

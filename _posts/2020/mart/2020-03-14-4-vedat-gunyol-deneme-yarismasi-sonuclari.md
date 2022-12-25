@@ -3,9 +3,10 @@ layout: simple
 title: "4. Vedat Günyol Deneme Yarışması Sonuçları"
 description: "Kartal Belediyesinin düzenlediği 4. Vedat Günyol Deneme Yarışması sonuçları açıklanmıştır."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2020]
 comments: true
 hidden: true
+excerpt:  "4. Vedat Günyol Deneme Yarışması Sonuçları açıklanmıştır."
 image: "https://edebiyatyarismalari.com/images/2020/mart/4-vedat-gunyol-deneme-yarismasi-kazananlar.jpg"
 ---
 

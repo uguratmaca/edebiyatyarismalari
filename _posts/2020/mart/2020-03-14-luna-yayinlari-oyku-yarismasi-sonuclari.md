@@ -3,7 +3,7 @@ layout: simple
 title: "Luna Yayınları Öykü ve Küçürek Öykü Yarışması Sonuçları"
 description: "Luna Yayınları Öykü ve Küçürek Öykü Yarışması Sonuçları 2020"
 category: articles
-tags: [sonuç]
+tags: [sonuç 2020]
 comments: true
 hidden: true
 image: "https://edebiyatyarismalari.com/images/2020/mart/luna-yayinlari-oyku-kucurek-oyku-yarismasi-sonuclari.jpg"

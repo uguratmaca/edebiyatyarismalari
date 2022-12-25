@@ -3,7 +3,7 @@ layout: simple
 title: "10. Düş Günlüğü Masal, Öykü, Şiir Yarışması Sonuçları"
 description: "10. Düş Günlüğü Masal, Öykü, Şiir Yarışması sonuçlandı."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2022]
 permalink: "10-dus-gunlugu-masal-oyku-siir-yarismasi-sonucu"
 excerpt: "10. Düş Günlüğü Masal, Öykü, Şiir Yarışması sonuçlandı."
 image: "https://edebiyatyarismalari.com/images/2022/mayis/10-dus-gunlugu-masal-oyku-siir-yarismasi-sonucu.jpg"

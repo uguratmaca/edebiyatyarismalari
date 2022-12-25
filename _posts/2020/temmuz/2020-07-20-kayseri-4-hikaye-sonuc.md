@@ -3,7 +3,7 @@ layout: simple
 title: "Kayseri Belediyesi Hikaye Yarışması Sonuçları"
 description: "Kayseri Belediyesi Hikaye Yarışması, Öykü Yarışması sonuçları açıklanmıştır."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2020]
 comments: true
 hidden: true
 permalink: "4-kayseri-belediyesi-hikaye-yarismasi-sonuclari"

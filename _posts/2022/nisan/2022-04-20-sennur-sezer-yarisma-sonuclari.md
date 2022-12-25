@@ -3,7 +3,7 @@ layout: simple
 title: "Sennur Sezer Emek-Direniş Şiir ve Öykü Ödülleri Yarışma Sonuçları"
 description: "sennur sezer emek direniş şiir ve öykü ödülleri yarışması sonuçları"
 category: articles
-tags: [sonuç]
+tags: [sonuç 2022]
 comments: true
 hidden: true
 permalink: "sennur-sezer-yarisma-sonuclari"

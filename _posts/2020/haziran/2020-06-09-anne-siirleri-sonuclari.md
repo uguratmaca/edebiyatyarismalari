@@ -3,9 +3,10 @@ layout: simple
 title: "Anne Şiirleri Şiir Yarışması Sonuçları"
 description: "Edebiyatyarismalari.com olarak düzenlediğimiz ilk yarışma Anne Şiirleri şiir yarışması sonuçlanmıştır."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2020]
 comments: true
 permalink: "anne-siirleri-sonuclari"
+excerpt:  "edebiyatyarismalari.com sitesinin düzenlediği Anneler Günü Şiir Yarışmasının sonuçları açıklanmıştır."
 image: "https://edebiyatyarismalari.com/images/2020/haziran/anne-siirleri-yarismasi-sonuclari.jpg"
 ---
 

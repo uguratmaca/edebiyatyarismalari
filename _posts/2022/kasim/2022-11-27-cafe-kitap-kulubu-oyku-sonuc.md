@@ -3,7 +3,7 @@ layout: simple
 title: "Cafe Kulübü Öykü Yarışması Sonuçları"
 description: "Cafe Kulübü Öykü Yarışması sonuçlanmıştır."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2022]
 permalink: "cafe-kitap-kulubu-oyku-sonuc"
 excerpt: "Cafe Kulübü <strong>Öykü Yarışması</strong> sonuçlanmıştır."
 image: "https://edebiyatyarismalari.com/images/2022/kasim/cafe-kitap-kulubu-oyku-sonuc.jpg"

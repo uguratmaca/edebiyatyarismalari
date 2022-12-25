@@ -3,7 +3,7 @@ layout: simple
 title: "Kartal Belediyesi 23 Nisan Resim ve Şiir Yarışması Sonuçları"
 description: "kartal belediyesi 23 nisan resim yarışması sonuçları, 23 nisan şiir yarışması sonuçları"
 category: articles
-tags: [sonuç]
+tags: [sonuç 2020]
 comments: true
 hidden: true
 permalink: "kartal-23-nisan-resim-siir-yarismasi-sonuclari-2020"

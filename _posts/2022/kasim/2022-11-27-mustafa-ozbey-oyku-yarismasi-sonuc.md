@@ -3,7 +3,7 @@ layout: simple
 title: "Mustafa Özbey Edebiyat Ödülü Sonucu"
 description: "Günce Yayınları ve Menteşe Belediyesiyle birlikte ortaklaşa düzenlenen Mustafa Özbey Edebiyat Ödülü 2022 sonuçlanmıştır."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2022]
 permalink: "mustafa-ozbey-oyku-yarismasi-sonuc"
 excerpt: "Günce Yayınları ve Menteşe Belediyesiyle birlikte ortaklaşa düzenlenen <strong>Mustafa Özbey Edebiyat Ödülü 2022</strong> sonuçlanmıştır."
 image: "https://edebiyatyarismalari.com/images/2022/kasim/mustafa-ozbey-oyku-yarismasi-sonuc.jpg"

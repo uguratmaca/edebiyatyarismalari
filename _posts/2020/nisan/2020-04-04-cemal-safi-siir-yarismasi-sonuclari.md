@@ -3,7 +3,7 @@ layout: simple
 title: "Cemal Safi Şiir Yarışması Sonuçları"
 description: "Cemal Safi adına düzenlenen şiir yarışması büyük ilgi gördü, işte sonuçları"
 category: articles
-tags: [sonuç]
+tags: [sonuç 2020]
 comments: true
 hidden: true
 permalink: "cemal-safi-siir-yarismasi-sonuclari-2020"

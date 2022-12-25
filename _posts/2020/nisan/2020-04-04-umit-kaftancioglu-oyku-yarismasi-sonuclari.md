@@ -3,7 +3,7 @@ layout: simple
 title: "Ümit Kaftancıoğlu Öykü Yarışması Sonuçları 2020"
 description: "16. Ümit Kaftancıoğlu Öykü Yarışması 2020 sonuçları açıklanmıştır."
 category: articles
-tags: [sonuç]
+tags: [sonuç 2020]
 comments: true
 hidden: true
 permalink: "umit-kaftancioglu-oyku-yarismasi-sonuclari-2020"
