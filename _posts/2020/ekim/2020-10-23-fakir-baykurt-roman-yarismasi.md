@@ -2,7 +2,7 @@
 layout: post
 title: "2. Fakir Baykurt Roman Yarışması"
 description: "Çiğli Belediyesi 2. Fakir Baykurt Roman Yarışmasını düzenliyor."
-tags: [mart 2021, genel, roman yarışması]
+tags: [mart 2021, genel, roman yarışması, fakir baykurt]
 comments: true
 lastDate: 1616274000  
 dateHuman: "5 Mart 2021"
