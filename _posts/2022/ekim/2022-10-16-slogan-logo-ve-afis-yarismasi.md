@@ -7,6 +7,7 @@ tags: [ocak 2023, afiş yarışması, ortaokul, lise]
 lastDate: 1672952400
 dateHuman: "6 Ocak 2023"
 attendance: "Elden/Kargo/Posta"
+hidden: true
 organizer: "İlim Ve Edebiyat Eseri Sahipleri Meslek Birliği (İLESAM)"
 requirements: "Türkiye geneli resmi Ve özel ortaokul, lise ve dengi okul öğrencileri katılabilir."
 permalink: "slogan-logo-ve-afis-yarismasi"
