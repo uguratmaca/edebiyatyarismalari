@@ -44,9 +44,9 @@ Online Kullanım: https://twinery.org/2 )
 
 ### JÜRİ ve HALK OYLAMASI ve Jüri Özel Ödülü: 
 1. Proje ön değerlendirmeleri, ön seçici kurul ve jüri tarafından iki aşamalı olarak yapılacaktır. 
-2. Ön değerlendirme aşamasında seçilen eserler uStory mobil uygulaması üzerinde yayınlanacak ve 30 gün süreyle halk oylamasına sunulacaktır. 
+2. Ön değerlendirme aşamasında seçilen eserler [ustory mobil uygulaması](https://www.ustory.app/?ref=edebiyatyarismalari.com){:target="_blank"}{:class="gtag"} üzerinde yayınlanacak ve 30 gün süreyle halk oylamasına sunulacaktır. 
 3. Jüri özel ödülü yarışmaya katılan eserler arasından bir hikâyeye verilecektir. uStory interaktif edebiyat topluluğu yönetim kurulu oylaması ile belirlenecektir.
-4. Halk oylamasında okuyucu hikâyeyi 1-5 yıldız arası puanlar, alınan her yıldız bir puan kabul edilir. Okuyucu 1-5 yıldız arası puanlamanın yanında yazılı bir yorum paylaşırsa, verdiği puan 2 ile çarpılarak genel toplam puana eklenir. (Örnek: Yarışmaya katılan hikâye uStory uygulaması üzerinden 300 okuyucu tarafından yorum yapılmadan sadece 5 yıldız ile oylanmış olsun bu durumda 300 x 5= 1500 puan hikâyenin toplam puanı olur. Eğer 300 yorumsuz 5 yıldızlı oylamaya ek olarak 100 tane 5 yıldızlı yorumlu oylama yapılırsa, Toplam puan (Yorumsuz Oy sayısı) x (Yorumsuz Oy Ortalaması) + (Yorumlu Oy Sayısı) x (Yorumlu Oy Ortalaması) x (2) formülü ile (300 x 5) + (100 x 5 x 2) = 2500 puan alır.)
+4. Halk oylamasında okuyucu hikâyeyi 1-5 yıldız arası puanlar, alınan her yıldız bir puan kabul edilir. Okuyucu 1-5 yıldız arası puanlamanın yanında yazılı bir yorum paylaşırsa, verdiği puan 2 ile çarpılarak genel toplam puana eklenir. (Örnek: Yarışmaya katılan hikâye [ustory](https://www.ustory.app/?ref=edebiyatyarismalari.com){:target="_blank"}{:class="gtag"} uygulaması üzerinden 300 okuyucu tarafından yorum yapılmadan sadece 5 yıldız ile oylanmış olsun bu durumda 300 x 5= 1500 puan hikâyenin toplam puanı olur. Eğer 300 yorumsuz 5 yıldızlı oylamaya ek olarak 100 tane 5 yıldızlı yorumlu oylama yapılırsa, Toplam puan (Yorumsuz Oy sayısı) x (Yorumsuz Oy Ortalaması) + (Yorumlu Oy Sayısı) x (Yorumlu Oy Ortalaması) x (2) formülü ile (300 x 5) + (100 x 5 x 2) = 2500 puan alır.)
 
 ### BAŞVURU 
 1. Proje başvuruları yazar tarafından yapılmalıdır. Birden fazla yazar varsa başvuru bir kişi adına yapılmalıdır. 
@@ -57,7 +57,7 @@ Online Kullanım: https://twinery.org/2 )
 ### TELİF HAKLARI: 
 1. “İnteraktif Edebiyat Yarışması”na katılan hikayelerin telif hakları (fikri mülkiyet hukukundan kaynaklanan) ihlaller ile ilgili her türlü hukuki ve cezai sorumluk başvuru sahibine aittir. Bu çerçevede yarışmaya katılan her katılımcı, hikayelerinin 5846 sayılı Fikir ve Sanat Eserleri Kanunu (FSEK) madde 14, 15, 16 manevi hakları ile FSEK madde 21, 22, 23, 24 ve 25’te yer alan işleme, çoğaltma, yayma, temsil, işaret, ses ve/veya görüntü nakline yarayan araçlarla umuma iletim mali haklarının kendisine ait olduğunu kabul, beyan ve taahhüt eder. Aksi durumda katılımcının başvurusu reddedilir ve/veya verilen ödül geri alınır.
 2. Yarışmaya gönderilen hikayelerin hukuki ve bilimsel sorumluluğu yazara aittir. Üçüncü kişilerin, telif hakkı konusunda iddia ve talepleri olması durumunda sorumluluk hikâye sahibine aittir.
-3. Başvuru sahibi, hikayesinin finale kalması halinde uStory uygulaması üzerinde yayımlanacağını kabul eder. Yarışma sonrası yazar hikâyesini ücretli bir şekilde uygulama üzerinden yayımlayabilir ve satışını yapabilir. 
+3. Başvuru sahibi, hikayesinin finale kalması halinde [ustory uygulaması](https://www.ustory.app/?ref=edebiyatyarismalari.com){:target="_blank"}{:class="gtag"} üzerinde yayımlanacağını kabul eder. Yarışma sonrası yazar hikâyesini ücretli bir şekilde uygulama üzerinden yayımlayabilir ve satışını yapabilir. 
 
 ## 3. İnteraktif Edebiyat Hikâye Yarışması Ödülleri
 1.	3.İnteraktif Edebiyat Hikâye Yarışması’nda; 
@@ -69,6 +69,6 @@ Online Kullanım: https://twinery.org/2 )
 4. Finalistler katılım sertifikası alacaktır. Ayrıca dereceye giren yazarlarımıza başarı sertifikası verilecektir.
 5. uStorier yazarlar, yarışma sonrası kaleme aldıkları interaktif hikayeleri ücretli ya da ücretsiz bir şekilde uygulamada kendileri adına oluşturulacak yazar profilinde paylaşabileceklerdir.
 Not: uStorier yazarlar, hikâyelerini ücretli yayınlayarak ve okurlarından bağış toplayarak platform üzerinden gelir elde edebilirler.
-Detaylı bilgi almak ve mobil uygulamaya ulaşmak için https://www.ustory.app/ internet sitesine ulaşabilirsiniz.
+Detaylı bilgi almak ve mobil uygulamaya ulaşmak için [ustory](https://www.ustory.app/?ref=edebiyatyarismalari.com){:target="_blank"}{:class="gtag"} internet sitesine ulaşabilirsiniz.
 
 ### [Başvuru Formu](https://ustorier.ustory.app?ref=edebiyatyarismalari.com){:target="_blank"}{:class="gtag"}
