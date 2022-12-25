@@ -35,7 +35,7 @@ Eserlerinizin, belirleyeceğiniz uzmanlık alanına ilgi duyan ya da duyabilecek
 ### 2. İnteraktif Hikâye Yarışması Koşulları
 - Yarışmaya Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir.
 - Birden fazla eserle yarışmaya katılım sağlayabilirsiniz. (Ancak en fazla bir ödül alınabilir)
-- Yarışmaya katılacak hikâyenin interaktif bir biçimde ele alınması zorunludur. (Örnek interaktif hikâyelere uStory mobil uygulaması üzerinden erişim sağlanabilir) 
+- Yarışmaya katılacak hikâyenin interaktif bir biçimde ele alınması zorunludur. (Örnek interaktif hikâyelere [ustory](https://www.ustory.app/?ref=edebiyatyarismalari.com){:target="_blank"}{:class="gtag"} mobil uygulaması üzerinden erişim sağlanabilir) 
 - **İnteraktif hikâyeler** en az 4 farklı sonu olmalı ve genel toplamda 3000 kelime üzeri olmalıdır.
 - Hikâye yapısı en az 4 seçim yapılacak şekilde oluşturulmalıdır. (Okuyucu okumaya başladıktan sonra herhangi bir sona ulaşmak için en az 4 seçim yapabilmelidir.)
 ![uStory Ağaç Yapısı](https://edebiyatyarismalari.com/images/2022/temmuz/ustory-agac-yapisi.jpeg)
@@ -58,7 +58,7 @@ Eserlerinizin, belirleyeceğiniz uzmanlık alanına ilgi duyan ya da duyabilecek
 #### Telif Hakları
 - “II. İnteraktif Hikâye Yarışması”na katılan hikâyelerin telif hakları (fikri mülkiyet hukukundan kaynaklanan) ihlaller ile ilgili her türlü hukuki ve cezai sorumluk başvuru sahibine aittir. Bu çerçevede yarışmaya katılan her katılımcı, hikâyelerinin 5846 sayılı Fikir ve Sanat Eserleri Kanunu (FSEK) madde 14, 15, 16 manevi hakları ile FSEK madde 21, 22, 23, 24 ve 25’te yer alan işleme, çoğaltma, yayma, temsil, işaret, ses ve/veya görüntü nakline yarayan araçlarla umuma iletim mali haklarının kendisine ait olduğunu kabul, beyan ve taahhüt eder. Aksi durumda katılımcının başvurusu reddedilir ve/veya verilen ödül geri alınır.
 - Yarışmaya gönderilen hikâyelerin hukuki ve bilimsel sorumluluğu yazara aittir. Üçüncü kişilerin, telif hakkı konusunda iddia ve talepleri olması durumunda sorumluluk hikâye sahibine aittir.
-- Başvuru sahibi, hikâyesinin finale kalması halinde uStory uygulaması üzerinde yayımlanacağını kabul eder. Yarışma sonrası yazar hikâyesini ücretli bir şekilde uygulama üzerinden yayımlayabilir ve satışını yapabilir. Talep etmesi durumunda yayımdan kaldırabilir.
+- Başvuru sahibi, hikâyesinin finale kalması halinde [ustory](https://www.ustory.app/?ref=edebiyatyarismalari.com){:target="_blank"}{:class="gtag"} uygulaması üzerinde yayımlanacağını kabul eder. Yarışma sonrası yazar hikâyesini ücretli bir şekilde uygulama üzerinden yayımlayabilir ve satışını yapabilir. Talep etmesi durumunda yayımdan kaldırabilir.
 
 ### 2. İnteraktif Hikâye Yarışması Ödülleri
 - 2.İnteraktif Edebiyat Hikâye Yarışması’nda; 
@@ -70,6 +70,6 @@ Eserlerinizin, belirleyeceğiniz uzmanlık alanına ilgi duyan ya da duyabilecek
 - uStorier yazarlar, yarışma sonrası kaleme aldıkları interaktif hikâyeleri ücretli ya da ücretsiz bir şekilde uygulamada kendileri adına oluşturulacak yazar profilinde paylaşabileceklerdir.  
 
 Not: uStorier yazarlar, hikâyelerini ücretli yayınlayarak ve okurlarından bağış toplayarak platform üzerinden gelir elde edebilirler.
-Detaylı bilgi almak ve mobil uygulamaya ulaşmak için https://www.ustory.app/ internet sitesine ulaşabilirsiniz.
+Detaylı bilgi almak ve mobil uygulamaya ulaşmak için [ustory](https://www.ustory.app/?ref=edebiyatyarismalari.com){:target="_blank"}{:class="gtag"} internet sitesine ulaşabilirsiniz.
 
-### [Başvuru Formu](https://ustorier.ustory.app?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://ustorier.ustory.app?ref=edebiyatyarismalari.com){:target="_blank"}{:class="gtag"}
