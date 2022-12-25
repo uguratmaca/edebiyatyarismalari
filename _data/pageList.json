@@ -202,5 +202,9 @@
     "kitap okuma yarışması": {
         "url": "kitap-okuma-yarismalari/",
         "title": "Kitap Okuma Yarışması"
+    },
+    "şiir okuma yarışması": {
+        "url": "siir-okuma-yarismalari/",
+        "title": "Şiir Okuma Yarışmaları"
     }
 }
