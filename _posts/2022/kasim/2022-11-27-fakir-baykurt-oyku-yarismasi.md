@@ -3,7 +3,7 @@ layout: post
 title: "Fakir Baykurt Öykü Yarışması"
 description: "Sarıyer Belediyesi 'Fakir Baykurt Öykü Yarışması' düzenliyor."
 category: articles
-tags: [şubat 2023, hikaye yarışması, ortaokul, lise, genel]
+tags: [şubat 2023, hikaye yarışması, ortaokul, lise, genel, fakir baykurt]
 lastDate: 1675976400
 dateHuman: "10 Şubat 2023"
 comTopic: "Serbest"
