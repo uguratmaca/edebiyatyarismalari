@@ -3,7 +3,7 @@ layout: post
 title: "Fakir Baykurt Roman Ödülü"
 description: "Çiğli Belediyesi 'Fakir Baykurt Roman Ödülü' düzenliyor."
 category: articles
-tags: [mart 2023, roman yarışması, genel]
+tags: [mart 2023, roman yarışması, fakir baykurt, kitap dosyası, edebiyat ödülleri, genel]
 lastDate: 1679259600
 dateHuman: "20 Mart 2023"
 attendance: "Elden/Kargo/Posta"
