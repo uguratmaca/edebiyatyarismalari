@@ -3,7 +3,7 @@ layout: post
 title: "34. Ömer Seyfettin Hikaye Yarışması"
 description: "Gönen Belediyesi '34. Ömer Seyfettin Hikaye Yarışması' düzenliyor."
 category: articles
-tags: [şubat 2023, hikaye yarışması, lise, genel]
+tags: [şubat 2023, hikaye yarışması, ömer seyfettin, lise, genel]
 lastDate: 1676149200
 dateHuman: "12 Şubat 2023"
 comTopic: "Serbest"
