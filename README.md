@@ -1,5 +1,6 @@
 # Edebiyat Yarışmaları
 
+## Yazarlar
 sabahattin ali
 https://edebiyatyarismalari.com/sabahattin-ali-yarismalari/
       
