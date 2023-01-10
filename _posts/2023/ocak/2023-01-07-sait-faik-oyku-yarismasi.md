@@ -3,7 +3,7 @@ layout: post
 title: "Hişt Hişt, Genç Sait Faik Öykü Yarışması"
 description: "Darüşşafaka Lisesi 'Hişt Hişt, Genç Sait Faik Öykü Yarışması' düzenliyor."
 category: articles
-tags: [mart 2023, hikaye yarışması, lise]
+tags: [mart 2023, hikaye yarışması, lise, sait faik abasıyanık]
 lastDate: 1677790800
 dateHuman: "3 Mart 2023"
 attendance: "Websitesi"

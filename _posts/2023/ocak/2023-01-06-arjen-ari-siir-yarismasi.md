@@ -9,7 +9,7 @@ dateHuman: "1 Nisan 2023"
 attendance: "Posta/Kargo"
 organizer: "Arî’nin Ailesi ve Sor Yayınları"
 requirements: "Daha önce şiir kitabı yayınlanmamış olan her yaştan şair katılabilir."
-permalink: "arjen-ari-siir-yarismasi"
+permalink: "arjen-ari-siir-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/ocak/arjen-ari-siir-yarismasi.jpg"
 excerpt:  "Arî’nin Ailesi ve Sor Yayınları <strong> 10. Arjen Arî Şiir Yarışması </strong> düzenliyor."
 ---

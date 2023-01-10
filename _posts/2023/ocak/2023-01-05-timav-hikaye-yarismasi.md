@@ -11,7 +11,7 @@ attendance: "E-Posta"
 organizer: "Türkiye İmam Hatipliler Vakfı (TİMAV)"
 requirements: "Türkiye’deki tüm İmam Hatip Liseleri ile Anadolu İmam Hatip Liseleri’nde 2022-2023 eğitim öğretim yılında öğrenci olarak okuyanlar katılabilir."
 price: "17 Çeyrek Altın'dır."
-permalink: "timav-hikaye-yarismasi"
+permalink: "timav-hikaye-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/ocak/timav-hikaye-yarismasi.jpg"
 excerpt:  "Türkiye İmam Hatipliler Vakfı (TİMAV) <strong> 11. Geleneksel Hikaye Yarışması </strong> düzenliyor."
 ---
