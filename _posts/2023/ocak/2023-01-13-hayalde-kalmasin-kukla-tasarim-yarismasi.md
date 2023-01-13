@@ -7,6 +7,7 @@ tags: [şubat 2023, tasarım yarışması, okul öncesi]
 lastDate: 1676149200
 dateHuman: "12 Şubat 2023"
 attendance: "Kargo/Posta"
+hidden: true
 organizer: "Diyarbakır Kayapınar Huzurevleri Anaokulu"
 requirements: "Türkiye geneli anaokulu ve anasınıfı öğrencileri katılabilir."
 permalink: "hayalde-kalmasin-kukla-tasarim-yarismasi"
