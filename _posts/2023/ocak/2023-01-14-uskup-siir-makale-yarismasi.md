@@ -3,7 +3,7 @@ layout: post
 title: "İstiklal Marşı’nın Kabulü ve Mehmet Akif Ersoy’u Anma Haftası"
 description: "Türkiye Cumhuriyeti Üsküp Büyükelçiliği 'İstiklal Marşı’nın Kabulü ve Mehmet Akif Ersoy’u Anma Haftası' düzenliyor."
 category: articles
-tags: [mart 2023, makale yarışması, şiir yarışması, ilkokul, lise, üniversite]
+tags: [mart 2023, makale yarışması, şiir yarışması, ilkokul, lise, üniversite, mehmet akif ersoy]
 lastDate: 1677618000
 dateHuman: "1 Mart 2023"
 comTopic: "Mehmet Akif Ersoy ve Türkiye Cumhuriyeti’nin kuruluşunun 100. yıldönümü"
