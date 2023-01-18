@@ -11,7 +11,7 @@ attendance: "Websitesi"
 organizer: "Liberal Düşünce Topluluğu"
 requirements: "İsteyen herkes katılabilir."
 price: "15 Bin TL'dir."
-permalink: "kazim-berzeg-makale-yarismasi"
+permalink: "kazim-berzeg-makale-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/ocak/kazim-berzeg-makale-yarismasi.jpg"
 excerpt:  "Liberal Düşünce Topluluğu <strong> 2023 Kâzım Berzeg Makale Yarışması </strong> düzenliyor."
 ---
