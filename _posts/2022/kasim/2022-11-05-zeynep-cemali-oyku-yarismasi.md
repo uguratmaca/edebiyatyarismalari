@@ -4,7 +4,7 @@ title: "Zeynep Cemali Öykü Yarışması 2023"
 description: "Günışığı Kitaplığı 'Zeynep Cemali Öykü Yarışması 2023' düzenliyor."
 category: articles
 tags: [mayıs 2023, hikaye yarışması, ortaokul]
-lastDate: 1673643600
+lastDate: 1684702800
 dateHuman: "22 Mayıs 2023"
 comTopic: "Sevinç"
 attendance: "E-posta/Posta"
