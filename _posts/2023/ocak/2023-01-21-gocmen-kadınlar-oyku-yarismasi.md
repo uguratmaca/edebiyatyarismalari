@@ -3,7 +3,7 @@ layout: post
 title: "Londra Göçmen Kadınlar Öykü Yarışması"
 description: "Rengin Kadın Korosu 'Londra Göçmen Kadınlar Öykü Yarışması' düzenliyor."
 category: articles
-tags: [mart 2023, hikaye yarışması, genel]
+tags: [mart 2023, hikaye yarışması, kadın]
 lastDate: 1680210000
 dateHuman: "31 Mart 2023"
 attendance: "E-Posta"
