@@ -3,7 +3,7 @@ layout: post
 title: "Attila İlhan Liseli Gençler Kompozisyon Yarışması"
 description: "Attilâ İlhan Bilim Sanat Kültür Vakfı 'Attila İlhan Liseli Gençler Kompozisyon Yarışması' düzenliyor."
 category: articles
-tags: [şubat 2023, kompozisyon yarışması, lise]
+tags: [şubat 2023, kompozisyon yarışması, lise, attila ilhan]
 lastDate: 1677445200
 dateHuman: "27 Şubat 2023"
 comTopic: "Fikirleriniz ile çelişen bir gerçek, sizin için ne kadar önemlidir"
@@ -11,7 +11,7 @@ attendance: "E-Posta"
 organizer: "Attilâ İlhan Bilim Sanat Kültür Vakfı"
 requirements: "Türkiye geneli resmi/özel lise ve dengi okul öğrencileri katılabilir."
 price: "3 Bin 750 TL'dir."
-permalink: "attila-ilhan-kompozisyon-yarismasi"
+permalink: "attila-ilhan-kompozisyon-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/ocak/attila-ilhan-kompozisyon-yarismasi.jpg"
 excerpt:  "Attilâ İlhan Bilim Sanat Kültür Vakfı <strong> Attila İlhan Liseli Gençler Kompozisyon Yarışması </strong> düzenliyor."
 ---

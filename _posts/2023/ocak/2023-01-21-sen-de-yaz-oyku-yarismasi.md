@@ -10,7 +10,7 @@ comTopic: "Daha İyi Bir Dünya"
 attendance: "Websitesi"
 organizer: "Kidzania ve Erbulak Evi"
 requirements: "10-14 yaş aralığındaki genç yazarlar katılabilir."
-permalink: "sen-de-yaz-oyku-yarismasi"
+permalink: "sen-de-yaz-oyku-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/ocak/sen-de-yaz-oyku-yarismasi.jpg"
 excerpt:  "Kidzania ve Erbulak Evi <strong> Sen de Yaz Öykü Yarışması </strong> düzenliyor."
 ---
