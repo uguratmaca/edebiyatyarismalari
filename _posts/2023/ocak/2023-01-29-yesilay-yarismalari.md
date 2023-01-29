@@ -11,8 +11,8 @@ attendance: "Websitesi"
 organizer: "Yeşilay"
 requirements: "T.C. Millî Eğitim Bakanlığına bağlı ilk, orta ve lise kademelerinde örgün eğitim gören öğrenciler katılabilir."
 price: "32 Bin TL'dir"
-permalink: "yesilay-yarisma"
-image: "https://edebiyatyarismalari.com/images/2023/ocak/yesilay-yarisma.jpg"
+permalink: "yesilay-yarismalari"
+image: "https://edebiyatyarismalari.com/images/2023/ocak/yesilay-yarismalari.jpg"
 excerpt:  "Yeşilay <strong> Sağlıklı Nesil Sağlıklı Gelecek Yetenek Yarışması </strong> düzenliyor."
 ---
 
