@@ -10,7 +10,7 @@ dateHuman: "17 Şubat 2023"
 attendance: "Elden/Posta/Kargo"
 organizer: "Afyonkarahisar Salar İlkokulu"
 requirements: "Türkiye geneli resmi ilkokulların 4.sınıf öğrencileri katılabilir."
-permalink: "cumhuriyetimizin-kazanildigi-topraklar-resim-yarismasi-"
+permalink: "cumhuriyetimizin-kazanildigi-topraklar-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/ocak/cumhuriyetimizin-kazanildigi-topraklar-resim-yarismasi-.jpg"
 excerpt:  "Afyonkarahisar Salar İlkokulu <strong> Cumhuriyetimizin Kazanıldığı Topraklar Resim Yarışması </strong> düzenliyor."
 ---
