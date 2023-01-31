@@ -7,6 +7,7 @@ tags: [şubat 2023, karikatür yarışması, genel]
 lastDate: 1675803600
 dateHuman: "8 Şubat 2023"
 attendance: "Elden/Kargo/Posta"
+hidden: true
 organizer: "İpekyolu Belediyesi"
 requirements: "T.C. Vatandaşı olan Van İli ve İlçelerinde ikamet eden amatör, profesyonel tüm karikatürcüler katılabilir."
 permalink: "kadina-siddete-hayir-karikatür-yarismasi"
