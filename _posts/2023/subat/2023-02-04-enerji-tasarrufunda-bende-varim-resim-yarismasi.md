@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enerji Tasarrufunda Bende Varım Resim Yarışması"
-description: "Malatya Yeşilyurt Şehit Ahmet Şeker İlkokulu 'fotoğraf yarışması' düzenliyor."
+description: "Malatya Yeşilyurt Şehit Ahmet Şeker İlkokulu 'Enerji Tasarrufunda Bende Varım Resim Yarışması' düzenliyor."
 category: articles
 tags: [şubat 2023, resim yarışması, ilkokul]
 lastDate: 1676754000
@@ -12,11 +12,11 @@ organizer: "Malatya Yeşilyurt Şehit Ahmet Şeker İlkokulu"
 requirements: "Türkiye geneli resmi ilkokulu 4.sınıf öğrencileri katılabilir."
 permalink: "enerji-tasarrufunda-bende-varim-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/subat/enerji-tasarrufunda-bende-varim-resim-yarismasi.jpg"
-excerpt:  "Malatya Yeşilyurt Şehit Ahmet Şeker İlkokulu <strong> fotoğraf yarışması </strong> düzenliyor."
+excerpt:  "Malatya Yeşilyurt Şehit Ahmet Şeker İlkokulu <strong> Enerji Tasarrufunda Bende Varım Resim Yarışması </strong> düzenliyor."
 ---
 
 ## Enerji Tasarrufunda Bende Varım Resim Yarışması
-Malatya Yeşilyurt Şehit Ahmet Şeker İlkokulu **fotoğraf yarışması** düzenliyor.  
+Malatya Yeşilyurt Şehit Ahmet Şeker İlkokulu **Enerji Tasarrufunda Bende Varım Resim Yarışması** düzenliyor.  
 
 Katılım Koşulları:
 - Türkiye geneli resmi ilkokulu 4.sınıf öğrencileri katılabilir.
