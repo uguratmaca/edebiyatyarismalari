@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vincent van Gogh Resim Yarışması"
-description: " SU-ASEA Vakfı 'Vincent van Gogh Resim Yarışması' düzenliyor."
+description: "SU-ASEA Vakfı 'Vincent van Gogh Resim Yarışması' düzenliyor."
 category: articles
 tags: [mart 2023, resim yarışması, lise]
 lastDate: 1677618000
@@ -9,15 +9,15 @@ hidden: true
 dateHuman: "1 Mart 2023"
 comTopic: "Vincent van Gogh 170 Yaşında"
 attendance: "Kargo/Posta"
-organizer: " SU-ASEA Vakfı"
+organizer: "SU-ASEA Vakfı"
 requirements: "Millî Eğitim Bakanlığı’na bağlı tüm özel ve devlet okullarında öğrenim gören lise öğrencileri katılabilir."
 permalink: "vangogh-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/subat/vangogh-resim-yarismasi.jpg"
-excerpt:  " SU-ASEA Vakfı <strong> Vincent van Gogh Resim Yarışması </strong> düzenliyor."
+excerpt:  "SU-ASEA Vakfı <strong> Vincent van Gogh Resim Yarışması </strong> düzenliyor."
 ---
 
 ## Vincent van Gogh Resim Yarışması
- SU-ASEA Vakfı **Vincent van Gogh Resim Yarışması** düzenliyor.  
+SU-ASEA Vakfı **Vincent van Gogh Resim Yarışması** düzenliyor.  
 
 Katılım Koşulları:
 - Millî Eğitim Bakanlığı’na bağlı tüm özel ve devlet okullarında öğrenim gören lise öğrencileri katılabilir.
@@ -26,7 +26,7 @@ Katılım Koşulları:
 - Kullanılacak resim kağıdının üst, alt, sağ ve sol kenarlarından bir cm paspartu payı bırakılacaktır.
 - Her katılımcı daha önce herhangi bir yarışmada ödül almamış veya sergilenmemiş bir (bir) eserle sergiye katılabilecektir.
 - Başvuruda bulunan eserin herhangi bir yarışmalı sergiye (sosyal medya, Youtube vb. platformlarda düzenlenen yarışmalar dahil) katıldığının tespit edilmesi halinde ilgili eserin başvurusu derhal iptal edilecektir.
-- SU-ASEA Vakfı gerekli gördüğü takdirde yarışma takviminde değişiklik yapabilir veya yarışmayı iptal edebilir.
+-SU-ASEA Vakfı gerekli gördüğü takdirde yarışma takviminde değişiklik yapabilir veya yarışmayı iptal edebilir.
 - “Vincent van Gogh 170 Yaşında” temalı uluslararası sergiyle ilgili tüm güncellemeler ve bilgiler SU-ASEA’nın resmî web sitesi olan www.usedasea.nl adresinde aktif olarak duyurulmaktadır.
 - Ödüle ve sergilenmeye değer bulunan esersahibine eposta yoluyla bildirim yapılacaktır.
 - Eserin ön yüzünde katılımcı ile ilgili herhangi bir bilgi yer almayacaktır.
