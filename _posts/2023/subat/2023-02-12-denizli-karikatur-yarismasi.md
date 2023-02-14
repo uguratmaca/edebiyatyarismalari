@@ -8,6 +8,7 @@ lastDate: 1677963600
 dateHuman: "5 Mart 2023"
 comTopic: "Sağlıklı Yaşam ve Spor"
 attendance: "Websitesi"
+hidden: true
 organizer: "Denizli Büyükşehir Belediyesi"
 requirements: "Amatör ve profesyonel bütün dünya karikatürcüleri katılabilir."
 price: "39 Bin TL'dir"
