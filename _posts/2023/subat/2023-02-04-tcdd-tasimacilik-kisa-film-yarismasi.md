@@ -8,6 +8,7 @@ lastDate: 1676840400
 dateHuman: "20 Şubat 2023"
 attendance: "Elden/Kargo"
 organizer: "TCDD Taşımacılık A.Ş."
+hidden: true
 requirements: "Ülkemizde yerleşik amatör ve profesyonel 18-26 yaş arası tüm sanatçılar katılabilir."
 price: "75 Bin TL'dir"
 permalink: "tcdd-tasimacilik-kisa-film-yarismasi"
