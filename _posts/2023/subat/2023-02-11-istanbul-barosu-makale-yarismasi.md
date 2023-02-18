@@ -3,7 +3,7 @@ layout: post
 title: "İstanbul Barosu Makale Yarışması"
 description: "İstanbul Barosu Başkanlığı 'makale yarışması' düzenliyor."
 category: articles
-tags: [mart 2023, makale yarışması, genel, avukat]
+tags: [mart 2023, makale yarışması, genel, hukuk]
 lastDate: 1677790800
 dateHuman: "3 Mart 2023"
 comTopic: "Atatürk ve Laik Cumhuriyet Hukuku"
@@ -11,7 +11,7 @@ attendance: "E-Posta"
 organizer: "İstanbul Barosu Başkanlığı"
 requirements: "İstanbul Barosu’na kayıtlı avukat veya stajyer avukatlar katılabilir."
 price: "28 Bin TL'dir"
-permalink: "istanbul-barosu-makale-yarismasi"
+permalink: "istanbul-barosu-makale-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/subat/istanbul-barosu-makale-yarismasi.jpg"
 excerpt:  "İstanbul Barosu Başkanlığı <strong> makale yarışması </strong> düzenliyor."
 ---

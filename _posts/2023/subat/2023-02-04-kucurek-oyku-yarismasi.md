@@ -10,7 +10,7 @@ comTopic: "Kar"
 attendance: "E-Posta"
 organizer: "Kar Kültür Sanat"
 requirements: "İsteyen herkes katılabilir."
-permalink: "kucurek-oyku-yarismasi"
+permalink: "14-subat-kucurek-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/subat/kucurek-oyku-yarismasi.jpg"
 excerpt:  "Kar Kültür Sanat <strong> 14 Şubat Küçürek Öykü Yarışması </strong> düzenliyor."
 ---
