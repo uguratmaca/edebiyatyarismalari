@@ -8,6 +8,7 @@ lastDate: 1677186000
 dateHuman: "24 Şubat 2023"
 comTopic: "Su Tasarrufu"
 attendance: "Posta/Kargo/E-Posta"
+hidden: true
 organizer: "Energo-Pro Türkiye"
 requirements: "Değerlendirme komitesi dışında tüm profesyonel ve amatör katılımcılar katılabilir."
 price: "60 Bin TL'dir"
