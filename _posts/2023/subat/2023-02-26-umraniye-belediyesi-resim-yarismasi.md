@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Geleneksel 19. umraniye-belediyesi-resim-yarismasi Yarışması"
+title: "Geleneksel 19. Resim Yarışması"
 description: "Ümraniye Belediyesi 'Geleneksel 19. Resim Yarışması' düzenliyor."
 category: articles
 tags: [haziran 2023, resim yarışması, genel]
