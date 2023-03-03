@@ -7,6 +7,7 @@ tags: [nisan 2023, proje yarışması, lise]
 lastDate: 1682629200
 dateHuman: "28 Nisan 2023"
 attendance: "Kargo/Posta"
+hidden: true
 organizer: "Tübitak ve Enerji Bakanlığı"
 requirements: "Türkiye ve KKTC’de öğrenim gören tüm lise öğrencileri katılabilir."
 permalink: "enerji-verimliligi-proje-yarismasi"

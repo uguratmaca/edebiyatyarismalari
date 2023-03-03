@@ -6,6 +6,7 @@ category: articles
 tags: [şubat 2023, proje yarışması, genel]
 lastDate: 1677186000
 dateHuman: "24 Şubat 2023"
+hidden: true
 attendance: "E-Posta"
 organizer: "Yozgat Bozok Üniversitesi"
 requirements: "Akademisyenler, AR-GE ve tasarım merkezleri, yatırımcı/girişimciler, küçük, orta ve büyük ölçekli işletmeler, fikri olan tüm araştırmacılar ile ön lisans, lisans ve lisansüstü öğrenciler katılabilir."

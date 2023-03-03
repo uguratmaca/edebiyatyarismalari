@@ -6,6 +6,7 @@ category: articles
 tags: [şubat 2023, proje yarışması, üniversite]
 lastDate: 1675976400
 dateHuman: "10 Şubat 2023"
+hidden: true
 attendance: "E-Posta"
 organizer: "KUDAKAF"
 requirements: "Sadece ön lisans, lisans ve lisansüstü öğrencileri katılabilir."

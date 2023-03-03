@@ -210,5 +210,9 @@
     "şiir okuma yarışması": {
         "url": "siir-okuma-yarismalari/",
         "title": "Şiir Okuma Yarışmaları"
+    },
+    "proje yarışması": {
+        "url": "proje-yarismalari/",
+        "title": "Proje Yarışmaları"
     }
 }

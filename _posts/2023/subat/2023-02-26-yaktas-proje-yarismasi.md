@@ -6,6 +6,7 @@ category: articles
 tags: [mart 2023, proje yarışması, üniversite]
 lastDate: 1679605200
 dateHuman: "24 Mart 2023"
+hidden: true
 attendance: "Websitesi"
 organizer: "Gerflor Türkiye"
 requirements: "2022 Güz dönemi için Türkiye ve KKTC’de bulunan tüm üniversitelerin mimarlık bölümlerinde lisans öğrenimi gören öğrenciler katılabilir."
