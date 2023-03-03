@@ -3,7 +3,7 @@ layout: post
 title: "Liselerarası Kısa Oyun ve Öykü Yazma Yarışması"
 description: "Bursa Uludağ Üniversitesi 'Liselerarası Kısa Oyun ve Öykü Yazma Yarışması' düzenliyor."
 category: articles
-tags: [nisan 2023, hikaye yarışması, kısa oyun yarışması, lise]
+tags: [nisan 2023, hikaye yarışması, tiyatro oyunu yazma yarışması, lise]
 lastDate: 1681938000
 dateHuman: "20 Nisan 2023"
 comTopic: "Çocuk Hakları"
