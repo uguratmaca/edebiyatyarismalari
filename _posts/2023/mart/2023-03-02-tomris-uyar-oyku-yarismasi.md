@@ -10,7 +10,7 @@ comTopic: "Felaket"
 attendance: "E-Posta"
 organizer: "Yazı-Yorum Edebiyat Dergisi ve Ayrıkotu Kitap"
 requirements: "18 yaş üzeri ve öykü türünde kitabı yayımlanmamış kişiler katılabilir."
-permalink: "tomris-uyar-oyku-yarismasi"
+permalink: "tomris-uyar-oyku-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/mart/tomris-uyar-oyku-yarismasi.jpg"
 excerpt:  "Yazı-Yorum Edebiyat Dergisi ve Ayrıkotu Kitap <strong> Tomris Uyar Öykü Yarışması </strong> düzenliyor."
 ---

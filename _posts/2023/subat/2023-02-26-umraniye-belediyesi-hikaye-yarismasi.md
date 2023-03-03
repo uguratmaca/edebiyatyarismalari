@@ -11,7 +11,7 @@ attendance: "Websitesi"
 organizer: "Ümraniye Belediyesi"
 requirements: "İsteyen herkes katılabilir."
 price: "65 Bin TL'dir"
-permalink: "umraniye-belediyesi-hikaye-yarismasi"
+permalink: "umraniye-belediyesi-hikaye-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/subat/umraniye-belediyesi-hikaye-yarismasi.jpg"
 excerpt:  "Ümraniye Belediyesi <strong> Geleneksel 19. Hikaye Yarışması </strong> düzenliyor."
 ---
