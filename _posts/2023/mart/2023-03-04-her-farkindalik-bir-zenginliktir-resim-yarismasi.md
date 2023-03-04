@@ -33,4 +33,4 @@ Katılım Koşulları:
 - Birinci: Başarı Belgesi
 - İkinci: Başarı Belgesi
 - Üçüncü: Başarı Belgesi
-- Mansiyon Ödülü Katılım Belgesi
+- Mansiyon Ödülü: Katılım Belgesi
