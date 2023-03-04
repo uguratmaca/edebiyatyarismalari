@@ -10,6 +10,7 @@ attendance: "İlçe Milli Eğitim Müdürlükleri"
 organizer: "Plastiksiz Okullar Hareketi - School Plastıc Free Movement"
 requirements: "Türkiye geneli ilkokul ve ortaokullarda öğrenim gören 9 ile 12 yaş arası öğrenciler katılabilir."
 price: "18 Bin TL'dir"
+hidden: true
 permalink: "genc-bilim-insanlari-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mart/genc-bilim-insanlari-kisa-film-yarismasi.jpg"
 excerpt:  "Plastiksiz Okullar Hareketi - School Plastıc Free Movement <strong> Genç Bilim İnsanları Dünyayı Kurtarıyor Kısa Video Film Yarışması </strong> düzenliyor."
