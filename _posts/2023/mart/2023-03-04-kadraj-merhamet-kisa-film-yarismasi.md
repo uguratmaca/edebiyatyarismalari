@@ -8,6 +8,7 @@ lastDate: 1681419600
 dateHuman: "14 Nisan 2023"
 comTopic: "Mübarek Üç Aylar"
 attendance: "Websitesi"
+hidden: true
 organizer: "Gaziantep Büyükşehir Belediyesi"
 requirements: "İsteyen herkes katılabilir."
 price: "66 Bin TL'dir"
