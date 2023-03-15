@@ -10,6 +10,7 @@ attendance: "Kargo/Posta"
 organizer: "Konya İl Kültür ve Turizm Müdürlüğü"
 requirements: "İsteyen herkes katılabilir."
 price: "45 Bin TL'dir"
+hidden: true
 permalink: "sufi-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mart/sufi-kisa-film-yarismasi.jpg"
 excerpt:  "Konya İl Kültür ve Turizm Müdürlüğü <strong> Sûfisinema Günleri Ulusal Kısa Film Yarışması </strong> düzenliyor."
