@@ -10,6 +10,7 @@ attendance: "Elden/Posta/Kargo"
 organizer: "Merinos Tekstil Sanayi Müzesi"
 requirements: "İsteyen herkes katılabilir."
 price: "30 Bin TL'dir"
+hidden: true
 permalink: "ipek-igne-oya-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mart/ipek-igne-oya-tasarim-yarismasi.jpg"
 excerpt:  "Merinos Tekstil Sanayi Müzesi <strong> İpek İğne Oya Tasarım Yarışması </strong> düzenliyor."
