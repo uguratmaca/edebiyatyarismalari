@@ -10,6 +10,7 @@ attendance: "Elden/Posta/Kargo"
 organizer: "Armutlu Kaymakamlığı"
 requirements: "Amatör, profesyonel tüm katılımcılar katılabilir."
 price: "10 Bin TL'dir"
+hidden: true
 permalink: "armutlu-kaymakamligi-logo-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mart/armutlu-kaymakamligi-logo-tasarim-yarismasi.jpg"
 excerpt:  "Armutlu Kaymakamlığı <strong> logo tasarım yarışması </strong> düzenliyor."
