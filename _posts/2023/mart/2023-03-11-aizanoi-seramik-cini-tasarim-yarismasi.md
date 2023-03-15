@@ -8,6 +8,7 @@ lastDate: 1681851600
 dateHuman: "19 Nisan 2023"
 comTopic: "Anadolu Kültür Mirası"
 attendance: "E-Posta/Elden/Kargo"
+hidden: true
 organizer: "TC. Kültür ve Turizm Bakanlığı"
 requirements: "Yurt içinde bulunan Üniversitelerin Yüksekokulların; Çini Sanatı ve Tasarımı Bölümleri ve Güzel Sanatlar Fakülteleri ile dengi (Sanat ve Tasarım) Fakültelerin Seramik, Cam ve Çini Sanatları Bölümleri, Ön Lisans, Lisans, Yüksek Lisans, Bileşik Sanatlar, Sanat Tasarım ve Sanatta Yeterlik (Doktora) öğrencileri katılabilir."
 price: "36 Bin TL'dir"
