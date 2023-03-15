@@ -7,6 +7,7 @@ tags: [nisan 2023, tasarım yarışması, genel]
 lastDate: 1681851600
 dateHuman: "19 Nisan 2023"
 attendance: "Wesitesi"
+hidden: true
 organizer: "Güneydoğu Anadolu Halı İhracatçıları Birliği (GAHİB) "
 requirements: "Amatör, profesyonel tüm katılımcılar katılabilir."
 price: "150 Bin TL'dir"
