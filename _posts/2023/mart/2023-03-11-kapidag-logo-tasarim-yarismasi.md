@@ -6,6 +6,7 @@ category: articles
 tags: [nisan 2023, tasarım yarışması, genel]
 lastDate: 1680296400
 dateHuman: "1 Nisan 2023"
+hidden: true
 attendance: "Elden/Posta/Kargo"
 organizer: "Erdek Genç İnsanları Derneği (ERGİAD)"
 requirements: "18 yaşını doldurmuş herkes katılabilir."
