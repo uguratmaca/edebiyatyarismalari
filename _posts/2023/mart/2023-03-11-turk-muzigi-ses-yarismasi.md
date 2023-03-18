@@ -10,7 +10,7 @@ attendance: "E-Posta"
 organizer: "Kültür ve Turizm Bakanlığı Güzel Sanatlar Genel Müdürlüğü"
 requirements: "18 yaşını doldurmuş ve 30 yaşından gün almamış T.C. vatandaşları katılabilir."
 price: "320 Bin TL'dir"
-permalink: "turk-muzigi-ses-yarismasi"
+permalink: "turk-muzigi-ses-yarismasi-2023"
 hidden: true
 image: "https://edebiyatyarismalari.com/images/2023/mart/turk-muzigi-ses-yarismasi.jpg"
 excerpt:  "Kültür ve Turizm Bakanlığı Güzel Sanatlar Genel Müdürlüğü  <strong> II. Gençses: Türk Müziği Ses Yarışması </strong> düzenliyor."

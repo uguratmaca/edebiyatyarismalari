@@ -12,7 +12,7 @@ attendance: "Websitesi"
 organizer: "Büyükçekmece Belediyesi"
 requirements: "Amatör ve profesyonel bütün dünya karikatürcüleri katılabilir."
 price: "81 Bin 500 TL'dir"
-permalink: "buyukcekmece-karikatur-yarismasi"
+permalink: "buyukcekmece-karikatur-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/mart/buyukcekmece-karikatur-yarismasi.jpg"
 excerpt:  "Büyükçekmece Belediyesi <strong> 2. Uluslararası Karikatür Yarışması </strong> düzenliyor."
 ---
