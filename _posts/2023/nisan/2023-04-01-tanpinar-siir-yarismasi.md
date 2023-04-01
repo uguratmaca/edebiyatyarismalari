@@ -3,7 +3,7 @@ layout: post
 title: "Tanpınar Şiir Yarışması"
 description: "Osmangazi Belediyesi 'Tanpınar Şiir Yarışması' düzenliyor."
 category: articles
-tags: [haziran 2023, şiir yarışması, genel]
+tags: [haziran 2023, şiir yarışması, genel, ahmet hamdi tanpınar]
 lastDate: 1688245200
 dateHuman: "2 Haziran 2023"
 attendance: "Kargo/Posta"
