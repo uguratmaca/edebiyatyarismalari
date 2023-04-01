@@ -11,7 +11,7 @@ attendance: "E-Posta"
 organizer: "Süreyya Ağaoğlu Çocuk Dostları Derneği"
 requirements: "Hukuk öğrencileri katılabilir."
 price: "74 Bin 500 TL'dir."
-permalink: "sureyya-agaoglu-makale-yarismasi"
+permalink: "sureyya-agaoglu-makale-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/nisan/sureyya-agaoglu-makale-yarismasi.jpg"
 excerpt:  "Süreyya Ağaoğlu Çocuk Dostları Derneği <strong> 2. Süreyya Ağaoğlu Makale Yarışması </strong> düzenliyor."
 ---
