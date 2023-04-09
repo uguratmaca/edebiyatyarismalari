@@ -11,7 +11,7 @@ attendance: "E-Posta"
 organizer: "Avrasya Yazarlar Birliği ve TÜRKSOY"
 requirements: "İsteyen herkes katılabilir."
 price: "90 Bin TL'dir."
-permalink: "kasgarli-mahmut-hikaye-yarismasi"
+permalink: "kasgarli-mahmut-hikaye-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/nisan/kasgarli-mahmut-hikaye-yarismasi.jpg"
 excerpt:  "Avrasya Yazarlar Birliği ve TÜRKSOY <strong> Uluslararası Kaşgarlı Mahmut Hikaye Yarışması </strong> düzenliyor."
 ---
