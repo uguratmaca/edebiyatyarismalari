@@ -44,4 +44,4 @@ Katılım Koşulları:
 - Jüri Özel Ödülü: 4.500 TL + Kısa Film Yönetmenleri Derneği Ödülü
 
 
-### [Başvuru Formu](https://rkf.rotary2420.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:https://rkf.rotary2420.org
+### [Başvuru Formu](https://rkf.rotary2420.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}
