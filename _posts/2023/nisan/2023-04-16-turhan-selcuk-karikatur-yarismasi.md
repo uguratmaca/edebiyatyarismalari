@@ -35,12 +35,7 @@ Sergi 01 Ekim 2023 tarihine kadar açık kalacaktır.
 - Özel Ödül kazananların konaklama ve yemek giderleri karşılanacaktır. Yol masrafları kendilerine aittir. Yarışmada 1. 2. ve 3. olan yarışmacıların yol, konaklama ve yemek masrafları tarafımızdan karşılanacaktır.
 
 
-
 ### Turhan Selçuk Karikatür Yarışması Ödülleri
 - Birinci: 20.000 TL 
 - İkinci: 15.000 TL
 - Üçüncü: 10.000 TL
-
-
-
-### [Başvuru Formu](https://www.denizli.bel.tr/karikaturyarismasi/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
