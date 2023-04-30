@@ -3,7 +3,7 @@ layout: post
 title: "2023 Vedat Türkali Edebiyat Ödülleri"
 description: "Atakum Belediyesi '2023 Vedat Türkali Edebiyat Ödülleri' düzenliyor."
 category: articles
-tags: [mayıs 2023, roman yarışması, hikaye yarışması, şiir yarışması, genel]
+tags: [mayıs 2023, roman yarışması, hikaye yarışması, şiir yarışması, çeviri yarışması, genel]
 lastDate: 1685480400
 dateHuman: "31 Mayıs 2023"
 attendance: "Elden/Kargo/Posta"
