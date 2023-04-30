@@ -9,8 +9,8 @@ dateHuman: "31 Mayıs 2023"
 attendance: "Elden/Kargo/Posta"
 organizer: "Atakum Belediyesi"
 requirements: "İsteyen herkes katılabilir."
-permalink: "vedat-turkali-edebiyat-odulleri"
-image: "https://edebiyatyarismalari.com/images/2023/nisan/vedat-turkali-edebiyat-odulleri.jpg"
+permalink: "vedat-turkali-edebiyat-odulleri-2023"
+image: "https://edebiyatyarismalari.com/images/2023/nisan/vedat-turkali-edebiyat-odulleri-2023.jpg"
 excerpt:  "Atakum Belediyesi <strong> 2023 Vedat Türkali Edebiyat Ödülleri </strong> düzenliyor."
 ---
 
