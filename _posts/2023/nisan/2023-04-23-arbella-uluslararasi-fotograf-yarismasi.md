@@ -11,7 +11,7 @@ attendance: "Websitesi"
 organizer: "Arbella Makarna Durum Gıda Sanayi ve Ticaret A.Ş."
 requirements: "Tüm dünyadan amatör ve profesyonel tüm fotoğrafçılar katılabilir."
 price: "11 Bin 300 USD'dir."
-permalink: "arbella-uluslararasi-fotograf-yarismasi"
+permalink: "arbella-uluslararasi-fotograf-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/nisan/arbella-uluslararasi-fotograf-yarismasi.jpg"
 excerpt:  "Arbella Makarna Durum Gıda Sanayi ve Ticaret A.Ş. <strong> 13. Arbella Uluslararası Fotoğraf Yarışması </strong> düzenliyor."
 ---

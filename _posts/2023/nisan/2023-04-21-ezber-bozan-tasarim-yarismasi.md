@@ -11,7 +11,7 @@ attendance: "Kargo/Posta"
 organizer: "Ege İhracatçı Birlikleri"
 requirements: "Tüm tasarımcılar katılabilir."
 price: "240 Bin TL'dir."
-permalink: "ezber-bozan-tasarim-yarismasi"
+permalink: "ezber-bozan-tasarim-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/nisan/ezber-bozan-tasarim-yarismasi.jpg"
 excerpt:  "Ege İhracatçı Birlikleri <strong> Ezber Bozan Tasarım Yarışması </strong> düzenliyor."
 ---
