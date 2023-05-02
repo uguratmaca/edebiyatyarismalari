@@ -3,15 +3,15 @@ layout: post
 title: "Bafra Hikaye Yarışması"
 description: "Samsun Bafra Belediyesi 'Bafra Hikaye Yarışması' düzenliyor."
 category: articles
-tags: [nisan 2023, hikaye yarışması, genel]
-lastDate: 1681246800
-dateHuman: "12 Nisan 2023"
+tags: [haziran 2023, hikaye yarışması, genel]
+lastDate: 1686862800
+dateHuman: "16 Haziran 2023"
 attendance: "E-Posta"
 organizer: "Samsun Bafra Belediyesi"
 requirements: "Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir."
 price: "34 Bin 500 TL'dir."
-permalink: "bafra-hikaye-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/ocak/bafra-hikaye-yarismasi.jpg"
+permalink: "bafra-hikaye-yarismasi-2023"
+image: "https://edebiyatyarismalari.com/images/2023/mayis/bafra-hikaye-yarismasi-2023.jpg"
 excerpt:  "Samsun Bafra Belediyesi <strong> Bafra Hikaye Yarışması </strong> düzenliyor."
 ---
 
