@@ -1,6 +1,6 @@
 ---
 layout: post
-ti$e: "TKBB Uluslararası Makale Yarışması"
+title: "TKBB Uluslararası Makale Yarışması"
 description: "Türkiye Katılım Bankaları Birliği (TKBB) 'uluslararası makale yarışması' düzenliyor."
 category: articles
 tags: [aralık 2023, makale yarışması, genel]
