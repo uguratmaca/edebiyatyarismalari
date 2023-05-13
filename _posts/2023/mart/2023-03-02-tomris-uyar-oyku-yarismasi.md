@@ -3,9 +3,9 @@ layout: post
 title: "Tomris Uyar Öykü Yarışması"
 description: "Yazı-Yorum Edebiyat Dergisi ve Ayrıkotu Kitap 'Tomris Uyar Öykü Yarışması' düzenliyor."
 category: articles
-tags: [nisan 2023, hikaye yarışması, genel]
-lastDate: 1681074000
-dateHuman: "10 Nisan 2023"
+tags: [temmuz 2023, hikaye yarışması, genel]
+lastDate: 1689282000
+dateHuman: "14 Temmuz 2023"
 comTopic: "Felaket"
 attendance: "E-Posta"
 organizer: "Yazı-Yorum Edebiyat Dergisi ve Ayrıkotu Kitap"
