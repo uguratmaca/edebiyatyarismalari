@@ -1,11 +1,11 @@
 ---
 layout: simple
 title: "69. Sait Faik Hikâye Armağanı Kazananları Belli Oldu"
-description: "Darüşşafaka Cemiyeti ile Türkiye İş Bankası Kültür Yayınlar tarafından düzenlenen 69. Sait Faik Hikâye Armağanı kazananları belli olmuştur."
+description: "Darüşşafaka Cemiyeti ile Türkiye İş Bankası Kültür Yayınları tarafından düzenlenen 69. Sait Faik Hikâye Armağanı kazananları belli olmuştur."
 category: articles
 tags: [sonuç 2023]
 permalink: "69-uncu-sait-faik-hikaye-sonuc"
-excerpt: "Darüşşafaka Cemiyeti ile Türkiye İş Bankası Kültür Yayınlar tarafından düzenlenen 69. Sait Faik Hikâye Armağanı kazananları belli olmuştur."
+excerpt: "Darüşşafaka Cemiyeti ile Türkiye İş Bankası Kültür Yayınları tarafından düzenlenen 69. Sait Faik Hikâye Armağanı kazananları belli olmuştur."
 image: "https://edebiyatyarismalari.com/images/2023/mayis/69-uncu-sait-faik-hikaye-sonuc.jpg"
 ---
 
