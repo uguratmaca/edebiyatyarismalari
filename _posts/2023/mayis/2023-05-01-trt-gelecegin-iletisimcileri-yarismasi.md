@@ -10,7 +10,7 @@ attendance: "Websitesi"
 organizer: "TRT"
 requirements: "Üniversitede eğitim gören ön lisans, lisans ve yüksek lisans öğrencileri katılabilir."
 price: "60 Bin TL'dir."
-permalink: "trt-gelecegin-iletisimcileri-yarismasi"
+permalink: "trt-gelecegin-iletisimcileri-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/mayis/trt-gelecegin-iletisimcileri-yarismasi.jpg"
 excerpt:  "TRT <strong> TRT Geleceğin İletişimcileri Yarışması </strong> düzenliyor."
 ---
