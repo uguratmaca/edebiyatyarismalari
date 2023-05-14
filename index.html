@@ -10,6 +10,7 @@ title: "Edebiyat Yarışmaları | Edebiyat Ödülleri"
 	{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 	{% assign nowDateInt = nowunix | plus: 0 %}
 	{% assign counter = 0 %}
+	{% assign counter2 = 0 %}
 
 	{% for post in site.posts %}
 		{% if post.hidden != true and post.sticky != true and post.lastDate > nowDateInt%}

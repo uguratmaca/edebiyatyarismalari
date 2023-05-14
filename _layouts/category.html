@@ -5,6 +5,7 @@ layout: default
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 {% assign nowDateInt = nowunix | plus: 0 %}
 {% assign counter = 0 %}
+{% assign counter2 = 0 %}
 
 <section class="mt-2 mb-2">
     <h1>{{page.headline}}</h1>
@@ -28,14 +29,45 @@ layout: default
     {% endif %}
 
     {% for post in site.posts %}
-        {% if post.lastDate > nowDateInt %}
+        {% if post.sticky != true and post.lastDate > nowDateInt %}
 
             {% assign pageKeys = page.key | split: ", " %}
 
             {% for pageKey in pageKeys %}
                 {% if post.tags contains pageKey %}
                     {% assign counter=counter | plus:1 %}
-                    {% include postdetail.html %}
+                    {% if counter < 3 %} 
+					    {% include postdetail.html %} 
+				    {% endif %} 
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+
+    {% for post in site.posts %}
+
+            {% assign pageKeys = page.key | split: ", " %}
+
+            {% for pageKey in pageKeys %}
+                {% if post.tags contains pageKey %}
+		            {% if post.sticky == true and post.lastDate > nowDateInt %}
+			            {% include postdetail.html %}
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+	{% endfor %}
+
+    {% for post in site.posts %}
+        {% if post.sticky != true and post.lastDate > nowDateInt %}
+
+            {% assign pageKeys = page.key | split: ", " %}
+
+            {% for pageKey in pageKeys %}
+                {% if post.tags contains pageKey %}
+                   {% assign counter2 = counter2 | plus:1 %}
+                    {% if counter2 > 2 %} 
+					    {% include postdetail.html %} 
+				    {% endif %} 
                 {% endif %}
             {% endfor %}
         {% endif %}
