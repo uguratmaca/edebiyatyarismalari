@@ -4,7 +4,7 @@ title: "Bu Adam Benim Babam Fotoğraf Yarışması"
 description: "Beyşehir Fotoğraf Kulübü 'Bu Adam Benim Babam Fotoğraf Yarışması' düzenliyor."
 category: articles
 tags: [haziran 2023, fotoğraf yarışması, genel]
-lastDate: 1683234000
+lastDate: 1685912400
 hidden: true
 dateHuman: "5 Haziran 2023"
 attendance: "Websitesi"
