@@ -12,8 +12,8 @@ attendance: "Websitesi"
 organizer: "Çuhadaroğlu Alüminyum"
 requirements: "Türkiye ve Kuzey Kıbrıs Türk Cumhuriyeti'ndeki okullar / üniversitelerde mimarlık bölümlerinde öğrenim gören lisans öğrencileri bireysel ya da grup olarak katılabilir."
 price: "80 Bin TL'dir."
-permalink: "kocav-yuz-yillik-hikaye-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/mayis/kocav-yuz-yillik-hikaye-yarismasi.jpg"
+permalink: "cuhadaroglu-proje-yarismasi"
+image: "https://edebiyatyarismalari.com/images/2023/mayis/cuhadaroglu-proje-yarismasi.jpg"
 excerpt:  "Çuhadaroğlu Alüminyum <strong> proje yarışması </strong> düzenliyor."
 ---
 
