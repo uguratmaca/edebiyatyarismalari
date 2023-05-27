@@ -3,7 +3,7 @@ layout: post
 title: "Bilkent Üniversitesi Makale Yarışması"
 description: "Bilkent Üniversitesi Hukuk Fakültesi 'makale yarışması' düzenliyor."
 category: articles
-tags: [eylül 2023, makale yarışması, üniversite, hukuk]
+tags: [haziran 2023, makale yarışması, üniversite, hukuk]
 lastDate: 1686517200
 dateHuman: "12 Haziran 2023"
 comTopic: "Çevre Hukuku, İklim Adaleti veya Afet Hukuku"
