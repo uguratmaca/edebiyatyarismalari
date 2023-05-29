@@ -7,7 +7,7 @@ tags: [eylül 2023, hikaye yarışması, genel]
 lastDate: 1694725200
 dateHuman: "15 Eylül 2023"
 attendance: "E-Posta"
-topic: "Kudüs (Alt başlıklara dikkat edin)"
+comTopic: "Kudüs (Alt başlıklara dikkat edin)"
 organizer: "Mirasımız Kudüs Derneği"
 requirements: "İsteyen herkes katılabilir."
 price: "47 Bin 500 TL'dir."
