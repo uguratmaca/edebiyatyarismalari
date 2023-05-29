@@ -7,6 +7,7 @@ tags: [eylül 2023, hikaye yarışması, genel]
 lastDate: 1694725200
 dateHuman: "15 Eylül 2023"
 attendance: "E-Posta"
+topic: "Kudüs (Alt başlıklara dikkat edin)"
 organizer: "Mirasımız Kudüs Derneği"
 requirements: "İsteyen herkes katılabilir."
 price: "47 Bin 500 TL'dir."
@@ -19,6 +20,13 @@ excerpt:  "Mirasımız Kudüs Derneği <strong> Mirasımız Kudüs Öykü Yarı�
 Mirasımız Kudüs Derneği **Mirasımız Kudüs Öykü Yarışması** düzenliyor.  
 
 Katılım Koşulları:
+- Yarışma konusu Kudüs ana başlığı altında üç alt başlıktan oluşmaktadır. Katılımcılar üç başlıktan birini seçebilir veya  tüm başlıkları aynı anda işleyebilirler.
+  - Kudüs’te Yaşam:
+    - İşgal altındaki Kudüs’te yaşanan insan hakları ihlalleri (işgal devletinin Müslümanlara yönelik uyguladığı ırkçı ve ayrımcı politikalar, şiddet olayları, ırkçılık, yıkımlar, göçe zorlama v.s) ve bu ihlallere maruz kalan Kudüslülerin gündelik yaşamlarından kesitler.
+  - Kudüs ve Mescid-i Aksâ’nın kutsiyeti:
+    - Ayet ve hadisler ışığında Kudüs ve Mescid-i Aksâ’nın Müslümanlar için önemini konu alan öyküler.
+  - Kudüs Tarihi:
+    - Kudüs’ün tarihine adeta damga vuran Hz Ömer, İmadeddin Zengi, Nureddin Zengi, Selahaddin Eyyubi, Kanuni Sultan Süleyman, II.Abdulhamid Han gibi önemli şahsiyetlerin kendilerini veya hüküm sürdükleri dönemleri konu alan öyküler.
 - Yarışma herkese açıktır. Seçici kurul üyelerinin ve yarışmayı düzenleyen kurum ve kuruluşların çalışanlarının kendileri ve birinci dereceden yakınları yarışmaya katılamaz. Yarışmaya katılan öykülerin hukuki ve bilimsel sorumluluğu yazarına aittir.
 - Yarışmaya katılan öykülerin, daha önce düzenlenen benzer yarışmalarda dereceye girmemiş olması, başkası tarafından yazılmamış olması, kısmen ya da tamamen başka bir metinden kopya edilmemiş ve daha önce herhangi bir yerde yayımlanmamış olması gerekmektedir. Başvuruda bulunan kişi, öykünün tümüyle kendisine ait olduğunu, özgün olduğunu ve başka bir yarışmada ödül almadığını kabul ve taahhüt eder. Ödül alan katılımcılardan, bu taahhütleri dışında hareket ettiği anlaşılanlardan, elde ettikleri ödül ve unvan geri alınır.
 - Her katılımcı en fazla 3 öyküden oluşan bir dosya ile katılabilir.
