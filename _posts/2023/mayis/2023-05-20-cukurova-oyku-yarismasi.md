@@ -11,7 +11,7 @@ attendance: "E-Posta"
 organizer: "Yeni Adana Gazetesi ve Çukurova Belediyesi"
 requirements: "18 yaş üzeri Türkçe yazabilen, amatör ve profesyonel herkes katılabilir."
 price: "18 Bin TL'dir."
-permalink: "cukurova-oyku-yarismasi"
+permalink: "cukurova-oyku-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/mayis/cukurova-oyku-yarismasi.jpg"
 excerpt:  "Yeni Adana Gazetesi ve Çukurova Belediyesi <strong> 2023 Çukurova Öykü Yarışması </strong> düzenliyor."
 ---
