@@ -6,7 +6,7 @@ category: articles
 tags: [kasım 2023, hikaye yarışması, genel]
 lastDate: 1701291600
 dateHuman: "30 Kasım 2023"
-attendance: "E-Posta"
+attendance: "Posta/Kargo"
 organizer: "Mersin Sanat Edebiyat Derneği"
 price: "10 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
@@ -33,6 +33,6 @@ Katılım Koşulları:
 - İlyas Halil Öykü Ödülü’ne gönderilen öykü dosyaları özgün (yazara ait ) olmalı, başkasına ait yapıttan alıntı içermemelidir. Ödül alan öykü dosyalarında değerlendirme sonrasında böyle bir olgu ortaya çıkarsa, yazar aldığı ödülü iade edecek, ortaya çıkacak zararı tazmin edecek, hukuksal gelişmelerin tarafı olacaktır.
 
 ### İlyas Halil Öykü Ödülü Yarışması Ödülleri
-Birinci: 5.000 TL
-İkinci: 3.000 TL
-Üçüncü: 2.000 TL
+- Birinci: 5.000 TL
+- İkinci: 3.000 TL
+- Üçüncü: 2.000 TL
