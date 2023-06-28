@@ -11,7 +11,7 @@ attendance: "Websitesi"
 organizer: "Muğla Büyükşehir Belediyesi"
 requirements: "Ülkemizde yerleşik amatör ve profesyonel 18 yaş üstü tüm fotoğrafçılar katılabilir."
 price: "36 Bin 500 TL'dir."
-permalink: "mugla-fotograf-yarismasi"
+permalink: "mugla-fotograf-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/haziran/mugla-fotograf-yarismasi.jpg"
 excerpt:  "Muğla Büyükşehir Belediyesi <strong> fotoğraf yarışması </strong> düzenliyor."
 ---

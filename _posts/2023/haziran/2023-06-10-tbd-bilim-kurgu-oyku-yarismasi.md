@@ -10,7 +10,7 @@ attendance: "Websitesi"
 organizer: "Türkiye Bilişim Dergisi"
 price: "13 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
-permalink: "tbd-bilim-kurgu-oyku-yarismasi"
+permalink: "tbd-bilim-kurgu-oyku-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/haziran/tbd-bilim-kurgu-oyku-yarismasi.jpg"
 excerpt:  "Türkiye Bilişim Dergisi <strong> TBD Bilimkurgu Öykü Yarışması </strong> düzenliyor."
 ---
