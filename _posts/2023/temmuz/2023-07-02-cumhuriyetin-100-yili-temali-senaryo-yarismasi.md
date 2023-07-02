@@ -4,7 +4,7 @@ title: "Cumhuriyetin 100. Yılı Temalı Senaryo Yarışması"
 description: "Ankara Üniversitesi İletişim Fakültesi Mezunları Vakfı (İLEV) 'Cumhuriyetin 100. Yılı Temalı Senaryo Yarışması' düzenliyor."
 category: articles
 tags: [eylül 2023, senaryo yarışması, üniversite]
-lastDate: 1693342800
+lastDate: 1696021200
 dateHuman: "30 Eylül 2023"
 comTopic: "Cumhuriyetimizin 100. Yılı"
 attendance: "Websitesi"
