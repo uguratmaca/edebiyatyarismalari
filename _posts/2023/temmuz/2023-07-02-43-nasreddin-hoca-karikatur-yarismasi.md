@@ -8,6 +8,7 @@ lastDate: 1696021200
 dateHuman: "30 Eylül 2023"
 attendance: "E-Posta"
 comTopic: "Serbest"
+hidden: true
 price: "120 Bin TL'dir."
 organizer: "Karikatürcüler Derneği"
 requirements: "İsteyen herkes katılabilir."
