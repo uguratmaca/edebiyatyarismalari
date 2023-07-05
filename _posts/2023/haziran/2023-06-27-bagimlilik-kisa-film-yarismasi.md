@@ -7,6 +7,7 @@ tags: [ağustos 2023, kısa film yarışması, üniversite]
 lastDate: 1691874000
 dateHuman: "13 Ağustos 2023"
 comTopic: "Bağımlılık"
+hidden: true
 attendance: "E-Posta"
 organizer: "Bursa Teknik Üniversitesi"
 requirements: "Yurt içi ya da yurt dışından ön lisans ve lisans öğrencileri katılabilir."
