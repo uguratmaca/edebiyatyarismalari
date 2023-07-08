@@ -3,7 +3,7 @@ layout: post
 title: "Öykü ve Deneme Yarışması"
 description: "Eskişehir Büyükşehir Belediyesi 'Öykü ve Deneme Yarışması' düzenliyor."
 category: articles
-tags: [eylül 2023, hikaye yarışması,deneme yarışması, genel]
+tags: [eylül 2023, hikaye yarışması, deneme yarışması, genel]
 lastDate: 1695934800
 dateHuman: "29 Eylül 2023"
 comTopic: "20 Yaşına Ne Söylerdin?"
