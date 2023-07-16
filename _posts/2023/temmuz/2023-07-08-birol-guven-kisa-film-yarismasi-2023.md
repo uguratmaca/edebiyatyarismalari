@@ -9,6 +9,7 @@ dateHuman: "30 Eylül 2023"
 comTopic: "Depremle Değişen Hayatlar"
 attendance: "Elden/E-Posta"
 organizer: "Darıca Kaymakamlığı"
+hidden: true
 price: "100 Bin TL'dir."
 requirements: "15 yaş üstü film sever herkes katılabilir."
 permalink: "birol-guven-kisa-film-yarismasi-2023"
