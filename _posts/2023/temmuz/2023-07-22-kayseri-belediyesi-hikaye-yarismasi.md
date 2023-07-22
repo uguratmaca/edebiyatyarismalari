@@ -4,8 +4,8 @@ title: "7. Hikaye Yarışması"
 description: "Kayseri Büyükşehir Belediyesi '7. Hikaye Yarışması' düzenliyor."
 category: articles
 tags: [ekim 2023, hikaye yarışması, genel]
-lastDate: 1697403600
-dateHuman: "16 Ekim 2023"
+lastDate: 1696539600
+dateHuman: "6 Ekim 2023"
 comTopic: "Serbest"
 attendance: "Websitesi"
 organizer: "Kayseri Büyükşehir Belediyesi"
