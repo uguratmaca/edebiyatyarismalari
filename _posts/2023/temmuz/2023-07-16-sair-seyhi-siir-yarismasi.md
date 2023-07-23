@@ -11,7 +11,7 @@ attendance: "E-Posta"
 organizer: "Kütahya Belediyesi"
 price: "25 Bin TL'dir."
 requirements: "Türkiye genelinden 18 yaş üzeri herkes katılabilir."
-permalink: "sair-seyhi-siir-yarismasi"
+permalink: "sair-seyhi-siir-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/temmuz/sair-seyhi-siir-yarismasi.jpg"
 excerpt:  "Kütahya Belediyesi <strong> Şair Şeyhi Şiir Yarışması </strong> düzenliyor."
 ---

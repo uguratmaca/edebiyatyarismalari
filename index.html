@@ -10,12 +10,11 @@ title: "Edebiyat Yarışmaları | Edebiyat Ödülleri"
 	{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 	{% assign nowDateInt = nowunix | plus: 0 %}
 	{% assign counter = 0 %}
-	{% assign counter2 = 0 %}
 
 	{% for post in site.posts %}
 		{% if post.hidden != true and post.sticky != true and post.lastDate > nowDateInt%}
 			{% assign counter = counter | plus:1 %}
-				{% if counter < 4 %} 
+				{% if counter < 7 %} 
 					{% include postdetail.html %} 
 				{% endif %} 
 		{% endif %} 
@@ -25,15 +24,6 @@ title: "Edebiyat Yarışmaları | Edebiyat Ödülleri"
 		{% if post.sticky == true and post.lastDate > nowDateInt %}
 			{% include postdetail.html %}
 		{% endif %}
-	{% endfor %}
-
-	{% for post in site.posts %}
-		{% if post.hidden != true and post.sticky != true and post.lastDate > nowDateInt%}
-			{% assign counter2 = counter2 | plus:1 %}
-				{% if counter2 > 3 and counter2 < 7 %} 
-					{% include postdetail.html %} 
-				{% endif %} 
-		{% endif %} 
 	{% endfor %}
 
 	<section class="row mb-5">

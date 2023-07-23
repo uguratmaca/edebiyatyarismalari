@@ -11,7 +11,7 @@ attendance: "E-Posta"
 organizer: "Türk Japon Vakfı"
 price: "30 Bin TL'dir."
 requirements: "Türkiye geneli ilkokul, ortaokul, lise ve özel eğitim okullarındaki öğrenciler katılabilir."
-permalink: "afet-risk-azaltma-proje-yarismasi"
+permalink: "afet-risk-azaltma-proje-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/temmuz/afet-risk-azaltma-proje-yarismasi.jpg"
 excerpt:  "Türk Japon Vakfı <strong> Afet Risk Azaltma Proje Yarışması </strong> düzenliyor."
 ---

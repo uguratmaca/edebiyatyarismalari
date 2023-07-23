@@ -10,7 +10,7 @@ comTopic: "Özgürlük, Demokrasi ve Adalet"
 attendance: "E-Posta"
 organizer: "Bursa Barosu"
 requirements: "Avukat, hâkim, savcı, stajyer avukat, hukuk ve iletişim fakültesi öğrencileri ve gazeteciler katılabilir."
-permalink: "cengiz-goral-makale-yarismasi"
+permalink: "cengiz-goral-makale-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/temmuz/cengiz-goral-makale-yarismasi.jpg"
 excerpt:  "Bursa Barosu <strong> Avukat Cengiz Göral Makale Yarışması </strong> düzenliyor."
 ---
