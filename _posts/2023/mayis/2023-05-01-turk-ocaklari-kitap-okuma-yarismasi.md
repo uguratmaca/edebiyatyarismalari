@@ -4,7 +4,6 @@ title: "Cumhuriyet 100. Yaşında Kitap Okuma Yarışması"
 description: "Türk Ocakları İstanbul Şubesi 'Cumhuriyet 100. Yaşında Kitap Okuma Yarışması' düzenliyor."
 category: articles
 tags: [ağustos 2023, kitap okuma yarışması, üniversite]
-lastDate: 1693342800
 dateHuman: "30 Ağustos 2023"
 attendance: "Websitesi"
 organizer: "Türk Ocakları İstanbul Şubesi"
@@ -14,6 +13,8 @@ permalink: "turk-ocaklari-kitap-okuma-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mayis/turk-ocaklari-kitap-okuma-yarismasi.jpg"
 excerpt:  "Türk Ocakları İstanbul Şubesi <strong> Cumhuriyet 100. Yaşında Kitap Okuma Yarışması </strong> düzenliyor."
 ---
+
+## Yarışma yeterli sayıda katılımın olmaması nedeni ile iptal edilmiştir!
 
 ## Cumhuriyet 100. Yaşında Kitap Okuma Yarışması
 Türk Ocakları İstanbul Şubesi **Cumhuriyet 100. Yaşında Kitap Okuma Yarışması** düzenliyor.  
