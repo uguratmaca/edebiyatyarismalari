@@ -4,7 +4,7 @@ title: "7. Güzel Ordu Kısa Film Yarışması"
 description: "Güzel Ordu Kültür Sanat Vakfı '7. Güzel Ordu Kısa Film Yarışması' düzenliyor."
 category: articles
 tags: [ekim 2023, kısa film yarışması, genel]
-lastDate: 1652043600
+lastDate: 1697749200
 dateHuman: "20 Ekim 2023"
 comTopic: "Empati"
 attendance: "Websitesi"
