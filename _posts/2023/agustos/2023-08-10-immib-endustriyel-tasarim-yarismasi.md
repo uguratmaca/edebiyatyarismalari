@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Amorf Doğal Taş Proje Ve Tasarım Yarışması"
-description: "İstanbul Demir ve Demir Dışı Metaller İhracatçıları Birliği (İDDMİB) 'Amorf Doğal Taş Proje Ve Tasarım Yarışması' düzenliyor."
+title: "İMMİB Endüstriyel Tasarım Yarışması"
+description: "İstanbul Demir ve Demir Dışı Metaller İhracatçıları Birliği (İDDMİB) 'İMMİB Endüstriyel Tasarım Yarışması' düzenliyor."
 category: articles
 tags: [kasım 2023, tasarım yarışması, üniversite]
 lastDate: 1698958800
@@ -13,11 +13,11 @@ price: "134 Bin TL'dir."
 requirements: "35 yaşını doldurmamış, üniversitelerin endüstriyel tasarım bölümü, güzel sanatlar ve mimarlık fakültesi bölümlerine kayıtlı lisans öğrencileri ve mezunları ile bu bölümlere ilişkin yüksek lisans/doktora öğrencileri veya mezunları veya ETMK üyeleri katılabilir."
 permalink: "immib-endustriyel-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/immib-endustriyel-tasarim-yarismasi.jpg"
-excerpt:  "İstanbul Demir ve Demir Dışı Metaller İhracatçıları Birliği (İDDMİB) <strong> Amorf Doğal Taş Proje Ve Tasarım Yarışması </strong> düzenliyor."
+excerpt:  "İstanbul Demir ve Demir Dışı Metaller İhracatçıları Birliği (İDDMİB) <strong> İMMİB Endüstriyel Tasarım Yarışması </strong> düzenliyor."
 ---
 
-## Amorf Doğal Taş Proje Ve Tasarım Yarışması
-İstanbul Demir ve Demir Dışı Metaller İhracatçıları Birliği (İDDMİB) **Amorf Doğal Taş Proje Ve Tasarım Yarışması** düzenliyor.  
+## İMMİB Endüstriyel Tasarım Yarışması
+İstanbul Demir ve Demir Dışı Metaller İhracatçıları Birliği (İDDMİB) **İMMİB Endüstriyel Tasarım Yarışması** düzenliyor.  
 
 Katılım Koşulları:
 - Yarışma katılımı için ön şart, T.C. vatandaşı olmak veya - T.C. vatandaşı olmayan kişiler için - T.C. üniversitelerinin B fıkrasında sözü edilen ilgili bölümlerinde öğrenci yada ilgili bölümlerinden mezun olmaktır.
@@ -35,7 +35,7 @@ Katılım Koşulları:
 - Yukarıda sayılan maddeler kapsamında aksi bir durumun tespiti halinde, ilgili projeler ve yarışmacılar yarışmadan diskalifiye edilir. Ödül kazandıysa İMMİB Genel Sekreterliğince ödülü geri alınır.
 
 
-### Amorf Doğal Taş Proje Ve Tasarım Yarışması Ödülleri
+### İMMİB Endüstriyel Tasarım Yarışması Ödülleri
 - Birinci: 60.000 TL 
 - İkinci: 45.000 TL 
 - Üçüncü: 25.000 TL 
