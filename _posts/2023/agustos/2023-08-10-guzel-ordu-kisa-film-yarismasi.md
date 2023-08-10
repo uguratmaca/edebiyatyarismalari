@@ -46,7 +46,7 @@ Katılım Koşulları:
 - Yarışmaya Türkiye Cumhuriyeti vatandaşı olan herkes başvurabilir. Türkiye Cumhuriyeti vatandaşı olmayan kimselerin başvurusu dikkate alınmayacaktır.
 
 ### 7. Güzel Ordu Kısa Film Yarışması Ödülleri
-- Birinci: 15.000 TL + Plaket (Oğuzhan Tercan Ödülü))
+- Birinci: 15.000 TL + Plaket (Oğuzhan Tercan Ödülü)
 - İkinci: 10.000 TL + Plaket
 - Üçüncü: 5.000 TL + Plaket
 
