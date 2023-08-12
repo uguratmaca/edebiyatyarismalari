@@ -42,4 +42,4 @@ Katılım Koşulları:
 - Ödül alan yönetmenlere birer “İFSAK BAŞARI PLAKETİ” verilir.
 
 
-### [Başvuru Formu](https://tr.surveymonkey.com/r/T7CF8R8/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://www.ifsak.org.tr/44-ifsak-ulusal-kisa-film-ve-belgesel-yarismasi/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
