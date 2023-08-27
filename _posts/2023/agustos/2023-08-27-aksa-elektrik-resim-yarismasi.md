@@ -38,8 +38,8 @@ Katılım Koşulları:
 
 
 ### Senin Enerjin Senin Resmin Resim Yarışması Ödülleri
-- Birinci: Laptop, 
-- İkinci: Tablet, 
+- Birinci: Laptop
+- İkinci: Tablet
 - Üçüncü: Dijital Saat
 - 4–10’uncu sıradakilere: 1.000 TL değerinde Amazon hediye çeki verilecektir. 
 - Ayrıca yarışmamıza katılım sağlayan tüm öğrenciler adına afet bölgesindeki çocuklarımızın nitelikli eğitim desteği alması için TEGV’e bağış yapılacaktır.
