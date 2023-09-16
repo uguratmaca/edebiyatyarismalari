@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Mustafa Özbey Öykü Yarışması"
-description: "Yaşar Dondurma ve Gıda Maddeleri A.Ş (MADO), Kahramanmaraş Edebiyat ve Sanat Derneği (MESDER) 'Mustafa Özbey Öykü Yarışması' düzenliyor."
+title: "Deprem Konulu Öykü Yarışması"
+description: "Yaşar Dondurma ve Gıda Maddeleri A.Ş (MADO), Kahramanmaraş Edebiyat ve Sanat Derneği (MESDER) 'Deprem Konulu Öykü Yarışması' düzenliyor."
 category: articles
 tags: [kasım 2023, hikaye yarışması, genel]
 lastDate: 1699218000
@@ -13,11 +13,11 @@ price: "25 Bin 500 TL'dir."
 requirements: "18 yaşından gün almış herkes katılabilir."
 permalink: "mesder-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/eylul/mesder-oyku-yarismasi.jpg"
-excerpt:  "Yaşar Dondurma ve Gıda Maddeleri A.Ş (MADO), Kahramanmaraş Edebiyat ve Sanat Derneği (MESDER) <strong> Mustafa Özbey Öykü Yarışması </strong> düzenliyor."
+excerpt:  "Yaşar Dondurma ve Gıda Maddeleri A.Ş (MADO), Kahramanmaraş Edebiyat ve Sanat Derneği (MESDER) <strong> Deprem Konulu Öykü Yarışması </strong> düzenliyor."
 ---
 
-## Mustafa Özbey Öykü Yarışması
-Yaşar Dondurma ve Gıda Maddeleri A.Ş (MADO), Kahramanmaraş Edebiyat ve Sanat Derneği (MESDER) **Mustafa Özbey Öykü Yarışması** düzenliyor.  
+## Deprem Konulu Öykü Yarışması
+Yaşar Dondurma ve Gıda Maddeleri A.Ş (MADO), Kahramanmaraş Edebiyat ve Sanat Derneği (MESDER) **Deprem Konulu Öykü Yarışması** düzenliyor.  
 
 Katılım Koşulları:
 - Yaşar Dondurma ve Gıda Maddeleri A.Ş (MADO) ile Kahramanmaraş Edebiyat ve Sanat Derneği (MESDER), depremin insanın bireysel ve sosyal hayatında oluşturduğu etkiyi öykü tekniği ile dile getirmek amacıyla ülke genelinde deprem konulu öykü yarışması düzenlemiştir.  
@@ -47,7 +47,7 @@ Katılım Koşulları:
 - Yarışmaya hikâye gönderen eser sahipleri bu şartları kabul etmiş sayılacaktır.
 
 
-### Mustafa Özbey Öykü Yarışması Ödülleri
+### Deprem Konulu Öykü Yarışması Ödülleri
 - Birinci: 10.000 TL
 - İkinci: 7.500 TL
 - Üçüncü: 5.000 TL
