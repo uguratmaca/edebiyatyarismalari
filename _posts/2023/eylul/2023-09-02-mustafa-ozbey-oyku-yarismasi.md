@@ -9,7 +9,7 @@ dateHuman: "29 Eylül 2023"
 attendance: "E-Posta"
 organizer: "Günce Yayınları"
 requirements: "İsteyen herkes katılabilir."
-permalink: "mustafa-ozbey-oyku-yarismasi"
+permalink: "mustafa-ozbey-oyku-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/eylul/mustafa-ozbey-oyku-yarismasi.jpg"
 excerpt:  "Günce Yayınları <strong> Mustafa Özbey Öykü Yarışması </strong> düzenliyor."
 ---
