@@ -28,7 +28,9 @@ https://edebiyatyarismalari.com/resat-nuri-guntekin-yarismalari/
 sait faik abasıyanık
 https://edebiyatyarismalari.com/sait-faik-abasiyanik-yarismalari/
 
-## Local Serve  
+## Local Serve
+- install ruby
+- gem install bundler
 - bundle install
 - jekyll serve
 
