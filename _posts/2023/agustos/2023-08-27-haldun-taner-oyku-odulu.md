@@ -10,7 +10,7 @@ attendance: "Posta/Kargo"
 organizer: "Milliyet Gazetesi"
 price: "25 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
-permalink: "haldun-taner-oyku-odulu"
+permalink: "haldun-taner-oyku-odulu-2023"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/haldun-taner-oyku-odulu.jpg"
 excerpt:  "Milliyet Gazetesi <strong> Haldun Taner Öykü Ödülü </strong> düzenliyor."
 ---
