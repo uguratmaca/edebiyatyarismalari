@@ -8,7 +8,7 @@ lastDate: 1696021200
 dateHuman: "30 Eylül 2023"
 organizer: "Türkiye Gazeteciler Cemiyeti (TGC)"
 requirements: "Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir."
-permalink: "sedat-simavi-odulleri"
+permalink: "sedat-simavi-odulleri-2023"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/sedat-simavi-odulleri.jpg"
 excerpt:  "Türkiye Gazeteciler Cemiyeti (TGC) <strong> Sedat Simavi Ödülleri 2023 </strong> düzenliyor."
 ---
