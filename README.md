@@ -37,3 +37,7 @@ https://edebiyatyarismalari.com/sait-faik-abasiyanik-yarismalari/
 ## Date  
 - https://jsbin.com/yodinefodu/edit?js,console
 - console.log(new Date(2022,4,9).getTime()/1000)
+
+
+## Add Google Calendar
+https://calendar.google.com/calendar/u/1?cid=ZWRlYml5YXQueWFyaXNtYWxhcmlAZ21haWwuY29t
