@@ -10,8 +10,8 @@ comTopic: "Cumhuriyet’in Kazanımları"
 attendance: "E-Posta"
 organizer: "Eskişehir Toplum Ve Sanat Derneği (ETOS)"
 requirements: "İsteyen herkes katılabilir."
-permalink: "besir-gogus-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/ekim/besir-gogus-oyku-yarismasi.jpg"
+permalink: "cumhuriyetin-yuzuncu-yili-siir-yarismasi"
+image: "https://edebiyatyarismalari.com/images/2023/ekim/cumhuriyetin-yuzuncu-yili-siir-yarismasi.jpg"
 excerpt:  "Eskişehir Toplum Ve Sanat Derneği (ETOS) <strong> Cumhuriyet’in Yüzüncü Yılı Şiir Yarışması </strong> düzenliyor."
 ---
 
