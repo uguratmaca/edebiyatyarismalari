@@ -54,3 +54,7 @@ Hikayelerinizi dört gözle bekliyoruz. İlhamınız bol olsun.
 - Birinci: 2500 TL
 - İkinci: 1500 TL
 - Üçüncü: 500 TL
+
+## Bağlantılar
+[İnsan Evreni Hikaye Yarışması](https://insanevreni.com/hikayeyarismasi/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+[Evren Bilgileri](https://insanevreni.com/evren-bilgileri/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
