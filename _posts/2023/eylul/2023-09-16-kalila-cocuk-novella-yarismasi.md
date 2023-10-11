@@ -3,7 +3,7 @@ layout: post
 title: "Kalila Çocuk Novella Yarışması"
 description: "Kalila Yayınevi 'Kalila Çocuk Novella Yarışması' düzenliyor."
 category: articles
-tags: [aralık 2023, hikaye yarışması, deneme yarışması, genel]
+tags: [aralık 2023, roman yarışması, genel]
 lastDate: 1703970000
 dateHuman: "31 Aralık 2023"
 attendance: "E-Posta"
