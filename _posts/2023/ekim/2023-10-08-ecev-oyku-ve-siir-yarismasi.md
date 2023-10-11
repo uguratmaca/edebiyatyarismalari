@@ -7,7 +7,7 @@ tags: [kasım 2023, şiir yarışması, hikaye yarışması, ortaokul, lise]
 lastDate: 1699563600
 dateHuman: "10 Kasım 2023"
 comTopic: "Cesaret"
-attendance: "Kargo/Posta"
+attendance: "Çevrimiçi/Online/Websitesi"
 organizer: "Ege Çağdaş Eğitim Vakfı (EÇEV)"
 requirements: "İzmir il sınırları içinde yer alan resmi-özel ortaokul ve liselerin öğrencileri katılabilir."
 permalink: "ecev-oyku-ve-siir-yarismasi"
@@ -56,4 +56,4 @@ Katılım Koşulları:
     - Yedi Özendirme Ödülü (başarı belgesi ve öykü-şiir türünde üçer kitaplık setler)
 
 
-### [Başvuru Formu](https://ecevcocukvegenclikedebiyati.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://docs.google.com/forms/d/e/1FAIpQLSe4X4II7zTXJnscdKSeHyza9p7Sm-zoI3-o9ZAmLHMMONzw_w/viewform?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
