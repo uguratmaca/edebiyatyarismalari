@@ -10,7 +10,7 @@ comTopic: "Serbest"
 attendance: "E-Posta"
 organizer: "Mahal Edebiyat"
 requirements: "18 yaş üzeri yazar ve yazar adayları katılabilir."
-permalink: "mahal-edebiyat-oyku-yarismasi"
+permalink: "mahal-edebiyat-oyku-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/ekim/mahal-edebiyat-oyku-yarismasi.jpg"
 excerpt:  "Mahal Edebiyat <strong> II. Öykü Yarışması </strong> düzenliyor."
 ---
