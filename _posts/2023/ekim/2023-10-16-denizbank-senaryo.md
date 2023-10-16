@@ -11,7 +11,7 @@ organizer: "Denizbank"
 requirements: "18 yaşını doldurmuş herkes katılabilir."
 price: "20 Bin TL'dir"
 permalink: "7-denizbank-ilk-senaryo-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/ekim/zeytinburnu-oyku-yarismasi-2023.jpg"
+image: "https://edebiyatyarismalari.com/images/2023/ekim/7-denizbank-senaryo-yarismasi.jpg"
 excerpt:  "Denizbank ve Türsak Vakfı <strong>7. DenizBank İlk Senaryo İlk Film Yarışması</strong>nı duyurdu."
 ---
 
