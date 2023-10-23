@@ -7,6 +7,7 @@ tags: [kasım 2023, beste yarışması, genel]
 lastDate: 1699563600
 dateHuman: "10 Kasım 2023"
 attendance: "Websitesi"
+hidden: true
 organizer: "Bursa Büyükşehir Belediyesi"
 requirements: "İsteyen herkes katılabilir."
 price: "270 Bin TL'dir"

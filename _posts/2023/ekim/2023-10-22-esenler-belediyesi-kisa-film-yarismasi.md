@@ -6,6 +6,7 @@ category: articles
 tags: [kasım 2023, kısa film yarışması, genel]
 lastDate: 1699736400
 dateHuman: "12 Kasım 2023"
+hidden: true
 attendance: "Websitesi"
 organizer: "Esenler Belediyesi Kültür İşleri Müdürlüğü"
 requirements: "İsteyen herkes katılabilir."
