@@ -39,7 +39,7 @@ Katılım Koşulları:
 - Yarışmaya gönderdiği şiir üzerinde, yapıt kendisine ait olmadığı halde kendisininmiş gibi göstermeye ve seçici kurulu yanıltmaya yönelik her türlü müdahale ve değişiklikler kural ihlali sayılır.
 
 
-### Filistin’de Yaşananlar Resim ve Şiir Yarışması
+### Filistin’de Yaşananlar Resim ve Şiir Yarışması Ödülleri
 Resim Yarışması Kategorisi / Ortaokul:
 - Birinci: 3.000 TL
 - İkinci: 2.000 TL
