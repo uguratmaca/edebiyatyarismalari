@@ -6,7 +6,7 @@ category: hikaye
 tags: [nisan 2024, şiir yarışması, genel]
 lastDate: 1713128400
 dateHuman: "15 Nisan 2024"
-attendance: "Eldenn/Kargo/Posta"
+attendance: "Elden/Kargo/Posta"
 organizer: "Cide Belediye Başkanlığı"
 requirements: "İsteyen herkes katılabilir."
 price: "5 Bin TL'dir"
