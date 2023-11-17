@@ -4,7 +4,7 @@ title: "2. Mustafa Özbey Edebiyat Ödülü Öykü Yarışması Kazananları Bel
 description: "Menteşe Belediyesi tarafından düzenlenen 2. Mustafa Özbey Edebiyat Ödülü Öykü Yarışması kazananları belli olmuştur."
 category: articles
 tags: [sonuç 2023]
-permalink: "mustafa-ozbey-oyku-yarismasi-sonuc"
+permalink: "2-mustafa-ozbey-oyku-yarismasi-sonuc"
 excerpt: "Menteşe Belediyesi tarafından düzenlenen 2. Mustafa Özbey Edebiyat Ödülü Öykü Yarışması kazananları belli olmuştur."
 image: "https://edebiyatyarismalari.com/images/2023/kasim/mustafa-ozbey-oyku-yarismasi-sonuc.jpg"
 ---
