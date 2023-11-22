@@ -2,7 +2,7 @@
 layout: post
 title: "Aşık Veysel Şiir Yarışması"
 description: "BİLSEM 'Aşık Veysel Şiir Yarışması' düzenliyor."
-category: hikaye
+category: articles
 tags: [aralık 2023, şiir yarışması, genel]
 lastDate: 1701378000
 dateHuman: "1 Aralık 2023"

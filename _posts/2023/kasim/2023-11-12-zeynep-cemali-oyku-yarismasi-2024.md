@@ -2,7 +2,7 @@
 layout: post
 title: "Zeynep Cemali Öykü Yarışması 2024"
 description: "Günışığı Kitaplığı 'Zeynep Cemali Öykü Yarışması 2024' düzenliyor."
-category: hikaye
+category: articles
 tags: [mayıs 2024, hikaye yarışması, ortaokul]
 lastDate: 1716930000
 dateHuman: "29 Mayıs 2024"

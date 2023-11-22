@@ -2,7 +2,7 @@
 layout: post
 title: "Cumhuriyetimizin 2. Yüzyılına ve Atatürk’e Mektup Yarışması"
 description: "Bursa Milli Eğitim Müdürlüğü 'Cumhuriyetimizin 2. Yüzyılına ve Atatürk’e Mektup Yarışması' düzenliyor."
-category: hikaye
+category: articles
 tags: [aralık 2023, mektup yarışması, ortaokul]
 lastDate: 1703970000
 dateHuman: "31 Aralık 2023"

@@ -2,7 +2,7 @@
 layout: post
 title: "11. İsmail Sivri Öykü Yarışması"
 description: "İzmir Gazeteciler Cemiyeti '11. İsmail Sivri Öykü Yarışması' düzenliyor."
-category: hikaye
+category: articles
 tags: [kasım 2023, hikaye yarışması, ortaokul, lise]
 lastDate: 1701291600
 dateHuman: "30 Kasım 2023"

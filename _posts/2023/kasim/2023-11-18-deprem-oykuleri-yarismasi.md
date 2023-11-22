@@ -2,7 +2,7 @@
 layout: post
 title: "Deprem Öyküleri Yarışması"
 description: "İnönü Üniversitesi 'Deprem Öyküleri Yarışması' düzenliyor."
-category: hikaye
+category: articles
 tags: [ocak 2024, hikaye yarışması, genel]
 lastDate: 1704056400
 dateHuman: "1 Ocak 2024"

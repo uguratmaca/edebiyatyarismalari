@@ -2,7 +2,7 @@
 layout: post
 title: "Enerji Bakanlığı Öykü Yarışması"
 description: "Enerji Bakanlığı 'öykü yarışması' düzenliyor."
-category: hikaye
+category: articles
 tags: [kasım 2023, makale yarışması, ortaokul]
 lastDate: 1699563600
 dateHuman: "10 Kasım 2023"

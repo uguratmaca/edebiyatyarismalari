@@ -2,7 +2,7 @@
 layout: post
 title: "Gençlerin Bakışından Yunus Emre Kompozisyon Yarışması"
 description: "Eskişehir Alpu Anadolu Lisesi 'Gençlerin Bakışından Yunus Emre Kompozisyon Yarışması' düzenliyor."
-category: hikaye
+category: articles
 tags: [aralık 2023, kompozisyon yarışması, ortaokul]
 lastDate: 1702328400
 dateHuman: "12 Aralık 2023"

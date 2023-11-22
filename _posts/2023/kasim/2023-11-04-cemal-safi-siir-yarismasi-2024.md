@@ -2,7 +2,7 @@
 layout: post
 title: "5. Cemal Safi Şiir Yarışması"
 description: "İlkadım Belediyesi '5. Cemal Safi Şiir Yarışması' düzenliyor."
-category: hikaye
+category: articles
 tags: [ocak 2024, şiir yarışması, genel]
 lastDate: 1706216400
 dateHuman: "26 Ocak 2024"

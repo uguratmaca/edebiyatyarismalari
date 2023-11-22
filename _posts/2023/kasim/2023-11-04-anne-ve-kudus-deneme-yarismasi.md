@@ -2,7 +2,7 @@
 layout: post
 title: "Anne ve Kudüs Deneme Yarışması"
 description: "ANADER 'Anne ve Kudüs Deneme Yarışması' düzenliyor."
-category: hikaye
+category: articles
 tags: [şubat 2024, deneme yarışması, lise, genel]
 lastDate: 1708376400
 dateHuman: "20 Şubat 2024"
