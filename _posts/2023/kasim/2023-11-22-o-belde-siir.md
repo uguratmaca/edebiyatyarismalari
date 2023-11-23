@@ -13,3 +13,4 @@ referenceUrl: "https://obelde.com/ey-aksam3siiryarismasi"
 excerpt:  "Bir kültür sanat platformu O Belde olarak, hem bizlere ilham veren Ahmet Haşim'i yad etmek ve belki onun anlaşılmasına vesile olmak, hem topluluğumuz büyüterek yeni kimselerle sayımızı arttırmak; daha mühimi edebi sahada daha çok teksif edebilmek için akşam konulu <strong>3. O Belde Şiir Yarışması</strong> düzenliyoruz.
 "
 ---
+[Detaylar](https://obelde.com/ey-aksam3siiryarismasi)
