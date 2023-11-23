@@ -12,3 +12,4 @@ requirements: " Herkes katılabilir."
 referenceUrl: "https://obelde.com/ey-aksamhikayeyarismasi"
 excerpt:  "Bir kültür sanat platformu O Belde olarak, hem bizlere ilham veren Ahmet Haşim'i yad etmek ve belki onun anlaşılmasına vesile olmak, hem topluluğumuz büyüterek yeni kimselerle sayımızı arttırmak; daha mühimi edebi sahada daha çok teksif edebilmek için akşam konulu <strong>O Belde Hikaye Yarışması</strong> düzenliyoruz."
 ---
+[Detaylar](https://obelde.com/ey-aksamhikayeyarismasi)
