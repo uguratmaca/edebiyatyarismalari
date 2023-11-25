@@ -2,7 +2,7 @@
 layout: post
 title: "1. Ganeşa Mitolojik Öykü Yarışması"
 description: "Ganeşa Yayınevi '1. Ganeşa Mitolojik Öykü Yarışması' düzenliyor."
-category: hikaye
+category: articles
 tags: [şubat 2024, hikaye yarışması, genel]
 lastDate: 1707944400
 dateHuman: "15 Şubat 2024"
