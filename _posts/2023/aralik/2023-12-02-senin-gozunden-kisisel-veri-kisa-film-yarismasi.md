@@ -7,6 +7,7 @@ tags: [mart 2024, kısa film yarışması, üniversite]
 lastDate: 1709240400
 dateHuman: "1 Mart 2024"
 attendance: "E-Posta"
+hidden: true
 organizer: "Kişisel Verileri Koruma Kurumu"
 requirements: "Türkiye’deki üniversitelerin; İletişim Fakültesi, Güzel Sanatlar Fakültesi, Sanat, Tasarım ve Mimarlık Fakültesi, Güzel Sanatlar ve Mimarlık Fakültesi’nde eğitim gören öğrenciler katılabilir."
 price: "65 Bin TL'dir."
