@@ -3,7 +3,7 @@ layout: post
 title: "Büyüklerimizden Masallar Yarışması"
 description: "Diyanet İşleri Başkanlığı 'Büyüklerimizden Masallar Yarışması' düzenliyor."
 category: articles
-tags: [aralık 2023, hikaye yarışması, genel]
+tags: [aralık 2023, masal yarışması, genel]
 lastDate: 1703797200
 dateHuman: "29 Aralık 2023"
 comTopic: "İyilik ile Gönüllere Dokun"
