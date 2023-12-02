@@ -16,4 +16,6 @@ description: "2023 yılında düzenlenmiş olan tüm kitap okuma yarışması, �
    <li class='nav-item'><a class='nav-link' href='/temmuz-2023-yarismalar/'>Temmuz 2023 Yarışmaları</a></li>
    <li class='nav-item'><a class='nav-link' href='/agustos-2023-yarismalar/'>Ağustos 2023 Yarışmaları</a></li>
    <li class='nav-item'><a class='nav-link' href='/eylul-2023-yarismalar/'>Eylül 2023 Yarışmaları</a></li>
+   <li class='nav-item'><a class='nav-link' href='/ekim-2023-yarismalar/'>Ekim 2023 Yarışmaları</a></li>
+   <li class='nav-item'><a class='nav-link' href='/kasim-2023-yarismalar/'>Kasım 2023 Yarışmaları</a></li>
 </ul>
