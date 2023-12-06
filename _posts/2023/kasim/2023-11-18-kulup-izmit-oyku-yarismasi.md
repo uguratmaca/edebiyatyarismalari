@@ -4,7 +4,7 @@ title: "2. Yıl Programı Ödüllü Öykü Yarışması"
 description: "Kulüp Edebiyat Dergisi '2. Yıl Programı Ödüllü Öykü Yarışması' düzenliyor."
 category: articles
 tags: [aralık 2023, hikaye yarışması, genel]
-lastDate: 1701291600
+lastDate: 1702594800
 dateHuman: "15 Aralık 2023"
 attendance: "E-Posta"
 organizer: "Kulüp Edebiyat Dergisi"
