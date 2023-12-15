@@ -11,7 +11,7 @@ attendance: "Websitesi"
 organizer: "Yutbay Seramik"
 requirements: "Türkiye ve KKTC’deki üniversitelerin Mimarlık, Güzel Sanatlar, Görsel Sanatlar, Sanat ve Tasarım Fakülteleri ile Mühendislik Fakültelerine bağlı mimarlık, görsel iletişim ve tasarım disiplinlerini kapsayan bölümlerinde öğrenim gören ön lisans, lisans ve lisansüstü öğrencileri katılabilir."
 price: "150 Bin TL'dir."
-permalink: "zeki-yurtbay-tasarim-yarismasi"
+permalink: "zeki-yurtbay-tasarim-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/aralik/zeki-yurtbay-tasarim-yarismasi.jpg"
 excerpt:  "Yutbay Seramik <strong> 11. Zeki Yurtbay Tasarım Yarışması </strong> düzenliyor."
 ---
