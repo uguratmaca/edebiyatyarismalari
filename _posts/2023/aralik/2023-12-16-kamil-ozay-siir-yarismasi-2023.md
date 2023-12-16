@@ -36,6 +36,6 @@ Katılım Koşulları:
 
 
 ### Kamil Özay Şiir Yarışması Ödülleri
-- Birinci: iir Dosyasının Kitap Olarak Yayınlanması ve 2.000 TL (Temsili telif)
+- Birinci: Şiir Dosyasının Kitap Olarak Yayınlanması ve 2.000 TL (Temsili telif)
 - İkinci: 5.000 TL
 - Üçüncü: 3.000 TL
