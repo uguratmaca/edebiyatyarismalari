@@ -6,7 +6,7 @@ category: articles
 tags: [şubat 2024, hikaye yarışması, ortaokul, lise, üniversite]
 lastDate: 1707080400
 dateHuman: "5 Şubat 2024"
-attendance: "Elden/E-Posta/Kargo"
+attendance: "Elden/Posta/Kargo"
 organizer: "Uşak Belediyesi"
 requirements: "Uşak’ta ortaokul, lise veya yükseköğrenime devam eden öğrenciler katılabilir."
 price: "22 Bin 500 TL'dir."
