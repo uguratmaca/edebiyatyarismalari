@@ -23,7 +23,7 @@ Katılım Koşulları:
 - Bu yarışmaya katılım ücretsizdir. 
 - İl Milli Eğitim Müdürlüğü temsilcileri, jüri üyeleri ile birinci dereceden yakınları (akrabaları) yarışmaya katılamazlar. 
 - Yarışmaya gönderilen öyküler daha önce yayınlanmamış ya da herhangi bir ödül kazanmamış veya kopyalanmamış olmalıdır. 
--Yarışmaya okullar bir eser ile katılabilirler. Ortaokul müdürlükleri kuracakları bir komisyon ile katılmak isteyen öğrencilerin arasından seçim yapacaklardır.
+- Yarışmaya okullar bir eser ile katılabilirler. Ortaokul müdürlükleri kuracakları bir komisyon ile katılmak isteyen öğrencilerin arasından seçim yapacaklardır.
 - Yarışma kapsamında verilecek kişisel veriler, 6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca üçüncü kişi, kurum vb. ile paylaşılmayacak, Kayseri İl Milli Eğitim Müdürlüğünce saklanacaktır. 
 - Ödül töreni yarışma takvimine uygun olarak, uygun bir konferans salonunda yüz yüze yapılacaktır. 
 - Öyküler bilgisayar ile A4 boyutunda, Calibri formatında, bir buçuk satır aralıklı ve 12 boyutla yazılacaktır. Öyküler 2 sayfadan az, 5 sayfadan çok olmamalıdır. 
