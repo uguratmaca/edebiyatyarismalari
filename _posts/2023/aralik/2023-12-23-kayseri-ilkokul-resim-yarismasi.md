@@ -6,6 +6,7 @@ category: articles
 tags: [mart 2024, resim yarışması, ilkokul]
 lastDate: 1710450000
 dateHuman: "15 Mart 2024"
+hidden: true
 comTopic: "Bağımlılıkla Mücadelede"
 attendance: "Elden"
 organizer: "Kayseri İl Milli Eğitim Müdürlüğü"
