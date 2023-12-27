@@ -7,7 +7,6 @@ tags: [nisan 2024, hikaye yarışması, genel]
 lastDate: 1713045600
 dateHuman: "14 Nisan 2024"
 attendance: "Web sitesi"
-sticky: true
 organizer: "O Belde"
 requirements: "Herkes katılabilir."
 referenceUrl: "https://obelde.com/ey-aksamhikayeyarismasi"
