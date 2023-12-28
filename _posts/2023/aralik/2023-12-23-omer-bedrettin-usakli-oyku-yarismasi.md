@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ömer Badrettin Uşaklı Öykü yarışması"
-description: "Uşak Belediyesi 'Ömer Badrettin Uşaklı Öykü yarışması' düzenliyor."
+title: "Ömer Bedrettin Uşaklı Öykü yarışması"
+description: "Uşak Belediyesi 'Ömer Bedrettin Uşaklı Öykü yarışması' düzenliyor."
 category: articles
 tags: [şubat 2024, hikaye yarışması, ortaokul, lise, üniversite]
 lastDate: 1707080400
@@ -12,11 +12,11 @@ requirements: "Uşak’ta ortaokul, lise veya yükseköğrenime devam eden öğr
 price: "22 Bin 500 TL'dir."
 permalink: "omer-bedrettin-usakli-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/aralik/omer-bedrettin-usakli-oyku-yarismasi.jpg"
-excerpt:  "Uşak Belediyesi <strong> Ömer Badrettin Uşaklı Öykü yarışması </strong> düzenliyor."
+excerpt:  "Uşak Belediyesi <strong> Ömer Bedrettin Uşaklı Öykü yarışması </strong> düzenliyor."
 ---
 
-## Ömer Badrettin Uşaklı Öykü yarışması
-Uşak Belediyesi **Ömer Badrettin Uşaklı Öykü yarışması** düzenliyor.  
+## Ömer Bedrettin Uşaklı Öykü yarışması
+Uşak Belediyesi **Ömer Bedrettin Uşaklı Öykü yarışması** düzenliyor.  
 
 Katılım Koşulları:
 - Bu yarışmaya, Uşak’ta ortaokul, lise veya yükseköğrenime devam eden öğrenciler katılabilmektedir.
@@ -42,7 +42,7 @@ Katılım Koşulları:
 - Yarışmaya öykü gönderen yarışmacılar bu şartnameyi kabul etmiş sayılır.
 
 
-### Ömer Badrettin Uşaklı Öykü yarışması Ödülleri
+### Ömer Bedrettin Uşaklı Öykü yarışması Ödülleri
 Yükseköğrenim kategorisi için:
 - Esere Para Ödülü: 6.000 TL + Plaket
 - Esere Para Ödülü: 4.000 TL + Plaket
