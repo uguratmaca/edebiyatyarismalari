@@ -54,7 +54,7 @@ Edebiyat yarışmaları olarak şeffaflığa inanıyoruz ve 2022 yılı boyunca 
 - [Cemal Safi Şiir Yarışması 2022](https://edebiyatyarismalari.com/cemal-safi-siir-yarismasi-2022) 11.665
 - [Dadaloğlu 5. Şiir Yarışması](https://edebiyatyarismalari.com/dadaloglu-5-siir-yarismasi) 11.383
 
-### En Çok Okunnan Eserler
+### En Çok Okunan Eserler
 - [Görünmez Adam](https://edebiyatyarismalari.com/blog/gorunmez-adam)
 - [Yaprak Dökümü Gibi Yüreğim](https://edebiyatyarismalari.com/blog/yaprak-dokumu-gibi-yuregim)
 - [Özür Evi](https://edebiyatyarismalari.com/blog/ozur-evi)

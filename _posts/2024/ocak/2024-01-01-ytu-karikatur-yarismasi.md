@@ -12,7 +12,7 @@ hidden: true
 price: "11 Bin TL'dir."
 organizer: "Yıldız Teknik Üniversitesi"
 requirements: "Yüksek Öğretim Kurumu’na bağlı, Türkiye ve KKTC’deki üniversitelerin ön-lisans ve lisans programlarına kayıtlı öğrenciler katılabilir."
-permalink: "ytu-karikatur-yarismasi"
+permalink: "ytu-karikatur-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/ocak/ytu-karikatur-yarismasi.jpg"
 excerpt:  "Yıldız Teknik Üniversitesi <strong> YTÜ Ulusal Karikatür Yarışması </strong> düzenliyor."
 ---

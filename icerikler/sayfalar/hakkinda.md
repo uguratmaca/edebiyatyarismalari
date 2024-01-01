@@ -18,6 +18,8 @@ Edebiyat yarışmaları olarak şeffaflığa inanıyoruz ve verilerimizi sizlerl
 
 İstatistiklerimiz:  
 
+[2022 Yılı İstatistikleri](https://edebiyatyarismalari.com/istatistik/2023)
+
 [2022 Yılı İstatistikleri](https://edebiyatyarismalari.com/istatistik/2022)  
 
 [2021 Yılı İstatistikleri](https://edebiyatyarismalari.com/istatistik/2021)  
