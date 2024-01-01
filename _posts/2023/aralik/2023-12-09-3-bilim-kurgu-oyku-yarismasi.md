@@ -3,7 +3,7 @@ layout: post
 title: "Geleceğe Dokun Bilim Kurgu Öykü Yarışması"
 description: "Demirtaş Anadolu İmam Hatip Lisesi 'Geleceğe Dokun Bilim Kurgu Öykü Yarışması' düzenliyor."
 category: articles
-tags: [mart 2024, hikaye yarışması, lise]
+tags: [mart 2024, hikaye yarışması, lise, bilimkurgu]
 lastDate: 1711832400
 dateHuman: "31 Mart 2024"
 attendance: "Websitesi"

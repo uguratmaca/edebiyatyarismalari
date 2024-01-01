@@ -3,7 +3,7 @@ layout: post
 title: "Av. Kazım Kolcuoğlu Makale Yarışması"
 description: "makale yarışması 2019, para ödüllü yarışmalar 2019, edebiyat yarışmaları 2019"
 category: articles
-tags: [kasım 2019, avukat, makale yarışması]
+tags: [kasım 2019, hukuk, makale yarışması]
 comments: true
 lastDate: 1573678800
 dateHuman: "14 Kasım 2019"

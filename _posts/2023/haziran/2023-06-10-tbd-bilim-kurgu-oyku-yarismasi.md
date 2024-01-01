@@ -3,7 +3,7 @@ layout: post
 title: "TBD Bilimkurgu Öykü Yarışması"
 description: "Türkiye Bilişim Dergisi 'TBD Bilimkurgu Öykü Yarışması' düzenliyor."
 category: articles
-tags: [ağustos 2023, hikaye yarışması, genel]
+tags: [ağustos 2023, hikaye yarışması, genel, bilimkurgu]
 lastDate: 1693429200
 dateHuman: "31 Ağustos 2023"
 attendance: "Websitesi"

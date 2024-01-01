@@ -3,7 +3,7 @@ layout: post
 title: "15. Eskişehir Yunus Emre Şiir Yarışması"
 description: "Eskişehir Sanat Derneği '15. Eskişehir Yunus Emre Şiir Yarışması' düzenliyor."
 category: articles
-tags: [eylül 2023, şiir yarışması, genel]
+tags: [eylül 2023, şiir yarışması, genel, yunus emre]
 lastDate: 1693515600
 dateHuman: "1 Eylül 2023"
 comTopic: "Serbest"

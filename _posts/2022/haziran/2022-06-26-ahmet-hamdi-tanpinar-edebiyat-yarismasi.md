@@ -3,7 +3,7 @@ layout: post
 title: "7. Ahmet Hamdi Tanpınar Edebiyat Yarışması"
 description: "Antalya Kepez Belediyesi '7. Ahmet Hamdi Tanpınar Edebiyat Yarışması' düzenliyor."
 category: articles
-tags: [eylül 2022, anı yarışması, genel]
+tags: [eylül 2022, anı yarışması, genel, ahmet hamdi tanpınar]
 lastDate: 1664485200
 dateHuman: "30 Eylül 2022"
 comTopic: "Anılardan Anlara Antalya"

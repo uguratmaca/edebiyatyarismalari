@@ -3,7 +3,7 @@ layout: post
 title: "Cumhuriyetin 100. Yılı Fotoğraf Yarışması"
 description: "Fotovizyon Fotoğraf Dergisi 'Cumhuriyetin 100. Yılı Fotoğraf Yarışması' düzenliyor."
 category: articles
-tags: [eylül 2023, fotoğraf yarışması, genel]
+tags: [eylül 2023, fotoğraf yarışması, genel, 29 ekim]
 lastDate: 1695502800
 hidden: true
 dateHuman: "24 Eylül 2023"

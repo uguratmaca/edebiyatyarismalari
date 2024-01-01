@@ -3,7 +3,7 @@ layout: post
 title: "Hukuk ve İklim Değişikliği Perspektifinden Ormansızlaşmanın Önlenmesi Makale Yarışması"
 description: "WWF-Türkiye (Doğal Hayatı Koruma Vakfı) ile Kadir Has Üniversitesi İklim Değişikliği ve Hukuk Laboratuvarı (CCLLAB) 'Hukuk ve İklim Değişikliği Perspektifinden Ormansızlaşmanın Önlenmesi Makale Yarışması' düzenliyor."
 category: articles
-tags: [eylül 2023, makale yarışması, üniversite, kıbrıs]
+tags: [eylül 2023, makale yarışması, üniversite, kıbrıs, hukuk]
 lastDate: 1696021200
 dateHuman: "30 Eylül 2023"
 attendance: "E-posta"

@@ -3,7 +3,7 @@ layout: post
 title: "Avukat Özgür Aksoy Şiir Yarışması"
 description: "Bursa Barosu 'Avukat Özgür Aksoy Şiir Yarışması' düzenliyor."
 category: articles
-tags: [temmuz 2023, şiir yarışması, genel, avukat]
+tags: [temmuz 2023, şiir yarışması, genel, hukuk]
 lastDate: 1690750800
 dateHuman: "31 Temmuz 2023"
 comTopic: "Özgürlük, Adalet ve Aşk"

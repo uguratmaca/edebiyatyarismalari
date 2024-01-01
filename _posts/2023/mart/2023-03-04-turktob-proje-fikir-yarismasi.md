@@ -3,7 +3,7 @@ layout: post
 title: "Cumhuriyetimizin 100. Yılında Tohumculuğun Geleceği Proje Fikri Yarışması"
 description: "Türkiye Tohumcular Birliği (TÜRKTOB) 'Cumhuriyetimizin 100. Yılında Tohumculuğun Geleceği Proje Fikri Yarışması' düzenliyor."
 category: articles
-tags: [mart 2023, proje yarışması, üniversite]
+tags: [mart 2023, proje yarışması, üniversite, 29 ekim]
 lastDate: 1680210000
 dateHuman: "31 Mart 2023"
 attendance: "E-Posta/Elden/Posta"

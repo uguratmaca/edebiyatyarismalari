@@ -3,7 +3,7 @@ layout: post
 title: "Uzun İnce Bir Yoldayım Hikaye Yarışması"
 description: "Eskişehir Alpu Anadolu Lisesi 'Uzun İnce Bir Yoldayım Hikaye Yarışması' düzenliyor."
 category: articles
-tags: [ocak 2024, hikaye yarışması, lise]
+tags: [ocak 2024, hikaye yarışması, lise, aşık veysel]
 lastDate: 1704229200
 dateHuman: "3 Ocak 2024"
 comTopic: "“Uzun İnce Bir Yoldayım” Aşık Veysel’in İzinden “Hayat”"

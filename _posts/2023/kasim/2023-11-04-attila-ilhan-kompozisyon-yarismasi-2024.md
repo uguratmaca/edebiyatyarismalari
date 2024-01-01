@@ -3,7 +3,7 @@ layout: post
 title: "16. Attila İlhan Kompozisyon Yarışması"
 description: "Attilâ İlhan Bilim Sanat Kültür Vakfı '16. Attila İlhan Kompozisyon Yarışması' düzenliyor."
 category: articles
-tags: [şubat 2024, kompozisyon yarışması, lise]
+tags: [şubat 2024, kompozisyon yarışması, lise, attila ilhan]
 lastDate: 1708981200
 dateHuman: "27 Şubat 2024"
 attendance: "E-Posta"

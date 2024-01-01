@@ -3,7 +3,7 @@ layout: post
 title: "29 Ekim Cumhuriyet Bayramı Resim Yarışması"
 description: "Batman Petrol İlkokulu '29 Ekim Cumhuriyet Bayramı Resim Yarışması' düzenliyor."
 category: articles
-tags: [ocak 2023, resim yarışması, ilkokul]
+tags: [ocak 2023, resim yarışması, ilkokul, 29 Ekim]
 lastDate: 1673557200
 dateHuman: "13 Ocak 2023"
 hidden: true

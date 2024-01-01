@@ -3,7 +3,7 @@ layout: post
 title: "Aşık Veysel Şiir Yarışması"
 description: "Ankara Müzik ve Güzel Sanatlar Üniversitesi 'Aşık Veysel Şiir Yarışması' düzenliyor."
 category: articles
-tags: [ocak 2024, şiir yarışması, ilkokul, ortaokul, lise, genel]
+tags: [ocak 2024, şiir yarışması, ilkokul, ortaokul, lise, genel, aşık veysel]
 lastDate: 1706648400
 dateHuman: "31 Ocak 2024"
 attendance: "Posta/Kargo"

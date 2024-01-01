@@ -3,7 +3,7 @@ layout: post
 title: "Avukat Cengiz Göral Makale Yarışması"
 description: "Bursa Barosu 'Avukat Cengiz Göral Makale Yarışması' düzenliyor."
 category: articles
-tags: [temmuz 2023, makale yarışması, genel, avukat]
+tags: [temmuz 2023, makale yarışması, genel, hukuk]
 lastDate: 1690750800
 dateHuman: "31 Temmuz 2023"
 comTopic: "Özgürlük, Demokrasi ve Adalet"

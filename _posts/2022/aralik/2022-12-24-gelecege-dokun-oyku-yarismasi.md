@@ -3,7 +3,7 @@ layout: post
 title: "2. Bilim Kurgu Öykü Yarışması"
 description: "Demirtaş Anadolu İmam Hatip Lisesi '2. Bilim Kurgu Öykü Yarışması' düzenliyor."
 category: articles
-tags: [şubat 2023, hikaye yarışması, lise]
+tags: [şubat 2023, hikaye yarışması, lise, bilimkurgu]
 lastDate: 1675717200
 dateHuman: "7 Şubat 2023"
 comTopic: "Geleceğe Dokun"

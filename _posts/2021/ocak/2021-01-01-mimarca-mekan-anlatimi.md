@@ -2,7 +2,7 @@
 layout: post
 title: "Mimarca Mekan Anlatımı Metin Yarışması"
 description: "Mimarca Mekan Anlatıımı Metin Yarışması düz yazılar öykü, hikaye ya da deneme türünde olabilir."
-tags: [ocak 2021, genel, deneme yarışması, hikaye yarışması, mehmet akif ersoy]
+tags: [ocak 2021, genel, deneme yarışması, hikaye yarışması]
 comments: true
 lastDate: 1610658000 
 dateHuman: "15 Ocak 2021"
@@ -11,7 +11,6 @@ comTopic: "Mekan Tasviri"
 price: "10000 TL'dir"
 requirements: "Yarışmaya KKTC veya TC vatandaşı olup, KTMMOB ve TMMOB’a bağlı meslek örgütlerinden herhangi birine üye olan herkes katılabilir"
 permalink: "mimarca-mekan-anlatimi-metin-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2021/ocak/kazim-berzeg-makale-yarismasi.jpg"
 excerpt: "Mimarca Mekan Anlatımı Metin Yarışması düz yazılar öykü, hikaye ya da deneme türünde olabilir."
 ---
 

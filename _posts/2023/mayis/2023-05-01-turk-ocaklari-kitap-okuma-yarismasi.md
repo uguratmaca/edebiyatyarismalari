@@ -3,7 +3,7 @@ layout: post
 title: "Cumhuriyet 100. Yaşında Kitap Okuma Yarışması"
 description: "Türk Ocakları İstanbul Şubesi 'Cumhuriyet 100. Yaşında Kitap Okuma Yarışması' düzenliyor."
 category: articles
-tags: [ağustos 2023, kitap okuma yarışması, üniversite]
+tags: [ağustos 2023, kitap okuma yarışması, üniversite, 29 ekim]
 dateHuman: "30 Ağustos 2023"
 attendance: "Websitesi"
 organizer: "Türk Ocakları İstanbul Şubesi"

@@ -3,7 +3,7 @@ layout: post
 title: "Mehmet Akif Ersoy Ve İstiklal Resim Yarışması"
 description: "Sivas Merkez Vali M. Lütfullah Bilgin İlkokulu 'Mehmet Akif Ersoy Ve İstiklal Resim Yarışması' düzenliyor."
 category: articles
-tags: [şubat 2023, resim yarışması, ilkokul]
+tags: [şubat 2023, resim yarışması, ilkokul, mehmet akif ersoy]
 lastDate: 1677186000
 hidden: true
 dateHuman: "24 Şubat 2023"

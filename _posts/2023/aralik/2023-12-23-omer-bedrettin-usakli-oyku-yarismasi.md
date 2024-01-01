@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ömer Bedrettin Uşaklı Öykü yarışması"
+title: "Ömer Bedrettin Uşaklı Öykü Yarışması"
 description: "Uşak Belediyesi 'Ömer Bedrettin Uşaklı Öykü yarışması' düzenliyor."
 category: articles
 tags: [şubat 2024, hikaye yarışması, ortaokul, lise, üniversite]
@@ -15,8 +15,8 @@ image: "https://edebiyatyarismalari.com/images/2023/aralik/omer-bedrettin-usakli
 excerpt:  "Uşak Belediyesi <strong> Ömer Bedrettin Uşaklı Öykü yarışması </strong> düzenliyor."
 ---
 
-## Ömer Bedrettin Uşaklı Öykü yarışması
-Uşak Belediyesi **Ömer Bedrettin Uşaklı Öykü yarışması** düzenliyor.  
+## Ömer Bedrettin Uşaklı Öykü Yarışması
+Uşak Belediyesi **Ömer Bedrettin Uşaklı Öykü Yarışması** düzenliyor.  
 
 Katılım Koşulları:
 - Bu yarışmaya, Uşak’ta ortaokul, lise veya yükseköğrenime devam eden öğrenciler katılabilmektedir.
