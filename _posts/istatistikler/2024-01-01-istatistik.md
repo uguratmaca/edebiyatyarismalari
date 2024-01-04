@@ -6,7 +6,7 @@ tags: [istatistik]
 permalink: "istatistik/2023"
 ---
 
-## Edebiyat Yarışmaları 2022 Yılı İstatistikleri
+## Edebiyat Yarışmaları 2023 Yılı İstatistikleri
 
 Edebiyat yarışmalarında şeffaflık bizim için çok önemli. Bu nedenle, 2023 yılında elde ettiğimiz verileri sizinle paylaşmaktan mutluluk duyuyoruz. Bu veriler aracılığıyla, hangi illerimizin yarışmalarımıza en çok ilgi gösterdiğini, en fazla hangi yarışmaların dikkat çektiğini, en çok hangi eserlerin okunduğunu gibi birçok sorunun cevabını aşağıda bulabilirsiniz.  
 
