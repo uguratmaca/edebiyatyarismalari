@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "70.Sait Faik Hikaye Armağanı"
-description: "Darüşşafaka Cemiyeti '70.Sait Faik Hikaye Armağanı' düzenliyor."
+title: "70. Sait Faik Hikaye Armağanı"
+description: "Darüşşafaka Cemiyeti '70. Sait Faik Hikaye Armağanı' düzenliyor."
 category: articles
 tags: [şubat 2024, hikaye yarışması, genel]
 lastDate: 1709154000
@@ -11,11 +11,11 @@ organizer: "Darüşşafaka Cemiyeti"
 requirements: "İsteyen herkes katılabilir."
 permalink: "sait-faik-70-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/ocak/sait-faik-70-hikaye-yarismasi.jpg"
-excerpt:  "Darüşşafaka Cemiyeti <strong> 70.Sait Faik Hikaye Armağanı </strong> düzenliyor."
+excerpt:  "Darüşşafaka Cemiyeti <strong> 70. Sait Faik Hikaye Armağanı </strong> düzenliyor."
 ---
 
-## 70.Sait Faik Hikaye Armağanı
-Darüşşafaka Cemiyeti **70.Sait Faik Hikaye Armağanı** düzenliyor.  
+## 70. Sait Faik Hikaye Armağanı
+Darüşşafaka Cemiyeti **70. Sait Faik Hikaye Armağanı** düzenliyor.  
 
 Katılım Koşulları:
 - Yarışmaya katılacak hikâye kitapları 2023 yılında yayımlanmış olmalıdır.
