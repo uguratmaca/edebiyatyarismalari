@@ -11,8 +11,8 @@ attendance: "E-Posta"
 organizer: "Arguvanlılar Kültür ve Dayanışma Derneği"
 requirements: "16 yaşını doldurmuş tüm vatandaşlar katılabilir."
 price: "4 Bin 500 TL'dir"
-permalink: "yucel-saracoglu-siir-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2024/ocak/yucel-saracoglu-siir-yarismasi.jpg"
+permalink: "asik-bektas-kaymaz-oyku-yarismasi"
+image: "https://edebiyatyarismalari.com/images/2024/ocak/asik-bektas-kaymaz-oyku-yarismasi.jpg"
 excerpt:  "Arguvanlılar Kültür ve Dayanışma Derneği <strong> Aşık Bektaş Kaymaz Öykü Yarışması </strong> düzenliyor."
 ---
 
