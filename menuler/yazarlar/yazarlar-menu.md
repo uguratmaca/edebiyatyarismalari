@@ -48,6 +48,11 @@ description: "Eski aylarda ve yıllarda düzenlenen tüm edebiyat yarışmaları
       </a>
    </li>
    <li class='nav-item'>
+      <a class='nav-link' href='/sait-faik-abasiyanik-yarismalari/'>
+         Sait Faik Abasıyanık Yarışmaları
+      </a>
+   </li>
+   <li class='nav-item'>
       <a class='nav-link' href='/sabahattin-ali-yarismalari/'>
          Sabahattin Ali Yarışmaları
       </a>
