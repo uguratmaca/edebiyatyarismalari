@@ -8,6 +8,7 @@ lastDate: 1706216400
 dateHuman: "26 Ocak 2024"
 attendance: "Websitesi"
 organizer: "Sinepark"
+hidden: true
 requirements: "İsteyen herkes katılabilir."
 permalink: "sinepark-kisa-film-festivali"
 image: "https://edebiyatyarismalari.com/images/2024/ocak/sinepark-kisa-film-festivali.jpg"
