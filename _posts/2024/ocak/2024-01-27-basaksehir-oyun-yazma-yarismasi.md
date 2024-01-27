@@ -3,9 +3,9 @@ layout: post
 title: "3. Kısa Oyun Yazma Yarışması"
 description: "Başakşehir Belediyesi '3. Kısa Oyun Yazma Yarışması' düzenliyor."
 category: articles
-tags: [ocak 2024, tiyatro yarışması, genel]
-lastDate: 1675717200
-dateHuman: "10 Ocak 2024"
+tags: [şubat 2024, tiyatro yarışması, genel]
+lastDate: 1707944400
+dateHuman: "15 Şubat 2024"
 attendance: "Websitesi"
 organizer: "Başakşehir Belediyesi"
 requirements: "İsteyen herkes katılabilir."
