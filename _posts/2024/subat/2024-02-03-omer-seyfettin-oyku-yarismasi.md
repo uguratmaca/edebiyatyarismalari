@@ -3,7 +3,7 @@ layout: post
 title: "12. Ömer Seyfettin Öykü Yarışması"
 description: "İstanbul Beşiktaş Kabataş Erkek Lisesi '12. Ömer Seyfettin Öykü Yarışması' düzenliyor."
 category: articles
-tags: [şubat 2024, hikaye yarışması, lise]
+tags: [şubat 2024, hikaye yarışması, lise, ömer seyfettin]
 lastDate: 1707771600
 dateHuman: "13 Şubat 2024"
 attendance: "E-Posta"
