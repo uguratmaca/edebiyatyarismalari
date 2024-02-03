@@ -9,6 +9,7 @@ dateHuman: "31 Aralık 2024"
 attendance: "Web sitesi"
 organizer: "Yol Akademi Yayınevi"
 requirements: "İsteyen herkes katılabilir."
+sticky: true
 permalink: "yol-akademi-edebiyat-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/ocak/yol-akademi-edebiyat-yarismasi.jpg"
 excerpt:  "Yol Akademi Aylık Edebiyat Yarışmaları 2024'nı duyurdu."
