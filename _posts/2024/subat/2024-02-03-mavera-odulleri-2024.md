@@ -3,7 +3,7 @@ layout: post
 title: "Mavera Ödülleri 2024"
 description: "Mavera Eğitim ve Sağlık Vakfı 'Mavera Ödülleri 2024' düzenliyor."
 category: articles
-tags: [nisan 2024, deneme yarışması, şiir yarışması, hikaye yarışması, lisans]
+tags: [nisan 2024, deneme yarışması, şiir yarışması, hikaye yarışması, üniversite]
 lastDate: 1712264400
 dateHuman: "5 Nisan 2024"
 comTopic: "İradeni Kuşan, Umudu Yeşert!"
@@ -12,7 +12,6 @@ sticky: true
 organizer: "Mavera Eğitim ve Sağlık Vakfı"
 requirements: "Yurt içi ve yurt dışında ön lisans ve lisans düzeyinde eğitim gören her öğrenci katılabilir."
 permalink: "mavera-odulleri-2024"
-price: "600 Bin TL değerindedir."
 image: "https://edebiyatyarismalari.com/images/2024/subat/mavera-odulleri-2024.jpg"
 excerpt:  "Mavera Eğitim ve Sağlık Vakfı <strong> Mavera Ödülleri 2024 </strong> düzenliyor."
 ---
