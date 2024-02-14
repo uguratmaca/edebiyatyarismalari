@@ -8,9 +8,11 @@ lastDate: 1712264400
 dateHuman: "5 Nisan 2024"
 comTopic: "İradeni Kuşan, Umudu Yeşert!"
 attendance: "Websitesi"
+sticky: true
 organizer: "Mavera Eğitim ve Sağlık Vakfı"
 requirements: "Yurt içi ve yurt dışında ön lisans ve lisans düzeyinde eğitim gören her öğrenci katılabilir."
 permalink: "mavera-odulleri-2024"
+price: "600 Bin TL değerindedir."
 image: "https://edebiyatyarismalari.com/images/2024/subat/mavera-odulleri-2024.jpg"
 excerpt:  "Mavera Eğitim ve Sağlık Vakfı <strong> Mavera Ödülleri 2024 </strong> düzenliyor."
 ---
@@ -73,9 +75,8 @@ Katılım Koşulları:
 - Üçüncü: Dizüstü Bilgisayar (LENOVO IDEAPAD 3 15ITL6)
 - Mansiyon: Dereceye giren 7 kişiye “Tam Altın” verilecektir.
 
-Not 1: Mavera Eğitim ve Sağlık Vakfı şartnamede özellikleri belirtilen bilgisayarların temin edilememesi durumunda muadil bir marka/model bilgisayar ile değişiklik yapma hakkına sahiptir.
+Not 1: Mavera Eğitim ve Sağlık Vakfı şartnamede özellikleri belirtilen bilgisayarların temin edilememesi durumunda muadil bir marka/model bilgisayar ile değişiklik yapma hakkına sahiptir.  
 
-Not 2: Her edebi türde dereceye giren her 10 kişiye ödül verilecektir.
-
+Not 2: Her edebi türde dereceye giren 10 kişiye, toplamda 30 kişiye ödül verilecektir.
 
 ### [Başvuru Formu](https://basvuru.maveraodulleri.com/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
