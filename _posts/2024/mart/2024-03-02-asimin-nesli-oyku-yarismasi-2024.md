@@ -9,8 +9,8 @@ dateHuman: "3 Mayıs 2024"
 attendance: "E-Devlet"
 organizer: "Yozgat Valiliği"
 requirements: "13-25 yaş aralığındaki tüm gençler katılabilir."
-permalink: "guncelle-masal-hikaye-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2024/mart/guncelle-masal-hikaye-yarismasi.jpg"
+permalink: "asimin-nesli-oyku-yarismasi-2024"
+image: "https://edebiyatyarismalari.com/images/2024/mart/asimin-nesli-oyku-yarismasi-2024.jpg"
 excerpt:  "Yozgat Valiliği <strong> V. Gençler Arası Öykü Yarışması </strong> düzenliyor."
 ---
 
