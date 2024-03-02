@@ -11,8 +11,6 @@ image: "https://edebiyatyarismalari.com/images/2024/mart/6-yucel-saracoglu-siir-
 
 ## 6.Yücel Saraçoğlu Şiir Yarışması Sonucu
 
-Eskişehir Sanat Derneği sosyal medya hesabından:
-
 Birincilik Ödülü: Figen Savi (Çiçek Sevdan Soldu Gülüm)
 İkincilik Ödülü : Yeliz Gür (Yokluğun İçimde Sızı)
 Üçüncülük Ödülü: Mesut Yaman (Pulsuz Mektup)
