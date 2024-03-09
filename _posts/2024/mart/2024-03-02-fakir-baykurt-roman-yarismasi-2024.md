@@ -3,7 +3,7 @@ layout: post
 title: "Fakir Baykurt Roman Ödülü 2024"
 description: "Çiğli Belediyesi 'Fakir Baykurt Roman Ödülü 2024' düzenliyor."
 category: articles
-tags: [mart 2024, roman yarışması, genel]
+tags: [mart 2024, roman yarışması, genel, fakir baykurt]
 lastDate: 1711314000
 dateHuman: "25 Mart 2024"
 attendance: "Posta/Kargo"

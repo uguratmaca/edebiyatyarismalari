@@ -3,7 +3,7 @@ layout: post
 title: "V. Gençler Arası Öykü Yarışması"
 description: "Yozgat Valiliği 'V. Gençler Arası Öykü Yarışması' düzenliyor."
 category: articles
-tags: [mayıs 2024, hikaye yarışması, lise, üniversite]
+tags: [mayıs 2024, hikaye yarışması, lise, üniversite, mehmet akif ersoy]
 lastDate: 1714683600
 dateHuman: "3 Mayıs 2024"
 attendance: "E-Devlet"
