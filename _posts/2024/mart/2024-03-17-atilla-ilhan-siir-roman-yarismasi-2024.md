@@ -9,8 +9,8 @@ dateHuman: "13 Haziran 2024"
 attendance: "Elden/Kargo"
 organizer: "Attilâ İlhan Bilim, Sanat ve Kültür Vakfı"
 requirements: "İsteyen herkes katılabilir."
-permalink: "evrenkent-kalemleri-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2024/mart/evrenkent-kalemleri-oyku-yarismasi.jpg"
+permalink: "atilla-ilhan-siir-roman-yarismasi-2024"
+image: "https://edebiyatyarismalari.com/images/2024/mart/atilla-ilhan-siir-roman-yarismasi-2024.jpg"
 excerpt:  "Attilâ İlhan Bilim, Sanat ve Kültür Vakfı <strong> Attila İlhan 9. Edebiyat Ödülleri </strong> düzenliyor."
 ---
 
