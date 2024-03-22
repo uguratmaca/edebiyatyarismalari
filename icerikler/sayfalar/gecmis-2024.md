@@ -8,4 +8,5 @@ description: "2024 yılında düzenlenmiş olan tüm kitap okuma yarışması, �
 
 <ul class='nav flex-column'>
    <li class='nav-item'><a class='nav-link' href='/ocak-2024-yarismalar/'>Ocak 2024 Yarışmaları</a></li>
+   <li class='nav-item'><a class='nav-link' href='/subat-2024-yarismalar/'>Şubat 2024 Yarışmaları</a></li>
 </ul>
