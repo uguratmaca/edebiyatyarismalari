@@ -3,14 +3,14 @@ layout: post
 title: "Attila İlhan 9. Edebiyat Ödülleri"
 description: "Attilâ İlhan Bilim, Sanat ve Kültür Vakfı 'Attila İlhan 9. Edebiyat Ödülleri' düzenliyor."
 category: articles
-tags: [haziran 2024, şiir yarışması, roman yarışması, genel]
+tags: [haziran 2024, şiir yarışması, roman yarışması, genel, attila ilhan]
 lastDate: 1718226000
 dateHuman: "13 Haziran 2024"
 attendance: "Elden/Kargo"
 organizer: "Attilâ İlhan Bilim, Sanat ve Kültür Vakfı"
 requirements: "İsteyen herkes katılabilir."
-permalink: "atilla-ilhan-siir-roman-yarismasi-2024"
-image: "https://edebiyatyarismalari.com/images/2024/mart/atilla-ilhan-siir-roman-yarismasi-2024.jpg"
+permalink: "attila-ilhan-siir-roman-yarismasi-2024"
+image: "https://edebiyatyarismalari.com/images/2024/mart/attila-ilhan-siir-roman-yarismasi-2024.jpg"
 excerpt:  "Attilâ İlhan Bilim, Sanat ve Kültür Vakfı <strong> Attila İlhan 9. Edebiyat Ödülleri </strong> düzenliyor."
 ---
 
