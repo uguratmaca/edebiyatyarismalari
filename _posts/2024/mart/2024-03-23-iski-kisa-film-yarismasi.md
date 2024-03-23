@@ -12,7 +12,7 @@ attendance: "Websitesi"
 organizer: "İSKİ"
 requirements: "Ülkemizde ön lisans, lisans, yüksek lisans ve doktora öğrencisi olan (Türk ve yabancı uyruklu) tüm üniversite öğrencileri katılabilir."
 price: "240 Bin TL'dir."
-permalink: "iski-kisa-film-yarismasiı"
+permalink: "iski-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/mart/iski-kisa-film-yarismasi.jpg"
 excerpt:  "İSKİ <strong> 2. Suyun Hafızası Kısa Film Yarışması </strong> düzenliyor."
 ---
