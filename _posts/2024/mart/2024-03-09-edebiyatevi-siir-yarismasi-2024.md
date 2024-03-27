@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ödüllü Şiir Yarışması"
+title: "Edebiyatevi Ödüllü Şiir Yarışması"
 description: "Edebiyatevi 'Ödüllü Şiir Yarışması' düzenliyor."
 category: articles
 tags: [temmuz 2024, şiir yarışması, genel]
