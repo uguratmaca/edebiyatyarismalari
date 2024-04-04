@@ -4,7 +4,7 @@ title: "Mimar Sinan’a Mektup Yarışması"
 description: "Kayseri İl Milli Eğitim Müdürlüğü 'Mimar Sinan’a Mektup Yarışması' düzenliyor."
 category: articles
 tags: [mayıs 2024, mektup yarışması, ortaokul]
-lastDate: 1712091600
+lastDate: 1714683600
 dateHuman: "30 Mayıs 2024"
 comTopic: "Mimar Sinan’a Mektup"
 attendance: "Kargo/Posta"

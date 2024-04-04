@@ -4,7 +4,7 @@ title: "Sen de Yaz Öykü Yarışması"
 description: "KidZania İstanbul ve Erbulak Evi 'Sen de Yaz Öykü Yarışması' düzenliyor."
 category: articles
 tags: [mayıs 2024, hikaye yarışması, ortaokul]
-lastDate: 1713474000
+lastDate: 1716066000
 dateHuman: "19 Mayıs 2024"
 comTopic: "Daha İyi Bir Dünya İçin Barış"
 attendance: "Websitesi"

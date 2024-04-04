@@ -4,7 +4,7 @@ title: "Myrina Yayınları Öykü Yarışması"
 description: "Myrina Yayınları 'öykü yarışması' düzenliyor."
 category: articles
 tags: [mayıs 2024, hikaye yarışması, genel]
-lastDate: 1714424400
+lastDate: 1717016400
 dateHuman: "30 Mayıs 2024"
 comTopic: "Serbest"
 attendance: "E-Posta"
