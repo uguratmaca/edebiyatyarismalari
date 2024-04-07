@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5. Öykü Yarışması"
+title: "Kapadokya Üniversitesi 5. Öykü Yarışması"
 description: "Kapadokya Üniversitesi '5. Öykü Yarışması' düzenliyor."
 category: articles
 tags: [mayıs 2024, hikaye yarışması, lise]
@@ -15,7 +15,7 @@ image: "https://edebiyatyarismalari.com/images/2024/nisan/kapadokya-universitesi
 excerpt:  "Kapadokya Üniversitesi <strong> 5. Öykü Yarışması </strong> düzenliyor."
 ---
 
-## 5. Öykü Yarışması
+## Kapadokya Üniversitesi 5. Öykü Yarışması
 Kapadokya Üniversitesi **5. Öykü Yarışması** düzenliyor.  
 
 Katılım Koşulları:
