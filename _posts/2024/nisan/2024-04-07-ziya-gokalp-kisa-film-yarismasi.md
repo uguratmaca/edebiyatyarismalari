@@ -60,4 +60,4 @@ Katılım Koşulları:
 - Üçüncü: 20.000 TL + Plaket
 
 
-### [Başvuru Formu](https://ziyagokalpyili.com.tr/kisafilm.html/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://ziyagokalpyili.com.tr/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
