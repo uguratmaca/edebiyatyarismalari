@@ -10,8 +10,8 @@ attendance: "Posta/Kargo"
 organizer: "Dil Derneği"
 requirements: "İsteyen herkes katılabilir."
 price: "5 Bin TL'dir"
-permalink: "-omer-asim-aksoy-siir-yarismasi-2024"
-image: "https://edebiyatyarismalari.com/images/2024/mayis/-omer-asim-aksoy-siir-yarismasi-2024.jpg"
+permalink: "omer-asim-aksoy-siir-yarismasi-2024"
+image: "https://edebiyatyarismalari.com/images/2024/mayis/omer-asim-aksoy-siir-yarismasi-2024.jpg"
 excerpt:  "Dil Derneği <strong> Ömer Asım Aksoy Şiir Yarışması </strong> düzenliyor."
 ---
 
