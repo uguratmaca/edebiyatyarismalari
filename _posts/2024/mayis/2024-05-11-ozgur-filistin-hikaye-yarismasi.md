@@ -8,7 +8,7 @@ lastDate: 1715806800
 dateHuman: "16 Mayıs 2024"
 attendance: "İlçe Millî Eğitim Müdürlüğü"
 organizer: "İstanbul İl Millî Eğitim Müdürlüğü ve İlim Yayma Vakfı"
-requirements: "Lise öğrencileri katılabilir."
+requirements: "İstanbul İl Millî Eğitim Müdürlüğü’ne bağlı bütün resmî /özel okullarda öğrenim görmekte olan  lise öğrencileri katılabilir."
 permalink: "ozgur-filistin-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/mayis/ozgur-filistin-hikaye-yarismasi.jpg"
 excerpt:  "İstanbul İl Millî Eğitim Müdürlüğü ve İlim Yayma Vakfı <strong> Nehirden Denize Özgür Filistin Hikaye Yarışması </strong> düzenliyor."
