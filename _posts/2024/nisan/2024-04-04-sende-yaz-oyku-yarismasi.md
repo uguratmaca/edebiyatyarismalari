@@ -10,7 +10,7 @@ comTopic: "Daha İyi Bir Dünya İçin Barış"
 attendance: "Websitesi"
 organizer: "KidZania İstanbul ve Erbulak Evi"
 requirements: "10-14 yaş aralığındaki genç yazarlar katılabilir."
-permalink: "sende-yaz-oyku-yarismasi"
+permalink: "sende-yaz-oyku-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/nisan/sende-yaz-oyku-yarismasi.jpg"
 excerpt:  "KidZania İstanbul ve Erbulak Evi <strong> Sen de Yaz Öykü Yarışması </strong> düzenliyor."
 ---
