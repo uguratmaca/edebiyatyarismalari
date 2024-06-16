@@ -4,7 +4,7 @@ title: "Güncelle Masal ve Hikaye Yarışması"
 description: "Özel Saint Michel Fransız Lisesi 'Güncelle Masal ve Hikaye Yarışması' düzenliyor."
 category: articles
 tags: [nisan 2024, masal yarışması, hikaye yarışması, lise]
-lastDate: 1722373200
+lastDate: 1711922400
 dateHuman: "1 Nisan 2024"
 comTopic: "Bir masalın ya da halk hikayesinin günümüze uyarlanması"
 attendance: "E-Posta"
