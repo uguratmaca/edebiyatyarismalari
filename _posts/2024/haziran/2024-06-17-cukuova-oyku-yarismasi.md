@@ -28,4 +28,4 @@ excerpt: "Çukurova belediyesi Yalnızlık temalı <strong>Çukurova Öykü Yar�
 9. 1 Ekim 2024 tarihinden sonra gönderilen öyküler değerlendirmeye alınmayacaktır.
 10. Sonuçlar, manevi mirasına sahip çıktığımız Yeni Adana Gazetesi'nin kuruluş tarihi olan 25 Aralıklta basın yoluyla duyurulacak, dereceye giren yarışmacılarla ödül töreni için ayrıca iletişime geçilecektir.
 
-Başvuru e-posta adresi: cukurovaoykuyarismas@gmail.com
+Başvuru e-posta adresi: cukurovaoykuyarismasi@gmail.com
