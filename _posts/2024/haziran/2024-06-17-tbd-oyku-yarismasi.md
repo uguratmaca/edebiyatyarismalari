@@ -27,7 +27,7 @@ excerpt: "Türkiye Bilişim Derneği (TBD) <strong>26. TBD Bilimkurgu Öykü Yar
 - Önceki yıllarda birincilik ödülü alan yazarlar yarışmaya katılamaz.
 - Dereceye girecek öyküler içinde seçici kurul tarafından yayımlanmaya değer bulunanlar kitap olarak yayımlanacaktır.
 - Öykülerin internet sitesinde, Bilişim Dergisi’nde ya da kitaplaştırılarak yayımlanması için https://www.tbd.org.tr/onayliyorum adresinde bulunan “Onaylıyorum” adlı belgenin yazar tarafından doldurulması ve sistemden gönderilmesi gerekmektedir. Onaylıyorum adlı belgeyi TBD’ye göndermeyen yarışmacılar yarışmaya kabul edilmeyecektir
-- TBD Bilimkurgu Öykü Yarışması’nın sonuçları 20 Aralık 2024 tarihinde açıklanacaktır. Ödül olarak birinci gelen yarışmacıya 10000 TL, ikinci gelen yarışmacıya 6000 TL ve üçüncü gelen yarışmacıya da 4000 TL verilecektir.
+- **TBD Bilimkurgu Öykü Yarışması**’nın sonuçları 20 Aralık 2024 tarihinde açıklanacaktır. Ödül olarak birinci gelen yarışmacıya 10000 TL, ikinci gelen yarışmacıya 6000 TL ve üçüncü gelen yarışmacıya da 4000 TL verilecektir.
 - Öykü, yaygın olarak kullanılan bir kelime işlemciyle, “12” font büyüklüğünde, “Arial” karakter” seçilerek yazılmalı ve aşağıdaki çevrimiçi form kullanılarak gönderilmelidir. Başvurunun geçerli olabilmesi için yarışmacıların öykü, özgeçmiş ve onaylıyorum formundan oluşan üç adet dokümanı çevrimiçi form üzerinden TBD’ye göndermeleri gerekmektedir.
 - Öykünün yer aldığı dosyaya öykünün adı verilmelidir.
 - Öykü dosyasının içinde yazarla ilgili hiçbir bilgi olmamalıdır.
