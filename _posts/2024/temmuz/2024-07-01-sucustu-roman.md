@@ -9,6 +9,7 @@ dateHuman: "31 Aralık 2024"
 comTopic: "Serbest"
 attendance: "E-Posta"
 organizer: "SUÇÜSTÜ Dergi"
+sticky: true
 requirements: "İsteyen herkes katılabilir"
 permalink: "ilk-polisiye-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/temmuz/ilk-polisiye-roman-yarismasi.webp"
