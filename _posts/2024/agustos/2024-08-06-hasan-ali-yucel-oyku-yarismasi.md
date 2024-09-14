@@ -13,7 +13,7 @@ organizer: "Osmangazi Belediyesi"
 requirements: "Yarışmaya yurtiçi ve yurtdışından 18 yaşını doldurmuş herkes katılabilir"
 permalink: "hasan-ali-yucel-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/agustos/hasan-ali-yucel-oyku-yarismasi.jpg"
-excerpt:  "Osmangazi Belediyesi Hasan Ali Yücel Öykü Yarışması'nı duyurdu."
+excerpt:  "Osmangazi Belediyesi <strong>Hasan Ali Yücel Öykü Yarışması</strong>'nı duyurdu."
 ---
 
 ## Hasan Ali Yücel Öykü Yarışması
