@@ -5,7 +5,7 @@ description: "21. Ümit Kaftancıoğlu Öykü Yarışması 2025 düzenleniyor."
 category: articles
 tags: [aralık 2024, hikaye yarışması, genel]
 lastDate: 1735599600
-dateHuman: "31 Aralık 2025"
+dateHuman: "31 Aralık 2024"
 attendance: "Posta, Kargo, Elden"
 comTopic: "Serbest"
 organizer: "Ümit Kaftancıoğlu"
