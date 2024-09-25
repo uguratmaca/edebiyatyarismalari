@@ -3,7 +3,7 @@ layout: post
 title: "Nâzım Hikmet İnebolu'da Şiir Ödülü"
 description: "İnebolu Kültür ve Sanat Derneği Nâzım Hikmet İnebolu'da Şiir Ödülü'nü duyurdu."
 category: articles
-tags: [kasım 2023, şiir yarışması, genel, nazım hikmet]
+tags: [kasım 2024, şiir yarışması, genel, nazım hikmet]
 lastDate: 1732921200
 dateHuman: "30 Kasım 2024"
 attendance: "E-Posta"
@@ -30,4 +30,4 @@ excerpt:  "İnebolu Kültür ve Sanat Derneği <strong>Nâzım Hikmet İnebolu'd
 Ödül alan şiirler ve seçici kurul tarafından yayımlanmaya değer görülen şiirler Nâzım Hikmet İnebolu’da anı kitap olarak yayımlanabilir. Bu kitabın dışında kalan şiirler ise başka herhangi bir yerde kullanılmayacaktır.
 - Ödül, **Nâzım Hikmet İnebolu’da Şiir ödülü** olarak bir şaire verilir. Seçici kurul gerek duyarsa ödülü paylaştırabilir veya Jüri Özel Ödülü verebilir. Ödül alan şaire Nâzım Hikmet kitap seti ve Nâzım Hikmet İnebolu’da Şiir Ödülü 2025 adına hazırlanan plaket verilecektir. Çıkacak olan kitapta şiiri yer alan şairlere günün anısına plaket ve birer adet kitap armağan edilecektir. Bunun dışında herhangi bir telif ödenmeyecektir.
 - Ödül töreni: Nâzım Hikmet’in doğum günü anısına 15 Ocak 2025 tarihinde İnebolu’da gerçekleştirilecektir. 
-- Eserlerin gönderileceği e-posta adresi: inebolukulturvesanatdernegi@gmail.com
+- Eserlerin gönderileceği e-posta adresi: **inebolukulturvesanatdernegi@gmail.com**
