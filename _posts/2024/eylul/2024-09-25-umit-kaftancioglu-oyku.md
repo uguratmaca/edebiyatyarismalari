@@ -8,7 +8,6 @@ lastDate: 1735599600
 dateHuman: "31 Aralık 2024"
 attendance: "Posta, Kargo, Elden"
 comTopic: "Serbest"
-organizer: "Ümit Kaftancıoğlu"
 requirements: "İsteyen herkes katılabilir"
 permalink: "umit-kaftancioglu-oyku-yarismasi-2025"
 image: "https://edebiyatyarismalari.com/images/2024/eylul/umit-kaftancioglu-oyku-yarismasi.webp"
