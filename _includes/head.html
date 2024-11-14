@@ -34,7 +34,7 @@ remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
 
 {% if page.category != "articles"%}<link rel="manifest" href="/manifest.json">{% endif %}
 
-<link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+<link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
 
 {% if site.owner.google_plus %}<link rel="author" href="{{ site.owner.google_plus }}?rel=author">{% endif %}
 
