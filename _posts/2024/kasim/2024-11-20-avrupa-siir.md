@@ -8,14 +8,14 @@ lastDate: 1735599600
 dateHuman: "31 Aralık 2024"
 attendance: "E-Posta"
 comTopic: "Göç, hasret, gurbet"
-requirements: "Yarışmaya Avrupa’da veya Türkiye dışında yaşayan öykü yazarları katılabilir"
+requirements: "Yarışmaya Avrupa’da veya Türkiye dışında yaşayan şairler katılabilir"
 permalink: "avrupa-11-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/kasim/11-avrupa-siir-yarismasi.jpg"
 organizer: "Platform Dergi"
 excerpt: "Platform Dergi Avrupa Platform 11. Şiir Yarışmasını duyurdu"
 ---
 
-## Avrupa Platform 3. Öykü Yarışması
+## Avrupa Platform 11. Şiir Yarışması
 
 1. Yarışmaya, Avrupa’da veya Türkiye dışında yaşayan şairler katılabilir (Türkiye’de ikamet edenler katılamaz).
 2. Gönderilen şiirler, orijinal ve daha önce herhangi bir yerde yayınlanmamış olmalıdır.
@@ -31,7 +31,7 @@ excerpt: "Platform Dergi Avrupa Platform 11. Şiir Yarışmasını duyurdu"
 - **e.turgut@platformdergisi.com**
 - Seçici Kurul: Hüseyin Kerim Ece, Adem Özbay, Afacan Dilekçi, Mehtap Altan, Nurettin Durman
 
-## Avrupa Platform 3. Öykü Yarışması Ödülleri
+## Avrupa Platform 11. Şiir Yarışması Ödülleri
 
 - Birinciye: THY Türkiye Gidiş Dönüş Bileti (Amsterdam’dan), Fethiye Belediyesi'nde 5 gün konaklama, Sandıklı Thermal Park Hotel'de 3 gün konaklama.
 - İkinciye: Çeşme Ilıca Hotel'de 5 gün konaklama, Sandıklı Thermal Park Hotel'de 3 gün konaklama.
