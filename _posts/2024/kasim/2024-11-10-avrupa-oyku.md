@@ -3,9 +3,9 @@ layout: post
 title: "Avrupa Platform 3. Öykü Yarışması"
 description: "Platform Dergi Avrupa Platform 3. Öykü Yarışmasını duyurdu"
 category: articles
-tags: [kasım 2024, hikaye yarışması, genel, avrupa]
-lastDate: 1732921200
-dateHuman: "30 Kasım 2024"
+tags: [aralık 2024, hikaye yarışması, genel, avrupa]
+lastDate: 1735599600
+dateHuman: "31 Aralık 2024"
 attendance: "E-Posta"
 comTopic: "Göç, hasret, gurbet"
 requirements: "Yarışmaya Avrupa’da veya Türkiye dışında yaşayan öykü yazarları katılabilir"
