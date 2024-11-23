@@ -7,7 +7,6 @@
 [
   {% for post in filtered_posts %}
     {
-
       "title"    : "{{ post.title | escape }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "tags"     : "{{ post.tags | join: ', ' }}"
