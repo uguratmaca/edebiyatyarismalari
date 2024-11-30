@@ -6,7 +6,7 @@ category: articles
 tags: [ocak 2025, hikaye yarışması, lise]
 lastDate: 1736463600
 dateHuman: "10 Ocak 2025"
-attendance: "E-Posta"
+attendance: "Websitesi"
 price: "46 Bin 500 TL'dir"
 comTopic: "Serbest"
 requirements: "Hikaye dalında yarışmaya resmi/özel tüm lise kurumlarındaki öğrenciler katılabilecektir"
