@@ -48,3 +48,5 @@ excerpt: "Samsun Tabip Odası Dr.Kamil Furtun adına Öykü Yarışması düzenl
 - DR. SUNA DÜNDAR / Tıp Doktoru - Yazar
 - DR. ALİ İHSAN ÖKTEN / Tıp Doktoru - Yazar
 - DR. MEHMET UHRİ / Tıp Doktoru - Yazar
+
+#### [Başvuru dosyası](https://www.samsuntabipodasi.org.tr/uploads/files/yonerge2025.pdf){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
