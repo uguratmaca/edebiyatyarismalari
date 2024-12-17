@@ -17,4 +17,5 @@ description: "2024 yılında düzenlenmiş olan tüm kitap okuma yarışması, �
    <li class='nav-item'><a class='nav-link' href='/agustos-2024-yarismalar/'>Ağustos 2024 Yarışmaları</a></li>
    <li class='nav-item'><a class='nav-link' href='/eylul-2024-yarismalar/'>Eylül 2024 Yarışmaları</a></li>
    <li class='nav-item'><a class='nav-link' href='/ekim-2024-yarismalar/'>Ekim 2024 Yarışmaları</a></li>
+   <li class='nav-item'><a class='nav-link' href='/kasim-2024-yarismalar/'>Kasım 2024 Yarışmaları</a></li>
 </ul>

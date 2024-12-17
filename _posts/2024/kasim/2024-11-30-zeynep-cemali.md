@@ -24,7 +24,7 @@ Tema cümlesi: “Aynadaki görüntüsüne baktı.” Zeynep Cemali‘nin Ankara
 3.	Birden fazla kişi tarafından ortaklaşa yazılmış öyküler yarışmaya kabul edilmez.
 4.	Metin, öykü türüne uygun olarak yazılmalıdır.
 5.	Öykü, Türkçe dilinde yazılmalıdır.
-6.	Öykü “Yapay Zekâ” temasında yazılmalıdır. Esinlenme için önerilen kılavuz cümlenin öyküde kullanılması şart değildir. 
+6.	Öykü **“Yapay Zekâ”** temasında yazılmalıdır. Esinlenme için önerilen kılavuz cümlenin öyküde kullanılması şart değildir. 
 7.	Öykü, A4 boyutunda dosya kâğıdına, tercihen bilgisayarda 12 punto, “Times New Roman” yazı karakteriyle, .doc uzantılı “Word” dosyası formatında yazılmalıdır. El yazısıyla gönderilecekse öykülerin okunaklı olması şarttır.
 8.	Öykünün uzunluğunun 1,5 satır aralığıyla, iki (2) A4 sayfadan az, dört (4) A4 sayfadan fazla olmaması gerekir.
 9.	Öykünün başında öykü adı ve hemen altında da öyküyü yazan öğrencinin adı yer almalıdır.
@@ -44,7 +44,7 @@ Tema cümlesi: “Aynadaki görüntüsüne baktı.” Zeynep Cemali‘nin Ankara
 20.	Ödüle hak kazanan öyküler arasında herhangi bir derecelendirme yapılmaz. Ödüllü öykülerin yanı sıra, dikkat çeken öyküler de Günışığı Kitaplığı tarafından yayımlanan ve ücretsiz dağıtılan Ödüllü Öyküler Kitapçığı’nda yer alır.
 21.	Şartnameye uygun olarak ve zamanında teslim edilen aday öyküleri yazan öğrencilerin tümüne ve öğretmenlerine yarışmaya katılımlarını belgeleyen dijital katılım sertifikaları yarışma sonuçlandıktan sonra gönderilecektir. 
 22.	Yarışmaya gönderilen öykülerin telif hakkı eser sahibine aittir. Günışığı Kitaplığı eser sahibinden izin almak kaydıyla yayımlama, yayma, işleme vb. hakkına sahip olacaktır. 
-23.	Önceki yıllarda Zeynep Cemali Öykü Yarışması’na katılarak ödül almış öğrenciler, farklı bir öyküyle de olsa, yarışmaya tekrar katılamazlar. Önceki yıllarda öyküleri Ödüllü Öyküler Kitapçığı’na “Dikkati Çeken Öyküler” olarak seçilmiş öğrenciler yarışmaya farklı bir öyküyle tekrar katılabilirler.
+23.	Önceki yıllarda **Zeynep Cemali Öykü Yarışması**’na katılarak ödül almış öğrenciler, farklı bir öyküyle de olsa, yarışmaya tekrar katılamazlar. Önceki yıllarda öyküleri Ödüllü Öyküler Kitapçığı’na “Dikkati Çeken Öyküler” olarak seçilmiş öğrenciler yarışmaya farklı bir öyküyle tekrar katılabilirler.
 24.	Yarışmaya katılan öykülerin başka herhangi bir yarışmaya gönderilmemiş, daha önce düzenlenen benzer yarışmalarda dereceye girmemiş, başkası tarafından yazılmamış, kısmen ya da tamamen başka bir metinden kopya edilmemiş ve daha önce herhangi bir yerde yayınlanmamış olması gerekmektedir. 
 25.	Yarışmaya katılan öyküler üzerinde gerek görüldüğü takdirde editörlük çalışması yapılabilir, fazla sayıda noktalama ve yazım hatası içeren ve öykü formuna uygun olmayan uzunluktaki öyküler değerlendirme dışı bırakılabilir.
 26.	Günışığı Kitaplığı’na son başvuru tarihinden sonra ulaşan öyküler değerlendirmeye alınmayacaktır. Postadaki gecikmeler ya da teknik aksaklıklar nedeniyle zamanında ulaşmayan başvurulardan Günışığı Kitaplığı sorumlu değildir.
