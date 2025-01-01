@@ -59,5 +59,3 @@ En çok görüntülenen yarışmalara dikkat ederseniz ilk sırada sponsorlu iç
 - [Görünmez Adam](https://edebiyatyarismalari.com/blog/gorunmez-adam)
 - [Sana …](https://edebiyatyarismalari.com/blog/sana)
 
-
-
