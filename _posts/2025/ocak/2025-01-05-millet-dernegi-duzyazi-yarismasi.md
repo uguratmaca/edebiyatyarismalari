@@ -5,7 +5,7 @@ description: "Millet Derneği Düzyazı Yarışması duyuruldu."
 category: articles
 tags: [şubat 2025, hikaye yarışması, deneme yarışması, makale yarışması, mektup yarışması, genel]
 lastDate: 1740697200
-dateHuman: "28 Şubat 2024"
+dateHuman: "28 Şubat 2025"
 comTopic: "İnsanlığın Kesintisiz Yolculuğu GÖÇ"
 attendance: "E-Posta"
 organizer: "Millet Derneği"
