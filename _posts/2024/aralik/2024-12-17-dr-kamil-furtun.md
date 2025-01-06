@@ -3,9 +3,9 @@ layout: post
 title: "Dr.Kamil Furtun Öykü Yarışması"
 description: "Samsun Tabip Odası Dr.Kamil Furtun adına Öykü Yarışması düzenliyor"
 category: articles
-tags: [ocak 2025, hikaye yarışması, genel]
-lastDate: 1736463600
-dateHuman: "10 Ocak 2025"
+tags: [şubat 2025, hikaye yarışması, genel]
+lastDate: 1739746800
+dateHuman: "17 Şubat 2025"
 attendance: "E-Posta"
 price: "10 Bin TL'dir"
 comTopic: "Serbest"
