@@ -8,6 +8,7 @@ lastDate: 1746050400
 dateHuman: "1 Mayıs 2025"
 comTopic: "Mitler ve Efsaneler"
 attendance: "E-Posta"
+sticky: true
 organizer: "Ganeşa Yayınevi"
 requirements: "18 yaşını bitirmiş kişiler yarışmaya katılabilir"
 permalink: "2-ganesa-mitolojik-oyku-yarismasi"
