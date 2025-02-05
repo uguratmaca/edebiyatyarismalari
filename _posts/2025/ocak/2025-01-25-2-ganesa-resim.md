@@ -3,7 +3,7 @@ layout: post
 title: "2. Ganeşa Mitolojik İllüstrasyon ve Resim Yarışması"
 description: "Ganeşa Yayınevi 2. Ganeşa Mitolojik İllüstrasyon ve Resim Yarışmasını duyurdu."
 category: articles
-tags: [mart 2025, resim yarışması, genel]
+tags: [mayıs 2025, resim yarışması, genel]
 lastDate: 1746050400
 dateHuman: "1 Mayıs 2025"
 comTopic: "Mitler ve Efsaneler"
