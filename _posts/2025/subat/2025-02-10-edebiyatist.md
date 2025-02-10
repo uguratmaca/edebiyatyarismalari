@@ -11,7 +11,7 @@ comTopic: "Serbest"
 organizer: "Edebiyatist Dergi"
 requirements: "Daha önce öykü kitabı yayımlanmamış herkes Türkçe yazdığı 1 öykü ile katılabilir."
 permalink: "edebiyatist-kristal-kalem-oyku-odulu"
-image: "https://edebiyatyarismalari.com/images/2024/subat/edebiyatist-kristal-kalem-oyku-odulu.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/subat/edebiyatist-kristal-kalem-oyku-odulu.jpg"
 excerpt:  "2025 Edebiyatist Kristal Kalem Öykü Ödülü başvuruları başladı."
 ---
 
