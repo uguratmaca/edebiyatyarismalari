@@ -7,6 +7,7 @@ tags: [aralık 2025, roman yarışması, hikaye yarışması, kitap dosyası, ge
 lastDate: 1767135600
 dateHuman: "31 Aralık 2025"
 attendance: "Web sitesi"
+sticky: true
 organizer: "Yol Akademi Yayınevi"
 requirements: "Yarışmaya yurt içinden ve yurt dışından 18 yaşını tamamlamış T.C. vatandaşları veya Türkçe yazan yazarlar katılabilir"
 permalink: "yol-akademi-edebiyat-yarismasi-2025"
