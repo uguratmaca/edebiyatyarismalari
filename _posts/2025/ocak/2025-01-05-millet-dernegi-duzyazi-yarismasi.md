@@ -11,7 +11,7 @@ attendance: "E-Posta"
 organizer: "Millet Derneği"
 requirements: "Yurt içinde ve yurt dışında yaşayan herkes katılabilir."
 price: "50 Bin TL'dir."
-permalink: "millet-dernegi-duzyazi-yarismasi"
+permalink: "millet-dernegi-duzyazi-yarismasi-2025"
 image: "https://edebiyatyarismalari.com/images/2025/ocak/millet-dernegi-duzyazi-yarismasi.jpg"
 excerpt:  "Millet Derneği <strong> Millet Derneği Düzyazı Yarışması </strong> düzenliyor."
 ---

@@ -79,9 +79,20 @@ layout: default
 
 
     {% if counter == 0 %}
-    <p class="text-danger">Bu listede, hali hazırda başvuru bekleyen herhangi bir <strong>{{page.title}}</strong>
-        bulunmamaktadır.
-        Aşağıdaki linkten geçmiş yarışmalara ve menüden ilgilendiğiniz diğer yarışmalara bakabilirsiniz.</p>
+
+        {% for post in site.posts %}
+                {% assign pageKeys = page.key | split: ", " %}
+
+                {% for pageKey in pageKeys %}
+                    {% if post.tags contains pageKey %}
+                        {% assign counter=counter | plus:1 %}
+                        {% if counter < 10 %} 
+                            {% include postdetail.html %} 
+                        {% endif %} 
+                    {% endif %}
+                {% endfor %}
+        {% endfor %}
+
     {% endif %}
 
     <a href="{{site.url}}/gecmis-edebiyat-yarismalari/" class="nav-link">

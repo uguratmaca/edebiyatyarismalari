@@ -2,9 +2,9 @@
 layout: category
 headline: "Öykü Yarışması, Hikaye Yarışması"
 subline: "Hikaye Yazma Yarışmaları sayfamız, Türkiye'nin en yetenekli yazarlarını bir araya getiren bir platformdur. Edebiyat tutkunları için düzenlenen bu yarışmalar, <strong>kısa hikaye</strong>, öykü ve anlatı türlerindeki eserleri kapsamaktadır. En <strong>güncel hikaye yarışmaları</strong>nın listelendiği sayfamız, yazar adaylarına ilham vermek, onları cesaretlendirmek ve eserlerini geniş bir okuyucu kitlesiyle buluşturmak için tasarlanmıştır. Edebiyat yarışmaları, <strong>ödüllü hikaye yarışmaları</strong>, amatör yazarlar için fırsatlar ve yaratıcı yazma teknikleri hakkında bilgiler içeren sayfamız, edebiyat dünyasına adım atmak isteyen herkes için mükemmel bir başlangıç noktası sunar. Hikayelerinizi paylaşarak Türkiye'nin en iyi yazarları arasında yerinizi alın!"
-title: "Öykü Yarışması 2024, Hikaye Yarışması 2024"
+title: "Öykü Yarışması 2025, Hikaye Yarışması 2025"
 key: "hikaye yarışması, öykü yarışması"
 image: "https://edebiyatyarismalari.com/images/genel/oyku-hikaye-yarismasi.jpg"
-description: "Öykü Yarışması 2024, Hikaye Yarışmaları 2024, Kısa Öykü Yarışması, Para Ödüllü Yarışmalar 2024, Yazı Yarışması, Yazı Yazma Yarışması"
+description: "Öykü Yarışması 2025, Hikaye Yarışmaları 2025, Kısa Öykü Yarışması, Para Ödüllü Yarışmalar 2025, Yazı Yarışması, Yazı Yazma Yarışması"
 permalink: "hikaye-yarismalari/"
 ---
