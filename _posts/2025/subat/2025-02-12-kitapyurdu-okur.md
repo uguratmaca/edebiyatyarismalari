@@ -4,7 +4,7 @@ title: "Kitapyurdu Türkiye Okur Ödülleri"
 description: "Kitapyurdu Türkiye Okur Ödülleri 2024 oylamaları başladı"
 category: articles
 tags: [mart 2025, hikaye yarışması, genel]
-lastDate: 1753912800
+lastDate: 1741561200
 dateHuman: "10 Mart 2025"
 attendance: "Websitesi"
 comTopic: "Serbest"
