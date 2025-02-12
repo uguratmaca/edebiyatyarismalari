@@ -6,6 +6,7 @@ category: articles
 tags: [temmuz 2025, hikaye yarışması, genel]
 lastDate: 1753912800
 dateHuman: "31 Temmuz 2025"
+price: "55 Bin TL'dir"
 attendance: "Posta, Kargo, Elden"
 comTopic: "Serbest"
 organizer: "Edebiyatist Dergi"
@@ -34,3 +35,12 @@ excerpt:  "2025 Edebiyatist Kristal Kalem Öykü Ödülü başvuruları başlad�
 - Ön eleme: 1-31 Ağustos 2025
 - Jüri Değerlendirme: 1 - 30 Eylül 2025
 - Sonuç Duyurusu: Ekim 2025 (Ödül töreni için kesin tarih daha sonra açıklanacaktır.)
+
+### 2025 Edebiyatist Kristal Kalem Öykü Ödülü Ödülleri
+
+- 1.Olan esere 30.000TL, para ödülü ve birincilik heykelciği.
+- 2.Olan esere 15.000TL, para ödülü ve ikincilik plaketi.
+- 3.Olan esere 10.000TL, para ödülü ve üçüncülük plaketi.
+- 4.Olan esere Jüri Özel Ödülü plaketi.
+
+- İlk 20’ye giren öyküler 2025 Edebiyatist Kristal Kalem Öykü Seçkisi olarak kitaplaştırılacaktır.
