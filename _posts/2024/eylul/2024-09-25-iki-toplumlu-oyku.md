@@ -3,9 +3,9 @@ layout: post
 title: "İki Toplumlu Öykü Yarışması"
 description: "Kıbrıs’ın güneyi ve kuzeyindeki yazarlara yönelik iki toplumlu öykü yarışması düzenleniyor."
 category: articles
-tags: [ocak 2025, hikaye yarışması, kıbrıs, genel]
-lastDate: 1738278000
-dateHuman: "31 Ocak 2025"
+tags: [nisan 2025, hikaye yarışması, kıbrıs, genel]
+lastDate: 1745964000
+dateHuman: "30 Nisan 2025"
 attendance: "Posta, Kargo, Elden"
 comTopic: "Serbest"
 organizer: "Kıbrıs Edebiyatçılar Birliği"
