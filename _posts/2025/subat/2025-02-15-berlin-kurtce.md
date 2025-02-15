@@ -4,8 +4,8 @@ title: "Almanya Kürt Enstitüsü Berlin Şubesi Öykü Yarışması"
 description: "1500 Euro ödüllü Almanya Kürt Enstitüsü Berlin Şubesi 1. Öykü Yarışması düzenleniyor."
 category: articles
 tags: [mart 2025, hikaye yarışması, genel, kürtçe]
-lastDate: 1743289200
-dateHuman: "30 Mart 2025"
+lastDate: 1743372000
+dateHuman: "31 Mart 2025"
 price: "1500 Euro'dur"
 attendance: "E-Posta"
 comTopic: "Serbest"
