@@ -11,7 +11,7 @@ attendance: "Posta, Kargo"
 comTopic: "Türkiye’de kadının yerini sorgulayan, hayata kadınların penceresinden bakan, yaşanan zorluklar"
 organizer: "Doğan Kitap"
 requirements: "2024 yılında basılmış bir roman sahibi olmak"
-permalink: "duygu-asena-roman-odulu-2024"
+permalink: "duygu-asena-roman-odulu-2025"
 image: "https://edebiyatyarismalari.com/images/2025/mart/duygu-asena-roman-odulu.png"
 excerpt:  "Doğan Kitap Duygu Asena Roman Ödülü başvuruları başladı"
 ---
