@@ -7,7 +7,7 @@ tags: [nisan 2025, roman yarışması, genel, duygu asena]
 lastDate: 1744322400
 price: "30 Bin TL'dir"
 dateHuman: "11 Nisan 2025"
-attendance: "Websitesi"
+attendance: "Posta, Kargo"
 comTopic: "Türkiye’de kadının yerini sorgulayan, hayata kadınların penceresinden bakan, yaşanan zorluklar"
 organizer: "Doğan Kitap"
 requirements: "2024 yılında basılmış bir roman sahibi olmak"
