@@ -8,6 +8,11 @@ description: "Eski aylarda ve yıllarda düzenlenen tüm edebiyat yarışmaları
 
 <ul class='nav flex-column'>
    <li class='nav-item'>
+      <a class='nav-link' href='/2025-edebiyat-yarismalari/'>
+         2025 Edebiyat Yarışmaları
+      </a>
+   </li>
+   <li class='nav-item'>
       <a class='nav-link' href='/2024-edebiyat-yarismalari/'>
          2024 Edebiyat Yarışmaları
       </a>
