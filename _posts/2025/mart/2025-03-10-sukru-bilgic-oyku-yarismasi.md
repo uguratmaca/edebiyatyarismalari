@@ -3,8 +3,8 @@ layout: post
 title: "Şükrü Bilgiç Öykü Yarışması"
 description: "15 Bin TL ödüllü Şükrü Bilgiç Yetişkin Öykü Ödülü 2025 başvuruya hazır"
 category: articles
-tags: [haziran 2024, hikaye yarışması, genel]
-lastDate: 1720990800
+tags: [haziran 2025, hikaye yarışması, genel]
+lastDate: 1751234400
 dateHuman: "30 Haziran 2025"
 attendance: "E-Posta"
 comTopic: "Serbest"
