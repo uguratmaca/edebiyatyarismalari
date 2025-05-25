@@ -21,3 +21,14 @@ excerpt: "Femtrak 2. Turgut Uyar Şiir Ödülü son başvuru tarihi 31 Temmuz 20
 - Kitapların, yazar adıyla yayımlanmış olması gerekmektedir.
 - Her aday, sadece bir kitapla başvurabilir.
 - Başvuruların, 10 adet kitap ile birlikte iletişim bilgileri ve özgeçmiş eklenerek : İzmir / Karabağlar Doğanay Mh 9114 sk no 32 d/9 adresine gönderilmesi gerekmektedir.
+
+## 2. Turgut Uyar Şiir Ödülü Jüri Üyeleri
+
+- BEDİRHAN TOPRAK
+- BERİN UYAR
+- CEZMİ ERSÖZ
+- EKİN DAĞDELEN
+- ERTAN MISIRLI
+- HÜLYA SOYŞEKERCİ
+- VEDAT YILDIRIM
+- YELDA KARATAŞ
