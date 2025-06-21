@@ -4,7 +4,7 @@ title: "Ümraniye Belediyesi 21. Geleneksel Şiir Yarışması"
 description: "112 Bin TL toplam ödüllü Ümraniye Belediyesi 21. Geleneksel Şiir Yarışması başvuruları açıldı"
 category: articles
 tags: [temmuz 2025, şiir yarışması, genel]
-lastDate: 1753394400
+lastDate: 1756072800
 dateHuman: "25 Temmuz 2025"
 attendance: "Websitesi"
 Price: "112 Bin TL'dir"

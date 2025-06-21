@@ -4,7 +4,7 @@ title: "Ümraniye Belediyesi 21. Geleneksel Hikâye Yarışması"
 description: "145 Bin TL toplam ödüllü Ümraniye Belediyesi 21. Geleneksel Hikâye Yarışması başvuruları herkese açıldı"
 category: articles
 tags: [temmuz 2025, hikaye yarışması, genel]
-lastDate: 1753394400
+lastDate: 1756072800
 dateHuman: "25 Temmuz 2025"
 attendance: "Websitesi"
 Price: "145 Bin TL'dir"
