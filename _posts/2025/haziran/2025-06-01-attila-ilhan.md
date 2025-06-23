@@ -11,7 +11,7 @@ comTopic: "Serbest"
 organizer: "Attilâ İlhan Bilim, Sanat ve Kültür Vakfı"
 requirements: "Yarışma tüm yazarlara açıktır"
 permalink: "10-attila-ilhan-edebiyat-odulleri"
-image: "https://edebiyatyarismalari.com/images/2025/haziran/attila-ilhan-edebiyat-odulleri.png"
+image: "https://edebiyatyarismalari.com/images/2025/haziran/attila-ilhan-edebiyat-odulleri.jpg"
 excerpt: "Attilâ İlhan Bilim, Sanat ve Kültür Vakfı tarafından Türkiye İş Bankası Kültür Yayınları desteğiyle Attilâ İlhan Edebiyat Ödülleri’nin bu yıl onuncusu düzenleniyor"
 ---
 
