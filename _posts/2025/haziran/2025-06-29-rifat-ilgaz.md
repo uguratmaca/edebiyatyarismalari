@@ -49,4 +49,16 @@ excerpt: "Nilüfer Belediyesi Rıfat Ilgaz Öykü Ödülü'nü duyurdu"
 - Nahit Kayabaşı
 - Figen Şakacı 
 
+### Rıfat Ilgaz Öykü Ödülü Başvuru Noktaları
+
+- Demirci Kütüphanesi (Hafta içi 09.00-18.00) Demirci Mah. Dere Sok..No: 2 Nilüfer-Bursa, Tel: 0224 494 19 54
+- Akkılıç Kütüphanesi (Hafta içi 09.00-21.00 / Hafta sonu 10.00-18.00) Ataevler Mah. Yılmaz Akkılıç Cad. Basın Kültür Sarayı, Kat: 2 Nilüfer-Bursa, Tel: 0224 441 01 42.
+- Şiir Kütüphanesi (Hafta içi 09.00-00.00 / Hafta sonu 10.00-00.00) Nâzım Hikmet Kültürevi, el Mah.
+Uğur Mumcu Bulvarı No: 7 Nilüfer-Bursa, Tel: 0224 413 27 37
+- Üçevler Kütüphanesi (Hafta içi 09.00-21.00 / Hafta sonu 10.00-18.00) Üçevler Mah ül Sok. No: 6 Nilüfer- Bula
+Tel: 0224 4418189
+- Çocuk Kütüphanesi (Hafta içi 09.00-21.00 / Hafta sonu 10.00-18.00) Gümüştepe Mah. Pınar tad No: 1 Nilüfer-Bursa;
+Tel: 0224 486 62 46
+- Koza Kütüphanesi (7/24) Görükle Mahallesi, Üniversite Caddesi, No: 612 Nilüfer-Bursa, Tel: 0532 2237005. 
+
 #### [Başvuru formu](https://www.nilufer.bel.tr/i/pdf/Basvuru.pdf?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
