@@ -8,7 +8,6 @@ lastDate: 1757887200
 dateHuman: "15 Eylül 2025"
 attendance: "Posta, Kargo"
 comTopic: "Serbest"
-price: "30 Bin TL"
 organizer: "Seyhan Erözçelik ailesi ve arkadaşları"
 requirements: "İsteyen herkes katılabilir"
 permalink: "seyhan-erozcelik-siir-odulu-2025"
