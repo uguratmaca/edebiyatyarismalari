@@ -3,7 +3,7 @@ layout: post
 title: "11. GİO Ödülleri"
 description: "FABİSAD 7 Kategoride düzenlenecek 11. GİO Ödülleri'ni duyurdu"
 category: articles
-tags: [temmuz 2025, kısa film yarışması, hikaye yarışması, çizgi roman yarışması, genel]
+tags: [temmuz 2025, kısa film yarışması, hikaye yarışması, çizgi roman yarışması, genel, bilimkurgu]
 lastDate: 1755468000
 dateHuman: "25 Temmuz 2025"
 attendance: "Websitesi"
