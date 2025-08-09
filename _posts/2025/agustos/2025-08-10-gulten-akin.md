@@ -41,5 +41,3 @@ excerpt: "Gülten Akın Şiir Ödül 2026 başvuruları başladı"
 - Bircan Çelik
 - Haydar Eroğlu
 - İbrahim Canpolat
-
-### [Başvuru Formu](https://www.tbd.org.tr/turkiye-bilisim-dergisi-2025-bilimkurgu-oyku-yarismasi/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
