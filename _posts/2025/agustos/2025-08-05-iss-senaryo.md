@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "İzmir Seni Seviyorum (İSS) Kısa Film Senaryo Yarışması"
-description: "İzmir Seni Seviyorum (İSS) Kısa Film Senaryo Yarışması son başvuru tarihi 20 Ağustos 2025"
+description: "İzmir Seni Seviyorum (İSS) Kısa Film Senaryo Yarışması son başvuru tarihi 20 Eylül 2025"
 category: articles
-tags: [ağustos 2025, senaryo yarışması, genel]
-lastDate: 1755640800
-dateHuman: "20 Ağustos 2025"
+tags: [eylül 2025, senaryo yarışması, genel]
+lastDate: 1758319200
+dateHuman: "20 Eylül 2025"
 attendance: "Websitesi"
 price: "270 Bin TL'dir"
 comTopic: "İzmir"
@@ -13,7 +13,7 @@ organizer: "CS Yapım"
 requirements: "⁠Yarışmaya on sekiz yaşını doldurmuş herkes katılabilir"
 permalink: "izmir-seni-seviyorum-senaryo-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/agustos/izmir-seni-seviyorum-senaryo-yarismasi.jpg"
-excerpt: "İzmir Seni Seviyorum (İSS) Kısa Film Senaryo Yarışması son başvuru tarihi 20 Ağustos 2025"
+excerpt: "İzmir Seni Seviyorum (İSS) Kısa Film Senaryo Yarışması son başvuru tarihi 20 Eylül 2025"
 ---
 
 ## İzmir Seni Seviyorum (İSS) Kısa Film Senaryo Yarışması
