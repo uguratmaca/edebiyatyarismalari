@@ -3,7 +3,7 @@ layout: post
 title: "Cüneyne Dergisi 2025 Şiir Ödülü"
 description: "Cüneyne Kültür Sanat ve Edebiyat Dergisi Şiir Ödülü başvuruları başladı"
 category: articles
-tags: [eylül 2025, şiir yarışması, serbest]
+tags: [eylül 2025, şiir yarışması, serbest, genel]
 lastDate: 1757887200
 dateHuman: "15 Eylül 2025"
 attendance: "E-Posta"
