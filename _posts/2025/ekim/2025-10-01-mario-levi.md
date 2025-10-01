@@ -17,7 +17,7 @@ excerpt: "Everest Yayınları isteyen herkesin katılabileceği Mario Levi Öyk�
 
 ## Mario Levi Öykü Yarışması
 
-- Mario Levi Öykü Ödülü; daha önce öykü, roman, novella gibi kurmaca türlerde herhangi bir formatta (matbu, dijital, sesli kitap vb) kitabı yayımlanmamış, ayrıca senaryoları, tiyatro oyunları yine herhangi bir formatta kitaplaşmamış, filme, diziye yahut herhangi bir şekilde sahneye uyarlanmamış olan bir yazarın ilk öyku dosyasına verilecektir. Adayların kitaplaşmış şiir, deneme ya da akademik çalışmalarının olması ise başvuruya engel değildir.
+- **Mario Levi Öykü Ödülü**; daha önce öykü, roman, novella gibi kurmaca türlerde herhangi bir formatta (matbu, dijital, sesli kitap vb) kitabı yayımlanmamış, ayrıca senaryoları, tiyatro oyunları yine herhangi bir formatta kitaplaşmamış, filme, diziye yahut herhangi bir şekilde sahneye uyarlanmamış olan bir yazarın ilk öyku dosyasına verilecektir. Adayların kitaplaşmış şiir, deneme ya da akademik çalışmalarının olması ise başvuruya engel değildir.
 - Ödül, bir bütünlük oluşturacak şekilde bir araya getirilmiş öykülerden oluşan bir dosyaya verilecektir. Tek öyküyle başvuranlar baştan elenecektir.
 - Adaylar, istedikleri sayıda öyküyü bir dosya oluşturacak şekilde bir araya getirebilirler. Sayfa, karakter ya da sözcük sayısı sınırlaması da yoktur.
 - Dosyalardaki öyküler daha önce müstakilen dergilerde yayımlanmış yahut ödül almış olabilir.
@@ -28,7 +28,7 @@ excerpt: "Everest Yayınları isteyen herkesin katılabileceği Mario Levi Öyk�
 - Yarışmaya son katılım tarihi 28 Kasım 2025 Cuma günüdür.
 - Yarışmayı kazanan kişi 22 Mayıs 2026 Cuma günü açıklanacaktır.
 - Eserler, değerli değerlendirilecektir.
-- Yarışmayı kazanan yazarın eseri editoryal süreçlerin tamamlanmasının ardından Everest Yayınları tarafından yayımlanacaktır.
+- Yarışmayı kazanan yazarın eseri editoryal süreçlerin tamamlanmasının ardından **Everest Yayınları** tarafından yayımlanacaktır.
 
 ### Mario Levi Öykü Yarışması Jüri Üyeleri
 
