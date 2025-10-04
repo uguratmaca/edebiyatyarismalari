@@ -27,7 +27,6 @@ excerpt: "Everest Yayınları isteyen herkesin katılabileceği Mario Levi Öyk�
 - Yarışmacılar, yarışmaya tek bir eserle katılabilirler.
 - Yarışmaya son katılım tarihi 28 Kasım 2025 Cuma günüdür.
 - Yarışmayı kazanan kişi 22 Mayıs 2026 Cuma günü açıklanacaktır.
-- Eserler, değerli değerlendirilecektir.
 - Yarışmayı kazanan yazarın eseri editoryal süreçlerin tamamlanmasının ardından **Everest Yayınları** tarafından yayımlanacaktır.
 
 ### Mario Levi Öykü Yarışması Jüri Üyeleri
