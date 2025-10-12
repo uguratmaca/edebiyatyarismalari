@@ -20,7 +20,7 @@ excerpt: "Kapadokya Edebiyat Festivali Ulusal Küçürek Öykü Yarışması ba�
 - Eserler, daha önce herhangi bir yarışmada ödül almamış ve basılı veya dijital ortamda yayımlanmamış, özgün eserler olmalıdır.
 - Yarışmaya katılacak öyküler, başlık dahil 200 kelimeyi aşmayacaktır.
 - Öyküler Türkçe olmalı, yazım kuralları ve noktalama işaretleri hususunda TDK’ye uyulmalıdır.
-- Küçürek Öykü Yarışmasının teması “AİLE” olarak belirlenmiştir.
+- **Küçürek Öykü Yarışması**nın teması “AİLE” olarak belirlenmiştir.
 - Öyküler, Microsoft Word programının “Times New Roman” yazı karakterinde ve 12 punto yazı büyüklüğünde yazılmalıdır.
 - Öykü metninin sağ üst köşesinde yarışmacıya ait bir rumuz bulunmalı, onun dışında öyküde herhangi bir kimlik bilgisi yer almamalıdır.
 - Öyküler “Word” dosyası olarak gönderilmelidir. Word dosyasının adı sadece “öykü adı” olacak şekilde yazılmalıdır.
