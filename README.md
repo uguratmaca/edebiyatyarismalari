@@ -28,6 +28,9 @@ https://edebiyatyarismalari.com/resat-nuri-guntekin-yarismalari/
 sait faik abasıyanık
 https://edebiyatyarismalari.com/sait-faik-abasiyanik-yarismalari/
 
+fakir baykurt
+https://edebiyatyarismalari.com/fakir-baykurt-yarismalari/
+
 ## Local Serve
 - install ruby
 - gem install bundler
