@@ -6,7 +6,7 @@ category: articles
 tags: [ocak 2026, şiir yarışması, kitap dosyası, genel]
 comments: true
 lastDate: 1769727600 
-dateHuman: "31 Ocak 2022"
+dateHuman: "31 Ocak 2026"
 comTopic: "Serbest"
 organizer: "Aalen-Antakya Kültür Derneği"
 attendance: "E-Posta"
