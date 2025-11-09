@@ -12,7 +12,7 @@ organizer: "Numara Doksan Dergi"
 attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"
 permalink: "numara-doksan-dergi-siir-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2021/eylul/numara-doksan-dergi-siir-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/kasim/numara-doksan-dergi-siir-yarismasi.jpg"
 excerpt: "Numara Doksan Dergi 4. yılına özel şiir yarışmasını duyurdu."
 ---
 
