@@ -12,7 +12,7 @@ comTopic: "Serbest"
 organizer: "Kartopu Enez Gönüllüleri ve Sahil Sakinleri Derneği"
 requirements: "İsteyen herkes katılabilir"
 permalink: "enez-oykuleri-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/ekim/enez-oykuleri-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/kasim/enez-oykuleri-oyku-yarismasi.jpg"
 excerpt: "Enez Öyküleri Öykü Yarışması başvuruları açıldı."
 ---
 
