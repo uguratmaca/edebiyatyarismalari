@@ -51,64 +51,64 @@ BÖLÜM YOL HARİTASI
 
 1. Bölüm – Tanık
 
-- Otele dışarıdan bakan sıradan biri (ör. Köylü, sokak çocuğu, otelin yanından geçen biri).
-- O gece içeriden gelen bir ışık, çığlık ya da camda beliren bir gölge görür.
-- Mekân tanıtımı tanığın gözünden yapılır: dış cephesi, sessizlik, ürperti.
-- Olayın başlangıcı burada tetiklenir.
+    - Otele dışarıdan bakan sıradan biri (ör. Köylü, sokak çocuğu, otelin yanından geçen biri).
+    - O gece içeriden gelen bir ışık, çığlık ya da camda beliren bir gölge görür.
+    - Mekân tanıtımı tanığın gözünden yapılır: dış cephesi, sessizlik, ürperti.
+    - Olayın başlangıcı burada tetiklenir.
 
 2. Bölüm – Yakın Arkadaş
 
-- Kaybolan/ölmüş kişinin en yakın dostu.
-- Otele geldiğinde hem arkadaşına dair duygularını hem de oteli anlatır.
-- Geçmişten anılar, özlem ve suçluluk duygusu işlenir.
-- Olayın duygusal tarafı ortaya çıkar.
+    - Kaybolan/ölmüş kişinin en yakın dostu.
+    - Otele geldiğinde hem arkadaşına dair duygularını hem de oteli anlatır.
+    - Geçmişten anılar, özlem ve suçluluk duygusu işlenir.
+    - Olayın duygusal tarafı ortaya çıkar.
 
 3. Bölüm – Dedektif
 
-- Otele soruşturma için gelir.
-- Akılcı yaklaşım → notlar, ipuçları, sorgulamalar.
-- Fakat otelde mantıkla açıklayamadığı detaylara rastlar (ör. Odalar yer değiştiriyor gibi).
-- Okur olayın gerçeğini değil, dedektifin yorumunu öğrenir.
+    - Otele soruşturma için gelir.
+    - Akılcı yaklaşım → notlar, ipuçları, sorgulamalar.
+    - Fakat otelde mantıkla açıklayamadığı detaylara rastlar (ör. Odalar yer değiştiriyor gibi).
+    - Okur olayın gerçeğini değil, dedektifin yorumunu öğrenir.
 
 4. Bölüm – Şüpheli
 
-- Olayla doğrudan bağlantılı bir karakter.
-- Savunmasını yapar: “Ben değildim, o an başka bir yerdeydim.”
-- Ama dilindeki boşluklar şüphe uyandırır.
-- Okur onun suçlu mu yoksa masum mu olduğuna karar veremez.
+    - Olayla doğrudan bağlantılı bir karakter.
+    - Savunmasını yapar: “Ben değildim, o an başka bir yerdeydim.”
+    - Ama dilindeki boşluklar şüphe uyandırır.
+    - Okur onun suçlu mu yoksa masum mu olduğuna karar veremez.
 
 5. Bölüm – Kurbanın Son Saatleri
 
-- Cinayet/kayıp öncesi kurbanın iç dünyası.
-- Belki günlüğünden, belki bilinç akışıyla yazılır.
-- Otelin belli odaları (ör. 203 numara, yemek salonu, asansör) bu bölümde detaylıca görülür.
-- Okur, kurbanın yaşadığı gerilimi hisseder.
+    - Cinayet/kayıp öncesi kurbanın iç dünyası.
+    - Belki günlüğünden, belki bilinç akışıyla yazılır.
+    - Otelin belli odaları (ör. 203 numara, yemek salonu, asansör) bu bölümde detaylıca görülür.
+    - Okur, kurbanın yaşadığı gerilimi hisseder.
 
 6. Bölüm – Yabancı
 
-- Olayla ilgisiz gibi görünen biri (gezgin, sokakta kalan biri, eski otel çalışanı).
-- Otele uğrayıp bambaşka bir gözle mekânı ve söylentileri anlatır.
-- Farklı bir üslup (mizahi, şiirsel, masalsı) olabilir.
-- Kitaba çeşitlilik katar.
+    - Olayla ilgisiz gibi görünen biri (gezgin, sokakta kalan biri, eski otel çalışanı).
+    - Otele uğrayıp bambaşka bir gözle mekânı ve söylentileri anlatır.
+    - Farklı bir üslup (mizahi, şiirsel, masalsı) olabilir.
+    - Kitaba çeşitlilik katar.
 
 7. Bölüm – Katil
 
-- Burada anlatıcı katil gibi görünür ama tamamen güvenilmezdir.
-- Belki gerçekten katildir, belki de sanrılar yaşıyordur.
-- Olayın karanlık yüzü açığa çıkar.
-- Atmosfer en yoğun burada: kan, sessizlik, suçun ağırlığı.
+    - Burada anlatıcı katil gibi görünür ama tamamen güvenilmezdir.
+    - Belki gerçekten katildir, belki de sanrılar yaşıyordur.
+    - Olayın karanlık yüzü açığa çıkar.
+    - Atmosfer en yoğun burada: kan, sessizlik, suçun ağırlığı.
 
 8. Bölüm - Otelin Ölü Sahibinin Ruhu
 
-- Ötelin ilk sahibi ölmüştür fakat kimse bilmese de ruhu otelin duvarları arasında varlığını sürdürmeye devam etmektedir.
-- Bu ruh gerçekleri mi anlatıyor yoksa her şeyi çarptırıp olayı kızıştırmaya mı çalışıyor?
+    - Ötelin ilk sahibi ölmüştür fakat kimse bilmese de ruhu otelin duvarları arasında varlığını sürdürmeye devam etmektedir.
+    - Bu ruh gerçekleri mi anlatıyor yoksa her şeyi çarptırıp olayı kızıştırmaya mı çalışıyor?
 
 9. Bölüm – Döngünün Kapanışı
 
-- Bütün parçalar bir araya gelir ama kesin çözüm verilmez.
-- Okur hem “neyin olduğunu” hem de “neyin asla öğrenilemeyeceğini” hisseder.
-- Belki dedektifin defterinde kalan son not, belki tanığın tekrar gördüğü bir ışık…
-- Olay, başa döner gibi olur → sonsuz bir döngü etkisi.
+    - Bütün parçalar bir araya gelir ama kesin çözüm verilmez.
+    - Okur hem “neyin olduğunu” hem de “neyin asla öğrenilemeyeceğini” hisseder.
+    - Belki dedektifin defterinde kalan son not, belki tanığın tekrar gördüğü bir ışık…
+    - Olay, başa döner gibi olur → sonsuz bir döngü etkisi.
 
 Ortak Bağlantı Noktaları (Tüm Yazarlar İçin Sabitler)
 
