@@ -6,7 +6,7 @@ category: articles
 tags: [nisan 2026, hikaye yarışması, genel, kitap dosyası]
 lastDate: 1775167200
 dateHuman: "3 Nisan 2026"
-attendance: "E-Posta"
+attendance: "Posta, Kargo"
 comTopic: "Serbest"
 organizer: "A7 Kitap"
 requirements: "İsteyen herkes katılabilir"
@@ -17,7 +17,7 @@ excerpt: "A7 Kitap Sevim Burak Öykü Ödülü'nü duyurdu"
 
 ## A7 Kitap Sevim Burak Öykü Ödülü
 
-- A7 Kitap Sevim Burak Öykü Ödülü, tüm yazarlara açık olacaktır.
+- **A7 Kitap Sevim Burak Öykü Ödülü**, tüm yazarlara açık olacaktır.
 - Ödüle, daha önce dosya dalında herhangi bir ödül almamış kitap bütünlüğü taşıyan öykü dosyaları katılabilir.
 - Ödüle katılan dosyanın herhangi bir yerinde yazarın açık kimliğini belli edecek isim, rumuz ve işaret kullanılmamalıdır. Katılımcıların kimlik ve iletişim bilgilerini üzerine dosya adını yazacakları ayrı bir zarf içerisinde göndermeleri gerekmektedir.
 - Yarışmada yalnızca birincilik ödülü verilecek, jüri isterse birinciliği paylaştırabilecektir.
