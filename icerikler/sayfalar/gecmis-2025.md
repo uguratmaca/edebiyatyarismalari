@@ -17,4 +17,6 @@ description: "2025 yılında düzenlenmiş olan tüm kitap okuma yarışması, �
    <li class='nav-item'><a class='nav-link' href='/agustos-2025-yarismalar/'>Ağustos 2025 Yarışmaları</a></li>
    <li class='nav-item'><a class='nav-link' href='/eylul-2025-yarismalar/'>Eylül 2025 Yarışmaları</a></li>
    <li class='nav-item'><a class='nav-link' href='/ekim-2025-yarismalar/'>Ekim 2025 Yarışmaları</a></li>
+   <li class='nav-item'><a class='nav-link' href='/kasim-2025-yarismalar/'>Kasım 2025 Yarışmaları</a></li>
+   <li class='nav-item'><a class='nav-link' href='/aralik-2025-yarismalar/'>Aralık 2025 Yarışmaları</a></li>
 </ul>

@@ -12,7 +12,7 @@ organizer: "Artshop Yayıncılık"
 attendance: "Posta, Kargo"
 requirements: "İsteyen herkes katılabilir"
 permalink: "kemal-ozer-siir-odulu-2026"
-image: "https://edebiyatyarismalari.com/images/2021/eylul/kemal-ozer-siir-odulu.jpg"
+image: "https://edebiyatyarismalari.com/images/2026/ocak/kemal-ozer-siir-odulu.jpg"
 excerpt: "2026 Kemal Özer Şiir Ödülü başvurularınızı bekliyor."
 ---
 
