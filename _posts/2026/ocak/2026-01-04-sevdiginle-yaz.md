@@ -12,7 +12,7 @@ organizer: "Türkiye Polisiye Yazarları Birliği"
 attendance: "E-Posta"
 requirements: "Yarışmaya iki kişilik ekipler katılabilir"
 permalink: "14-subat-polisiye-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2026/ocak/sevdiginle-yaz-oyku-yarismasi"
+image: "https://edebiyatyarismalari.com/images/2026/ocak/sevdiginle-yaz-oyku-yarismasi.jpg"
 excerpt: "Türkiye Polisiye Yazarları Birliği SEVDİĞİNLE YAZ! 14 Şubat’a Özel Polisiye Öykü Yarışması'nı duyurdu."
 ---
 
