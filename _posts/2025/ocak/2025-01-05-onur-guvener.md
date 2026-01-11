@@ -17,7 +17,7 @@ excerpt: "Uluslararası Lions Dernekleri 118 Y İstanbul Anadolu Yakası Yöneti
 
 ## 21. Onur Güvener Öykü Yarışması
 
-Öykünün Prens ve Prensesleri seçilecek. 1996 yılında Milliyet Gazetesinin Rahmetli Müdürlerinden Eren Güvener’in, hayatının baharında trafik kazasında kaybettiği oğlu “Onur Guvener’in” adına her yıl LİONS DERNEKLERİ projesi olarak sürdürülen ve 1998 yılından beri, 20 Kez tekrarlanan yarışmanın 21. Onur Güvener Öykü Yarışma Şartnamesi.”
+Öykünün Prens ve Prensesleri seçilecek. 1996 yılında Milliyet Gazetesinin Rahmetli Müdürlerinden Eren Güvener’in, hayatının baharında trafik kazasında kaybettiği oğlu “Onur Güvener’in” adına her yıl LİONS DERNEKLERİ projesi olarak sürdürülen ve 1998 yılından beri, 20 Kez tekrarlanan yarışmanın 21. Onur Güvener Öykü Yarışma Şartnamesi.”
 
 - Türkçe okuma yazma bilen İlköğretim birinci kademe ve ikinci kademe çağındaki 9-12 Yaş arasındaki çocuklarımızın, duru, akıcı iyi bir Türkçe ile öykü yazmalarını ve anlatmalarını sağlama adına düzenlenecek.
 - Yazabilecekleri, yazdıklarını anlatabilecekleri, çocukların düşünce yapılarına ters düşmeyen eğlenceli ve eğitici çağdaş yaşam içinden öyküleri tasarlayarak yazma ve anlatma becerisini kazanmaları. 
