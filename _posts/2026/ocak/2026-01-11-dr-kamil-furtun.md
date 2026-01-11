@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "Dr.Kamil Furtun Öykü Yarışması"
+title: "Dr.Kamil Furtun Öykü Yarışması 2026"
 description: "Samsun Tabip Odası Dr.Kamil Furtun adına Öykü Yarışması düzenliyor"
 category: articles
-tags: [şubat 2025, hikaye yarışması, genel]
-lastDate: 1739746800
-dateHuman: "17 Şubat 2025"
+tags: [şubat 2026, hikaye yarışması, genel]
+lastDate: 1771196400
+dateHuman: "16 Şubat 2026"
 attendance: "E-Posta"
 price: "10 Bin TL'dir"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
-permalink: "dr-kamil-furtun-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2024/aralik/dr-kamil-furtun-oyku-yarismasi.jpg"
+permalink: "dr-kamil-furtun-oyku-yarismasi-2026"
+image: "https://edebiyatyarismalari.com/images/2026/ocak/dr-kamil-furtun-oyku-yarismasi.jpg"
 organizer: "Samsun Tabip Odası"
 excerpt: "Samsun Tabip Odası Dr.Kamil Furtun adına Öykü Yarışması düzenliyor"
 ---
 
-## Dr.Kamil Furtun Öykü Yarışması
+## Dr.Kamil Furtun Öykü Yarışması 2026
 
 - Yarışmaya rumuz ile katılım zorunludur.
 - Yarışmaya katılım için hekim olmak ön koşul olmayıp öykü yazmaya gönül vermiş tüm yurttaşların katılımına açıktır. Ancak Seçici Kurul ve Samsun Tabip Odası yönetim kurulu ile diğer kurul üyelerinin birinci dereceden yakınları katılamaz.
@@ -36,17 +36,17 @@ excerpt: "Samsun Tabip Odası Dr.Kamil Furtun adına Öykü Yarışması düzenl
 - Başvurular kargoyla ya da elden teslim edilebilir.
 - Başvurular aşağıda belirtilen kurum adreslerine yapılmalıdır.
 
-## Dr.Kamil Furtun Öykü Yarışması Ödülleri
+## Dr.Kamil Furtun Öykü Yarışması 2026 Ödülleri
 
-- Yukarıda belirtilen koşullarda “Dr.Kamil Furtun Öykü Ödülü” verilir. Ödülü kazanan yapıtlar ve yayımlanmaya değer görülenler (yazarın olurunu almak koşuluyla) basılacak Öykü Seçkisi’nde yer alır.
+- Yukarıda belirtilen koşullarda **Dr.Kamil Furtun Öykü Ödülü** verilir. Ödülü kazanan yapıtlar ve yayımlanmaya değer görülenler (yazarın olurunu almak koşuluyla) basılacak Öykü Seçkisi’nde yer alır.
 - Yarışmada dereceye girenlere verilecek ödüller aşağıdaki gibidir.
 - Büyük Ödül geleneksel olarak Dr. Kamil Furtun ödülü olarak isimlendirilir. Değerlendirme sonunda 1. liği kazanan eser sahibine 10000 TL ödül verilecektir ayrıca 2 adet mansiyon ödülü şeklinde planlamıştır.
 
-## Dr.Kamil Furtun Öykü Yarışması Seçici Kurul
+## Dr.Kamil Furtun Öykü Yarışması 2026 Seçici Kurul
 
-- SIDDIK AKBAYIR / Akademisyen - Yazar
-- DR. SUNA DÜNDAR / Tıp Doktoru - Yazar
-- DR. ALİ İHSAN ÖKTEN / Tıp Doktoru - Yazar
-- DR. MEHMET UHRİ / Tıp Doktoru - Yazar
+- Dr. Alper Aktaş / Tıp Doktoru - Yazar
+- Dr. Suna Dündar / Tıp Doktoru - Yazar
+- Dr. Ali İhsan Ökten / Tıp Doktoru - Yazar
+- Dr. Cengiz Yakıncı / Tıp Doktoru - Yazar
 
-#### [Başvuru dosyası](https://www.samsuntabipodasi.org.tr/uploads/files/yonerge2025.pdf){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+#### [Başvuru dosyası](https://drive.google.com/file/d/1JABv_DFAsGFF5YXXg6KuHHxSWthP-2Yi/view){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
