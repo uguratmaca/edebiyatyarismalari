@@ -3,7 +3,7 @@ layout: post
 title: "Mevlana İdris Anısına Şiir Yarışması"
 description: "Kahramanmaraş Belediyesi Uluslararası Kahramanmaraş Şiir ve Edebiyat Günleri kapsamında düzenlenen Mevlana İdris Anısına Şiir Yarışması'nı duyurdu."
 category: articles
-tags: [mart 2026, şiir yarışması, genel]
+tags: [şubat 2026, şiir yarışması, genel]
 lastDate: 1771110000
 dateHuman: "15 Şubat 2026"
 price: "45 Bin TL'dir"
