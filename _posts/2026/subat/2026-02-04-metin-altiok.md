@@ -4,7 +4,7 @@ title: "19. Metin Altıok Şiir Ödülü"
 description: "Kırmızı Kedi Yayınevi 19. Metin Altıok Şiir Ödülü'nü duyurdu"
 category: articles
 tags: [mart 2026, şiir yarışması, genel]
-lastDate: 1740697200
+lastDate: 1772578800
 dateHuman: "4 Mart 2026"
 attendance: "Kargo/Posta"
 organizer: "Kırmızı Kedi Yayınevi"
