@@ -16,7 +16,7 @@ excerpt:  "Özgür Öyküşiir Dergisi <strong>Enver Gökçe Toplumcu Şiir Öd�
 
 ## Enver Gökçe Toplumcu Gerçekci 2025 Şiir Ödülü
 
-- Özgür Öyküşiir dergisince bu yıl yedincisi düzenlenen Enver GÖKÇE Toplumcu Gerçekçi Şiir Ödülü, Enver GÖKÇE adının ve şiirinin yaşatılması için konulmuştur.
+- Özgür Öyküşiir dergisince bu yıl yedincisi düzenlenen **Enver GÖKÇE Toplumcu Gerçekçi Şiir Ödülü**, Enver GÖKÇE adının ve şiirinin yaşatılması için konulmuştur.
 - Bu ödül toplumcu gerçekçi şiir akımının sürekliliğini amaçlar ve Türk şiirinde anlaşılırlığı öne çıkarır.
 - Enver GÖKÇE Toplumcu Gerçekçi Şiir Ödülüne, şairler ve yayınevleri 2025 yılında yayımlanmış şiir kitaplarından yedişer (7'şer) adet göndererek başvurabilir.
 - Seçici Kurul ödüle katılıp katılmadığına bakılmaksızın toplu yapıtlarını değerlendirmeye aldığı bir şaire ayrıca Onur Ödülü verir.

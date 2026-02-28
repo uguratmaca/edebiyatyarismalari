@@ -18,7 +18,7 @@ excerpt:  "Mersin Toroslar Belediyesi 45 Bin TL para ödüllü Osman Şahin Öyk
 
 ## Osman Şahin Öykü Ödülü
 
-- Osman Şahin Öykü Ödülü yarışmasına 18 yaşını doldurmuş olan her T.C. yurttaşı katılabilir.
+- **Osman Şahin Öykü Ödülü** yarışmasına 18 yaşını doldurmuş olan her T.C. yurttaşı katılabilir.
 - Yarışmaya katılan öykülerin dili Türkçe olmalıdır.
 - Öyküler 5 sayfa ve 2000 sözcükten fazla olmamalıdır. Bu kriterin dışındaki uzun öyküler değerlendirmeye alınmayacaktır.
 - Yarışmaya katılan her yazarın ancak tek öykü ile katılma hakkı vardır.
