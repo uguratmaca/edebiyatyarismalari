@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enver Gökçe Toplumcu Gerçekci 2025 Şiir Ödülü"
-description: "Özgür Öyküşiir Dergisi 'Enver Gökçe Şiir Ödülü 2024' düzenliyor."
+description: "Özgür Öyküşiir Dergisi 'Enver Gökçe Şiir Ödülü 2025' düzenliyor."
 category: articles
 tags: [temmuz 2025, şiir yarışması, genel]
 lastDate: 1751320800
@@ -11,7 +11,7 @@ organizer: "Özgür Öyküşiir Dergisi"
 requirements: "İsteyen herkes katılabilir."
 permalink: "enver-gokce-siir-odulu-2025"
 image: "https://edebiyatyarismalari.com/images/2024/subat/enver-gokce-siir-odulu-2024.jpg"
-excerpt:  "Özgür Öyküşiir Dergisi <strong> Enver Gökçe Şiir Ödülü 2024 </strong> düzenliyor."
+excerpt:  "Özgür Öyküşiir Dergisi <strong> Enver Gökçe Şiir Ödülü 2025 </strong> düzenliyor."
 ---
 
 ## Enver Gökçe Toplumcu Gerçekci 2025 Şiir Ödülü
