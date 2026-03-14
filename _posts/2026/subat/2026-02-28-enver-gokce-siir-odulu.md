@@ -14,7 +14,7 @@ image: "https://edebiyatyarismalari.com/images/2024/subat/enver-gokce-siir-odulu
 excerpt:  "Özgür Öyküşiir Dergisi <strong>Enver Gökçe Toplumcu Şiir Ödülü 2026</strong> düzenliyor."
 ---
 
-## Enver Gökçe Toplumcu Gerçekci 2025 Şiir Ödülü
+## Enver Gökçe Toplumcu Gerçekci 2026 Şiir Ödülü
 
 - Özgür Öyküşiir dergisince bu yıl yedincisi düzenlenen **Enver GÖKÇE Toplumcu Gerçekçi Şiir Ödülü**, Enver GÖKÇE adının ve şiirinin yaşatılması için konulmuştur.
 - Bu ödül toplumcu gerçekçi şiir akımının sürekliliğini amaçlar ve Türk şiirinde anlaşılırlığı öne çıkarır.
@@ -30,7 +30,7 @@ excerpt:  "Özgür Öyküşiir Dergisi <strong>Enver Gökçe Toplumcu Şiir Öd�
 - Tel. : 0536 425 41 26 - 0535 052 60 35
 - E-posta : oduloykusiir@gmail.com
 
-## Enver Gökçe Toplumcu Gerçekci 2025 Şiir Ödülü Seçici Kurulu
+## Enver Gökçe Toplumcu Gerçekci 2026 Şiir Ödülü Seçici Kurulu
 
 - Hasan Hüseyin YALVAÇ (şair, yazar)
 - Haydar ÜNAL (şair)
