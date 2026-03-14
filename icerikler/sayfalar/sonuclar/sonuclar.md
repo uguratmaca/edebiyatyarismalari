@@ -8,6 +8,11 @@ description: "Öykü, şiir, roman vb. edebiyat yarışmalarının sonuçlarına
 
 <ul class='nav flex-column'>
    <li class='nav-item'>
+      <a class='nav-link' href='/2026-yarisma-sonuclari/'>
+         2026 Edebiyat Yarışma Sonuçları
+      </a>
+   </li>
+   <li class='nav-item'>
       <a class='nav-link' href='/2023-yarisma-sonuclari/'>
          2023 Edebiyat Yarışma Sonuçları
       </a>
