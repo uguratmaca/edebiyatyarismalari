@@ -35,7 +35,7 @@ excerpt: "Nilüfer Belediyesi 20 Bin TL para ödüllü 2026 Yılın Yazarı Senn
 
 ## 2026 Yılın Yazarı Sennur Sezer Şiir Ödülü Para Ödülü
 
-- も20.000
+- 20.000 TL
 
 ## 2026 Yılın Yazarı Sennur Sezer Şiir Ödülü Seçici Kurul
 
