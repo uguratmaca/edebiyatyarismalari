@@ -18,7 +18,7 @@ excerpt: "TARIK DURSUN K. ANISINA DÜZENLENEN ÖYKÜ YARIŞMASINA ÇAĞRI"
 
 ## Tarık Dursun K. Öykü Yarışması 
 
-- Foça Belediyesi, öykücülüğümüzün önemli ismi Tarık Dursun K.’nın anısını yaşatmak amacıyla bir öykü yarışması düzenlemiştir. 
+- Foça Belediyesi, öykücülüğümüzün önemli ismi Tarık Dursun K.’nın anısını yaşatmak amacıyla bir **öykü yarışması** düzenlemiştir. 
 - Yarışma, öyküye ilgi duyan 18 yaş üzerindeki herkese açıktır. Yarışmaya jüri üyelerinin yakınları ve  Foça Belediyesi çalışanları katılamaz.
 - Yarışmaya bir (1) öykü ile katılınabilir.  Konu serbesttir. Yarışacak öykü, daha önce dijital veya basılı ortam gibi hiçbir yerde yayımlanmamış, herhangi bir ödül almamış olmalıdır.
 - Öykülerde konu seçimi, özenli Türkçe kullanımı, özgünlük ve aktarım tekniği öncelikli olarak dikkate alınacaktır.
