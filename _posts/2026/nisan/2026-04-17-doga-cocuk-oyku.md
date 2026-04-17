@@ -11,7 +11,7 @@ price: "60 Bin TL'dir"
 attendance: "İnternet Sitesi"
 organizer: "Doğan Yayınları"
 requirements: "5, 6, 7 ve 8. sınıfta okuyan tüm öğrencilerin katılımına açıktır"
-permalink: "Doğan Çocuk Öykü Yarışması"
+permalink: "dogan-cocuk-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/nisan/unnamed-1.png"
 excerpt: "Doğan Çocuk Öykü Yarışması"
 ---
