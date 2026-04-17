@@ -4,7 +4,7 @@ title: "3. İhsan Yılmazşamlı Öykü Yarışması"
 description: "3. İhsan Yılmazşamlı Öykü Yarışması"
 category: articles
 tags: [tnisan 2026, hikaye yarışması, genel]
-lastDate: 1651266000
+lastDate: 1777496400
 dateHuman: "30 Nisan 2026"
 comTopic: "Serbest"
 price: "20 Bin TL'dir"
