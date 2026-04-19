@@ -3,7 +3,7 @@ layout: post
 title: "Doğan Çocuk Öykü Yarışması"
 description: "Doğan Çocuk Öykü Yarışması"
 category: articles
-tags: [haziran2026, hikaye yarışması, ortaokul]
+tags: [haziran 2026, hikaye yarışması, ortaokul]
 lastDate: 1781816400
 dateHuman: "19 Haziran 2026"
 comTopic: "Serbest"
