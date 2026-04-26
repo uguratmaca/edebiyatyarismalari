@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "BAYBURT BELEDİYESİ TÜRK DÜNYASI DEDE KORKUT ŞİİR YARIŞMASI - 2026"
+title: "Bayburt Belediyesi Türk Dünyası Dede Korkut Şiir Yarışması 2026"
 description: "BAYBURT BELEDİYESİ TÜRK DÜNYASI DEDE KORKUT ŞİİR YARIŞMASI - 2026"
 category: articles
-tags: [mayıs 2026, şiir yarışması, genel]
+tags: [mayıs 2026, şiir yarışması, dede korkut, genel]
 lastDate: 1780174800
 price: "120 Bin TL'dir"
 dateHuman: "31 Mayıs 2026"
@@ -12,11 +12,11 @@ comTopic: "Serbest"
 organizer: "Bayburt Belediyesi"
 requirements: "18 yaş ve üzeri herkes katılabilir"
 permalink: "bayburt-belediyesi-turk-dunyası-siir-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2026/nisan/siir-yarismasi-2026jpgywO.jpg"
-excerpt:  "BAYBURT BELEDİYESİ TÜRK DÜNYASI DEDE KORKUT ŞİİR YARIŞMASI - 2026"
+image: "https://edebiyatyarismalari.com/images/2026/nisan/dede-korkut-siir-yarismasi.jpg"
+excerpt:  "Bayburt Belediyesi Türk Dünyası Dede Korkut Şiir Yarışması 2026"
 ---
 
-## BAYBURT BELEDİYESİ TÜRK DÜNYASI DEDE KORKUT ŞİİR YARIŞMASI - 2026
+## Bayburt Belediyesi Türk Dünyası Dede Korkut Şiir Yarışması 2026
 
 - Yarışmaya 18 yaş ve üzeri herkes katılabilir.
 - Yarışmada “konu” serbesttir.

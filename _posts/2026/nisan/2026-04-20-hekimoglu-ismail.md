@@ -11,7 +11,7 @@ price: "157 Bin 500 TL'dir"
 attendance: "Online"
 organizer: "Timaş Yayın Grubu"
 requirements: "18 yaş üzeri yazar ve yazar adaylarına açıktır"
-permalink: "hekimoglu-ismail-hikaye-yarismasi"
+permalink: "hekimoglu-ismail-hikaye-yarismasi-2026"
 image: "https://edebiyatyarismalari.com/images/2026/nisan/hekimoglu-ismail-hikaye-yarismasi-2026.jpg"
 excerpt: "4. Hekimoğlu İsmail Hikaye Yarışması 2026"
 ---
@@ -19,13 +19,7 @@ excerpt: "4. Hekimoğlu İsmail Hikaye Yarışması 2026"
 ## 4. Hekimoğlu İsmail Hikaye Yarışması 2026
 
 - Timaş Yayın Grubu Hekimoğlu İsmail Hikaye Yarışması Düzenliyor. Ödüllü Yarışmaya Başvurular Online Olarak Yapılacak. Yarışmaya 18 Yaşının Üzerindeki Herkes Katılabilecek.
-- Çocuk Edebiyatı İçin Uzun Yıllardır Ürettiği Nitelikli Eserleri Türkiye’de Ve Dünyada Çocuklarla Buluşturmak İçin Çalışan Timaş Yayın Grubu Olarak, Markamızın Kurucusu Hekimoğlu İsmail Adına Gerçekleşecek Hikâye Yarışmasının Dördüncüsünü Bu Yıl 3 Nisan – 30 Ekim Tarihleri Arasında Gerçekleştiriyoruz.
-- **Yarışma Ödülleri**
-- Birincilik Ödülü 60 Bin Türk Lirası Ve 7.500 Türk Lirası Değerinde satinal.timas.com.tr İndirim Çeki
-- İkincilik Ödülü 45 Bin Türk Lirası Ve 7.500 Türk Lirası Değerinde satinal.timas.com.tr İndirim Çeki
-- Üçüncülük Ödülü 25 Bin Türk Lirası Ve 7.500 Türk Lirası Değerinde satinal.timas.com.tr İndirim Çeki
-- 2 Adet Mansiyon Ödülü 7.500’er Türk Lirası Değerinde satinal.timas.com.tr İndirim Çeki
-- **Yarışma Şartları**
+- Çocuk Edebiyatı İçin Uzun Yıllardır Ürettiği Nitelikli Eserleri Türkiye’de Ve Dünyada Çocuklarla Buluşturmak İçin Çalışan Timaş Yayın Grubu Olarak, Markamızın Kurucusu Hekimoğlu İsmail Adına Gerçekleşecek **Hikâye Yarışması**nın Dördüncüsünü Bu Yıl 3 Nisan – 30 Ekim Tarihleri Arasında Gerçekleştiriyoruz.
 - Değerlerimizin işlendiği yarışmada konu serbesttir.
 - Eserler, daha önce hiçbir yerde yayınlanmamış olmalıdır.
 - 18 yaşının üzerindeki herkes yarışmaya katılabilir.
@@ -42,14 +36,18 @@ excerpt: "4. Hekimoğlu İsmail Hikaye Yarışması 2026"
 - Yarışmaya gönderilen hikâyelerin telif hakkı eser sahibine aittir. Timaş Gülce Kitap, eser sahibinden izin almak kaydıyla yayımlama, yayma, işleme vb. hakkına sahip olacaktır.
 - Yarışmada 1. olan eser Timaş Gülce Çocuk Yayınları tarafından yayınlanacaktır.
 - Yarışmada dereceye giren diğer eserler, yayınevinin “Yayın Kurulundan” onay alması durumunda yayınlanmaya hak kazanacaktır.
-
-- **Eserlerin Gönderilmesi**
 - Yarışmacılar, öncelikle aşağıda yer alan başvuru formunu doldurmalı ve belirtilen alana eserini yüklemelidir.
 - Şartları kabul edip “Gönder” tuşuna basıldığında katılımcılara “Başvurunuz alındı.” şeklinde bir ekran bildirimi gelecektir.
 - Katılımcı, başvuru yüklemelerini yaparken yarışma şartnamesini ve verdiği bilgilerin doğruluğunu kabul ederek başvurusunu gerçekleştirmiş sayılacaktır.
 - Başvuruda istenilen bilgilerin bir ya da birkaçının eksik / yanlış olması elenme nedenidir.
 - Formu doldururken kopyala-yapıştır işlemi yapmayınız aksi takdirde başvuru işlemi gerçekleşmeyecektir
 
+## 4. Hekimoğlu İsmail Hikaye Yarışması 2026 Ödülleri
+
+- Birincilik Ödülü 60 Bin Türk Lirası Ve 7.500 Türk Lirası Değerinde satinal.timas.com.tr İndirim Çeki
+- İkincilik Ödülü 45 Bin Türk Lirası Ve 7.500 Türk Lirası Değerinde satinal.timas.com.tr İndirim Çeki
+- Üçüncülük Ödülü 25 Bin Türk Lirası Ve 7.500 Türk Lirası Değerinde satinal.timas.com.tr İndirim Çeki
+- 2 Adet Mansiyon Ödülü 7.500’er Türk Lirası Değerinde satinal.timas.com.tr İndirim Çeki
 
 ## 4. Hekimoğlu İsmail Hikaye Yarışması 2026 Seçici Kurulu
 
