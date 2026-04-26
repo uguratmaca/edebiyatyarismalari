@@ -11,7 +11,7 @@ price: "20 Bin TL'dir"
 attendance: "E-Posta"
 organizer: "Eğitim-Sen Bafra Temsilciliği"
 requirements: "18 yaş üzeri yazar ve yazar adaylarına açıktır"
-permalink: "İhsan-Yilmazsamli-Oyku-Yarismasi"
+permalink: "3-ihsan-yilmazsamli-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/nisan/ihsanyilmazoyku.jpg"
 excerpt: "3. İhsan Yılmazşamlı Öykü Yarışması"
 ---
