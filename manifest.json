@@ -1,11 +1,11 @@
 {
     "name": "Edebiyat Yarışmaları, Şiir, Hikaye, Öykü, Roman",
-    "shor_name": "Edebiyat Yarışmaları",
+    "short_name": "Edebiyat Yarışmaları",
     "theme_color": "#978eb7",
     "background_color": "#ffffff",
     "display": "standalone",
     "orientation": "portrait",
-    "Scope": "https://edebiyatyarismalari.com",
+    "scope": "https://edebiyatyarismalari.com",
     "start_url": "https://edebiyatyarismalari.com",
     "icons": [
         {
