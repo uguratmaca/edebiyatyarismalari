@@ -3,7 +3,7 @@ layout: post
 title: "Uluslararası Yunus Emre Edebiyat Şenliği Edebiyat 2026 Ödülleri"
 description: "Uluslararası Yunus Emre Edebiyat Şenliği"
 category: articles
-tags: [haziran 2026, öykü yarışması, genel]
+tags: [haziran 2026, hikaye yarışması, genel]
 lastDate: 1782421200
 price: "Çeşitli hediyeler"
 dateHuman: "26 Haziran 2026"
@@ -13,7 +13,7 @@ organizer: "Yunus Emre Belediyesi"
 requirements: "Eskişehir ve İlçeleri"
 permalink: "uluslararasi-yunus-emre-edebiyat-senligi"
 image: "https://edebiyatyarismalari.com/images/2026/haziran/slider.png"
-excerpt:  "Uluslararası Yunus Emre Edebiyat Şenliği Edebiyat 2026 Ödülleri"
+excerpt: "Uluslararası Yunus Emre Edebiyat Şenliği Edebiyat 2026 Ödülleri"
 ---
 
 ## Uluslararası Yunus Emre Edebiyat Şenliği Edebiyat 2026 Ödülleri
