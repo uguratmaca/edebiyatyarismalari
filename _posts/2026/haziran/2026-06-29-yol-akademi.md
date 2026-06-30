@@ -1,20 +1,21 @@
 ---
 layout: post
-title: "Yol Akademi Aylık Edebiyat Yarışmaları 2026"
-description: "Yol Akademi Aylık Edebiyat Yarışmaları 2026'yı duyurdu."
+title: "Yol Akademi Aylık Edebiyat Yarışmaları Temmuz 2026"
+description: "Yol Akademi Aylık Edebiyat Yarışmaları Temmuz 2026'yı duyurdu."
 category: articles
-tags: [aralık 2026, roman yarışması, hikaye yarışması, kitap dosyası, genel]
-lastDate: 1798671600
-dateHuman: "31 Aralık 2026"
+tags: [temmuz 2026, roman yarışması, hikaye yarışması, kitap dosyası, genel]
+lastDate: 1785448800
+dateHuman: "31 Temmuz 2026"
 attendance: "Web sitesi"
+sticky: true
 organizer: "Yol Akademi Yayınevi"
 requirements: "Yarışmaya yurt içinden ve yurt dışından 18 yaşını tamamlamış T.C. vatandaşları veya Türkçe yazan yazarlar katılabilir"
-permalink: "yol-akademi-edebiyat-yarismasi-2026"
+permalink: "yol-akademi-edebiyat-yarismasi-temmuz-2026"
 image: "https://edebiyatyarismalari.com/images/2026/ocak/yol-akademi-edebiyat-yarismalari-2026.jpeg"
 excerpt:  "Yol Akademi Aylık Edebiyat Yarışmaları 2026'yı duyurdu."
 ---
 
-## Yol Akademi Aylık Edebiyat Yarışmaları 2025
+## Yol Akademi Aylık Edebiyat Yarışmaları Temmuz 2026
 
 - 2025 Yılında düzenlediğimiz yarışmalarda 1.680 başvuru aldık, 62 yazarın kitabını ücretsiz yayımladık.
 
