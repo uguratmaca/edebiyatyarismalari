@@ -1,8 +1,9 @@
 ---
 layout: category
-headline: "Mektup Yarışmaları"
-title: Mektup Yarışmaları
+headline: "Mektup Yarışmaları {{ site.year }}"
+title: "Mektup Yarışması {{ site.year }} | Mektup Yazma Yarışmaları"
 key: "mektup yarışması"
-description: "Mektup yarışması, Mektup yarışmaları, Mektup yarışması duyuruları, Güncel Mektup yarışmaları 2025"
+subline: "Ülkemizde düzenlenen <strong>mektup yarışması</strong> duyurularına bu sayfadan ulaşabilirsiniz. {{ site.year }} yılı güncel <strong>mektup yazma yarışmaları</strong> aşağıda listelenmektedir."
+description: "{{ site.year }} yılı mektup yarışmaları ve mektup yazma yarışması duyuruları burada."
 permalink: "mektup-yarismalari/"
 ---

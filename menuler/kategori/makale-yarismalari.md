@@ -1,9 +1,9 @@
 ---
 layout: category
-headline: "Makale Yarışmaları"
-title: "Makale Yarışmaları, Makale Yarışması 2025"
+headline: "Makale Yarışmaları {{ site.year }}"
+title: "Makale Yarışması {{ site.year }} | Para Ödüllü Yarışmalar"
 key: "makale yarışması"
-description: "Makale yarışması 2025, Makale yarışması 2025, Makale yarışmaları, Makale yarışması, Para Ödüllü Yarışmalar 2025"
-subline: "Makale yarışması 2025, Makale yarışması 2025, Makale yarışmaları, Makale yarışması, Para Ödüllü Yarışmalar 2025"
+subline: "Ülkemizde düzenlenen <strong>makale yarışması</strong> duyurularına bu sayfadan ulaşabilirsiniz. {{ site.year }} yılı <strong>makale yarışmaları</strong> arasında para ödüllü olanları da bulabilirsiniz."
+description: "{{ site.year }} yılı makale yarışmaları ve para ödüllü makale yazma yarışması güncel duyuruları burada."
 permalink: "makale-yarismalari/"
 ---

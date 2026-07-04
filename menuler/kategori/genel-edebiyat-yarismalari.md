@@ -1,9 +1,9 @@
 ---
 layout: category
-headline: "(Genel Katılım) Edebiyat Yarışmaları 2025"
-title: "Genel Yarışmalar 2025"
+headline: "(Genel Katılım) Edebiyat Yarışmaları {{ site.year }}"
+title: "Genel Yarışmalar {{ site.year }} | Edebiyat Yarışmaları"
 key: "genel"
-subline: "Her yaştan edebiyat severin katılabileceği, <strong>edebiyat yarışmaları</strong> bu sayfada listelenmektedir."
-description: "Her yaştan edebiyat severin katılabileceği, edebiyat yarışmaları bu sayfada listelenmektedir."
+subline: "Her yaştan edebiyat severin katılabileceği <strong>edebiyat yarışmaları</strong> {{ site.year }} yılı güncel duyurularıyla bu sayfada listelenmektedir."
+description: "{{ site.year }} yılında her yaştan edebiyat severin katılabileceği genel katılımlı edebiyat yarışmaları ve güncel duyurular bu sayfada."
 permalink: "genel-edebiyat-yarismalari/"
 ---

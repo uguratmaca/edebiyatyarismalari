@@ -1,8 +1,9 @@
 ---
 layout: category
-headline: "Liseler Yarışmaları, Liseler Arası Edebiyat Yarışmaları 2025"
-title: "Liseler Yarışmaları 2025, Liseler Arası Edebiyat Yarışmaları 2025, yazı yarışmaları"
+headline: "Liseler Yarışmaları, Liseler Arası Edebiyat Yarışmaları {{ site.year }}"
+title: "Lise Edebiyat Yarışmaları {{ site.year }} | Liseler Arası Yazı Yarışmaları"
 key: "lise"
-description: "Liseler Yarışmaları 2025, liseler arası yarışmalar 2020, lise yarışmaları 2025, yazı yazma yarışması"
+subline: "Liseli öğrencilerin katılabileceği <strong>liseler arası edebiyat yarışmaları {{ site.year }}</strong> güncel duyuruları bu sayfada listelenmektedir."
+description: "{{ site.year }} yılı liseler arası edebiyat yarışmaları ve lise öğrencilerine yönelik yazı yazma yarışması duyuruları burada."
 permalink: "lise-edebiyat-yarismalari/"
 ---

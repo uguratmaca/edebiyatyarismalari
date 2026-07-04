@@ -1,9 +1,9 @@
 ---
 layout: category
-headline: "Roman Yarışması"
-subline: "Ülkemizde düzenlenen <strong>roman yazma yarışmaları</strong> listesine bu sayfadan erişebilirsiniz. 2025 yılındaki <strong>roman ödülleri</strong> ve <strong>roman yarışmalarının</strong> detaylarını görüntelemek için aşağıdaki linklere tıklayabilirsiniz."
-title: "Roman Yarışmaları, roman yarışması 2025"
+headline: "Roman Yazma Yarışmaları {{ site.year }}"
+subline: "Ülkemizde düzenlenen <strong>roman yazma yarışmaları</strong> listesine bu sayfadan erişebilirsiniz. {{ site.year }} yılındaki <strong>roman ödülleri</strong> ve <strong>roman yarışmalarının</strong> detaylarını görüntülemek için aşağıdaki linklere tıklayabilirsiniz."
+title: "Roman Yarışması {{ site.year }} | Roman Yazma Yarışmaları"
 key: "roman yarışması"
-description: "roman yarışması 2025, roman yarışmaları, roman yazma yarışmaları, roman ödülleri, kitap ödülleri"
+description: "{{ site.year }} yılı roman yarışmaları, roman yazma yarışmaları ve roman ödülleri güncel duyuruları burada."
 permalink: "roman-yarismalari/"
 ---

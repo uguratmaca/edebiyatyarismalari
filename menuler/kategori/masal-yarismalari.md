@@ -1,8 +1,9 @@
 ---
 layout: category
-headline: "Masal Yarışmaları"
-title: Masal Yarışmaları
+headline: "Masal Yarışmaları {{ site.year }}"
+title: "Masal Yarışması {{ site.year }} | Masal Yazma Yarışmaları"
 key: "masal yarışması"
-description: "Masal yarışması 2025, Masal yarışmaları, Masal yarışması duyuruları, Güncel Masal yarışmaları 2025"
+subline: "Ülkemizde düzenlenen <strong>masal yarışması</strong> duyurularına bu sayfadan ulaşabilirsiniz. {{ site.year }} yılı güncel <strong>masal yazma yarışmaları</strong> aşağıda listelenmektedir."
+description: "{{ site.year }} yılı masal yarışmaları ve masal yazma yarışması duyuruları burada."
 permalink: "masal-yarismalari/"
 ---
