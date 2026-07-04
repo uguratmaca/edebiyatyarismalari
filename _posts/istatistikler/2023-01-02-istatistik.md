@@ -1,7 +1,7 @@
 ---
 layout: simple
 title: "Edebiyat Yarışmaları 2022 Yılı İstatistikleri"
-description: "Edebiyat yarışmaları olarak şeffaflığa inanıyoruz ve 2022 yılı boyunca oluşan verilerimizi sizlerle paylaşıyoruz. Siz de ülkemizde en çok hangi iller yarışmalarımızla ilgileniyor, en çok hangi yarışmalar görüntüleniyor, en çok hangi eserlerimiz okumuş vb. pek çok sorunun yanıtına aşağıdan erişebilirsiniz."
+description: "edebiyatyarismalari.com 2022 yılı istatistikleri: en çok ziyaret edilen şehirler, kullanıcı kitlesi, cihaz kullanımı ve en popüler yarışmalar bir arada."
 tags: [istatistik]
 permalink: "istatistik/2022"
 ---

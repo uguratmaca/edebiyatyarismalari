@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "İstanbul liseler arası Ayfer Tunç Öykü Yarışması"
-description: "İstanbul liseler arası Ayfer Tunç Öykü Yarışması"
+description: "Erenköy Kız Liseliler Derneği'nin İstanbul liseler arası düzenlediği yarışmada toplam ödül 10 bin TL. Son başvuru: 1 Haziran 2026."
 category: articles
 tags: [mayıs 2026, öykü yarışması, genel]
 lastDate: 1780261200

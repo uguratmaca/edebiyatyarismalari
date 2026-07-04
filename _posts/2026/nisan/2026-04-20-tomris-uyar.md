@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2026 Tomris Uyar Öykü Armağanı"
-description: "2026 Tomris Uyar Öykü Armağanı"
+description: "Yazi-Yorum dergisinin herkese açık düzenlediği 2026 Tomris Uyar Öykü Armağanı'na son başvuru tarihi 15 Ağustos 2026."
 category: articles
 tags: [ağustos 2026, hikaye yarışması, genel]
 lastDate: 1786741200

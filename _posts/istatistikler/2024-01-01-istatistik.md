@@ -1,7 +1,7 @@
 ---
 layout: simple
 title: "Edebiyat Yarışmaları 2023 Yılı İstatistikleri"
-description: "Edebiyat yarışmalarında şeffaflık bizim için çok önemli. Bu nedenle, 2023 yılında elde ettiğimiz verileri sizinle paylaşmaktan mutluluk duyuyoruz. Bu veriler aracılığıyla, hangi illerimizin yarışmalarımıza en çok ilgi gösterdiğini, en fazla hangi yarışmaların dikkat çektiğini, en çok hangi eserlerin okunduğunu gibi birçok sorunun cevabını aşağıda bulabilirsiniz. En çok görüntülenen yarışmalara dikkat ederseniz ilk iki sırada sponsorlu içerikler bulunmaktadır. Eğer siz de yarışmanız daha geniş kitlelere ulaşsın istiyorsanız, iş birliği için e-posta atabilir veya Whatsapp, sosyal medya gibi kanallardan bize ulaşabilirsiniz."
+description: "edebiyatyarismalari.com 2023 yılı istatistikleri: en çok ziyaret edilen şehirler, kullanıcı kitlesi, cihaz kullanımı ve en popüler yarışmalar bir arada."
 tags: [istatistik]
 permalink: "istatistik/2023"
 ---

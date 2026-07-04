@@ -3,7 +3,7 @@ layout: simple
 headline: "Aylin Güçlü | Yazar"
 title: "Aylin Güçlü | Yazar"
 permalink: "aylin-guclu/"
-description: "Aylin Güçlü | Yazar"
+description: "Aylin Güçlü, edebiyatyarismalari.com'da şiir, öykü ve deneme türünde yazılar paylaşan yazarlardan biri."
 image: "https://edebiyatyarismalari.com/images/yazarlar/aylin-guclu.jpg"
 ---
 

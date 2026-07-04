@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Buyaz İhsan Üren Şiir Ödülü"
-description: "Buyaz İhsan Üren Şiir Ödülü"
+description: "Buyaz'ın 18 yaşından büyüklere yönelik düzenlediği şiir ödülünde toplam ödül 25 bin TL. Son başvuru: 30 Haziran 2026."
 category: articles
 tags: [haziran 2026, şiir yarışması, genel]
 lastDate: 1782766800

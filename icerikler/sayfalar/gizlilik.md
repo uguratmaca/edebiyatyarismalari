@@ -3,7 +3,7 @@ layout: simple
 headline: "Gizlilik"
 title: "Edebiyat Yarışmaları Gizlilik"
 permalink: "gizlilik/"
-description: "Edebiyat Yarışmaları Gizlilik"
+description: "edebiyatyarismalari.com gizlilik politikası: hangi kişisel verilerin toplandığı, nasıl kullanıldığı ve haklarınız hakkında bilgi."
 image: "https://edebiyatyarismalari.com/images/icons/icon-384x384.png"
 ---
 

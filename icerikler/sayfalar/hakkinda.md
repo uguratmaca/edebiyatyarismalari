@@ -3,7 +3,7 @@ layout: simple
 headline: "Hakkında"
 title: Edebiyat Yarışmaları Hakkında
 permalink: "hakkinda/"
-description: "Edebiyat Yarışmaları Hakkında"
+description: "edebiyatyarismalari.com'un kuruluş hikayesi, misyonu ve iletişim bilgileri hakkında bilgi edinin."
 image: "https://edebiyatyarismalari.com/images/icons/icon-384x384.png"
 ---
 

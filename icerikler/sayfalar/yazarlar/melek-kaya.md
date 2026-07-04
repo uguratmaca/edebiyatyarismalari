@@ -3,7 +3,7 @@ layout: simple
 headline: "Melek Kaya | Yazar"
 title: "Melek Kaya | Yazar"
 permalink: "melek-kaya/"
-description: "Melek Kaya | Yazar"
+description: "Melek Kaya, edebiyatyarismalari.com'da masal ve şiir türünde yazılar paylaşan yazarlardan biri."
 image: "https://edebiyatyarismalari.com/images/yazarlar/melek-kaya.jpeg"
 ---
 

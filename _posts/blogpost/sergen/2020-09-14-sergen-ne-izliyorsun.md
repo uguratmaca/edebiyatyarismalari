@@ -1,7 +1,7 @@
 ---
 layout: simple
 title: "Sergen Ne İzliyorsun | The Lighthouse İnceleme"
-description: "2019'da çıkan The Lighthouse o kadar öngörülemez bir filmdi ki “dudak uçuklatan” ifadesi bu filmi tarif etmekte eksik kalıyor. Ne zaman bir film beni huşu ve karmaşanın garip kokteyli halinde hissettirse, merak ediyorum: Bu film gerçekten ÇOK mu akıllı, yoksa sadece akıllıymış gibi mi davranıyor? Haydi bunu beraber araştıralım."
+description: "Robert Eggers'ın The Lighthouse filmi üzerine; mitoloji, Prometheus ve deniz kızı efsaneleri üzerinden atmosferik bir sinema incelemesi."
 tags: [inceleme]
 comments: true
 permalink: "blog/sergen-ne-izliyorsun"

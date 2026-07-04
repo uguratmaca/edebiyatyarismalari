@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "4. Hekimoğlu İsmail Hikaye Yarışması 2026"
-description: "4. Hekimoğlu İsmail Hikaye Yarışması 2026"
+description: "Timaş Yayın Grubu'nun 18 yaş üzeri yazarlara yönelik düzenlediği yarışmada toplam ödül 157 bin 500 TL. Son başvuru: 30 Ekim 2026."
 category: articles
 tags: [ekim 2026, hikaye yarışması, genel]
 lastDate: 1795986000
