@@ -3,7 +3,7 @@ layout: simple
 headline: "Mektup Nedir?"
 title: "Mektup Nedir? | Edebiyat Yarışmaları"
 permalink: "mektup-nedir/"
-description: "Mektup Nedir | Edebiyat Türleri"
+description: "Mektup nedir, türleri nelerdir? Fuzuli, Ahmet Hamdi Tanpınar gibi yazarların mektup türündeki eserleriyle birlikte bu sayfada inceleyebilirsiniz."
 ---
 
 Farklı yerlerde bulunan kişiler arasında kişisel veya resmi haberleşmeyi sağlayan yazı türüdür. Birçok <strong>mektup</strong> türünün bulunmasıyla birlikte mektuplarda dilek ve arzu bildiren duygu ve düşüncelere yer verilir.

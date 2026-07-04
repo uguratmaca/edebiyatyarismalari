@@ -3,7 +3,7 @@ layout: simple
 headline: "Deneme Nedir?"
 title: "Deneme Nedir? | Edebiyat Yarışmaları"
 permalink: "deneme-nedir/"
-description: "Deneme Nedir | Edebiyat Türleri"
+description: "Deneme nedir, özellikleri nelerdir? Nurullah Ataç, Suut Kemal Yetkin gibi yazarların deneme türündeki eserleriyle birlikte bu sayfada inceleyebilirsiniz."
 ---
 
 <strong>Deneme</strong>, kişinin konu üzerinde edindiği düşünsel ve özel görüşlere dayalı kesin yargıları olmayan kısa metinlerdir. Toplumsal konulardan uzak, iç çatışmalara ve soyut dünyalardan beslenir. Senli Benli Deneme ve Düzenli Deneme olarak ikiye ayrılır. Konu sınırlılığı bulunmaz, günübirlik yazılardır, kanıtlama amacı gütmez. Ünlü Eleştirmen Nurullah Ataç’ın dediği gibi “Deneme ben’in ülkesidir.”

@@ -3,7 +3,7 @@ layout: simple
 headline: "Hikaye Nedir?"
 title: "Hikaye, Öykü Nedir? | Edebiyat Yarışmaları"
 permalink: "hikaye-nedir/"
-description: "Hikaye Nedir | Edebiyat Türleri"
+description: "Hikaye (öykü) nedir, türleri nelerdir? Ömer Seyfettin, Sait Faik Abasıyanık gibi Türk edebiyatının usta hikayecilerini ve eserlerini bu sayfada inceleyebilirsiniz."
 ---
 Hikaye bir diğer adı ile <strong>Öykü</strong>, yaşanmış ya da yaşanması olası olayların yer, zamanının belirtilmesi ile yazılan kısa yazı türüdür. Ayrıntıdan uzak ve olay merkezlidir. 3 farklı hikaye vardır. Olay, Durum ve Ben Merkezli Öykü olarak kategorilere ayrılmıştır. Kısa ama öz olan metinlerdir.
 <h2>Türk Edebiyatında Hikaye, Öykü Temsilcileri</h2>

@@ -3,7 +3,7 @@ layout: simple
 headline: "Makale Nedir?"
 title: "Makale Nedir? | Edebiyat Yarışmaları"
 permalink: "makale-nedir/"
-description: "Makale Nedir | Edebiyat Türleri"
+description: "Makale nedir, edebi ve mesleki makale arasındaki fark nedir? Namık Kemal, Ziya Gökalp gibi yazarların makale türündeki eserleriyle birlikte bu sayfada inceleyebilirsiniz."
 ---
 
 <strong>Makale</strong>, kişinin edindiği bir görüşü kanıtlarıyla birlikte açıklaması, savunması veya yermek için yazılan düşünce yazılarıdır. Belli bir çerçeve içerisinde detaylı bir nesnel dil kullanılarak içeriği kapsayan, süslü anlatımlardan uzak olan bilgi verme amacını taşıyan yazı türüdür. Edebi ve Mesleki Makale olarak ikiye ayrılır. Her konuda yararlı bilgiyi okura ulaştırır. Gerçek ve nettir.

@@ -2,8 +2,8 @@
 layout: category
 headline: "Proje Yarışmaları"
 subline: "Edebiyat yarışmalarının yanında <strong>Proje Yarışması</strong> gibi diğer yarışmalara da oldukça değer veriyoruz."
-title: "Proje Yarışmaları 2024, Proje Yarışması 2024"
+title: "Proje Yarışmaları {{ site.year }}, Proje Yarışması {{ site.year }}"
 key: "proje yarışması"
-description: "Proje Yarışmaları 2024, Proje Yarışması 2024"
+description: "Proje Yarışmaları {{ site.year }}, Proje Yarışması {{ site.year }}"
 permalink: "proje-yarismalari/"
 ---

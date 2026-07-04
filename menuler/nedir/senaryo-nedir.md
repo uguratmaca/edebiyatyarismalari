@@ -3,7 +3,7 @@ layout: simple
 headline: "Senaryo Nedir?"
 title: "Senaryo Nedir? | Edebiyat Yarışmaları"
 permalink: "senaryo-nedir/"
-description: "Senaryo Nedir | Edebiyat Türleri"
+description: "Senaryo nedir, nasıl yazılır? Ece Yörenç, Onur Ünlü gibi ünlü senaristlerin eserleriyle birlikte senaryo türünü bu sayfada inceleyebilirsiniz."
 ---
 
 <strong>Senaryo</strong>, bir olayın, hikaye veya romanın sinema tekniği ile uyarlanıp sahnelere bölündüğü, diyaloglar haline getirilen hikayeleştirilmiş yazı türüdür. Olayları belli bir şemaya uygun hazırlanır. Ayrıntılarla ve kişileştirilen karakterlerle konuşmalar yazılır ve olay genişletilir. Sinema teknikleriyle geliştirilen hikaye izleyici gözünden de bakılarak yazılır.

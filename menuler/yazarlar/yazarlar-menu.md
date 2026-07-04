@@ -1,7 +1,7 @@
 ---
 layout: simple
 headline: "Yazarlar Adına Düzenlenen Yarışmalar"
-title: Geçmiş Edebiyat Yarışmaları
+title: "Yazarlar Adına Düzenlenen Yarışmalar | Edebiyat Yarışmaları"
 permalink: "yazarlar-adina-yarismalar/"
 description: "Eski aylarda ve yıllarda düzenlenen tüm edebiyat yarışmalarının ve diğer yarışmaların listesine ilgili aya tıklayarak erişebilirsiniz."
 ---

@@ -3,7 +3,7 @@ layout: simple
 headline: "Masal Nedir?"
 title: "Masal Nedir? | Edebiyat Yarışmaları"
 permalink: "masal-nedir/"
-description: "Masal Nedir | Edebiyat Türleri"
+description: "Masal nedir, özellikleri nelerdir? Ziya Gökalp, Eflatun Cem Güney gibi yazarların masal türündeki eserleriyle birlikte bu sayfada inceleyebilirsiniz."
 ---
 <strong>Masal</strong>, kurgusunda olağandışı meselelerin yer edindiği, hayal mahsulü, kurmaca sözlü edebiyat türüdür. Yeri ve zamanı belirsiz, eğitici, sembolik kavramların harmanlandığı mutlu sonla biten kalıplaşmış tekerlemelerin bulunduğu anonim yazılardır. Hayali mekanlarda geçer olağanüstü karakterlere ve yapılara sahiptir.
 <h2>Türk Edebiyatında Masal Temsilcileri</h2>

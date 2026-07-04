@@ -3,7 +3,7 @@ layout: simple
 headline: "Şiir Nedir?"
 title: "Şiir Nedir? | Edebiyat Yarışmaları"
 permalink: "siir-nedir/"
-description: "Şiir Nedir | Edebiyat Türleri"
+description: "Şiir nedir, özellikleri nelerdir? Mehmet Akif Ersoy, Nazım Hikmet, Attila İlhan gibi Türk edebiyatının usta şairlerini ve eserlerini bu sayfada inceleyebilirsiniz."
 ---
 
 <strong>Şiir</strong>, duygu ve düşüncelerin ses ve ritme bağlı olarak belli bir düzen içerisinde kurgulanmasıdır. Sıradanlıktan uzak ve yoğun ezgiye sahip olmakla beraber çağrışım, imge, sezgi içerir. Tıpkı Ahmet Haşim’in de dediği gibi “Şiir, bir hikâye değil, sessiz bir şarkıdır.”

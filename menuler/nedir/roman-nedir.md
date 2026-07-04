@@ -3,7 +3,7 @@ layout: simple
 headline: "Roman Nedir?"
 title: "Roman Nedir? | Edebiyat Yarışmaları"
 permalink: "roman-nedir/"
-description: "Roman Nedir | Edebiyat Türleri"
+description: "Roman nedir, özellikleri ve türleri nelerdir? Halide Edip Adıvar, Reşat Nuri Güntekin gibi Türk edebiyatının usta romancılarını bu sayfada inceleyebilirsiniz."
 ---
 <strong>Roman</strong>, yaşanmış ve yaşanması olası olayların anlatıldığı düz yazı türüdür. Belli bir olay etrafında gelişerek olayları derinleştiren uzun yazılardır. Olay, kişi, yer ve zaman yapı unsurlarını taşır. Kahramanların tüm yönleri anlatılarak betimlenir, gözlem ön plandadır. Birçok roman türü bulunur. Gerçekçiliğe önem verir.
 <h2>Türk Edebiyatında Roman Temsilcileri</h2>
