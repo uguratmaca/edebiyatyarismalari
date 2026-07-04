@@ -13,7 +13,7 @@ organizer: "Buyaz"
 requirements: "18 yaşından büyükler katılabilir"
 permalink: "buyaz-ihsan-uren-siir-odulu"
 image: "https://edebiyatyarismalari.com/images/2026/nisan/040320260002.jpg"
-excerpt:  "Buyaz İhsan Üren Şiir Ödülü"
+excerpt: "Buyaz'ın 18 yaşından büyüklere yönelik düzenlediği şiir ödülünde toplam ödül 25 bin TL. Son başvuru: 30 Haziran 2026."
 ---
 
 ## Buyaz İhsan Üren Şiir Ödülü

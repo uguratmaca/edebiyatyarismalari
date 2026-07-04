@@ -12,7 +12,7 @@ organizer: "Studio Gaia"
 requirements: "18 yaş ve üzeri herkes katılabilir"
 permalink: "nezihe-meric-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/nisan/gaia-nezihe-meric-oyku-odulu.jpg"
-excerpt:  "Nezihe Meriç Öykü Ödülü Yarışması"
+excerpt: "Studio Gaia'nın 18 yaş ve üzeri herkese açık düzenlediği yarışmaya son başvuru tarihi 20 Haziran 2026."
 ---
 
 ## Nezihe Meriç Öykü Ödülü Yarışması

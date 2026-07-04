@@ -12,7 +12,7 @@ organizer: "Yazi-Yorum dergisi"
 requirements: "Herkes katilabilir"
 permalink: "2026-tomris-uyar-oyku-armagani"
 image: "https://edebiyatyarismalari.com/images/2026/nisan/5.-TOMRIS-UYAR-OYKU-ARMAGANI-1187x1536.png"
-excerpt: "2026 Tomris Uyar Öykü Armağanı"
+excerpt: "Yazi-Yorum dergisinin herkese açık düzenlediği 2026 Tomris Uyar Öykü Armağanı'na son başvuru tarihi 15 Ağustos 2026."
 ---
 
 ## 2026 Tomris Uyar Öykü Armağanı

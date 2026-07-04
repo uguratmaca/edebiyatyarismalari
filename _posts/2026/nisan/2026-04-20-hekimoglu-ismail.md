@@ -13,7 +13,7 @@ organizer: "Timaş Yayın Grubu"
 requirements: "18 yaş üzeri yazar ve yazar adaylarına açıktır"
 permalink: "hekimoglu-ismail-hikaye-yarismasi-2026"
 image: "https://edebiyatyarismalari.com/images/2026/nisan/hekimoglu-ismail-hikaye-yarismasi-2026.jpg"
-excerpt: "4. Hekimoğlu İsmail Hikaye Yarışması 2026"
+excerpt: "Timaş Yayın Grubu'nun 18 yaş üzeri yazarlara yönelik düzenlediği yarışmada toplam ödül 157 bin 500 TL. Son başvuru: 30 Ekim 2026."
 ---
 
 ## 4. Hekimoğlu İsmail Hikaye Yarışması 2026

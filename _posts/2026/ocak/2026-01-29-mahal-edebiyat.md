@@ -12,7 +12,7 @@ organizer: "Mahal Edebiyat"
 requirements: "18 yaş üzeri yazar ve yazar adaylarına açıktır."
 permalink: "mahal-edebiyat-2026-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/ocak/mahal-edebiyat-2026-oyku-yarismasi.jpg"
-excerpt: "Mahal Edebiyat 3. sünü düzenlediği Mahal Edebiyat 2026 Öykü Yarışması'nı duyurdu.."
+excerpt: "Mahal Edebiyat 3. sünü düzenlediği Mahal Edebiyat 2026 Öykü Yarışması'nı duyurdu."
 ---
 
 ## Mahal Edebiyat 2026 Öykü Yarışması

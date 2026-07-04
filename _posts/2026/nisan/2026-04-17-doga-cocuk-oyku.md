@@ -13,7 +13,7 @@ organizer: "Doğan Yayınları"
 requirements: "5, 6, 7 ve 8. sınıfta okuyan tüm öğrencilerin katılımına açıktır"
 permalink: "dogan-cocuk-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/nisan/dogan-cocuk-oyku-yarismasi.png"
-excerpt: "Doğan Çocuk Öykü Yarışması"
+excerpt: "Doğan Yayınları'nın 5, 6, 7 ve 8. sınıf öğrencilerine yönelik düzenlediği yarışmada toplam ödül 60 bin TL. Son başvuru: 19 Haziran 2026."
 ---
 
 ## Doğan Çocuk Öykü Yarışması

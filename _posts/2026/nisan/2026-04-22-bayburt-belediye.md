@@ -13,7 +13,7 @@ organizer: "Bayburt Belediyesi"
 requirements: "18 yaş ve üzeri herkes katılabilir"
 permalink: "bayburt-belediyesi-turk-dunyası-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/nisan/dede-korkut-siir-yarismasi.jpg"
-excerpt:  "Bayburt Belediyesi Türk Dünyası Dede Korkut Şiir Yarışması 2026"
+excerpt: "BAYBURT BELEDİYESİ TÜRK DÜNYASI DEDE KORKUT ŞİİR YARIŞMASI - 2026"
 ---
 
 ## Bayburt Belediyesi Türk Dünyası Dede Korkut Şiir Yarışması 2026

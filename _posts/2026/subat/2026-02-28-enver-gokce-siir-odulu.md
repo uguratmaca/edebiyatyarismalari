@@ -11,7 +11,7 @@ organizer: "Özgür Öyküşiir Dergisi"
 requirements: "İsteyen herkes katılabilir."
 permalink: "enver-gokce-siir-odulu-2026"
 image: "https://edebiyatyarismalari.com/images/2024/subat/enver-gokce-siir-odulu-2024.jpg"
-excerpt:  "Özgür Öyküşiir Dergisi <strong>Enver Gökçe Toplumcu Şiir Ödülü 2026</strong> düzenliyor."
+excerpt: "Özgür Öyküşiir Dergisi Enver Gökçe Toplumcu Şiir Ödülü 2026 düzenliyor."
 ---
 
 ## Enver Gökçe Toplumcu Gerçekci 2026 Şiir Ödülü

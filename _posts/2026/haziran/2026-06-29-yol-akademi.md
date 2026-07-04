@@ -12,7 +12,7 @@ organizer: "Yol Akademi Yayınevi"
 requirements: "Yarışmaya yurt içinden ve yurt dışından 18 yaşını tamamlamış T.C. vatandaşları veya Türkçe yazan yazarlar katılabilir"
 permalink: "yol-akademi-edebiyat-yarismasi-temmuz-2026"
 image: "https://edebiyatyarismalari.com/images/2026/ocak/yol-akademi-edebiyat-yarismalari-2026.jpeg"
-excerpt:  "Yol Akademi Aylık Edebiyat Yarışmaları 2026'yı duyurdu."
+excerpt: "Yol Akademi Aylık Edebiyat Yarışmaları Temmuz 2026'yı duyurdu."
 ---
 
 ## Yol Akademi Aylık Edebiyat Yarışmaları Temmuz 2026
