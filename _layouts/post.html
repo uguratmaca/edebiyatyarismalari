@@ -89,17 +89,17 @@ layout: default
   {
     "@context": "https://schema.org",
     "@type": "NewsArticle",
-    "url": "{{site.url}}{{post.url}}",
+    "url": "{{site.url}}{{page.url}}",
     "publisher":{
     "@type":"Organization",
     "name":"Edebiyat Yarışmaları",
     "logo":"https://edebiyatyarismalari.com/images/icons/icon-384x384.png"
     },
-    "headline": "{{ post.title }}",
-    "mainEntityOfPage": "{{site.url}}{{post.url}}",
-    "image":["{{post.image}}"],
-    "datePublished":"{{ post.date }}",
-    "articleBody": "{{ post.excerpt }}",
+    "headline": {{ page.title | jsonify }},
+    "mainEntityOfPage": "{{site.url}}{{page.url}}",
+    "image":["{{page.image}}"],
+    "datePublished":"{{ page.date | date_to_xmlschema }}",
+    "articleBody": {{ page.excerpt | strip_html | normalize_whitespace | jsonify }},
     "author": {
       "@type": "Person",
       "url": "https://edebiyatyarismalari.com/ugur-atmaca/",
