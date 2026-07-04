@@ -12,7 +12,7 @@ comTopic: "Neşe"
 organizer: "Yunus Emre Belediyesi"
 requirements: "Eskişehir ve İlçeleri"
 permalink: "uluslararasi-yunus-emre-edebiyat-senligi"
-image: "https://edebiyatyarismalari.com/images/2026/haziran/slider.png"
+image: "https://edebiyatyarismalari.com/images/2026/haziran/uluslararasi-yunus-emre-edebiyat-senligi.png"
 excerpt: "Uluslararası Yunus Emre Edebiyat Şenliği Edebiyat 2026 Ödülleri"
 ---
 
