@@ -31,10 +31,10 @@
 <meta name="twitter:image:width" content="1200">
 <meta name="twitter:image:height" content="630">
 
-<meta name="robots" content="index, follow">
+<meta name="robots" content="{% if page.noindex %}noindex, follow{% else %}index, follow{% endif %}">
 <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}Uğur Atmaca{% endif %}">
-<meta name="googlebot" content="index, follow" />
-<meta name="bingbot" content="index, follow" />
+<meta name="googlebot" content="{% if page.noindex %}noindex, follow{% else %}index, follow{% endif %}" />
+<meta name="bingbot" content="{% if page.noindex %}noindex, follow{% else %}index, follow{% endif %}" />
 <meta name="yandex-verification" content="46c611d16a76e7e2" />
 
 <link rel='shortcut icon' type='image/x-icon' href="{{ '/favicon.ico' }}" />
