@@ -6,6 +6,7 @@ master_repo: false
 markdown: kramdown
 highlighter: rouge
 plugins: ['jekyll-gist', 'jekyll-feed', 'jekyll-sitemap', 'jekyll-last-modified-at']
+exclude: [".claude", "vendor", ".bundle", "node_modules"]
 logo: logo.png
 twitter: https://twitter.com/yarismaedebiyat
 facebook: https://www.facebook.com/yarismaedebiyat

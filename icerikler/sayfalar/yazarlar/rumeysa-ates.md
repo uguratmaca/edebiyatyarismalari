@@ -5,6 +5,7 @@ title: "Rümeysa Ateş | Yazar"
 permalink: "rumeysa-ates/"
 description: "Rümeysa Ateş | edebiyatyarismalari.com Yazarı"
 image: "https://edebiyatyarismalari.com/images/yazarlar/rumeysa-ates.jpeg"
+avatar: true
 ---
 
 Merhaba ben Rümeysa Ateş! Uzun zamandır yazı çalışmaları icra ediyorum ve 2017 yılından beri Burdur Mehmet Akif Ersoy Üniversitesi Tarih Bölümü öğrencisi olarak öğrenim hayatımı sürdürüyorum.  

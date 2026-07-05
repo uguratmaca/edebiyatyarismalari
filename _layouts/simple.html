@@ -11,7 +11,7 @@ layout: default
             {{ content }}
         </section>
         <section class="col-md-6 col-sm-12">
-            <img src="{{page.image}}" alt="{{page.title}}" loading="lazy" />
+            <img src="{{page.image}}" alt="{{page.title}}" loading="lazy" class="img-fluid{% if page.avatar %} rounded-circle author-avatar{% endif %}" />
         </section>
         {% else %}
         <section class="col justify-content-center">

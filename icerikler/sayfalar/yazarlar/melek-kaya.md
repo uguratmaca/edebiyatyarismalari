@@ -5,6 +5,7 @@ title: "Melek Kaya | Yazar"
 permalink: "melek-kaya/"
 description: "Melek Kaya, edebiyatyarismalari.com'da masal ve şiir türünde yazılar paylaşan yazarlardan biri."
 image: "https://edebiyatyarismalari.com/images/yazarlar/melek-kaya.jpeg"
+avatar: true
 ---
 
 Ben Melek Kaya. Hayallerim dışında anlatabilecegim pek fazla bir şeyim yok. İleri de Mars'a yerleşmek ve Cumhurbaşkanı olmak istiyorum. Küçükken daha çok masal yazardım ama bu aralar şiirler daha güzel geliyor. Benim anlatacaklarım bu kadar.  

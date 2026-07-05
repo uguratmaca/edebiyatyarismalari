@@ -5,6 +5,7 @@ title: "Uğur Atmaca | Yazar"
 permalink: "ugur-atmaca/"
 description: "Uğur Atmaca | edebiyatyarismalari.com Yazarı"
 image: "https://edebiyatyarismalari.com/images/yazarlar/ugur-atmaca.jpg"
+avatar: true
 ---
 
 Çocukluktan beri kısa [öyküler](https://edebiyatyarismalari.com/hikayeler/) yazıyordum. Öykülerin yanında şiir, kitap, deneme ve şarkı sözleri de yazdım. Fırsat buldukça hepsini siteye eklemeye devam edeceğim.  
