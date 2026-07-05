@@ -3,7 +3,7 @@ layout: post
 title: "10. Attilâ İlhan Edebiyat Ödülleri"
 description: "Attilâ İlhan Bilim, Sanat ve Kültür Vakfı tarafından Türkiye İş Bankası Kültür Yayınları desteğiyle Attilâ İlhan Edebiyat Ödülleri’nin bu yıl onuncusu düzenleniyor"
 category: articles
-tags: [haziran 2025, senaryo yarışması, roman yarışması, şiir yarışması, kitap dosyası, genel]
+tags: [attila ilhan, haziran 2025, senaryo yarışması, roman yarışması, şiir yarışması, kitap dosyası, genel]
 lastDate: 1750629600
 dateHuman: "23 Haziran 2025"
 attendance: "Kargo/Posta, Senaryo için: E-Posta"

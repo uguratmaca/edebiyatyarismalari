@@ -15,6 +15,7 @@ price: "3 Bin 750 TL'dir."
 permalink: "attila-ilhan-kompozisyon-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/ocak/attila-ilhan-kompozisyon-yarismasi.jpg"
 excerpt:  "Attilâ İlhan Bilim Sanat Kültür Vakfı <strong> Attila İlhan Liseli Gençler Kompozisyon Yarışması </strong> düzenliyor."
+archived_to: "/attila-ilhan-kompozisyon-yarismasi"
 ---
 
 ## Attila İlhan Liseli Gençler Kompozisyon Yarışması

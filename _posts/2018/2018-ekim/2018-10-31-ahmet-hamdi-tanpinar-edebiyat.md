@@ -9,6 +9,7 @@ lastDate: 1554411600
 dateHuman: "5 Nisan 2019"
 price: "14 Bin TL'dir."
 comTopic: "Çocuk, doğa ve hayvan"
+archived_to: "/ahmet-hamdi-tanpinar-edebiyat-yarismasi"
 ---
 
 Türk Edebiyatının tarihi ve kültürel mirasını geliştirip koruyarak; İnceleme ve araştırmayı teşvik etmek,

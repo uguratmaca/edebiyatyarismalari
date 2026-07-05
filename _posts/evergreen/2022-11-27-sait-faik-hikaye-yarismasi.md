@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "2. Ulusal Sait Faik Hikaye Yarışması"
-description: "Sakarya Büyükşehir Belediyesi ve Sakarya İl Kültür Turizm Müdürlüğü '2. Ulusal Sait Faik Hikaye Yarışması' düzenliyor."
+title: "Ulusal Sait Faik Hikâye Yarışması"
+description: "Sakarya Büyükşehir Belediyesi ve Sakarya İl Kültür Turizm Müdürlüğü'nün her yıl düzenlediği Ulusal Sait Faik Hikâye Yarışması. Son başvuru: 31 Mart 2023."
+date: 2022-11-27
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [mart 2023, hikaye yarışması, sait faik abasıyanık, genel]
+tags: [her yıl tekrarlanan, mart 2023, hikaye yarışması, sait faik abasıyanık, genel]
 lastDate: 1680210000
 dateHuman: "31 Mart 2023"
 comTopic: "Ağaçlar"
@@ -14,11 +15,11 @@ requirements: "16 yaş üstü herkes katılabilir."
 price: "25 Bin TL'dir."
 permalink: "sait-faik-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/kasim/sait-faik-hikaye-yarismasi.jpg"
-excerpt:  "Sakarya Büyükşehir Belediyesi ve Sakarya İl Kültür Turizm Müdürlüğü <strong> 2. Ulusal Sait Faik Hikaye Yarışması </strong> düzenliyor."
+excerpt:  "Sakarya Büyükşehir Belediyesi ve Sakarya İl Kültür Turizm Müdürlüğü'nün her yıl düzenlediği <strong> Ulusal Sait Faik Hikâye Yarışması </strong>."
 ---
 
-## 2. Ulusal Sait Faik Hikaye Yarışması
-Sakarya Büyükşehir Belediyesi ve Sakarya İl Kültür Turizm Müdürlüğü **2. Ulusal Sait Faik Hikaye Yarışması** düzenliyor.  
+## Ulusal Sait Faik Hikâye Yarışması
+Sakarya Büyükşehir Belediyesi ve Sakarya İl Kültür Turizm Müdürlüğü, Sait Faik Abasıyanık anısına her yıl **Ulusal Sait Faik Hikâye Yarışması**'nı düzenliyor.
 
 Katılım Koşulları:
 - Yarışmaya Düzenleme Kurulu Üyeleri ve Seçici Kurul Üyeleri ile birinci derece yakınları dışında, 15 (on altı) yaşını doldurmuş tüm vatandaşlar katılabileceklerdir.  
@@ -31,10 +32,16 @@ Katılım Koşulları:
 - Yarışmaya hikâye gönderen eser sahipleri bu şartları kabul etmiş sayılacaktır.
 
 
-### 2. Ulusal Sait Faik Hikaye Yarışması Ödülleri
+### Ulusal Sait Faik Hikâye Yarışması Ödülleri
 - Birinci: 8.000 TL
 - İkinci: 5.000 TL
 - Üçüncü: 6.000 TL
 - Mansiyon Ödülü (3 Adet): 2.000 TL 
 
 ### [Başvuru Formu](https://www.sakarya.bel.tr/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+
+### Geçmiş Yıllar
+
+Ulusal Sait Faik Hikâye Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [1. yarışma (2021)](/1-sait-faik-hikaye-yarismasi)

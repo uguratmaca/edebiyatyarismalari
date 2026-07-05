@@ -12,6 +12,7 @@ price: "4 Bin TL'dir"
 attendance: "E-Posta"
 requirements: "İstanbul ilindeki lise ve dengi okullarda okuyan tüm öğrenciler yarışmaya katılabilecektir."
 image: "https://edebiyatyarismalari.com/images/2020/subat/4-resat-nuri-guntekin-oyku-yarismasi.jpg"
+archived_to: "/resat-nuri-guntekin-oyku-yarismasi"
 ---
 
 Vefa Lisesi, Türk Dili ve Edebiyatı zümresi, 2019-2020 eğitim-öğretim yılında Cumhuriyet Dönemi Türk Edebiyatının güçlü kalemi ve okulumuz Türk Dili ve Edebiyatı öğretmeni Reşat Nuri Güntekin adına bir öykü yarışması düzenlemiştir.  

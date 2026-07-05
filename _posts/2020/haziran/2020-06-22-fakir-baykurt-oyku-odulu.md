@@ -2,7 +2,7 @@
 layout: post
 title: "Fakir Baykurt Öykü Ödülü"
 description: "Nilüfer Belediyesi Kütüphane Müdürlüğü 2020 yılı Fakir Baykurt Öykü Ödülü düzenliyor."
-tags: [eylül 2020, genel, hikaye yarışması]
+tags: [fakir baykurt, eylül 2020, genel, hikaye yarışması]
 comments: true
 lastDate: 1599166800  
 dateHuman: "4 Eylül 2020"

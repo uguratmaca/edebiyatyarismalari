@@ -12,6 +12,7 @@ comTopic: "Türkiye'de Kadın Olmak"
 requirements: "Yarışmaya herkes katılabilir."
 permalink: "ahmet-hamdi-tanpinar-senaryo-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/temmuz/ahmet-hamdi-tanpinar-edebiyat-senaryo-yarismasi.jpg"
+archived_to: "/ahmet-hamdi-tanpinar-edebiyat-yarismasi"
 ---
 
 Amaç:  

@@ -9,6 +9,7 @@ lastDate: 1553806800
 dateHuman: "29 Mart 2019"
 comTopic: "Toplumcu Gerçekçilik - Eleştirel Gerçeklik"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/sabahattin-ali.jpg?alt=media&token=418ffdd2-c133-47e3-b7e4-64548c9f5b59"
+archived_to: "/sabahattin-ali-oyku-yazma-yarismasi"
 ---
 
 Yarışmanın Amacı: 

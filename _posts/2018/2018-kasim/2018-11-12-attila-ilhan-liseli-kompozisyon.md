@@ -5,6 +5,7 @@ description: "Attila İlhan 11. Liseli Gençler Kompozisyon Yarışması"
 category: articles
 tags: [attila ilhan]
 comments: true
+archived_to: "/attila-ilhan-kompozisyon-yarismasi"
 ---
 
 Son Başvuru Tarihi: 16 Şubat 2019. 

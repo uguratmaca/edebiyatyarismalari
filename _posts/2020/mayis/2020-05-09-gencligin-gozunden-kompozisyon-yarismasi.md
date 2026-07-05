@@ -2,7 +2,7 @@
 layout: post
 title: "Gençliğin Gözünden Yunus Emre Kompozisyon Yarışması"
 description: "gençliğin gözünden yunus emre kompozisyon yarışması, yazı yazma yarışması"
-tags: [mayıs 2020, eskişehir, lise, kompozisyon yarışması]
+tags: [yunus emre, mayıs 2020, eskişehir, lise, kompozisyon yarışması]
 comments: true
 lastDate: 1590094800    
 dateHuman: "22 Mayıs 2020" 

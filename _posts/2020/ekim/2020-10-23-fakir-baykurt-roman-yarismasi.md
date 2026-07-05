@@ -13,6 +13,7 @@ requirements: "Yazarlar, kitap oylumundaki, yayınlanmamış bir roman dosyası 
 permalink: "2-fakir-baykurt-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/fakir-baykurt-roman-yarismasi.jpg"
 excerpt: "Çiğli Belediyesi 2. Fakir Baykurt Roman Yarışmasını düzenliyor."
+archived_to: "/fakir-baykurt-roman-odulu"
 ---
 
 Çiğli Belediyesi **2. Fakir Baykurt Roman Yarışması**nı düzenliyor.  

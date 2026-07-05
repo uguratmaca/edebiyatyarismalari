@@ -2,7 +2,7 @@
 layout: post
 title: "Fakir Baykurt Öykü Yarışması"
 description: "Sarıyer Belediyesi Fakir Baykurt Öykü Yarışması Herkesin bir öyküsü vardır sloganı ile bu yıl da edebiyatseverleri bir araya getiriyor."
-tags: [şubat 2021, lise, ortaokul, genel, hikaye yarışması]
+tags: [fakir baykurt, şubat 2021, lise, ortaokul, genel, hikaye yarışması]
 comments: true
 lastDate: 1613336400  
 dateHuman: "15 Şubat 2021"

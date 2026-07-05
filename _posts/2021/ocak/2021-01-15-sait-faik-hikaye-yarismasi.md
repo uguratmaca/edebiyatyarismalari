@@ -13,6 +13,7 @@ requirements: "16 yaşını doldurmuş tüm vatandaşlar katılabileceklerdir"
 permalink: "1-sait-faik-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/ocak/1-ulusal-sait-faik-hikaye-yarismasi.jpg"
 excerpt: "1906 yılında Adapazarı’nda dünyaya gelen, öykücülüğü ile Türk Edebiyatında önemli bir yer edinmiş olan Sait Faik Abasıyanık’ın anısını yaşatmak, hikâye alanında yapılan çalışmaları desteklemek ve Sait Faik’i genç kuşaklara tanıtmaktır."
+archived_to: "/sait-faik-hikaye-yarismasi"
 ---
 
 ## 1. Ulusal Sait Faik Hikâye Yarışması

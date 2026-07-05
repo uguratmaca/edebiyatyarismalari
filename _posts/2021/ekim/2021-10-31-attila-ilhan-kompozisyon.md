@@ -14,6 +14,7 @@ requirements: "Ülkemiz içinde resmi/özel lise ve dengi okullarda okuyan tüm 
 permalink: "14-attila-ilhan-kompozisyon-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/ekim/14-attila-ilhan-liseli-kompozisyon-yarismasi.jpg"
 excerpt: "Attilâ İlhan Bilim Sanat Kültür Vakfı, 14. Attila İlhan Liseli Gençler Kompozisyon Yarışması düzenliyor."
+archived_to: "/attila-ilhan-kompozisyon-yarismasi"
 ---
 
 ## 14. Attila İlhan Liseli Gençler Kompozisyon Yarışması

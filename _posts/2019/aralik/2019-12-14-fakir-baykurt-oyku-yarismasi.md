@@ -3,7 +3,7 @@ layout: post
 title: "Fakir Baykurt Öykü Yarışması 2020"
 description: "fakir baykurt öykü yarışması 2020, güncel hikaye yarışması 2020, hikaye yarışmaları, öykü yarışmaları, para ödüllü yarışmalar"
 category: articles
-tags: [mart 2020, genel, lise, ortaokul, hikaye yarışması]
+tags: [fakir baykurt, mart 2020, genel, lise, ortaokul, hikaye yarışması]
 comments: true
 lastDate: 1583096400
 dateHuman: "2 Mart 2020"

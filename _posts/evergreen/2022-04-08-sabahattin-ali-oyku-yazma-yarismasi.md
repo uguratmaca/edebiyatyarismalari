@@ -2,9 +2,10 @@
 layout: post
 title: "5. Sabahattin Ali Öykü Yazma Yarışması"
 description: "Özel Fenerbahçe Anadolu Lisesi '5. Sabahattin Ali Öykü Yazma Yarışması' düzenliyor."
+date: 2022-04-08
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [mayıs 2022, hikaye yarışması, genel, sabahattin ali, lise]
+tags: [her yıl tekrarlanan, mayıs 2022, hikaye yarışması, genel, sabahattin ali, lise]
 lastDate: 1652389200
 dateHuman: "13 Mayıs 2022"
 comTopic: "Toplumcu gerçekçilik çizgisinde yazılmış serbest temalı öyküler"
@@ -42,3 +43,10 @@ Yarışma Şartları:
 
 
 ### [Başvuru Formu](https://www.fenerbahce.k12.tr/kayit-yarisma/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+
+### Geçmiş Yıllar
+
+Sabahattin Ali Öykü Yazma Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [3. yarışma (2020)](/articles/2020/02/27/3-sabahattin-ali-oyku-yazma-yarismasi.html)
+- [2. yarışma (2019)](/articles/2019/03/08/sabahattin-ali-oyku-yarismasi.html)

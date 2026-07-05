@@ -11,6 +11,7 @@ price: "10 Bin TL'dir"
 attendance: "Kargo/Posta/Elden"
 requirements: "İsteyen herkes katılabilir"  
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/fakir-baykurt-roman-yarismasi-odulu.jpg?alt=media&token=416285a1-0f53-40b8-ac9c-5456b02682b8"
+archived_to: "/fakir-baykurt-roman-odulu"
 ---
 
 Şartlar:

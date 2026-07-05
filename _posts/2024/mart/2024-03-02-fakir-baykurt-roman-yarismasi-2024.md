@@ -14,6 +14,7 @@ price: "30 Bin TL'dir."
 permalink: "fakir-baykurt-roman-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/mart/fakir-baykurt-roman-yarismasi-2024.jpg"
 excerpt:  "Çiğli Belediyesi <strong> Fakir Baykurt Roman Ödülü 2024 </strong> düzenliyor."
+archived_to: "/fakir-baykurt-roman-odulu"
 ---
 
 ## Fakir Baykurt Roman Ödülü 2024

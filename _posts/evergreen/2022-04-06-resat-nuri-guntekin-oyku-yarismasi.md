@@ -2,9 +2,10 @@
 layout: post
 title: "4. Reşat Nuri Güntekin Öykü Yarışması"
 description: "Vefa Lisesi '4. Reşat Nuri Güntekin Öykü Yarışması' düzenliyor."
+date: 2022-04-06
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [mayıs 2022, hikaye yarışması, lise, reşat nuri güntekin]
+tags: [her yıl tekrarlanan, mayıs 2022, hikaye yarışması, lise, reşat nuri güntekin]
 lastDate: 1651698000
 dateHuman: "05 Mayıs 2022"
 comTopic: "Konu sınırlaması yoktur."
@@ -37,3 +38,10 @@ Yarışma Koşulları:
 - Üçüncüye: 1000 TL + Plaket
 
 ### [Başvuru Formu](https://vefalisesi.meb.k12.tr/icerikler/4resat-nuri-guntekin-oyku-yarismasi_12720698.html/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+
+### Geçmiş Yıllar
+
+Reşat Nuri Güntekin Öykü Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [4. yarışma (2020)](/articles/2020/02/27/4-resat-nuri-guntekin-oyku-yarismasi.html)
+- [3. yarışma (2019)](/articles/2019/03/08/resat-nuri-guntekin-oyku-yarismasi.html)

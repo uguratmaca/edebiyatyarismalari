@@ -10,6 +10,7 @@ dateHuman: "20 Mart 2019"
 comTopic: "Serbest"
 price: "3 Bin 250 TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/resat-nuri.jpg?alt=media&token=ee95e63b-1ad8-4202-a997-c2c1ee7910c1"
+archived_to: "/resat-nuri-guntekin-oyku-yarismasi"
 ---
 
 Vefa Lisesi, Türk Dili ve Edebiyatı zümresi, 2018-2019 eğitim-öğretim yılında Cumhuriyet Dönemi Türk Edebiyatının güçlü kalemi ve okulumuz Türk Dili ve Edebiyatı öğretmeni Reşat Nuri Güntekin adına bir öykü yarışması düzenlemiştir.

@@ -3,7 +3,7 @@ layout: post
 title: "Gönen Belediyesi 37. Ömer Seyfettin Hikaye Yarışması"
 description: "Gönen Belediyesi 37. Ömer Seyfettin Hikaye Yarışmasına resmi/özel tüm lise kurumlarındaki öğrenciler katılabilir"
 category: articles
-tags: [ocak 2026, hikaye yarışması, lise]
+tags: [ömer seyfettin, ocak 2026, hikaye yarışması, lise]
 lastDate: 1768777200
 dateHuman: "19 Ocak 2026"
 attendance: "Websitesi"

@@ -4,7 +4,7 @@ title: "Uluslararası Yunus Emre Edebiyat Şenliği Edebiyat 2026 Ödülleri"
 description: "Uluslararası Yunus Emre Edebiyat Şenliği"
 author: "Ümit Atmaca"
 category: articles
-tags: [haziran 2026, hikaye yarışması, genel]
+tags: [yunus emre, haziran 2026, hikaye yarışması, genel]
 lastDate: 1782421200
 price: "Çeşitli hediyeler"
 dateHuman: "26 Haziran 2026"

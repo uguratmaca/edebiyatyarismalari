@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "16. Attila İlhan Kompozisyon Yarışması"
-description: "Attilâ İlhan Bilim Sanat Kültür Vakfı '16. Attila İlhan Kompozisyon Yarışması' düzenliyor."
+title: "Attila İlhan Liseli Gençler Kompozisyon Yarışması"
+description: "Attilâ İlhan Bilim Sanat Kültür Vakfı'nın Türkiye genelindeki lise öğrencilerine yönelik düzenlediği Attila İlhan Liseli Gençler Kompozisyon Yarışması'na başvurular her yıl şubat ayında sona eriyor."
+date: 2023-11-04
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [şubat 2024, kompozisyon yarışması, lise, attila ilhan]
+tags: [her yıl tekrarlanan, şubat 2024, kompozisyon yarışması, lise, attila ilhan]
 lastDate: 1708981200
 dateHuman: "27 Şubat 2024"
+comTopic: "Kişisel gözlem ve deneyimleriniz ışığında, lise öğreniminin size ilerideki yaşamınız için kazandırdıkları hakkında ne düşünüyorsunuz?"
 attendance: "E-Posta"
 organizer: "Attilâ İlhan Bilim Sanat Kültür Vakfı"
 requirements: "Resmi / özel lise ve dengi okullarda okuyan tüm gençler katılabilir."
 price: "12 Bin TL'dir"
-permalink: "attila-ilhan-kompozisyon-yarismasi-2024"
+permalink: "attila-ilhan-kompozisyon-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/kasim/attila-ilhan-kompozisyon-yarismasi-2024.jpg"
-excerpt:  "Attilâ İlhan Bilim Sanat Kültür Vakfı <strong> 16. Attila İlhan Kompozisyon Yarışması </strong> düzenliyor."
-archived_to: "/attila-ilhan-kompozisyon-yarismasi"
+excerpt: "Attilâ İlhan Bilim Sanat Kültür Vakfı'nın Türkiye genelindeki lise öğrencilerine yönelik düzenlediği Attila İlhan Liseli Gençler Kompozisyon Yarışması'na başvurular her yıl şubat ayında sona eriyor."
 ---
 
-## 16. Attila İlhan Kompozisyon Yarışması
-Attilâ İlhan Bilim Sanat Kültür Vakfı **16. Attila İlhan Kompozisyon Yarışması** düzenliyor.  
+## Attila İlhan Liseli Gençler Kompozisyon Yarışması
+Attilâ İlhan Bilim Sanat Kültür Vakfı, Türkiye genelindeki lise öğrencilerine yönelik her yıl **Attila İlhan Liseli Gençler Kompozisyon Yarışması** düzenliyor.
 
 Katılım Koşulları:
 - Konusu: “Kişisel gözlem ve deneyimleriniz ışığında, lise öğreniminin size ilerideki yaşamınız için kazandırdıkları hakkında ne düşünüyorsunuz?”
@@ -36,8 +37,17 @@ Katılım Koşulları:
 - Başvuru E-posta Ekinde Yer Alması Gereken Belgeler
     - Kompozisyon (Word formatında), Katılım formu, veli tarafından imzalanmış “Veli İzin Yazısı”, veli tarafından imzalanmış “Katılımcı Aydınlatma ve Rıza Metni”, veli tarafından imzalanmış “Muvafakatname”
 
-
-### 16. Attila İlhan Kompozisyon Yarışması Ödülleri
-- Birinci: 5.000 TL 
+### Attila İlhan Liseli Gençler Kompozisyon Yarışması Ödülleri
+- Birinci: 5.000 TL
 - İkinci: 4.000 TL
 - Üçüncü: 3.000 TL
+
+### Geçmiş Yıllar
+
+Attila İlhan Liseli Gençler Kompozisyon Yarışması’nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [16. yarışma (2024)](/attila-ilhan-kompozisyon-yarismasi-2024)
+- [15. yarışma (2023)](/attila-ilhan-kompozisyon-yarismasi-2023)
+- [14. yarışma (2022)](/14-attila-ilhan-kompozisyon-yarismasi)
+- [12. yarışma (2020)](/articles/2019/10/30/atilla-ilhan-kompozisyon-yarismasi.html)
+- [11. yarışma (2019)](/articles/2018/11/12/attila-ilhan-liseli-kompozisyon.html)

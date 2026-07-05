@@ -11,6 +11,7 @@ comTopic: "Serbest"
 attendance: "E-Posta"
 requirements: "İstanbul ilindeki lise ve dengi okullarda okuyan tüm öğrenciler yarışmaya katılabilecektir."
 image: "https://edebiyatyarismalari.com/images/2020/subat/4-resat-nuri-guntekin-oyku-yarismasi.jpg"
+archived_to: "/sabahattin-ali-oyku-yazma-yarismasi"
 ---
 
 Amaç:  

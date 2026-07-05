@@ -4,7 +4,7 @@ title: "35. Ömer Seyfettin Hikaye Yarışması"
 description: "Gönen Belediyesi '35. Ömer Seyfettin Hikaye Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [aralık 2023, hikaye yarışması, lise, genel]
+tags: [ömer seyfettin, aralık 2023, hikaye yarışması, lise, genel]
 lastDate: 1703192400
 dateHuman: "22 Aralık 2023"
 attendance: "Websitesi"

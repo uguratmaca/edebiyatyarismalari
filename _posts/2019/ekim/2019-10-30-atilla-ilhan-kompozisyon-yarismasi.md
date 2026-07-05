@@ -11,6 +11,7 @@ price: "3 Bin 750 TL'dir"
 comTopic: "Daha Az Çalışmak, Daha İyi Yaşamak Anlamına Gelir Mi?"
 attendance: "E-Posta"
 requirements: "Lise"
+archived_to: "/attila-ilhan-kompozisyon-yarismasi"
 ---
 
 Atilla İlhan Bilim Sanat Kültür Vakfı Kompozisyon Yarışması Ülkemiz Sathında Lise Çağındaki Öğrencilerimizin Kendilerini Yazıyla İfade Edebilme Yetilerini Geliştirmelerine Katkıda Bulunmak Amacıyla Düzenlenmiştir.

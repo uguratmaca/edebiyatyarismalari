@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "7. Ahmet Hamdi Tanpınar Edebiyat Yarışması"
-description: "Antalya Kepez Belediyesi '7. Ahmet Hamdi Tanpınar Edebiyat Yarışması' düzenliyor."
+title: "Ahmet Hamdi Tanpınar Edebiyat Yarışması"
+description: "Antalya Kepez Belediyesi'nin her yıl düzenlediği Ahmet Hamdi Tanpınar Edebiyat Yarışması'nda tür (masal, senaryo, anı vb.) her yıl değişmektedir. Son başvuru: 30 Eylül 2022."
+date: 2022-06-26
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [eylül 2022, anı yarışması, genel, ahmet hamdi tanpınar]
+tags: [her yıl tekrarlanan, eylül 2022, anı yarışması, genel, ahmet hamdi tanpınar]
 lastDate: 1664485200
 dateHuman: "30 Eylül 2022"
 comTopic: "Anılardan Anlara Antalya"
@@ -14,11 +15,11 @@ price: "25 Bin TL'dir."
 requirements: "Yurt içi ve dışından herkes katılabilir."
 permalink: "ahmet-hamdi-tanpinar-edebiyat-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/haziran/ahmet-hamdi-tanpinar-edebiyat-yarismasi.jpg"
-excerpt:  "Antalya Kepez Belediyesi <strong> 7. Ahmet Hamdi Tanpınar Edebiyat Yarışması </strong>  düzenliyor."
+excerpt:  "Antalya Kepez Belediyesi <strong> Ahmet Hamdi Tanpınar Edebiyat Yarışması </strong>  düzenliyor."
 ---
 
-## 7. Ahmet Hamdi Tanpınar Edebiyat Yarışması
-Antalya Kepez Belediyesi **7. Ahmet Hamdi Tanpınar Edebiyat Yarışması** düzenliyor.
+## Ahmet Hamdi Tanpınar Edebiyat Yarışması
+Antalya Kepez Belediyesi, Ahmet Hamdi Tanpınar anısına her yıl **Ahmet Hamdi Tanpınar Edebiyat Yarışması**'nı düzenliyor. Yarışmanın edebi türü yıldan yıla değişmektedir (masal, senaryo, anı vb.), ancak yarışma her zaman aynı "Ahmet Hamdi Tanpınar Edebiyat Yarışması" adı altında düzenlenir. Son dönemde yarışma anı türünde ve "Anılardan Anlara Antalya" konusuyla gerçekleştirilmiştir.
 
 Katılım Koşulları:
 - Yarışmaya katılacak eserler anı türünde olup, konusu “ANILARDAN ANLARA ANTALYA” dır.
@@ -37,8 +38,15 @@ Katılım Koşulları:
 - Dereceye giren eserlerin açıklanması ve ödül töreni tarihi önceden bilgi vermek şartıyla Belediyemiz tarafından değiştirilebilir.
 
 
-### 7. Ahmet Hamdi Tanpınar Edebiyat Yarışması Ödülleri
+### Ahmet Hamdi Tanpınar Edebiyat Yarışması Ödülleri
 - Birinci: 10.000 TL  + Plaket + Katılım Belgesi
 - İkinci: 7.000 TL + Plaket + Katılım Belgesi
 - Üçüncü: 5.000 TL + Plaket + Katılım Belgesi
 - Teşvik Ödülü: 3.000 TL + Plaket + Katılım Belgesi
+
+### Geçmiş Yıllar
+
+Ahmet Hamdi Tanpınar Edebiyat Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [Senaryo dalı yarışması (2020)](/ahmet-hamdi-tanpinar-senaryo-yarismasi)
+- [5. yarışma (2018, masal türü)](/articles/2018/10/31/ahmet-hamdi-tanpinar-edebiyat.html)
