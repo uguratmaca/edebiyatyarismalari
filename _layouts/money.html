@@ -6,9 +6,9 @@ layout: default
 {% assign nowDateInt = nowunix | plus: 0 %}
 
 <section class="p-2">
-    <h1>{{page.headline}}</h1>
+    <h1>{% include dynamic-year.html text=page.headline %}</h1>
     {% if page.subline %}
-    <p>{{page.subline}}</p>
+    <p>{% include dynamic-year.html text=page.subline %}</p>
     {% endif %}
 
     {% if page.key %}

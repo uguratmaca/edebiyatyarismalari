@@ -1,0 +1,5 @@
+{%- assign _dy_year = site.year -%}
+{%- assign _dy_year_prev = site.year | minus: 1 -%}
+{%- capture _dy_pattern_prev -%}{% raw %}{{ site.year | minus: 1 }}{% endraw %}{%- endcapture -%}
+{%- capture _dy_pattern_cur -%}{% raw %}{{ site.year }}{% endraw %}{%- endcapture -%}
+{{- include.text | replace: _dy_pattern_prev, _dy_year_prev | replace: _dy_pattern_cur, _dy_year -}}

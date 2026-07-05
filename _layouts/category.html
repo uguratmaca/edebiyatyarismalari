@@ -8,19 +8,20 @@ layout: default
 {% assign counter2 = 0 %}
 
 <section class="p-2">
-    <h1>{{ page.headline | default: page.title }}</h1>
+    {% assign headline = page.headline | default: page.title %}
+    <h1>{% include dynamic-year.html text=headline %}</h1>
 
     <section class="row align-items-center">
         {% if page.image %}
         <section class="col-md-6 col-sm-12 justify-content-center">
-            <span>{{page.subline}}</span>
+            <span>{% include dynamic-year.html text=page.subline %}</span>
         </section>
         <section class="col-md-6 col-sm-12">
-            <img src="{{page.image}}" alt="{{page.title}}" loading="lazy" />
+            <img src="{{page.image}}" alt="{% include dynamic-year.html text=page.title %}" loading="lazy" />
         </section>
         {% else %}
         <section class="col justify-content-center">
-            <span>{{page.subline}}</span>
+            <span>{% include dynamic-year.html text=page.subline %}</span>
         </section>
         {% endif %}
     </section>

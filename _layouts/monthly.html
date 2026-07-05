@@ -2,11 +2,11 @@
 layout: default
 ---
 <section class="p-2">
-	<h1>{{page.title}}</h1>
+	<h1>{% include dynamic-year.html text=page.title %}</h1>
 	<hr>
 
 	<section class="col justify-content-center">
-		<span>{{page.subline}}</span>
+		<span>{% include dynamic-year.html text=page.subline %}</span>
 	</section>
 
 	{% for post in site.posts %}

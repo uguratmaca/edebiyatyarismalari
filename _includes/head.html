@@ -1,8 +1,9 @@
 <meta charset="utf-8">
-{% capture page_title %}{% if page.title and page.title != site.title %}{{ page.title }} &#8211; {{ site.title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+{% capture page_title %}{% if page.title and page.title != site.title %}{% include dynamic-year.html text=page.title %} &#8211; {{ site.title }}{% elsif page.title %}{% include dynamic-year.html text=page.title %}{% else %}{{ site.description }}{% endif %}{% endcapture %}
 <title>{{ page_title }}</title>
+{% capture page_description %}{% if page.description %}{% include dynamic-year.html text=page.description %}{% else %}{{ site.description }}{% endif %}{% endcapture %}
 <meta name="description"
-    content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    content="{{ page_description }}">
 {% if page.tags %}
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
@@ -13,7 +14,7 @@
 {% endif %}
 <meta property="og:title" content="{{ page_title }}">
 <meta property="og:description"
-    content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    content="{{ page_description }}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:locale" content="tr_TR">
@@ -23,7 +24,7 @@
 
 <meta name="twitter:title" content="{{ page_title }}">
 <meta name="twitter:description"
-    content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    content="{{ page_description }}">
 <meta name="twitter:creator" content="@yarismaedebiyat">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image:src" content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}">
