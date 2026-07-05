@@ -11,6 +11,7 @@ attendance: "E-Posta/Posta"
 organizer: "Günışığı Kitaplığı"
 requirements: "Türkiye genelinde, 2023 – 2024 öğretim yılında tüm okulların 6, 7 ve 8. sınıflarında okuyan öğrencileri katılabilir."
 permalink: "zeynep-cemali-oyku-yarismasi-2024"
+archived_to: "/zeynep-cemali-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/kasim/zeynep-cemali-oyku-yarismasi-2024.jpg"
 excerpt:  "Günışığı Kitaplığı <strong> Zeynep Cemali Öykü Yarışması 2024 </strong> düzenliyor."
 ---

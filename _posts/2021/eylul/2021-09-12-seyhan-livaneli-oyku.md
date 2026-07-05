@@ -11,6 +11,7 @@ comTopic: "Bellek"
 attendance: "E-Posta"
 requirements: "Öykü türünde kitabı yayımlanmamış 18 yaş üzeri yazar ve yazar adayları"
 permalink: "seyhan-livaneli-oyku-yarismasi-2022"
+archived_to: "/seyhan-livaneli-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/eylul/seyhan-livaneli-oyku-yarismasi.jpg"
 excerpt: "Artık gelenekselleşen Seyhan Livaneli Öykü Yarışması, 2022 yılında da düzenleniyor."
 ---

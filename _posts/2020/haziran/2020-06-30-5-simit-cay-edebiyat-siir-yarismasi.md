@@ -11,6 +11,7 @@ price: "750 TL'dir"
 comTopic: "Başlangıç"
 requirements: "Yarışmaya herkes katılabilir."
 permalink: "5-simit-cay-edebiyat-siir-yarismasi"
+archived_to: "/simit-cay-etkinlikleri-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/haziran/simit-cay-edebiyat-siir-yarismasi.jpg"
 ---
 

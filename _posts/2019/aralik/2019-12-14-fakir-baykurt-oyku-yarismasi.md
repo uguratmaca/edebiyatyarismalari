@@ -11,6 +11,7 @@ comTopic: "Serbest"
 attendance: "Elden/APS/Kargo/Kurye"
 requirements: "Ortaokul, lise ve 18 Yaş üstü herkes kendi yaş kategorisindeki yarışmaya katılabilir"
 price: "24 Bin TL'dir"
+archived_to: "/fakir-baykurt-oyku-yarismasi"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/fakir-baykurt-oyku-yarismasi-2020.jpg?alt=media&token=40a6d4f6-7711-48b7-bb3a-d31a1fa37cb0"
 ---
 

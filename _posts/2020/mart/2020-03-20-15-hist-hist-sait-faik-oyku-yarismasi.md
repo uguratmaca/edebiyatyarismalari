@@ -12,6 +12,7 @@ comTopic: "Serbest"
 requirements: "Türkiye genelindeki lise öğrencileri"
 image: "https://edebiyatyarismalari.com/images/2020/mart/15-hist-hist-sait-faik-oyku-yarismasi.jpg"
 permalink: "15-hist-hist-sait-faik-oyku-yarismasi"
+archived_to: "/sait-faik-oyku-yarismasi"
 ---
 
 Amaç:  

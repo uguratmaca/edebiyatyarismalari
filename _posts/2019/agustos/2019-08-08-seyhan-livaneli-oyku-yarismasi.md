@@ -9,6 +9,7 @@ lastDate: 1571086800
 dateHuman: "15 Ekim 2019"
 comTopic: "Ötekileştirme"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/seyhan-livaneli-oyku-yarismasi.jpg?alt=media&token=c41e15fa-18e5-4198-ab1b-59b9df4261a5"
+archived_to: "/seyhan-livaneli-oyku-yarismasi"
 ---
 
 Yarışma Sonuçları 15 Ocak 2020 Tarihinde Açıklanacak.

@@ -8,6 +8,7 @@ comments: true
 lastDate: 1558472400
 dateHuman: "22 Mayıs 2019"
 comTopic: "Yalan"
+archived_to: "/zeynep-cemali-oyku-yarismasi"
 ---
 
 - Yarışmaya Türkiye genelinde, 2018-2019 öğretim yılında tüm ilköğretim

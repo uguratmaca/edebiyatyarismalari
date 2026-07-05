@@ -11,6 +11,7 @@ price: "10 Bin TL'dir"
 comTopic: "Nefret Suçları"
 requirements: "Tüm üniversitesi öğrencileri katılabilir"
 permalink: "10-hasan-ozderin-makale-yarismasi"
+archived_to: "/hasan-ozderin-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/subat/hasan-ozderin-makale-yarismasi.jpg"
 excerpt: "Akdeniz Üniversitesi her yıl düzenlediği Hasan Özderin Makale Yarışmasının 10.sunu düzenliyor."
 ---

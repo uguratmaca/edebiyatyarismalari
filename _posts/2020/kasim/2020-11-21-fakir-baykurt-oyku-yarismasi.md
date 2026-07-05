@@ -11,6 +11,7 @@ comTopic: "Serbest"
 price: "25 Bin TL'dir"
 requirements: "Ortaokul ve lise öğrencileri ve yetişkinler katılabilir"
 permalink: "sariyer-fakir-baykurt-oyku-yarismasi"
+archived_to: "/fakir-baykurt-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/kasim/fakir-baykurt-oyku-yarismasi.jpg"
 excerpt: "Sarıyer Belediyesi Fakir Baykurt Öykü Yarışması Herkesin bir öyküsü vardır sloganı ile bu yıl da edebiyatseverleri bir araya getiriyor."
 ---

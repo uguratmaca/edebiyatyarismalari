@@ -11,6 +11,7 @@ comTopic: "Unutulma Hakkı"
 attendance: "Posta/Kargo/Elden"
 price: "10 Bin TL'dir"
 requirements: "Yarışma yalnızca hukuk fakültesi öğrencilerinin katılımına açıktır."
+archived_to: "/hasan-ozderin-makale-yarismasi"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/9-hasan-ozderin-makale-yarismasi-2020.JPG?alt=media&token=b581538d-6816-4109-bf61-5e56a18bdabf"
 ---
 

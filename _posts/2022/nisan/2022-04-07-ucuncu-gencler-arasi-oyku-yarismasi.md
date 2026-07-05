@@ -11,6 +11,7 @@ attendance: "Websitesi"
 organizer: "T.C. Gençlik ve Spor Bakanlığı"
 requirements: "13-25 yaş aralığındaki gençler katılabilir."
 permalink: "ucuncu-gencler-arasi-oyku-yarismasi"
+archived_to: "/gencler-arasi-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/ucuncu-gencler-arasi-oyku-yarismasi.jpg"
 excerpt:  "T.C. Gençlik ve Spor Bakanlığı <strong> 3. Gençler Arası Öykü Yarışması </strong> düzenliyor."
 ---

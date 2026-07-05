@@ -12,6 +12,7 @@ organizer: "Simit Çay Edebiyat Etkinlikleri"
 requirements: "İsteyen herkes katılabilir."
 price: "3 Bin 500 TL'dir."
 permalink: "simit-cay-siir-yarismasi-2024"
+archived_to: "/simit-cay-etkinlikleri-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/subat/simit-cay-siir-yarismasi-2024.jpg"
 excerpt:  "Simit Çay Edebiyat Etkinlikleri <strong> 10. Simit Çay Edebiyat Etkinlikleri Şiir Yarışması </strong> düzenliyor."
 ---

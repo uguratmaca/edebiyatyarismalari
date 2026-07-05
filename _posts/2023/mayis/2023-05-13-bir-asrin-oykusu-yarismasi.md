@@ -11,6 +11,7 @@ attendance: "Websitesi"
 organizer: "Gençlik ve Spor Bakanlığı"
 requirements: "13-25 yaş aralığındaki gençler katılabilir."
 permalink: "bir-asrin-oykusu-yarismasi"
+archived_to: "/gencler-arasi-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mayis/bir-asrin-oykusu-yarismasi.jpg"
 excerpt:  "Gençlik ve Spor Bakanlığı <strong> IV. Gençler Arası Öykü Yarışması </strong> düzenliyor."
 ---

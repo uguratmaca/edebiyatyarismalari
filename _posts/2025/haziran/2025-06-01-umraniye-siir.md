@@ -14,6 +14,7 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "umraniye-belediyesi-21-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/haziran/21-umraniye-siir-yarismasi.jpeg"
 excerpt: "112 Bin TL toplam ödüllü Ümraniye Belediyesi 21. Geleneksel Şiir Yarışması başvuruları açıldı"
+archived_to: "/umraniye-belediyesi-siir-yarismasi"
 ---
 
 ## Ümraniye Belediyesi 21. Geleneksel Şiir Yarışması

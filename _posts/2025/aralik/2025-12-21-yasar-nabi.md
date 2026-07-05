@@ -11,6 +11,7 @@ comTopic: "Serbest"
 organizer: "Varlık dergisi ve yayınları"
 requirements: "Ödüle 30 yaş ve altındakiler şiir ve öykü dallarında katılabilir"
 permalink: "yasar-nabi-nayir-genclik-odulleri-2026"
+archived_to: "/yasar-nabi-nayir-odulleri"
 image: "https://edebiyatyarismalari.com/images/2025/aralik/yasar-nabi-genclik-odulleri.jpg"
 excerpt:  "Varlık dergisi ve yayınları 2026 yılı Yaşar Nabi Nayır Gençlik Ödülleri'ni duyurdu."
 ---

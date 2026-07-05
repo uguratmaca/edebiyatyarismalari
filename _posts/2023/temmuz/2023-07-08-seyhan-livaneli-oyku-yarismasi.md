@@ -11,6 +11,7 @@ attendance: "E-Posta"
 organizer: "Eksik Parça Yayınları"
 requirements: "İsteyen herkes katılabilir."
 permalink: "seyhan-livaneli-oyku-yarismasi-2023"
+archived_to: "/seyhan-livaneli-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/temmuz/seyhan-livaneli-oyku-yarismasi.jpg"
 excerpt:  "Eksik Parça Yayınları <strong> 5. Seyhan Livaneli Öykü Yarışması </strong> düzenliyor."
 ---

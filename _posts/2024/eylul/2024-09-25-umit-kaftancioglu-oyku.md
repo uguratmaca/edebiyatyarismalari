@@ -10,6 +10,7 @@ attendance: "Posta, Kargo, Elden"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
 permalink: "umit-kaftancioglu-oyku-yarismasi-2025"
+archived_to: "/umit-kaftancioglu-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/eylul/umit-kaftancioglu-oyku-yarismasi.webp"
 excerpt:  "21. Ümit Kaftancıoğlu Öykü Yarışması 2025 düzenleniyor."
 ---

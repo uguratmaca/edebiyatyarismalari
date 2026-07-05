@@ -7,6 +7,7 @@ tags: [nisan 2019, şiir yarışması, hikaye yarışması]
 comments: true
 dateHuman: "1 Nisan 2019"
 lastDate: 1554066000
+archived_to: "/yasar-nabi-nayir-odulleri"
 ---
 
 Varlık dergisi ve yayınlarının kurucusu Yaşar Nabi Nayır adına her yıl kuruluş yıldönümü olan Temmuz ayında şiir ve öykü dallarında verilen Gençlik Ödülleri, edebiyatımıza yeni değerler kazandırma amacını taşıyor.

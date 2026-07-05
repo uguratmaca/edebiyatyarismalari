@@ -12,6 +12,7 @@ organizer: "Akdeniz Üniversitesi Hukuk Fakültesi"
 requirements: "Yalnızca hukuk fakültesi öğrencileri katılabilir."
 price: "32 Bin 500 TL'dir."
 permalink: "hasan-ozderin-makale-yarismasi-2023"
+archived_to: "/hasan-ozderin-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/ocak/hasan-ozderin-makale-yarismasi.jpg"
 excerpt:  "Akdeniz Üniversitesi Hukuk Fakültesi <strong> Hasan Özderin Makale Yarışması </strong> düzenliyor."
 ---

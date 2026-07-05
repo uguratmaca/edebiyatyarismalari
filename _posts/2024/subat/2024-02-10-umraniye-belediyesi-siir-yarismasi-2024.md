@@ -14,6 +14,7 @@ price: "95 Bin TL'dir."
 permalink: "umraniye-belediyesi-siir-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/subat/umraniye-belediyesi-siir-yarismasi-2024.jpg"
 excerpt:  "Ümraniye Belediyesi <strong> 20. Geleneksel Şiir Yarışması </strong> düzenliyor."
+archived_to: "/umraniye-belediyesi-siir-yarismasi"
 ---
 
 ## 20. Geleneksel Şiir Yarışması

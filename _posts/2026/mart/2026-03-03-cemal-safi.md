@@ -12,6 +12,7 @@ price: "75 Bin TL'dir"
 organizer: "Samsun İlkadım Belediyesi"
 requirements: "Yarışmaya 18 yaş ve üzeri, T.C. vatandaşı olan herkes katılabilir"
 permalink: "7-cemal-safi-siir-yarismasi"
+archived_to: "/cemal-safi-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/subat/7-cemal-safi-siir-yarismasi.jpeg"
 excerpt: "Samsun İlkadım Belediyesi toplam 75 Bin TL para ödüllü 7. Cemal Safi Şiir Yarışması'nı duyurdu."
 ---

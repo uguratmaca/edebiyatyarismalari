@@ -12,6 +12,7 @@ price: "45 Bin TL'dir"
 organizer: "İlkadım Belediyesi"
 requirements: "Yarışmaya 18 yaş ve üzeri herkes katılabilir"
 permalink: "cemal-safi-siir-yarismasi-2022"
+archived_to: "/cemal-safi-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/subat/cemal-safi-siir-yarismasi.jpeg"
 excerpt: "İlkadım Belediyesi <strong>3. Geleneksel Cemal Safi Şiir Yarışması 2022</strong> düzenliyor."
 ---

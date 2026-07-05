@@ -14,6 +14,7 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "umraniye-belediyesi-21-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/haziran/21-umraniye-hikaye-yarismasi.jpeg"
 excerpt: "145 Bin TL toplam ödüllü Ümraniye Belediyesi 21. Geleneksel Hikâye Yarışması başvuruları herkese açıldı"
+archived_to: "/umraniye-belediyesi-hikaye-yarismasi"
 ---
 
 ## Ümraniye Belediyesi 21. Geleneksel Hikâye Yarışması

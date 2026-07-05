@@ -10,6 +10,7 @@ attendance: "E-Posta"
 comTopic: "Utanmak"
 requirements: "Öykü türünde kitabı yayımlanmamış 18 yaş üzeri yazar ve yazar adaylarına açıktır"
 permalink: "seyhan-livaneli-oyku-yarismasi-2021"
+archived_to: "/seyhan-livaneli-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/eylul/seyhan-livaneli-oyku-yarismasi.jpg"
 excerpt: "2021 Seyhan Livaneli Öykü yarışması duyuruldu."
 ---

@@ -5,6 +5,7 @@ description: "Ümraniye Belediyesi 15. Geleneksel Şiir Yarışması"
 category: articles
 tags: []
 comments: true
+archived_to: "/umraniye-belediyesi-siir-yarismasi"
 ---
 
 Son Başvuru Tarihi: 11 Ocak 2019. Toplam para ödülü 20 Bin TL.

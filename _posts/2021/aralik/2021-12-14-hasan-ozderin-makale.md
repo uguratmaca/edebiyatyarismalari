@@ -12,6 +12,7 @@ comTopic: "Sosyal Medyanın Denetimi"
 attendance: "Kargo, Posta"
 requirements: "Yarışma yalnızca hukuk fakültesi öğrencilerinin katılımına açıktır"
 permalink: "11-hasan-ozderin-makale-yarismasi"
+archived_to: "/hasan-ozderin-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/11-hasan-ozderin-makale-yarismasi.jpeg"
 excerpt: "Akdeniz Üniversitesi Hukuk Fakültesi 11. Hasan Özderin Makale Yarışması düzenlemektedir."
 ---

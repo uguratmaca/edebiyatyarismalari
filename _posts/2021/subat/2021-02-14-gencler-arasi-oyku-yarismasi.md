@@ -10,6 +10,7 @@ attendance: "Websitesi"
 comTopic: "Benim Çocukluğum"
 requirements: "13-29 yaş aralığındaki gençler başvuru yapabilecek."
 permalink: "2-gencler-arasi-oyku-yarismasi"
+archived_to: "/gencler-arasi-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/subat/2-gencler-arasi-oyku-yarismasi.jpg"
 excerpt: "Gençlik ve Spor Bakanlığı 2. Gençler Arası Öykü Yarışması düzenliyor."
 ---

@@ -11,6 +11,7 @@ attendance: "E-Posta"
 organizer: "Eksik Parça"
 requirements: "18 yaş üzeri herkes katılabilir."
 permalink: "seyhan-livaneli-oyku-yarismasi-2024"
+archived_to: "/seyhan-livaneli-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/temmuz/seyhan-livaneli-oyku-yarismasi-2024.jpg"
 excerpt: "2025’te altıncısı verilecek olan <strong>Seyhan Livaneli Öykü Yarışması</strong> için başvurular başladı."
 ---

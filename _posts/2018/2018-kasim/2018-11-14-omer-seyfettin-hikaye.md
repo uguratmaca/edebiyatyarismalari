@@ -5,6 +5,7 @@ description: "Gönen Belediyesi Ömer Seyfettin Hikaye Yarışması"
 category: articles
 tags: []
 comments: true
+archived_to: "/omer-seyfettin-hikaye-yarismasi"
 ---
 
 Son Başvuru Tarihi: 31 Aralık 2018. 

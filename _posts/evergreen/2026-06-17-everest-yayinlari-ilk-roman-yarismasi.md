@@ -5,7 +5,7 @@ description: "Everest Yayınları'nın herkese açık İlk Roman Yarışması'nd
 date: 2026-06-17
 author: "Ümit Atmaca"
 category: articles
-tags: [temmuz 2026, roman yarışması, kitap dosyası, genel]
+tags: [her yıl tekrarlanan, temmuz 2026, roman yarışması, kitap dosyası, genel]
 lastDate: 1785445200
 price: "Kitap Basımı"
 dateHuman: "31 Temmuz 2026"

@@ -14,6 +14,7 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "umraniye-18-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/mart/18-umraniye-belediyesi-hikaye-yarismasi.jpeg"
 excerpt: "Ümraniye Belediyesi Geleneksel konusu serbest olan <strong>Ümraniye Belediyesi Geleneksel 18. Hikâye Yarışması</strong>'nı duyurdu."
+archived_to: "/umraniye-belediyesi-hikaye-yarismasi"
 ---
 
 ## Ümraniye Belediyesi Geleneksel 18. Hikaye Yarışması

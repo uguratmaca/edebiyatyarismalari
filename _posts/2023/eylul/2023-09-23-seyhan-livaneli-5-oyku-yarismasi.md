@@ -11,6 +11,7 @@ attendance: "E-Posta"
 organizer: "Eksik Parça Yayınları"
 requirements: "18 yaş üzeri yazar ve yazar adayları katılabilir."
 permalink: "seyhan-livaneli-5-oyku-yarismasi"
+archived_to: "/seyhan-livaneli-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/eylul/seyhan-livaneli-5-oyku-yarismasi.jpg"
 excerpt:  "Eksik Parça Yayınları <strong> 5. Seyhan Livaneli Öykü Yarışması </strong> düzenliyor."
 ---

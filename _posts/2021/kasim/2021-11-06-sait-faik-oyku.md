@@ -11,6 +11,7 @@ comTopic: "Serbest"
 attendance: "Websitesi"
 requirements: "Tüm lise öğrencileri katılabilir"
 permalink: "17-hist-hist-genc-sait-faik-oyku-yarismasi"
+archived_to: "/sait-faik-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/kasim/17-hist-hist-sait-faik-abasiyanik-oyku-yarismasi.jpg"
 excerpt: "Edebiyat yarışmaları ile bilinen Darüşşafaka Okulları 17. Hişt Hişt, Genç Sait Faik Yarışması düzenliyor."
 ---

@@ -11,6 +11,7 @@ comTopic: "Serbest"
 attendance: "Posta, Kargo"
 requirements: "İsteyen herkes katılabilir"
 permalink: "umit-kaftancioglu-oyku-yarismasi-2022"
+archived_to: "/umit-kaftancioglu-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/ekim/umit-kaftancioglu-oyku-yarismasi.jpg"
 excerpt: "18. Ümit Kaftancıoğlu Öykü Yarışması düzenleniyor."
 ---

@@ -11,6 +11,7 @@ comTopic: "Serbest"
 organizer: "Öztürk TATAR"
 requirements: "İsteyen herkes katılabilir"
 permalink: "umit-kaftancioglu-oyku-yarismasi-2026"
+archived_to: "/umit-kaftancioglu-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/ekim/umit-kaftancioglu-oyku-yarismasi.jpg"
 excerpt: "Ümit Kaftancıoğlu Öykü Yarışması son başvuru tarihi 31 Aralık 2025'tır"
 ---

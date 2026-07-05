@@ -11,6 +11,7 @@ organizer: "İlkadım Belediyesi"
 requirements: "18 yaş ve üzeri, T.C. vatandaşı olan herkes katılabilir."
 price: "30 Bin TL'dir"
 permalink: "cemal-safi-siir-yarismasi-2024"
+archived_to: "/cemal-safi-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/kasim/cemal-safi-siir-yarismasi-2024.jpg"
 excerpt:  "İlkadım Belediyesi <strong> 5. Cemal Safi Şiir Yarışması </strong> düzenliyor."
 ---

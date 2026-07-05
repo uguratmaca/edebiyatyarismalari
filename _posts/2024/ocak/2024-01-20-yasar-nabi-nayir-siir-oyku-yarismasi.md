@@ -11,6 +11,7 @@ attendance: "E-Posta"
 organizer: "Varlık Yayınları"
 requirements: "30 yaş ve altındaki kişiler katılabilir."
 permalink: "yasar-nabi-nayir-siir-oyku-yarismasi"
+archived_to: "/yasar-nabi-nayir-odulleri"
 image: "https://edebiyatyarismalari.com/images/2024/ocak/yasar-nabi-nayir-siir-oyku-yarismasi.jpg"
 excerpt:  "Varlık Yayınları <strong> 2024 Yaşar Nabi Nayır Gençlik Ödülleri </strong> düzenliyor."
 ---

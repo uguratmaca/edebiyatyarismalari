@@ -12,6 +12,7 @@ organizer: "İnebolu Kültür ve Sanat Derneği"
 requirements: "İsteyen herkes katılabilir."
 price: "Kitap Seti + Plaket"
 permalink: "oguz-atay-oyku-yarismasi-2024"
+archived_to: "/oguz-atay-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2024/subat/oguz-atay-oyku-yarismasi-2024.jpg"
 excerpt:  "İnebolu Kültür ve Sanat Derneği <strong> 4. Oğuz Atay Öykü Ödülü </strong> düzenliyor."
 ---

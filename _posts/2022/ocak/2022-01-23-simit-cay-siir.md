@@ -12,6 +12,7 @@ attendance: "E-Posta"
 organizer: "Simit Çay Kültür, Edebiyat, Teknoloji"
 requirements: "İsteyen herkes katılabilir"
 permalink: "8-simit-cay-siir-yarismasi"
+archived_to: "/simit-cay-etkinlikleri-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/ocak/simit-cay-siir-yarismasi.jpg"
 excerpt: "Simit Çay Kültür, Edebiyat, Teknoloji <strong>8. Simit Çay Edebiyat Etkinlikleri Ödüllü Şiir Yarışması</strong> düzenliyor."
 ---

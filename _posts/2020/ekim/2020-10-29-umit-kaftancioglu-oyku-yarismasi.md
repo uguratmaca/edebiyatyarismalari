@@ -10,6 +10,7 @@ attendance: "Posta-Kargo"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
 permalink: "umit-kaftancioglu-oyku-yarismasi-2021"
+archived_to: "/umit-kaftancioglu-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/umit-kaftancioglu-oyku-yarismasi.jpg"
 excerpt: "Her yıl düzenlenen Ümit Kaftancıoğlu Öykü Yarışmasının bu sene son başvuru tarihi Aralık 2020."
 ---

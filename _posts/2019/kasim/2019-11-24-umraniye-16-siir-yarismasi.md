@@ -12,6 +12,7 @@ comTopic: "Serbest"
 price: "20 Bin TL'dir"
 requirements: "Yaş sınırı olmadan isteyen herkes katılabilir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/16-umraniye-siir-yarismasi.jpg?alt=media&token=e1304606-cb1d-46a8-a891-2a9ca10dae47"
+archived_to: "/umraniye-belediyesi-siir-yarismasi"
 ---
 
 Yarışmaya Seçici Kurul Üyeleri ve geçmiş yıllarda Ümraniye Belediyesinin düzenlediği **şiir yarışma**larında 1.lik ödülü alan kişiler katılamazlar.

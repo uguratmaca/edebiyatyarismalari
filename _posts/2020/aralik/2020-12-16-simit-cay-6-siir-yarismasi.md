@@ -11,6 +11,7 @@ price: "750 TL'dir"
 comTopic: "İnsan"
 requirements: "İsteyen herkes katılabilir"
 permalink: "simit-cay-6-siir-yarismasi"
+archived_to: "/simit-cay-etkinlikleri-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/aralik/simit-cay-6-siir-yarismasi.jpg"
 excerpt: "Simit Çay Edebiyat Etkinlikleri tarafından şiir meraklılarını yazmaya özendirmek amacıyla 6.sı düzenlenen “insan” konulu 2021 Şiir Yarışması başlıyor. Yarışmada “insan”ı temel alan tüm konular ele alınacaktır. Şiirlerin başlıklarında “insan” kelimesinin geçmesi zorunlu değildir. Önemli olan şiirin içerisinde insan temasının işlenmesidir."
 ---

@@ -9,6 +9,7 @@ lastDate: 1576789200
 dateHuman: "20 Aralık 2019"
 comTopic: "Serbest"
 attendance: "Posta" 
+archived_to: "/umit-kaftancioglu-oyku-yarismasi"
 ---
 
 Gazeteci Yazar Ümit Kaftancıoğlu adına bu yıl 16. düzenlenen öykü yarışmasına başvurular 20/08/2019-20/12/2019 tarihleri arasında yapılacaktır. 

@@ -14,6 +14,7 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "umraniye-18-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/mart/18-umraniye-belediyesi-siir-yarismasi.jpeg"
 excerpt: "Ümraniye Belediyesi Geleneksel konusu serbest olan <strong>Ümraniye Belediyesi Geleneksel 18. Şiir Yarışması</strong>'nı duyurdu."
+archived_to: "/umraniye-belediyesi-siir-yarismasi"
 ---
 
 ## Ümraniye Belediyesi Geleneksel 18. Şiir Yarışması

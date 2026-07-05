@@ -13,6 +13,7 @@ requirements: "Yarışma herkese açıktır."
 permalink: "umraniye-belediyesi-17-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/subat/umraniye-belediyesi-17-siir-yarismasi.jpg"
 excerpt: "Ümraniye Belediyesi her sene düzenlediği yarışmalara devam ediyor. Ümraniye Belediyesi 17. Şiir yarışmasının detaylarına ulaşabilirsiniz."
+archived_to: "/umraniye-belediyesi-siir-yarismasi"
 ---
 
 ## Ümraniye Belediyesi 17. Geleneksel Şiir Yarışması

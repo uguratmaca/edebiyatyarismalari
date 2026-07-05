@@ -13,6 +13,7 @@ requirements: "Resmi/özel tüm lise kurumlarındaki öğrenciler ve yetişkinle
 permalink: "33-omer-seyfettin-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/33-omer-seyfettin-hikaye-yarismasi.jpg"
 excerpt: "Gönen Belediyesi 33. <strong>Ömer Seyfettin Hikaye Yarışması</strong> başvurularını duyurdu."
+archived_to: "/omer-seyfettin-hikaye-yarismasi"
 ---
 
 ## 33. Ömer Seyfettin Hikaye Yarışması

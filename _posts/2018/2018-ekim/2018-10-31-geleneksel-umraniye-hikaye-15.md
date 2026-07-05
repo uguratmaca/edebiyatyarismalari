@@ -5,6 +5,7 @@ description: "Ümraniye Belediyesi 15. Geleneksel Hikaye Yarışması"
 category: articles
 tags: []
 comments: true
+archived_to: "/umraniye-belediyesi-hikaye-yarismasi"
 ---
 
 Son Başvuru Tarihi: 11 Ocak 2019. Toplam para ödülü 25 Bin TL. 

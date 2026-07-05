@@ -13,6 +13,7 @@ requirements: "Lise öğrencileri ve yetişkinler katılabilir"
 permalink: "32-omer-seyfettin-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/kasim/32-omer-seyfettin-hikaye-yarismasi.jpg"
 excerpt: "Gönen Belediyesi her yıl tertiplediği Ömer Seyfettin Hikaye Yarışmasının bu sene 32.sini düzenliyor."
+archived_to: "/omer-seyfettin-hikaye-yarismasi"
 ---
 
 ## 32. Ömer Seyfettin Hikaye Yarışması

@@ -13,6 +13,7 @@ price: "30 Bin 500 TL'dir"
 permalink: "omer-seyfettin-hikaye-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2023/kasim/omer-seyfettin-hikaye-yarismasi-2024.jpg"
 excerpt:  "Gönen Belediyesi <strong> 35. Ömer Seyfettin Hikaye Yarışması </strong> düzenliyor."
+archived_to: "/omer-seyfettin-hikaye-yarismasi"
 ---
 
 ## 35. Ömer Seyfettin Hikaye Yarışması

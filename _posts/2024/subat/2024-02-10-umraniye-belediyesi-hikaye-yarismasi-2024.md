@@ -14,6 +14,7 @@ price: "127 Bin TL'dir."
 permalink: "umraniye-belediyesi-hikaye-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/subat/umraniye-belediyesi-hikaye-yarismasi-2024.jpg"
 excerpt:  "Ümraniye Belediyesi <strong> 20. Geleneksel Hikaye Yarışması </strong> düzenliyor."
+archived_to: "/umraniye-belediyesi-hikaye-yarismasi"
 ---
 
 ## 20. Geleneksel Hikaye Yarışması

@@ -11,6 +11,7 @@ attendance: "E-Posta"
 organizer: "İnebolu Kültür ve Sanat Derneği"
 requirements: "İsteyen herkes katılabilir."
 permalink: "oguz-atay-oyku-yarismasi"
+archived_to: "/oguz-atay-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2023/mart/oguz-atay-oyku-yarismasi.jpg"
 excerpt:  "İnebolu Kültür ve Sanat Derneği <strong> 3. Oğuz Atay Öykü Ödülü </strong> düzenliyor."
 ---

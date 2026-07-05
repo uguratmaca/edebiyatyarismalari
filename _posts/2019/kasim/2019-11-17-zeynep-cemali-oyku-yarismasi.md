@@ -10,6 +10,7 @@ dateHuman: "22 Haziran 2020"
 comTopic: "Özgürlük, “Tekerleklerin üstünde yelle yarışıyordu.” Zeynep Cemali’nin Patenli Kız kitabından."
 attendance: "E-Posta"
 requirements: "2019 - 2020 öğretim yılında tüm okulların 6, 7 ve 8. sınıflarında okuyan öğrenciler katılabilir."  
+archived_to: "/zeynep-cemali-oyku-yarismasi"
 ---
 
 1. Yarışmaya Türkiye genelinde, 2019 - 2020 öğretim yılında tüm okulların 6, 7 ve 8. sınıflarında okuyan öğrenciler katılabilir.

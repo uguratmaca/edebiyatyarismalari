@@ -12,6 +12,7 @@ comTopic: "Serbest"
 organizer: "İlkadım Belediyesi"
 requirements: "18 yaş ve üzeri herkes katılabilir"
 permalink: "6-cemal-safi-siir-yarismasi"
+archived_to: "/cemal-safi-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/mart/6_cemal_safi_siir_yarismasi.jpeg"
 excerpt:  "İlkadım Belediyesi 6. Geleneksel Cemal Safi Şiir Yarışması'nı duyurdu"
 ---

@@ -12,6 +12,7 @@ organizer: "Sarıyer Belediyesi"
 requirements: "Ortaokul, lise, yetişkin kategorilerindeki herkes katılabilir."
 price: "61 Bin TL'dir."
 permalink: "fakir-baykurt-oyku-yarismasi-2024"
+archived_to: "/fakir-baykurt-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/kasim/fakir-baykurt-oyku-yarismasi-2024.jpg"
 excerpt:  "Sarıyer Belediyesi <strong> Fakir Baykurt Öykü Yarışması 2024 </strong> düzenliyor."
 ---

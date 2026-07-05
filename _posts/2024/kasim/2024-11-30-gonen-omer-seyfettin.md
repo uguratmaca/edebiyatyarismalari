@@ -14,6 +14,7 @@ permalink: "36-omer-seyfettin-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/kasim/omer-seyfettin-hikaye-yarismasi.webp"
 organizer: "Gönen Belediyesi"
 excerpt: "Gönen Belediyesi 36. Ömer Seyfettin Hikaye Yarışmasına resmi/özel tüm lise kurumlarındaki öğrenciler katılabilir"
+archived_to: "/omer-seyfettin-hikaye-yarismasi"
 ---
 
 ## Gönen Belediyesi 36. Ömer Seyfettin Hikaye Yarışması

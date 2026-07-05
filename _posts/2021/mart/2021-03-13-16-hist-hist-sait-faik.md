@@ -11,6 +11,7 @@ comTopic: "Serbest"
 attendance: "Websitesi"
 requirements: "Tüm lise öğrencileri katılabilir"
 permalink: "16-hist-hist-oyku-yarismasi"
+archived_to: "/sait-faik-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/mart/16-hist-hist-sait-faik-oyku-yarismasi.jpg"
 excerpt: "Özel Darüşşafaka Lisesi 16. Hişt Hişt, Genç Sait Faik Öykü Yarışması düzenliyor."
 ---

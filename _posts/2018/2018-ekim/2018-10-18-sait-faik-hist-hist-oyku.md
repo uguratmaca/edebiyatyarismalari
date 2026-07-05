@@ -5,6 +5,7 @@ description: "Hişt Hişt Genç Sait Faik Öykü Yarışması 2019"
 category: articles
 tags: []
 comments: true
+archived_to: "/sait-faik-oyku-yarismasi"
 ---
 
 Son Başvuru Tarihi: 8 Şubat 2019. Toplam para ödülü 3500 TL

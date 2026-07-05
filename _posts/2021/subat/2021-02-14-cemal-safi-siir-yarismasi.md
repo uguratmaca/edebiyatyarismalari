@@ -11,6 +11,7 @@ comTopic: "Aşk"
 price: "19 Bin 500 TL'dir"
 requirements: "Yarışmaya 18 yaş ve üzeri herkes katılabilir."
 permalink: "cemal-safi-siir-yarismasi-2021"
+archived_to: "/cemal-safi-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/subat/cemal-safi-siir-yarismasi.jpg"
 excerpt: "İlkadım Belediyesi 2021 Cemal Safi Şiir Yarışmasını duyurdu."
 ---
