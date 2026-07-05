@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Everest Yayınları İlk Roman Yarışması 2020"
+archived_to: "/everest-yayinlari-ilk-roman-yarismasi"
 description: "Everest Yayınları, İlk Roman Yarışması 2020, edebiyat yarışmaları"
 category: articles
 tags: [haziran 2020, genel, roman yarışması]

@@ -1,30 +1,50 @@
 ---
 layout: post
 title: "Everest Yayınları İlk Roman Yarışması"
-description: "Everest Yayınları 'Everest Yayınları İlk Roman Yarışması' düzenliyor."
+description: "Everest Yayınları'nın herkese açık İlk Roman Yarışması'nda kazanan eser kitap olarak basılıyor. Son başvuru: 31 Temmuz 2026."
+date: 2026-06-17
+author: "Ümit Atmaca"
 category: articles
-tags: [temmuz 2022, roman yarışması, genel]
-lastDate: 1657832400
-dateHuman: "15 Temmuz 2022"
-attendance: "E-posta"
+tags: [temmuz 2026, roman yarışması, kitap dosyası, genel]
+lastDate: 1785445200
+price: "Kitap Basımı"
+dateHuman: "31 Temmuz 2026"
+attendance: "E-Posta"
+comTopic: "Serbest"
 organizer: "Everest Yayınları"
-requirements: "Daha önce “romanı” yayımlanmamış yazarlar ve yazar adayları ilk romanlarıyla katılabilir. Yarışmada yaş sınırı yoktur."
+requirements: "Herkese açık"
 permalink: "everest-yayinlari-ilk-roman-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/mayis/everest-yayinlari-ilk-roman-yarismasi.jpg"
-excerpt:  "Everest Yayınları <strong> Everest Yayınları İlk Roman Yarışması </strong> düzenliyor."
+image: "https://edebiyatyarismalari.com/images/2026/haziran/everest-yayinlari-ilk-roman-yarismasi-2026.jpg"
+excerpt: "Everest Yayınları'nın herkese açık İlk Roman Yarışması'nda kazanan eser kitap olarak basılıyor. Son başvuru: 31 Temmuz 2026."
 ---
 
 ## Everest Yayınları İlk Roman Yarışması
-Everest Yayınları **Everest Yayınları İlk Roman Yarışması** düzenliyor.
 
-Katılım Koşulları:
-- Daha önce “romanı” yayımlanmamış yazarlar ve yazar adayları ilk romanlarıyla katılabilir. Yarışmada yaş sınırı yoktur.
-- Roman dosyaları, **ilkroman@everestyayinlari.com** adresine e-mail olarak gönderilebilir. Dosyaya katılımcının özgeçmişinin, posta adresi ve telefon numarasının da eklenmesi gerekmektedir.
+- Yarışmaya daha önce “romanı” yayımlanmamış yazarlar ve yazar adayları ilk romanlarıyla katılabilir.
+- Yarışmada yaş sınırı yoktur.
+- Roman dosyaları, **ilkroman@everestyayinlari.com** adresine e-mail olarak gönderilebilir.
+- Dosyaya katılımcının özgeçmişinin, posta adresinin ve telefon numarasının da eklenmesi gerekmektedir.
 - Yarışmacılar, yarışmaya tek bir eserle katılabilirler.
-- Ödülü alan roman dosyası Ocak 2023’te Everest Yayınları’nca kitap olarak yayımlanacaktır.
-- Yarışmayı kazanan yazar, eserin editöryal bir süreç sonunda yayımlanacağını, bu süreç içinde tavsiye edilecek değişiklikler konusunda karşılıklı anlaşma sağlanamaması durumunda, eserin yayımlanmayabileceğini kabul eder.
-- Yarışmada birinci olan romanın 5 yıllık telif hakkı yayınevine ait olacaktır. 
+- Yarışmaya son katılım tarihi 31 Temmuz 2026 Cuma günüdür.
+- Yarışmayı kazanan kişi 7 Aralık 2026, Pazartesi günü açıklanacaktır.
+- Yarışmayı kazanan yazarın eseri editoryal süreçlerin tamamlanmasının ardından Everest Yayınları tarafından yayımlanacaktır.
 
+### Everest Yayınları İlk Roman Yarışması Jüri Üyeleri
 
-### Everest Yayınları İlk Roman Yarışması Ödülleri
-- Ödülü alan roman dosyası Ocak 2023’te Everest Yayınları’nca kitap olarak yayımlanacaktır.
+- Bahriye Çeri
+- Cemil Kavukçu
+- Çimen Günay Erkol
+- Gülhan Davarcı
+- Sibel Oral Özyaşar
+
+### Geçmiş Yıllar
+
+Everest Yayınları İlk Roman Yarışması'nın önceki dönemlerine ve sonuçlarına aşağıdan ulaşabilirsiniz:
+
+- [2025 yılı yarışması](/everest-ilk-roman-yarismasi-2025)
+- [2024 yılı yarışması](/everest-ilk-roman-yarismasi-2024)
+- [2023 yılı sonuçları](/everest-yayinlari-ilk-roman-yarismasi-sonuc)
+- [2023 yılı yarışması](/everest-yayinlari-roman-yarismasi)
+- [2021 yılı yarışması](/everest-ilk-roman-yarismasi-2021)
+- [2020 yılı yarışması](/articles/2020/03/15/everest-yayinlari-ilk-roman-yarismasi.html)
+- [2019 yılı yarışması](/articles/2019/03/28/everest-roman-yarismasi.html)

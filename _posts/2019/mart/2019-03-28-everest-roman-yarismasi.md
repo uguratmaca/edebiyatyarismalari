@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Everest Yayınları İlk Roman Yarışması"
+archived_to: "/everest-yayinlari-ilk-roman-yarismasi"
 description: "Everest Yayınlarının İlk Romanını yazanlar arasında düzenlediği edebiyat yarışmasıdır."
 category: articles
 tags: [haziran 2019, roman yarışması, genel]

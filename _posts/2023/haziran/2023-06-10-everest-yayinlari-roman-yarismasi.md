@@ -10,6 +10,7 @@ attendance: "E-Posta"
 organizer: "Everest Yayınları"
 requirements: "İsteyen herkes katılabilir."
 permalink: "everest-yayinlari-roman-yarismasi"
+archived_to: "/everest-yayinlari-ilk-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/haziran/everest-yayinlari-roman-yarismasi.jpg"
 excerpt:  "Everest Yayınları <strong> roman yarışması </strong> düzenliyor."
 ---

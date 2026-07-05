@@ -17,6 +17,13 @@ layout: default
   </p>
   <hr />
 
+  {% if page.archived_to %}
+  <section class="alert alert-info">
+    📌 Bu, geçmiş bir yarışma dönemine ait arşiv sayfasıdır. Güncel bilgiler için:
+    <a href="{{ site.url }}{{ page.archived_to }}">buraya tıklayın</a>.
+  </section>
+  {% endif %}
+
   {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
   {% assign nowDateInt = nowunix | plus: 0 %}
 

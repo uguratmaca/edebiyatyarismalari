@@ -11,6 +11,7 @@ comTopic: "Serbest"
 organizer: "Everest Yayınları"
 requirements: "Yarışmada yaş sınırı yoktur."
 permalink: "everest-ilk-roman-yarismasi-2025"
+archived_to: "/everest-yayinlari-ilk-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/temmuz/everest-ilk-roman-yarismasi.jpg"
 excerpt: "Everest Yayınları’nın 2006 yılından beri düzenlediği İlk Roman Yarışması’nın bu yılki başvuruları başladı"
 ---

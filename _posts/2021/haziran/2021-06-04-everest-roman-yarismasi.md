@@ -11,6 +11,7 @@ comTopic: "Serbest"
 attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"
 permalink: "everest-ilk-roman-yarismasi-2021"
+archived_to: "/everest-yayinlari-ilk-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/everest-yayinlari-ilk-roman-yarismasi.jfif"
 excerpt: "Everest Yayınları 2021 tarafından düzenlenen İlk Roman Yarışması'na başvurular başladı."
 ---
