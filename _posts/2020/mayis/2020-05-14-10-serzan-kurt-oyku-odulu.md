@@ -10,6 +10,7 @@ attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir."
 permalink: "10-serzan-kurt-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/mayis/10-serzan-kurt-oyku-odulu.jpg"
+archived_to: "/serzan-kurt-oyku-yarismasi"
 ---
 
 BATMAN - Muğla'da Kürt öğrencilere yapılan saldırı sırasında polis kurşunuyla yaşamını yitiren Şerzan Kurt adına düzenlenen öykü yarışmasının onuncusu için başvurular başladı.  

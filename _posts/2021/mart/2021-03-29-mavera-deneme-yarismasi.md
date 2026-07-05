@@ -13,6 +13,7 @@ permalink: "mavera-odulleri-2021"
 requirements: "Deneme yarışmasına yurt içi ve yurt dışında yaşayan ön lisans, lisans ve yüksek lisans düzeyinde eğitim alan 29 yaş altı öğrenciler katılabilir."
 image: "https://edebiyatyarismalari.com/images/2021/mart/mavera-deneme-yarismasi.jpg"
 excerpt: "Mavera Ödülleri 2021 Akif Emre Anısına İyilik, ‘Ben’de Başlar! Konulu Ödüllü Deneme Yarışması"
+archived_to: "/mavera-edebiyat-odulleri"
 ---
 
 ## Mavera Ödülleri 2021

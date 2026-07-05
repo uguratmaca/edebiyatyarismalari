@@ -11,6 +11,7 @@ price: "22 Bin 500 TL'dir"
 attendance: "Posta/Kargo"
 requirements: "Yarışma tüm yazarlara açıktır. Uyruğu ve öğrenim durumu ne olursa olsun 18 yaşın üzerinde olan ve şartname koşullarına uyan herkes katılabilir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/18-tudem-edebiyat-odulleri-roman-yarismasi.jpg?alt=media&token=b7f52b49-184d-4baf-ba18-a55064e653dd"
+archived_to: "/tudem-edebiyat-odulleri"
 ---
 
 2003 yılından bu yana çocuk ve gençlik edebiyatına çağdaş ve özgün eserler kazandırmak amacıyla gerçekleştirilen Tudem Edebiyat Ödülleri, 18. yılında çocuk edebiyatı alanında ve roman dalında verilecektir. Türkçe edebiyatın gelişmesine katkıda bulunmak amacıyla düzenlenen yarışma, eserlerini yayımlatma imkânı arayan yazarlara fırsat sunuyor. Yarışmada ödül alan eserlerin yayın grubumuzun çocuk edebiyatı alanında yayıncılık yapan Tudem tarafından yayıma hazırlanması planlanıyor.

@@ -12,6 +12,7 @@ organizer: "Eskişehir Sanat Derneği"
 price: "Yunus Emre Heykelciği ve Ödül Belgesi'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "14-yunus-emre-siir-yarismasi"
+archived_to: "/yunus-emre-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/agustos/14-yunus-emre-siir-yarismasi.jpg"
 excerpt:  "Eskişehir Sanat Derneği <strong> 14. Yunus Emre Şiir Yarışması </strong> düzenliyor."
 ---

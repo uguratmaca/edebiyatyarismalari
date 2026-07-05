@@ -14,6 +14,7 @@ price: "60 Bin TL'dir."
 permalink: "tudem-edebiyat-odulleri-2024"
 image: "https://edebiyatyarismalari.com/images/2024/subat/tudem-edebiyat-odulleri-2024.jpg"
 excerpt:  "Tudem Yayın Grubu <strong> 22. Tudem Edebiyat Ödülleri </strong> düzenliyor."
+archived_to: "/tudem-edebiyat-odulleri"
 ---
 
 ## 22. Tudem Edebiyat Ödülleri

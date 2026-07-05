@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "24. Tudem Romanla Tanışıyorum Edebiyat Ödülleri"
-description: "Tudem Yayın Grubu 24. Tudem Edebiyat Ödülleri'nin konseptini Romanla Tanışıyorum (Kısa Çocuk Romanı) olarak belirledi."
+title: "Tudem Edebiyat Ödülleri"
+description: "Tudem Yayın Grubu'nun 2003'ten bu yana düzenlediği Tudem Edebiyat Ödülleri'nin güncel (24.) dönem konusu: Romanla Tanışıyorum (Kısa Çocuk Romanı)."
+date: 2026-07-01
 category: articles
-tags: [kasım 2026, roman yarışması, genel]
+tags: [her yıl tekrarlanan, kasım 2026, roman yarışması, genel]
 lastDate: 1793487600
 dateHuman: "1 Kasım 2026"
 attendance: "Posta, Kargo"
@@ -11,12 +12,16 @@ comTopic: "Serbest"
 organizer: "Tudem Yayın Grubu"
 requirements: "18 yaş üzeri herkes katılabilir"
 price: "90 Bin TL'dir."
-permalink: "24-tudem-edebiyat-odulleri"
+permalink: "tudem-edebiyat-odulleri"
 image: "https://edebiyatyarismalari.com/images/2026/subat/24-tudem-edebiyat-odulleri.jpg"
-excerpt: "Tudem Yayın Grubu 24. Tudem Edebiyat Ödülleri'nin konseptini Romanla Tanışıyorum (Kısa Çocuk Romanı) olarak belirledi."
+excerpt: "Tudem Yayın Grubu'nun 2003'ten bu yana düzenlediği Tudem Edebiyat Ödülleri'nin güncel (24.) dönem konusu: Romanla Tanışıyorum (Kısa Çocuk Romanı)."
 ---
 
-## 24. Tudem Romanla Tanışıyorum Edebiyat Ödülleri
+## Tudem Edebiyat Ödülleri
+
+Tudem Yayın Grubu, 2003 yılından bu yana çocuk ve gençlik edebiyatına çağdaş ve özgün eserler kazandırmak amacıyla Tudem Edebiyat Ödülleri'ni düzenliyor. Yarışmanın teması ve kategorisi neredeyse her yıl değişiyor (Roman Yarışması, Mizah Romanı Yarışması, Romanla Tanışıyorum gibi), ancak sıralı edisyon numaralarıyla (17'den 24'e) devam eden aynı yıllık program olma özelliğini koruyor. Güncel (24.) dönemin konusu **Romanla Tanışıyorum (Kısa Çocuk Romanı)**.
+
+### 24. Dönem: Tudem Romanla Tanışıyorum Edebiyat Ödülleri
 
 - Yarışma tüm yazarlara açıktır. Uyruğu ve öğrenim durumu ne olursa olsun 18 yaşın üzerinde olan ve şartname koşullarına uyan herkes katılabilir.
 - Yarışmaya Tudem Yayın Grubu çalışanları, seçici kurul üyeleri ve birinci dereceden yakınları katılamaz.
@@ -55,7 +60,7 @@ excerpt: "Tudem Yayın Grubu 24. Tudem Edebiyat Ödülleri'nin konseptini Romanl
 - Eser, 1 Kasım 2026 saat 17.00’ye kadar Tudem Eğitim Hizmetleri San. Tic. AŞ 1476/1 Sok. No:10/51 Alsancak-Konak/İZMİR adresine iadeli taahhütlü posta veya kargo ile gönderilecektir. Elden teslim kesinlikle kabul edilmeyecektir. Bu tarihten sonra gelecek eser değerlendirmeye alınmayacaktır. Kargo ve postadaki gecikmeler dikkate alınmayacaktır.
 - İnternet yoluyla yapılacak gönderiler kabul edilmeyecektir
 
-## 24. Tudem Romanla Tanışıyorum Edebiyat Ödülleri Seçici Kurulu
+### 24. Dönem Seçici Kurulu
 
 - Burcu Aktaş
 - Canan Aslan
@@ -63,10 +68,21 @@ excerpt: "Tudem Yayın Grubu 24. Tudem Edebiyat Ödülleri'nin konseptini Romanl
 - Mavisel Yener
 - Zeynep Alpaslan
 
-## 24. Tudem Romanla Tanışıyorum Edebiyat Ödülleri Para Ödülleri
+### 24. Dönem Para Ödülleri
 
 - BİRİNCİLİK ÖDÜLÜ 35.000 TL
 - İKİNCİLİK ÖDÜLÜ 30.000 TL
 - ÜÇÜNCÜLÜK ÖDÜLÜ 25.000 TL
 
 ### [Yarışma Başvuru formu](https://www.tudem.com/images/sartnameler/teo_2026_sartname.pdf?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"} 
+
+### Geçmiş Yıllar
+
+Tudem Edebiyat Ödülleri'nin önceki dönemlerine, o yılın kendi tema ve başlığıyla aşağıdan ulaşabilirsiniz:
+
+- [22. Tudem Edebiyat Ödülleri (2024)](/tudem-edebiyat-odulleri-2024)
+- [21. Tudem Edebiyat Ödülleri (2023, Mizah Romanı Yarışması)](/tudem-mizah-romani-yarismasi)
+- [20. Tudem Roman Yarışması (2022)](/tudem-roman-yarismasi)
+- [19. Tudem Edebiyat Ödülleri (2021)](/tudem-19-edebiyat-odulleri-2021)
+- [18. Tudem Edebiyat Ödülleri (2020)](/articles/2020/01/26/18-tudem-edebiyat-odulleri.html)
+- [17. Tudem Edebiyat Ödülleri (2019)](/articles/2019/04/30/tudem-edebiyat-odulleri.html)

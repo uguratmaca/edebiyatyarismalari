@@ -13,6 +13,7 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "11-serzan-kurt-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/11-serzan-kurt-oyku-odulu.jpg"
 excerpt: "Eğitim Sen Batman Şubesi, Şerzan Kurt anısına düzenlenen öykü yarışmasının 11’incisi için başvuruların alınmaya başlandığını duyurdu."
+archived_to: "/serzan-kurt-oyku-yarismasi"
 ---
 
 ## 11. Şerzan Kurt Öykü Yarışması

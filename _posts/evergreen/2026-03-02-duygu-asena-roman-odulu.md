@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Duygu Asena Roman Ödülü"
-description: "Doğan Kitap 50 Bin TL para ödüllü 2026 Duygu Asena Roman Ödülü'nü duyurdu"
+description: "Doğan Kitap'ın 50 Bin TL para ödüllü Duygu Asena Roman Ödülü'nde son başvuru tarihi: 3 Nisan 2026."
+date: 2026-03-02
 category: articles
-tags: [nisan 2026, roman yarışması, genel]
+tags: [her yıl tekrarlanan, nisan 2026, roman yarışması, genel]
 lastDate: 1775167200
 dateHuman: "3 Nisan 2026"
 comTopic: "Serbest"
@@ -11,9 +12,9 @@ attendance: "E-Posta"
 price: "50 Bin TL'dir"
 organizer: "Doğan Kitap"
 requirements: "Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir"
-permalink: "duygu-asena-roman-odulu-2026"
+permalink: "duygu-asena-roman-odulu"
 image: "https://edebiyatyarismalari.com/images/2026/mart/duygu-asena-roman-odulu.jpg"
-excerpt:  "Doğan Kitap 50 Bin TL para ödüllü 2026 Duygu Asena Roman Ödülü'nü duyurdu"
+excerpt: "Doğan Kitap'ın 50 Bin TL para ödüllü Duygu Asena Roman Ödülü'nde son başvuru tarihi: 3 Nisan 2026."
 ---
 
 ## Duygu Asena Roman Ödülü
@@ -51,3 +52,12 @@ excerpt:  "Doğan Kitap 50 Bin TL para ödüllü 2026 Duygu Asena Roman Ödülü
 - Sibel Irzık
 
 #### [Başvuru Formu](https://www.dogankitap.com.tr/files/sayfalar/dosya/duyguasena-yonetmelik-0.doc?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+
+### Geçmiş Yıllar
+
+Duygu Asena Roman Ödülü'nün önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2025 yılı yarışması](/duygu-asena-roman-odulu-2025)
+- [2024 yılı yarışması](/duygu-asena-roman-odulu-2024)
+- [2022 yılı yarışması](/duygu-asena-roman-odulu-2022)
+- [2020 yılı yarışması](/articles/2020/02/07/duygu-asena-roma-odulu.html)

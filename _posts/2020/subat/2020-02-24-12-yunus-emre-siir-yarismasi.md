@@ -5,6 +5,7 @@ description: "eskişehir sanat derneği 12. yunus emre şiir yarışması"
 category: articles
 tags: [mart 2020, genel, şiir yarışması, yunus emre]
 comments: true
+archived_to: "/yunus-emre-siir-yarismasi"
 lastDate: 1584219600    
 dateHuman: "15 Mart 2020"
 comTopic: "Serbest ve Yunus Emre"

@@ -15,6 +15,7 @@ requirements: "Uyruğu ve öğrenim durumu ne olursa olsun 18 yaşın üzerinde 
 permalink: "tudem-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/agustos/tudem-roman-yarismasi.jpg"
 excerpt:  "TUDEM Yayın Grubu <strong> 20. Tudem Roman Yarışması </strong> düzenliyor."
+archived_to: "/tudem-edebiyat-odulleri"
 ---
 
 ## 20. Tudem Roman Yarışması

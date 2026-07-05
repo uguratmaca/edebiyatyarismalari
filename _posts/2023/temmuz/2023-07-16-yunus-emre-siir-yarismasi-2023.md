@@ -12,6 +12,7 @@ attendance: "E-Posta"
 organizer: "Eskişehir Sanat Derneği"
 requirements: "Türkiye genelinden 18 yaş üzeri herkes katılabilir."
 permalink: "yunus-emre-siir-yarismasi-2023"
+archived_to: "/yunus-emre-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/temmuz/yunus-emre-siir-yarismasi-2023.jpg"
 excerpt:  "Eskişehir Sanat Derneği <strong> 15. Eskişehir Yunus Emre Şiir Yarışması </strong> düzenliyor."
 ---

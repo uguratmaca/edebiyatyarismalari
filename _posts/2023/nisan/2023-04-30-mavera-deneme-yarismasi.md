@@ -14,6 +14,7 @@ requirements: "27 yaşından küçük olanlar katılabilir."
 permalink: "mavera-deneme-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/nisan/mavera-deneme-yarismasi.jpg"
 excerpt:  "Mavera Eğitim ve Sağlık Vakfı <strong> Mavera Ödülleri 2023 </strong> düzenliyor."
+archived_to: "/mavera-edebiyat-odulleri"
 ---
 
 ## Mavera Ödülleri 2023

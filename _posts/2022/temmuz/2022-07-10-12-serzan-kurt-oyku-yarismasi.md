@@ -13,6 +13,7 @@ requirements: "İsteyen herkes katılabilir."
 permalink: "12-serzan-kurt-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/temmuz/12-serzan-kurt-oyku-yarismasi.jpg"
 excerpt:  "Eğitim Sen Batman Şubesi <strong> 12. Şerzan Kurt Öykü Yarışması </strong> düzenliyor."
+archived_to: "/serzan-kurt-oyku-yarismasi"
 ---
 
 ## 12. Şerzan Kurt Öykü Yarışması

@@ -11,6 +11,7 @@ comTopic: "Nurettin Topçu Anısına Fıtratın Çağrısı: İnsan, Aslına Dö
 attendance: "Websitesi"
 requirements: "Yurt içinde ve yurt dışında ön lisans ve lisans düzeyinde eğitim alan 30 yaş altı öğrenciler katılabilir."
 image: "https://edebiyatyarismalari.com/images/2020/subat/mavera-deneme-yarismasi.jpg"
+archived_to: "/mavera-edebiyat-odulleri"
 ---
 
 Mavera Eğitim ve Sağlık Vakfı; sahip olduğu ve vakıf senedinde yer verdiği değer ve tecrübelerin ‘genç nesil’ de aksülamel uyandırması amacıyla, çeşitli vesilelerle, her yıl organizasyonlar düzenlemektedir.

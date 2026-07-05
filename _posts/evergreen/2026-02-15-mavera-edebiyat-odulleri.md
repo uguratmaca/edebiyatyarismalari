@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Mavera Ödülleri 2026"
-description: "Mavera Eğitim ve Sağlık Vakfı: Şiir, Hikâye, Deneme türündeki Mavera Edebiyat Ödüllerini duyurdu."
+title: "Mavera Edebiyat Ödülleri"
+description: "Mavera Eğitim ve Sağlık Vakfı'nın Şiir, Hikâye ve Deneme kategorilerinde düzenlediği Mavera Edebiyat Ödülleri'nin güncel başvuru koşulları ve son teslim tarihi: 3 Nisan 2026."
+date: 2026-02-15
 category: articles
-tags: [nisan 2026, hikaye yarışması, deneme yarışması, şiir yarışması, üniversite]
+tags: [her yıl tekrarlanan, nisan 2026, hikaye yarışması, deneme yarışması, şiir yarışması, üniversite]
 lastDate: 1775167200
 dateHuman: "3 Nisan 2026"
 sticky: true
@@ -11,12 +12,14 @@ comTopic: "Yeryüzü Emanet İnsan Sorumlu!"
 attendance: "Websitesi"
 organizer: "Mavera Eğitim ve Sağlık Vakfı"
 requirements: "Yurt içi ve yurt dışında ön lisans ve lisans düzeyinde eğitim gören her öğrenci katılabilir"
-permalink: "mavera-edebiyat-odulleri-2026"
+permalink: "mavera-edebiyat-odulleri"
 image: "https://edebiyatyarismalari.com/images/2026/subat/mavera-edebiyat-odulleri.jpeg"
-excerpt:  "Mavera Eğitim ve Sağlık Vakfı: Şiir, Hikâye, Deneme türündeki Mavera Edebiyat Ödüllerini duyurdu."
+excerpt: "Mavera Eğitim ve Sağlık Vakfı'nın Şiir, Hikâye ve Deneme kategorilerinde düzenlediği Mavera Edebiyat Ödülleri'nin güncel başvuru koşulları ve son teslim tarihi: 3 Nisan 2026."
 ---
 
-## Mavera Ödülleri 2026
+## Mavera Edebiyat Ödülleri
+
+Mavera Eğitim ve Sağlık Vakfı'nın 2020'den bu yana düzenlediği yarışma, başlangıçta yalnızca "Deneme Yarışması" iken zamanla genişleyerek Şiir, Hikâye ve Deneme kategorilerini bir arada kapsayan **Mavera Edebiyat Ödülleri**'ne dönüştü.
 
 - Eserlerde “Yeryüzü Emanet İnsan Sorumlu” konusu işlenecektir.
 - Eserlere koyulan başlıklar yarışma konusuyla aynı olmamalıdır. 
@@ -143,3 +146,14 @@ excerpt:  "Mavera Eğitim ve Sağlık Vakfı: Şiir, Hikâye, Deneme türündeki
 - İbrahim Mert KAYADİBİ – Mavera Eğitim ve Sağlık Vakfı Kurumsal İletişim Asistanı
 
 ### [Yarışma Başvuru formu](https://basvuru.maveraodulleri.com/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"} 
+
+### Geçmiş Yıllar
+
+Mavera Ödülleri'nin önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2025 yılı yarışması](/mavera-odulleri-2025)
+- [2024 yılı yarışması](/mavera-odulleri-2024)
+- [2023 yılı yarışması](/mavera-deneme-yarismasi)
+- [2022 yılı yarışması](/mavera-odulleri-2022)
+- [2021 yılı yarışması](/mavera-odulleri-2021)
+- [2020 yılı yarışması](/articles/2020/02/13/mavera-deneme-yarismasi.html)

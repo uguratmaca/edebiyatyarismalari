@@ -12,6 +12,7 @@ price: "10.000 TL'dir"
 organizer: "Doğan Kitap"
 requirements: "İsteyen herkes katılabilir"
 permalink: "duygu-asena-roman-odulu-2022"
+archived_to: "/duygu-asena-roman-odulu"
 image: "https://edebiyatyarismalari.com/images/2022/subat/duygu-asena-roman-odulu.jpg"
 excerpt: "Doğan Kitap Kadının Hâlâ Adı Yok temasıyla <strong>2022 Duygu Asena Roman Ödülü</strong> başvurularını duyurdu."
 ---

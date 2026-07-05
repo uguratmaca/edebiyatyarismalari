@@ -9,6 +9,7 @@ lastDate: 1572555600
 dateHuman: "1 Kasım 2019"
 price: "45 Bin TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/tudem-edebiyat-roman-resimli-kitap-yarismasi-2019.jpg?alt=media&token=29d6548e-5d0f-4d67-85b1-0dc6f32f7af2"
+archived_to: "/tudem-edebiyat-odulleri"
 ---
 
 17. Tudem Edebiyat Ödülleri için başvurular başladı!

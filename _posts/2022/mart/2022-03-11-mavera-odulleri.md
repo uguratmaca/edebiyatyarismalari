@@ -13,6 +13,7 @@ requirements: "Deneme yarışmasına yurt içi ve yurt dışında yaşayan ön l
 permalink: "mavera-odulleri-2022"
 image: "https://edebiyatyarismalari.com/images/2022/mart/mavera-odulleri.jpg"
 excerpt: "Mavera Eğitim ve Sağlık Vakfı Malcolm X anısına Dünya Yeniden Kurgulanırken: Sözümüz Var! konulu <strong>Mavera Ödülleri 2022 Deneme Yarışması</strong> düzenliyor."
+archived_to: "/mavera-edebiyat-odulleri"
 ---
 
 ## Mavera Ödülleri 2022

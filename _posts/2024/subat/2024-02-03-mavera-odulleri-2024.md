@@ -15,6 +15,7 @@ requirements: "Yurt içi ve yurt dışında ön lisans ve lisans düzeyinde eği
 permalink: "mavera-odulleri-2024"
 image: "https://edebiyatyarismalari.com/images/2024/subat/mavera-odulleri-2024.jpg"
 excerpt:  "Mavera Eğitim ve Sağlık Vakfı <strong> Mavera Ödülleri 2024 </strong> düzenliyor."
+archived_to: "/mavera-edebiyat-odulleri"
 ---
 
 ## Mavera Ödülleri 2024

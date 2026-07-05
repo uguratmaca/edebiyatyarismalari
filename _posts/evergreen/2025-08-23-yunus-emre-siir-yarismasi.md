@@ -1,21 +1,22 @@
 ---
 layout: post
-title: "17.Yunus Emre Şiir Yarışması"
-description: "Eskişehir Sanat Derneği 17.Yunus Emre Şiir Yarışması'nı duyurdu."
+title: "Yunus Emre Şiir Yarışması"
+description: "Eskişehir Sanat Derneği Yunus Emre Şiir Yarışması'nı duyurdu."
+date: 2025-08-23
 category: articles
-tags: [eylül 2025, şiir yarışması, yunus emre, genel]
+tags: [her yıl tekrarlanan, eylül 2025, şiir yarışması, yunus emre, genel]
 lastDate: 1757887200
 dateHuman: "15 Eylül 2025"
 attendance: "E-Posta"
 comTopic: "Serbest"
 organizer: "Eskişehir Sanat Derneği"
 requirements: "İsteyen herkes katılabilir"
-permalink: "17-yunus-emre-siir-yarismasi"
+permalink: "yunus-emre-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/agustos/eskisehir-yunus-emre-siir-yarismasi.jpg"
-excerpt: "Eskişehir Sanat Derneği 17.Yunus Emre Şiir Yarışması'nı duyurdu."
+excerpt: "Eskişehir Sanat Derneği Yunus Emre Şiir Yarışması'nı duyurdu."
 ---
 
-## 17.Yunus Emre Şiir Yarışması
+## Yunus Emre Şiir Yarışması
 
 Eskişehir Sanat Derneği, şiirimizin büyük şairi Yunus Emre’mize şiir etkinliği düzenleyerek anma ve tanıtmayı hedefleyerek 2004 yılında başlattığı ve geleneksel olarak her yıl sürdürdüğü Yunus Emre Şiir Yarışması düzenlemektedir.
 
@@ -33,3 +34,13 @@ Eskişehir Sanat Derneği, şiirimizin büyük şairi Yunus Emre’mize şiir et
 12. Telif ve Kullanma Hakkı ile ilgili Sözleşme, Eskişehir Sanat Derneği’nin www.eskisehirsanatdernegi.org sitesinde “Duyurular” Bölününde bulunmaktadır.
 13. Adres: **Eskişehir Sanat Derneği Dede Mah. İmamzade Sokak No:11 Odunpazarı-ESKİŞEHİR**
 14. Bilgi için: **esk.sanatdernegi@gmail.com**
+
+### Geçmiş Yıllar
+
+Yunus Emre Şiir Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [15. Eskişehir Yunus Emre Şiir Yarışması](/yunus-emre-siir-yarismasi-2023)
+- [14. Yunus Emre Şiir Yarışması](/14-yunus-emre-siir-yarismasi)
+- [13. Yunus Emre Şiir Yarışması](/yunus-emre-siir-yarismasi-13)
+- [12. Yunus Emre Şiir Yarışması](/articles/2020/02/24/12-yunus-emre-siir-yarismasi.html)
+- [11. Yunus Emre Şiir Yarışması](/articles/2019/09/03/11-yunus-emre-siir-yarismasi.html)

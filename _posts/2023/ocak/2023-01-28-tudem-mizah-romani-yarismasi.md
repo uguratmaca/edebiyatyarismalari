@@ -14,6 +14,7 @@ price: "45 Bin TL'dir"
 permalink: "tudem-mizah-romani-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/ocak/tudem-mizah-romani-yarismasi.jpg"
 excerpt:  "Tudem Yayın Grubu <strong> 21. Tudem Edebiyat Ödülleri </strong> düzenliyor."
+archived_to: "/tudem-edebiyat-odulleri"
 ---
 
 ## 21. Tudem Edebiyat Ödülleri

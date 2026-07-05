@@ -13,6 +13,7 @@ requirements: "18 yaş üzeri herkes katılabilir"
 permalink: "tudem-19-edebiyat-odulleri-2021"
 image: "https://edebiyatyarismalari.com/images/2021/subat/19-tudem-edebiyat-odulleri-resimli-kitap-yarismasi.jpg"
 excerpt: "2003 yılından bu yana çocuk ve gençlik edebiyatımıza çağdaş ve özgün eserler kazandırmak amacıyla gerçekleştirilen Tudem Edebiyat Ödülleri, 19. yılında çocuk edebiyatı alanında resimli kitap dalında verilecek."
+archived_to: "/tudem-edebiyat-odulleri"
 ---
 
 ## 19. Tudem Edebiyat Ödülleri Resimli Kitap Yarışması

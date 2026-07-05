@@ -5,6 +5,7 @@ description: "güncel şiir yarışması 2019, 2019 şiir yarışmaları"
 category: articles
 tags: [eylül 2019, şiir yarışması, yunus emre]
 comments: true
+archived_to: "/yunus-emre-siir-yarismasi"
 lastDate: 1568062800
 dateHuman: "10 Eylül 2019"
 ---

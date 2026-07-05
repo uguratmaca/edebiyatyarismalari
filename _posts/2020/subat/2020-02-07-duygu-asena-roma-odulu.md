@@ -5,6 +5,7 @@ description: "Doğan Kitap, Duygu Asena adına Roman Ödülü, roman yarışmas�
 category: articles
 tags: [şubat 2020, genel, roman yarışması]
 comments: true
+archived_to: "/duygu-asena-roman-odulu"
 lastDate: 1582837200
 dateHuman: "28 Şubat 2020"
 price: "10 Bin TL'dir"

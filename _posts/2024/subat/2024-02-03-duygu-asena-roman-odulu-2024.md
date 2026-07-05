@@ -12,6 +12,7 @@ organizer: "Doğan Kitap"
 requirements: "Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir."
 price: "20 Bin TL'dir."
 permalink: "duygu-asena-roman-odulu-2024"
+archived_to: "/duygu-asena-roman-odulu"
 image: "https://edebiyatyarismalari.com/images/2024/subat/duygu-asena-roman-odulu-2024.jpg"
 excerpt:  "Doğan Kitap <strong> Duygu Asena Roman Ödülü </strong> düzenliyor."
 ---
