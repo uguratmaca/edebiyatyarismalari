@@ -5,7 +5,7 @@ description: "Ülkemizde düzenlenen şiir yarışması, öykü yarışması, hi
 master_repo: false
 markdown: kramdown
 highlighter: rouge
-plugins: ['jekyll-gist', 'jekyll-feed', 'jekyll-sitemap']
+plugins: ['jekyll-gist', 'jekyll-feed', 'jekyll-sitemap', 'jekyll-last-modified-at']
 logo: logo.png
 twitter: https://twitter.com/yarismaedebiyat
 facebook: https://www.facebook.com/yarismaedebiyat

@@ -2,6 +2,8 @@
 layout: simple
 title: "Yaprak Dökümü Gibi Yüreğim | Şiir"
 description: "Yaprak dökümü gibi yüreğim ..."
+author: "Melek Kaya"
+authorUrl: "https://edebiyatyarismalari.com/melek-kaya/"
 tags: [şiir, melek kaya]
 comments: true
 permalink: "blog/yaprak-dokumu-gibi-yuregim"

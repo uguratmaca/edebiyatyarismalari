@@ -2,6 +2,8 @@
 layout: simple
 title: "Gilman ve Kadınlar Ülkesi | Kitap İnceleme"
 description: "Charlotte Perkins Gilman'ın feminist ütopya romanı Kadınlar Ülkesi üzerine, toplumsal cinsiyet rolleri ve kadın dayanışmasını konu alan bir inceleme."
+author: "Aylin Güçlü"
+authorUrl: "https://edebiyatyarismalari.com/aylin-guclu/"
 tags: [inceleme, aylin güçlü]
 comments: true
 permalink: "blog/gilman-ve-kadinlar-ulkesi"

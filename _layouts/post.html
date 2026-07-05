@@ -4,6 +4,17 @@ layout: default
 <article class="p-2">
 
   <h1>{{ page.title }}</h1>
+
+  {% assign article_author = page.author | default: "Uğur Atmaca" %}
+  {% assign published_str = page.date | date: "%Y-%m-%d" %}
+  {% assign modified_str = page.last_modified_at | date: "%Y-%m-%d" %}
+  <p class="text-muted">
+    ✍️ Yazar: <b>{{ article_author }}</b>
+    · 📅 Yayınlanma: <b>{{ page.date | date: "%d.%m.%Y" }}</b>
+    {% if modified_str != published_str %}
+    · 🔄 Son güncelleme: <b>{{ page.last_modified_at | date: "%d.%m.%Y" }}</b>
+    {% endif %}
+  </p>
   <hr />
 
   {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
@@ -85,10 +96,10 @@ layout: default
 
   <hr>
 
-  <script type="application/ld+json">
+<script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "NewsArticle",
+    "@type": "Article",
     "url": "{{site.url}}{{page.url}}",
     "publisher":{
     "@type":"Organization",
@@ -97,20 +108,20 @@ layout: default
     },
     "headline": {{ page.title | jsonify }},
     "mainEntityOfPage": "{{site.url}}{{page.url}}",
-    "image":["{{page.image}}"],
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{page.image}}",
+      "width": 1200,
+      "height": 630
+    },
     "datePublished":"{{ page.date | date_to_xmlschema }}",
+    "dateModified":"{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
     "articleBody": {{ page.excerpt | strip_html | normalize_whitespace | jsonify }},
     "author": {
       "@type": "Person",
-      "url": "https://edebiyatyarismalari.com/ugur-atmaca/",
-      "name": "Uğur Atmaca",
-      "givenName": "Uğur",
-      "familyName": "Atmaca",
-      "birthDate": "1987-01-06",
-      "birthPlace": {
-        "@type": "Place",
-        "address": "Polatli, Ankara, Turkey"
-      }
+      "name": {{ article_author | jsonify }}{% if page.authorUrl %},
+      "url": {{ page.authorUrl | jsonify }}{% elsif article_author == "Uğur Atmaca" %},
+      "url": "https://edebiyatyarismalari.com/ugur-atmaca/"{% endif %}
     }
   }
 </script>

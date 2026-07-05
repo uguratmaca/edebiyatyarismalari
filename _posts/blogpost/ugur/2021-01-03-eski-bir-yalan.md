@@ -2,6 +2,8 @@
 layout: simple
 title: "Eski Bir Yalan | Öykü"
 description: "Odasındaki ultraviyole ışınları geçirmeyen pencereden meraklı gözlerle güneşi seyrediyordu."
+author: "Uğur Atmaca"
+authorUrl: "https://edebiyatyarismalari.com/ugur-atmaca/"
 tags: [hikaye, uğur atmaca]
 comments: true
 permalink: "blog/eski-bir-yalan"

@@ -2,6 +2,7 @@
 layout: post
 title: "Tarık Dursun K. Öykü Yarışması"
 description: "TARIK DURSUN K. ANISINA DÜZENLENEN ÖYKÜ YARIŞMASINA ÇAĞRI"
+author: "Ümit Atmaca"
 category: articles
 tags: [temmuz 2026, hikaye yarışması, genel]
 lastDate: 1784667600

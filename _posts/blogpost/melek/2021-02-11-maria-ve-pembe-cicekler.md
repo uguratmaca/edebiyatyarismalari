@@ -2,6 +2,8 @@
 layout: simple
 title: "Maria ve Pembe Çiçekler | Şiir"
 description: "Maria giyinmiş, beyaz elbisesini ..."
+author: "Melek Kaya"
+authorUrl: "https://edebiyatyarismalari.com/melek-kaya/"
 tags: [şiir, melek kaya]
 comments: true
 permalink: "blog/maria-ve-pembe-cicekler"

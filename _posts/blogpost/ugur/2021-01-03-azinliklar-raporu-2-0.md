@@ -2,6 +2,8 @@
 layout: simple
 title: "Azınlıklar Raporu 2.0 | Öykü"
 description: "Senin suçun neydi?"
+author: "Uğur Atmaca"
+authorUrl: "https://edebiyatyarismalari.com/ugur-atmaca/"
 tags: [hikaye, uğur atmaca]
 comments: true
 permalink: "blog/azinliklar-raporu"

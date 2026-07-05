@@ -1,12 +1,17 @@
 <meta charset="utf-8">
-<title>{% if page.title %}{{ page.title }}{% else %}{{ site.description }}{% endif %}</title>
+{% capture page_title %}{% if page.title and page.title != site.title %}{{ page.title }} &#8211; {{ site.title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+<title>{{ page_title }}</title>
 <meta name="description"
     content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 {% if page.tags %}
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
 <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
-<meta property="og:title" content="{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}">
+{% if page.layout == 'post' %}
+<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+<meta property="article:modified_time" content="{{ page.last_modified_at | default: page.date | date_to_xmlschema }}">
+{% endif %}
+<meta property="og:title" content="{{ page_title }}">
 <meta property="og:description"
     content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
@@ -16,7 +21,7 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 
-<meta name="twitter:title" content="{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}">
+<meta name="twitter:title" content="{{ page_title }}">
 <meta name="twitter:description"
     content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta name="twitter:creator" content="@yarismaedebiyat">
@@ -26,7 +31,7 @@
 <meta name="twitter:image:height" content="630">
 
 <meta name="robots" content="index, follow">
-<meta name="author" content="Uğur Atmaca">
+<meta name="author" content="{% if page.author %}{{ page.author }}{% else %}Uğur Atmaca{% endif %}">
 <meta name="googlebot" content="index, follow" />
 <meta name="bingbot" content="index, follow" />
 <meta name="yandex-verification" content="46c611d16a76e7e2" />

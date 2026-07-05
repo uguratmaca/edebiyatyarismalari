@@ -2,6 +2,8 @@
 layout: simple
 title: "Görünmez Adam | Öykü"
 description: "Biliyor musunuz benim babam görünmez adam ..."
+author: "Uğur Atmaca"
+authorUrl: "https://edebiyatyarismalari.com/ugur-atmaca/"
 tags: [hikaye, uğur atmaca]
 permalink: "blog/gorunmez-adam"
 excerpt: "Biliyor musunuz benim babam görünmez adam ..."

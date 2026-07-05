@@ -2,6 +2,7 @@
 layout: post
 title: "3. İhsan Yılmazşamlı Öykü Yarışması"
 description: "Eğitim-Sen Bafra Temsilciliği'nin 18 yaş üzeri yazarlara yönelik düzenlediği yarışmada toplam ödül 20 bin TL. Son başvuru: 30 Nisan 2026."
+author: "Ümit Atmaca"
 category: articles
 tags: [nisan 2026, hikaye yarışması, genel]
 lastDate: 1777496400

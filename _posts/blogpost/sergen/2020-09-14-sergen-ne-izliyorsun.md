@@ -2,6 +2,7 @@
 layout: simple
 title: "Sergen Ne İzliyorsun | The Lighthouse İnceleme"
 description: "Robert Eggers'ın The Lighthouse filmi üzerine; mitoloji, Prometheus ve deniz kızı efsaneleri üzerinden atmosferik bir sinema incelemesi."
+author: "Sergen"
 tags: [inceleme]
 comments: true
 permalink: "blog/sergen-ne-izliyorsun"

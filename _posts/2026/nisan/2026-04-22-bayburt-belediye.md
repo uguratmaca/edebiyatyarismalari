@@ -2,6 +2,7 @@
 layout: post
 title: "Bayburt Belediyesi Türk Dünyası Dede Korkut Şiir Yarışması 2026"
 description: "BAYBURT BELEDİYESİ TÜRK DÜNYASI DEDE KORKUT ŞİİR YARIŞMASI - 2026"
+author: "Ümit Atmaca"
 category: articles
 tags: [mayıs 2026, şiir yarışması, dede korkut, genel]
 lastDate: 1780174800

@@ -2,6 +2,7 @@
 layout: post
 title: "Nikomedia Çocuk Edebiyatı Festivali 2026"
 description: "Nikomedia Çocuk Edebiyatı Festivali İkinci Kez Çocuklarla Buluşuyor"
+author: "Ümit Atmaca"
 category: articles
 tags: [mayıs 2026, öykü yarışması, genel]
 lastDate: 1780261200

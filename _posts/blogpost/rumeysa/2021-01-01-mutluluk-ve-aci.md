@@ -2,6 +2,8 @@
 layout: simple
 title: "Mutluluk ve Acı | Deneme"
 description: "Birçok şeyi arkamızda bırakıp gitmeliyiz belki de..."
+author: "Rümeysa Ateş"
+authorUrl: "https://edebiyatyarismalari.com/rumeysa-ates/"
 tags: [deneme, rümeysa ateş]
 comments: true
 permalink: "blog/mutluluk-ve-aci"
