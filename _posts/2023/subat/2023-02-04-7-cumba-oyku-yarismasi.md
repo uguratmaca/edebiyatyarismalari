@@ -2,6 +2,7 @@
 layout: post
 title: "VII. Cumba Öykü Yarışması"
 description: "Cumba Kültür Sanat Platformu 'VII. Cumba Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, hikaye yarışması, genel]
 lastDate: 1682370000

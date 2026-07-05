@@ -2,6 +2,7 @@
 layout: post
 title: "Türkiye Aşkına 15 Temmuz Resim Şiir Kompozisyon Yarışması"
 description: "Bafra İlçe Milli Eğitim Müdürlüğü 'Türkiye Aşkına 15 Temmuz Resim Şiir Kompozisyon Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, şiir yarışması, kompozisyon yarışması, ilkokul, ortaokul, lise, 15 temmuz]
 lastDate: 1653598800

@@ -2,6 +2,7 @@
 layout: post
 title: "Filistin’de Yaşananlar Resim ve Şiir Yarışması"
 description: "Bursa Büyükşehir Belediyesi 'Filistin’de Yaşananlar Resim ve Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, resim yarışması, şiir yarışması, ortaokul, lise]
 lastDate: 1700600400

@@ -2,6 +2,7 @@
 layout: post
 title: "Adidas Tişört Tasarım Yarışması"
 description: "Adidas ve Mercado 'Adidas Tişört Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, tasarım yarışması, genel]
 lastDate: 1653858000

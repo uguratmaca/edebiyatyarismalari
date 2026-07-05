@@ -2,6 +2,7 @@
 layout: post
 title: "Mersin Büyükşehir Belediyesi Resim Yarışması"
 description: "Mersin Büyükşehir Belediyesi 'resim yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, resim yarışması, genel]
 lastDate: 1697144400

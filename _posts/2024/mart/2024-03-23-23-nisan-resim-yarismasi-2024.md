@@ -2,6 +2,7 @@
 layout: post
 title: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Resim Yarışması"
 description: "Rotterdam Başkonsolosluğu '23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2024, resim yarışması, ilkokul, ortaokul, 23 nisan]
 lastDate: 1713733200

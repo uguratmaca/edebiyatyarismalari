@@ -2,6 +2,7 @@
 layout: simple
 title: "3. İnteraktif Hikâye Yarışması Kazananları Belli Oldu"
 description: "uStory tarafından düzenlenen 3. İnteraktif Hikâye Yarışması kazananları belli olmuştur."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2023]
 permalink: "interaktif-hikaye-sonuc"

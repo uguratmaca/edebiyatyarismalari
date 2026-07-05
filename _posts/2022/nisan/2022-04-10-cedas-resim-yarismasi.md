@@ -2,6 +2,7 @@
 layout: post
 title: "Resim Yarışması"
 description: "Çorumgaz 'Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, resim yarışması, ortaokul, çorum]
 lastDate: 1650229200

@@ -2,6 +2,7 @@
 layout: post
 title: "Hayalimdeki Çin Resim Yarışması"
 description: "Uluslararası Bilimsel ve Kültürel Araştırmalar Vakfı (UBİKAV Vakfı) 'Hayalimdeki Çin Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, resim yarışması, ortaokul]
 lastDate: 1693429200

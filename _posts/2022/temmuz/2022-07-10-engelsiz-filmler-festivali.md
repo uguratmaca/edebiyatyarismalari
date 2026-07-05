@@ -2,6 +2,7 @@
 layout: post
 title: "Engelsiz Filmler Festivali Kısa Film Yarışması"
 description: "Puruli Kültür Sanat 'Engelsiz Filmler Festivali Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, kısa film yarışması, genel]
 lastDate: 1657746000

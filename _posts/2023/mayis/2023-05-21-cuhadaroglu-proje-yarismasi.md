@@ -2,6 +2,7 @@
 layout: post
 title: "Çuhadaroğlu Öğrenci Proje Yarışması"
 description: "Çuhadaroğlu Alüminyum 'proje yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, proje yarışması, üniversite]
 lastDate: 1694638800

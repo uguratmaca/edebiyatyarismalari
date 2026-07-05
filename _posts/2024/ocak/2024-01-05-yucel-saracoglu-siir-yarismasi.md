@@ -2,6 +2,7 @@
 layout: post
 title: "6. Yücel Saraçoğlu Aşk Şiirleri Yarışması"
 description: "Eskişehir Sanat Derneği ve Dorlaion Yayınları '6. Yücel Saraçoğlu Aşk Şiirleri Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2024, şiir yarışması, genel]
 lastDate: 1706562000

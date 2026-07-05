@@ -2,6 +2,7 @@
 layout: post
 title: "Liseler Arası Çevre Yarışması"
 description: "Özay Günsel Çocuk Üniversitesi, Yakın Doğu Üniversitesi ve Fikret Yüksel Vakfı 'Liseler Arası Çevre Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, çevre yarışması, lise]
 lastDate: 1652907600

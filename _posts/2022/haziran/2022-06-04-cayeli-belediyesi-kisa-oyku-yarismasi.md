@@ -2,6 +2,7 @@
 layout: post
 title: "Çayeli Belediyesi Kısa Öykü Yarışması"
 description: "Çayeli Belediyesi 'Çayeli Belediyesi Kısa Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, hikaye yarışması, ortaokul, lise]
 lastDate: 1657400400

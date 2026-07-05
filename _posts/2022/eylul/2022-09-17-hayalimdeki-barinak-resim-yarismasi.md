@@ -2,6 +2,7 @@
 layout: post
 title: "Hayalimdeki Barınak Resim Yarışması"
 description: "Tepebaşı Belediyesi 'Hayalimdeki Barınak Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, resim yarışması, ilkokul]
 lastDate: 1664398800

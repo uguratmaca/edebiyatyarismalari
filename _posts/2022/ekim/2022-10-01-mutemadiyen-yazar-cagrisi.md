@@ -2,6 +2,7 @@
 layout: post
 title: "Mütemadiyen E-Dergi Yazar Çağrısı"
 description: "Teknojournal 'Mütemadiyen E-Dergi Yazar Çağrısı' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, şiir yarışması, deneme yarışması, hikaye yarışması, genel]
 lastDate: 1667163600

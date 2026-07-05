@@ -2,6 +2,7 @@
 layout: post
 title: "İpek İğne Oya Tasarım Yarışması"
 description: "Merinos Tekstil Sanayi Müzesi 'İpek İğne Oya Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, tasarım yarışması, genel]
 lastDate: 1681419600

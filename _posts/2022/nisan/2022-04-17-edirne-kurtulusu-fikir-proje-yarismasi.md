@@ -2,6 +2,7 @@
 layout: post
 title: "Edirne’nin Kurtuluşunun 100 Yılı Anıtı Fikir Projesi Yarışması"
 description: "Edirne Belediyesi 'Edirne’nin Kurtuluşunun 100 Yılı Anıtı Fikir Projesi Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, proje yarışması, genel, edirne]
 lastDate: 1655413200

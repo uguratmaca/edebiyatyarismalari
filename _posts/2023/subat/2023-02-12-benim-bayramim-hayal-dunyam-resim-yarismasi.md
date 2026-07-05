@@ -2,6 +2,7 @@
 layout: post
 title: "Benim Bayramım Benim Hayal Dünyam Resim Yarışması"
 description: "Sinop Cumhuriyet İlkokulu 'Benim Bayramım Benim Hayal Dünyam Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, resim yarışması, ilkokul]
 lastDate: 1680814800

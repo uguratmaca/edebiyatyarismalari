@@ -2,6 +2,7 @@
 layout: post
 title: "Tütünsüz Hayat Temalı Uluslararası Afiş Yarışması"
 description: "Kütahya Dumlupınar Üniversitesi Güzel Sanatlar Fakültesi Görsel İletişim Tasarımı Bölümü ve Sağlık Diplomasisi Derneği 'Tütünsüz Hayat Temalı Uluslararası Afiş Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, afiş yarışması, ilkokul]
 lastDate: 1650574800

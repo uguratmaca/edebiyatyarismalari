@@ -2,6 +2,7 @@
 layout: post
 title: "Mustafa Özbey Öykü Yarışması"
 description: "Günce Yayınları 'Mustafa Özbey Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, hikaye yarışması, genel]
 lastDate: 1695934800

@@ -2,6 +2,7 @@
 layout: post
 title: "4. Makale Yarışması"
 description: "Fatih Sultan Mehmet Vakıf Üniversitesi Hukuk Kulübü '4. Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, makale yarışması, üniversite, hukuk]
 lastDate: 1677963600

@@ -2,6 +2,7 @@
 layout: post
 title: "Yunusça Bakmak Fotoğraf Yarışması"
 description: "SE-K-A-SAR Vakfı 'Yunusça Bakmak Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, fotoğraf yarışması, genel, yunus emre]
 lastDate: 1664658000

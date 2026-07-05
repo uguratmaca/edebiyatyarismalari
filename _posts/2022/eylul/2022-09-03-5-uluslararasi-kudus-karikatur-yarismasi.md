@@ -2,6 +2,7 @@
 layout: post
 title: "5. Uluslararası Mirasımız Kudüs Karikatür Yarışması"
 description: "Mirasımız Derneği '5. Uluslararası Mirasımız Kudüs Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, karikatür yarışması, genel]
 lastDate: 1666904400

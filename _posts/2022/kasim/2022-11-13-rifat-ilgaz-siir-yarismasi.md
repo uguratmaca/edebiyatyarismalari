@@ -2,6 +2,7 @@
 layout: post
 title: "2023 Rıfat Ilgaz Şiir Ödülü"
 description: "Cide Belediyesi '2023 Rıfat Ilgaz Şiir Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2033, şiir yarışması, rıfat ılgaz, genel]
 lastDate: 1681506000

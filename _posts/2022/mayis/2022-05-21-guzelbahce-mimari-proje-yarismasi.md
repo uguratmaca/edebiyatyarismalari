@@ -2,6 +2,7 @@
 layout: post
 title: "Güzelbahçe Yerleşkesi Mimari Proje Yarışması"
 description: "İzmir Ticaret Odası Eğitim ve Sağlık Vakfı 'Güzelbahçe Yerleşkesi Mimari Proje Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, proje yarışması, genel]
 lastDate: 1654549200

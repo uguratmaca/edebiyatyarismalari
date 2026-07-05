@@ -2,6 +2,7 @@
 layout: post
 title: "Minik Astronotlar Resim Yarışması"
 description: "Denizli Pamukkale Nedime Kabaklıoğlu Anaokulu 'Minik Astronotlar Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, resim yarışması, okul öncesi]
 lastDate: 1676581200

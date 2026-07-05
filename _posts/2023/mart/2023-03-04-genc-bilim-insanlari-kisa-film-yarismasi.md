@@ -2,6 +2,7 @@
 layout: post
 title: "Genç Bilim İnsanları Dünyayı Kurtarıyor Kısa Video Film Yarışması"
 description: "Plastiksiz Okullar Hareketi - School Plastıc Free Movement 'Genç Bilim İnsanları Dünyayı Kurtarıyor Kısa Video Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, kısa film yarışması, ilkokul, ortaokul]
 lastDate: 1679605200

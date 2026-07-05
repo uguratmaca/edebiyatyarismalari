@@ -2,6 +2,7 @@
 layout: post
 title: "İnsan Hakları Temalı Resim Yarışması"
 description: "Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK) 'İnsan Hakları Temalı Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, resim yarışması, lise]
 lastDate: 1668373200

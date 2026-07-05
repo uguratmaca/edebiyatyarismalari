@@ -2,6 +2,7 @@
 layout: post
 title: "Ulusal Şiir ve Öykü Yarışması"
 description: "İzmir Ödemiş Belediyesi 'Ulusal Şiir ve Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, şiir yarışması, hikaye yarışması, genel]
 lastDate: 1659045600

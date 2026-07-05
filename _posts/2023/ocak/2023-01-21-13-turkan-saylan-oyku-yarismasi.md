@@ -2,6 +2,7 @@
 layout: post
 title: "13. Türkan Saylan Ödülü"
 description: "Çağdaş Yaşamı Destekleme Derneği '13. Türkan Saylan Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, hikaye yarışması, genel]
 lastDate: 1676840400

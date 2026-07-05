@@ -2,6 +2,7 @@
 layout: post
 title: "Nehirden Denize Özgür Filistin Kısa Film Yarışması"
 description: "İstanbul İl Millî Eğitim Müdürlüğü ve İlim Yayma Vakfı 'Nehirden Denize Özgür Filistin Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2024, kısa film yarışması, lise]
 lastDate: 1715806800

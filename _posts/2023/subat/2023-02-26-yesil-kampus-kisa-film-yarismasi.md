@@ -2,6 +2,7 @@
 layout: post
 title: "6. Yeşil Kampüs Etkinlikleri Kamu Spotu Yarışması"
 description: "Başkent Üniversitesi Sürdürülebilir Çevre Uygulama ve Araştırma Merkezi '6. Yeşil Kampüs Etkinlikleri Kamu Spotu Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, kısa film yarışması, üniversite]
 lastDate: 1682629200

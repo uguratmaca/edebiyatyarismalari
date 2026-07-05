@@ -2,6 +2,7 @@
 layout: post
 title: "Geleceğin Endüstri Yapıları Öğrenci Fikir Yarışması"
 description: "PANELDER 'Geleceğin Endüstri Yapıları Öğrenci Fikir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, fikir yarışması, üniversite]
 lastDate: 1659042000

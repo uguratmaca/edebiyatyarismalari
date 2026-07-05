@@ -2,6 +2,7 @@
 layout: post
 title: "Makale Yarışması"
 description: "Hoya Geleceği Gören Teknoloji 'Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, makale yarışması, üniversite]
 lastDate: 1656277200

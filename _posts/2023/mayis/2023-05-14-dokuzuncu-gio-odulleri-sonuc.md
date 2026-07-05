@@ -2,6 +2,7 @@
 layout: simple
 title: "9. GİO Ödülleri Kazananları Belli Oldu"
 description: "Fantazya ve Bilimkurgu Sanatları Derneği (FABİSAD) tarafından düzenlenen 9. GİO Ödülleri kazananları belli olmuştur."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2023]
 permalink: "dokuzuncu-gio-odulleri-sonuc"

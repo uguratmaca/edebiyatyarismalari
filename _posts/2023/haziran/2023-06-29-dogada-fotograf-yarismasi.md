@@ -2,6 +2,7 @@
 layout: post
 title: "Doğada Fotoğraf Yarışması"
 description: "Kanyon Alışveriş Merkezi 'Doğada Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, fotoğraf yarışması, genel]
 lastDate: 1693170000

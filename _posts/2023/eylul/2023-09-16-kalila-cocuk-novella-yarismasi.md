@@ -2,6 +2,7 @@
 layout: post
 title: "Kalila Çocuk Novella Yarışması"
 description: "Kalila Yayınevi 'Kalila Çocuk Novella Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2023, roman yarışması, genel]
 lastDate: 1703970000

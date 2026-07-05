@@ -2,6 +2,7 @@
 layout: post
 title: "Benim İçin Fethi Sekin Demek Kompozisyon Yarışması"
 description: "Baskil Kaymakamlığı İlçe Milli Eğitim Müdürlüğü 'Benim İçin Fethi Sekin Demek Kompozisyon Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, kompozisyon yarışması, lise]
 lastDate: 1701032400

@@ -2,6 +2,7 @@
 layout: post
 title: "15 Temmuz Milli Uyanışı Hikaye Yarışması"
 description: "Düzce Üniversitesi '15 Temmuz Milli Uyanışı Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, hikaye yarışması, üniversite, 15 temmuz]
 lastDate: 1656536400

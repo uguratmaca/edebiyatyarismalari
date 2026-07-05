@@ -2,6 +2,7 @@
 layout: post
 title: "Ses Bayrağım Türkçe Şiir Yarışması"
 description: "Aksaray Gülağaç Demirci Atatürk İlkokulu 'Ses Bayrağım Türkçe Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, şiir yarışması, ilkokul]
 lastDate: 1679259600

@@ -2,6 +2,7 @@
 layout: post
 title: "BTÜ Kısa Film Yarışması"
 description: "Bursa Teknik Üniversitesi 'kısa film yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, kısa film yarışması, üniversite]
 lastDate: 1691874000

@@ -2,6 +2,7 @@
 layout: post
 title: "3. Geleneksel Resim Yarışması"
 description: "Çorum Özel Hastanesi '3. Geleneksel Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, resim yarışması, ilkokul]
 lastDate: 1650142800

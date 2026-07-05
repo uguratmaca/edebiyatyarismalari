@@ -2,6 +2,7 @@
 layout: post
 title: "3. Oktay Akbal Edebiyat Ödülü"
 description: "Muğla Büyükşehir Belediyesi '3. Oktay Akbal Edebiyat Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, hikaye yarışması, genel]
 lastDate: 1673038800

@@ -2,6 +2,7 @@
 layout: post
 title: "Muhteşem Üçlü Öykü Yarışması"
 description: "Gaziantep Şehitkamil Şehit Mehmet Öter İlkokulu 'Muhteşem Üçlü Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, hikaye yarışması, ilkokul]
 lastDate: 1676581200

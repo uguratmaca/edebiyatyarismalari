@@ -2,6 +2,7 @@
 layout: post
 title: "2022 Pazar Fotoğraf Yarışması"
 description: "Pazar Kaymakamlığı '2022 Pazar Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, fotoğraf yarışması, genel]
 lastDate: 1669755600

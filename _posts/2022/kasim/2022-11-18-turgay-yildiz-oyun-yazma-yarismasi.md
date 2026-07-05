@@ -2,6 +2,7 @@
 layout: post
 title: "Turgay Yıldız Çocuk Oyunu Yazma Yarışması"
 description: "Ankara Tiyatro Yapımcıları Derneği ve Turgay Yıldız Ailesi 'Turgay Yıldız Çocuk Oyunu Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, tiyatro oyunu yazma yarışması, genel]
 lastDate: 1673211600

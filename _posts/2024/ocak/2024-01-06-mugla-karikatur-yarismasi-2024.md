@@ -2,6 +2,7 @@
 layout: post
 title: "5. Uluslararası Karikatür Yarışması"
 description: "Muğla Büyükşehir Belediyesi '5. Uluslararası Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, karikatür yarışması, genel]
 lastDate: 1708030800

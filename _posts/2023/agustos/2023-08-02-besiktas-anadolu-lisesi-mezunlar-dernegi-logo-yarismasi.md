@@ -2,6 +2,7 @@
 layout: post
 title: "Beşiktaş Anadolu Lisesi Mezunlar Derneği Logo Yarışması"
 description: "Beşiktaş Anadolu Lisesi Mezunlar Derneği (BALUMNİ) 'logo yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, logo yarışması, tasarım yarışması, genel]
 lastDate: 1691960400

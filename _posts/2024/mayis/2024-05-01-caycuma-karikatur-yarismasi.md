@@ -2,6 +2,7 @@
 layout: post
 title: "Çaycuma Belediyesi Karikatür Yarışması"
 description: "Çaycuma Belediyesi 'Çaycuma Belediyesi Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2024, karikatür yarışması, genel]
 lastDate: 1720126800

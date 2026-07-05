@@ -2,6 +2,7 @@
 layout: post
 title: "Malatya Öyküleri Yarışması"
 description: "Malatya İnönü Üniversitesi 'Malatya Öyküleri Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, hikaye yarışması, genel, malatya]
 lastDate: 1654376400

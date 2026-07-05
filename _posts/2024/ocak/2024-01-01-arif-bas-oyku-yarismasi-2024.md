@@ -2,6 +2,7 @@
 layout: post
 title: "Arif Baş Edebiyat Ödülü"
 description: "Bahadın Belediye Başkanlığı 'Arif Baş Edebiyat Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2024, hikaye yarışması, genel]
 lastDate: 1718398800

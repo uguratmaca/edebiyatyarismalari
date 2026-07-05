@@ -2,6 +2,7 @@
 layout: simple
 title: "TBD 2022 Bilimkurgu Öykü Yarışması Kazananları Belli Oldu"
 description: "Türkiye Bilişim Derneği (TBD) tarafından düzenlenen 24. Bilimkurgu Öykü Yarışması kazananları belli olmuştur."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2023]
 permalink: "tbd-oyku-yarismasi-sonuc"

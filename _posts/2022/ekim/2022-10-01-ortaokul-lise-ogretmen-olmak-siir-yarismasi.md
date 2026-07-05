@@ -2,6 +2,7 @@
 layout: post
 title: "Öğrenciler Arası Şiir Yarışması"
 description: "Milli Eğitim Bakanlığı 'Öğrenciler Arası Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, şiir yarışması, ortaokul, lise]
 lastDate: 1665694800

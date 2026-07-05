@@ -2,6 +2,7 @@
 layout: post
 title: "TBD Bilimkurgu Öykü Yarışması"
 description: "Türkiye Bilişim Dergisi 'TBD Bilimkurgu Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, hikaye yarışması, genel, bilimkurgu]
 lastDate: 1693429200

@@ -2,6 +2,7 @@
 layout: post
 title: "Gençler Arası Bilgi Yarışması"
 description: "Gençlik ve Spor Bakanlığı 'Gençler Arası Bilgi Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, bilgi yarışması, lise, üniversite]
 lastDate: 1675717200

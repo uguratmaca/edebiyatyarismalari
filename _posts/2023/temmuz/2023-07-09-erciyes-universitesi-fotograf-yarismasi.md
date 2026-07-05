@@ -2,6 +2,7 @@
 layout: post
 title: "Erasmus’a İzini Bırak Fotoğraf Yarışması"
 description: "Erciyes Üniversitesi 'Erasmus’a İzini Bırak Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, fotoğraf yarışması, genel]
 lastDate: 1696107600

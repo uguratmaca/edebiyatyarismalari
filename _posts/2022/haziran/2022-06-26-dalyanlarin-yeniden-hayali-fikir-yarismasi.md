@@ -2,6 +2,7 @@
 layout: post
 title: "İstinye Üniversitesi Öğrenci Fikir Yarışması"
 description: "İstinye Üniversitesi Mimarlık Bölümü 'İstanbul Boğazı’nda Dalyanların Yeniden Hayali' fikir yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, fikir yarışması, üniversite]
 lastDate: 1656882000

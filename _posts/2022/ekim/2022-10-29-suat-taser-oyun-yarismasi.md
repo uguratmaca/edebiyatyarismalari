@@ -2,6 +2,7 @@
 layout: post
 title: "Suat Taşer Kısa Oyun Yarışması 2022"
 description: "Suat Taşer Ailesi ve Dokuz Eylül Üniversitesi Güzel Sanatlar Fakültesi 'Suat Taşer Kısa Oyun Yarışması 2022' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, tiyatro oyunu yazma yarışması, üniversite]
 lastDate: 1668718800

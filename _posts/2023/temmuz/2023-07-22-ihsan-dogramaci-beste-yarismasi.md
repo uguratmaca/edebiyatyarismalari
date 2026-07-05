@@ -2,6 +2,7 @@
 layout: post
 title: "İhsan Doğramacı Beste Yarışması"
 description: "İhsan Doğramacı Bilkent Üniversitesi 'İhsan Doğramacı Beste Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2024, beste yarışması, genel]
 lastDate: 1705006800

@@ -2,6 +2,7 @@
 layout: post
 title: "3. Şiir Okuma Yarışması"
 description: "Eğitimciler Birliği Sendikası (Eğitim Bir-Sen) Samsun 1 Nolu Şube '3. Şiir Okuma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, şiir okuma yarışması, okul öncesi, ilkokul, ortaokul, lise, bosna hersek]
 lastDate: 1652562000

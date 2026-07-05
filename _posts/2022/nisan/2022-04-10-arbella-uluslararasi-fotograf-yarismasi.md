@@ -2,6 +2,7 @@
 layout: post
 title: "Arbella 12. Uluslararası Fotoğraf Yarışması"
 description: "Arbella Makarna 'Arbella 12. Uluslararası Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, fotoğraf yarışması, genel]
 lastDate: 1650142800

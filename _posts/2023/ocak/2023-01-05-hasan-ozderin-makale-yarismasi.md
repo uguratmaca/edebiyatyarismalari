@@ -2,6 +2,7 @@
 layout: post
 title: "Hasan Özderin Makale Yarışması"
 description: "Akdeniz Üniversitesi Hukuk Fakültesi 'Hasan Özderin Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2023, makale yarışması, üniversite, hukuk]
 lastDate: 1690750800

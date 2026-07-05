@@ -2,6 +2,7 @@
 layout: post
 title: "2022 Arif Baş Çocuk Şiiri Yarışması"
 description: "Baş Ailesi '2022 Arif Baş Çocuk Şiiri Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, şiir yarışması, genel, arif baş]
 lastDate: 1653944400

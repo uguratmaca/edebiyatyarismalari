@@ -2,6 +2,7 @@
 layout: post
 title: "TMOK Fair Play Kısa Film Yarışması"
 description: "Türkiye Milli Olimpiyat Komitesi (TMOK) 'TMOK Fair Play Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, kısa film yarışması, üniversite]
 lastDate: 1675112400

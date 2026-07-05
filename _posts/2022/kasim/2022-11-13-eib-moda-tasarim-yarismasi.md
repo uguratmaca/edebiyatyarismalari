@@ -2,6 +2,7 @@
 layout: post
 title: "Ege İhracatçı Birlikleri Moda Tasarım Yarışması"
 description: "Ege İhracatçı Birlikleri (EİB) 'moda tasarım yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, tasarım yarışması, üniversite, genel]
 lastDate: 1672347600

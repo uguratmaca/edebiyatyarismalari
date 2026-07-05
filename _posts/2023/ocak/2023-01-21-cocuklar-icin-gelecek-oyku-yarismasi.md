@@ -2,6 +2,7 @@
 layout: post
 title: "Daha İyi Bir Gelecek Öykü Yarışması"
 description: "Enerjisa 'öykü yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, hikaye yarışması, ilkokul]
 lastDate: 1675976400

@@ -2,6 +2,7 @@
 layout: post
 title: "Ozanlar Yarışıyor Beste Yarışması"
 description: "Kırşehir Belediyesi ve Ahi Evran Üniversitesi 'Ozanlar Yarışıyor Beste Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, beste yarışması, genel]
 lastDate: 1651179600

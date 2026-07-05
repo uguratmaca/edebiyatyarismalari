@@ -2,6 +2,7 @@
 layout: post
 title: "'SMA ile Yaşamak' konulu Resim Yarışması"
 description: "SMA Hastalığı ile Mücadele Derneği ''SMA ile Yaşamak' konulu Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, ilkokul, ortaokul, lise]
 lastDate: 1651352400

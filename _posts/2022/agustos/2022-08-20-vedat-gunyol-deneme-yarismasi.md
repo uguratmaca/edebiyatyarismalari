@@ -2,6 +2,7 @@
 layout: post
 title: "Vedat Günyol 7. Deneme Yarışması"
 description: "Kartal Belediyesi 'Vedat Günyol 7. Deneme Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, deneme yarışması, genel]
 lastDate: 1668114000

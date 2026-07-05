@@ -2,6 +2,7 @@
 layout: post
 title: "7. Fotoğraf Yarışması"
 description: "Ankara Kalkınma Ajansı '7. Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, fotoğraf yarışması, genel]
 lastDate: 1700946000

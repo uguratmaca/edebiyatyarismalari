@@ -2,6 +2,7 @@
 layout: post
 title: "İstanbul Barosu Makale Yarışması"
 description: "İstanbul Barosu Başkanlığı 'makale yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, makale yarışması, genel, hukuk]
 lastDate: 1677790800

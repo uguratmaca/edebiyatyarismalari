@@ -2,6 +2,7 @@
 layout: post
 title: "99. Yıla Özel 99 Eser Cumhuriyet Sergisi Yarışması"
 description: "Antalya Kepez Belediyesi '99. Yıla Özel 99 Eser Cumhuriyet Sergisi Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, sergi yarışması, resim yarışması, genel]
 lastDate: 1663189200

@@ -2,6 +2,7 @@
 layout: post
 title: "Güncelle Masal ve Hikaye Yarışması"
 description: "Özel Saint Michel Fransız Lisesi 'Güncelle Masal ve Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2024, masal yarışması, hikaye yarışması, lise]
 lastDate: 1711922400

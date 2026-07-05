@@ -2,6 +2,7 @@
 layout: post
 title: "Şair Şeyhi Şiir Yarışması"
 description: "Kütahya Belediyesi ve Kent Konseyi Şairler ve Yazarlar Çalışma Grubu 'Şair Şeyhi Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, şiir yarışması, genel]
 lastDate: 1656277200

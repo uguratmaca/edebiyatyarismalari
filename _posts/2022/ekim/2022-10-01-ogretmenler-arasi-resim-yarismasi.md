@@ -2,6 +2,7 @@
 layout: post
 title: "Öğretmenler Arası Resim Yarışması"
 description: "Milli Eğitim Bakanlığı 'Öğretmenler Arası Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, resim yarışması, genel]
 lastDate: 1665694800

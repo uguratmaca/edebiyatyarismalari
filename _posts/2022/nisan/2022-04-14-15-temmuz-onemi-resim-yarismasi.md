@@ -2,6 +2,7 @@
 layout: post
 title: "15 Temmuz Demokrasi Ve Milli Birlik Gününün Önemi Resim Yarışması"
 description: "Şanlıurfa Karaköprü '15 Temmuz Demokrasi Ve Milli Birlik Gününün Önemi Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, ilkokul, 15 temmuz]
 lastDate: 1652043600

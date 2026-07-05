@@ -2,6 +2,7 @@
 layout: post
 title: "Nineden/Dededen Toruna Mektup Yarışması"
 description: "Diyanet İşleri Başkanlığı 'Nineden/Dededen Toruna Mektup Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, mektup yarışması, genel]
 lastDate: 1671138000

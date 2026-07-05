@@ -2,6 +2,7 @@
 layout: post
 title: "16. Attila İlhan Kompozisyon Yarışması"
 description: "Attilâ İlhan Bilim Sanat Kültür Vakfı '16. Attila İlhan Kompozisyon Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, kompozisyon yarışması, lise, attila ilhan]
 lastDate: 1708981200

@@ -2,6 +2,7 @@
 layout: post
 title: "İlahiyat Yıldızları Ödülleri"
 description: "Türkiye İlahiyatlar Derneği 'İlahiyat Yıldızları Ödülleri' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, hikaye yarışması, proje yarışması, genel, üniversite]
 lastDate: 1661806800

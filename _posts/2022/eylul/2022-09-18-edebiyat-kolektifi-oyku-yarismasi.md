@@ -2,6 +2,7 @@
 layout: post
 title: "Edebiyat Kolektifi Öykü Yarışması"
 description: "Edebiyat Kolektifi Platformu 'Edebiyat Kolektifi Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, hikaye yarışması, genel]
 lastDate: 1672347600

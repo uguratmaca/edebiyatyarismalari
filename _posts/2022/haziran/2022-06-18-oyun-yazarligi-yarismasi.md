@@ -2,6 +2,7 @@
 layout: post
 title: "Oyun Yazarlığı Yarışması"
 description: "İstanbul Güngören Belediyesi 'Oyun Yazarlığı Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, tiyatro oyunu yazma yarışması, genel]
 lastDate: 1660856400

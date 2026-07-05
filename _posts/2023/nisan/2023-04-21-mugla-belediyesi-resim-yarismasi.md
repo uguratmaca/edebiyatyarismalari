@@ -2,6 +2,7 @@
 layout: post
 title: "Muğla Büyükşehir Belediyesi Resim Yarışması"
 description: "Muğla Büyükşehir Belediyesi 'resim yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2023, resim yarışması, genel]
 lastDate: 1689886800

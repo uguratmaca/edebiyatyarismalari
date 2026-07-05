@@ -2,6 +2,7 @@
 layout: post
 title: "Bilgi Evleri 8. Öykü Yarışması"
 description: "Zeytinburnu Bilgi Evleri ve Gençlik Merkezi 'Bilgi Evleri 8. Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, hikaye yarışması, ortaokul, lise, üniversite, genel]
 lastDate: 1673643600

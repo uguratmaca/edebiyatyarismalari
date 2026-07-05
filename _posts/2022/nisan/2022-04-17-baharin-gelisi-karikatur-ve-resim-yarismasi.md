@@ -2,6 +2,7 @@
 layout: post
 title: "Baharın Gelişi Karikatür Ve Resim Yarışması"
 description: "Edirne Belediyesi 'Baharın Gelişi Karikatür Ve Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, karikatür yarışması, ilkokul, ortaokul, lise, edirne]
 lastDate: 1652648400

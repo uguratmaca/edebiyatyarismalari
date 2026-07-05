@@ -2,6 +2,7 @@
 layout: post
 title: "3. Uluslararası Karikatür Yarışması"
 description: "Muğla Büyükşehir Belediyesi '3. Uluslararası Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, karikatür yarışması, genel]
 lastDate: 1652994000

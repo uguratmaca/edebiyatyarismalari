@@ -2,6 +2,7 @@
 layout: post
 title: "6. Güzel Ordu Kısa Film Yarışması"
 description: "Güzel Ordu Kültür Sanat Derneği '6. Güzel Ordu Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, kısa film yarışması, genel]
 lastDate: 1662325200

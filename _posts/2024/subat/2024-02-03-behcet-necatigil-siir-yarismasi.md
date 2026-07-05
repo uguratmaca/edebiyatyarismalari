@@ -2,6 +2,7 @@
 layout: post
 title: "13. Behçet Necatigil Şiir Yarışması"
 description: "İstanbul Beşiktaş Kabataş Erkek Lisesi '13. Behçet Necatigil Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, şiir yarışması, lise]
 lastDate: 1710795600

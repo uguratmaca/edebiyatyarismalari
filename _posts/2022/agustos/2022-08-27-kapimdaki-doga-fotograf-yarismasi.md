@@ -2,6 +2,7 @@
 layout: post
 title: "Kapımdaki Doğa; Bahçelievler Sokak Ağaçları Fotoğraf Yarışması"
 description: "Bahçelievler Derneği ve Çankaya Belediyesi 'Kapımdaki Doğa; Bahçelievler Sokak Ağaçları Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, fotoğraf yarışması, genel]
 lastDate: 1668546000

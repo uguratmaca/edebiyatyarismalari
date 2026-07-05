@@ -2,6 +2,7 @@
 layout: post
 title: "Arif Baş Öykü Yarışması"
 description: "Bahadın Belediye Başkanlığı 'Arif Baş Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, hikaye yarışması, genel]
 lastDate: 1688072400

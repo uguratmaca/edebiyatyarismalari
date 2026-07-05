@@ -2,6 +2,7 @@
 layout: post
 title: "6. Ulusal Fotoğraf Yarışması"
 description: "Muğla Büyükşehir Belediyesi 'fotoğraf yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, fotoğraf yarışması, genel]
 lastDate: 1691096400

@@ -2,6 +2,7 @@
 layout: post
 title: "Gençses: Türk Müziği Ses Yarışması"
 description: "Kültür ve Turizm Bakanlığı Güzel Sanatlar Genel Müdürlüğü 'Gençses: Türk Müziği Ses Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, ses yarışması, genel]
 lastDate: 1656622800

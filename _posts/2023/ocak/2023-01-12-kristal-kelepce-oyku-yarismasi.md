@@ -2,6 +2,7 @@
 layout: post
 title: "Kristal Kelepçe Polisiye Edebiyat Ödülleri"
 description: "Türkiye Polisiye Yazarları Birliği (TPYB) 'Kristal Kelepçe Polisiye Edebiyat Ödülleri' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, hikaye yarışması, genel]
 lastDate: 1688072400

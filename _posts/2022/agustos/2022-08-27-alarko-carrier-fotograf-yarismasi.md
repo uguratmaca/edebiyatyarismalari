@@ -2,6 +2,7 @@
 layout: post
 title: "Küresel İklim Değişikliği Fotoğraf Yarışmas"
 description: "Alarko Carrier 'Küresel İklim Değişikliği Fotoğraf Yarışmas' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, fotoğraf yarışması, genel]
 lastDate: 1664053200

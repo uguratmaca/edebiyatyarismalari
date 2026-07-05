@@ -2,6 +2,7 @@
 layout: post
 title: "HERÇEV 3. Ulusal Resim Yarışması"
 description: "Her Çocuğa Eğitim Vakfı 'HERÇEV 3. Ulusal Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, ilkokul, ortaokul, okul öncesi]
 lastDate: 1652043600

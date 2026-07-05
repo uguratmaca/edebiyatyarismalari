@@ -2,6 +2,7 @@
 layout: post
 title: "Çocuk Eli Resim Yarışması"
 description: "Birikim Okulları 'Çocuk Eli Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, resim yarışması, okul öncesi]
 lastDate: 1683234000

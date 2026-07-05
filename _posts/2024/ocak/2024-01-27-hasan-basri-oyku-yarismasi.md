@@ -2,6 +2,7 @@
 layout: post
 title: "Hasan Basri Çantay Öykü Yazma Yarışması"
 description: "Balıkesir Büyükşehir Belediyesi 'Hasan Basri Çantay Öykü Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, hikaye yarışması, lise]
 lastDate: 1708030800

@@ -2,6 +2,7 @@
 layout: post
 title: "Liseler Arası Mevlana Şiir Yarışması"
 description: "Bursa Osmangazi Belediyesi 'Liseler Arası Mevlana Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, şiir yarışması, lise]
 lastDate: 1668718800

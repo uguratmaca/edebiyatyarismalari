@@ -2,6 +2,7 @@
 layout: post
 title: "GAP Yeşil İnovasyon Proje Yarışması"
 description: "Harran Üniversitesi 'GAP Yeşil İnovasyon Proje Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, proje yarışması, ortaokul, lise, üniversite]
 lastDate: 1651266000

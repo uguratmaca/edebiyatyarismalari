@@ -2,6 +2,7 @@
 layout: post
 title: "Geleceğin Mutfağı Tasarım Yarışması"
 description: "SRA Stone Gallery 'Geleceğin Mutfağı Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, tasarım yarışması, üniversite]
 lastDate: 1656622800

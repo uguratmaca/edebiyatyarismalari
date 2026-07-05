@@ -2,6 +2,7 @@
 layout: post
 title: "Genç Gözler İpek Yolunda Fotoğraf Yarışması 2022"
 description: "UNESCO 'Genç Gözler İpek Yolunda Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, fotoğraf yarışması, genel]
 lastDate: 1658005200

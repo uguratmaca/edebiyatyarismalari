@@ -2,6 +2,7 @@
 layout: post
 title: "Afet Risk Azaltma Proje Yarışması"
 description: "Türk Japon Vakfı 'Afet Risk Azaltma Proje Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, proje yarışması, ilkokul, ortaokul, lise]
 lastDate: 1698613200

@@ -2,6 +2,7 @@
 layout: post
 title: "18. Memorial Uluslararası Çocuk Resim Yarışması"
 description: "Memorial Sağlık Grubu '18. Memorial Uluslararası Çocuk Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, resim yarışması, okul öncesi, ilkokul, ortaokul]
 lastDate: 1680296400

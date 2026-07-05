@@ -2,6 +2,7 @@
 layout: post
 title: "Düzce Şiir Yarışması"
 description: "Düzce Sanat Edebiyat Platformu (DÜSEP) ve Düzce Belediyesi Kültür Müdürlüğü 'Düzce' konulu şiir yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, şiir yarışması, genel]
 lastDate: 1658696400

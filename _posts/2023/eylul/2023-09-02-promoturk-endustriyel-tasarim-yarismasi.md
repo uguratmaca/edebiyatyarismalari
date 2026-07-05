@@ -2,6 +2,7 @@
 layout: post
 title: "Endüstriyel Tasarım Yarışması"
 description: "Promotürk Derneği 'Endüstriyel Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, tasarım yarışması, üniversite]
 lastDate: 1695157200

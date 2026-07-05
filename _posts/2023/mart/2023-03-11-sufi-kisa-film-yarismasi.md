@@ -2,6 +2,7 @@
 layout: post
 title: "Sûfisinema Günleri Ulusal Kısa Film Yarışması"
 description: "Konya İl Kültür ve Turizm Müdürlüğü 'Sûfisinema Günleri Ulusal Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, kısa film yarışması, genel]
 lastDate: 1681506000

@@ -2,6 +2,7 @@
 layout: post
 title: "Telsim Kısa Öykü Yarışması"
 description: "Telsim 'öykü yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, hikaye yarışması, ortaokul, lise]
 lastDate: 1680210000

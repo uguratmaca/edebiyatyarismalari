@@ -2,6 +2,7 @@
 layout: post
 title: "Şehit Savcı Murat Uzun Mektup Yarışması"
 description: "Samsun Cumhuriyet Başsavcılığı ve PTT Çalışanları Dayanışma Derneği 'Şehit Savcı Murat Uzun Mektup Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, mektup yarışması, genel]
 lastDate: 1696539600

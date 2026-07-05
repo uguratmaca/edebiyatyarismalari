@@ -2,6 +2,7 @@
 layout: post
 title: "4. Fotoğraf Yarışması"
 description: "Beykoz Belediyesi '4. Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, fotoğraf yarışması, genel]
 lastDate: 1668459600

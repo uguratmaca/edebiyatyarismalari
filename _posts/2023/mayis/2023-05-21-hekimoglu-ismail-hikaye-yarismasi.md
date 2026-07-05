@@ -2,6 +2,7 @@
 layout: post
 title: "Hekimoğlu İsmail Hikaye Yarışması"
 description: "Gülce Yayınları 'Hekimoğlu İsmail Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, hikaye yarışması, genel]
 lastDate: 1696021200

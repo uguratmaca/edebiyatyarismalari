@@ -2,6 +2,7 @@
 layout: post
 title: "Jandarma Şiir Yarışması"
 description: "Jandarma Genel Komutanlığı 'Jandarma Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2024, şiir yarışması, ortaokul, lise]
 lastDate: 1713906000

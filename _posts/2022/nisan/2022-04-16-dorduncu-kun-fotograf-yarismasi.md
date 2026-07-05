@@ -2,6 +2,7 @@
 layout: post
 title: "4. Kapadokya Üniversitesi Fotoğraf Yarışması"
 description: "Kapadokya Üniversitesi '4. Kapadokya Üniversitesi Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, fotoğraf yarışması, genel]
 lastDate: 1654030800

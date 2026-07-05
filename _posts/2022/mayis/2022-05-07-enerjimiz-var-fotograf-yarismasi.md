@@ -2,6 +2,7 @@
 layout: post
 title: "Ulusal Fotoğraf Yarışması 2022"
 description: "İGDAŞ 'Ulusal Fotoğraf Yarışması 2022' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, fotoğraf yarışması, ortaokul, lise]
 lastDate: 1653858000

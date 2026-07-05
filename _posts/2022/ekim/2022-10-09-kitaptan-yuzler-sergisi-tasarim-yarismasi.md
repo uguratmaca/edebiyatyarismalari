@@ -2,6 +2,7 @@
 layout: post
 title: "Uluslararası Kitaptan Yüzler Tasarım Yarışması"
 description: "Necmettin Erbakan Üniversitesi 'Uluslararası Kitaptan Yüzler Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, tasarım yarışması, genel]
 lastDate: 1666731600

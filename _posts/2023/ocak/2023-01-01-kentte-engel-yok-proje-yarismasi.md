@@ -2,6 +2,7 @@
 layout: post
 title: "Kentte Engel Yok Proje Yarışması"
 description: "Konak Belediyesi 'Kentte Engel Yok Proje Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, proje yarışması, afiş yarışması, kısa film yarışması, lise]
 lastDate: 1673643600

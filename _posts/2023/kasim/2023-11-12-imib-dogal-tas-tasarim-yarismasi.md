@@ -2,6 +2,7 @@
 layout: post
 title: "12. Endüstriyel ve Mimari Doğal Taş Tasarım Yarışması"
 description: "İstanbul Maden İhracatçıları Birliği '12. Endüstriyel ve Mimari Doğal Taş Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2023, tasarım yarışması, üniversite]
 lastDate: 1701378000

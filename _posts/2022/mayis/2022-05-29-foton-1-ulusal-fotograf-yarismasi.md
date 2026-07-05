@@ -2,6 +2,7 @@
 layout: post
 title: "Üniversiteliler Arası 1. Ulusal Fotoğraf Yarışması"
 description: "FOTON Fotoğraf Derneği 'Üniversiteliler Arası 1. Ulusal Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, fotoğraf yarışması, üniversite]
 lastDate: 1661979600

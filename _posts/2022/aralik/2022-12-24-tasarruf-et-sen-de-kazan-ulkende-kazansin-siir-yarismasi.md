@@ -2,6 +2,7 @@
 layout: post
 title: "Tasarruf Et Sen De Kazan Ülken De Şiir Yarışması"
 description: "Mersin Yenişehir Cumhuriyet İlkokulu 'Tasarruf Et Sen De Kazan Ülken De Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, şiir yarışması, ilkokul]
 lastDate: 1674421200

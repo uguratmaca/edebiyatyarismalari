@@ -2,6 +2,7 @@
 layout: post
 title: "3. Gençler Arası Öykü Yarışması"
 description: "T.C. Gençlik ve Spor Bakanlığı '3. Gençler Arası Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, hikaye yarışması, genel, genç, lise, üniversite]
 lastDate: 1653944400

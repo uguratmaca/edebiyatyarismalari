@@ -2,6 +2,7 @@
 layout: post
 title: "Truva Edebiyat Dergisi 6. Öykü Yarışması"
 description: "Truva Edebiyat Dergisi '6. Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, hikaye yarışması, genel]
 lastDate: 1685480400

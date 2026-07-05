@@ -2,6 +2,7 @@
 layout: post
 title: "Uzun İnce Bir Yoldayım Hikaye Yarışması"
 description: "Eskişehir Alpu Anadolu Lisesi 'Uzun İnce Bir Yoldayım Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2024, hikaye yarışması, lise, aşık veysel]
 lastDate: 1704229200

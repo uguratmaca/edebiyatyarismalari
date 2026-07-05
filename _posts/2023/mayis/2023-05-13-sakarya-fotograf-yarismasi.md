@@ -2,6 +2,7 @@
 layout: post
 title: "3. Ulusal Sakarya Bir Başka Fotoğraf Yarışması"
 description: "Sakarya Belediyesi '3. Ulusal Sakarya Bir Başka Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, fotoğraf yarışması, genel]
 lastDate: 1700341200

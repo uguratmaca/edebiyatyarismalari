@@ -2,6 +2,7 @@
 layout: post
 title: "Metalden Fikirler Ulusal Metal Ürün Tasarım Yarışması"
 description: "Abdullah Gül Üniversitesi ve İç Mimarlar Odası öncülüğünde KAYMET ve No 239 işbirliğiyle 'Metalden Fikirler Ulusal Metal Ürün Tasarım Yarışması' düzenleniyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, tasarım yarışması, üniversite]
 lastDate: 1656882000

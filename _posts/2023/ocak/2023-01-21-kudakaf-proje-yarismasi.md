@@ -2,6 +2,7 @@
 layout: post
 title: "Kariyer Geliştirme Odaklı Öğrenci Ar-Ge Projeleri Yarışması"
 description: "KUDAKAF 'Kariyer Geliştirme Odaklı Öğrenci Ar-Ge Projeleri Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, proje yarışması, üniversite]
 lastDate: 1675976400

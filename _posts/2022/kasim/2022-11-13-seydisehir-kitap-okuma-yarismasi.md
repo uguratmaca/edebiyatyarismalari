@@ -2,6 +2,7 @@
 layout: post
 title: "Seydişehir Kitap Okuma Yarışması"
 description: "Seydişehir Belediyesi 'Seydişehir Kitap Okuma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, kitap okuma yarışması, ortaokul, lise]
 lastDate: 1668891600

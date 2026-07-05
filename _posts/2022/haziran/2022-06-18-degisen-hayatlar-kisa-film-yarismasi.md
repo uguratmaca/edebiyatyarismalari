@@ -2,6 +2,7 @@
 layout: post
 title: "Anadolu Üniversitesi Kısa Film Yarışması"
 description: "Anadolu Üniversitesi 'Değişen Hayatlar' konulu kısa film yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, kısa film yarışması, genel]
 lastDate: 1659128400

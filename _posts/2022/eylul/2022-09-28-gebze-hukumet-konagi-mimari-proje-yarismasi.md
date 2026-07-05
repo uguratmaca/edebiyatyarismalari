@@ -2,6 +2,7 @@
 layout: post
 title: "Gebze Hükümet Konağı Mimari Proje Yarışması"
 description: "Gebze Belediyesi 'Gebze Hükümet Konağı Mimari Proje Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, proje yarışması, genel]
 lastDate: 1665522000

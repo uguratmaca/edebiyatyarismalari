@@ -2,6 +2,7 @@
 layout: post
 title: "Geleneksel Ödüllü Resim Yarışması"
 description: "Eskişehir Özel Ümit Hastaneleri 'Geleneksel Ödüllü Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, resim yarışması, ortaokul]
 lastDate: 1669323600

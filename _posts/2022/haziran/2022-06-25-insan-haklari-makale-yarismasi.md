@@ -2,6 +2,7 @@
 layout: post
 title: "İnsan Hakları Makale Yarışması"
 description: "Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK) 'İnsan Hakları Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, makale yarışması, üniversite]
 lastDate: 1667163600

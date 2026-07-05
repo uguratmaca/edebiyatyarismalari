@@ -2,6 +2,7 @@
 layout: post
 title: "İSG Merceğinden Geleceğe Güvenle Bak Fotoğraf Yarışması"
 description: "Madencilikte İş Sağlığı ve Güvenliğinin Geliştirilmesi Projesi (MİSGEP) 'İSG Merceğinden Geleceğe Güvenle Bak Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, fotoğraf yarışması, genel]
 lastDate: 1661893200

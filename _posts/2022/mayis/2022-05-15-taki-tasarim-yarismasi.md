@@ -2,6 +2,7 @@
 layout: post
 title: "Takı Tasarım Yarışması"
 description: "İsmetpaşa İlkokulu 'Takı Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, tasarım yarışması, ilkokul]
 lastDate: 1653253200

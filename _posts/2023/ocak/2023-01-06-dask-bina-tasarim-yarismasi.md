@@ -2,6 +2,7 @@
 layout: post
 title: "Depreme Dayanıklı Bina Tasarımı Yarışması"
 description: "DASK 'Depreme Dayanıklı Bina Tasarımı Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, tasarım yarışması, üniversite]
 lastDate: 1674766800

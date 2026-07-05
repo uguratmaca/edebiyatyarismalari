@@ -2,6 +2,7 @@
 layout: post
 title: "19. Akbank Kısa Film Festivali"
 description: "Akbank Sanat '19. Akbank Kısa Film Festivali' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, kısa film yarışması, genel]
 lastDate: 1672347600

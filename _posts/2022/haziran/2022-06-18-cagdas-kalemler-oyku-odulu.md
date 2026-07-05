@@ -2,6 +2,7 @@
 layout: post
 title: "2022 Çağdaş Kalemler Öykü Ödülü"
 description: "Çağdaş Yaşamı Destekleme Derneği (ÇYDD) Trabzon Şubesi '2022 Çağdaş Kalemler Öykü Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, hikaye yarışması, genel]
 lastDate: 1661806800

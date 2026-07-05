@@ -2,6 +2,7 @@
 layout: post
 title: "Ömer Bedrettin Uşaklı Öykü Yarışması"
 description: "Uşak Belediyesi 'Ömer Bedrettin Uşaklı Öykü yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, hikaye yarışması, ortaokul, lise, üniversite]
 lastDate: 1707080400

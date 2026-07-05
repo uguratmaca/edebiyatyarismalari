@@ -2,6 +2,7 @@
 layout: post
 title: "25. Ekmek Konulu Şiir Yarışması"
 description: "Osmaniye Şairler ve Yazarlar Derneği(OŞYAD) '25. Ekmek Konulu Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, şiir yarışması, genel]
 lastDate: 1661893200

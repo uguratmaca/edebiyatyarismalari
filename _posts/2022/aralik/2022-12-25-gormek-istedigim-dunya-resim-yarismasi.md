@@ -2,6 +2,7 @@
 layout: post
 title: "Gelecekte Görmek İstediğim Dünya Resim Yarışması"
 description: "Milli Eğitim Koruma Derneği İlkokulu 'Gelecekte Görmek İstediğim Dünya Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, resim yarışması, ilkokul]
 lastDate: 1673470800

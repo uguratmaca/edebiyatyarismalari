@@ -2,6 +2,7 @@
 layout: post
 title: "Dünyamı Seviyorum Çevremi Koruyorum Şiir Yarışması"
 description: "100.Yıl Mehmetçik Ortaokulu 'Dünyamı Seviyorum Çevremi Koruyorum Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, şiir yarışması, ortaokul]
 lastDate: 1674162000

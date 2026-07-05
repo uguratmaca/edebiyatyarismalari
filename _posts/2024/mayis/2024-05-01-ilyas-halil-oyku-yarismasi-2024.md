@@ -2,6 +2,7 @@
 layout: post
 title: "3. İlyas Halil Öykü Yarışması"
 description: "Mersin Sanat Edebiyat Derneği '3. İlyas Halil Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2024, hikaye yarışması, genel]
 lastDate: 1728507600

@@ -2,6 +2,7 @@
 layout: post
 title: "Geleceğin Tarihçileri Makale Yarışması"
 description: "Koç Okulu 'Geleceğin Tarihçileri Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2024, makale yarışması, ortaokul]
 lastDate: 1714683600

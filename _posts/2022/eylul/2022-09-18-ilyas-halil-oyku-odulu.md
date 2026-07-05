@@ -2,6 +2,7 @@
 layout: post
 title: "İlyas Halil Öykü Yarışması"
 description: "Mersin Sanat Edebiyat Dergisi 'İlyas Halil Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, hikaye yarışması, genel]
 lastDate: 1669755600

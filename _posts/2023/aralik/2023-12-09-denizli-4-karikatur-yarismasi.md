@@ -2,6 +2,7 @@
 layout: post
 title: "4. Uluslararası Karikatür Yarışması"
 description: "Denizli Büyükşehir Belediyesi '4. Uluslararası Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, karikatür yarışması, genel]
 lastDate: 1708808400

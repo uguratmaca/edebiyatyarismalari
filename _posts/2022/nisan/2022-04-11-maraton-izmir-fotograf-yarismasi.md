@@ -2,6 +2,7 @@
 layout: post
 title: "Maraton İzmir 3. Fotoğraf Yarışması"
 description: "İzmir Büyükşehir Belediyesi 'Maraton İzmir 3. Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, fotoğraf yarışması, genel, izmir]
 lastDate: 1650661200

@@ -2,6 +2,7 @@
 layout: post
 title: "1. Öykü Yarışması"
 description: "Kar Öykü Dergisi '1. Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, hikaye yarışması, genel]
 lastDate: 1701291600

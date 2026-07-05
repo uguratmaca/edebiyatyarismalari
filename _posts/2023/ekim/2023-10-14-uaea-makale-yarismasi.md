@@ -2,6 +2,7 @@
 layout: post
 title: "Atoms for Peace and Development Kompozisyon Yarışması"
 description: "Uluslararası Atom Enerjisi Ajansı (UAEA) 'Atoms for Peace and Development Kompozisyon Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, makale yarışması, kompozisyon yarışması, genel]
 lastDate: 1698008400

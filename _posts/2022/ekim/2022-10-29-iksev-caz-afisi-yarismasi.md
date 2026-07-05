@@ -2,6 +2,7 @@
 layout: post
 title: "30. İzmir Avrupa Caz Festivali"
 description: "İzmir Kültür Sanat ve Eğitim Vakfı '30. İzmir Avrupa Caz Festivali' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, afiş yarışması, genel]
 lastDate: 1671742800

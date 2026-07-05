@@ -2,6 +2,7 @@
 layout: post
 title: "9. DüşünYaz Yarışması"
 description: "Felsefe Derneği '9. DüşünYaz Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, deneme yarışması, lise]
 lastDate: 1673557200

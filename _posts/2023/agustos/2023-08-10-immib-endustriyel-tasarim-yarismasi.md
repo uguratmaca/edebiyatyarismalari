@@ -2,6 +2,7 @@
 layout: post
 title: "İMMİB Endüstriyel Tasarım Yarışması"
 description: "İstanbul Demir ve Demir Dışı Metaller İhracatçıları Birliği (İDDMİB) 'İMMİB Endüstriyel Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, tasarım yarışması, üniversite]
 lastDate: 1698958800

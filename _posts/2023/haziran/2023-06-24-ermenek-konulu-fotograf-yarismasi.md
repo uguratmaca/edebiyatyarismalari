@@ -2,6 +2,7 @@
 layout: post
 title: "Erçev Ermenek Konulu Fotoğraf Yarışması"
 description: "Ermenek Ve Çevresi Kültür Ve Sosyal Dayanışma Vakfı (ERÇEV) 'fotoğraf yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, fotoğraf yarışması, genel]
 lastDate: 1690837200

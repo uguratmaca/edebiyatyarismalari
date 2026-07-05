@@ -2,6 +2,7 @@
 layout: post
 title: "2022 Sait Faik Öykü Ödülü"
 description: "Nilüfer Belediyesi '2022 Sait Faik Öykü Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, hikaye yarışması, genel, sait faik abasıyanık]
 lastDate: 1661461200

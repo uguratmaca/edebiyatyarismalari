@@ -2,6 +2,7 @@
 layout: post
 title: "Son Ümit Öykü Yarışması"
 description: "Son Ümit 'öykü yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, hikaye yarışması, genel]
 lastDate: 1685739600

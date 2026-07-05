@@ -2,6 +2,7 @@
 layout: post
 title: "Türkiye Ay Üsleri Ulusal Fikir Yarışması"
 description: "Bursa Büyükşehir Belediyesi, Bursa Teknik Üniversitesi, Bursa İl Milli Eğitim Müdürlüğü, GUHEM 'Türkiye Ay Üsleri Ulusal Fikir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, fikir yarışması, ortaöğretim, lise, üniversite, genel]
 lastDate: 1663189200

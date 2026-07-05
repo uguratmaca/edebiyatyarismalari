@@ -2,6 +2,7 @@
 layout: simple
 title: "Ayşe Şengöz Öykü Yarışması Sonuçları"
 description: "FGK Yayınları Ayşe Şengöz Öykü Yarışması sonuçlanmıştır."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2022]
 permalink: "ayse-sengoz-oyku-yarismasi-sonuc"

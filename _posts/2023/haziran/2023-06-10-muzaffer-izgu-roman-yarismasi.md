@@ -2,6 +2,7 @@
 layout: post
 title: "Muzaffer İzgü Çocuk Romanı Yarışması"
 description: "Bilgi Yayınevi 'Muzaffer İzgü Çocuk Romanı Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, roman yarışması, genel]
 lastDate: 1692046800

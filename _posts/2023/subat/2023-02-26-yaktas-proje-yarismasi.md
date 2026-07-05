@@ -2,6 +2,7 @@
 layout: post
 title: "Geleceğine Zemin Yarat Öğrenci Proje Yarışması"
 description: "Gerflor Türkiye 'Geleceğine Zemin Yarat Öğrenci Proje Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, proje yarışması, üniversite]
 lastDate: 1679605200

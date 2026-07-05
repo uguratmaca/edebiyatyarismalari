@@ -2,6 +2,7 @@
 layout: post
 title: "Sen de Yaz Öykü Yarışması"
 description: "Kidzania ve Erbulak Evi 'Sen de Yaz Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, hikaye yarışması, ortaokul]
 lastDate: 1678050000

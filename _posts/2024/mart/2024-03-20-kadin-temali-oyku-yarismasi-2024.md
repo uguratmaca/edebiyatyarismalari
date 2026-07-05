@@ -2,6 +2,7 @@
 layout: post
 title: "Kadın Temalı Öykü Yarışması"
 description: "Aydınlık Nesiller Derneği (AND) 'Kadın Temalı Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2024, hikaye yarışması, genel]
 lastDate: 1715115600

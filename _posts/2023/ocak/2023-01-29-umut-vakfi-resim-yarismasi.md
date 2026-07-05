@@ -2,6 +2,7 @@
 layout: post
 title: "Umut Vakfı Resim Yarışması"
 description: "Umut Vakfı 'resim yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, resim yarışması, ortaokul, lise]
 lastDate: 1683234000

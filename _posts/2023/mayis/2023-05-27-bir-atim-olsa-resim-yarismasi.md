@@ -2,6 +2,7 @@
 layout: post
 title: "Bir Atım Olsa Resim Yarışması"
 description: "Gallery Nue Art 'Bir Atım Olsa Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, resim yarışması, genel]
 lastDate: 1687122000

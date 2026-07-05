@@ -2,6 +2,7 @@
 layout: post
 title: "3. Uluslararası Fotoğraf Yarışması"
 description: "Yakın Doğu Üniversitesi '3. Uluslararası Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, fotoğraf yarışması, genel]
 lastDate: 1697749200

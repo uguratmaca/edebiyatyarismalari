@@ -2,6 +2,7 @@
 layout: post
 title: "Dil Derneği Beşir Göğüş Çocuk Roman Yarışması"
 description: "Dil Derneği 'Beşir Göğüş Çocuk Roman Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, roman yarışması, genel]
 lastDate: 1667250000

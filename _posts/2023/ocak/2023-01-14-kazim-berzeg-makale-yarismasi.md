@@ -2,6 +2,7 @@
 layout: post
 title: "2023 Kâzım Berzeg Makale Yarışması"
 description: "Liberal Düşünce Topluluğu '2023 Kâzım Berzeg Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, makale yarışması, genel]
 lastDate: 1675371600

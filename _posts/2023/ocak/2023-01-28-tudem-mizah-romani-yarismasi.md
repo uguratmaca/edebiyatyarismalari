@@ -2,6 +2,7 @@
 layout: post
 title: "21. Tudem Edebiyat Ödülleri"
 description: "Tudem Yayın Grubu '21. Tudem Edebiyat Ödülleri' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, roman yarışması, genel]
 lastDate: 1698786000

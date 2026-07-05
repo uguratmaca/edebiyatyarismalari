@@ -2,6 +2,7 @@
 layout: post
 title: "20. Geleneksel Ahmet Yeşil Çocuk Resim Yarışması"
 description: "Mersin Yenişehir Belediyesi '20. Geleneksel Ahmet Yeşil Çocuk Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, resim yarışması, ilkokul, ortaokul]
 lastDate: 1654030800

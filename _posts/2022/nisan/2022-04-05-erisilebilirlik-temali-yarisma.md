@@ -2,6 +2,7 @@
 layout: post
 title: "Erişilebilirlik Temalı Şiir, Resim ve Kısa Film Yarışması"
 description: "Aile ve Sosyal Hizmetler Bakanlığı 'Erişilebilirlik Temalı Şiir, Resim ve Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, şiir yarışması, resim yarışması, kısa film yarışması, ilkokul, ortaokul, lise]
 lastDate: 1650834000

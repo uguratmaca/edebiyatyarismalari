@@ -2,6 +2,7 @@
 layout: post
 title: "TEB Akıl Fikir Yarışması İcat Çıkar"
 description: "TEB 'TEB Akıl Fikir Yarışması İcat Çıkar' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, fikir yarışması, genel]
 lastDate: 1673730000

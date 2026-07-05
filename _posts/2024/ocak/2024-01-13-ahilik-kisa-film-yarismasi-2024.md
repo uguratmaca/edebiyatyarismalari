@@ -2,6 +2,7 @@
 layout: post
 title: "Ahilik Anlayışında Sanat Ve Estetik Konulu Kısa Film Yarışması"
 description: "Kırşehir İl Millî Eğitim Müdürlüğü, Kırşehir Ahi Evran Üniversitesi 'Ahilik Anlayışında Sanat Ve Estetik Konulu Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, kısa film yarışması, genel]
 lastDate: 1710882000

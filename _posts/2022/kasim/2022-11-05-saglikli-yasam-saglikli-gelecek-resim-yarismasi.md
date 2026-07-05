@@ -2,6 +2,7 @@
 layout: post
 title: "Sağlıklı Yaşam Sağlıklı Gelecek Resim Yarışması"
 description: "Hasan Celal Güzel İlkokulu 'Sağlıklı Yaşam Sağlıklı Gelecek Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, resim yarışması, ilkokul]
 lastDate: 1671397200

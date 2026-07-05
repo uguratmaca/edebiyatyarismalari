@@ -2,6 +2,7 @@
 layout: post
 title: "Bağımlılıkla Mücadelede Resim Yarışması"
 description: "Kayseri İl Milli Eğitim Müdürlüğü 'Bağımlılıkla Mücadelede Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, resim yarışması, ilkokul]
 lastDate: 1710450000

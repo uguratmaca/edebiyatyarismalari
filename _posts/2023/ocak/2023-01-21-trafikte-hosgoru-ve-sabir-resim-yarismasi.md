@@ -2,6 +2,7 @@
 layout: post
 title: "Trafikte Hoşgörü Ve Sabır Resim Yarışması"
 description: "Mersin Yenişehir Aydınlıkevler İlkokulu 'Trafikte Hoşgörü Ve Sabır Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, resim yarışması, ilkokul]
 lastDate: 1675198800

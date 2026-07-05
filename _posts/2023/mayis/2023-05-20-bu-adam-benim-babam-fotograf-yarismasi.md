@@ -2,6 +2,7 @@
 layout: post
 title: "Bu Adam Benim Babam Fotoğraf Yarışması"
 description: "Beyşehir Fotoğraf Kulübü 'Bu Adam Benim Babam Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, fotoğraf yarışması, genel]
 lastDate: 1685912400

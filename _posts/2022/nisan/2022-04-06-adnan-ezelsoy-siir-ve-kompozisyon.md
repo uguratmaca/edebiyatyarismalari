@@ -2,6 +2,7 @@
 layout: post
 title: "Dr. Adnan Ezelsoy Şiir ve Kompozisyon Yarışması"
 description: "Antakya Sanat Derneği 'Dr. Adnan Ezelsoy Şiir ve Kompozisyon Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, şiir yarışması, kompozisyon yarışması, genel]
 lastDate: 1652648400

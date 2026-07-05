@@ -2,6 +2,7 @@
 layout: post
 title: "25 Aralık Gaziantep Savunması Şiir Okuma Yarışması"
 description: "Gaziantep Büyükşehir Belediyesi '25 Aralık Gaziantep Savunması Şiir Okuma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, şiir okuma yarışması, lise]
 lastDate: 1670878800

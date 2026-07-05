@@ -2,6 +2,7 @@
 layout: post
 title: "Şair Şeyhi Şiir Yarışması"
 description: "Kütahya Belediyesi 'Şair Şeyhi Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, şiir yarışması, genel]
 lastDate: 1691874000

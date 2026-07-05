@@ -2,6 +2,7 @@
 layout: post
 title: "Anneme Mektup Yarışması"
 description: "Türkiye Kamu-Sen 'Anneme Mektup Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2024, mektup yarışması, ilkokul, ortaokul, lise]
 lastDate: 1713992400

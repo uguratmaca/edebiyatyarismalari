@@ -2,6 +2,7 @@
 layout: post
 title: "Sur İçinde Mekan Ve Hafıza Resim Yarışması"
 description: "Fatih Belediyesi 'Sur İçinde Mekan Ve Hafıza Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, resim yarışması, genel]
 lastDate: 1677272400

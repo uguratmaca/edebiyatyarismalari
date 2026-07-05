@@ -2,6 +2,7 @@
 layout: post
 title: "Uluslararası Kaşgarlı Mahmut Hikaye Yarışması"
 description: "Avrasya Yazarlar Birliği ve TÜRKSOY 'Uluslararası Kaşgarlı Mahmut Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, hikaye yarışması, genel]
 lastDate: 1694725200

@@ -2,6 +2,7 @@
 layout: post
 title: "Sinehane & Lacivert Senaryo Yarışması"
 description: "Sinehane ve Lacivert Dergi 'Sinehane & Lacivert Senaryo Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, senaryo yarışması, genel]
 lastDate: 1663189200

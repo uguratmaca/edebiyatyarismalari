@@ -2,6 +2,7 @@
 layout: post
 title: "'Kalplere Dokunan Türkülerimiz' Proje Yarışması"
 description: "Hatice Sağlamer Anaokulu 'Kalplere Dokunan Türkülerimiz' konulu proje yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, türkü yarışması, resim yarışması, okul öncesi]
 lastDate: 1651957200

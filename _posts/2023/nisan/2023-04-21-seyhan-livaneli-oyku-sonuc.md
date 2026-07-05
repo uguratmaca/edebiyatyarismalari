@@ -2,6 +2,7 @@
 layout: simple
 title: "2023 Seyhan Livaneli Öykü Yarışması Kazananları Belli Oldu"
 description: "Eksik Parça Yayınları tarafından düzenlenen 2023 Seyhan Livaneli Öykü Yarışması kazananları belli olmuştur."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2023]
 permalink: "seyhan-livaneli-oyku-sonuc"

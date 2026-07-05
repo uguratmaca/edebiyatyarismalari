@@ -2,6 +2,7 @@
 layout: post
 title: "SteelPRO Çelik Yapı Tasarımı Öğrenci Yarışması"
 description: "Türk Yapısal Çelik Derneği 'SteelPRO Çelik Yapı Tasarımı Öğrenci Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, tasarım yarışması, üniversite, mühendislik, mimarlık]
 lastDate: 1666299600

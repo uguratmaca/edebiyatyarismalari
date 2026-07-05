@@ -2,6 +2,7 @@
 layout: post
 title: "2024 Rıfat Ilgaz Şiir Yarışması"
 description: "Cide Belediye Başkanlığı '2024 Rıfat Ilgaz Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2024, şiir yarışması, genel, rıfat ılgaz]
 lastDate: 1713128400

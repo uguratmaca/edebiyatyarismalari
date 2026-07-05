@@ -2,6 +2,7 @@
 layout: post
 title: "12. Kısa Film Senaryo Yarışması"
 description: "ÖĞ-DER Şuurlu Öğretmenler Derneği Genel Merkezi Tanıtma Komisyonu Başkanlığı '12. Kısa Film Senaryo Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, kısa film yarışması, genel]
 lastDate: 1699563600

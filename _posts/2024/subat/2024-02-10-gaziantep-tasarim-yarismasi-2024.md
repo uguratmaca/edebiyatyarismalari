@@ -2,6 +2,7 @@
 layout: post
 title: "Yeşil Şehir Gaziantep Kent Simgesi Tasarım Yarışması"
 description: "Gaziantep Büyükşehir Belediyesi 'Yeşil Şehir Gaziantep Kent Simgesi Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, tasarım yarışması, üniversite]
 lastDate: 1709586000

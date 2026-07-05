@@ -2,6 +2,7 @@
 layout: post
 title: "Büyük Taarruzun 100 Yılı Resim Yarışması"
 description: "Beyyazı İlkokulu 'Büyük Taarruzun 100 Yılı Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, resim yarışması, ilkokul]
 lastDate: 1656622800

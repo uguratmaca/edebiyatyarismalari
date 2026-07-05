@@ -2,6 +2,7 @@
 layout: post
 title: "İHH Ödüllü Kitap Okuma Yarışması"
 description: "İnsan Hak ve Hürriyetleri İnsani Yardım Vakfı (İHH) Şanlıurfa Şubesi 'İHH Ödüllü Kitap Okuma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, kitap okuma yarışması, genel]
 lastDate: 1668459600

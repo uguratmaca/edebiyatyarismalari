@@ -2,6 +2,7 @@
 layout: post
 title: "Sarıçiçek Öykü Yarışması"
 description: "Karaman İl Milli Eğitim Müdürlüğü, Karaman İl Kültür ve Turizm Müdürlüğü 'Sarıçiçek Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, hikaye yarışması, genel]
 lastDate: 1650574800

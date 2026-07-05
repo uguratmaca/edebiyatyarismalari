@@ -2,6 +2,7 @@
 layout: post
 title: "Olan Biten Öykü Yarışması"
 description: "Olan Biten 'Olan Biten Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2024, hikaye yarışması, genel]
 lastDate: 1705266000

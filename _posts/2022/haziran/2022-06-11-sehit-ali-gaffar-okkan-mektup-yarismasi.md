@@ -2,6 +2,7 @@
 layout: post
 title: "Şehit Ali Gaffar Okkan Mektup Yarışması"
 description: "Hendek Kaymakamlığı, Hendek Belediyesi, İlçe Milli Eğitim Müdürlüğü ve PTT Çalışanları Dayanışma Derneği 'Şehit Ali Gaffar Okkan Mektup Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, mektup yarışması, ilkokul, ortaokul, lise]
 lastDate: 1655067600

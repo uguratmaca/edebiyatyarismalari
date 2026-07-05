@@ -2,6 +2,7 @@
 layout: post
 title: "SteelPRO Tasarım Yarışması"
 description: "Türk Yapısal Çelik Derneği 'SteelPRO Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, tasarım yarışması, üniversite]
 lastDate: 1699390800

@@ -2,6 +2,7 @@
 layout: post
 title: "Millet Derneği Düzyazı Yarışması"
 description: "Millet Derneği 'Millet Derneği Düzyazı Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, hikaye yarışması, deneme yarışması, makale yarışması, mektup yarışması, genel]
 lastDate: 1708722000

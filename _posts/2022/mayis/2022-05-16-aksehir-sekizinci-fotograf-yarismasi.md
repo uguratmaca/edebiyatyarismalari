@@ -2,6 +2,7 @@
 layout: post
 title: "8. Uluslararası Fotoğraf Yarışması"
 description: "Akşehir Belediyesi - Akşehir Fotoğraf Amatörleri Derneği (AKFAD) '8. Uluslararası Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, fotoğraf yarışması, genel]
 lastDate: 1654981200

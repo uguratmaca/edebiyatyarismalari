@@ -2,6 +2,7 @@
 layout: post
 title: "Yerli Malı Kullanalım Milli Serveti Çoğaltalım Resim Yarışması"
 description: "Hüseyin Uluğ Anaokulu Ana Okulu 'Yerli Malı Kullanalım Milli Serveti Çoğaltalım Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, resim yarışması, okul öncesi]
 lastDate: 1672693200

@@ -2,6 +2,7 @@
 layout: post
 title: "KASFAD Deneme Yazma Yarışması"
 description: "Kadınlar için Spor ve Fiziksel Aktivite Derneği (KASFAD) 'Deneme Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, deneme yarışması, genel]
 lastDate: 1694293200

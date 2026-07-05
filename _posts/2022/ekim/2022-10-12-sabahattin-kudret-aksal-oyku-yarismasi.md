@@ -2,6 +2,7 @@
 layout: post
 title: "Sabahattin Kudret Aksal Öykü Yarışması"
 description: "Sabahattin Kudret Aksal Ailesi 'Sabahattin Kudret Aksal Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, hikaye yarışması, genel]
 lastDate: 1672434000

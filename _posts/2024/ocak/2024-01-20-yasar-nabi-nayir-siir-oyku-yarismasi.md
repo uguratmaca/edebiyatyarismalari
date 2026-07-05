@@ -2,6 +2,7 @@
 layout: post
 title: "2024 Yaşar Nabi Nayır Gençlik Ödülleri"
 description: "Varlık Yayınları '2024 Yaşar Nabi Nayır Gençlik Ödülleri' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2024, hikaye yarışması, şiir yarışması, genel]
 lastDate: 1711918800

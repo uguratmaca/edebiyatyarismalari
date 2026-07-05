@@ -2,6 +2,7 @@
 layout: post
 title: "Çanakkale Savaşlarının 109. Yıl Dönümü Yarışmaları"
 description: "Çanakkale İl Millî Eğitim Müdürlüğü 'Çanakkale Savaşlarının 109. Yıl Dönümü Yarışmaları' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2024, resim yarışması, şiir yarışması, kompozisyon yarışması, ortaokul]
 lastDate: 1705006800

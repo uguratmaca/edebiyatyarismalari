@@ -2,6 +2,7 @@
 layout: post
 title: "Halit Aydın Bilim Ve Araştırma Ödülleri Yazılı Eser Yarışması 2024"
 description: "TARMER 'Halit Aydın Bilim Ve Araştırma Ödülleri Yazılı Eser Yarışması 2024' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2024, makale yarışması, deneme yarışması, genel]
 lastDate: 1715893200

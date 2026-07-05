@@ -2,6 +2,7 @@
 layout: post
 title: "Sakarya'dan Cumhuriyet'e Üç Adım Kısa Film Yarışması"
 description: "Darüşşafaka Lisesi 'Sakarya'dan Cumhuriyet'e Üç Adım Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, kısa film yarışması, lise]
 lastDate: 1665954000

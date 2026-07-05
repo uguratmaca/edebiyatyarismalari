@@ -2,6 +2,7 @@
 layout: post
 title: "Milli Mücadele Roman Yarışması"
 description: "Türk Edebiyatı Vakfı 'Milli Mücadele Roman Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, roman yarışması, genel]
 lastDate: 1682802000

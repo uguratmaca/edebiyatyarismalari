@@ -2,6 +2,7 @@
 layout: post
 title: "Mehmet Âkif Ersoy Ulusal Şiir Yarışması"
 description: "Bayramiç Belediyesi 'Mehmet Âkif Ersoy Ulusal Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, şiir yarışması, genel, mehmet akif ersoy]
 lastDate: 1668373200

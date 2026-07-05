@@ -2,6 +2,7 @@
 layout: post
 title: "BAİBÜ Öğrenci Mimari Fikir Tasarım Yarışması"
 description: "Bolu Abant İzzet Baysal Üniversitesi 'BAİBÜ Öğrenci Mimari Fikir Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, tasarım yarışması, üniversite]
 lastDate: 1656450000

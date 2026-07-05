@@ -2,6 +2,7 @@
 layout: post
 title: "İnci Kefali Göçü Fotoğraf Yarışması"
 description: "Erciş Kaymakamlığı ve Erciş Belediyesi 'İnci Kefali Göçü Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, fotoğraf yarışması, genel]
 lastDate: 1653339600

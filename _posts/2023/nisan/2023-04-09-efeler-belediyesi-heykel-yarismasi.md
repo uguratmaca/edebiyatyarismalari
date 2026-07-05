@@ -2,6 +2,7 @@
 layout: post
 title: "Cumhuriyet’in 100’üncü Yılı Anıt Heykel Yarışması 2023"
 description: "Efeler Belediyesi 'heykel yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, heykel yarışması, genel, 29 ekim]
 lastDate: 1682283600

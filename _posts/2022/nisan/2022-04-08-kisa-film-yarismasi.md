@@ -2,6 +2,7 @@
 layout: post
 title: "Osman Yılmaz Hocaefendi Anısına Kısa Film Yarışması"
 description: "Genç Kitaplar 'Osman Yılmaz Hocaefendi Anısına Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, kısa film yarışması, üniversite, osman yılmaz]
 lastDate: 1660510800

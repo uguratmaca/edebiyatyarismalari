@@ -2,6 +2,7 @@
 layout: post
 title: "33. Ankara Film Festivali Kısa Film Yarışması"
 description: "Vehbi Koç Ankara Araştırmaları Uygulama ve Araştırma Merkezi (VEKAM) ve Ankara Film Festivali '33. Ankara Film Festivali Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, kısa film yarışması, genel]
 lastDate: 1663102800

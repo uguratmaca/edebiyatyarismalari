@@ -2,6 +2,7 @@
 layout: post
 title: "Esaretten Cesarete 2022 İklim Değişikliği Konulu Kısa Film Yarışması"
 description: "Esaretten Cesarete Ekibi 'Esaretten Cesarete 2022 İklim Değişikliği Konulu Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, kısa film yarışması, üniversite, kıbrıs]
 lastDate: 1652562000

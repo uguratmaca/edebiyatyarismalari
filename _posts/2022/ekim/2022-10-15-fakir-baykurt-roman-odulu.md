@@ -2,6 +2,7 @@
 layout: post
 title: "Fakir Baykurt Roman Ödülü"
 description: "Çiğli Belediyesi 'Fakir Baykurt Roman Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, roman yarışması, fakir baykurt, kitap dosyası, edebiyat ödülleri, genel]
 lastDate: 1679259600

@@ -2,6 +2,7 @@
 layout: post
 title: "Evrenkent Kalemleri Öykü Yarışması"
 description: "Evrenkent Kalemleri 'öykü yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2024, hikaye yarışması, genel]
 lastDate: 1724965200

@@ -2,6 +2,7 @@
 layout: post
 title: "Mevlana Konulu Şiir Yarışması"
 description: "Dünya Mevlâna Sağlık Eğitim ve Kültür Vakfı 'Mevlana Konulu Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, şiir yarışması, genel]
 lastDate: 1699563600

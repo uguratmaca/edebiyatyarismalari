@@ -2,6 +2,7 @@
 layout: post
 title: "Göç Yılı Resim Yarışması"
 description: "Lüleburgaz Belediyesi 'Göç Yılı Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, resim yarışması, üniversite, genel]
 lastDate: 1668114000

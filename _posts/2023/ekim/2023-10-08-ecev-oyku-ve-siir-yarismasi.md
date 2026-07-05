@@ -2,6 +2,7 @@
 layout: post
 title: "Gençler Öykü ve Şiir Yazma Yarışması"
 description: "Ege Çağdaş Eğitim Vakfı (EÇEV) 'Gençler Öykü ve Şiir Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, şiir yarışması, hikaye yarışması, ortaokul, lise]
 lastDate: 1699563600

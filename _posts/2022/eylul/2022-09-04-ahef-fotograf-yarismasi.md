@@ -2,6 +2,7 @@
 layout: post
 title: "AHEF 1. Ulusal Fotoğraf Yarışması"
 description: "Aile Hekimleri Dernekleri Federasyonu (AHEF) '1. Ulusal Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, fotoğraf yarışması, genel]
 lastDate: 1665349200

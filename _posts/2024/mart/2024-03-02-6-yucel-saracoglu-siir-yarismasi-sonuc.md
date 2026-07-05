@@ -2,6 +2,7 @@
 layout: simple
 title: "6.Yücel Saraçoğlu Şiir Yarışması Kazananları Belli Oldu"
 description: "Eskişehir Sanat Derneği tarafından düzenlenen 6.Yücel Saraçoğlu Şiir Yarışması kazananları belli olmuştur."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2024]
 permalink: "6-yucel-saracoglu-siir-yarismasi-sonuc"

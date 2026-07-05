@@ -2,6 +2,7 @@
 layout: simple
 title: "Tanpınar Edebiyat Yarışması Sonuçları"
 description: "Tanpınar Edebiyat Yarışması sonuçlandı."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2022]
 permalink: "tanpinar-edebiyat-yarismasi-sonuclari"

@@ -2,6 +2,7 @@
 layout: post
 title: "14 Mart Tıp Haftası Fotoğraf Yarışması"
 description: "İstanbul Tabip Odası, İSTFOK (İstanbul Tıp Fakültesi Fotoğrafçılık Kolu), CEFOT (Cerrahpaşa Tıp Fak. Fotoğrafçılık Kulübü) 'fotoğraf yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, fotoğraf yarışması, üniversite, genel]
 lastDate: 1676667600

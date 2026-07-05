@@ -2,6 +2,7 @@
 layout: post
 title: "Hayalimdeki Çocuk Parkı Resim Yarışması"
 description: "Samsun Canik 100. Yıl İlkokulu 'Hayalimdeki Çocuk Parkı Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, resim yarışması, ilkokul]
 lastDate: 1673557200

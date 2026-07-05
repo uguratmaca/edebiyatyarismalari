@@ -2,6 +2,7 @@
 layout: post
 title: "KAYMEK Kitap Okuma Yarışması"
 description: "KAYMEK A.Ş 'kitap okuma yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, kitap okuma yarışması, genel]
 lastDate: 1684616400

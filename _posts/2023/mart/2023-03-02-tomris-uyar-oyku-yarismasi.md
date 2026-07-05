@@ -2,6 +2,7 @@
 layout: post
 title: "Tomris Uyar Öykü Yarışması"
 description: "Yazı-Yorum Edebiyat Dergisi ve Ayrıkotu Kitap 'Tomris Uyar Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2023, hikaye yarışması, genel]
 lastDate: 1689282000

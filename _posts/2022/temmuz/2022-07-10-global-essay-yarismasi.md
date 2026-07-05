@@ -2,6 +2,7 @@
 layout: post
 title: "Global Essay Yarışması"
 description: "Girl Security ve Texas National Security Review 'Global Essay Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, kompozisyon yarışması, genel]
 lastDate: 1659214800

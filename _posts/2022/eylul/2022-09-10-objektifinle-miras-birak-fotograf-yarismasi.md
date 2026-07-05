@@ -2,6 +2,7 @@
 layout: post
 title: "Benim Objektifimden Vakıf Medeniyeti Fotoğraf Yarışması"
 description: "T.C. Kültür ve Turizm Bakanlığı Vakıflar Genel Müdürlüğü Basın ve Halkla İlişkiler Müşavirliği 'Benim Objektifimden Vakıf Medeniyeti Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, fotoğraf yarışması, genel]
 lastDate: 1665349200

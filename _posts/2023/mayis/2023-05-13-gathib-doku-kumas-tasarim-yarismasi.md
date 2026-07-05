@@ -2,6 +2,7 @@
 layout: post
 title: "Doku Kumaş Tasarım Yarışması"
 description: "Güneydoğu Anadolu Tekstil ve Hammaddeleri İhracatçıları Birliği (GATHİB) 'Doku Kumaş Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2023, tasarım yarışması, genel]
 lastDate: 1691182800

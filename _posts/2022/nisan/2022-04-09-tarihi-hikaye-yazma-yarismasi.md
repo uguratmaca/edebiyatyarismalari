@@ -2,6 +2,7 @@
 layout: post
 title: "Tarihi Hikaye Yazma Yarışması"
 description: "Eyüpsultan Belediyesi, Eyüpsultan Kültür Sanat Spor Eğitim ve Dayanışma Derneği, CEIPES–Uluslararası Eğitim ve Gelişim Merkezi 'Tarihi Hikaye Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, hikaye yarışması, ortaokul]
 lastDate: 1650142800

@@ -2,6 +2,7 @@
 layout: post
 title: "7. Ulusal Slogan Logo ve Afiş Yarışması"
 description: "İlim Ve Edebiyat Eseri Sahipleri Meslek Birliği (İLESAM) '7. Ulusal Slogan Logo ve Afiş Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, afiş yarışması, ortaokul, lise]
 lastDate: 1672952400

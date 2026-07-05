@@ -2,6 +2,7 @@
 layout: post
 title: "Futuretex İstanbul Tasarım Yarışması"
 description: "İstanbul Tekstil Ve Hammaddeleri İhracatçıları Birliği (İTHİB) 'Futuretex İstanbul Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, tasarım yarışması, genel]
 lastDate: 1692478800

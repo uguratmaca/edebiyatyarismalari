@@ -2,6 +2,7 @@
 layout: post
 title: "Büyükannemin – Büyükbabamın Göç Öyküsü"
 description: "Lüleburgaz Belediyesi ile Lozan Mübadilleri Vakfı 'Büyükannemin – Büyükbabamın Göç Öyküsü' adlı öykü yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, hikaye yarışması, ortaokul, lise]
 lastDate: 1656622800

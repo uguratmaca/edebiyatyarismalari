@@ -2,6 +2,7 @@
 layout: post
 title: "Oku Kitabını Al Armağanını"
 description: "Ordu Valiliği (İl Millî Eğitim Müdürlüğü) 'Oku Kitabını Al Armağanını' adlı kitap okuma yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, kitap okuma yarışması, ilkokul, ortaokul, lise, ordu]
 lastDate: 1650574800

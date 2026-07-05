@@ -2,6 +2,7 @@
 layout: post
 title: "Başakşehir Living Lab 9. İnovasyon Yarışması"
 description: "Başakşehir Belediyesi ve Başakşehir Living Lab '9. İnovasyon Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, fikir yarışması, ortaokul, lise, üniversite]
 lastDate: 1666645200

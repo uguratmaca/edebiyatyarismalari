@@ -2,6 +2,7 @@
 layout: post
 title: "İstanbul Ticaret Odası Fotoğraf Yarışması"
 description: "İstanbul Ticaret Odası 'fotoğraf yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, fotoğraf yarışması, genel]
 lastDate: 1660510800

@@ -2,6 +2,7 @@
 layout: post
 title: "10. Ümran Baradan Resim Yarışması"
 description: "İzmir Konak Belediyesi '10. Ümran Baradan Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, resim yarışması, lise]
 lastDate: 1683234000

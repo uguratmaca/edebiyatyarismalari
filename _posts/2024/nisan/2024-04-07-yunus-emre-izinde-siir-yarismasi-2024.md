@@ -2,6 +2,7 @@
 layout: post
 title: "Yunus Emre İzinde Türkçe Şiir Yarışması"
 description: "Yunus Emre Ortaokulu 'Yunus Emre İzinde Türkçe Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2024, şiir yarışması, ortaokul]
 lastDate: 1714683600

@@ -2,6 +2,7 @@
 layout: post
 title: "20. Onur Güvener Öykü Yarışması"
 description: "Uluslararası Lions Dernekleri 118Y İstanbul Anadolu Yakası Yönetim Çevresi Federasyonu Lions Dernekleri '20. Onur Güvener Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, hikaye yarışması, ilkokul, ortaokul]
 lastDate: 1676408400

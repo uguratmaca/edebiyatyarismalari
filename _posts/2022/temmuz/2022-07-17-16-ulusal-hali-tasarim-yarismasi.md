@@ -2,6 +2,7 @@
 layout: post
 title: "16. Ulusal Halı Tasarım Yarışması"
 description: "İHİB '16. Ulusal Halı Tasarım Yarışması'  düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, tasarım yarışması, üniversite]
 lastDate: 1671138000

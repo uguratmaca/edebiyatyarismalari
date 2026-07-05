@@ -2,6 +2,7 @@
 layout: post
 title: "Baumit Tasarım Yarışması"
 description: "Baumit Türkiye 'Baumit Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, tasarım yarışması, üniversite]
 lastDate: 1676408400

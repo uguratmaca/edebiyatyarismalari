@@ -2,6 +2,7 @@
 layout: post
 title: "17. Fotoğraf Yarışması"
 description: "Osmangazi Belediyesi '“Osman Gazi’yi Anma ve Bursa’nın Fethi Şenlikleri” Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, fotoğraf yarışması, genel, bursa, osmangazi]
 lastDate: 1650920400

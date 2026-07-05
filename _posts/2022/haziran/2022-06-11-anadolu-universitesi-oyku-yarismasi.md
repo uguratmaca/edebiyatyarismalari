@@ -2,6 +2,7 @@
 layout: post
 title: "Anadolu Üniversitesi Öykü Yarışması"
 description: "Anadolu Üniversitesi 'Yaşam Boyu Öğrenimde Engelli Bireyler' konulu öykü yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, hikaye yarışması, üniversite]
 lastDate: 1659128400

@@ -2,6 +2,7 @@
 layout: post
 title: "İnsan Hakları Resim, Şiir ve Kompozisyon Yarışması"
 description: "Onikişubat Anadolu Lisesi 'İnsan Hakları Resim, Şiir ve Kompozisyon Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, resim yarışması, şiir yarışması, kompozisyon yarışması, ilkokul, ortaokul, lise]
 lastDate: 1681506000

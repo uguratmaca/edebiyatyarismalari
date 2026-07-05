@@ -2,6 +2,7 @@
 layout: post
 title: "Sürdürülebilirlik Fikir Yarışması 2023"
 description: "Çevre Dostu Yeşil Binalar Derneği (ÇEDBİK) 'Sürdürülebilirlik Fikir Yarışması 2023' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, fikir yarışması, tasarım yarışması, üniversite]
 lastDate: 1694984400

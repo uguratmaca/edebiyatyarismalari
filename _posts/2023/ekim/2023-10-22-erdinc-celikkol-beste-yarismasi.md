@@ -2,6 +2,7 @@
 layout: post
 title: "3. Erdinç Çelikkol Beste Yarışması"
 description: "Bursa Büyükşehir Belediyesi '3. Erdinç Çelikkol Beste Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, beste yarışması, genel]
 lastDate: 1699563600

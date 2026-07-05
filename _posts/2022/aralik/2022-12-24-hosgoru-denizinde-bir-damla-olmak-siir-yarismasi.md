@@ -2,6 +2,7 @@
 layout: post
 title: "Hoşgörü Denizinde Bir Damla Olmak Şiir Yarışması"
 description: "Afyon Toki Mevlana Ortaokulu 'Hoşgörü Denizinde Bir Damla Olmak Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, şiir yarışması, ortaokul]
 lastDate: 1672261200

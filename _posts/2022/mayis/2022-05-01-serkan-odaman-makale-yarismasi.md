@@ -2,6 +2,7 @@
 layout: post
 title: "Dr. Serkan Odaman 2. Makale Yarışması"
 description: "ELSA İzmir 'Dr. Serkan Odaman 2. Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, makale yarışması, üniversite, hukuk]
 lastDate: 1652994000

@@ -2,6 +2,7 @@
 layout: post
 title: "2022 Cengiz Göral Şiir Yarışması"
 description: "Bursa Barosu '2022 Cengiz Göral Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, şiir yarışması, genel]
 lastDate: 1659042000

@@ -2,6 +2,7 @@
 layout: post
 title: "Kadın Öyküleri Kısa Öykü Yarışması"
 description: "Konak Belediyesi 'Kadın Öyküleri' yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, şiir yarışması, hikaye yarışması, genel, kadın]
 lastDate: 1664571600

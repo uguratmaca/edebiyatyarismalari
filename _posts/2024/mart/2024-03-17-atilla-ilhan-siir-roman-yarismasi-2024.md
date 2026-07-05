@@ -2,6 +2,7 @@
 layout: post
 title: "Attila İlhan 9. Edebiyat Ödülleri"
 description: "Attilâ İlhan Bilim, Sanat ve Kültür Vakfı 'Attila İlhan 9. Edebiyat Ödülleri' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2024, şiir yarışması, roman yarışması, genel, attila ilhan]
 lastDate: 1718226000

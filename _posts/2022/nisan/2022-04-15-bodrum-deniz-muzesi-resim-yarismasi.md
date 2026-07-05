@@ -2,6 +2,7 @@
 layout: post
 title: "3. Bodrum Deniz Müzesi Çocuk Resim Yarışması"
 description: "Bodrum Deniz Müzesi '3. Bodrum Deniz Müzesi Çocuk Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, ilkokul, ortaokul, lise, bodrum]
 lastDate: 1653166800

@@ -2,6 +2,7 @@
 layout: post
 title: "43. Uluslararası Nasreddin Hoca Karikatür Yarışması 2023"
 description: "Karikatürcüler Derneği '43. Uluslararası Nasreddin Hoca Karikatür Yarışması 2023' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, karikatür yarışması, genel]
 lastDate: 1696021200

@@ -2,6 +2,7 @@
 layout: post
 title: "Söğüt Tarih ve Doğa ile Buluşma-Karşılaşma Alanı Mimari Proje Yarışması"
 description: "TMMOB Mimarlar Odası Bursa Şubesi 'Söğüt Tarih ve Doğa ile Buluşma-Karşılaşma Alanı Mimari Proje Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, proje yarışması, genel]
 lastDate: 1671051600

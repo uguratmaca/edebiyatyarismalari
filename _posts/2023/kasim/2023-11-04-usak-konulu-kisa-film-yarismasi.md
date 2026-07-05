@@ -2,6 +2,7 @@
 layout: post
 title: "Cumhuriyetin 100. Yılında Uşak Konulu Kısa Film Yarışması"
 description: "Uşak Valiliği 'Cumhuriyetin 100. Yılında Uşak Konulu Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, kısa film yarışması, genel]
 lastDate: 1701291600

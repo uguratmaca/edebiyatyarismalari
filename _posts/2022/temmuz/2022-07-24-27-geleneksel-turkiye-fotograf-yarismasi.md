@@ -2,6 +2,7 @@
 layout: post
 title: "27. Geleneksel Türkiye Fotoğraf Yarışması Yarışması"
 description: "Aktiffelsefe Kültür Derneği '27. Geleneksel Türkiye Fotoğraf Yarışması'  düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, fotoğraf yarışması, genel]
 lastDate: 1667509200

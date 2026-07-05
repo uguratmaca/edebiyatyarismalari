@@ -2,6 +2,7 @@
 layout: post
 title: "Geleneksel 19. Hikaye Yarışması"
 description: "Ümraniye Belediyesi 'Geleneksel 19. Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, hikaye yarışması, genel]
 lastDate: 1685048400

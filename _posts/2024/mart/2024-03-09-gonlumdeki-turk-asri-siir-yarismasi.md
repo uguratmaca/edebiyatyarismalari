@@ -2,6 +2,7 @@
 layout: post
 title: "Gönlümdeki Türk Asrı Şiir Yarışması"
 description: "Türk Eğitim-Sen 'Gönlümdeki Türk Asrı Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2024, şiir yarışması, genel]
 lastDate: 1730235600

@@ -2,6 +2,7 @@
 layout: post
 title: "Nakiyye Elgün Öykü Yarışması"
 description: "FMV Özel Işık Ortaokulu Müdürlüğü 'Nakiyye Elgün Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, hikaye yarışması, ortaokul]
 lastDate: 1711054800

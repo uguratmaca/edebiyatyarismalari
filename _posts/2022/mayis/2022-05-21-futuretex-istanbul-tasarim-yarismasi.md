@@ -2,6 +2,7 @@
 layout: post
 title: "Futuretex İstanbul Tasarım Yarışması"
 description: "İstanbul Tekstil ve Hammaddeleri İhracatçılar Birliği 'Futuretex İstanbul Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, tasarım yarışması, üniversite]
 lastDate: 1656018000

@@ -2,6 +2,7 @@
 layout: post
 title: "Gelecek Bizim Fotoğraf Yarışması"
 description: "Türkiye İş Bankası tarafından, Fotoğraf Organizasyonları Derneği ve Habitat TV iş birliğinde 'Gelecek Bizim Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, fotoğraf yarışması, ilkokul, ortaokul, lise]
 lastDate: 1656104400

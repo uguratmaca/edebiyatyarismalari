@@ -2,6 +2,7 @@
 layout: post
 title: "Ayşe Şengöz Öykü Yarışması"
 description: "FGK Yayınları 'Ayşe Şengöz Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, hikaye yarışması, genel]
 lastDate: 1697317200

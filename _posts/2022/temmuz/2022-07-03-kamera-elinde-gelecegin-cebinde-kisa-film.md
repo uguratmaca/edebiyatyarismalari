@@ -2,6 +2,7 @@
 layout: post
 title: "Kamera Elinde Geleceğin Cebinde Kısa Film Yarışması"
 description: "Türkiye Sermaye Piyasaları Birliği 'Kamera Elinde Geleceğin Cebinde Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, kısa film yarışması, genel]
 lastDate: 1663275600

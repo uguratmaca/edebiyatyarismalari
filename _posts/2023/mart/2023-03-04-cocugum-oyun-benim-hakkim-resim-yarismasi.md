@@ -2,6 +2,7 @@
 layout: post
 title: "Çocuğum Oyun Benim Hakkım Resim Yarışması"
 description: "Muş Kale İlkokulu 'Çocuğum Oyun Benim Hakkım Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, resim yarışması, ilkokul]
 lastDate: 1678654800

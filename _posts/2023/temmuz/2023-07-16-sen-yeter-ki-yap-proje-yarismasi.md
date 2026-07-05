@@ -2,6 +2,7 @@
 layout: post
 title: "Sen Yeter Ki Yap Proje Yarışması"
 description: "Tümosan Motor ve Traktör A.Ş. 'Sen Yeter Ki Yap Proje Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, proje yarışması, genel]
 lastDate: 1701291600

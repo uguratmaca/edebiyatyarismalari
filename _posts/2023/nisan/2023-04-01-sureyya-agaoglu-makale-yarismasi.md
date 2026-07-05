@@ -2,6 +2,7 @@
 layout: post
 title: "2. Süreyya Ağaoğlu Makale Yarışması"
 description: "Süreyya Ağaoğlu Çocuk Dostları Derneği '2. Süreyya Ağaoğlu Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, makale yarışması, üniversite]
 lastDate: 1682802000

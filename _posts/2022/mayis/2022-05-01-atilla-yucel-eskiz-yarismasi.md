@@ -2,6 +2,7 @@
 layout: post
 title: "3. Atilla Yücel Eskiz Yarışması"
 description: "Uluslararası Kıbrıs Üniversitesi Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi '3. Atilla Yücel Eskiz Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, üniversite]
 lastDate: 1653253200

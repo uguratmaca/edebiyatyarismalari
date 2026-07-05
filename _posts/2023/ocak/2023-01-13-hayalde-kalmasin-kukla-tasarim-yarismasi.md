@@ -2,6 +2,7 @@
 layout: post
 title: "Kukla Tasarım Yarışması"
 description: "Diyarbakır Kayapınar Huzurevleri Anaokulu 'Kukla Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, tasarım yarışması, okul öncesi]
 lastDate: 1676149200

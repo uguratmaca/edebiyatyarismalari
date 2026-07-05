@@ -2,6 +2,7 @@
 layout: post
 title: "Binpınar Su Fotoğraf Yarışması"
 description: "Binpınar Su 'fotoğraf yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, fotoğraf yarışması, genel]
 lastDate: 1685394000

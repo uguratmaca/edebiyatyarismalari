@@ -2,6 +2,7 @@
 layout: post
 title: "5 Kelime 1 Hikaye Öykü Yarışması"
 description: "TRT 2 '5 Kelime 1 Hikaye Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, hikaye yarışması, genel]
 lastDate: 1654030800

@@ -2,6 +2,7 @@
 layout: post
 title: "Ekolojik Yıkım 2022 Fotoğraf Sergisi"
 description: "TMMOB Çevre Mühendisleri Odası 'Ekolojik Yıkım 2022 Fotoğraf Sergisi' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, fotoğraf yarışması, genel]
 lastDate: 1653858000

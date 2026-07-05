@@ -2,6 +2,7 @@
 layout: post
 title: "Geri Dönüşümün Geleceğimiz İçin Önemi Resim Yarışması"
 description: "Şanlıurfa Haliliye Mehmet Aziz Parmaksız İlkokulu 'Geri Dönüşümün Geleceğimiz İçin Önemi Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, resim yarışması, ilkokul]
 lastDate: 1676840400

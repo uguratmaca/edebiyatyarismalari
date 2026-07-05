@@ -2,6 +2,7 @@
 layout: post
 title: "Geleneksel Sanatlar Tasarım Yarışması"
 description: "Zeytinburnu Kültür Sanat Merkezi 'Geleneksel Sanatlar Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, tasarım yarışması, genel]
 lastDate: 1664485200

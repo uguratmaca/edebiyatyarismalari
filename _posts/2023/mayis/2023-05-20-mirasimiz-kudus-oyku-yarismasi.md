@@ -2,6 +2,7 @@
 layout: post
 title: "Mirasımız Kudüs Öykü Yarışması"
 description: "Mirasımız Kudüs Derneği 'Mirasımız Kudüs Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, hikaye yarışması, genel]
 lastDate: 1694725200

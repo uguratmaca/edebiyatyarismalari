@@ -2,6 +2,7 @@
 layout: post
 title: "Ödüllü Şiir Yarışması"
 description: "Edebiyatevi 'Ödüllü Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, şiir yarışması, genel]
 lastDate: 1673643600

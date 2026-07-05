@@ -2,6 +2,7 @@
 layout: post
 title: "Lise Öğrencileri Öykü Yarışması"
 description: "ŞURKAV 'Lise Öğrencileri Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, hikaye yarışması, lise]
 lastDate: 1672347600

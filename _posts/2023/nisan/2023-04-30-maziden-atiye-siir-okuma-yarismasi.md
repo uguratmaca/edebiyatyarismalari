@@ -2,6 +2,7 @@
 layout: post
 title: "Maziden Atiye Şiir Okuma Yarışması"
 description: "İstanbul İl Milli Eğitim Müdürlüğü 'Maziden Atiye Şiir Okuma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, şiir okuma yarışması, genel]
 lastDate: 1683493200

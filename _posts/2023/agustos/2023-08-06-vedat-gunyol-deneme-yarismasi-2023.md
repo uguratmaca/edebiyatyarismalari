@@ -2,6 +2,7 @@
 layout: post
 title: "8. Vedat Günyol Deneme Yarışması"
 description: "Kartal Belediyesi '8. Vedat Günyol Deneme Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, deneme yarışması, genel]
 lastDate: 1699995600

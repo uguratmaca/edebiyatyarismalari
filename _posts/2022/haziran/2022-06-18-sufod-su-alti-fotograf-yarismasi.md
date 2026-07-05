@@ -2,6 +2,7 @@
 layout: post
 title: "2. Ulusal Su Altı Fotoğraf Yarışması"
 description: "Su Altı Fotoğrafçıları ve Filmcileri Derneği (SUFOD) '2. Ulusal Su Altı Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, fotoğraf yarışması, genel]
 lastDate: 1671397200

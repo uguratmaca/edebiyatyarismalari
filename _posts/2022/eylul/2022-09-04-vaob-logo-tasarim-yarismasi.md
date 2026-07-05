@@ -2,6 +2,7 @@
 layout: post
 title: "VAOB Logo Tasarım Yarışması"
 description: "Van Akademik Odaları Birliği (VAOB) 'VAOB Logo Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, tasarım yarışması, genel]
 lastDate: 1664485200

@@ -2,6 +2,7 @@
 layout: post
 title: "Educathon Mesleki Eğitimde Yenilikçi Yaklaşımlar Yarışması"
 description: "Adana Sanayi Odası, Birleşmiş Milletler Kalkınma Programı ve EBRD 'Educathon Mesleki Eğitimde Yenilikçi Yaklaşımlar Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, proje yarışması, genel]
 lastDate: 1655067600

@@ -2,6 +2,7 @@
 layout: post
 title: "Silivri’de Hayat Var Ulusal Fotoğraf Yarışması"
 description: "Silivri Belediyesi 'Silivri’de Hayat Var Ulusal Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, fotoğraf yarışması, genel]
 lastDate: 1658264400

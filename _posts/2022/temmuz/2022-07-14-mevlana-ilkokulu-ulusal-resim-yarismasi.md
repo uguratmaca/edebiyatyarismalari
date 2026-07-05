@@ -2,6 +2,7 @@
 layout: post
 title: "Kayapınar Mevlana İlkokulu Ulusal Resim Yarışması"
 description: "Diyarbakır Kayapınar Mevlana İlkokulu 'ulusal resim yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, resim yarışması, ilkokul]
 lastDate: 1665522000

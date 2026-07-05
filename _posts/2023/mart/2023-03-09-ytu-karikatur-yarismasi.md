@@ -2,6 +2,7 @@
 layout: post
 title: "3. Öğrenci Karikatür Yarışması"
 description: "Yıldız Teknik Üniversitesi '3. Öğrenci Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, karikatür yarışması, üniversite]
 lastDate: 1682802000

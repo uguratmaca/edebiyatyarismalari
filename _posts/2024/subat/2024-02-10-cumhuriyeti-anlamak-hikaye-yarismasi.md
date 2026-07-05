@@ -2,6 +2,7 @@
 layout: post
 title: "ABAD Cumhuriyeti Anlamak Hikaye Yarışması"
 description: "Anadolu Bilgelerini Araştırma Derneği 'ABAD Cumhuriyeti Anlamak Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2024, hikaye yarışması, ortaokul, lise]
 lastDate: 1713819600

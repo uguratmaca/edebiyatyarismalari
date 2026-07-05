@@ -2,6 +2,7 @@
 layout: post
 title: "13. Fotoğraf Yarışması"
 description: "Zeytinburnu Belediyesi '13. Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, fotoğraf yarışması, genel]
 lastDate: 1700168400

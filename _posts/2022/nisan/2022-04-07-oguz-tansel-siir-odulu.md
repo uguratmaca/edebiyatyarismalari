@@ -2,6 +2,7 @@
 layout: post
 title: "2022 Oğuz Tansel Şiir Ödülü"
 description: "Bilkent Üniversitesi '2022 Oğuz Tansel Şiir Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, şiir yarışması, genel, bilkent, edebiyat ödülleri]
 lastDate: 1653944400

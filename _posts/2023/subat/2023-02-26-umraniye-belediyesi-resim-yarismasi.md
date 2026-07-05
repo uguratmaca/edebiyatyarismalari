@@ -2,6 +2,7 @@
 layout: post
 title: "Geleneksel 19. Resim Yarışması"
 description: "Ümraniye Belediyesi 'Geleneksel 19. Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, resim yarışması, genel]
 lastDate: 1688072400

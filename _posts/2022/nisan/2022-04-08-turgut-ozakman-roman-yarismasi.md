@@ -2,6 +2,7 @@
 layout: post
 title: "Turgut Özakman İlk Roman Yarışması"
 description: "Bilgi Yayınevi 'Turgut Özakman İlk Roman Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, roman yarışması, genel, turgut özakman, kitap dosyası]
 lastDate: 1659214800

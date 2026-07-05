@@ -2,6 +2,7 @@
 layout: post
 title: "İlyas Salman Şiir ve Öykü Yarışması"
 description: "Kibele Kültür Sanat Dergisi 'İlyas Salman Şiir ve Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2024, hikaye yarışması, şiir yarışması, genel]
 lastDate: 1723755600

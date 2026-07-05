@@ -2,6 +2,7 @@
 layout: post
 title: "Kitap Kurdu Kitap Okuma Yarışması"
 description: "Türkiye Gençlik Vakfı (TÜGVA) 'Kitap Kurdu Kitap Okuma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, kitap okuma yarışması, ortaokul]
 lastDate: 1708808400

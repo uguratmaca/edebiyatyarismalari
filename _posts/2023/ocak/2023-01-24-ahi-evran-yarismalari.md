@@ -2,6 +2,7 @@
 layout: post
 title: "2. Uluslararası Ahilik ve Ahi Evran Yarışmaları"
 description: "Türk Dünyası Parlamenterler Vakfı (TDPV) '2. Uluslararası Ahilik ve Ahi Evran Yarışmaları' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, resim yarışması, hikaye yarışması, deneme yarışması, şiir yarışması, masal yarışması, ilkokul, ortaokul, lise]
 lastDate: 1688072400

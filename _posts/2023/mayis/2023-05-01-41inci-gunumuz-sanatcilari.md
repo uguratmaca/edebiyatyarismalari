@@ -2,6 +2,7 @@
 layout: post
 title: "Akbank 41. Günümüz Sanatçıları Ödülü Yarışması"
 description: "Akbank Sanat 'Akbank 41. Günümüz Sanatçıları Ödülü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, resim yarışması, heykel yarışması, fotoğraf yarışması, genel]
 lastDate: 1687294800

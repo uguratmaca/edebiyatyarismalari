@@ -2,6 +2,7 @@
 layout: post
 title: "Bağımlılıkla Mücadelede Kısa Film Yarışması"
 description: "Kayseri İl Milli Eğitim Müdürlüğü 'Bağımlılıkla Mücadelede Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, kısa film yarışması, lise]
 lastDate: 1709154000

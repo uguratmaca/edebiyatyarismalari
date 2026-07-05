@@ -2,6 +2,7 @@
 layout: post
 title: "Avukat Özgür Aksoy Şiir Yarışması"
 description: "Bursa Barosu 'Avukat Özgür Aksoy Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2023, şiir yarışması, genel, hukuk]
 lastDate: 1690750800

@@ -2,6 +2,7 @@
 layout: post
 title: "Yerli Malı Kullanma Ve Tutumlu Olma Resim Yarışması"
 description: "Batman Ömer Seyfettin İlkokulu 'Yerli Malı Kullanma Ve Tutumlu Olma Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, resim yarışması, ilkokul]
 lastDate: 1676840400

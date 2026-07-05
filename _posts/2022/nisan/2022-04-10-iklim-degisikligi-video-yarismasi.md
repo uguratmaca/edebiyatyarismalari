@@ -2,6 +2,7 @@
 layout: post
 title: "İklim Değişikliği Temalı Öğrenci Video Yarışması"
 description: "Orta Doğu Teknik Üniversitesi Toplum ve Bilim Uygulama ve Araştırma Merkezi 'İklim Değişikliği Temalı Öğrenci Video Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, video yarışması, kısa film yarışması, lise, odtu]
 lastDate: 1650574800

@@ -2,6 +2,7 @@
 layout: post
 title: "Vincent van Gogh Resim Yarışması"
 description: "SU-ASEA Vakfı 'Vincent van Gogh Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, resim yarışması, lise]
 lastDate: 1677618000

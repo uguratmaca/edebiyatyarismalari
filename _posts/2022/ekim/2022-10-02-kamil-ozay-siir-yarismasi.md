@@ -2,6 +2,7 @@
 layout: post
 title: "Kamil Özay Şiir Yarışması"
 description: "Yakın Doğu Üniversitesi Türkçe Öğretmenliği-Türk Dili ve Edebiyatı Bölümleri 'Kamil Özay Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, şiir yarışması, üniversite]
 lastDate: 1667509200

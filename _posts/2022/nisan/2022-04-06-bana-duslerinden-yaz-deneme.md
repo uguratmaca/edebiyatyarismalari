@@ -2,6 +2,7 @@
 layout: post
 title: "Bana Düşlerinden Yaz Deneme Yarışması"
 description: "Özel PEV Amiroğlu Fen Lisesi 'Bana Düşlerinden Yaz Deneme Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, deneme yarışması, lise]
 lastDate: 1652216400

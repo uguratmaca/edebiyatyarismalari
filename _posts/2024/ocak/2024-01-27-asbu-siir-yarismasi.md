@@ -2,6 +2,7 @@
 layout: post
 title: "Ankara Sosyal Bilimler Üniversitesi Şiir Yarışması"
 description: "Ankara Sosyal Bilimler Üniversitesi 'şiir yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, şiir yarışması, genel]
 lastDate: 1710018000

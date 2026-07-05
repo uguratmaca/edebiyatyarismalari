@@ -2,6 +2,7 @@
 layout: post
 title: "12. Fotoğraf Yarışması"
 description: "Zeytinburnu Belediyesi '12. Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, fotoğraf yarışması, genel]
 lastDate: 1668805200

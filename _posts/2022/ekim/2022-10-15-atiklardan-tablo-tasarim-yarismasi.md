@@ -2,6 +2,7 @@
 layout: post
 title: "Tablo Tasarım Yarışması"
 description: "Kartal Belediyesi İklim Değişikliği ve Sıfır Atık Müdürlüğü 'Tablo Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, tasarım yarışması, genel]
 lastDate: 1678395600

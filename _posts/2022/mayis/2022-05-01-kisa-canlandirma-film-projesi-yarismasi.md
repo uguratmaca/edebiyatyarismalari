@@ -2,6 +2,7 @@
 layout: post
 title: "12. Kısa Canlandırma Film Projesi Seçme Yarışması"
 description: "Canlandıranlar Yetenek Kampı (CYK) '12. Kısa Canlandırma Film Projesi Seçme Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, kısa film yarışması, genel]
 lastDate: 1652994000

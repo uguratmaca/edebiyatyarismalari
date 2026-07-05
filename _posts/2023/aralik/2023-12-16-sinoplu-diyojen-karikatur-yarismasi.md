@@ -2,6 +2,7 @@
 layout: post
 title: "3. Uluslararası Karikatür Yarışması 2024"
 description: "Ayancık Belediyesi ve Sinop Yazarlar, Şairler ve Sanatçılar Derneği '3. Uluslararası Karikatür Yarışması 2024' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2024, karikatür yarışması, genel]
 lastDate: 1718398800

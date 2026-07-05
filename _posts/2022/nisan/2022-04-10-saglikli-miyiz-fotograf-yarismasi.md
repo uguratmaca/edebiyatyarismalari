@@ -2,6 +2,7 @@
 layout: post
 title: "'Sağlıklı Mıyız' Konulu Fotoğraf Yarışması"
 description: "Erasmus+ KA204 'Sağlıklı Mıyız' Konulu Fotoğraf Yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, fotoğraf yarışması, lise]
 lastDate: 1649970000

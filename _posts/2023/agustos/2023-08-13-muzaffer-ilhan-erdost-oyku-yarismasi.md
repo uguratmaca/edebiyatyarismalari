@@ -2,6 +2,7 @@
 layout: post
 title: "Muzaffer İlhan Erdost Öykü Yarışması"
 description: "Veteriner Hekimler Derneği 'Muzaffer İlhan Erdost Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, hikaye yarışması, genel]
 lastDate: 1693429200

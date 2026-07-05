@@ -2,6 +2,7 @@
 layout: post
 title: "4. Okumak Güzeldir Kitap Okuma Yarışması"
 description: "Eyüpsultan Belediyesi Kültür İşleri Müdürlüğü '4. Okumak Güzeldir Kitap Okuma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, kitap okuma yarışması, genel]
 lastDate: 1687467600

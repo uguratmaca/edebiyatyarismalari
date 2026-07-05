@@ -2,6 +2,7 @@
 layout: post
 title: "Kitap Ayracı Tasarım Yarışması"
 description: "Isparta İl Milli Eğitim Müdürlüğü 'Her Yerde Matematik Kitap Ayracı Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, tasarım yarışması, ortaokul, lise]
 lastDate: 1676322000

@@ -2,6 +2,7 @@
 layout: post
 title: "18. Aydın Üstüntaş Geleneksel Oyun Yazma Yarışması"
 description: "Güzel Ordu Kültür Sanat Vakfı '18. Aydın Üstüntaş Geleneksel Oyun Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, tiyatro oyunu yazma yarışması, genel]
 lastDate: 1706734800

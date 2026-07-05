@@ -2,6 +2,7 @@
 layout: post
 title: "Gelecek Kalemler Tiyatro Oyunu Yazma Yarışması"
 description: "Beşiktaş Sakıp Sabancı Anadolu Lisesi 'Gelecek Kalemler Tiyatro Oyunu Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, tiyatro oyunu yazma yarışması, ortaokul]
 lastDate: 1682802000

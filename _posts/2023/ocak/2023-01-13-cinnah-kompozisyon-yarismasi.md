@@ -2,6 +2,7 @@
 layout: post
 title: "Cinnah Genç Yazarlar Ödülü Kompozisyon Yarışması"
 description: "AB Ve Dış İlişkiler Genel Müdürlüğü İle Pakistan İslam Cumhuriyeti Ankara Büyükelçiliği 'Cinnah Genç Yazarlar Ödülü Kompozisyon Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, kompozisyon yarışması, lise]
 lastDate: 1675976400

@@ -2,6 +2,7 @@
 layout: post
 title: "AFAD Gönüllüleri Arası Fotoğraf Yarışması"
 description: "Afet ve Acil Durum Yönetimi Başkanlığı 'AFAD Gönüllüleri Arası Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, fotoğraf yarışması, genel, afad]
 lastDate: 1651784400

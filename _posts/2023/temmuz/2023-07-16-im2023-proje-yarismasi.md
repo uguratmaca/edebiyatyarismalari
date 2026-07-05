@@ -2,6 +2,7 @@
 layout: post
 title: "im2023 Proje Yarışması"
 description: "TMMOB İçmimarlar Odası 'im2023 Proje Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, proje yarışması, üniversite]
 lastDate: 1696798800

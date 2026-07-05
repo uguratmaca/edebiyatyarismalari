@@ -2,6 +2,7 @@
 layout: post
 title: "24 Kasım Öğretmenler Günü Öykü Yarışması"
 description: "Şehit Sinan Oruç Çok Programlı Anadolu Lisesi '24 Kasım Öğretmenler Günü Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, hikaye yarışması, lise]
 lastDate: 1668114000

@@ -2,6 +2,7 @@
 layout: post
 title: "Ulusal Ahşap Oyun ve Oyuncak Tasarım Yarışması"
 description: "Kastamonu Üniversitesi Ahşap Kültürünü Araştırma ve Uygulama Merkezi 'Ulusal Ahşap Oyun ve Oyuncak Tasarım Yarışması'  düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, tasarım yarışması, genel]
 lastDate: 1661893200

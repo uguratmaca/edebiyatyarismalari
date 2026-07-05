@@ -2,6 +2,7 @@
 layout: post
 title: "Bilinçli Tüketim ve Tüketici Hakları Karikatür Yarışması"
 description: "Ticaret Bakanlığı Tüketicinin Korunması ve Piyasa Gözetimi Genel Müdürlüğü 'Bilinçli Tüketim ve Tüketici Hakları Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, karikatür yarışması, lise]
 lastDate: 1672952400

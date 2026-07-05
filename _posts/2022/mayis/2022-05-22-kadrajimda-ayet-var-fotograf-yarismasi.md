@@ -2,6 +2,7 @@
 layout: post
 title: "Kadrajımda Ayet Var Fotoğraf Yarışması"
 description: "Diyanet İşleri 'Kadrajımda Ayet Var Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, fotoğraf yarışması, genel]
 lastDate: 1653771600

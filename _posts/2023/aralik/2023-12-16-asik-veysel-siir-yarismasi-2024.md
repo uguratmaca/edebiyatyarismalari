@@ -2,6 +2,7 @@
 layout: post
 title: "Aşık Veysel Şiir Yarışması"
 description: "Ankara Müzik ve Güzel Sanatlar Üniversitesi 'Aşık Veysel Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2024, şiir yarışması, ilkokul, ortaokul, lise, genel, aşık veysel]
 lastDate: 1706648400

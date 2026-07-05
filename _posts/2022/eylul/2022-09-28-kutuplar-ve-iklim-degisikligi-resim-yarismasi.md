@@ -2,6 +2,7 @@
 layout: post
 title: "Kutuplar Ve İklim Değişikliği Resim Yarışması"
 description: "Trabzon İl Milli Eğitim Müdürlüğü 'Kutuplar Ve İklim Değişikliği Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, resim yarışması, ortaokul]
 lastDate: 1664744400

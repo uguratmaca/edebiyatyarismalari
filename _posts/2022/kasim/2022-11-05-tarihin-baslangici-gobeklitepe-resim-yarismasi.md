@@ -2,6 +2,7 @@
 layout: post
 title: "Tarihin Başlangıcı Göbeklitepe Resim Yarışması"
 description: "Mete Has İlkokulu 'Tarihin Başlangıcı Göbeklitepe Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, resim yarışması, ilkokul]
 lastDate: 1672520400

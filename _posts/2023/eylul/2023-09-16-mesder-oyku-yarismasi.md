@@ -2,6 +2,7 @@
 layout: post
 title: "Deprem Konulu Öykü Yarışması"
 description: "Yaşar Dondurma ve Gıda Maddeleri A.Ş (MADO), Kahramanmaraş Edebiyat ve Sanat Derneği (MESDER) 'Deprem Konulu Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, hikaye yarışması, genel]
 lastDate: 1699218000

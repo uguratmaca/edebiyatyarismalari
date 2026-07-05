@@ -2,6 +2,7 @@
 layout: post
 title: "Etkileşimi Yakala 2022 - Dijital Fotoğraf Yarışması"
 description: "Özyeğin Üniversitesi 'Etkileşimi Yakala 2022 - Dijital Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, fotoğraf yarışması, lise]
 lastDate: 1651784400

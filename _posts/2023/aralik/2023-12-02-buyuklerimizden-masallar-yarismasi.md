@@ -2,6 +2,7 @@
 layout: post
 title: "Büyüklerimizden Masallar Yarışması"
 description: "Diyanet İşleri Başkanlığı 'Büyüklerimizden Masallar Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2023, masal yarışması, genel]
 lastDate: 1703797200

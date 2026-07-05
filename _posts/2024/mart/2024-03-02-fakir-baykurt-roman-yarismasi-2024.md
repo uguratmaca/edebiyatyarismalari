@@ -2,6 +2,7 @@
 layout: post
 title: "Fakir Baykurt Roman Ödülü 2024"
 description: "Çiğli Belediyesi 'Fakir Baykurt Roman Ödülü 2024' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, roman yarışması, genel, fakir baykurt]
 lastDate: 1711314000

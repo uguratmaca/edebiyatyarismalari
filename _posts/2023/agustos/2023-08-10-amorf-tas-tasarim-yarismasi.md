@@ -2,6 +2,7 @@
 layout: post
 title: "Amorf Doğal Taş Proje Ve Tasarım Yarışması"
 description: "Ege Maden İhracatçıları Birliği (EMİB) 'Amorf Doğal Taş Proje Ve Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, tasarım yarışması, genel]
 lastDate: 1696798800

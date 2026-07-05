@@ -2,6 +2,7 @@
 layout: post
 title: "2. Uluslararası Karikatür Yarışması"
 description: "Büyükçekmece Belediyesi '2. Uluslararası Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, karikatür yarışması, genel]
 lastDate: 1680987600

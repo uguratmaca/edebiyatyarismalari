@@ -2,6 +2,7 @@
 layout: post
 title: "Sanatın On Hali 2. Geleneksel Türk Sanatları Yarışması"
 description: "Balıkesir Belediyesi Balıkesir Kent Konseyi 'Sanatın On Hali 2. Geleneksel Türk Sanatları Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, genel]
 lastDate: 1663189200

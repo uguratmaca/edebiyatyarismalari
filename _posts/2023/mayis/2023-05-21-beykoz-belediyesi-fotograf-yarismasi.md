@@ -2,6 +2,7 @@
 layout: post
 title: "5. Beykoz Belediyesi Fotoğraf Yarışması"
 description: "Beykoz Belediyesi 'fotoğraf yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, fotoğraf yarışması, genel]
 lastDate: 1698786000

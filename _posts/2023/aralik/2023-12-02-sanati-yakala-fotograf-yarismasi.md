@@ -2,6 +2,7 @@
 layout: post
 title: "Sanatı Yakala Fotoğraf Yarışması"
 description: "Esenler Belediyesi 'Sanatı Yakala Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2023, fotoğraf yarışması, genel]
 lastDate: 1703970000

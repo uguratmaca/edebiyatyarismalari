@@ -2,6 +2,7 @@
 layout: post
 title: "Bir Bilenle Bilge Nesil Projesi Yarışması"
 description: "Genç Memur-Sen Konfederasyonu 'Bir Bilenle Bilge Nesil Projesi Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, kitap okuma yarışması, kompozisyon yarışması, lise]
 lastDate: 1669928400

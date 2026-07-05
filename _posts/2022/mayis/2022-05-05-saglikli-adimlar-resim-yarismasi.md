@@ -2,6 +2,7 @@
 layout: post
 title: "Sağlıklı Adımlar Resim Yarışması"
 description: "Millî Eğitim Bakanlığı Temel Eğitim Genel Müdürlüğü ve Nestle Türkiye 'Sağlıklı Adımlar Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, ilkokul, 3.sınıf]
 lastDate: 1652994000

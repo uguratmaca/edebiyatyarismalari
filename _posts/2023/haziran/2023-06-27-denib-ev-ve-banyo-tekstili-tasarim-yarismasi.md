@@ -2,6 +2,7 @@
 layout: post
 title: "3. Ev ve Banyo Tekstili Tasarım Yarışması"
 description: "Denizli İhracatçılar Birliği (DENİB) '3. Ev ve Banyo Tekstili Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, tasarım yarışması, genel]
 lastDate: 1692306000

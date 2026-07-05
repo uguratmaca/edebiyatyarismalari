@@ -2,6 +2,7 @@
 layout: post
 title: "Emek Şiir Ödülü"
 description: "Odunpazarı Belediyesi, Sağlık ve Sosyal Hizmet Emekçileri Sendikası (SES) Eskişehir Şubesi 'Emek Şiir Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, şiir yarışması, genel]
 lastDate: 1665781200

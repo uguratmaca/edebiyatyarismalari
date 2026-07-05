@@ -2,6 +2,7 @@
 layout: post
 title: "20. Tudem Roman Yarışması"
 description: "TUDEM Yayın Grubu '20. Tudem Roman Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, roman yarışması, genel]
 lastDate: 1667250000

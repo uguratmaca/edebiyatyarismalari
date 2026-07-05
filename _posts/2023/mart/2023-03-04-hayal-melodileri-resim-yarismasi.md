@@ -2,6 +2,7 @@
 layout: post
 title: "Hayal Melodileri Resim Yarışması 2023"
 description: "EMART (Genç Yetenekleri Güçlendirme Vakfı) ve Yeditepe Üniversitesi 'Hayal Melodileri Resim Yarışması 2023' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, resim yarışması, üniversite]
 lastDate: 1681160400

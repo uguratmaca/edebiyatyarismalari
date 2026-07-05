@@ -2,6 +2,7 @@
 layout: post
 title: "Tevfik Fikret Kaya Ortaokulu Ulusal Resim Yarışması"
 description: "Denizli Pamukkale Tevfik Fikret Kaya Ortaokulu 'Ulusal Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, resim yarışması, ortaokul]
 lastDate: 1671138000

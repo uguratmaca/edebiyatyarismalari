@@ -2,6 +2,7 @@
 layout: post
 title: "Mehmet Selim Kiraz Anısına Makale Yarışması"
 description: "Fatih Sultan Mehmet Vakıf Üniversitesi Hukuk Fakültesi 'Mehmet Selim Kiraz Anısına Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, makale yarışması, üniversite, hukuk]
 lastDate: 1710450000

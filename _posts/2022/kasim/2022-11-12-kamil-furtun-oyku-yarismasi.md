@@ -2,6 +2,7 @@
 layout: post
 title: "Dr.Kamil Furtun Öykü Yarışması"
 description: "Samsun Tabip Odası 'Dr.Kamil Furtun Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, hikaye yarışması, genel]
 lastDate: 1675371600

@@ -2,6 +2,7 @@
 layout: simple
 title: "2023 Bilimkurgu Öykü Yarışması Kazananları Belli Oldu"
 description: "Türkiye Bilişim Dergisi (TBD) tarafından düzenlenen 2023 Bilimkurgu Öykü Yarışması kazananları belli olmuştur."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2023]
 permalink: "bilim-kurgu-oyku-yarismasi-sonuc"

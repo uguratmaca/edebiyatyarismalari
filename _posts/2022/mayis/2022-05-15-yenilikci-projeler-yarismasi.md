@@ -2,6 +2,7 @@
 layout: post
 title: "Yenilikçi Projeler Yarışması"
 description: "MBA Okulları 'Yenilikçi Projeler Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, proje yarışması, ortaokul, lise, istanbul]
 lastDate: 1654549200

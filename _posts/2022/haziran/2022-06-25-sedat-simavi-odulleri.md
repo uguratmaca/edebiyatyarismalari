@@ -2,6 +2,7 @@
 layout: post
 title: "2022 Sedat Simavi Ödülleri"
 description: "Türkiye Gazeteciler Cemiyeti '2022 Sedat Simavi Ödülleri' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, makale yarışması, karikatür yarışması, şiir yarışması, hikaye yarışması, genel]
 lastDate: 1664485200

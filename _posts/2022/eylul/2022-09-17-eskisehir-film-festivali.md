@@ -2,6 +2,7 @@
 layout: post
 title: "22. Eskişehir Uluslararası Film Festivali"
 description: "Anadolu Üniversitesi İletişim Bilimleri Fakültesi '22. Eskişehir Uluslararası Film Festivali' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, makale yarışması, genel]
 lastDate: 1666645200

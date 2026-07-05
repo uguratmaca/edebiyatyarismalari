@@ -2,6 +2,7 @@
 layout: post
 title: "Olmak Konulu Makale Yarışması"
 description: "Karamanoğlu Mehmetbey Üniversitesi ve HEFİAD 'Olmak Konulu Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, makale yarışması, üniversite]
 lastDate: 1700773200

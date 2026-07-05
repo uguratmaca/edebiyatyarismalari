@@ -2,6 +2,7 @@
 layout: post
 title: "2022 Muammer Hacıoğlu Şiir Ödülü"
 description: "Artshop Yayıncılık ve Hacıoğlu Ailesi '2022 Muammer Hacıoğlu Şiir Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, şiir yarışması, genel, edebiyat ödülleri, kitap dosyası]
 lastDate: 1675198800

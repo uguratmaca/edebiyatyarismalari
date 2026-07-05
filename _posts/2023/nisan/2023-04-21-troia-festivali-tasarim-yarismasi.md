@@ -2,6 +2,7 @@
 layout: post
 title: "60. Uluslararası Troia Festivali Afiş Tasarım Yarışması"
 description: "Çanakkale Belediyesi '60. Uluslararası Troia Festivali Afiş Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, tasarım yarışması, genel]
 lastDate: 1685048400

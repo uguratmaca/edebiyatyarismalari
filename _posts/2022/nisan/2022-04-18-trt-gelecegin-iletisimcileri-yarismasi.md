@@ -2,6 +2,7 @@
 layout: post
 title: "TRT Geleceğin İletişimcileri Yarışması"
 description: "Türkiye Radyo Televizyon Kurumu 'TRT Geleceğin İletişimcileri Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, üniversite, trt]
 lastDate: 1656536400

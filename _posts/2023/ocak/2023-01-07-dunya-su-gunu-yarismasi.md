@@ -2,6 +2,7 @@
 layout: post
 title: "Dünya Su Günü"
 description: "Tarım Ve Orman Bakanlığı Devlet Su İşleri Genel Müdürlüğü 'Dünya Su Günü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, afiş yarışması, resim yarışması, kompozisyon yarışması, genel]
 lastDate: 1676581200

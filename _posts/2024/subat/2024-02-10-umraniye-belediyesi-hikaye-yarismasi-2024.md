@@ -2,6 +2,7 @@
 layout: post
 title: "20. Geleneksel Hikaye Yarışması"
 description: "Ümraniye Belediyesi '20. Geleneksel Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2024, hikaye yarışması, genel]
 lastDate: 1716498000

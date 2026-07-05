@@ -2,6 +2,7 @@
 layout: post
 title: "Mehmet H. Doğan Ödülü 2024"
 description: "Nilüfer Belediyesi Şiir Kütüphanesi 'Mehmet H. Doğan Ödülü 2024' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, şiir yarışması, genel]
 lastDate: 1709240400

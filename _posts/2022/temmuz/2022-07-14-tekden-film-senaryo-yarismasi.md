@@ -2,6 +2,7 @@
 layout: post
 title: "Tekden Film Senaryo Yarışması"
 description: "Tekden Film ve Fatih Sultan Mehmet Üniversitesi 'Tekden Film Senaryo Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, senaryo yarışması, genel]
 lastDate: 1661806800

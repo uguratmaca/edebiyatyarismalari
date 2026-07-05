@@ -2,6 +2,7 @@
 layout: post
 title: "2. Ulusal Sait Faik Hikaye Yarışması"
 description: "Sakarya Büyükşehir Belediyesi ve Sakarya İl Kültür Turizm Müdürlüğü '2. Ulusal Sait Faik Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, hikaye yarışması, sait faik abasıyanık, genel]
 lastDate: 1680210000

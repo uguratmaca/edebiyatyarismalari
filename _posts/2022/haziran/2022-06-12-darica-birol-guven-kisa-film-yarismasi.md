@@ -2,6 +2,7 @@
 layout: post
 title: "Darıca Birol Güven Kısa Film Yarışması"
 description: "Darıca Belediyesi 'Darıca Birol Güven Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, kısa film yarışması, genel]
 lastDate: 1664485200

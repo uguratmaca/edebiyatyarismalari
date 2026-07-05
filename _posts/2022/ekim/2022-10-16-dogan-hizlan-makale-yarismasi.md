@@ -2,6 +2,7 @@
 layout: post
 title: "Doğan Hızlan Makale Yarışması"
 description: "Sanat Kritik 'Doğan Hızlan Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, makale yarışması, genel]
 lastDate: 1672434000

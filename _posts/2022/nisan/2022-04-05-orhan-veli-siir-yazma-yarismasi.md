@@ -2,6 +2,7 @@
 layout: post
 title: "Orhan Veli Şiir Yazma Yarışması"
 description: "Özel Alev Okulları 'Orhan Veli Şiir Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, şiir yarışması, ortaokul, orhan veli, istanbul]
 lastDate: 1649538000

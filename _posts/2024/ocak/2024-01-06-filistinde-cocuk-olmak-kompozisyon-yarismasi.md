@@ -2,6 +2,7 @@
 layout: post
 title: "Filistin’de Çocuk Olmak Kompozisyon Yarışması"
 description: "Muş Hasköy Anadolu İmam Hatip Lisesi 'Filistin’de Çocuk Olmak Kompozisyon Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2024, kompozisyon yarışması, lise]
 lastDate: 1712005200

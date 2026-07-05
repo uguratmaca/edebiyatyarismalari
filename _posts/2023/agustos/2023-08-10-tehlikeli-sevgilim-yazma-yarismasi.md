@@ -2,6 +2,7 @@
 layout: post
 title: "Tehlikeli Sevgilim Yazma Yarışması"
 description: "Dreame Türkçe 'Tehlikeli Sevgilim Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, hikaye yarışması, genel]
 lastDate: 1695157200

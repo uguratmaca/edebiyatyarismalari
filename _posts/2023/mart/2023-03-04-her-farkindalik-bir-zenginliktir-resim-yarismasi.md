@@ -2,6 +2,7 @@
 layout: post
 title: "Her Farklılık Bir Zenginliktir Resim Yarışması"
 description: "Diyarbakır Sur Büyükakören İlkokulu 'Her Farklılık Bir Zenginliktir Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, resim yarışması, ilkokul]
 lastDate: 1678222800

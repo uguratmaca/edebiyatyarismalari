@@ -2,6 +2,7 @@
 layout: simple
 title: "Yunus Emre Edebiyat Armağanı Tiyatro Metni Yarışması Kazananları Belli Oldu"
 description: "Eskişehir Büyükşehir Belediyesi tarafından düzenlenen Yunus Emre Edebiyat Armağanı Tiyatro Metni Yarışması kazananları belli olmuştur."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2024]
 permalink: "yunus-emre-tiyatro-yarismasi-sonuc"

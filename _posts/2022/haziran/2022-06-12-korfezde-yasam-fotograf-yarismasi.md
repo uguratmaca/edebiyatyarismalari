@@ -2,6 +2,7 @@
 layout: post
 title: "Ulusal Fotoğraf Yarışması 2022"
 description: "Körfez Belediyesi 'Ulusal Fotoğraf Yarışması 2022' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, fotoğraf yarışması, genel]
 lastDate: 1657832400

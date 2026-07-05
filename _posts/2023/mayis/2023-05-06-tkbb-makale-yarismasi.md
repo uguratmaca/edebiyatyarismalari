@@ -2,6 +2,7 @@
 layout: post
 title: "TKBB Uluslararası Makale Yarışması"
 description: "Türkiye Katılım Bankaları Birliği (TKBB) 'uluslararası makale yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2023, makale yarışması, genel]
 lastDate: 1703970000

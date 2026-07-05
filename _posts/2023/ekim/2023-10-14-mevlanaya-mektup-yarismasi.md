@@ -2,6 +2,7 @@
 layout: post
 title: "Hz Pîr’e Mektup Yarışması"
 description: "Konya Büyükşehir Belediyesi 'Hz Pîr’e Mektup Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, mektup yarışması, genel]
 lastDate: 1700168400

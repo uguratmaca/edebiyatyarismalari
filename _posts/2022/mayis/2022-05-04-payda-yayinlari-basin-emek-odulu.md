@@ -2,6 +2,7 @@
 layout: post
 title: "Basın Emek Ödülü"
 description: "Payda Yayınları Nedret Gürcan Adına 'Basın Emek Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, genel]
 lastDate: 1662670800

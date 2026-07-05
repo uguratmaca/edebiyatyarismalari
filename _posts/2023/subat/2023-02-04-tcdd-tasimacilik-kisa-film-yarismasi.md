@@ -2,6 +2,7 @@
 layout: post
 title: "Ulaşınca Başlar Kısa Film Yarışması"
 description: "TCDD Taşımacılık A.Ş. 'Ulaşınca Başlar Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, kısa film yarışması, genel]
 lastDate: 1676840400

@@ -2,6 +2,7 @@
 layout: post
 title: "IV. Gençler Arası Öykü Yarışması"
 description: "Gençlik ve Spor Bakanlığı 'IV. Gençler Arası Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, hikaye yarışması, lise, üniversite]
 lastDate: 1693515600

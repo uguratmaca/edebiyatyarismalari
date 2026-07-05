@@ -2,6 +2,7 @@
 layout: post
 title: "Şehri Adımlayan Hikâyeler Öykü Yarışması"
 description: "Esenler Belediyesi 'Şehri Adımlayan Hikâyeler Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, hikaye yarışması, genel]
 lastDate: 1667163600

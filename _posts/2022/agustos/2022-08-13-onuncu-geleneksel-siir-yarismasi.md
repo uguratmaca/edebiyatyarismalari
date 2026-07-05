@@ -2,6 +2,7 @@
 layout: post
 title: "Erzurumlu Emrah’tan Cahit Külebi’ye Şiir Yarışması"
 description: "Niksar Belediyesi, Tokat Şairler ve Yazarlar Derneği 'Erzurumlu Emrah’tan Cahit Külebi’ye Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, şiir yarışması, genel]
 lastDate: 1661806800

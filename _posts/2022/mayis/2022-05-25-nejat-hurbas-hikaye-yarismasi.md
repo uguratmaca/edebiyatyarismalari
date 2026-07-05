@@ -2,6 +2,7 @@
 layout: post
 title: "2. Nejat Hürbaş Hikaye Yarışması"
 description: "Ayvalık Belediyesi Çağdaş Yaşam Türkel Minibaş Gençlik ve Çocuk Kütüphanesi iki ayrı kategoride '2. Nejat Hürbaş Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, hikaye yarışması, ilkokul, ortaokul]
 lastDate: 1671138000

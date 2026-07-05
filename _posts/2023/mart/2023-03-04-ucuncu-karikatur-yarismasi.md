@@ -2,6 +2,7 @@
 layout: post
 title: "3. Karikatür Yarışması"
 description: "ADAM-DER (Askeri Darbelerin Asker Muhalifleri Derneği) '3. Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, karikatür yarışması, genel]
 lastDate: 1679691600

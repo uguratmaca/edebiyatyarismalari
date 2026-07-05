@@ -2,6 +2,7 @@
 layout: post
 title: "Truva Edebiyat Dergisi 7. Öykü Yarışması"
 description: "Truva Edebiyat Dergisi '7. Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2024, hikaye yarışması, genel]
 lastDate: 1706562000

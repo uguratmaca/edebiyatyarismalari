@@ -2,6 +2,7 @@
 layout: post
 title: "Gençler Arası Tiyatro Yarışması"
 description: "Gençlik ve Spor Bakanlığı 'Gençler Arası Tiyatro Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, tiyatro yarışması, ortaokul, lise, üniversite]
 lastDate: 1675717200

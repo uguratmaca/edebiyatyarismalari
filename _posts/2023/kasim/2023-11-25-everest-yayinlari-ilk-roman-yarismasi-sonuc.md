@@ -2,6 +2,7 @@
 layout: simple
 title: "İlk Roman Yarışması Kazananları Belli Oldu"
 description: "Everest Yayınları tarafından düzenlenen İlk Roman Yarışması kazananları belli olmuştur."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2023]
 permalink: "everest-yayinlari-ilk-roman-yarismasi-sonuc"

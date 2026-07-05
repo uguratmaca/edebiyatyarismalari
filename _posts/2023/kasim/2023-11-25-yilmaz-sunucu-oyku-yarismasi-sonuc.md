@@ -2,6 +2,7 @@
 layout: simple
 title: "2. Yılmaz Sunucu Öykü Yarışması Kazananları Belli Oldu"
 description: "Arzum Sunucu Kerimli tarafından düzenlenen 2. Yılmaz Sunucu Öykü Yarışması kazananları belli olmuştur."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2023]
 permalink: "yilmaz-sunucu-oyku-yarismasi-sonuc"

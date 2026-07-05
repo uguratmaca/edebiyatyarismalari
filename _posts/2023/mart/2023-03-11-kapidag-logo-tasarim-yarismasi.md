@@ -2,6 +2,7 @@
 layout: post
 title: "Kapıdağ Ödüllü Logo Tasarım Yarışması"
 description: "Erdek Genç İnsanları Derneği (ERGİAD) 'logo tasarım yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, tasarım yarışması, genel]
 lastDate: 1680296400

@@ -2,6 +2,7 @@
 layout: post
 title: "İBB Kültür ve Sanat Odağı Mimari Proje Yarışması"
 description: "İstanbul Büyükşehir Belediyesi Etüd ve Projeler Dairesi Başkanlığı 'İBB Kültür ve Sanat Odağı Mimari Proje Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, proje yarışması, genel]
 lastDate: 1700600400

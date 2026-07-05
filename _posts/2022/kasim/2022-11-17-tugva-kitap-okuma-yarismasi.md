@@ -2,6 +2,7 @@
 layout: post
 title: "Tügva Kitap Okuma Yarışması"
 description: "Türkiye Gençlik Vakfı 'Tügva Kitap Okuma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, kitap okuma yarışması, ortaokul]
 lastDate: 1676754000

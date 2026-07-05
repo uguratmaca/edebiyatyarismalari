@@ -2,6 +2,7 @@
 layout: post
 title: "Üsküdar’ın Camileri ve Kedileri Fotoğraf Yarışması"
 description: "Üsküdar Müftülüğü ve İstanbul Medeniyet Üniversitesi 'Üsküdar’ın Camileri ve Kedileri Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, fotoğraf yarışması, genel]
 lastDate: 1662670800

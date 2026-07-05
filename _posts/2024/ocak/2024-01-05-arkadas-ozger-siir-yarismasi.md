@@ -2,6 +2,7 @@
 layout: post
 title: "Arkadaş Z. Özger Şiir Ödülü"
 description: "Mayıs Yayınları 'Arkadaş Z. Özger Şiir Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, şiir yarışması, genel]
 lastDate: 1710450000

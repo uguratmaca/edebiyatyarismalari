@@ -2,6 +2,7 @@
 layout: post
 title: "15 Temmuz Kahramanlarına Mektuplar"
 description: "15 Temmuz Derneği, İstanbul İl Milli Eğitim Müdürlüğü Ve Sultanbeyli Belediyesi '15 Temmuz Kahramanlarına Mektup Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, mektup yarışması, ortaokul, lise]
 lastDate: 1666645200

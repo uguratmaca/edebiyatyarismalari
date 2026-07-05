@@ -2,6 +2,7 @@
 layout: post
 title: "‘Çocuk Gözünden Ramazan’ Resim Yarışması"
 description: "AK Parti İstanbul İl Kadın Kolları Başkanlığı ‘Çocuk Gözünden Ramazan’ Resim Yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, okul öncesi, ilkokul, ortaokul]
 lastDate: 1652043600

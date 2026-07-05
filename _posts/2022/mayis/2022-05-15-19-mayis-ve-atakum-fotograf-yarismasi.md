@@ -2,6 +2,7 @@
 layout: post
 title: "19 Mayıs ve Atakum Fotoğraf Yarışması"
 description: "Atakum Belediyesi '19 Mayıs ve Atakum Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, fotoğraf yarışması, genel]
 lastDate: 1653080400

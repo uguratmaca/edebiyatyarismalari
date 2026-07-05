@@ -2,6 +2,7 @@
 layout: post
 title: "Altıeylül Belediyesi Şiir Yarışması"
 description: "Altıeylül Belediyesi 'şiir yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, şiir yarışması, genel]
 lastDate: 1692478800

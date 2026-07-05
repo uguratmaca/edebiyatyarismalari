@@ -2,6 +2,7 @@
 layout: simple
 title: "69. Sait Faik Hikâye Armağanı Kazananları Belli Oldu"
 description: "Darüşşafaka Cemiyeti ile Türkiye İş Bankası Kültür Yayınları tarafından düzenlenen 69. Sait Faik Hikâye Armağanı kazananları belli olmuştur."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2023]
 permalink: "69-uncu-sait-faik-hikaye-sonuc"

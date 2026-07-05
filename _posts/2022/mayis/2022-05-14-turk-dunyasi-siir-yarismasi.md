@@ -2,6 +2,7 @@
 layout: post
 title: "Türk Dünyası Şiir Yarışması"
 description: "Bursa Büyükşehir Belediyesi 'Türk Dünyası Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, şiir yarışması, genel]
 lastDate: 1659128400

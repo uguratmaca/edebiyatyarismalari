@@ -2,6 +2,7 @@
 layout: post
 title: "Ezber Bozan Tasarım Yarışması"
 description: "Ege İhracatçı Birlikleri 'Ezber Bozan Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, tasarım yarışması, üniversite]
 lastDate: 1657400400

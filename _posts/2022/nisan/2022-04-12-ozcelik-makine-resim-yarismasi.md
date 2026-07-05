@@ -2,6 +2,7 @@
 layout: post
 title: "Özçelik Çocuk Resim Yarışması"
 description: "Özçelik Makina A.Ş. 'Özçelik Çocuk Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, resim yarışması, ilkokul, ortaokul]
 lastDate: 1650229200

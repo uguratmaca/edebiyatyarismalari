@@ -2,6 +2,7 @@
 layout: post
 title: "Persona Küçürek Öykü Yarışması"
 description: "Persona Sanat Topluluğu 'Persona Küçürek Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, hikaye yarışması, genel]
 lastDate: 1679864400

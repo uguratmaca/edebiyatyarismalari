@@ -2,6 +2,7 @@
 layout: post
 title: "Çukurova Öykü Yarışması"
 description: "Çukurova Belediyesi ve Yeni Adana Gazetesi 'Çukurova Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, hikaye yarışması, genel]
 lastDate: 1664571600

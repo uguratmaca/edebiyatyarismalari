@@ -2,6 +2,7 @@
 layout: post
 title: "15 Temmuz Demokrasi Zaferi ve Milli İrade Afiş Yarışması"
 description: "Karadeniz Teknik Üniversitesi '15 Temmuz Demokrasi Zaferi ve Milli İrade Afiş Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, afiş yarışması, üniversite]
 lastDate: 1655240400

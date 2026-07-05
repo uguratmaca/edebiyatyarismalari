@@ -2,6 +2,7 @@
 layout: post
 title: "Alper Ekler Karagöz Oyunu Yazma Yarışması"
 description: "Karagöz Derneği Yayınları 'Alper Ekler Karagöz Oyunu Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, tiyatro oyunu yazma yarışması, genel]
 lastDate: 1685480400

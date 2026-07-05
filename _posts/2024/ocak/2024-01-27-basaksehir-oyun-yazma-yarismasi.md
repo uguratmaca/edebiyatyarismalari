@@ -2,6 +2,7 @@
 layout: post
 title: "3. Kısa Oyun Yazma Yarışması"
 description: "Başakşehir Belediyesi '3. Kısa Oyun Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, tiyatro yarışması, genel]
 lastDate: 1707944400

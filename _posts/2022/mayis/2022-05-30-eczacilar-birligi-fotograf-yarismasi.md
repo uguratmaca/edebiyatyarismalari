@@ -2,6 +2,7 @@
 layout: post
 title: "Türk Eczacıları Birliği Uluslararası Fotoğraf Yarışması"
 description: "Türk Eczacıları Birliği 'Türk Eczacıları Birliği Uluslararası Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, fotoğraf yarışması, genel]
 lastDate: 1661634000

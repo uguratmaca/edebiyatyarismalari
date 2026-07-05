@@ -2,6 +2,7 @@
 layout: post
 title: "33 Öğretmen, 33 Eser Şiir Yarışması"
 description: "Mersin İl Milli Eğitim Müdürlüğü '33 Öğretmen, 33 Eser Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, şiir yarışması, genel]
 lastDate: 1665694800

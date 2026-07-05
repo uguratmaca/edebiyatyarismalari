@@ -2,6 +2,7 @@
 layout: post
 title: "Köprü Makale Yarışması"
 description: "Yeni Asya Köprü Dergisi 'Köprü Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2024, makale yarışması, genel]
 lastDate: 1718398800

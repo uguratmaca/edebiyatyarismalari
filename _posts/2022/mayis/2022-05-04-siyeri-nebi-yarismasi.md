@@ -2,6 +2,7 @@
 layout: post
 title: "Siyer-i Nebi Yarışması"
 description: "AGD Derneği 'Siyer-i Nebi Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, bilgi yarışması, ortaokul, lise]
 lastDate: 1654203600

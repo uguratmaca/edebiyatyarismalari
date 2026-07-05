@@ -2,6 +2,7 @@
 layout: post
 title: "Behçet Aysan Şiir Yarışması"
 description: "Türk Tabipleri Birliği (TTB) 'Behçet Aysan Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2024, şiir yarışması, genel]
 lastDate: 1717189200

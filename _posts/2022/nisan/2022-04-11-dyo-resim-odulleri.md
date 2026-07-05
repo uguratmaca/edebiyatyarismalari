@@ -2,6 +2,7 @@
 layout: post
 title: "DYO Resim Ödülleri 2022"
 description: "Yaşar Eğitim ve Kültür Vakfı 'DYO Resim Ödülleri 2022' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, resim yarışması, genel, dyo]
 lastDate: 1651266000

@@ -2,6 +2,7 @@
 layout: post
 title: "“Kocaeli ve Turizm” temalı Resim Yarışması"
 description: "Kocaeli Büyükşehir Belediyesi Meslek ve Sanat Eğitimi Kursları (KO-MEK) '“Kocaeli ve Turizm” temalı Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, resim yarışması, komek, kursiyer]
 lastDate: 1650920400

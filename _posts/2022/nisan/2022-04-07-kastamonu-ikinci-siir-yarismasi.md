@@ -2,6 +2,7 @@
 layout: post
 title: "Şehit Şerife Bacı Ödüllü 2. Şiir Yazma Yarışması"
 description: "İlim Yayma Cemiyeti Kastamonu Şubesi 'İstiklal Yolunda Şehit Şerife Bacı Ödüllü 2. Şiir Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, şiir yarışması, ortaokul, lise, üniversite, kastamonu, istiklal]
 lastDate: 1653598800

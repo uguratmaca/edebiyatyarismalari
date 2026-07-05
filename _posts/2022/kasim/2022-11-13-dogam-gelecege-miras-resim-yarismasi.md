@@ -2,6 +2,7 @@
 layout: post
 title: "Doğam Geleceğe Miras Resim Yarışması"
 description: "Ankara Enver Bektaş İlkokulu 'Doğam Geleceğe Miras Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, resim yarışması, ilkokul]
 lastDate: 1671742800

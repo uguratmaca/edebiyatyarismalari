@@ -2,6 +2,7 @@
 layout: post
 title: "Ulusal 2. Bursa Fotoğrafçılar Maratonu"
 description: "Bursa Büyükşehir Belediyesi 'Ulusal 2. Bursa Fotoğrafçılar Maratonu' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, fotoğraf yarışması, genel]
 lastDate: 1664226000

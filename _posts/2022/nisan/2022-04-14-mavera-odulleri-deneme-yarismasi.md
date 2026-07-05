@@ -2,6 +2,7 @@
 layout: post
 title: "Mavera Ödülleri Deneme Yarışması"
 description: "Mavera Eğitim ve Sağlık Vakfı 'Mavera Ödülleri Deneme Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, deneme yarışması, üniversite]
 lastDate: 1652130000

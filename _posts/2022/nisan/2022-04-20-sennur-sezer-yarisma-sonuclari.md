@@ -2,6 +2,7 @@
 layout: simple
 title: "Sennur Sezer Emek-Direniş Şiir ve Öykü Ödülleri Yarışma Sonuçları"
 description: "sennur sezer emek direniş şiir ve öykü ödülleri yarışması sonuçları"
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2022]
 comments: true

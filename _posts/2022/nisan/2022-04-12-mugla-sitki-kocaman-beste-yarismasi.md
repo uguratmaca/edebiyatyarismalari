@@ -2,6 +2,7 @@
 layout: post
 title: "Muğla Sıtkı Koçman Üniversitesi Marşı Beste Yarışması"
 description: "Muğla Sıtkı Koçman Üniversitesi 'Muğla Sıtkı Koçman Üniversitesi Marşı Beste Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, beste yarışması, genel]
 lastDate: 1651352400

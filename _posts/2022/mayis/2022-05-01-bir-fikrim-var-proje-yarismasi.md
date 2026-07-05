@@ -2,6 +2,7 @@
 layout: post
 title: "Bir Fikrim Var! Proje Yarışması 2022"
 description: "Balıkesir İl Millî Eğitim Müdürlüğü ve Ne10 Şehir Araştırmaları ve Teknoloji Geliştirme Merkezi 'Bir Fikrim Var! Proje Yarışması 2022' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, proje yarışması, lise]
 lastDate: 1652994000

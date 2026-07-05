@@ -2,6 +2,7 @@
 layout: post
 title: "Gülten Akın Şiir Ödülü"
 description: "Balad Şiir Vakfı 'Gülten Akın Şiir Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, şiir yarışması, genel, kitap dosyası, edebiyat ödülleri]
 lastDate: 1672606800

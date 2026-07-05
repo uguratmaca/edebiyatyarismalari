@@ -2,6 +2,7 @@
 layout: post
 title: "Çanakkale Savaşları Gelibolu Tarihi Alan Başkanlığı Ulusal Fotoğraf Yarışması"
 description: "Çanakkale Savaşları Gelibolu Tarihi Alan Başkanlığı 'fotoğraf yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, fotoğraf yarışması, genel]
 lastDate: 1694725200

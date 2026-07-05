@@ -2,6 +2,7 @@
 layout: post
 title: "Scratch Cup Proje Yarışması"
 description: "QNB Finansbank ve Habitat Derneği 'Scratch Cup Proje Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, proje yarışması, ilkokul, ortaokul]
 lastDate: 1669842000

@@ -2,6 +2,7 @@
 layout: post
 title: "2. Geleneksel Ödüllü Resim Yarışması"
 description: "Düzce Üniversitesi '2. Geleneksel “Arı Varsa Hayat Vardır” Temalı Ödüllü Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, ilkokul, ortaokul, lise]
 lastDate: 1652734800

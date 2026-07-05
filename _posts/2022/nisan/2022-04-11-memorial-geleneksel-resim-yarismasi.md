@@ -2,6 +2,7 @@
 layout: post
 title: "17. Memorial Geleneksel Çocuk Resim Yarışması"
 description: "Memorial Sağlık Grubu '17. Memorial Geleneksel Çocuk Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, resim yarışması, ilkokul, ortaokul, okul öncesi, çocuk]
 lastDate: 1650661200

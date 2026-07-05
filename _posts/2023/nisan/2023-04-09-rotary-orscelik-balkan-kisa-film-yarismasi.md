@@ -2,6 +2,7 @@
 layout: post
 title: "Örsçelik Balkan Kısa Film Yarışması 2023"
 description: "Rotary 2420. Bölge Federasyonu 'Örsçelik Balkan Kısa Film Yarışması 2023' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, kısa film yarışması, genel]
 lastDate: 1681506000

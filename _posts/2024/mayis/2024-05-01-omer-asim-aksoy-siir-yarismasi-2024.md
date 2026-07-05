@@ -2,6 +2,7 @@
 layout: post
 title: "Ömer Asım Aksoy Şiir Yarışması"
 description: "Dil Derneği 'Ömer Asım Aksoy Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2024, şiir yarışması, genel]
 lastDate: 1720126800

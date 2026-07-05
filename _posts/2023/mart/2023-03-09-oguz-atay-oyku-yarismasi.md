@@ -2,6 +2,7 @@
 layout: post
 title: "3. Oğuz Atay Öykü Ödülü"
 description: "İnebolu Kültür ve Sanat Derneği '3. Oğuz Atay Öykü Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, hikaye yarışması, genel]
 lastDate: 1685394000

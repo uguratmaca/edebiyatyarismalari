@@ -2,6 +2,7 @@
 layout: post
 title: "Büyük Taarruz Ahde Vefa Uluslararası Şiir Yarışması"
 description: "Afyonkarahisar Ahde Vefa Kültür Sanat Derneği 'Büyük Taarruz'un 100.Yılına Ahde Vefa Uluslararası Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, şiir yarışması, genel, genç, atatürk]
 lastDate: 1652130000

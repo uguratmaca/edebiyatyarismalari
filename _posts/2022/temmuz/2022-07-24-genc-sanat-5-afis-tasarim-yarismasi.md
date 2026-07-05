@@ -2,6 +2,7 @@
 layout: post
 title: "Genç Sanat: 5. Afiş Tasarım Yarışması"
 description: "Kültür ve Turizm Bakanlığı 'Genç Sanat: 5. Afiş Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, afiş yarışması, üniversite]
 lastDate: 1662325200

@@ -2,6 +2,7 @@
 layout: post
 title: "'Objektifte Pursaklar' Dijital Fotoğraf Yarışması"
 description: "Pursaklar Belediyesi ve Pursaklar İlçe Milli Eğitim Müdürlüğü ''Objektifte Pursaklar' Dijital Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, fotoğraf yarışması, lise, pursaklar, ankara]
 lastDate: 1651093200

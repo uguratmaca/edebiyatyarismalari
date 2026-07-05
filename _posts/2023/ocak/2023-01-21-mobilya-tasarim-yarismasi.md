@@ -2,6 +2,7 @@
 layout: post
 title: "2023 Mobilya Tasarım Yarışması"
 description: "Mimar Sinan Güzel Sanatlar Üniversitesi Mimarlık Fakültesi ve ASTORAL '2023 Mobilya Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, tasarım yarışması, genel, üniversite]
 lastDate: 1675371600

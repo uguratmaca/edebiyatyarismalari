@@ -2,6 +2,7 @@
 layout: post
 title: "AstroTech Uzay Öykü Yarışması"
 description: "Çözüm Eğitim Kurumları 'AstroTech Uzay Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, hikaye yarışması, ilkokul, ortaokul, lise]
 lastDate: 1652994000

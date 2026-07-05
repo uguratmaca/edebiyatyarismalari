@@ -2,6 +2,7 @@
 layout: post
 title: "4. Sessiz Çığlık Mektup Yarışması"
 description: "Yaşlı Hakları ve Ruh Sağlığı Derneği '4. Sessiz Çığlık Mektup Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, mektup yarışması, genel, kıbrıs]
 lastDate: 1685394000

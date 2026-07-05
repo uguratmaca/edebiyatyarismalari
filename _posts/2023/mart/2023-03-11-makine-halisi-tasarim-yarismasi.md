@@ -2,6 +2,7 @@
 layout: post
 title: "IX. Makine Halısı Tasarım Yarışması"
 description: "Güneydoğu Anadolu Halı İhracatçıları Birliği (GAHİB) 'IX. Makine Halısı Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, tasarım yarışması, genel]
 lastDate: 1681851600

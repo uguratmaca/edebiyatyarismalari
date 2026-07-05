@@ -2,6 +2,7 @@
 layout: post
 title: "Erdoğan Baysal Öykü Yarışması"
 description: "İzmir Yazarlar Kooperatifi 'Erdoğan Baysal Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, hikaye yarışması, genel]
 lastDate: 1696712400

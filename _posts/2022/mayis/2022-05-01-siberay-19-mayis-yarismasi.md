@@ -2,6 +2,7 @@
 layout: post
 title: "SİBERAY 19 Mayıs Yarışması"
 description: "SİBERAY 'SİBERAY 19 Mayıs Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, video yarışması, lise]
 lastDate: 1652043600

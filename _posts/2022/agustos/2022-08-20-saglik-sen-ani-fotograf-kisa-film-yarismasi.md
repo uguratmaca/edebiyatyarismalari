@@ -2,6 +2,7 @@
 layout: post
 title: "Sağlık-Sen Geleneksel Anı, Fotoğraf ve Kısa Film Senaryo Yarışması"
 description: "Sağlık-Sen 'Geleneksel Anı, Fotoğraf ve Kısa Film Senaryo Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, anı yarışması, fotoğraf yarışması, kısa film yarışması, senaryo yarışması, genel]
 lastDate: 1661893200

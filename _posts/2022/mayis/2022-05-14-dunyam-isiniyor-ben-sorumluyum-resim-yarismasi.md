@@ -2,6 +2,7 @@
 layout: post
 title: "Dünyam Isınıyor Ben Sorumluyum Resim Yarışması"
 description: "İzmir Konak Barbaros Hayrettin İlkokulu 'Dünyam Isınıyor Ben Sorumluyum Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, ilkokul]
 lastDate: 1653944400

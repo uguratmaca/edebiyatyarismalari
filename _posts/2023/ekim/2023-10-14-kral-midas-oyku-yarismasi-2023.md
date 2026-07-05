@@ -2,6 +2,7 @@
 layout: post
 title: "4. Eskişehir Kral Midas Öykü Yarışması"
 description: "Eskişehir Sanat Derneği '4. Eskişehir Kral Midas Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, hikaye yarışması, genel]
 lastDate: 1697922000

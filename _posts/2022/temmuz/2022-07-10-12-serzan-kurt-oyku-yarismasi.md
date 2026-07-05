@@ -2,6 +2,7 @@
 layout: post
 title: "12. Şerzan Kurt Öykü Yarışması"
 description: "Eğitim Sen Batman Şubesi '12. Şerzan Kurt Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, hikaye yarışması, genel]
 lastDate: 1661979600

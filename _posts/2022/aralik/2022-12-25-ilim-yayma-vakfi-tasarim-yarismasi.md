@@ -2,6 +2,7 @@
 layout: post
 title: "50. Yıl Logo Tasarım Yarışması"
 description: "İlim Yayma Vakfı '50. Yıl Logo Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, tasarım yarışması, genel]
 lastDate: 1673298000

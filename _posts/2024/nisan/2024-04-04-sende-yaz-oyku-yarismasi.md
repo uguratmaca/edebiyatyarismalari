@@ -2,6 +2,7 @@
 layout: post
 title: "Sen de Yaz Öykü Yarışması"
 description: "KidZania İstanbul ve Erbulak Evi 'Sen de Yaz Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2024, hikaye yarışması, ortaokul]
 lastDate: 1716066000

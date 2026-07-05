@@ -2,6 +2,7 @@
 layout: post
 title: "Ani Kısa Metraj Belgesel Film Yarışması"
 description: "Kars İl Kültür ve Turizm Müdürlüğü, Kars Belediyesi ve Kafkas Üniversitesi 'Ani Kısa Metraj Belgesel Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, belgesel yarışması, genel]
 lastDate: 1659042000

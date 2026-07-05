@@ -2,6 +2,7 @@
 layout: post
 title: "21. İTK Ulusal Resim Yarışması"
 description: "İzmir Özel Türk Koleji '21. İTK Ulusal Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, resim yarışması, üniversite]
 lastDate: 1682629200

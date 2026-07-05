@@ -2,6 +2,7 @@
 layout: post
 title: "Edebiyatın Genç Yıldızları Öykü Yarışması"
 description: "Yıldız Ahmet Arayıcı Anadolu Lisesi 'Dünyayı İyilik Kurtaracak' konulu Edebiyatın Genç Yıldızları Öykü Yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, hikaye yarışması, lise]
 lastDate: 1651179600

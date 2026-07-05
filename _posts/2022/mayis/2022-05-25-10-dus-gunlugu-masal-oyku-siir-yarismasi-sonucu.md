@@ -2,6 +2,7 @@
 layout: simple
 title: "10. Düş Günlüğü Masal, Öykü, Şiir Yarışması Sonuçları"
 description: "10. Düş Günlüğü Masal, Öykü, Şiir Yarışması sonuçlandı."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2022]
 permalink: "10-dus-gunlugu-masal-oyku-siir-yarismasi-sonucu"

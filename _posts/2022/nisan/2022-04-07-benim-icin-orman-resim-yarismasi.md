@@ -2,6 +2,7 @@
 layout: post
 title: "Benim İçin Orman Resim Yarışması"
 description: "T.C. Tarım ve Orman Bakanlığı Orman Genel Müdürlüğü ve T.C. Milli Eğitim Bakanlığı 'Benim İçin Orman Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, ilkokul, ortaokul, orman]
 lastDate: 1652907600

@@ -2,6 +2,7 @@
 layout: post
 title: "Okulum Afete Hazır Yarışması"
 description: "AFAD Başkanlığı ile Milli Eğitim Bakanlığı 'Okulum Afete Hazır Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, proje yarışması, genel]
 lastDate: 1681419600

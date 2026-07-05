@@ -2,6 +2,7 @@
 layout: post
 title: "2. Mersin Roman Ödülü"
 description: "Mersin Büyükşehir Belediyesi '2. Mersin Roman Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, roman yarışması, genel]
 lastDate: 1667163600

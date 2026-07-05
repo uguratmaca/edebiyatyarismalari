@@ -2,6 +2,7 @@
 layout: post
 title: "'Bir Kitap Olarak Hayatım' Hikaye Yarışması"
 description: "Zeytin Ağacı, Eğitim ve Yardımlaşma Derneği (ZAYDER), Toplumsal Gelişim Hareketi (TOGEH) ve Mağusa Ravelin Lions Kulübü Derneği 'Bir Kitap Olarak Hayatım' adlı hikaye yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, hikaye yarışması, genel]
 lastDate: 1654030800

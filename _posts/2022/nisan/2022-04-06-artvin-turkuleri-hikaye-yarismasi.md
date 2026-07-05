@@ -2,6 +2,7 @@
 layout: post
 title: "Artvin Türküleri Öykü Yarışması"
 description: "Artvin İl Milli Eğitim Müdürlüğü koordinesinde Artvin Bilim ve Sanat Merkezi 'Artvin Türküleri konulu Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, hikaye yarışması, türkü yarışması, ortaokul]
 lastDate: 1652043600

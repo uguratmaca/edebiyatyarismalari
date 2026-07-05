@@ -2,6 +2,7 @@
 layout: post
 title: "Ramazan Kareleri Fotoğraf Yarışması"
 description: "Yeni Dünya Vakfı 'Ramazan Kareleri Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, fotoğraf yarışması, genel, ramazan]
 lastDate: 1651352400

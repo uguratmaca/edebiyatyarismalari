@@ -2,6 +2,7 @@
 layout: post
 title: "25 Aralık Gaziantep Savunması Temalı Canlı Performans Resim Yarışması"
 description: "Gaziantep Büyükşehir Belediyesi '25 Aralık Gaziantep Savunması Temalı Canlı Performans Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, resim yarışması, lise]
 lastDate: 1670878800

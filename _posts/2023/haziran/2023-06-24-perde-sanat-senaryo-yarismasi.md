@@ -2,6 +2,7 @@
 layout: post
 title: "Perde Sanat Kısa Film Senaryo Yarışması"
 description: "Perde Sanat Tiyatrosu 'Perde Sanat Kısa Film Senaryo Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2023, senaryo yarışması, genel]
 lastDate: 1689282000

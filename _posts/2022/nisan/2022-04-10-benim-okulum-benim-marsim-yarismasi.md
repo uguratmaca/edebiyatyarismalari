@@ -2,6 +2,7 @@
 layout: post
 title: "Benim Okulum Benim Marşım Liseler Arası Okul Marşı Yarışması"
 description: "Mardin Sosyal Bilimler Lisesi 'Benim Okulum Benim Marşım Liseler Arası Okul Marşı Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, beste yarışması, lise]
 lastDate: 1650229200

@@ -2,6 +2,7 @@
 layout: post
 title: "Uluslararası Öğrenci Ödülleri 2022"
 description: "YTB 'Uluslararası Öğrenci Ödülleri 2022' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, şiir yarışması, hikaye yarışması, fotoğraf yarışması, kısa film yarışması, belgesel yarışması, üniversite]
 lastDate: 1661806800

@@ -2,6 +2,7 @@
 layout: post
 title: "7. Hikaye Yarışması"
 description: "Kayseri Büyükşehir Belediyesi '7. Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, hikaye yarışması, genel]
 lastDate: 1696539600

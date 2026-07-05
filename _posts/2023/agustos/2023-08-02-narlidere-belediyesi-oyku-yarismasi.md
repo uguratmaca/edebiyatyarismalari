@@ -2,6 +2,7 @@
 layout: post
 title: "Narlıdere Belediyesi Öykü Yarışması"
 description: "Narlıdere Belediyesi 'öykü yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, hikaye yarışması, genel]
 lastDate: 1694725200

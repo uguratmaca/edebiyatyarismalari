@@ -2,6 +2,7 @@
 layout: post
 title: "Ece Ayhan 2022 Öykü ve Şiir Yarışması"
 description: "Eceabat Belediyesi 'Ece Ayhan 2022 Öykü ve Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, hikaye yarışması, şiir yarışması, genel]
 lastDate: 1660942800

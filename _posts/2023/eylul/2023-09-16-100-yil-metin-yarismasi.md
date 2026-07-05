@@ -2,6 +2,7 @@
 layout: post
 title: "Metin Yarışması: Bir Kartpostalın Düşündürdükleri"
 description: "Yaşar Üniversitesi Mimarlık Fakültesi 'metin yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, hikaye yarışması, deneme yarışması, üniversite]
 lastDate: 1696194000

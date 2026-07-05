@@ -2,6 +2,7 @@
 layout: post
 title: "Enver Gökçe Şiir Yarışması"
 description: "Kartal Belediyesi 'Enver Gökçe Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, şiir yarışması, lise]
 lastDate: 1667077200

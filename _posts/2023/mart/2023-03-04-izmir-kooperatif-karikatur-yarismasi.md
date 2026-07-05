@@ -2,6 +2,7 @@
 layout: post
 title: "Köylünün Örgütlü Gücü Kooperatif Karikatür Yarışması"
 description: "İzmir Belediyesi 'Köylünün Örgütlü Gücü Kooperatif Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, karikatür yarışması, genel]
 lastDate: 1679346000

@@ -2,6 +2,7 @@
 layout: post
 title: "Rüştü Onur Şiir Ödülü ve Müfide Güzin Anadol Öykü Ödülü"
 description: "Devrek Belediye Başkanlığı 'Rüştü Onur Şiir Ödülü ve Müfide Güzin Anadol Öykü Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, şiir yarışması, hikaye yarışması, genel]
 lastDate: 1656536400

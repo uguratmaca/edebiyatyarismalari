@@ -2,6 +2,7 @@
 layout: post
 title: "AYDA Awards 2022"
 description: "Betek Boya ve Kimya Sanayi 'AYDA Awards 2022' tasarım yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, tasarım yarışması, üniversite]
 lastDate: 1658696400

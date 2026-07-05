@@ -2,6 +2,7 @@
 layout: post
 title: "1. Ulusal Burası Aksaray Fotoğrafçılar Maratonu"
 description: "Aksaray Valiliği ve Ahiler Kalkınma Ajansıer Kalkınma Ajansı '1. Ulusal Burası Aksaray Fotoğrafçılar Maratonu' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, fotoğraf yarışması, genel]
 lastDate: 1654376400

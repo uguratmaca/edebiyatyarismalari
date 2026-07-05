@@ -2,6 +2,7 @@
 layout: post
 title: "3. Benim Eserim Senaryo Yarışması"
 description: "Sinema ve Televizyon Eseri Sahipleri Meslek Birliği (SETEM) '3. Benim Eserim Senaryo Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, senaryo yarışması, genel, üniversite]
 lastDate: 1651179600

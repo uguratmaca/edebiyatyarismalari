@@ -2,6 +2,7 @@
 layout: post
 title: "Evliya Çelebinin İzinde Gezi Yazısı Yarışması"
 description: "Esenler Belediyesi 'Evliya Çelebinin İzinde Gezi Yazısı Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, anı yarışması, genel]
 lastDate: 1688072400

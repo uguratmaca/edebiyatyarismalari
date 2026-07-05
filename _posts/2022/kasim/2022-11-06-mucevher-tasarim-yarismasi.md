@@ -2,6 +2,7 @@
 layout: post
 title: "13. Mücevher Tasarım Yarışması"
 description: "Mücevher İhracatçıları Birliği '13. Mücevher Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, tasarım yarışması, genel]
 lastDate: 1671742800

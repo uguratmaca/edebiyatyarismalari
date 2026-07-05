@@ -2,6 +2,7 @@
 layout: post
 title: "10. Anne Temalı Şiir Yarışması"
 description: "Çukurova Edebiyatçılar Derneği '10. Anne Temalı Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, şiir yarışması, genel, çukurova, anne]
 lastDate: 1653858000

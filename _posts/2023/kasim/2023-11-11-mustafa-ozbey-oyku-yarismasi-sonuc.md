@@ -2,6 +2,7 @@
 layout: simple
 title: "2. Mustafa Özbey Edebiyat Ödülü Öykü Yarışması Kazananları Belli Oldu"
 description: "Menteşe Belediyesi tarafından düzenlenen 2. Mustafa Özbey Edebiyat Ödülü Öykü Yarışması kazananları belli olmuştur."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2023]
 permalink: "2-mustafa-ozbey-oyku-yarismasi-sonuc"

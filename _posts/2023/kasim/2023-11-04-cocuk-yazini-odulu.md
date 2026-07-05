@@ -2,6 +2,7 @@
 layout: post
 title: "Çocuk Yazını Roman Yarışması"
 description: "Sadık Uygun Yayınları 'Çocuk Yazını Roman Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, roman yarışması, genel]
 lastDate: 1708030800

@@ -2,6 +2,7 @@
 layout: post
 title: "ASELSAN & MEB Resim Yarışması"
 description: "ASELSAN Elektronik Sanayi ve Ticaret A.Ş. ve Millî Eğitim Bakanlığı Ortaöğretim Genel Müdürlüğü 'resim yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, resim yarışması, lise]
 lastDate: 1677186000

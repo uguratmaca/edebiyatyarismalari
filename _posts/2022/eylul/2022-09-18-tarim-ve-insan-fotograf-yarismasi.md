@@ -2,6 +2,7 @@
 layout: post
 title: "13. Tarım Orman ve İnsan Fotoğraf Yarışması"
 description: "Tarım ve Orman Bakanlığı '13. Tarım Orman ve İnsan Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, fotoğraf yarışması, genel]
 lastDate: 1672434000

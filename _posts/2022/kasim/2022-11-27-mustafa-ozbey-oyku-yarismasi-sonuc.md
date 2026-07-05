@@ -2,6 +2,7 @@
 layout: simple
 title: "Mustafa Özbey Edebiyat Ödülü Sonucu"
 description: "Günce Yayınları ve Menteşe Belediyesiyle birlikte ortaklaşa düzenlenen Mustafa Özbey Edebiyat Ödülü 2022 sonuçlanmıştır."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2022]
 permalink: "mustafa-ozbey-oyku-yarismasi-sonuc"

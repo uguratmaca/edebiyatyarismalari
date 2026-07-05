@@ -2,6 +2,7 @@
 layout: post
 title: "23. Hasan Bayrı Şiir Yarışması"
 description: "Bartın Belediyesi '23. Hasan Bayrı Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, şiir yarışması, genel]
 lastDate: 1663880400

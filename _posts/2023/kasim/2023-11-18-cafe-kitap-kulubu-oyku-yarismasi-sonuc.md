@@ -2,6 +2,7 @@
 layout: simple
 title: "Cafe Kitap Kulübü Öykü Yarışması Kazananları Belli Oldu"
 description: "Cafe Kitap Kulübü tarafından düzenlenen Cafe Kitap Kulübü Öykü Yarışması kazananları belli olmuştur."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2023]
 permalink: "cafe-kitap-kulubu-oyku-yarismasi-sonuc"

@@ -2,6 +2,7 @@
 layout: post
 title: "Mustafa Özbey Edebiyat Ödülü"
 description: "Günce Yayınları ve Menteşe Belediyesi 'Mustafa Özbey Edebiyat Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, hikaye yarışması, genel]
 lastDate: 1668546000

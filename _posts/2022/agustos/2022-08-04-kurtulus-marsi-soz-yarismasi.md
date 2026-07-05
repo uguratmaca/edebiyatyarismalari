@@ -2,6 +2,7 @@
 layout: post
 title: "Kurtuluş Marşı Söz Yarışması"
 description: "Altıeylül Belediyesi 'Kurtuluş Marşı Söz Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, şiir yarışması, genel, balıkesir]
 lastDate: 1660856400

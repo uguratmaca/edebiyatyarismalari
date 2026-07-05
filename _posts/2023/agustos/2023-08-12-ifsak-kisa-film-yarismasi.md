@@ -2,6 +2,7 @@
 layout: post
 title: "44. Ulusal Kısa Film Ve Belgesel Yarışması"
 description: "İstanbul Fotoğraf ve Sinema Amatörleri Derneği (İFSAK) '44. Ulusal Kısa Film Ve Belgesel Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2023, kısa film yarışması, genel]
 lastDate: 1702587600

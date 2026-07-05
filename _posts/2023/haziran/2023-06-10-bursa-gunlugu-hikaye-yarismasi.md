@@ -2,6 +2,7 @@
 layout: post
 title: "Bursa Günlüğü Hikaye Yarışması"
 description: "Bursa Büyükşehir Belediyesi 'Bursa Günlüğü Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, hikaye yarışması, genel]
 lastDate: 1693515600

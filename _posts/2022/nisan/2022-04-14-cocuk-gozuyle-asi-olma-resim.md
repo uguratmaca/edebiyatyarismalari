@@ -2,6 +2,7 @@
 layout: post
 title: "10. Geleneksel Resim Yarışması"
 description: "Kocaeli Eczacı Odası '10. Geleneksel Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, ilkokul, aşı]
 lastDate: 1651784400

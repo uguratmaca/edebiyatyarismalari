@@ -2,6 +2,7 @@
 layout: post
 title: "23 Nisan Resim Yarışması 2024"
 description: "Dalin Türkiye '23 Nisan Resim Yarışması 2024' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2024, resim yarışması, okul öncesi, ilkokul, ortaokul]
 lastDate: 1714424400

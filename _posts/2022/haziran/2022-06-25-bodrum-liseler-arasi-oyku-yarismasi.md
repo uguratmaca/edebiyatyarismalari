@@ -2,6 +2,7 @@
 layout: post
 title: "Bodrum Belediyesi Liseler Arası Öykü Yarışması"
 description: "Bodrum Belediyesi 'Liseler Arası Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, hikaye yarışması, genel]
 lastDate: 1664571600

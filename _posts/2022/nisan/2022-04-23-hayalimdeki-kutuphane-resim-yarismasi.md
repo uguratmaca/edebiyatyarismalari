@@ -2,6 +2,7 @@
 layout: post
 title: "Hayalimdeki Kütüphaneyi Çiziyorum Resim Yarışması"
 description: "Denizli Merkezefendi Ayşe Yunus Erdemir Anaokulu 'Hayalimdeki Kütüphaneyi Çiziyorum Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, okul öncesi]
 lastDate: 1653598800

@@ -2,6 +2,7 @@
 layout: post
 title: "7. Ahmet Hamdi Tanpınar Edebiyat Yarışması"
 description: "Antalya Kepez Belediyesi '7. Ahmet Hamdi Tanpınar Edebiyat Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, anı yarışması, genel, ahmet hamdi tanpınar]
 lastDate: 1664485200

@@ -2,6 +2,7 @@
 layout: post
 title: "Bağımlılıkla Mücadelede Öykü Yarışması"
 description: "Kayseri İl Milli Eğitim Müdürlüğü 'Bağımlılıkla Mücadelede Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, hikaye yarışması, ortaokul]
 lastDate: 1709845200

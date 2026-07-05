@@ -2,6 +2,7 @@
 layout: post
 title: "2022 Cüneyne Dergisi Şiir Yarışması"
 description: "Cüneyne Kültür Sanat Edebiyat Dergisi '2022 Cüneyne Dergisi Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, şiir yarışması, genel]
 lastDate: 1672520400

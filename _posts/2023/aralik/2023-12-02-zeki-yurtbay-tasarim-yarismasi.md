@@ -2,6 +2,7 @@
 layout: post
 title: "11. Zeki Yurtbay Tasarım Yarışması"
 description: "Yutbay Seramik '11. Zeki Yurtbay Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, tasarım yarışması, üniversite]
 lastDate: 1710450000

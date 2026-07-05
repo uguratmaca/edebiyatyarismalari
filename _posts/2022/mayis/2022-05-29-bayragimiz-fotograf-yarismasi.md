@@ -2,6 +2,7 @@
 layout: post
 title: "Milli İrademizin Temsili, Bayrağımız Fotoğraf Yarışması"
 description: "Yozgat Bozok Üniversitesi Milli İrademizin Temsili, Bayrağımız Fotoğraf Yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, fotoğraf yarışması, üniversite]
 lastDate: 1656277200

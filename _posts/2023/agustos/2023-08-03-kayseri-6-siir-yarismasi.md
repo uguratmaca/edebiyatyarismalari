@@ -2,6 +2,7 @@
 layout: post
 title: "6. Şiir Yarışması"
 description: "Kayseri Büyükşehir Belediyesi '6. Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, şiir yarışması, genel]
 lastDate: 1697144400

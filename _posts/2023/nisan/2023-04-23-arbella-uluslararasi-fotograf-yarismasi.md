@@ -2,6 +2,7 @@
 layout: post
 title: "13. Arbella Uluslararası Fotoğraf Yarışması"
 description: "Arbella Makarna Durum Gıda Sanayi ve Ticaret A.Ş. '13. Arbella Uluslararası Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, fotoğraf yarışması, genel]
 lastDate: 1691269200

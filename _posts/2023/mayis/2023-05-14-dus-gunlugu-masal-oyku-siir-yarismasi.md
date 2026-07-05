@@ -2,6 +2,7 @@
 layout: post
 title: "Düş Günlüğü Masal, Öykü ve Şiir Yarışması 2023"
 description: "Özel Rota Eğitim Kurumları 'Düş Günlüğü Masal, Öykü ve Şiir Yarışması 2023' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, hikaye yarışması, şiir yarışması, masal yarışması, ortaokul, lise]
 lastDate: 1686258000

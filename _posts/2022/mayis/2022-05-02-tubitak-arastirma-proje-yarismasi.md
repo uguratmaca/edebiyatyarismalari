@@ -2,6 +2,7 @@
 layout: post
 title: "TÜBİTAK Üniversite Öğrencileri Araştırma Proje Yarışmaları 2022"
 description: "TÜBİTAK 'TÜBİTAK Üniversite Öğrencileri Araştırma Proje Yarışmaları 2022' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, proje yarışması, üniversite]
 lastDate: 1652302800

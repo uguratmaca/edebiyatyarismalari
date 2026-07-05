@@ -2,6 +2,7 @@
 layout: post
 title: "V. Gençler Arası Öykü Yarışması"
 description: "Yozgat Valiliği 'V. Gençler Arası Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2024, hikaye yarışması, lise, üniversite, mehmet akif ersoy]
 lastDate: 1714683600

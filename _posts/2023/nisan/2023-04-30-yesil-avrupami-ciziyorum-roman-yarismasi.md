@@ -2,6 +2,7 @@
 layout: post
 title: "Yeşil Avrupamı Çiziyorum Çizgi Roman Yarışması"
 description: "Eurodesk ve CIDJ 'Yeşil Avrupamı Çiziyorum Çizgi Roman Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, roman yarışması, karikatür yarışması, lise, üniversite]
 lastDate: 1684443600

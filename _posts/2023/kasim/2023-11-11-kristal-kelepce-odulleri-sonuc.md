@@ -2,6 +2,7 @@
 layout: simple
 title: "2023 Kristal Kelepçe Ödülleri Kazananları Belli Oldu"
 description: "Türkiye Polisiye Yazarları Birliği tarafından düzenlenen 2023 Kristal Kelepçe Ödülleri kazananları belli olmuştur."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2023]
 permalink: "kristal-kelepce-odulleri-sonuc"

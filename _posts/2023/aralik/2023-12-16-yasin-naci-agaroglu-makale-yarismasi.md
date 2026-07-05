@@ -2,6 +2,7 @@
 layout: post
 title: "Yasin Naci Ağaroğlu Makale Yarışması"
 description: "Hukuk ve Değişim Derneği 'Yasin Naci Ağaroğlu Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, makale yarışması, üniversite]
 lastDate: 1708981200

@@ -2,6 +2,7 @@
 layout: post
 title: "Osmaniye Belediyesi Kompozisyon Yarışması"
 description: "Osmaniye Belediyesi 'kompozisyon yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, kompozisyon yarışması, genel]
 lastDate: 1697403600

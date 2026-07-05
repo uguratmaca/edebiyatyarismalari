@@ -2,6 +2,7 @@
 layout: post
 title: "Liseler Arası Viral Reklam Yarışması"
 description: "DAÜ İletişim Fakültesi Halkla İlişkiler ve Reklamcılık Bölümü 'Liseler Arası Viral Reklam Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 hidden: true
 tags: [mayıs 2022, reklam yarışması, lise, kıbrıs]

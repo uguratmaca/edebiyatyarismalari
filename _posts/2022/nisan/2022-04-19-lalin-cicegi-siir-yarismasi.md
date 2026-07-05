@@ -2,6 +2,7 @@
 layout: post
 title: "Lalin Çiçeği Şiir Yarışması"
 description: "Yazar Muhammed Çetinkaya 'Lalin Çiçeği Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, şiir yarışması, genel]
 lastDate: 1655672400

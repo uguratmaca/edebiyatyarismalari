@@ -2,6 +2,7 @@
 layout: post
 title: "Temiz Çorum Fotoğraf Yarışması"
 description: "Çorum Belediyesi 'Temiz Çorum Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, fotoğraf yarışması, genel]
 lastDate: 1661979600

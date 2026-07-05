@@ -2,6 +2,7 @@
 layout: post
 title: "Aliya İzzetbegoviç Makale Yarışması"
 description: "Osmangazi Belediyesi 'Aliya İzzetbegoviç Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, makale yarışması, genel]
 lastDate: 1659906000

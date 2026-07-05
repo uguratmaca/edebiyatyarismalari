@@ -2,6 +2,7 @@
 layout: post
 title: "Üniversite Öğrencileri ve Genç Girişimciler İçin Özgün Proje Yarışması"
 description: "Ankara Büyükşehir Belediyesi 'Üniversite Öğrencileri ve Genç Girişimciler İçin Özgün Proje Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, proje yarışması, üniversite]
 lastDate: 1668459600

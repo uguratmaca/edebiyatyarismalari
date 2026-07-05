@@ -2,6 +2,7 @@
 layout: post
 title: "Küçürek Öykü Yarışması"
 description: "İstanbul Üsküdar Lisesi Müdürlüğü 'Küçürek Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, hikaye yarışması, lise]
 lastDate: 1662670800

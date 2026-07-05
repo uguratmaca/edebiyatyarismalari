@@ -2,6 +2,7 @@
 layout: post
 title: "Damascus Av Bıçağı Yarışması"
 description: "Bursa Büyükşehir Belediyesi 'Damascus Av Bıçağı Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, tasarım yarışması, genel]
 lastDate: 1685653200

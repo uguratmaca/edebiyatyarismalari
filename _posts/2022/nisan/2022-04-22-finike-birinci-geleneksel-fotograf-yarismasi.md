@@ -2,6 +2,7 @@
 layout: post
 title: "1. Finike Fotoğraf Yarışması"
 description: "Finike Kaymakamlığı '1. Finike Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, fotoğraf yarışması, genel, finike]
 lastDate: 1652994000

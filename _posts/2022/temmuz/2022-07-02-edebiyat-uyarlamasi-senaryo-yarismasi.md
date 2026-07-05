@@ -2,6 +2,7 @@
 layout: post
 title: "Edebiyat Uyarlaması Senaryo Yarışması"
 description: "Antalya Büyükşehir Belediyesi 'Edebiyat Uyarlaması Senaryo Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, senaryo yarışması, genel]
 lastDate: 1660510800

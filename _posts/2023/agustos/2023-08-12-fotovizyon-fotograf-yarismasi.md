@@ -2,6 +2,7 @@
 layout: post
 title: "Cumhuriyetin 100. Yılı Fotoğraf Yarışması"
 description: "Fotovizyon Fotoğraf Dergisi 'Cumhuriyetin 100. Yılı Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, fotoğraf yarışması, genel, 29 ekim]
 lastDate: 1695502800

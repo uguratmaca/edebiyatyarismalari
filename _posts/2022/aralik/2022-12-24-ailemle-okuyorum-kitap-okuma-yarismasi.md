@@ -2,6 +2,7 @@
 layout: post
 title: "Ailemle Okuyorum Kitap Okuma Yarışması"
 description: "Emlak Konutları Ortaokulu 'Ailemle Okuyorum Kitap Okuma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, kitap okuma yarışması, ortaokul]
 lastDate: 1672347600

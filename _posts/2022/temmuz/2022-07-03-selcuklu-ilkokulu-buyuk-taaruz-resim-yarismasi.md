@@ -2,6 +2,7 @@
 layout: post
 title: "Büyük Taarruz Resim Yarışması"
 description: "Afyon Selçuklu İlkokulu 'Büyük Taarruz Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, resim yarışması, okul öncesi, ilkokul]
 lastDate: 1657832400

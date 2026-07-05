@@ -2,6 +2,7 @@
 layout: post
 title: "Colortone Resim Yarışması 2022"
 description: "Colortone Sanat Boyaları 'Colortone Resim Yarışması 2022' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, resim yarışması, genel]
 lastDate: 1655240400

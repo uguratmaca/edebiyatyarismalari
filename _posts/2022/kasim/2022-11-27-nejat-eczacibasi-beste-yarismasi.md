@@ -2,6 +2,7 @@
 layout: post
 title: "12. Dr. Nejat F. Eczacıbaşı Ulusal Beste Yarışması"
 description: "İzmir Kültür Sanat ve Eğitim Vakfı '12. Dr. Nejat F. Eczacıbaşı Ulusal Beste Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, beste yarışması, genel]
 lastDate: 1671742800

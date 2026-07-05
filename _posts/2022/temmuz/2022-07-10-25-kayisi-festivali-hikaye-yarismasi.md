@@ -2,6 +2,7 @@
 layout: post
 title: "25. Kayısı Festivali Hikaye Yarışması"
 description: "Malatya Büyükşehir Belediyesi Kültür ve Sosyal İşler Daire Başkanlığı '25. Kayısı Festivali Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, hikaye yarışması, genel]
 lastDate: 1658091600

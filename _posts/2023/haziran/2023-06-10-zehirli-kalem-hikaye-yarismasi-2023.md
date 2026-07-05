@@ -2,6 +2,7 @@
 layout: post
 title: "2023 Zehirli Kalem Öykü Yarışması"
 description: "Zehirli Kalem 'öykü yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, hikaye yarışması, genel]
 lastDate: 1692046800

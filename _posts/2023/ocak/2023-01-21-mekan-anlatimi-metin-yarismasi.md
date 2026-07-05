@@ -2,6 +2,7 @@
 layout: post
 title: "Mekân Anlatımı Metin Yarışması 2022"
 description: "KTMMOB Mimarlar Odası 'Mekân Anlatımı Metin Yarışması 2022' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, hikaye yarışması, deneme yarışması, genel]
 lastDate: 1676235600

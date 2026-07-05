@@ -2,6 +2,7 @@
 layout: post
 title: "Anneme Mektup Yazma Yarışması"
 description: "Sivas Yavuz Selim Ortaokulu 'Anneme Mektup Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, mektup yarışması, ortaokul]
 lastDate: 1680728400

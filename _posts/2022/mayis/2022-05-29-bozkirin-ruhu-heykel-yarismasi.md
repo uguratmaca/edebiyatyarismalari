@@ -2,6 +2,7 @@
 layout: post
 title: "4. Açık Hava Heykel Yarışması"
 description: "Anka Vakfı, Erciyes Üniversitesi Rektörlük Güzel Sanatlar Bölüm Başkanlığı İşbirliğiyle '4. Açık Hava Heykel Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, heykel yarışması, genel]
 lastDate: 1657832400

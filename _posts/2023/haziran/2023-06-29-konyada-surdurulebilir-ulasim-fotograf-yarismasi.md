@@ -2,6 +2,7 @@
 layout: post
 title: "Konya’da Sürdürülebilir Ulaşım Fotoğraf Yarışması"
 description: "Konya Büyükşehir Belediyesi 'Konya’da Sürdürülebilir Ulaşım Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, fotoğraf yarışması, genel]
 lastDate: 1692910800

@@ -2,6 +2,7 @@
 layout: post
 title: "Fikrimdeki Türk Asrı ve Türk Birliği Makale Yarışması"
 description: "Türk Eğitim-Sen 'Fikrimdeki Türk Asrı ve Türk Birliği Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2024, makale yarışması, genel]
 lastDate: 1727643600

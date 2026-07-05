@@ -2,6 +2,7 @@
 layout: post
 title: "Enerji Bakanlığı Öykü Yarışması"
 description: "Enerji Bakanlığı 'öykü yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, hikaye yarışması, ortaokul]
 lastDate: 1671138000

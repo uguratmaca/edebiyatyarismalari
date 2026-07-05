@@ -2,6 +2,7 @@
 layout: post
 title: "İhsan Üren Şiir Yarışması"
 description: "Bursa Yazın Ve Sanat Derneği (BUYAZ) 'İhsan Üren Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2024, şiir yarışması, genel]
 lastDate: 1719694800

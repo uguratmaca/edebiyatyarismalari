@@ -2,6 +2,7 @@
 layout: post
 title: "Fakir Baykurt Öykü Yarışması 2024"
 description: "Sarıyer Belediyesi 'Fakir Baykurt Öykü Yarışması 2024' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, hikaye yarışması, ortaokul, lise, genel, fakir baykurt]
 lastDate: 1707426000

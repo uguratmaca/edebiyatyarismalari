@@ -2,6 +2,7 @@
 layout: post
 title: "Turgut Pura Vakfı Heykel Yarışması"
 description: "Turgut Pura Vakfı 'heykel yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, heykel yarışması, genel]
 lastDate: 1682024400

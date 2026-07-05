@@ -2,6 +2,7 @@
 layout: post
 title: "7. Uluslararası Kısa Film Yarışması"
 description: "Eğitim-Bir-Sen '7. Uluslararası Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, kısa film yarışması, genel]
 lastDate: 1679000400

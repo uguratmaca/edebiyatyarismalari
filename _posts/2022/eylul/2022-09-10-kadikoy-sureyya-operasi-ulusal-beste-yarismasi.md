@@ -2,6 +2,7 @@
 layout: post
 title: "Ulusal Beste Yarışması 2022"
 description: "Kadıköy Belediyesi Süreyya Operası 'Ulusal Beste Yarışması 2022' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, beste yarışması, genel]
 lastDate: 1664485200

@@ -2,6 +2,7 @@
 layout: post
 title: "Cumhuriyetimizin 100. Yılında Tüketici Hakları Resim Yarışması"
 description: "Ticaret Bakanlığı 'Cumhuriyetimizin 100. Yılında Tüketici Hakları Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, resim yarışması, ortaokul]
 lastDate: 1707426000

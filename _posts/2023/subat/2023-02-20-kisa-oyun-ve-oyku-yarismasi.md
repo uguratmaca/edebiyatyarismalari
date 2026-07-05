@@ -2,6 +2,7 @@
 layout: post
 title: "Liselerarası Kısa Oyun ve Öykü Yazma Yarışması"
 description: "Bursa Uludağ Üniversitesi 'Liselerarası Kısa Oyun ve Öykü Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, hikaye yarışması, tiyatro oyunu yazma yarışması, lise]
 lastDate: 1681938000

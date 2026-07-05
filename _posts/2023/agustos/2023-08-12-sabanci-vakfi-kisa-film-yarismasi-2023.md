@@ -2,6 +2,7 @@
 layout: post
 title: "8. Kısa Film Yarışması"
 description: "Sabancı Vakfı '8. Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, kısa film yarışması, genel]
 lastDate: 1700168400

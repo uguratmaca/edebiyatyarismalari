@@ -2,6 +2,7 @@
 layout: post
 title: "Ekip Çalışması Temalı Fotoğraf Yarışması"
 description: "Türkiye Kalite Derneği (KalDer) Ankara Şubesi 'Ekip Çalışması Temalı Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, fotoğraf yarışması, genel]
 lastDate: 1657832400

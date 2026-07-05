@@ -2,6 +2,7 @@
 layout: post
 title: "Kazancın Vergi Olsun Kalkınmada Yerin Olsun Resim Yarışması"
 description: "Gaziantep Şehitkamil Batıkent Ortaokulu 'Kazancın Vergi Olsun Kalkınmada Yerin Olsun Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, resim yarışması, ortaokul]
 lastDate: 1674162000

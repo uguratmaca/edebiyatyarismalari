@@ -2,6 +2,7 @@
 layout: post
 title: "2. Darıca Birol Güven Kısa Film Yarışması"
 description: "Darıca Kaymakamlığı '2. Darıca Birol Güven Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, kısa film yarışması, genel]
 lastDate: 1696021200

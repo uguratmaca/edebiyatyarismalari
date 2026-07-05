@@ -2,6 +2,7 @@
 layout: post
 title: "Okulumdaki Yol Arkadaşım İle Hayat Resim Yarışması"
 description: "Aksaray Aratol Şehit Ertan Özan İlkokulu 'Okulumdaki Yol Arkadaşım İle Hayat Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, resim yarışması, ilkokul]
 lastDate: 1680210000

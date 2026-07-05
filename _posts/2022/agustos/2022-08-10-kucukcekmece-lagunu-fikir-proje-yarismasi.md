@@ -2,6 +2,7 @@
 layout: post
 title: "Küçükçekmece Lagünü Havzası Fikir Projesi Yarışması"
 description: "İBB Park Bahçe ve Yeşil Alanlar Dairesi Başkanlığı 'Küçükçekmece Lagünü Havzası Fikir Projesi Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, fikir yarışması, genel]
 lastDate: 1665954000

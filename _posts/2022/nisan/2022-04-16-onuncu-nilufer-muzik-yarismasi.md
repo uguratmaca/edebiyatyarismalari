@@ -2,6 +2,7 @@
 layout: post
 title: "10. Nilüfer Liselerarası Müzik Yarışması"
 description: "Nilüfer Belediyesi '10. Nilüfer Liselerarası Müzik Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, müzik yarışması, lise, bursa]
 lastDate: 1652389200

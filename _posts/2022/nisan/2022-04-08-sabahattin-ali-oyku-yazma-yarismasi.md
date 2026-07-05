@@ -2,6 +2,7 @@
 layout: post
 title: "5. Sabahattin Ali Öykü Yazma Yarışması"
 description: "Özel Fenerbahçe Anadolu Lisesi '5. Sabahattin Ali Öykü Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, hikaye yarışması, genel, sabahattin ali, lise]
 lastDate: 1652389200

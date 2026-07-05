@@ -2,6 +2,7 @@
 layout: post
 title: "15. Eskişehir Yunus Emre Şiir Yarışması"
 description: "Eskişehir Sanat Derneği '15. Eskişehir Yunus Emre Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, şiir yarışması, genel, yunus emre]
 lastDate: 1693515600

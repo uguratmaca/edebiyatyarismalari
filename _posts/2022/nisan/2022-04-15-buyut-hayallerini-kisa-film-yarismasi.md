@@ -2,6 +2,7 @@
 layout: post
 title: "'Büyüt Hayallerini' Kısa Film Yarışması"
 description: "İstanbul Vakfı 'Büyüt Hayallerini Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, kısa film yarışması, üniversite]
 lastDate: 1653598800

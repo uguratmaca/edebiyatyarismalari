@@ -2,6 +2,7 @@
 layout: post
 title: "Beşiktaş’ta 2023 Şiir Yarışması"
 description: "Beşiktaş Çınar Gazetesi 'Beşiktaş’ta 2023 Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, şiir yarışması, genel]
 lastDate: 1672434000

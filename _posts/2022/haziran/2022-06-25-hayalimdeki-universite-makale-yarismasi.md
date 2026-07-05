@@ -2,6 +2,7 @@
 layout: post
 title: "Hayalimdeki Üniversite Makale Yarışması"
 description: "Zafer Partisi 'Hayalimdeki Üniversite Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, makale yarışması, üniversite]
 lastDate: 1657227600

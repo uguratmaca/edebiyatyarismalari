@@ -2,6 +2,7 @@
 layout: post
 title: "Geleceğimiz Temiz Hava Temiz Su Resim Yarışması"
 description: "Afyonkarahisar İl Milli Eğitim Müdürlüğü ve Afyonkarahisar Çevre Şehircilik ve İklim Değişikliği İl Müdürlüğü  'Geleceğimiz Temiz Hava Temiz Su Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, resim yarışması, okul öncesi, ilkokul, ortaokul, lise, afyonkarahisar]
 lastDate: 1651179600

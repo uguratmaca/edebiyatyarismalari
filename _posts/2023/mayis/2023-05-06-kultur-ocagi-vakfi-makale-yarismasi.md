@@ -2,6 +2,7 @@
 layout: post
 title: "Erol Güngör Düşüncesinde Halkçılık ve Cumhuriyet Makale Yarışması"
 description: "Kocav Yayınları 'Erol Güngör Düşüncesinde Halkçılık ve Cumhuriyet Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, makale yarışması, lise]
 lastDate: 1692046800

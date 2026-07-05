@@ -2,6 +2,7 @@
 layout: post
 title: "Geleneksel 16. Fotoğraf Yarışması"
 description: "İMEAK Deniz Ticaret Odası 'Geleneksel 16. Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, fotoğraf yarışması, genel]
 lastDate: 1654203600

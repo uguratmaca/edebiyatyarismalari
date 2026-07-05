@@ -2,6 +2,7 @@
 layout: post
 title: "Gereksiz Harcanan Enerji Kaybedilen Emektir Resim Yarışması"
 description: "Gaziantep Şehitkamil Mustafa Keçeci İlkokulu 'Gereksiz Harcanan Enerji Kaybedilen Emektir Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, resim yarışması, ilkokul]
 lastDate: 1673384400

@@ -2,6 +2,7 @@
 layout: post
 title: "Güzel Köyüm Resim Yarışması"
 description: "Tokat Turhal Çivril Ortaokulu 'Güzel Köyüm Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, resim yarışması, ortaokul]
 lastDate: 1678654800

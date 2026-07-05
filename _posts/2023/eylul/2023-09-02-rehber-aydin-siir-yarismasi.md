@@ -2,6 +2,7 @@
 layout: post
 title: "Rehber Aydın Şiir Yarışması"
 description: "İçel Sanat Kulübü 'Rehber Aydın Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2023, şiir yarışması, genel]
 lastDate: 1701982800

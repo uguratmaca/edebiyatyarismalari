@@ -2,6 +2,7 @@
 layout: post
 title: "TİMAV 10. Geleneksel Hikaye Yarışması"
 description: "Türkiye İmam Hatipliler Vakfı (TİMAV) 'TİMAV 10. Geleneksel Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, hikaye yarışması, lise]
 lastDate: 1652562000

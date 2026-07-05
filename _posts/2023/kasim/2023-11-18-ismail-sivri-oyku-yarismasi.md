@@ -2,6 +2,7 @@
 layout: post
 title: "11. İsmail Sivri Öykü Yarışması"
 description: "İzmir Gazeteciler Cemiyeti '11. İsmail Sivri Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, hikaye yarışması, ortaokul, lise]
 lastDate: 1701291600

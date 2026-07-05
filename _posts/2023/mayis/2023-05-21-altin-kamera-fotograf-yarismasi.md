@@ -2,6 +2,7 @@
 layout: post
 title: "29. Altın Kamera Fotoğraf Yarışması"
 description: "Adana Fotoğraf Amatörleri Derneği (AFAD) '29. Altın Kamera Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, fotoğraf yarışması, genel]
 lastDate: 1696280400

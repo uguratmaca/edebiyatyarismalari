@@ -2,6 +2,7 @@
 layout: post
 title: "II. Öykü Yarışması"
 description: "Mahal Edebiyat 'II. Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2024, hikaye yarışması, genel]
 lastDate: 1704834000

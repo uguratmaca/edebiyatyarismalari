@@ -2,6 +2,7 @@
 layout: post
 title: "Cumhuriyet’in Yüzüncü Yılı Şiir Yarışması"
 description: "Eskişehir Toplum Ve Sanat Derneği (ETOS) 'Cumhuriyet’in Yüzüncü Yılı Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, şiir yarışması, genel]
 lastDate: 1699218000

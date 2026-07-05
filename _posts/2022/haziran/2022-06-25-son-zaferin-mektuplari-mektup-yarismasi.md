@@ -2,6 +2,7 @@
 layout: post
 title: "Konya Liselerarası Ödüllü Mektup Yarışması"
 description: "Konya Emniyet Müdürlüğü 'Konya Liselerarası Ödüllü Mektup Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, mektup yarışması, lise]
 lastDate: 1658091600

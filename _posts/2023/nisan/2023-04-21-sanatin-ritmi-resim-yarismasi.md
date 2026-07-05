@@ -2,6 +2,7 @@
 layout: post
 title: "II. Uluslararası Sanat Sempozyumu: Sanatın Ritmi Resim Yarışması"
 description: "Kocaeli Üniversitesi Güzel Sanatlar Fakültesi 'II. Uluslararası Sanat Sempozyumu: Sanatın Ritmi Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, resim yarışması, genel]
 lastDate: 1682888400

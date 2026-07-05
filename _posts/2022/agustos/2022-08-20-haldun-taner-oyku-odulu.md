@@ -2,6 +2,7 @@
 layout: post
 title: "Haldun Taner Öykü Yarışması"
 description: "Milliyet Gazetesi 'Haldun Taner Öykü Yarışması' yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, hikaye yarışması, genel]
 lastDate: 1664485200

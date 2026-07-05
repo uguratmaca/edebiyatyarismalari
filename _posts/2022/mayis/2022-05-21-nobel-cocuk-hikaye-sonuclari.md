@@ -2,6 +2,7 @@
 layout: simple
 title: "Nobel Çocuk Hikaye Yarışması Sonuçları"
 description: "Nobel Çocuk Hikaye Yarışması sonuçlandı."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2022]
 permalink: "nobel-cocuk-hikaye-sonuclari"

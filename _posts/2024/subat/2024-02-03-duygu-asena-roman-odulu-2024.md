@@ -2,6 +2,7 @@
 layout: post
 title: "Duygu Asena Roman Ödülü"
 description: "Doğan Kitap 'Duygu Asena Roman Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, roman yarışması, genel]
 lastDate: 1709499600

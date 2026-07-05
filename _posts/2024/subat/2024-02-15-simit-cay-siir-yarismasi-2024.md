@@ -2,6 +2,7 @@
 layout: post
 title: "10. Simit Çay Edebiyat Etkinlikleri Şiir Yarışması"
 description: "Simit Çay Edebiyat Etkinlikleri '10. Simit Çay Edebiyat Etkinlikleri Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2024, şiir yarışması, genel]
 lastDate: 1725051600

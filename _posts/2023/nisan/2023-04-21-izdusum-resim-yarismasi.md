@@ -2,6 +2,7 @@
 layout: post
 title: "11. İzdüşüm Resim Yarışması"
 description: "Birikim Okulları '11. İzdüşüm Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, resim yarışması, ilkokul, ortaokul, lise]
 lastDate: 1683234000

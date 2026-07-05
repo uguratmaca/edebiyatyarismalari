@@ -2,6 +2,7 @@
 layout: post
 title: "Bağımlılık Oyun Yazma Yarışması"
 description: "T.C. Kültür ve Turizm Bakanlığı Devlet Tiyatroları Genel Müdürlüğü 'Bağımlılık Oyun Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, tiyatro oyunu yazma yarışması, genel]
 lastDate: 1672347600

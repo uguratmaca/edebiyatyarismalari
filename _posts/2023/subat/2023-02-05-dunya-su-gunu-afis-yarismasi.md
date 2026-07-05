@@ -2,6 +2,7 @@
 layout: post
 title: "Dünya Su Günü Afiş Yarışması"
 description: "Energo-Pro Türkiye 'Dünya Su Günü Afiş Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, afiş yarışması, genel]
 lastDate: 1677186000

@@ -2,6 +2,7 @@
 layout: post
 title: "Edebiyatist Kristal Kalem Öykü Ödülü 2024"
 description: "Edebiyatist Yayınevi 'Edebiyatist Kristal Kalem Öykü Ödülü 2024' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2024, hikaye yarışması, genel]
 lastDate: 1722373200

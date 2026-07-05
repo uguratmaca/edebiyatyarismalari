@@ -2,6 +2,7 @@
 layout: post
 title: "23 Nisan Temalı Online Şiir Okuma Yarışması"
 description: "İzmit Belediyesi Kadın ve Aile Hizmetleri Müdürlüğü '23 Nisan Temalı Online Şiir Okuma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, şiir yarışması, ortaokul, ilkokul, 23 nisan]
 lastDate: 1650229200

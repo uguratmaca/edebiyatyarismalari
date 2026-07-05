@@ -2,6 +2,7 @@
 layout: post
 title: "20. Şefik Bursalı Resim Yarışması"
 description: "Kültür Ve Turizm Bakanlığı Güzel Sanatlar Genel Müdürlüğü '20. Şefik Bursalı Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, resim yarışması, genel]
 lastDate: 1681419600

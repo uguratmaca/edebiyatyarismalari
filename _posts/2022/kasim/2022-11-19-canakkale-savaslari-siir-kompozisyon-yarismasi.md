@@ -2,6 +2,7 @@
 layout: post
 title: "Çanakkale Savaşlarının 108.Yıl Dönümü Anma Törenleri Yarışmaları"
 description: "Temel Eğitim Genel Müdürlüğü 'Çanakkale Savaşlarının 108.Yıl Dönümü Anma Törenleri Yarışmaları' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, resim yarışması, şiir yarışması, kompozisyon yarışması, ilkokul, ortaokul]
 lastDate: 1673557200

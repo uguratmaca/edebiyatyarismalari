@@ -2,6 +2,7 @@
 layout: post
 title: "21 Mart Dünya Şiir Günü Şiir Yarışması"
 description: "İklim İçin Türkiye ve Ayrıntı Yayınları '21 Mart Dünya Şiir Günü Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, şiir yarışması, lise, üniversite]
 lastDate: 1650056400

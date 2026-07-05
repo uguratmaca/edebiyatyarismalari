@@ -2,6 +2,7 @@
 layout: post
 title: "Aynı Dünyanın Canlılarıyız Resim Yarışması"
 description: "Aksaray Kamber Gülüzar Demir İlkokulu 'Aynı Dünyanın Canlılarıyız Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, resim yarışması, ilkokul]
 lastDate: 1676840400

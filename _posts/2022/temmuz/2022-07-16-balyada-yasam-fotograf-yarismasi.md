@@ -2,6 +2,7 @@
 layout: post
 title: "Balya’da Yaşam Ulusal Fotoğraf Yarışması"
 description: "Balya Belediyesi 'Balya’da Yaşam Ulusal Fotoğraf Yarışması'  düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, fotoğraf yarışması, genel]
 lastDate: 1671397200

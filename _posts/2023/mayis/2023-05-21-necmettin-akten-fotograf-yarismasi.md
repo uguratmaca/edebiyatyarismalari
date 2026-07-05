@@ -2,6 +2,7 @@
 layout: post
 title: "4. Necmettin Akten Fotoğraf Yarışması"
 description: "Türkiye Denizciler Sendikası '4. Necmettin Akten Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, fotoğraf yarışması, genel]
 lastDate: 1692478800

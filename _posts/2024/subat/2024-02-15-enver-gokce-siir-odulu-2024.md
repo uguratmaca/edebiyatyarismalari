@@ -2,6 +2,7 @@
 layout: post
 title: "Enver Gökçe Şiir Ödülü 2024"
 description: "Özgür Öyküşiir Dergisi 'Enver Gökçe Şiir Ödülü 2024' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2024, şiir yarışması, genel]
 lastDate: 1719781200

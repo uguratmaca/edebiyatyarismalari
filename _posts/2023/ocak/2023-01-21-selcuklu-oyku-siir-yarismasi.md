@@ -2,6 +2,7 @@
 layout: post
 title: "Selçuklu Belediyesi Şiir, Öykü ve Resim Yarışması"
 description: "Selçuklu Belediyesi 'Selçuklu Belediyesi Şiir, Öykü ve Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, hikaye yarışması, şiir yarışması, resim yarışması, ortaokul, lise, üniversite]
 lastDate: 1677790800

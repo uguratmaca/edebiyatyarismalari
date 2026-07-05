@@ -2,6 +2,7 @@
 layout: post
 title: "7. Sabancı Vakfı Kısa Film Yarışması"
 description: "Sabancı Vakfı '7. Sabancı Vakfı Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, kısa film yarışması, genel]
 lastDate: 1668718800

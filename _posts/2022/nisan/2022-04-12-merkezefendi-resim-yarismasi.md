@@ -2,6 +2,7 @@
 layout: post
 title: "23 Nisan Resim Yarışması"
 description: "Merkezefendi Belediyesi '23 Nisan temalı Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, resim yarışması, ilkokul, ortaokul, 23 nisan]
 lastDate: 1650402000

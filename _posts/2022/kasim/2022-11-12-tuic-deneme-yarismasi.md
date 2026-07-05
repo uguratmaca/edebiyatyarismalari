@@ -2,6 +2,7 @@
 layout: post
 title: "TUİÇ Deneme Yarışması"
 description: "TUİÇ Akademi 'TUİÇ Deneme Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, deneme yarışması, genel]
 lastDate: 1669842000

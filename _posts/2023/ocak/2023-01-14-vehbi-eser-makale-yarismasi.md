@@ -2,6 +2,7 @@
 layout: post
 title: "Dr. Vehbi ESER Ödüllü Makale Yarışması"
 description: "Bitki ıslahçıları Alt Birliği (BİSAB) 'Dr. Vehbi ESER Ödüllü Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, makale yarışması, üniversite]
 lastDate: 1680814800

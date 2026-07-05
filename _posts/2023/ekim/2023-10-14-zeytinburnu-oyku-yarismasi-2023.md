@@ -2,6 +2,7 @@
 layout: post
 title: "9. Öykü Yarışması"
 description: "Zeytinburnu Bilgi Evleri ve Gençlik Merkezi '9. Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2023, hikaye yarışması, ortaokul, lise, üniversite]
 lastDate: 1703278800

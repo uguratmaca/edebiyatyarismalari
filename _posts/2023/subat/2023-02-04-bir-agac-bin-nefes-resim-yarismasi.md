@@ -2,6 +2,7 @@
 layout: post
 title: "Bir Ağaç Bin Nefes Resim Yarışması"
 description: "Diyarbakır Çınar İlkokulu 'Bir Ağaç Bin Nefes Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, resim yarışması, ilkokul]
 lastDate: 1677099600

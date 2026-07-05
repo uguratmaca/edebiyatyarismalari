@@ -2,6 +2,7 @@
 layout: post
 title: "Şükrü Bilgiç Öykü Yarışması"
 description: "Şükrü Bilgiç Ailesi 'Şükrü Bilgiç Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2024, hikaye yarışması, genel]
 lastDate: 1720990800

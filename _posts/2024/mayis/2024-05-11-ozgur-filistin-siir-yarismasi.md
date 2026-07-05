@@ -2,6 +2,7 @@
 layout: post
 title: "Nehirden Denize Özgür Filistin Şiir Yarışması"
 description: "İstanbul İl Millî Eğitim Müdürlüğü ve İlim Yayma Vakfı 'Nehirden Denize Özgür Filistin Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2024, şiir yarışması, lise]
 lastDate: 1715806800

@@ -2,6 +2,7 @@
 layout: post
 title: "Öğretmenler Arası Deneme Yarışması"
 description: "Altınordu İlçe Milli Müdürlüğü 'Öğretmenler Arası Deneme Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, deneme yarışması, genel, öğretmen]
 lastDate: 1669582800

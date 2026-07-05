@@ -2,6 +2,7 @@
 layout: post
 title: "Myrina Yayınları Öykü Yarışması"
 description: "Myrina Yayınları 'öykü yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, hikaye yarışması, genel]
 lastDate: 1686776400

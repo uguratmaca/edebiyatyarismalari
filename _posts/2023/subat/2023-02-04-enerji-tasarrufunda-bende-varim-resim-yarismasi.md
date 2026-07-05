@@ -2,6 +2,7 @@
 layout: post
 title: "Enerji Tasarrufunda Bende Varım Resim Yarışması"
 description: "Malatya Yeşilyurt Şehit Ahmet Şeker İlkokulu 'Enerji Tasarrufunda Bende Varım Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, resim yarışması, ilkokul]
 lastDate: 1676754000

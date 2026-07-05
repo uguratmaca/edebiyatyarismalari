@@ -2,6 +2,7 @@
 layout: post
 title: "Kudüs Konulu Deneme Yarışması"
 description: "Burak Derneği 'Kudüs Konulu Deneme Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, deneme yarışması, lise]
 lastDate: 1677963600

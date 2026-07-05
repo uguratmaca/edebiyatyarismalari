@@ -2,6 +2,7 @@
 layout: post
 title: "Telsim Kısa Öykü Yarışması"
 description: "Milli Eğitim Bakanlığı 'Telsim Kısa Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, hikaye yarışması, ortaokul, lise]
 lastDate: 1711659600

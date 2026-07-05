@@ -2,6 +2,7 @@
 layout: post
 title: "Cumhuriyet’in 100. Yılı Resim Yarışması"
 description: "Makine İhtisas Organize Sanayi Bölgesi 'Cumhuriyet’in 100. Yılı Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, resim yarışması, genel]
 lastDate: 1694725200

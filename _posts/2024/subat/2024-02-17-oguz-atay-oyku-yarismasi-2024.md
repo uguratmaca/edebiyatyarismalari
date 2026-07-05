@@ -2,6 +2,7 @@
 layout: post
 title: "4. Oğuz Atay Öykü Ödülü"
 description: "İnebolu Kültür ve Sanat Derneği '4. Oğuz Atay Öykü Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2024, hikaye yarışması, genel]
 lastDate: 1717016400

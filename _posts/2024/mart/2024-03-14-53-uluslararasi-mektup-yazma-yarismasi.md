@@ -2,6 +2,7 @@
 layout: post
 title: "53. Mektup Yarışması"
 description: "Evrensel Posta Birliği (UPU) '53. Mektup Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2024, mektup yarışması, lise, ortaokul]
 lastDate: 1713474000

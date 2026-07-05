@@ -2,6 +2,7 @@
 layout: post
 title: "Uluslararası Güler Ertan Fotoğraf Yarışması"
 description: "Büyükçekmece Belediyesi 'Uluslararası Güler Ertan Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, fotoğraf yarışması, genel]
 lastDate: 1654808400

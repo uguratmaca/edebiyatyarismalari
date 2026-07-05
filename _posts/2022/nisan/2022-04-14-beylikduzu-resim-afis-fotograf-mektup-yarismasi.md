@@ -2,6 +2,7 @@
 layout: post
 title: "Resim, Afiş, Fotoğraf ve Mektup Yarışması"
 description: "Beylikdüzü Belediyesi Çevre Koruma ve Kontrol Müdürlüğü 'Resim, Afiş, Fotoğraf ve Mektup Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, fotoğraf yarışması, afiş yarışması, mektup yarışması, ilkokul, ortaokul, lise]
 lastDate: 1652821200

@@ -2,6 +2,7 @@
 layout: post
 title: "Okuyorum Bilgileniyorum Farkındalık Oluşturuyorum Şiir Yarışması"
 description: "Büyükkarakuyu Ortaokulu 'Okuyorum Bilgileniyorum Farkındalık Oluşturuyorum Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, şiir yarışması, ortaokul]
 lastDate: 1673557200

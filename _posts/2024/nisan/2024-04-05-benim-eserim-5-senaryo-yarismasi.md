@@ -2,6 +2,7 @@
 layout: post
 title: "5. Benim Eserim Senaryo Yarışması"
 description: "SETEM '5. Benim Eserim Senaryo Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 20234, senaryo yarışması, genel]
 lastDate: 1714424400

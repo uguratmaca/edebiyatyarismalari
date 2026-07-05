@@ -2,6 +2,7 @@
 layout: post
 title: "İkinci Ödüllü Kitap Okuma Yarışması"
 description: "Şehit Mahmutbey Ortaokulu 'İkinci Ödüllü Kitap Okuma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, kitap okuma yarışması, ortaokul, sakarya]
 lastDate: 1649970000

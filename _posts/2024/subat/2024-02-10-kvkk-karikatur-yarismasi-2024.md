@@ -2,6 +2,7 @@
 layout: post
 title: "KVKK Karikatür Yarışması"
 description: "Kişisel Verileri Koruma Kurumu (KVKK) 'KVKK Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, karikatür yarışması, lise]
 lastDate: 1710882000

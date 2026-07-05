@@ -2,6 +2,7 @@
 layout: post
 title: "Annem'e Mektup Yarışması"
 description: "Bağcılar Belediyesi ve Gönül Bağı 'Annem'e Mektup Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, mektup yarışması]
 lastDate: 1651438800

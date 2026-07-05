@@ -2,6 +2,7 @@
 layout: post
 title: "Kaygusuz Abdal 13. Öykü ve Şiir Yarışması"
 description: "Güncel Sanat Dergisi 'Kaygusuz Abdal 13. Öykü ve Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, hikaye yarışması, şiir yarışması, genel]
 lastDate: 1672434000

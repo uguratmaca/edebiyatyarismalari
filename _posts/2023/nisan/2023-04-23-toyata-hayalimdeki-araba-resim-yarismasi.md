@@ -2,6 +2,7 @@
 layout: post
 title: "TOYOTA Hayalimdeki Araba Resim Yarışması"
 description: "Toyota Türkiye Pazarlama ve Satış A.Ş 'TOYOTA Hayalimdeki Araba Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, resim yarışması, okul öncesi, ilkokul, ortaokul]
 lastDate: 1686776400

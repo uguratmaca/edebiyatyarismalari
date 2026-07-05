@@ -2,6 +2,7 @@
 layout: post
 title: "Gençlere Alan Açık Resim Yarışması"
 description: "İstanbul Büyükşehir Belediyesi Kültür AŞ 'Gençlere Alan Açık Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, resim yarışması, üniversite]
 lastDate: 1685653200

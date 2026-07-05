@@ -2,6 +2,7 @@
 layout: post
 title: "TOGG'UN Rengi Oltu'nun Ahengi temalı Öğretmenler Arası Şiir Yarışması"
 description: "Oltu İlçe Milli Eğitim Müdürlüğü, Oltu Belediye Başkanlığı ve Oltu Ticaret ve Sanayi Odası 'TOGG'UN Rengi Oltu'nun Ahengi temalı Öğretmenler Arası Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, şiir yarışması, genel]
 lastDate: 1668632400

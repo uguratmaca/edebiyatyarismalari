@@ -2,6 +2,7 @@
 layout: simple
 title: "Cafe Kulübü Öykü Yarışması Sonuçları"
 description: "Cafe Kulübü Öykü Yarışması sonuçlanmıştır."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2022]
 permalink: "cafe-kitap-kulubu-oyku-sonuc"

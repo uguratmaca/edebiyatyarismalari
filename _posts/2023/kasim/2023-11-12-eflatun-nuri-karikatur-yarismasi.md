@@ -2,6 +2,7 @@
 layout: post
 title: "7. Eflatun Nuri Ulusal Karikatür Yarışması"
 description: "İzmir Gazeteciler Cemiyeti ve Konak Belediyesi '7. Eflatun Nuri Ulusal Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2023, karikatür yarışması, genel]
 lastDate: 1702587600

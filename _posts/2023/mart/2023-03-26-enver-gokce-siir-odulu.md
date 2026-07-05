@@ -2,6 +2,7 @@
 layout: post
 title: "Enver Gökçe Toplumcu Şiir Ödülü"
 description: "Özgür Öyküşiir Dergisi 'Enver Gökçe Toplumcu Şiir Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2023, şiir yarışması, genel]
 lastDate: 1688158800

@@ -2,6 +2,7 @@
 layout: post
 title: "Üniversitelere Yönelik İleri Dönüşüm Tasarım Yarışması"
 description: "Yorglass 'Üniversitelere Yönelik İleri Dönüşüm Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, tasarım yarışması, üniversite]
 lastDate: 1664485200

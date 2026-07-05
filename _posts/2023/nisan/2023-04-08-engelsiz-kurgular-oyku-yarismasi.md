@@ -2,6 +2,7 @@
 layout: post
 title: "Engelsiz Kurgular Öykü Yarışması"
 description: "Kapadokya Üniversitesi 'Engelsiz Kurgular Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, hikaye yarışması, lise]
 lastDate: 1683838800

@@ -2,6 +2,7 @@
 layout: simple
 title: "2023 Ruhi Türkyılmaz Sanatevi Şiir Ödülü Kazananları Belli Oldu"
 description: "Ruhi Türkyılmaz Sanatevi tarafından düzenlenen 2023 Ruhi Türkyılmaz Sanatevi Şiir Ödülü kazananları belli olmuştur."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2023]
 permalink: "ruhi-turkyilmaz-siir-odulu-sonuc"

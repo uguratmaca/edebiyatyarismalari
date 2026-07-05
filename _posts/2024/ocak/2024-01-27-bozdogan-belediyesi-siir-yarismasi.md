@@ -2,6 +2,7 @@
 layout: post
 title: "Bozdoğan Belediyesi Şiir Yarışması"
 description: "Bozdoğan Belediyesi 'şiir yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, şiir yarışması, genel]
 lastDate: 1708635600

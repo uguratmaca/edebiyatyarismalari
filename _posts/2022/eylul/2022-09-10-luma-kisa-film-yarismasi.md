@@ -2,6 +2,7 @@
 layout: post
 title: "Luma Kısa Film Festivali"
 description: "Yeditepe Üniversitesi Sinema Kulübü ve Ay Yapım 'Luma Kısa Film Festivali' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, kısa film yarışması, genel, üniversite]
 lastDate: 1663448400

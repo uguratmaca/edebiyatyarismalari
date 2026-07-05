@@ -2,6 +2,7 @@
 layout: post
 title: "Vicdanlı Gençlik Kısa Film Yarışması"
 description: "Vicdan Vakfı 'Vicdanlı Gençlik Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2024, kısa film yarışması, genel]
 lastDate: 1717966800

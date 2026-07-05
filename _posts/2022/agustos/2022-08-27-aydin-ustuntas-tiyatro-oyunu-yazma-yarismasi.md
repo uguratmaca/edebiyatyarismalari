@@ -2,6 +2,7 @@
 layout: post
 title: "17. Aydın Üstüntaş Geleneksel Anadolu Tiyatrosu Oyun Yazma Yarışması"
 description: "Güzel Ordu Kültür Sanat Derneği '17. Aydın Üstüntaş Geleneksel Anadolu Tiyatrosu Oyun Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, tiyatro oyunu yazma yarışması, genel]
 lastDate: 1676840400

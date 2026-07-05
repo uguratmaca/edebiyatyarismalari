@@ -2,6 +2,7 @@
 layout: post
 title: "Güher Ve Süher Pekinel Müzik Yarışması"
 description: "Türk Eğitim Vakfı Özel İnanç Türkeş Anadolu Lisesi 'Güher Ve Süher Pekinel Müzik Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, müzik yarışması, lise]
 lastDate: 1653080400

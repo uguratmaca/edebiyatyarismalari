@@ -2,6 +2,7 @@
 layout: post
 title: "7. Uluslararası Yeşilay Karikatür Yarışması"
 description: "Yeşilay '7. Uluslararası Yeşilay Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, karikatür yarışması, genel]
 lastDate: 1675112400

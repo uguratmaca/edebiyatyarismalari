@@ -2,6 +2,7 @@
 layout: post
 title: "Konya Alaeddin Tepesi Mimari Fikir Projesi Yarışması"
 description: "Konya Büyükşehir Belediyesi 'Konya Alaeddin Tepesi,II. Kılıçarslan Köşkü ve Kazı Alanı Mimari Fikir Projesi Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, fikir yarışması, genel]
 lastDate: 1666818000

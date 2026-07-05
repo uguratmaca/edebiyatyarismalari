@@ -2,6 +2,7 @@
 layout: post
 title: "Kirpi Edebiyat ve Düşün Dergisi Öykü Yarışması"
 description: "Kirpi Edebiyat ve Düşün Dergisi 'öykü yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, hikaye yarışması, genel]
 lastDate: 1678827600

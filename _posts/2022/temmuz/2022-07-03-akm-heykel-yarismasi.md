@@ -2,6 +2,7 @@
 layout: post
 title: "İstanbul Atatürk Kültür Merkezi Heykel Yarışması"
 description: "İstanbul Atatürk Kültür Merkezi 'heykel yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, heykel yarışması, genel]
 lastDate: 1658696400

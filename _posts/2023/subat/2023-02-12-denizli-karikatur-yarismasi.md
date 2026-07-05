@@ -2,6 +2,7 @@
 layout: post
 title: "3. Uluslararası Karikatür Yarışması"
 description: "Denizli Büyükşehir Belediyesi '3. Uluslararası Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, karikatür yarışması, genel]
 lastDate: 1677963600

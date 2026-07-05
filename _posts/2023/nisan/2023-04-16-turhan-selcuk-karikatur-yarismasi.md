@@ -2,6 +2,7 @@
 layout: post
 title: "Turhan Selçuk Karikatür Yarışması"
 description: "Muğla Milas Belediyesi 'Turhan Selçuk Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, karikatür yarışması, genel]
 lastDate: 1685394000

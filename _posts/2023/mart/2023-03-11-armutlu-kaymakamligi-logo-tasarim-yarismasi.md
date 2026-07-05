@@ -2,6 +2,7 @@
 layout: post
 title: "Armutlu Kaymakamlığı Logo Tasarım Yarışması"
 description: "Armutlu Kaymakamlığı 'logo tasarım yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, tasarım yarışması, genel]
 lastDate: 1680210000

@@ -2,6 +2,7 @@
 layout: post
 title: "4. Reşat Nuri Güntekin Öykü Yarışması"
 description: "Vefa Lisesi '4. Reşat Nuri Güntekin Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, hikaye yarışması, lise, reşat nuri güntekin]
 lastDate: 1651698000

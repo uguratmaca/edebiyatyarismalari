@@ -2,6 +2,7 @@
 layout: post
 title: "Kafka Kitap İlk Kitap Ödülü"
 description: "Kafka Kitap 'Kafka Kitap İlk Kitap Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2024, şiir yarışması, hikaye yarışması, roman yarışması, anı yarışması, genel]
 lastDate: 1715720400

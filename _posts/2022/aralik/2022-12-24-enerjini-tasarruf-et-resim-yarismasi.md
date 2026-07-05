@@ -2,6 +2,7 @@
 layout: post
 title: "Mutlu Yarınlar İçin Enerjini Tasarruf Et Resim Yarışması"
 description: "Gaziantep Şehitkamil Gürteks Mehmet Hayri Özkaya İlkokulu 'resim yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, resim yarışması, ilkokul]
 lastDate: 1673298000

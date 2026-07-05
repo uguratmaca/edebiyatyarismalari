@@ -2,6 +2,7 @@
 layout: post
 title: "18. Doğançay Müzesi İstanbul Resim Yarışması"
 description: "Beyoğlu Belediyesi '18. Doğançay Müzesi İstanbul Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, resim yarışması, ortaokul]
 lastDate: 1670792400

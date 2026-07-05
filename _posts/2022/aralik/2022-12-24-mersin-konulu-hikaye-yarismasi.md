@@ -2,6 +2,7 @@
 layout: post
 title: "Hikayelerle Kuşaktan Kuşağa Mersin Hikaye Yarışması"
 description: "Mersin Büyükşehir Belediyesi 'Hikayelerle Kuşaktan Kuşağa Mersin Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, hikaye yarışması, lise]
 lastDate: 1672434000

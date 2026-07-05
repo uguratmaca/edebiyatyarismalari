@@ -2,6 +2,7 @@
 layout: post
 title: "Kekeme Yayınları Öykü Ödülü"
 description: "Kekeme Yayınları 'öykü yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2024, hikaye yarışması, genel]
 lastDate: 1719694800

@@ -2,6 +2,7 @@
 layout: post
 title: "Koltuk Tasarım Yarışması"
 description: "FKT Koltuk Sistemleri Üretim ve Dağıtım San. Ve Tic. A.Ş. 'Koltuk Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, tasarım yarışması, üniversite]
 lastDate: 1659301200

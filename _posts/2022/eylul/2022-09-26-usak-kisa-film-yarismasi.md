@@ -2,6 +2,7 @@
 layout: post
 title: "Uşak Kısa Film Yarışması"
 description: "Uşak İl Kültür ve Turizm Müdürlüğü 'Uşak Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, kısa film yarışması, genel]
 lastDate: 1669323600

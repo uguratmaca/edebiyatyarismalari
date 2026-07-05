@@ -2,6 +2,7 @@
 layout: post
 title: "Hisarlı Ahmet Ses Yarışması"
 description: "Kütahya Belediyesi Kültür ve Sosyal İşler Müdürlüğü 'Hisarlı Ahmet Ses Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, ses yarışması, genel]
 lastDate: 1671051600

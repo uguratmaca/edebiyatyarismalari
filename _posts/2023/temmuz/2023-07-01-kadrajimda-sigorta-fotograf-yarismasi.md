@@ -2,6 +2,7 @@
 layout: post
 title: "Kadrajımda Sigorta Fotoğraf Yarışması"
 description: "Türk Sigorta Enstitüsü Vakfı (TSEV) 'Kadrajımda Sigorta Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, fotoğraf yarışması, genel]
 lastDate: 1693947600

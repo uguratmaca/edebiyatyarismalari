@@ -2,6 +2,7 @@
 layout: post
 title: "Everest Yayınları Roman Yarışması"
 description: "Everest Yayınları 'roman yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2023, roman yarışması, genel]
 lastDate: 1689282000

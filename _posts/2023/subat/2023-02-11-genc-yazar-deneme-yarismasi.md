@@ -2,6 +2,7 @@
 layout: post
 title: "Genç Yazar Deneme Yarışması"
 description: "Düzce Gençlik ve Spor İl Müdürlüğü 'Genç Yazar Deneme Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, deneme yarışması, üniversite]
 lastDate: 1676840400

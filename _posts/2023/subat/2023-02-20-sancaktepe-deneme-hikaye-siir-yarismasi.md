@@ -2,6 +2,7 @@
 layout: post
 title: "Genç Kalemler Deneme, Hikaye ve Şiir Yarışması"
 description: "Sancaktepe Belediyesi 'Genç Kalemler Deneme, Hikaye ve Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, deneme yarışması, hikaye yarışması, şiir yarışması, lise, üniversite]
 lastDate: 1682283600

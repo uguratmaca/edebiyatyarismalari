@@ -2,6 +2,7 @@
 layout: post
 title: "2. Yıl Programı Ödüllü Şiir Yarışması"
 description: "Kulüp Edebiyat Dergisi '2. Yıl Programı Ödüllü Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2023, şiir yarışması, genel]
 lastDate: 1702594800

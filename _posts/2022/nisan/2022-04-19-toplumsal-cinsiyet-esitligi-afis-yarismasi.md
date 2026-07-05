@@ -2,6 +2,7 @@
 layout: post
 title: "Uluslararası Toplumsal Cinsiyet Eşitliği Afiş Yarışması"
 description: "İzmir Büyükşehir Belediyesi 'Uluslararası Toplumsal Cinsiyet Eşitliği Afiş Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, afiş yarışması, genel, izmir]
 lastDate: 1663102800

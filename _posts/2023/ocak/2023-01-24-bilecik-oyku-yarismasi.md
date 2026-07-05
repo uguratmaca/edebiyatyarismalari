@@ -2,6 +2,7 @@
 layout: post
 title: "Öykülerle Tarihe Yolculuk Öykü Yarışması"
 description: "Bilecik İl Milli Eğitim Müdürlüğü 'Öykülerle Tarihe Yolculuk Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, hikaye yarışması, ortaokul, lise]
 lastDate: 1679000400

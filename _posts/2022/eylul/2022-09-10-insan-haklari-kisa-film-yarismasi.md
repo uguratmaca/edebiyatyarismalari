@@ -2,6 +2,7 @@
 layout: post
 title: "12. Avrupa Birliği İnsan Hakları Kısa Film Yarışması"
 description: "Avrupa Birliği Türkiye Delegasyonu '12. Avrupa Birliği İnsan Hakları Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, kısa film yarışması, genel]
 lastDate: 1667250000

@@ -2,6 +2,7 @@
 layout: post
 title: "4.Sınıflar Arası Ödüllü Kompozisyon Yarışması"
 description: "Medicana Bursa Hastanesi '4.Sınıflar Arası Ödüllü Kompozisyon Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, kompozisyon yarışması, ilkokul, bursa]
 lastDate: 1649538000

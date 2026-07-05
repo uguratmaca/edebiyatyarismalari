@@ -2,6 +2,7 @@
 layout: post
 title: "Aydınlık Yarınlara Kitap Okuma Yarışması"
 description: "Hayrat Vakfı ve Uluslararası Eğitimciler Derneği (ULUED) 'Aydınlık Yarınlara Kitap Okuma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2023, kitap okuma yarışması, genel]
 lastDate: 1701464400

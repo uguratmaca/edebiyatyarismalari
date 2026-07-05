@@ -2,6 +2,7 @@
 layout: post
 title: "TRT Geleceğin İletişimcileri Yarışması"
 description: "TRT 'TRT Geleceğin İletişimcileri Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, kısa film yarışması, üniversite]
 lastDate: 1691355600

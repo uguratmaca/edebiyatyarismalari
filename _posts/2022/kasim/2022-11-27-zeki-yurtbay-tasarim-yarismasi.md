@@ -2,6 +2,7 @@
 layout: post
 title: "10. Zeki Yurtbay Tasarım Yarışması"
 description: "Yurtbay Seramik '10. Zeki Yurtbay Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, tasarım yarışması, üniversite]
 lastDate: 1674162000

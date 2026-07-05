@@ -2,6 +2,7 @@
 layout: post
 title: "Gençlerden Direniş Yurduna Selam Mektup Yazma Yarışması"
 description: "Malatya İl Müftülüğü 'Gençlerden Direniş Yurduna Selam Mektup Yazma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, mektup yarışması, genel]
 lastDate: 1707944400

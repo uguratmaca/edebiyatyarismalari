@@ -2,6 +2,7 @@
 layout: post
 title: "Trafikte Saygı ve Sabır Karikatür ve Resim Yarışması"
 description: "Milli Eğitim Bakanlığı İle Emniyet Genel Müdürlüğü 'Trafikte Saygı ve Sabır Karikatür ve Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, karikatür yarışması, ilkokul, ortaokul]
 lastDate: 1653253200

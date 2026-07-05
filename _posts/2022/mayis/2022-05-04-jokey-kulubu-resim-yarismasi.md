@@ -2,6 +2,7 @@
 layout: post
 title: "11. Resim Yarışması"
 description: "Türkiye Jokey Kulübü '11. Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, resim yarışması, genel]
 lastDate: 1660510800

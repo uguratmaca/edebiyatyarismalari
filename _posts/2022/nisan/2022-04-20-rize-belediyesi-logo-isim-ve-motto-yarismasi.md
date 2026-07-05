@@ -2,6 +2,7 @@
 layout: post
 title: "Logo, İsim ve Motto Yarışması"
 description: "Rize Belediyesi 'Logo, İsim ve Motto Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, logo yarışması, genel]
 lastDate: 1651179600

@@ -2,6 +2,7 @@
 layout: post
 title: "Mudanya 1. Fotoğraf Yarışması"
 description: "Mudanya Belediyesi 'Mudanya 1. Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, fotoğraf yarışması, genel]
 lastDate: 1652994000

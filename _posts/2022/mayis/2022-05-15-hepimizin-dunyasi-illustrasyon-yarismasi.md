@@ -2,6 +2,7 @@
 layout: post
 title: "Hepimizin Dünyası Ödüllü İllüstrasyon Yarışması"
 description: "Woohoobox 'Hepimizin Dünyası Ödüllü İllüstrasyon Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, tasarım yarışması, genel]
 lastDate: 1653858000

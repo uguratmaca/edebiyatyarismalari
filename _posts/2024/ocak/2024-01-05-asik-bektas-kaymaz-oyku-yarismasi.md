@@ -2,6 +2,7 @@
 layout: post
 title: "Aşık Bektaş Kaymaz Öykü Yarışması"
 description: "Arguvanlılar Kültür ve Dayanışma Derneği 'Aşık Bektaş Kaymaz Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, hikaye yarışması, genel]
 lastDate: 1707944400

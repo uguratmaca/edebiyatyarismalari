@@ -2,6 +2,7 @@
 layout: post
 title: "Her Mevsimin Karesi Fotoğraf Yarışması"
 description: "Karesi Belediyesi 'Her Mevsimin Karesi Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, fotoğraf yarışması, genel]
 lastDate: 1667768400

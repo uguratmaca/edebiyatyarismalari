@@ -2,6 +2,7 @@
 layout: post
 title: "Yozgat Bozok Üniversitesi 1. Çevre Proje Pazarı"
 description: "Yozgat Bozok Üniversitesi '1. Çevre Proje Pazarı' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, proje yarışması, genel]
 lastDate: 1677186000

@@ -2,6 +2,7 @@
 layout: simple
 title: "Yunus Emre Edebiyat Armağanı Öykü Yarışması Sonuçları"
 description: "Yunus Emre Edebiyat Armağanı Öykü Yarışması sonuçlandı."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2022]
 permalink: "edebiyat-armagani-oyku-yarismasi-sonucu"

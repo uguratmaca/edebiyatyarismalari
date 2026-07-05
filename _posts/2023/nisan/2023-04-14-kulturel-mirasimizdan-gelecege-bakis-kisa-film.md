@@ -2,6 +2,7 @@
 layout: post
 title: "2. Kısa Film Yarışması"
 description: "Hasan Tekin Ada Anadolu Lisesi '2. Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, kısa film yarışması, ortaokul]
 lastDate: 1682283600

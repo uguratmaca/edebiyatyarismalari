@@ -2,6 +2,7 @@
 layout: post
 title: "100. Yıl Ve Eğitim İller Arası Kısa Film Yarışması"
 description: "Milli Eğitim Bakanlığı '100. Yıl Ve Eğitim İller Arası Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, kısa film yarışması, genel]
 lastDate: 1700600400

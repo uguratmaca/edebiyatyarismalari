@@ -2,6 +2,7 @@
 layout: post
 title: "Uzayda Bir Türk Resim Yarışması"
 description: "Hacı Halil Bektaş Ortaokulu 'Uzayda Bir Türk Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, resim yarışması, ortaokul]
 lastDate: 1673298000

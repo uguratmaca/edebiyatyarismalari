@@ -2,6 +2,7 @@
 layout: post
 title: "3. Zehirli Kalem Polisiye Öykü Ödülü"
 description: "Dedektif Dergi '3. Zehirli Kalem Polisiye Öykü Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, hikaye yarışması, genel]
 lastDate: 1660510800

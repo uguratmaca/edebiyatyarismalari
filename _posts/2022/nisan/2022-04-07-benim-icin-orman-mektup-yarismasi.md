@@ -2,6 +2,7 @@
 layout: post
 title: "Benim İçin Orman Mektup Yarışması"
 description: "T.C. Tarım ve Orman Bakanlığı Orman Genel Müdürlüğü ve T.C. Milli Eğitim Bakanlığı 'Benim İçin Orman Mektup Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, mektup yarışması, lise, orman]
 lastDate: 1652907600

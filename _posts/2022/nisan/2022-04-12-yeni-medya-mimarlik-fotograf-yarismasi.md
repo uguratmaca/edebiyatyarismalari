@@ -2,6 +2,7 @@
 layout: post
 title: "Mimari Fotoğraf Yarışması 2022"
 description: "Mimarlar Derneği 'Mimari Fotoğraf Yarışması 2022' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, fotoğraf yarışması, üniversite, mimarlık]
 lastDate: 1651438800

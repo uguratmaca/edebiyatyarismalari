@@ -2,6 +2,7 @@
 layout: post
 title: "Ağaç Varsa Hayat Var Resim Yarışması"
 description: "Mareşal Fevzi Çakmak İlkokulu 'Ağaç Varsa Hayat Var Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, resim yarışması, ilkokul]
 lastDate: 1678395600

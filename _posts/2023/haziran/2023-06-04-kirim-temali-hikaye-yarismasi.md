@@ -2,6 +2,7 @@
 layout: post
 title: "Kırım Temalı Hikaye Yarışması"
 description: "Kırım Türkleri Kültür ve Yardımlaşma Derneği Köklüce Şubesi 'Kırım Temalı Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2023, hikaye yarışması, ortaokul]
 lastDate: 1690491600

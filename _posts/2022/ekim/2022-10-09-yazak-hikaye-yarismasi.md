@@ -2,6 +2,7 @@
 layout: post
 title: "YAZAK 8. Öykü Yarışması"
 description: "Yazarlık Akademisi Derneği (Yazak) ve Acemi Edebiyat Dergisi 'YAZAK 8. Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, hikaye yarışması, genel]
 lastDate: 1674766800

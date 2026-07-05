@@ -2,6 +2,7 @@
 layout: post
 title: "Tanpınar Şiir Yarışması"
 description: "Osmangazi Belediyesi 'Tanpınar Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, şiir yarışması, genel, ahmet hamdi tanpınar]
 lastDate: 1685656800

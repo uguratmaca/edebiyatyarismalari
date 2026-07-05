@@ -2,6 +2,7 @@
 layout: post
 title: "20. Geleneksel Resim Yarışması"
 description: "Ümraniye Belediyesi '20. Geleneksel Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2024, resim yarışması, genel]
 lastDate: 1719522000

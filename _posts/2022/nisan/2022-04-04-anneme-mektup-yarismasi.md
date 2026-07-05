@@ -2,6 +2,7 @@
 layout: post
 title: "19 Mayıs İmam Hatip Ortaokulu Mektup Yarışması"
 description: "19 Mayıs İmam Hatip Ortaokulu 'Anneme Mektup' konulu Mektup Yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, mektup yarışması, ortaokul]
 lastDate: 1650488400

@@ -2,6 +2,7 @@
 layout: post
 title: "Anne ve Kudüs Deneme Yarışması"
 description: "ANADER 'Anne ve Kudüs Deneme Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, deneme yarışması, lise, genel]
 lastDate: 1708376400

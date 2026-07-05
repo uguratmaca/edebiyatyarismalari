@@ -2,6 +2,7 @@
 layout: post
 title: "Fatih Belediyesi Çini Yarışması"
 description: "Fatih Belediyesi 'çini yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, tasarım yarışması, genel]
 lastDate: 1678827600

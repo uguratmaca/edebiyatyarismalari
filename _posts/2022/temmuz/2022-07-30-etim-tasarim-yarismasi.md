@@ -2,6 +2,7 @@
 layout: post
 title: "ETİM Tasarım Yarışması"
 description: "EDICtive Design Call Eskişehir Tasarım & İnovasyon Merkezi 'ETİM Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, tasarım yarışması, genel]
 lastDate: 1661979600

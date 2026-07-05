@@ -2,6 +2,7 @@
 layout: post
 title: "Yunus Emre Edebiyat Armağanı Tiyatro Metni Yarışması"
 description: "Eskişehir Büyükşehir Belediyesi ve Porsuk Kültür 'Yunus Emre Edebiyat Armağanı Tiyatro Metni Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, tiyatro oyunu yazma yarışması, genel, yunus emre]
 lastDate: 1690837200

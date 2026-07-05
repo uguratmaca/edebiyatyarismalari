@@ -2,6 +2,7 @@
 layout: post
 title: "10. Arjen Arî Şiir Yarışması"
 description: "Arî’nin Ailesi ve Sor Yayınları '10. Arjen Arî Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, şiir yarışması, genel]
 lastDate: 1680296400

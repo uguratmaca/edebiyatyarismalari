@@ -2,6 +2,7 @@
 layout: post
 title: "5. Sufisin Ulusal Uzun Metraj Senaryo Yarışması"
 description: "Konya İl Kültür ve Turizm Müdürlüğü '5. Sufisin Ulusal Uzun Metraj Senaryo Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, senaryo yarışması, genel]
 lastDate: 1681506000

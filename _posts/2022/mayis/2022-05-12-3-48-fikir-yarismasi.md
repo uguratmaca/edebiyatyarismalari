@@ -2,6 +2,7 @@
 layout: post
 title: "3 + 48 Saat Lisans Öğrencileri Fikir Yarışması"
 description: "Fatih Sultan Mehmet Vakıf Üniversitesi '3 + 48 Saat Lisans Öğrencileri Fikir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, fikir yarışması, üniversite]
 lastDate: 1653166800

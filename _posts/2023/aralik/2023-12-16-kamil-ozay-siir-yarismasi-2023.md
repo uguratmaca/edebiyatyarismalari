@@ -2,6 +2,7 @@
 layout: post
 title: "Kamil Özay Şiir Yarışması"
 description: "Kültür Dairesi 'Kamil Özay Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2023, şiir yarışması, genel]
 lastDate: 1703192400

@@ -2,6 +2,7 @@
 layout: post
 title: "Balya’da Kadın Olmak Fotoğraf Yarışması"
 description: "Balya Belediyesi 'Balya’da Kadın Olmak Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2023, fotoğraf yarışması, genel]
 lastDate: 1701723600

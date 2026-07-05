@@ -2,6 +2,7 @@
 layout: post
 title: "Cumhuriyetin 100. Yılında Evlattan Ecdada Mektup Yarışması"
 description: "Zafer İlkokulu Müdürlüğü 'Cumhuriyetin 100. Yılında Evlattan Ecdada Mektup Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, mektup yarışması, ilkokul]
 lastDate: 1698008400

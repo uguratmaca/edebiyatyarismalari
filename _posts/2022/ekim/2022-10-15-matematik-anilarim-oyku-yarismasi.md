@@ -2,6 +2,7 @@
 layout: post
 title: "Matematik Anılarım Öykü Yarışması"
 description: "Isparta İl Millî Eğitim Müdürlüğü 'Matematik Anılarım Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, hikaye yarışması, lise]
 lastDate: 1676322000

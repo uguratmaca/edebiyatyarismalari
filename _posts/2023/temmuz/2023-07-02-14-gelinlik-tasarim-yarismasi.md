@@ -2,6 +2,7 @@
 layout: post
 title: "14. Gelinlik Tasarım Yarışması"
 description: "İzmir Fuarcılık Hizmetleri Kültür ve Sanat İşleri Tic. A.Ş. (İZFAŞ) '14. Gelinlik Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, tasarım yarışması, genel]
 lastDate: 1694725200

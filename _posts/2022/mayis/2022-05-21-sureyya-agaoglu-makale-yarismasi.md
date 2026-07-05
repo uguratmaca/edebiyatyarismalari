@@ -2,6 +2,7 @@
 layout: post
 title: "1. Süreyya Ağaoğlu Makale Yarışması"
 description: "Süreyya Ağaoğlu Çocuk Dostları Derneği ile İstanbul Üniversitesi Hukuk Fakültesi '1. Süreyya Ağaoğlu Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, makale yarışması, üniversite]
 lastDate: 1653944400

@@ -2,6 +2,7 @@
 layout: post
 title: "2022 Bilimkurgu Öykü Yarışması"
 description: "Türkiye Bilişim Dergisi '2022 Bilimkurgu Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, hikaye yarışması, genel, bilimkurgu]
 lastDate: 1661893200

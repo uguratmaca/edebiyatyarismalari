@@ -2,6 +2,7 @@
 layout: post
 title: "Sıfır Atık Resim Yarışması"
 description: "Gaziantep Şahinbey Ayşe Mustafa Sevcan İlkokulu 'Sıfır Atık Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, resim yarışması, ilkokul]
 lastDate: 1675630800

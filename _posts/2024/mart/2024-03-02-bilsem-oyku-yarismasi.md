@@ -2,6 +2,7 @@
 layout: post
 title: "Efsaneden Fantastik Kurguya Öykü Yarışması"
 description: "Rize Fatma- Nuri Erkan Bilim ve Sanat Merkezi 'Efsaneden Fantastik Kurguya Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, hikaye yarışması, ortaokul]
 lastDate: 1711314000

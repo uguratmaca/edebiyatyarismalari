@@ -2,6 +2,7 @@
 layout: post
 title: "Öğretmenler Arası Anı Yarışması"
 description: "Eskişehir İl Millî Eğitim Müdürlüğü 'Öğretmenler Arası Anı Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, anı yarışması, genel]
 lastDate: 1668546000

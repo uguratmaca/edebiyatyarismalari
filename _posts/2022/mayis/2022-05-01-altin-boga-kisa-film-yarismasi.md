@@ -2,6 +2,7 @@
 layout: post
 title: "19. Uluslararası Altın Boğa Kısa Film Yarışması"
 description: "İstanbul Erkek Lisesi '19. Uluslararası Altın Boğa Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, kısa film yarışması, lise]
 lastDate: 1652562000

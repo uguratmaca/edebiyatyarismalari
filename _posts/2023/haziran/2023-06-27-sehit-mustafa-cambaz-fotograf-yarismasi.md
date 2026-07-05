@@ -2,6 +2,7 @@
 layout: post
 title: "Şehit Mustafa Cambaz Fotoğraf Yarışması"
 description: "Yeni Şafak Gazetecilik A.Ş 'fotoğraf yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, fotoğraf yarışması, genel]
 lastDate: 1691355600

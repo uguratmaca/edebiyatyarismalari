@@ -2,6 +2,7 @@
 layout: post
 title: "Mavera Ödülleri 2024"
 description: "Mavera Eğitim ve Sağlık Vakfı 'Mavera Ödülleri 2024' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2024, deneme yarışması, şiir yarışması, hikaye yarışması, üniversite]
 lastDate: 1712264400

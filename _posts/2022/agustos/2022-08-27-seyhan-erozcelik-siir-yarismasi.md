@@ -2,6 +2,7 @@
 layout: post
 title: "Seyhan Erözçelik İlk Kitap Şiir Ödülü"
 description: "ŞiirAtı 'Seyhan Erözçelik İlk Kitap Şiir Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, şiir yarışması, genel]
 lastDate: 1664485200

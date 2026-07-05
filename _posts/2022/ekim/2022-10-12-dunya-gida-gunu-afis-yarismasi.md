@@ -2,6 +2,7 @@
 layout: post
 title: "Dünya Gıda Günü Afiş Yarışması"
 description: "Food and Agriculture Organization of the United Nations (FAO) 'Dünya Gıda Günü Afiş Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2022, afiş yarışması, ilkokul, ortaokul, lise]
 lastDate: 1667509200

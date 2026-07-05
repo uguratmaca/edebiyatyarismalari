@@ -2,6 +2,7 @@
 layout: post
 title: "YTÜ Ulusal Karikatür Yarışması"
 description: "Yıldız Teknik Üniversitesi 'YTÜ Ulusal Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2024, karikatür yarışması, üniversite]
 lastDate: 1714424400

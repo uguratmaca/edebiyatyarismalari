@@ -2,6 +2,7 @@
 layout: post
 title: "Avukat Cengiz Göral Makale Yarışması"
 description: "Bursa Barosu 'Avukat Cengiz Göral Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2023, makale yarışması, genel, hukuk]
 lastDate: 1690750800

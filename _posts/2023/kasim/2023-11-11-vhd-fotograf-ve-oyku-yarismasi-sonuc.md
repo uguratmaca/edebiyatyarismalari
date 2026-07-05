@@ -2,6 +2,7 @@
 layout: simple
 title: "VHD Fotoğraf ve Öykü Yarışması Kazananları Belli Oldu"
 description: "Veteriner Hekimler Derneği tarafından düzenlenen fotoğraf ve öykü yarışması kazananları belli olmuştur."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2023]
 permalink: "vhd-fotograf-ve-oyku-yarismasi-sonuc"

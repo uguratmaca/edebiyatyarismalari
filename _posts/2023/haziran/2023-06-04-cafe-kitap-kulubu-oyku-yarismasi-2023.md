@@ -2,6 +2,7 @@
 layout: post
 title: "2. Cafe Kitap Kulübü Öykü Yarışması"
 description: "Cafe Kitap Kulübü 'öykü yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, hikaye yarışması, genel]
 lastDate: 1696021200

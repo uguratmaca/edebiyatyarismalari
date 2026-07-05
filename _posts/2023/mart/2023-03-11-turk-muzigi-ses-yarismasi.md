@@ -2,6 +2,7 @@
 layout: post
 title: "II. Gençses: Türk Müziği Ses Yarışması"
 description: "Kültür ve Turizm Bakanlığı Güzel Sanatlar Genel Müdürlüğü 'II. Gençses: Türk Müziği Ses Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, ses yarışması, genel]
 lastDate: 1680210000

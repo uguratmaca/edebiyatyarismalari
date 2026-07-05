@@ -2,6 +2,7 @@
 layout: post
 title: "23 Nisan Öykü Yarışması"
 description: "Halley Dergisi '23 Nisan Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, hikaye yarışması, ilkokul, ortaokul, 23 nisan]
 lastDate: 1649970000

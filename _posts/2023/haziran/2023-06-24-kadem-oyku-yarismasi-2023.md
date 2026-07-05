@@ -2,6 +2,7 @@
 layout: post
 title: "Kadem Hayatın İçinde Kadın Öykü Yarışması"
 description: "KADEM 'Hayatın İçinde Kadın Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, hikaye yarışması, genel]
 lastDate: 1692478800

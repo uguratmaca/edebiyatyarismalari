@@ -2,6 +2,7 @@
 layout: post
 title: "Uzayda Hayat Konulu Hikaye Yarışması"
 description: "Albayrak Yayın Holding 'Uzayda Hayat Konulu Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2024, hikaye yarışması, ortaokul]
 lastDate: 1716498000

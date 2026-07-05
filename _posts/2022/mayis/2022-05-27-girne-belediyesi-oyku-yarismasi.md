@@ -2,6 +2,7 @@
 layout: post
 title: "5. Öykü Yarışması"
 description: "Girne Belediyesi '5. Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, hikaye yarışması, ortaokul, lise]
 lastDate: 1655413200

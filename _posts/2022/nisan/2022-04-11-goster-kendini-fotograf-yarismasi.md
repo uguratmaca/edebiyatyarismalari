@@ -2,6 +2,7 @@
 layout: post
 title: "Göster Kendini Fotoğraf Yarışması"
 description: "Çankaya Üniversitesi İktisadi ve İdari Bilimler Fakültesi Halkla İlişkiler ve Reklamcılık Bölümü 'Göster Kendini Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, fotoğraf yarışması, lise, ankara, çankaya üniversitesi]
 lastDate: 1651093200

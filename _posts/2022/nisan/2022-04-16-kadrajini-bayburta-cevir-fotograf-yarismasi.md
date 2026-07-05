@@ -2,6 +2,7 @@
 layout: post
 title: "Kadrajını Bayrurt’a Çevir Fotoğraf Yarışması"
 description: "Bayburt Belediyesi 'Kadrajını Bayrurt’a Çevir Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, fotoğraf yarışması, genel, bayburt]
 lastDate: 1655240400

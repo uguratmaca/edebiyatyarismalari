@@ -2,6 +2,7 @@
 layout: post
 title: "Sarıyer Belediyesi 6. Ulusal Fotoğraf Yarışması"
 description: "İstanbul Sarıyer Belediyesi 'Sarıyer Belediyesi 6. Ulusal Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, fotoğraf yarışması, genel, istanbul]
 lastDate: 1669928400

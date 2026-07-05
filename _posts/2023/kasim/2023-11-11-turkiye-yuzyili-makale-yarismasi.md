@@ -2,6 +2,7 @@
 layout: post
 title: "Türkiye Yüzyılı Makale Yarışması"
 description: "Ticaret Bakanlığı 'Türkiye Yüzyılı Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, makale yarışması, üniversite]
 lastDate: 1709154000

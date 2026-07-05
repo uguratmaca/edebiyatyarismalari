@@ -2,6 +2,7 @@
 layout: post
 title: "3. Geleneksel Ekonomi Sınıfı Uçak Koltuk ve Parçaları Tasarım ve Mühendislik Yarışması"
 description: "TSI Seats '3. Geleneksel Ekonomi Sınıfı Uçak Koltuk ve Parçaları Tasarım ve Mühendislik Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, tasarım yarışması, üniversite]
 lastDate: 1657746000

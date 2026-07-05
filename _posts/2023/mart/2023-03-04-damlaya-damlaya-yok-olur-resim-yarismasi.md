@@ -2,6 +2,7 @@
 layout: post
 title: "Damlaya Damlaya Yok Olur Resim Yarışması"
 description: "Gaziantep Şahinbey Hanifi Şireci İlkokulu 'Damlaya Damlaya Yok Olur Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, resim yarışması, ilkokul]
 lastDate: 1678395600

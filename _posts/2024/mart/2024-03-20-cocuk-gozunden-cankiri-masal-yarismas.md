@@ -2,6 +2,7 @@
 layout: post
 title: "Çocuk Gözünden Çankırı Masal Yarışması"
 description: "Çankırı Atatürk Ortaokulu 'Çocuk Gözünden Çankırı Masal Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2024, masal yarışması, ilkokul, ortaokul]
 lastDate: 1715115600

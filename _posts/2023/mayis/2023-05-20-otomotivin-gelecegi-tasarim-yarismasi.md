@@ -2,6 +2,7 @@
 layout: post
 title: "12. Otomotivin Geleceği Tasarım Yarışması"
 description: "Uludağ Otomotiv Endüstrisi İhracatçıları Birliği '12. Otomotivin Geleceği Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, tasarım yarışması, genel]
 lastDate: 1690837200

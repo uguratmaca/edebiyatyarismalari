@@ -2,6 +2,7 @@
 layout: post
 title: "Senin Doğan Senin Resmin Resim Yarışması"
 description: "Afyonkarahisar Toki Mevlana İlkokulu 'Senin Doğan Senin Resmin Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, resim yarışması, ilkokul]
 lastDate: 1672261200

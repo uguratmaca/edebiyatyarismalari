@@ -2,6 +2,7 @@
 layout: post
 title: "8. Alemlere Rahmet Uluslararası Kısa Film Festivali"
 description: "Fidan Sanat Vakfı '8. Alemlere Rahmet Uluslararası Kısa Film Festivali' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, kısa film yarışması, genel]
 lastDate: 1663880400

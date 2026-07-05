@@ -2,6 +2,7 @@
 layout: post
 title: "Umut Canlansın, Kadın Güçlensin Öykü Yarışması"
 description: "ODTÜ Mezunları Derneği 'Umut Canlansın, Kadın Güçlensin Öykü Yarışması' yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, hikaye yarışması, genel, odtü]
 lastDate: 1672434000

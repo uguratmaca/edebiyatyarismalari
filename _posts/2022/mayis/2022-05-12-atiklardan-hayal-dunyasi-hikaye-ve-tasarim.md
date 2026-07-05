@@ -2,6 +2,7 @@
 layout: post
 title: "Atıklardan Hayal Dünyası Hikaye ve Tasarım Yarışması"
 description: "Turgutlu Belediyesi 'Atıklardan Hayal Dünyası Hikaye ve Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, hikaye yarışması, tasarım yarışması, ilkokul, ortaokul]
 lastDate: 1653598800

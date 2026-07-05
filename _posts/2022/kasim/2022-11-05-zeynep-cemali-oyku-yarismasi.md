@@ -2,6 +2,7 @@
 layout: post
 title: "Zeynep Cemali Öykü Yarışması 2023"
 description: "Günışığı Kitaplığı 'Zeynep Cemali Öykü Yarışması 2023' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, hikaye yarışması, ortaokul]
 lastDate: 1684702800

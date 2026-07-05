@@ -2,6 +2,7 @@
 layout: post
 title: "Cumhuriyetin 100. Yılı Temalı Senaryo Yarışması"
 description: "Ankara Üniversitesi İletişim Fakültesi Mezunları Vakfı (İLEV) 'Cumhuriyetin 100. Yılı Temalı Senaryo Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, senaryo yarışması, üniversite, 29 ekim]
 lastDate: 1696021200

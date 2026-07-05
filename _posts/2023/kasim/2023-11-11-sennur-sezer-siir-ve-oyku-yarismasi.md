@@ -2,6 +2,7 @@
 layout: post
 title: "2024 Sennur Sezer Emek-Direniş Şiir ve Öykü Yarışması"
 description: "Gıda-İş Sendikası ve Manos Kitap '2024 Sennur Sezer Emek-Direniş Şiir ve Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2024, şiir yarışması, hikaye yarışması, genel]
 lastDate: 1713128400

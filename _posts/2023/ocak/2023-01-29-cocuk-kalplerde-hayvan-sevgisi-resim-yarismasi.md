@@ -2,6 +2,7 @@
 layout: post
 title: "Çocuk Kalplerde Hayvan Sevgisi Resim Yarışması"
 description: "Aydın Efeler Yılmazköy İlkokulu 'Çocuk Kalplerde Hayvan Sevgisi Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, resim yarışması, ilkokul]
 lastDate: 1676581200

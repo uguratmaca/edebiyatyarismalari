@@ -2,6 +2,7 @@
 layout: post
 title: "14. Yunus Emre Şiir Yarışması"
 description: "Eskişehir Sanat Derneği '14. Yunus Emre Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, şiir yarışması, genel]
 lastDate: 1663189200

@@ -2,6 +2,7 @@
 layout: post
 title: "Afet Risk Azaltma Proje Yarışması"
 description: "Japonya Uluslararası İşbirliği Ajansı (JICA) ve Türk Japon Vakfı (TJV) 'Afet Risk Azaltma Proje Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, proje yarışması, ilkokul, ortaokul, lise, afet]
 lastDate: 1650661200

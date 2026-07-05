@@ -2,6 +2,7 @@
 layout: post
 title: "Evliya Çelebi'nin İzinde Fotoğraf Yarışması"
 description: "Esenler Belediyesi 'Evliya Çelebi'nin İzinde Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, fotoğraf yarışması, genel]
 lastDate: 1688072400

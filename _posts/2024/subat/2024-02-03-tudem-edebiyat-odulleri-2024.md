@@ -2,6 +2,7 @@
 layout: post
 title: "22. Tudem Edebiyat Ödülleri"
 description: "Tudem Yayın Grubu '22. Tudem Edebiyat Ödülleri' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2024, roman yarışması, genel]
 lastDate: 1730408400

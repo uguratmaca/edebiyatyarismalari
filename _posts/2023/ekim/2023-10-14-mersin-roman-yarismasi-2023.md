@@ -2,6 +2,7 @@
 layout: post
 title: "3. Mersin Roman Ödülü"
 description: "Mersin Büyükşehir Belediyesi '3. Mersin Roman Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, roman yarışması, genel]
 lastDate: 1698699600

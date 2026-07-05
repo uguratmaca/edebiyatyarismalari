@@ -2,6 +2,7 @@
 layout: post
 title: "Uluslararası Karikatür Yarışması"
 description: "İstanbul Büyükçekmece Belediyesi 'Uluslararası Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, karikatür yarışması, genel, istanbul]
 lastDate: 1652648400

@@ -2,6 +2,7 @@
 layout: post
 title: "James Dyson Ödülü"
 description: "James Dyson Vakfı 'James Dyson Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, tasarım yarışması, üniversite]
 lastDate: 1657054800

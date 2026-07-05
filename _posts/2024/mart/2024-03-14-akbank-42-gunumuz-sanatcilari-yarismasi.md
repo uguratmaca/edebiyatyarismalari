@@ -2,6 +2,7 @@
 layout: post
 title: "42. Günümüz Sanatçıları Sanat Yarışması"
 description: "Akbank '42. Günümüz Sanatçıları Sanat Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2024, resim yarışması, heykel yarışması, fotoğraf yarışması, genel]
 lastDate: 1722027600

@@ -2,6 +2,7 @@
 layout: post
 title: "Çevre ve Sokak Hayvanları Resim Yarışması"
 description: "İzmir Doğalgaz A.Ş. 'Çevre ve Sokak Hayvanları Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, ortaokul, izmir]
 lastDate: 1652130000

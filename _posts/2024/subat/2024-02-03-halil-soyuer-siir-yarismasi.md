@@ -2,6 +2,7 @@
 layout: post
 title: "1. Halil Soyuer Şiir Yarışması"
 description: "Şiirbaz Yayınevi '1. Halil Soyuer Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2024, şiir yarışması, genel]
 lastDate: 1712264400

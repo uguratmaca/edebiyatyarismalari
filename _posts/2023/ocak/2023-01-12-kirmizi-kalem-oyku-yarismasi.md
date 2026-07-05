@@ -2,6 +2,7 @@
 layout: post
 title: "Kırmızı Kalem Edebiyat Öykü Yarışması"
 description: "Yediveren Yayınları ve Banliyö Ajans 'Kırmızı Kalem Edebiyat Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, hikaye yarışması, genel]
 lastDate: 1678827600

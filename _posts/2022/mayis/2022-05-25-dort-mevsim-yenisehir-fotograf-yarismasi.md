@@ -2,6 +2,7 @@
 layout: post
 title: "Dört Mevsim Yenişehir- İlkbahar Fotoğraf Yarışması"
 description: "Diyanet İşleri 'Dört Mevsim Yenişehir- İlkbahar Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, fotoğraf yarışması, genel]
 lastDate: 1653944400

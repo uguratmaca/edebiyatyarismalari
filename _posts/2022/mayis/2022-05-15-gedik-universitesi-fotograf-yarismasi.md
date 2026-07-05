@@ -2,6 +2,7 @@
 layout: post
 title: "Fotoğraf Yarışması"
 description: "İstanbul Gedik Üniversitesi Görsel İletişim Tasarımı Bölümü 'Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, fotoğraf yarışması, lise, istanbul]
 lastDate: 1653771600

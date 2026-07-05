@@ -2,6 +2,7 @@
 layout: post
 title: "8. Cumba Öykü Yarışması"
 description: "Cumba Kültür Sanat Platformu '8. Cumba Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2024, hikaye yarışması, genel]
 lastDate: 1718398800

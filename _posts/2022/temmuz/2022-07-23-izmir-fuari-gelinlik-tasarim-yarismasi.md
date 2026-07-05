@@ -2,6 +2,7 @@
 layout: post
 title: "13. Gelinlik Tasarım Yarışması"
 description: "İzmir Fuarcılık Hizmetleri Kültür ve Sanat İşleri Tic. A.Ş. (İZFAŞ), Ege Giyim Sanayicileri Derneği (EGSD) '13. Gelinlik Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, tasarım yarışması, genel]
 lastDate: 1663880400

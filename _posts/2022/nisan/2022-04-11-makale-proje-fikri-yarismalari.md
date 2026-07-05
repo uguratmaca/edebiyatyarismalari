@@ -2,6 +2,7 @@
 layout: post
 title: "Makale-Proje Fikri Yarışmaları"
 description: "İstanbul Gedik Üniversitesi 'Makale-Proje Fikri Yarışmaları' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, makale yarışması, lise, istanbul]
 lastDate: 1651179600

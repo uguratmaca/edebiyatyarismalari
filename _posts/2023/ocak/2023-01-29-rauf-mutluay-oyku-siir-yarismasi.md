@@ -2,6 +2,7 @@
 layout: post
 title: "Rauf Mutluay Öykü ve Şiir Yarışması"
 description: "Işık Okulları 'Rauf Mutluay Öykü ve Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, hikaye yarışması, şiir yarışması, lise]
 lastDate: 1680469200

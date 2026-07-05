@@ -2,6 +2,7 @@
 layout: post
 title: "Sağlıklı Fikirler Kısa Film Yarışması"
 description: "Yeşilay 'Sağlıklı Fikirler Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, kısa film yarışması, üniversite]
 lastDate: 1696539600

@@ -2,6 +2,7 @@
 layout: post
 title: "1. Ganeşa Mitolojik Öykü Yarışması"
 description: "Ganeşa Yayınevi '1. Ganeşa Mitolojik Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, hikaye yarışması, genel]
 lastDate: 1707944400

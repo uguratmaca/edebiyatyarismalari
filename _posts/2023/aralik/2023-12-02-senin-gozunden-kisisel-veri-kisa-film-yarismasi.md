@@ -2,6 +2,7 @@
 layout: post
 title: "Senin Gözünden Kişisel Veri Kısa Film Yarışması"
 description: "Kişisel Verileri Koruma Kurumu 'Senin Gözünden Kişisel Veri Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, kısa film yarışması, üniversite]
 lastDate: 1709240400

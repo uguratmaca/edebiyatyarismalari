@@ -2,6 +2,7 @@
 layout: post
 title: "25. Bireysel Silahsızlanma Afiş Yarışması"
 description: "Umut Vakfı '25. Bireysel Silahsızlanma Afiş Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, afiş yarışması, genel]
 lastDate: 1661461200

@@ -2,6 +2,7 @@
 layout: post
 title: "5. Ulusal Kültür Ödülleri"
 description: "Güneysu İlim Öğrenenlere Yardım Vakfı '5. Ulusal Kültür Ödülleri' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, kısa film yarışması, lise, üniversite]
 lastDate: 1694293200

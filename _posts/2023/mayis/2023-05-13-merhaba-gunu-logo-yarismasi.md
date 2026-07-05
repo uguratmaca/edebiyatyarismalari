@@ -2,6 +2,7 @@
 layout: post
 title: "Uluslararası Merhaba Günü Logo Tasarımı Yarışması"
 description: "Bodrum Deniz Müzesi 'Uluslararası Merhaba Günü Logo Tasarımı Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, tasarım yarışması, genel]
 lastDate: 1696021200

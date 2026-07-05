@@ -2,6 +2,7 @@
 layout: post
 title: "Sedat Simavi Ödülleri 2023"
 description: "Türkiye Gazeteciler Cemiyeti (TGC) 'Sedat Simavi Ödülleri 2023' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, deneme yarışması, karikatür yarışması, hikaye yarışması, resim yarışması, fotoğraf yarışması, şiir yarışması, genel]
 lastDate: 1696021200

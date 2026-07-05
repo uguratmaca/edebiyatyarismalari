@@ -2,6 +2,7 @@
 layout: post
 title: "3. 'Kadın Öyküleri' Kısa Öykü ve Şiir Yarışması"
 description: "Konak Belediyesi '3. 'Kadın Öyküleri' Kısa Öykü ve Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, hikaye yarışması, şiir yarışması, genel]
 lastDate: 1696539600

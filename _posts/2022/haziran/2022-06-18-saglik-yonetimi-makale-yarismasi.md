@@ -2,6 +2,7 @@
 layout: post
 title: "Sağlık Yönetimi Makale Yarışması"
 description: "İzmir Bakırçay Üniversitesi 'Sağlık Yönetimi Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, makale yarışması, üniversite]
 lastDate: 1656018000

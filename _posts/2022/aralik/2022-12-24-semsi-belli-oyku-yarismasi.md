@@ -2,6 +2,7 @@
 layout: post
 title: "Şair Şemsi Belli Öykü Yarışması"
 description: "Ankara Arguvanlılar Kültür ve Dayanışma Derneği 'Şair Şemsi Belli Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, hikaye yarışması, genel]
 lastDate: 1675976400

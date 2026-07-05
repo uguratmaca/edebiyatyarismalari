@@ -2,6 +2,7 @@
 layout: post
 title: "25 Aralık Gaziantep’in Tarihi Temalı Kısa Film Yarışması"
 description: "Gaziantep Büyükşehir Belediyesi '25 Aralık Gaziantep’in Tarihi Temalı Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, kısa film yarışması, lise]
 lastDate: 1671397200

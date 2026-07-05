@@ -2,6 +2,7 @@
 layout: post
 title: "2023 Öykü ve Şiir Yarışması"
 description: "Hacıbektaş Belediye Başkanlığı 'öykü ve şiir yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2023, hikaye yarışması, şiir yarışması, genel]
 lastDate: 1687554000

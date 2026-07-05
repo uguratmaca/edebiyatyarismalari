@@ -2,6 +2,7 @@
 layout: post
 title: "Ödüllü Kitap Okuma Yarışması"
 description: "Aksaray Hayra Doğru Derneği 'Ödüllü Kitap Okuma Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, kitap okuma yarışması, ilkokul, ortaokul, lise]
 lastDate: 1680210000

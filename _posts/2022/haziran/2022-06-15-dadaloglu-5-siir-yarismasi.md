@@ -2,6 +2,7 @@
 layout: post
 title: "Dadaloğlu 5. Şiir Yarışması"
 description: "Kayseri Büyükşehir Belediyesi 'Dadaloğlu 5. Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, şiir yarışması, genel]
 lastDate: 1663880400

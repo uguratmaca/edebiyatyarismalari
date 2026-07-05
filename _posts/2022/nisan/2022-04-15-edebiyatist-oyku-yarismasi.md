@@ -2,6 +2,7 @@
 layout: post
 title: "Edebiyatist Öykü Yarışması"
 description: "Edebiyatist Yayın Evi 'Edebiyatist Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, hikaye yarışması, genel]
 lastDate: 1659214800

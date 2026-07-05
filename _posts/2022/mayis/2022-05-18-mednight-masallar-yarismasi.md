@@ -2,6 +2,7 @@
 layout: post
 title: "‘Mednight’tan Masallar Yarışması"
 description: "Akdeniz Araştırmacıları Gecesi '‘Mednight’tan Masallar Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, masal yarışması, genel]
 lastDate: 1659042000

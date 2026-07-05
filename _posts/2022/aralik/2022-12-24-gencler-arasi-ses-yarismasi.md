@@ -2,6 +2,7 @@
 layout: post
 title: "Gençler Arası Ses Yarışması"
 description: "Gençlik ve Spor Bakanlığı 'Gençler Arası Ses Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, ses yarışması, lise, üniversite]
 lastDate: 1675717200

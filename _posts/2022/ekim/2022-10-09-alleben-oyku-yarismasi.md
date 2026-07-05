@@ -2,6 +2,7 @@
 layout: post
 title: "Alleben Öykü Yarışması"
 description: "Gaziantep Büyükşehir Belediyesi Gazikültür ve Gaziantep İl Milli Eğitim Müdürlüğü 'Alleben Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, hikaye yarışması, ortaokul, lise]
 lastDate: 1666299600

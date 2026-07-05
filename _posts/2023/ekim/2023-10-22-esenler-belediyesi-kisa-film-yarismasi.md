@@ -2,6 +2,7 @@
 layout: post
 title: "4. Esenler Film Festivali Ulusal Kısa Film Yarışması"
 description: "Esenler Belediyesi Kültür İşleri Müdürlüğü '4. Esenler Film Festivali Ulusal Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, kısa film yarışması, genel]
 lastDate: 1699736400

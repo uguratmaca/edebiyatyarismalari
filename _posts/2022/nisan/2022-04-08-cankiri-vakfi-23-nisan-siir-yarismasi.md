@@ -2,6 +2,7 @@
 layout: post
 title: "23 Nisan Şiir Yarışması"
 description: "Çankırı Vakfı '23 Nisan Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, şiir yarışması, ilkokul, ortaokul, çankırı]
 lastDate: 1650574800

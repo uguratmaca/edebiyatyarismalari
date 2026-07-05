@@ -2,6 +2,7 @@
 layout: post
 title: "Ziya Gökalp Konulu Kısa Film Yarışması"
 description: "Yeni Ufuk Dergisi 'Ziya Gökalp Konulu Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2024, kısa film yarışması, genel]
 lastDate: 1723755600

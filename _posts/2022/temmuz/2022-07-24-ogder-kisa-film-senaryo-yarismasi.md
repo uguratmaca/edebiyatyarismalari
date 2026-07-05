@@ -2,6 +2,7 @@
 layout: post
 title: "11. Kısa Film Senaryo Yarışması"
 description: "ÖĞ-DER Şuurlu Öğretmenler Derneği Genel Merkezi Tanıtma Komisyonu Başkanlığı '11. Kısa Film Senaryo Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, kısa film yarışması, genel]
 lastDate: 1666386000

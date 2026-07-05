@@ -2,6 +2,7 @@
 layout: post
 title: "1. Ulusal Aizanoi Seramik ve Çini Tasarım Yarışması"
 description: "TC. Kültür ve Turizm Bakanlığı '1. Ulusal Aizanoi Seramik ve Çini Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, tasarım yarışması, üniversite]
 lastDate: 1681851600

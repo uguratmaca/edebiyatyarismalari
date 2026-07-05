@@ -2,6 +2,7 @@
 layout: post
 title: "Uluslararası Fotoğraf Yarışması 2022"
 description: "İzmir Göztepe Rotary Kulübü Derneği (İFOD) 'Uluslararası Fotoğraf Yarışması 2022' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2022, fotoğraf yarışması, genel, izmir]
 lastDate: 1650747600

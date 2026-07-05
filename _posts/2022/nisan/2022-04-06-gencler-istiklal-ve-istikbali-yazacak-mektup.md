@@ -2,6 +2,7 @@
 layout: post
 title: "Ödüllü Mektup Yarışması"
 description: "Aziziye Belediye Başkanlığı ve Türkiye Dil ve Edebiyat Derneği Erzurum Şubesi 'Gençler İstiklal ve İstikbali Yazıyor' konulu ödüllü mektup yarışması düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, mektup yarışması, ortaokul, lise, üniversite, genel]
 lastDate: 1652907600

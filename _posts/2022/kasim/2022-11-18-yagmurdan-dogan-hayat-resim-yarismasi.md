@@ -2,6 +2,7 @@
 layout: post
 title: "Yağmurdan Doğan Hayat Resim ve Afiş Yarışması"
 description: "Esentepe Ortaokulu 'Yağmurdan Doğan Hayat Resim ve Afiş Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, resim yarışması, afiş yarışması, ortaokul]
 lastDate: 1673470800

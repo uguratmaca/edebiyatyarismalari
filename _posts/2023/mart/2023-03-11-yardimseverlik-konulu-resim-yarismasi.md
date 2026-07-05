@@ -2,6 +2,7 @@
 layout: post
 title: "Yardımseverlik Resim Yarışması"
 description: "Kızıldağ İlkokulu 'Yardımseverlik Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, resim yarışması, okul öncesi, ilkokul]
 lastDate: 1680469200

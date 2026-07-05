@@ -2,6 +2,7 @@
 layout: post
 title: "Çameli’de Dört Mevsim Resim Yarışması"
 description: "Çameli Belediyesi 'Çameli’de Dört Mevsim Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, resim yarışması, genel]
 lastDate: 1659646800

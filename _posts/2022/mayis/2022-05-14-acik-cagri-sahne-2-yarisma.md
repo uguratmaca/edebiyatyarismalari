@@ -2,6 +2,7 @@
 layout: post
 title: "Sahne 2.0 Dijital Proje Yarışması"
 description: "Inogar Kooperatifi, Google.org ve Tiyatro Kooperatifi 'Sahne 2.0 Dijital Proje Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, proje yarışması, genel]
 lastDate: 1653166800

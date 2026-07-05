@@ -2,6 +2,7 @@
 layout: post
 title: "Aramızda Engel Yok Resim Yarışması"
 description: "Sivas Vali Aydın Güçlü İlkokulu 'Aramızda Engel Yok Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, resim yarışması, ilkokul]
 lastDate: 1673557200

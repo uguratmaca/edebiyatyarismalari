@@ -2,6 +2,7 @@
 layout: post
 title: "2. Ulusal Karikatür Yarışması"
 description: "Fındıklı Belediyesi '2. Ulusal Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, karikatür yarışması, genel]
 lastDate: 1660078800

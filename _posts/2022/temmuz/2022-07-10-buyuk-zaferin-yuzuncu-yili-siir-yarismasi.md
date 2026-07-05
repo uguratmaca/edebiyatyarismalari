@@ -2,6 +2,7 @@
 layout: post
 title: "Büyük Zaferin Yüzüncü Yılı Şiir Yarışması"
 description: "Afyon Atatürk İlkokulu 'Büyük Zaferin Yüzüncü Yılı Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, şiir yarışması, ilkokul]
 lastDate: 1660251600

@@ -2,6 +2,7 @@
 layout: post
 title: "Afet Farkındalığı Kısa Film Yarışması"
 description: "T.C. İçişleri Bakanlığı Afet ve Acil Durum Yönetimi Başkanlığı 'Afet Farkındalığı Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, kısa film yarışması, genel]
 lastDate: 1662066000

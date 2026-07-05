@@ -2,6 +2,7 @@
 layout: post
 title: "Solve For Tomorrow Yarışması"
 description: "Habitat Derneği ve Samsung 'Solve For Tomorrow Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2023, proje yarışması, ortaokul, lise]
 lastDate: 1673730000

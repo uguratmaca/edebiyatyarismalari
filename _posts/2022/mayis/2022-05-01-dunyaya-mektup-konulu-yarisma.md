@@ -2,6 +2,7 @@
 layout: post
 title: "Dünya’ya Mektup Konulu Mektup Yarışması"
 description: "Kırıkkale Kale Şehit Ferhat Bozkurt İlkokulu 'Dünya’ya Mektup Konulu Mektup Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, mektup yarışması, ilkokul]
 lastDate: 1653944400

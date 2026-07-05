@@ -2,6 +2,7 @@
 layout: post
 title: "'Sevgi' Konulu Resim Yarışması"
 description: "Çorum Belediyesi ile Çorum İl Milli Eğitim Müdürlüğü ''Sevgi' Konulu Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, ilkokul, ortaokul, lise]
 lastDate: 1652043600

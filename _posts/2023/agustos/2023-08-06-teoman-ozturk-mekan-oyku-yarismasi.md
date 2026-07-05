@@ -2,6 +2,7 @@
 layout: post
 title: "4. Teoman Öztürk Mekan Öyküleri Yarışması"
 description: "Mimarlar Odası Ankara Şubesi '4. Teoman Öztürk Mekan Öyküleri Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, hikaye yarışması, genel]
 lastDate: 1697749200

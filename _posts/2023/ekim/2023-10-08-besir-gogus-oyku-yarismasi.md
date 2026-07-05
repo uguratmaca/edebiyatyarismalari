@@ -2,6 +2,7 @@
 layout: post
 title: "Beşir Göğüş Türk Dilini ve Çocuk Edebiyatını Geliştirme Ödülü"
 description: "Dil Derneği 'Beşir Göğüş Türk Dilini ve Çocuk Edebiyatını Geliştirme Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2023, hikaye yarışması, genel]
 lastDate: 1701637200

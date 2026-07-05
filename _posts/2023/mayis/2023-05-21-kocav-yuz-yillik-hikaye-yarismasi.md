@@ -2,6 +2,7 @@
 layout: post
 title: "Yüz Yıllık Hikaye Yarışması"
 description: "Kültür Ocağı Vakfı (KOCAV) 'Yüz Yıllık Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, hikaye yarışması, genel]
 lastDate: 1692046800

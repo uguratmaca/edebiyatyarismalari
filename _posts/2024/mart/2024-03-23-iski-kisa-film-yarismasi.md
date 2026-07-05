@@ -2,6 +2,7 @@
 layout: post
 title: "2. Suyun Hafızası Kısa Film Yarışması"
 description: "İSKİ '2. Suyun Hafızası Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2024, kısa film yarışması, üniversite]
 lastDate: 1716152400

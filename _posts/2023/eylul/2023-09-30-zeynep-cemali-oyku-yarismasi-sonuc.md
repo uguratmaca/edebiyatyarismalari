@@ -2,6 +2,7 @@
 layout: simple
 title: "Zeynep Cemali Öykü Yarışması Sonuçları"
 description: "Günışığı Kitaplığı Zeynep Cemali Öykü Yarışması sonuçlanmıştır."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2023]
 permalink: "zeynep-cemali-oyku-yarismasi-sonuc"

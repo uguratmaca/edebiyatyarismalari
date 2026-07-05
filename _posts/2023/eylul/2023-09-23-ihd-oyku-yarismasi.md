@@ -2,6 +2,7 @@
 layout: post
 title: "1. Öykü Yarışması"
 description: "İnsan Hakları Derneği İstanbul Şubesi '1. Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [kasım 2023, hikaye yarışması, genel]
 lastDate: 1699995600

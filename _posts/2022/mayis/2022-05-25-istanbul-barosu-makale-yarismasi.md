@@ -2,6 +2,7 @@
 layout: post
 title: "İstanbul Barosu Makale Yarışması"
 description: "İstanbul Barosu Hukuk Felsefesi ve Sosyolojisi Komisyonu 'İstanbul Barosu Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, makale yarışması, genel]
 lastDate: 1658264400

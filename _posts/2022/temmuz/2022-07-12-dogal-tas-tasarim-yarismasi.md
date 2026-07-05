@@ -2,6 +2,7 @@
 layout: post
 title: "Doğaltaş Proje ve Tasarım Yarışması"
 description: " Ege Maden İhracatçıları Birliği (EMİB) 'Doğaltaş Proje ve Tasarım Yarışması'  düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, tasarım yarışması, üniversite]
 lastDate: 1661115600

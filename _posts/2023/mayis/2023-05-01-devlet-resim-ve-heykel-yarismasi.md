@@ -2,6 +2,7 @@
 layout: post
 title: "76. Devlet Resim ve Heykel Yarışması"
 description: "Kültür Ve Turizm Bakanlığı '76. Devlet Resim ve Heykel Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, resim yarışması, heykel yarışması, genel]
 lastDate: 1694379600

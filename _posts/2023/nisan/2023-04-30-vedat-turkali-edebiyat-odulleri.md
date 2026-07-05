@@ -2,6 +2,7 @@
 layout: post
 title: "2023 Vedat Türkali Edebiyat Ödülleri"
 description: "Atakum Belediyesi '2023 Vedat Türkali Edebiyat Ödülleri' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, roman yarışması, hikaye yarışması, şiir yarışması, çeviri yarışması, genel]
 lastDate: 1685480400

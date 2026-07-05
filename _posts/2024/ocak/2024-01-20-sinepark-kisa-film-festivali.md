@@ -2,6 +2,7 @@
 layout: post
 title: "Sinepark Kısa Film Festivali"
 description: "Sinepark 'Sinepark Kısa Film Festivali' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ocak 2024, kısa film yarışması, genel]
 lastDate: 1706216400

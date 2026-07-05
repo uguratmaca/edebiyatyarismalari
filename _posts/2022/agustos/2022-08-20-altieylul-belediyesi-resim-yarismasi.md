@@ -2,6 +2,7 @@
 layout: post
 title: "Altıeylül Belediyesi Resim Yarışması"
 description: "Altıeylül Belediyesi 'resim yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, resim yarışması, genel]
 lastDate: 1661461200

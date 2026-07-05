@@ -2,6 +2,7 @@
 layout: post
 title: "Pastel Boya Resim Yarışması"
 description: "Beylikdüzü Belediyesi Çevre Koruma ve Kontrol Müdürlüğü 'Pastel Boya Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, okul öncesi, ilkokul]
 lastDate: 1652821200

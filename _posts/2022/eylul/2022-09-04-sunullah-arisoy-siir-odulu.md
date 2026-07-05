@@ -2,6 +2,7 @@
 layout: post
 title: "M. Sunullah Arısoy 2023 Şiir Ödülü"
 description: "Kuşadası Eğitim Ve Geliştirme Vakfı (KEGEV) 'M. Sunullah Arısoy 2023 Şiir Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, şiir yarışması, genel]
 lastDate: 1672434000

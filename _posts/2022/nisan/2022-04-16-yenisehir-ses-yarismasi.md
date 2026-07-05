@@ -2,6 +2,7 @@
 layout: post
 title: "Yenişehir Ses Yarışması"
 description: "Mersin Yenişehir Belediyesi 'Yenişehir Ses Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, ses yarışması, genel, mersin]
 lastDate: 1651698000

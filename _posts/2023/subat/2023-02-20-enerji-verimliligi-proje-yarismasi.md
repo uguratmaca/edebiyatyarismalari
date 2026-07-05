@@ -2,6 +2,7 @@
 layout: post
 title: "Enerji Verimliliği Proje Yarışması"
 description: "Tübitak ve Enerji Bakanlığı 'Enerji Verimliliği Proje Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, proje yarışması, lise]
 lastDate: 1682629200

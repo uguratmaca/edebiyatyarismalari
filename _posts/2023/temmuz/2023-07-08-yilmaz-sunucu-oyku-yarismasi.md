@@ -2,6 +2,7 @@
 layout: post
 title: "2. Yılmaz Sunucu Öykü Ödülü"
 description: "Arzum Sunucu Kerimli '2. Yılmaz Sunucu Öykü Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2023, hikaye yarışması, genel]
 lastDate: 1691614800

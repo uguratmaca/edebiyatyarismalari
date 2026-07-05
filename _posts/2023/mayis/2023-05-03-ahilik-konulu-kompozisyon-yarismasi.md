@@ -2,6 +2,7 @@
 layout: post
 title: "Meslek Liseleri Arası Kompozisyon Yarışması"
 description: "Çankırı İl Milli Eğitim Müdürlüğü 'Meslek Liseleri Arası Kompozisyon Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, kompozisyon yarışması, lise]
 lastDate: 1685048400

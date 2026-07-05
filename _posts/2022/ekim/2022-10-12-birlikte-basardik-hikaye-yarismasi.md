@@ -2,6 +2,7 @@
 layout: post
 title: "Birlikte Başardık Hikaye Yarışması"
 description: "Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı 'Birlikte Başardık Hikaye Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, hikaye yarışması, üniversite]
 lastDate: 1667163600

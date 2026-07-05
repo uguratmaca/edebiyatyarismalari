@@ -2,6 +2,7 @@
 layout: post
 title: "Haldun Taner Öykü Ödülü"
 description: "Milliyet Gazetesi 'Haldun Taner Öykü Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, hikaye yarışması, genel]
 lastDate: 1695934800

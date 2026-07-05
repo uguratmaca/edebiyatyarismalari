@@ -2,6 +2,7 @@
 layout: post
 title: "20. Devlet Fotoğraf Yarışması"
 description: "Kültür ve Turizm Bakanlığı '20. Devlet Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2022, fotoğraf yarışması, genel]
 lastDate: 1662930000

@@ -2,6 +2,7 @@
 layout: post
 title: "2022 Cengiz Göral Makale Yarışması"
 description: "Bursa Barosu '2022 Cengiz Göral Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, makale yarışması, genel]
 lastDate: 1659042000

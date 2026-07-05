@@ -2,6 +2,7 @@
 layout: post
 title: "Görünmeyen Hazine Su Temalı Fotoğraf Yarışması"
 description: "İSKİ 'Görünmeyen Hazine Su Temalı Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, fotoğraf yarışması, ortaokul, lise]
 lastDate: 1677186000

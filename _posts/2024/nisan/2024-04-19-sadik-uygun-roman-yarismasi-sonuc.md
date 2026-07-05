@@ -2,6 +2,7 @@
 layout: simple
 title: "Sadık Uygun Yayınları Çocuk Roman Ödülleri Sonuçları"
 description: "Sadık Uygun Yayınları Çocuk Roman Ödülleri sonuçlanmıştır."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2024]
 permalink: "sadik-uygun-roman-yarismasi-sonuc"

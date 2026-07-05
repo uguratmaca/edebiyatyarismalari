@@ -2,6 +2,7 @@
 layout: post
 title: "70. Sait Faik Hikaye Armağanı"
 description: "Darüşşafaka Cemiyeti '70. Sait Faik Hikaye Armağanı' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2024, hikaye yarışması, genel, sait faik abasıyanık]
 lastDate: 1709154000

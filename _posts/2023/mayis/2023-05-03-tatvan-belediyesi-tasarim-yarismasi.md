@@ -2,6 +2,7 @@
 layout: post
 title: "Tatvan Belediyesi Logo Tasarım Yarışması"
 description: "Tatvan Belediyesi 'logo tasarım yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, tasarım yarışması, genel]
 lastDate: 1685048400

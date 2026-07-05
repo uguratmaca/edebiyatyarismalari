@@ -2,6 +2,7 @@
 layout: post
 title: "Mavera Ödülleri 2023"
 description: "Mavera Eğitim ve Sağlık Vakfı 'Mavera Ödülleri 2023' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2023, deneme yarışması, genel]
 lastDate: 1685480400

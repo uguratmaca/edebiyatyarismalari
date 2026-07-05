@@ -2,6 +2,7 @@
 layout: post
 title: "Kitapyurdu Türkiye Okur Ödülleri"
 description: "Kitapyurdu 'Kitapyurdu Türkiye Okur Ödülleri' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2024, hikaye yarışması, roman yarışması, şiir yarışması, anı yarışması, genel]
 lastDate: 1711141200

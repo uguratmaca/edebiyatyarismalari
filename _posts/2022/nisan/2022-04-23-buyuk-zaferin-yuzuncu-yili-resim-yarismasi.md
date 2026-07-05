@@ -2,6 +2,7 @@
 layout: post
 title: "30 Ağustos 2022: Büyük Zaferin 100. Yılı Resim Yarışması"
 description: "Kütahya İl Milli Eğitim Müdürlüğü ve Kütahya Ahmet Yakupoğlu Güzel Sanatlar Lisesi '30 Ağustos 2022: Büyük Zaferin 100. Yılı Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, resim yarışması, lise]
 lastDate: 1654030800

@@ -2,6 +2,7 @@
 layout: post
 title: "Kırşehir Belediyesi Şiir Yarışması"
 description: "Kırşehir Belediyesi Neşet Ertaş Kültür Sanat Merkezi 'şiir yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2023, şiir yarışması, ilkokul, ortaokul, lise]
 lastDate: 1696194000

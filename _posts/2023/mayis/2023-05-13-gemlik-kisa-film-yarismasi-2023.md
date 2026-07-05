@@ -2,6 +2,7 @@
 layout: post
 title: "2. Gemlik Kısa Film Yarışması"
 description: "Gemlik Belediyesi '2. Gemlik Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2023, kısa film yarışması, genel]
 lastDate: 1690837200

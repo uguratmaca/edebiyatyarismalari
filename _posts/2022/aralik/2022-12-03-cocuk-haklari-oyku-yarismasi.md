@@ -2,6 +2,7 @@
 layout: post
 title: "Çocuk Hakları Öykü Yarışması"
 description: "Zonguldak Bülent Ecevit Üniversitesi 'Çocuk Hakları Öykü Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [aralık 2022, hikaye yarışması, üniversite]
 lastDate: 1671310800

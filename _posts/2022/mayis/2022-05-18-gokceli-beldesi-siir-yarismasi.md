@@ -2,6 +2,7 @@
 layout: post
 title: "Ödüllü Şiir Yarışması"
 description: "Niksar Gökçeli Belediyesi 'Ödüllü Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, şiir yarışması, genel]
 lastDate: 1655672400

@@ -2,6 +2,7 @@
 layout: post
 title: "İzmaritsiz Ayvalık Karikatür Yarışması"
 description: "Ayvalık Belediyesi 'İzmaritsiz Ayvalık Karikatür Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ağustos 2022, karikatür yarışması, genel]
 lastDate: 1661029200

@@ -2,6 +2,7 @@
 layout: post
 title: "Taşköprü Logo Tasarım Yarışması"
 description: "Taşköprü Kaymakamlığı 'Taşköprü Logo Tasarım Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, tasarım yarışması, genel]
 lastDate: 1677618000

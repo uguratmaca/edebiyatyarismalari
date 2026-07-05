@@ -2,6 +2,7 @@
 layout: post
 title: "TİHEK Ayrımcılığa Sıfır Tolerans Fotoğraf Yarışması"
 description: "Türkiye İnsan Hakları Ve Eşitlik Kurumu (TİHEK) 'Ayrımcılığa Sıfır Tolerans Fotoğraf Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, fotoğraf yarışması, genel]
 lastDate: 1676840400

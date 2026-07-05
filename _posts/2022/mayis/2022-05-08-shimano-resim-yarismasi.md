@@ -2,6 +2,7 @@
 layout: post
 title: "19 Mayıs Resim Yarışması"
 description: "SHIMANO '19 Mayıs Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2022, resim yarışması, lise]
 lastDate: 1652562000

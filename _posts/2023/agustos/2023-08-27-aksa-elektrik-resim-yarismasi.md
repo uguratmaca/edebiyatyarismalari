@@ -2,6 +2,7 @@
 layout: post
 title: "Senin Enerjin Senin Resmin Resim Yarışması"
 description: "Aksa Elektrik 'Senin Enerjin Senin Resmin Resim Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, resim yarışması, ortaokul]
 lastDate: 1693947600

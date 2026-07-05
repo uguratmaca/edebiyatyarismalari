@@ -2,6 +2,7 @@
 layout: post
 title: "Öykü ve Deneme Yarışması"
 description: "Eskişehir Büyükşehir Belediyesi 'Öykü ve Deneme Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [eylül 2023, hikaye yarışması, deneme yarışması, genel]
 lastDate: 1695934800

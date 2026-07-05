@@ -2,6 +2,7 @@
 layout: post
 title: "TERAM Makale Yarışması"
 description: "Terörizm ve Radikalleşme ile Mücadele Araştırma Merkezi (TERAM) 'makale yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, makale yarışması, üniversite]
 lastDate: 1654376400

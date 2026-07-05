@@ -2,6 +2,7 @@
 layout: post
 title: "Attila İlhan Liseli Gençler Kompozisyon Yarışması"
 description: "Attilâ İlhan Bilim Sanat Kültür Vakfı 'Attila İlhan Liseli Gençler Kompozisyon Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [şubat 2023, kompozisyon yarışması, lise, attila ilhan]
 lastDate: 1677445200

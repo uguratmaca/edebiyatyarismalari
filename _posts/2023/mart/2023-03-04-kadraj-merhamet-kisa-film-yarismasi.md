@@ -2,6 +2,7 @@
 layout: post
 title: "Kadraj Merhamet Kısa Film Yarışması"
 description: "Gaziantep Büyükşehir Belediyesi 'Kadraj Merhamet Kısa Film Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [nisan 2023, kısa film yarışması, genel]
 lastDate: 1681419600

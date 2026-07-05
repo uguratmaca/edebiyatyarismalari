@@ -2,6 +2,7 @@
 layout: post
 title: "Uluslararası Afiş Tasarımı Yarışması"
 description: "Kütahya Valiliği ile Kütahya Dumlupınar Üniversitesi (DPÜ) Güzel Sanatlar Fakültesi 'Uluslararası Afiş Tasarımı Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [temmuz 2022, afiş yarışması, genel]
 lastDate: 1657832400

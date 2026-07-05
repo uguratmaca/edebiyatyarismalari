@@ -2,6 +2,7 @@
 layout: post
 title: "Kahramanlığın 100 Yılı Ulusal Şiir Yarışması"
 description: "Kütahya Altıntaş İstanbul Ticaret Odası Şehit Süleyman Turan Anadolu Lisesi 'Kahramanlığın 100 Yılı Ulusal Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [haziran 2022, şiir yarışması, lise]
 lastDate: 1654808400

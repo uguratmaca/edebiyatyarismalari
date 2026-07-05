@@ -2,6 +2,7 @@
 layout: post
 title: "İnsan Rengini Kitaptan Alır Şiir Yarışması"
 description: "Diyarbakır Eğil Düzlük İlkokulu 'İnsan Rengini Kitaptan Alır Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, şiir yarışması, ilkokul]
 lastDate: 1678741200

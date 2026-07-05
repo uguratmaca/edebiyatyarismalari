@@ -2,6 +2,7 @@
 layout: post
 title: "Bilişim ve Teknoloji Hukuku Makale Yarışması"
 description: "Bilişim ve Teknoloji Hukuku Derneği 'Bilişim ve Teknoloji Hukuku Makale Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [ekim 2022, makale yarışması, üniversite]
 lastDate: 1665349200

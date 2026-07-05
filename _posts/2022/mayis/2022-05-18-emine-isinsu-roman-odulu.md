@@ -2,6 +2,7 @@
 layout: post
 title: "Emine Işınsu Roman Ödülü"
 description: "Emine Işınsu Sevenleri 'Emine Işınsu Roman Ödülü' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mart 2023, roman yarışması, genel]
 lastDate: 1677618000

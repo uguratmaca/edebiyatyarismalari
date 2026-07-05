@@ -2,6 +2,7 @@
 layout: post
 title: "20. Geleneksel Şiir Yarışması"
 description: "Ümraniye Belediyesi '20. Geleneksel Şiir Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2024, şiir yarışması, genel]
 lastDate: 1716498000

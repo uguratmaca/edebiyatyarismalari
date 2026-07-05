@@ -2,6 +2,7 @@
 layout: post
 title: "Mimar Sinan’a Mektup Yarışması"
 description: "Kayseri İl Milli Eğitim Müdürlüğü 'Mimar Sinan’a Mektup Yarışması' düzenliyor."
+author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [mayıs 2024, mektup yarışması, ortaokul]
 lastDate: 1714683600
