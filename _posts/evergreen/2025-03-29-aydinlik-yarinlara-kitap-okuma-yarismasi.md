@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "4. Aydınlık Yarınlara Kitap Okuma Yarışması"
-description: "5 Milyon TL ödüllü 4. Aydınlık Yarınlara Kitap Okuma Yarışması her yaştan katılımcıyı bekliyor."
+title: "Aydınlık Yarınlara Kitap Okuma Yarışması"
+description: "ULUED'in ilkokul, ortaokul, lise ve yetişkinlere yönelik her yıl düzenlediği Aydınlık Yarınlara Kitap Okuma Yarışması'nda toplam ödül 5 milyon TL'yi buluyor."
+date: 2025-03-29
 category: articles
-tags: [aralık 2025, kitap okuma yarışması, genel, ilkokul, ortaokul, lise, üniversite]
+tags: [her yıl tekrarlanan, aralık 2025, kitap okuma yarışması, genel, ilkokul, ortaokul, lise, üniversite]
 lastDate: 1766271600
 dateHuman: "21 Aralık 2025"
 attendance: "Websitesi"
@@ -11,12 +12,12 @@ comTopic: "Seçilen kitaplar"
 organizer: "ULUED"
 requirements: "İsteyen herkes katılabilir."
 price: "5 Milyon TL'dir."
-permalink: "4-aydinlik-yarinlara-kitap-okuma-yarismasi"
+permalink: "aydinlik-yarinlara-kitap-okuma-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/mart/aydinlik-yarinlara-kitap-okuma-yarismasi.png"
-excerpt:  "5 Milyon TL ödüllü 4. Aydınlık Yarınlara Kitap Okuma Yarışması her yaştan katılımcıyı bekliyor."
+excerpt: "ULUED'in ilkokul, ortaokul, lise ve yetişkinlere yönelik her yıl düzenlediği Aydınlık Yarınlara Kitap Okuma Yarışması'nda toplam ödül 5 milyon TL'yi buluyor."
 ---
 
-## 4. Aydınlık Yarınlara Kitap Okuma Yarışması
+## Aydınlık Yarınlara Kitap Okuma Yarışması
 
 - İlkokul 2-3-4 Sınıflar 13:00 21 Aralık 2025
     - Kitap: Sanal Macera - PEYGAMBERİMİZİN İZİNDE
@@ -27,7 +28,7 @@ excerpt:  "5 Milyon TL ödüllü 4. Aydınlık Yarınlara Kitap Okuma Yarışmas
 - Yetişkin Üniversite-Eğitimci-Diğer 19:00 20 Aralık 2025
     - Kitap: Peygamberliğin İspatı
 
-### 4. Aydınlık Yarınlara Kitap Okuma Yarışması Ödülleri
+### Aydınlık Yarınlara Kitap Okuma Yarışması Ödülleri
 
 - Her sınıf seviyesinde
     - 1.lik Ödülü 20.000,00 lira 
@@ -39,4 +40,10 @@ excerpt:  "5 Milyon TL ödüllü 4. Aydınlık Yarınlara Kitap Okuma Yarışmas
     - 21 – 30. luk Ödülü İsme Özel Hediye Seti (Ajanda, kalem, anahtarlık) Her sınıf seviyesinde ilk 610 kişiye kitap seti verilecek.
 
 ### [Başvuru adresi](https://aydinlikyarinlara.com/tanitim-sayfasi?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
-    
+
+### Geçmiş Yıllar
+
+Aydınlık Yarınlara Kitap Okuma Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2023 yılı yarışması](/online-kitap-okuma-yarismasi)
+- [2022 yılı yarışması](/aydinlik-yarinlara-kitap-okuma-yarismasi-2022)

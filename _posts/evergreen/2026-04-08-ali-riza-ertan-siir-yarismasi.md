@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Ali Rıza Ertan Şiir Yarışması 2026"
-description: "Buca Belediyesi 2026 Yılı Ali Rıza Ertan Şiir Yarışması'nı duyurdu"
+title: "Ali Rıza Ertan Şiir Yarışması"
+description: "Buca Belediyesi'nin her yıl düzenlediği Ali Rıza Ertan Şiir Ödülü'nde ödül 10 bin TL değerinde hediye çeki. Son başvuru: 30 Nisan 2026."
+date: 2026-04-08
 category: articles
-tags: [nisan 2026, şiir yarışması, genel]
+tags: [her yıl tekrarlanan, nisan 2026, şiir yarışması, genel]
 lastDate: 1777500000
 price: "10 Bin TL'dir"
 dateHuman: "30 Nisan 2026"
@@ -11,12 +12,12 @@ attendance: "E-Posta"
 comTopic: "Serbest"
 organizer: "Buca Belediyesi"
 requirements: "1991 yılı ve sonrası doğumlular katılabilir"
-permalink: "ali-riza-ertan-siir-yarismasi-2026"
+permalink: "ali-riza-ertan-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/nisan/ali-riza-erten-siir-yarismasi.jpg"
-excerpt:  "Buca Belediyesi 2026 Yılı Ali Rıza Ertan Şiir Yarışması'nı duyurdu"
+excerpt: "Buca Belediyesi'nin her yıl düzenlediği Ali Rıza Ertan Şiir Ödülü'nde ödül 10 bin TL değerinde hediye çeki. Son başvuru: 30 Nisan 2026."
 ---
 
-## Ali Rıza Ertan Şiir Yarışması 2026
+## Ali Rıza Ertan Şiir Yarışması
 
 – Ödüle, 1991 yılı ve sonrası doğumlular katılabilir. Katılımcıların, adına şiir ödülü düzenlediğimiz **Ali Rıza Ertan**’ın vefat yaşı olan 35 yaşını geçmemesi ilke olarak benimsenmiştir.
 – **Ali Rıza Ertan Şiir Ödülü**’ne kitap bütünlüğü taşıyan şiir dosyasıyla katılım sağlanır. Şiir dosyası bütünlüğü taşımayan gönderiler dikkate alınmayacaktır.
@@ -29,10 +30,18 @@ excerpt:  "Buca Belediyesi 2026 Yılı Ali Rıza Ertan Şiir Yarışması'nı du
 – “**Ali Rıza Ertan Şiir Ödülü**” karşılığı olarak 10.000 TL tutarında kültür amaçlı hediye çeki verilir. Seçici Kurul uygun gördüğü takdirde verilecek “Başarı Ödülü” de 5.000 TL karşılığı olarak aynı şekilde ödenir. Ödüller kesinlikle bölüştürülmez.
 - Yarışmaya İzmir ve yakın çevresi dışından katılıp ödül kazananların ödül gecesi konaklama ve yol giderleri Buca Belediyesi tarafından karşılanacaktır.
 
-## Ali Rıza Ertan Şiir Yarışması 2026 Seçici Kurulu
+### Ali Rıza Ertan Şiir Yarışması Seçici Kurulu
 
 - Ahmet Zeki Muslu
 - Altay Ömer Erdoğan
 - Beytullah Kılıç
 - Fahrettin Koyuncu
 - Özlem Tezcan Dertsiz
+
+### Geçmiş Yıllar
+
+Ali Rıza Ertan Şiir Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2025 yılı yarışması](/ali-riza-ertan-siir-yarismasi-2025)
+- [2022 yılı yarışması](/ali-riza-ertan-siir-yarismasi-2022)
+- [23. yarışma (2020)](/23-ali-riza-ertan-siir-odulu)

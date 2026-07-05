@@ -9,6 +9,7 @@ lastDate: 1561064400
 dateHuman: "21 Haziran 2019"
 comTopic: "Türkçe yazı dilimizi gelecek kuşaklara aktarabilmek"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/3-cumba-siir-oyku-yarismasi.jpg?alt=media&token=283371b7-1c3e-499e-9349-9df4550f87dd"
+archived_to: "/cumba-edebiyat-yarismasi"
 ---
 
 Cumba Kültür ve Sanat Platformu Şiir ve Öykü Yarışması

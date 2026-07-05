@@ -13,6 +13,7 @@ organizer: "Cumba Kültür Sanat Platformu"
 requirements: "İsteyen herkes katılabilir."
 permalink: "cumba-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/nisan/cumba-oyku-yarismasi.jpg"
+archived_to: "/cumba-edebiyat-yarismasi"
 excerpt:  "Cumba Kültür Sanat Platformu <strong> 8. Cumba Öykü Yarışması </strong> düzenliyor."
 ---
 

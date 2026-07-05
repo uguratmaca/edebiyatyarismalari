@@ -8,6 +8,7 @@ comments: true
 hidden: true
 image: "https://edebiyatyarismalari.com/images/2020/nisan/17-tudem-edebiyat-odulleri-roman-yarismasi-sonuclari.jpg"
 permalink: "17-tudem-edebiyat-odulleri-roman-yarismasi-sonuclari-2020"
+archived_to: "/tudem-edebiyat-odulleri"
 ---
 
 Edebiyatımıza çağdaş ve özgün eserler kazandırmak amacıyla 2003 yılından bu yana gerçekleştirilen Tudem Edebiyat Ödülleri, 17. yılında çocuk edebiyatı alanında resimli kitap dalında, yetişkin edebiyatı alanında ise roman dalında düzenlenmişti.  

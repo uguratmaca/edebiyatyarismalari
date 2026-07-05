@@ -11,8 +11,9 @@ comTopic: "Aşağıdaki kitaplar"
 attendance: "Websitesi"
 organizer: "Uluslararası Eğitimciler Derneği"
 requirements: "İlkokul, ortaokul, lise öğrencileri katılabilir"
-permalink: "aydinlik-yarinlara-kitap-okuma-yarismasi"
+permalink: "aydinlik-yarinlara-kitap-okuma-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/ocak/aydinlik-yarinlara-kitap-okuma-yarismasi.jpg"
+archived_to: "/aydinlik-yarinlara-kitap-okuma-yarismasi"
 excerpt: "Uluslararası Eğitimciler Derneği ilkokul, ortaokul ve lise öğrencileri için <strong>Aydınlık Yarınlara Kitap Okuma Yarışması</strong> düzenlemektedir."
 ---
 

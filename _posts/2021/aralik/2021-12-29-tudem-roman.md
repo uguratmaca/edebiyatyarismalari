@@ -12,6 +12,7 @@ attendance: "Posta, Kargo"
 price: "22500 TL'dir"
 requirements: "Yarışma tüm yazarlara açıktır. Uyruğu ve öğrenim durumu ne olursa olsun 18 yaşın üzerinde olan ve şartname koşullarına uyan herkes katılabilir"
 permalink: "20-tudem-edebiyat-odulleri"
+archived_to: "/tudem-edebiyat-odulleri"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/tudem-20-roman-yarismasi.jpg"
 excerpt: "2003 yılından bu yana çocuk ve gençlik edebiyatına çağdaş ve özgün eserler kazandırmak amacıyla düzenlenen Tudem Edebiyat Ödülleri, 20. yılında çocuk edebiyatı alanında ve roman dalında verilecektir."
 ---

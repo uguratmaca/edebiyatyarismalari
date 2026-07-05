@@ -12,6 +12,7 @@ price: "5 Bin TL'dir"
 requirements: "Ödüle, 1985 yılı ve sonrası doğumlular katılabilir"
 image: "https://edebiyatyarismalari.com/images/2020/mart/23-ali-riza-ertan-siir-odulu.jpg"
 permalink: "23-ali-riza-ertan-siir-odulu"
+archived_to: "/ali-riza-ertan-siir-yarismasi"
 ---
 
 Şiir Yarışması-Ödülü Katılım Şartları

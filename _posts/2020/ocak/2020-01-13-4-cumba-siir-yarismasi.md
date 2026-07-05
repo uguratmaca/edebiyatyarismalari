@@ -11,6 +11,7 @@ comTopic: "Serbest"
 attendance: "Posta"
 requirements: "İsteyen herkes katılabilir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/4-cumba-siir-yarismasi.jfif?alt=media&token=12028251-935f-46c5-a0de-7087347ee50c"
+archived_to: "/cumba-edebiyat-yarismasi"
 ---
 
 Bu yıl yarışmamızın dördüncüsünü düzenliyoruz. İlk üç yıl öykü ve şiir dallarında düzenlediğimiz yarışmamızı bu yıl, ömrünün önemli bir kısmını, “Suyu” anlatmaya adamış, değerli hocamız İnşaat Yüksek Mühendisi Naci Özen adına sadece şiir dalında düzenliyoruz (Naci Özen Adına Su Gibi Kalemler).

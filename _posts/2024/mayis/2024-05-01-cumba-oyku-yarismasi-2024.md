@@ -12,6 +12,7 @@ organizer: "Cumba Kültür Sanat Platformu"
 requirements: "18 yaş üstü herkes katılabilir."
 permalink: "cumba-oyku-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/mayis/cumba-oyku-yarismasi-2024.jpg"
+archived_to: "/cumba-edebiyat-yarismasi"
 excerpt:  "Cumba Kültür Sanat Platformu <strong> 8. Cumba Edebiyat Yarışması </strong> düzenliyor."
 ---
 

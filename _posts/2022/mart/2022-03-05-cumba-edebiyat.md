@@ -12,6 +12,7 @@ organizer: "Cumba Kültür Sanat Platformu"
 requirements: "16 Yaş üzeri herkes katılabilir."
 permalink: "6-cumba-edebiyat-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/mart/6-cumba-edebiyat-yarismasi.jpg"
+archived_to: "/cumba-edebiyat-yarismasi"
 excerpt: "Cumba Kültür Sanat Platformu Öykü ve Şiir dalında <strong>6. Cumba Edebiyat Yarışması</strong> düzenliyor."
 ---
 

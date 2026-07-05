@@ -12,6 +12,7 @@ organizer: "Hayrat Vakfı ve Uluslararası Eğitimciler Derneği (ULUED)"
 requirements: "İsteyen herkes katılabilir."
 permalink: "online-kitap-okuma-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/nisan/online-kitap-okuma-yarismasi.jpg"
+archived_to: "/aydinlik-yarinlara-kitap-okuma-yarismasi"
 excerpt:  "Hayrat Vakfı ve Uluslararası Eğitimciler Derneği (ULUED) <strong> Aydınlık Yarınlara Kitap Okuma Yarışması </strong> düzenliyor."
 ---
 

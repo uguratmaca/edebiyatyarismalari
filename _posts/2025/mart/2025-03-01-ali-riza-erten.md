@@ -13,6 +13,7 @@ organizer: "Buca Belediyesi"
 requirements: "1990 yılı ve sonrası doğumlular katılabilir"
 permalink: "ali-riza-ertan-siir-yarismasi-2025"
 image: "https://edebiyatyarismalari.com/images/2025/mart/ali-riza-erten-siir-yarismasi.jpg"
+archived_to: "/ali-riza-ertan-siir-yarismasi"
 excerpt:  "Buca Belediyesi 2025 Yılı Ali Rıza Ertan Şiir Yarışması'nı duyurdu"
 ---
 

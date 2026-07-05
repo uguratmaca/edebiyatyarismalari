@@ -8,6 +8,7 @@ comments: true
 lastDate: 1553461200
 dateHuman: "25 Mart 2019"
 comTopic: "Metin Altıok Şiir Ödülü"
+archived_to: "/metin-altiok-siir-odulu"
 ---
 
 Bu yıl 12'ncisi verilecek olan Metin Altıok Şiir Ödülü için başvurular başladı.

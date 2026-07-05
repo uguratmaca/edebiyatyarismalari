@@ -11,6 +11,7 @@ comTopic: "Serbest"
 requirements: "Yarışmamız 16 (on altı) yaşından büyük herkese açıktır."
 permalink: "5-cumba-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/ocak/5-cumba-siir-yarismasi.jpg"
+archived_to: "/cumba-edebiyat-yarismasi"
 excerpt: "Cumba Kültür Sanat Platformu, 2021 yılı Şiir Yarışması başvuruları 15 Ocak 2021 tarihinde başlamıştır."
 ---
 

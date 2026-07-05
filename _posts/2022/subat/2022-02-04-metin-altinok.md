@@ -12,6 +12,7 @@ organizer: "Kırmızı Kedi Yayınevi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "15-metin-altiok-siir-odulu"
 image: "https://edebiyatyarismalari.com/images/2022/subat/15-metin-altiok-siir-odulu.jpg"
+archived_to: "/metin-altiok-siir-odulu"
 excerpt: "Kırmızı Kedi Yayınevi <strong>15. Metin Altıok Şiir Ödülü</strong>'nü duyurdu."
 ---
 

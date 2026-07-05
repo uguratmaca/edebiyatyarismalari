@@ -12,6 +12,7 @@ organizer: "Buca Belediyesi"
 requirements: "Ödüle, 1987 yılı ve sonrası doğumlular katılabilir"
 permalink: "ali-riza-ertan-siir-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/subat/ali-riza-ertan-siir-yarismasi.jpg"
+archived_to: "/ali-riza-ertan-siir-yarismasi"
 excerpt: "Buca Belediyesi <strong>2022 Ali Rıza Ertan Şiir Yarışması</strong>nı duyurdu."
 ---
 
