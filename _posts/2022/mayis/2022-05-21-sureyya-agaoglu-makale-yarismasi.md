@@ -12,8 +12,9 @@ attendance: "E-posta"
 organizer: "Süreyya Ağaoğlu Çocuk Dostları Derneği ile İstanbul Üniversitesi Hukuk Fakültesi"
 price: "42 Bin TL'dir."
 requirements: "İstanbul Üniversitesi Hukuk Fakültesi ve İstanbul Üniversitesi Sosyal Bilimler Enstitüsü’ne bağlı hukuk programlarına kayıtlı lisans, yüksek lisans ve doktora düzeyinde eğitim gören öğrenciler katılabilir."
-permalink: "sureyya-agaoglu-makale-yarismasi"
+permalink: "sureyya-agaoglu-makale-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/mayis/sureyya-agaoglu-makale-yarismasi.jpg"
+archived_to: "/sureyya-agaoglu-makale-yarismasi"
 excerpt:  "Süreyya Ağaoğlu Çocuk Dostları Derneği ile İstanbul Üniversitesi Hukuk Fakültesi <strong> 1. Süreyya Ağaoğlu Makale Yarışması </strong> düzenliyor."
 ---
 

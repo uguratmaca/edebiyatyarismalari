@@ -14,6 +14,7 @@ price: "2 Bin 500 TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "zehirli-kalem-hikaye-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/haziran/zehirli-kalem-hikaye-yarismasi-2023.jpg"
+archived_to: "/dedektif-dergi-zehirli-kalem-oyku-yarismasi"
 excerpt:  "Zehirli Kalem <strong> öykü yarışması </strong> düzenliyor."
 ---
 

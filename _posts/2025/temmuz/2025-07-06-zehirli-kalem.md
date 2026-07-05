@@ -12,6 +12,7 @@ organizer: "Dedektif Dergi"
 requirements: "18 yaşını tamamlamış herkes katılabilir"
 permalink: "zehirli-kalem-polisiye-oyku-odulu-25"
 image: "https://edebiyatyarismalari.com/images/2025/temmuz/zehirli-kalem-polisiye-oyku-odulu.webp"
+archived_to: "/dedektif-dergi-zehirli-kalem-oyku-yarismasi"
 excerpt: "2025 Zehirli Kalem Polisiye Öykü Yarışması başvuruları açıldı"
 ---
 

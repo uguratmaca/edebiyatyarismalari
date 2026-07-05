@@ -12,6 +12,7 @@ comTopic: "Serbest, Tür: Polisiye"
 requirements: "Türkiye içinde ya da dışında yaşayan herkes, Türkçe yazmak koşuluyla bu ödüle başvurabilir."
 permalink: "zehirli-kalem-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/agustos/zehirli-kalem-oyku-odulu.jpg"
+archived_to: "/dedektif-dergi-zehirli-kalem-oyku-yarismasi"
 excerpt: "Dedektif Dergi, bundan böyle her yıl bir öyküye Zehirli Kalem Ödülü verecek. Polisiyenin sesini daha geniş kitlelere duyurmak, sevdirmek, polisiye edebiyatımıza yeni eserler ve yazarlar kazandırmak amacıyla yola çıkan Dedektif Dergi, bu hedefine yönelik önemli bir adım daha atmış bulunuyor."
 ---
 

@@ -12,8 +12,9 @@ attendance: "E-posta"
 price: "5 Bin TL'dir."
 organizer: "Bilgi Yayınevi"
 requirements: "İsteyen herkes yarışmaya katılabilir."
-permalink: "turgut-ozakman-roman-yarismasi"
+permalink: "turgut-ozakman-roman-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/turgut-ozakman-roman-yarismasi.jpg"
+archived_to: "/turgut-ozakman-roman-yarismasi"
 excerpt:  "Bilgi Yayınevi <strong> Turgut Özakman İlk Roman Yarışması </strong> düzenliyor."
 ---
 

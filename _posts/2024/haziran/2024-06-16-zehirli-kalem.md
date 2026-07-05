@@ -13,6 +13,7 @@ organizer: "Dedektif Dergi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "zehirli-kalem-polisiye-oyku-yarismasi-24"
 image: "https://edebiyatyarismalari.com/images/2024/haziran/zehirli-kalem-polisiye-oyku-yarismasi.jpeg"
+archived_to: "/dedektif-dergi-zehirli-kalem-oyku-yarismasi"
 excerpt: "<strong>2024 Zehirli Kalem Ödüllü Polisiye Öykü Yarışması</strong> başvuruları açılmıştır."
 ---
 

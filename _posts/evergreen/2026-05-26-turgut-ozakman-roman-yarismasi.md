@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "2026 Turgut Özakman İlk Roman Yarışması"
-description: "Bilgi Yayınevi'nin herkese açık düzenlediği İlk Roman Yarışması'nda ödül 25 bin TL. Son başvuru: 15 Haziran 2026."
+title: "Turgut Özakman İlk Roman Yarışması"
+description: "Bilgi Yayınevi'nin her yıl düzenlediği İlk Roman Yarışması'nda ödül 25 bin TL. Son başvuru: 15 Haziran 2026."
+date: 2026-05-26
 author: "Ümit Atmaca"
 category: articles
-tags: [mayıs 2026, roman yarışması, genel]
+tags: [her yıl tekrarlanan, mayıs 2026, roman yarışması, genel]
 lastDate: 1781470800
 price: "25 Bin TL'dir"
 dateHuman: "15 Haziran 2026"
@@ -12,12 +13,12 @@ attendance: "E-Posta"
 comTopic: "Serbest"
 organizer: "Bilgi Yayınevi"
 requirements: "Herkese açık"
-permalink: "2026-turgut-ozakman-ilk-roman-yarismasi"
+permalink: "turgut-ozakman-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/mayıs/Turgut-ozakaman-yarisma-web.png"
-excerpt: "Bilgi Yayınevi'nin herkese açık düzenlediği İlk Roman Yarışması'nda ödül 25 bin TL. Son başvuru: 15 Haziran 2026."
+excerpt: "Bilgi Yayınevi'nin her yıl düzenlediği İlk Roman Yarışması'nda ödül 25 bin TL. Son başvuru: 15 Haziran 2026."
 ---
 
-## 2026 Turgut Özakman İlk Roman Yarışması
+## Turgut Özakman İlk Roman Yarışması
 
 - Yarışmaya katılacak yazarların daha önce roman türünde herhangi bir eseri yayımlanmamış olmalıdır.
 - Yarışmaya gönderilecek dosyalar daha önce basılı veya dijital ortamda hiçbir şekilde yayımlanmamış olmalıdır.
@@ -33,10 +34,17 @@ excerpt: "Bilgi Yayınevi'nin herkese açık düzenlediği İlk Roman Yarışmas
 - Son gönderme tarihi: 15 Haziran 2026
 - Sonuçların açıklanacağı tarih: 28 Eylül 2026
 
-## 2026 Turgut Özakman İlk Roman Yarışması Seçici Kurulu
+### Turgut Özakman İlk Roman Yarışması Seçici Kurulu
 
 - Jale Özata Dirlikyapan
 - Ethem Baran
 - Abdullah Ataşçı
 - Selda Uygur
 - Mesut Örs
+
+### Geçmiş Yıllar
+
+Turgut Özakman İlk Roman Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2022 yılı yarışması](/turgut-ozakman-roman-yarismasi-2022)
+- [2020 yılı yarışması](/2020-turgut-ozakman-roman-yarismasi)

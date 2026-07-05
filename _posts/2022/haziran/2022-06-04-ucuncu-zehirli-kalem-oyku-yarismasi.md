@@ -14,6 +14,7 @@ price: "2 Bin TL'dir."
 requirements: "Türkiye içinde ya da dışında yaşayan ve 18 yaşını tamamlamış herkes, Türkçe yazmak koşuluyla bu ödüle katılabilir."
 permalink: "ucuncu-zehirli-kalem-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/haziran/ucuncu-zehirli-kalem-oyku-yarismasi.jpg"
+archived_to: "/dedektif-dergi-zehirli-kalem-oyku-yarismasi"
 excerpt:  "Dedektif Dergi <strong> 3. Zehirli Kalem Polisiye Öykü Ödülü </strong> düzenliyor."
 ---
 

@@ -14,6 +14,7 @@ requirements: "Hukuk fakültesi öğrencileri katılabilir."
 price: "60 Bin TL'dir."
 permalink: "sureyya-agaoglu-makale-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/subat/sureyya-agaoglu-makale-yarismasi-2024.jpg"
+archived_to: "/sureyya-agaoglu-makale-yarismasi"
 excerpt:  "Süreyya Ağaoğlu Çocuk Dostları Derneği <strong> 3. Süreyya Ağaoğlu Makale Yarışması </strong> düzenliyor."
 ---
 

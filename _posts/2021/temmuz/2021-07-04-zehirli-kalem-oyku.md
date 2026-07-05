@@ -12,6 +12,7 @@ attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"
 permalink: "zehirli-kalem-oyku-odulu-2021"
 image: "https://edebiyatyarismalari.com/images/2021/temmuz/zehirli-kalem-oyku-odulu.jpg"
+archived_to: "/dedektif-dergi-zehirli-kalem-oyku-yarismasi"
 excerpt: "Dedektif Dergi, polisiye öykü yazılmasını teşvik etmek ve edebiyatımıza nitelikli polisiye öyküler kazandırmak amacıyla, her yıl Zehirli Kalem Polisiye Öykü Ödülü adı altında bir polisiye öykü yarışması düzenlemeye karar vermiştir."
 ---
 

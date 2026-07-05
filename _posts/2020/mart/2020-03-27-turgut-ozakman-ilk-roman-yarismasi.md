@@ -12,6 +12,7 @@ attendance: "E-Posta"
 requirements: "Yarışmaya daha önce bir romanı yayımlanmamış yazarlar ilk romanlarıyla katılabilir."
 image: "https://edebiyatyarismalari.com/images/2020/mart/turgut-ozakman-roman-yarismasi.jpg"
 permalink: "2020-turgut-ozakman-roman-yarismasi"
+archived_to: "/turgut-ozakman-roman-yarismasi"
 ---
 
 Edebiyatımıza yeni isimler kazandırmak ve yeni yazarlara şans vermek adına bu yarışmayı daha önce kitabı yayımlanmamış yazarlara açıktır.  

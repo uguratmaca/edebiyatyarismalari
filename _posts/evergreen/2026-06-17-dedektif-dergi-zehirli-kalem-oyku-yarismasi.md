@@ -2,9 +2,10 @@
 layout: post
 title: "Dedektif Dergi Zehirli Kalem Öykü Yarışması"
 description: "Dedektif Dergi'nin polisiye öykü yarışması Zehirli Kalem Ödülü'ne 18 yaş ve üzeri herkes katılabilir. Son başvuru: 24 Temmuz 2026."
+date: 2026-06-17
 author: "Ümit Atmaca"
 category: articles
-tags: [temmuz 2026, öykü yarışması, genel]
+tags: [her yıl tekrarlanan, temmuz 2026, hikaye yarışması, polisiye, genel]
 lastDate: 1784840400
 price: "Zehirli Kalem Ödülü"
 dateHuman: "24 Temmuz 2026"
@@ -26,8 +27,18 @@ excerpt: "Dedektif Dergi'nin polisiye öykü yarışması Zehirli Kalem Ödülü
 - • Soruşturma süreci ve çözüm içermeyen suç öyküleri
 - • Suç ve çözüm süreci bulunmayan gerilim veya korku öyküleri
 - • Suç unsuru taşımayan psikolojik veya duygusal anlatılar
-- • Suçun çözümünün doğaüstü ya da fantastik unsurlara dayandığı öykülerÖykü yarışması
+- • Suçun çözümünün doğaüstü ya da fantastik unsurlara dayandığı öyküler
 - Öyküler, soruşturma sürecini merkeze alan yalın bir kurguya sahip olmalıdır. Soruşturma süreciyle doğrudan ilgisi bulunmayan betimlemeler, yan hikâyeler ve gereksiz ayrıntılar öykünün bütününü zayıflatır; değerlendirmede bu husus gözetilecektir.
 - Öykülerin uzunluğu 2.500 kelimeyi geçmemelidir. Kısa polisiye öykü, özlü ve ekonomik bir kurgu gerektirir. Bu sınır, yazarları her sahneyi ve her cümleyi işlevsel kılmaya yönlendirmek amacıyla belirlenmiştir.
 - Öyküler daha önce hiçbir yerde (basılı veya dijital olarak) yayınlanmamış, herhangi bir yarışmaya katılmamış ve ödül almamış olmalıdır. Öyküler özenli bir Türkçe ile yazılmalı, imla kurallarına azami derecede dikkat edilmelidir.
 
+### Geçmiş Yıllar
+
+Dedektif Dergi Zehirli Kalem Öykü Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2025 yılı yarışması](/zehirli-kalem-polisiye-oyku-odulu-25)
+- [2024 yılı yarışması](/zehirli-kalem-polisiye-oyku-yarismasi-24)
+- [2023 yılı yarışması](/zehirli-kalem-hikaye-yarismasi-2023)
+- [2022 yılı yarışması](/ucuncu-zehirli-kalem-oyku-yarismasi)
+- [2021 yılı yarışması](/zehirli-kalem-oyku-odulu-2021)
+- [2020 yılı yarışması](/zehirli-kalem-oyku-yarismasi)
