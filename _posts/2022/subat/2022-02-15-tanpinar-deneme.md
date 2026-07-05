@@ -14,6 +14,7 @@ requirements: "Yarışmaya yurt içi ve yurt dışından herkes katılabilir"
 permalink: "tanpinar-deneme-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/subat/tanpinar-deneme-yarismasi.jpg"
 excerpt: "Osmangazi Belediyesi <strong>Tanpınar Deneme Yarışması</strong> düzenliyor."
+archived_to: "/osmangazi-tanpinar-edebiyat-yarismasi"
 ---
 
 ## Tanpınar Deneme Yarışması

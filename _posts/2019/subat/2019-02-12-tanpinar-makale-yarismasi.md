@@ -8,6 +8,7 @@ comments: true
 lastDate: 1556830800
 dateHuman: "3 Mayıs 2019"
 price: "27 Bin 500 TL'dir"
+archived_to: "/osmangazi-tanpinar-edebiyat-yarismasi"
 ---
 
 Yarışmaya katılacak eserler daha önce yayımlanmamış olmalıdır.

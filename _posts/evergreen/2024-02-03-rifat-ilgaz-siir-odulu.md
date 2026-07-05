@@ -1,29 +1,45 @@
 ---
 layout: post
 title: "Rıfat Ilgaz Şiir Ödülü"
-description: "Cide Belediyesi tarafından 2022 Rıfat Ilgaz Şiir Ödülü yarışması düzenlenecek."
+description: "Cide Belediye Başkanlığı tarafından her yıl düzenlenen Rıfat Ilgaz Şiir Ödülü'nde dereceye giren şiir kitabına ödül veriliyor. Son başvuru: 15 Nisan 2024."
+date: 2024-02-03
+author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [nisan 2022, genel, şiir yarışması, rıfat ılgaz, kitap dosyası]
-comments: true
-lastDate: 1649973600 
-dateHuman: "15 Nisan 2022"
-price: "2 Bin 500 TL'dir"
+tags: [her yıl tekrarlanan, rıfat ılgaz, şiir yarışması, genel]
+lastDate: 1713128400
+price: "5 Bin TL'dir."
+dateHuman: "15 Nisan 2024"
+attendance: "Elden/Kargo/Posta"
 comTopic: "Serbest"
-attendance: "Elden, Posta, Kargo"
-requirements: "İsteyen herkes katılabilir"
+organizer: "Cide Belediye Başkanlığı"
+requirements: "İsteyen herkes katılabilir."
 permalink: "rifat-ilgaz-siir-odulu"
-image: "https://edebiyatyarismalari.com/images/2021/ekim/rifat-ilgaz-oyku-odulu.jpg"
-excerpt: "Cide Belediyesi tarafından 2022 Rıfat Ilgaz Şiir Ödülü yarışması düzenlenecek."
+image: "https://edebiyatyarismalari.com/images/2024/subat/rifat-ilgaz-siir-yarismasi-2024.jpg"
+excerpt: "Cide Belediye Başkanlığı tarafından her yıl düzenlenen Rıfat Ilgaz Şiir Ödülü'nde dereceye giren şiir kitabına ödül veriliyor. Son başvuru: 15 Nisan 2024."
 ---
 
 ## Rıfat Ilgaz Şiir Ödülü
-Cide Belediyesi tarafından 2022 Rıfat Ilgaz Şiir Ödülü yarışması düzenlenecek.  
 
-1. Ödüle başvuru; 15 Ekim 2021 tarihinde başlayacak ve 15 Nisan 2022 tarihinde sona erecektir.
-2. 01 Ocak 2021-01 Ocak 2022 tarihleri arasında yayımlanan bütün şiir kitapları ödüle katılabilir.
-3. Seçici kurul; Şükrü Erbaş, Çiğdem Sezer, Tuğrul Keskin, İbrahim Tığ ve Kaan Tanyeri’den oluşmaktadır.
-4. Ödül; bir kişiye verilecektir. Gerekirse "jüri özel ödülü" de verilebilir.
-5. Yarışma sonuçları 15 Haziran 2022 tarihinde açıklanacaktır. Ödül töreni 7 Temmuz 2022’de Rıfat Ilgaz’ın memleketi Cide’de yapılacaktır.
-6. Yarışmada birinci olana 2 bin 500 TL ödül ve plaket verilecektir.
-7. Ödüle katılacak kitaplar 7 adet olarak, katılımcının kısa özgeçmiş, adres ve iletişim bilgilerinin bulunduğu bir dilekçe ile en geç 15 Nisan 2022 tarihine kadar; Ömer Yılmaz, Cide Belediyesi Basın Yayın Bölümü, Cide/Kastamonu Tel: 0 505 595 1544) adresine elden, posta veya kargo yoluyla ulaştırılacaktır. Posta ve kargo gecikmelerinin sorumluluğu katılımcıya aittir.
-8. Ödüle katılan yapıtlar sahiplerine geri gönderilmeyecektir.
+Cide Belediye Başkanlığı, Rıfat Ilgaz'ın anısını yaşatmak amacıyla her yıl **Rıfat Ilgaz Şiir Ödülü**'nü düzenliyor.
+
+Katılım Koşulları:
+- Yarışmaya aday olarak katılacak yapıtlarda çağdaş bir dünya görüşü, şiir sanatının gerektirdiği dil bilinci ve estetik temel ölçüt olacaktır.
+- Yarışmaya başvuru, 1 Kasım 2023 tarihinde başlayacak, 15 Nisan 2024 tarihinde sona erecektir.
+- 1 Ocak 2023 - 31 Aralık 2023 tarihleri arasında yayımlanan bütün şiir kitapları yarışmaya katılabilir ancak daha önce herhangi bir yarışmada ödül almış kitaplar değerlendirmeye alınmayacaktır.
+- Ödüle "toplu şiirler" ya da "seçme şiirler" katılamaz.
+- Seçici kurul; Tuğrul Keskin, Haydar Ergülen, Çiğdem Sezer, Kaan Tanyeri ve İbrahim Tığ'dan oluşmaktadır.
+- Seçici Kurul 25 Haziran 2024 tarihinde online olarak toplanacak ve yarışmaya katılan yapıtları değerlendirerek sonuçları gerekçeleriyle açıklayacaktır.
+- Ödül bir kitaba verilir ancak seçici kurul, gerekirse, ödülü birden fazla kitap arasında paylaştırabilir. Birinciliğe uygun kitap bulunamazsa jüri tarafından yine 2023 yılı içinde yayımlanmış bir kitap ödüllendirilebilir. Ayrıca jürinin kararı doğrultusunda "Jüri Özel Ödülü" de verilebilir.
+- Ödül töreni, 29. Cide Rıfat Ilgaz Sarı Yazma Kültür ve Sanat Festivali kapsamında Temmuz 2024'te Rıfat Ilgaz'ın memleketi Cide'de yapılacaktır.
+- Yarışmaya katılacak kitaplar yedi (7) adet olmak üzere katılımcının kısa öz geçmiş, adres ve iletişim bilgilerinin bulunduğu bir dilekçe ile en geç 15 Nisan 2024 tarihine kadar (Ömer Yılmaz / Rıfat Ilgaz Şiir Yarışması Koordinatörü / Cide Belediyesi Basın - Yayın Servisi, Cide / KASTAMONU Tel: 0 505 595 1544) adresine **elden, posta veya kargo yoluyla** ulaştırılacaktır. Posta ve kargo gecikmelerinin sorumluluğu katılımcıya aittir.
+- Yarışmaya katılan kitaplar, sahiplerine geri gönderilmeyecektir.
+
+### Rıfat Ilgaz Şiir Ödülü Ödülleri
+- Ödül: 5.000 TL + Plaket
+
+### Geçmiş Yıllar
+
+Rıfat Ilgaz Şiir Ödülü'nün önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2024 yılı yarışması](/rifat-ilgaz-siir-yarismasi-2024)
+- [2023 yılı yarışması](/rifat-ilgaz-siir-yarismasi)

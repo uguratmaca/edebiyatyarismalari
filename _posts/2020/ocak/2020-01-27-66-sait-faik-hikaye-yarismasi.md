@@ -10,6 +10,7 @@ dateHuman: "28 Şubat 2020"
 attendance: "Elden/Posta"
 requirements: "İsteyen herkes katılabilir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/66-sait-faik-hikaye-yarismasi-armagani.jpg?alt=media&token=f239601b-428c-4cf7-9c16-eef7883371ae"
+archived_to: "/darussafaka-sait-faik-hikaye-armagani"
 ---
 
 Darüşşafaka Cemiyeti 2019 yılında öykü kitabı yayımlanmış tüm yazarları, Sait Faik Abasıyanık'ın anısını yaşatmak amacıyla 66. kez düzenlediği hikaye yarışmasına katılmaya çağırıyor. Yarışma, Türkiye İş Bankası Kültür Yayınları iş birliğiyle düzenleniyor.

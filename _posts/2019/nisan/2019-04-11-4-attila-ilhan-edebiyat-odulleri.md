@@ -9,6 +9,7 @@ lastDate: 1560546000
 dateHuman: "15 Haziran 2019"
 price: "10 Bin TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/attila-ilhan-edebiyat-odulleri.jpg?alt=media&token=9d3e88f5-463c-4a40-82fd-71886c0f9eae"
+archived_to: "/attila-ilhan-edebiyat-odulleri"
 ---
 
 Attilâ İlhan Bilim, Sanat ve Kültür Vakfı, Türkiye İş Bankası Kültür Yayınları desteği ile şair ve yazarlarımızı, Attilâ İlhan’ın her eserinde öne çıkartmaya gayret ettiği ‘ulusal kültür bileşimini gerçekleştirme’ misyonuna layık olacak eserleri öne çıkartmak amacıyla düzenlenen ödüllü şiir ve roman yarışmasına katılmaya çağırıyor.

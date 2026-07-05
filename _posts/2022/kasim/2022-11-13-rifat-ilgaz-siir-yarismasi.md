@@ -12,6 +12,7 @@ organizer: "Cide Belediyesi"
 requirements: "İsteyen herkes katılabilir."
 price: "5 Bin TL'dir."
 permalink: "rifat-ilgaz-siir-yarismasi"
+archived_to: "/rifat-ilgaz-siir-odulu"
 image: "https://edebiyatyarismalari.com/images/2022/kasim/rifat-ilgaz-siir-yarismasi.jpg"
 excerpt:  "Cide Belediyesi <strong> 2023 Rıfat Ilgaz Şiir Ödülü </strong> düzenliyor."
 ---

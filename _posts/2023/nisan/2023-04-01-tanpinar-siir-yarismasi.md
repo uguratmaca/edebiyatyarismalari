@@ -14,6 +14,7 @@ price: "42 Bin TL'dir."
 permalink: "tanpinar-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/nisan/tanpinar-siir-yarismasi.jpg"
 excerpt:  "Osmangazi Belediyesi <strong> Tanpınar Şiir Yarışması </strong> düzenliyor."
+archived_to: "/osmangazi-tanpinar-edebiyat-yarismasi"
 ---
 
 ## Tanpınar Şiir Yarışması

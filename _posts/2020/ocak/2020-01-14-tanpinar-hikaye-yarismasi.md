@@ -12,6 +12,7 @@ comTopic: "Gecmiş Zaman Aynasında Bursa"
 attendance: "Posta"
 requirements: "Yarışmaya yurt içi ve yurt dışından herkes katılabilir."
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/tanpinar-hikaye-yarismasi-2020.jpg?alt=media&token=c6270a7f-5b3a-4c56-a17d-31e0b0df5a1a"
+archived_to: "/osmangazi-tanpinar-edebiyat-yarismasi"
 ---
 
 Ödüller:  

@@ -13,6 +13,7 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "7-attila-ilhan-edebiyat-oduleri"
 image: "https://edebiyatyarismalari.com/images/2022/mart/7-attila-ilhan-edebiyat-odulleri.jpg"
 excerpt: "​​​​​​Attilâ İlhan Bilim, Sanat ve Kültür Vakfı Türkiye İş Bankası Kültür Yayınları desteği ile <strong>7. Attila İlhan Edebiyat Ödülleri</strong>ni düzenliyor."
+archived_to: "/attila-ilhan-edebiyat-odulleri"
 ---
 
 ## 7. Attila İlhan Edebiyat Ödülleri

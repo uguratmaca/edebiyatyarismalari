@@ -13,6 +13,7 @@ requirements: "İsteyen herkes katılabilir."
 permalink: "attila-ilhan-siir-roman-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/mart/attila-ilhan-siir-roman-yarismasi-2024.jpg"
 excerpt:  "Attilâ İlhan Bilim, Sanat ve Kültür Vakfı <strong> Attila İlhan 9. Edebiyat Ödülleri </strong> düzenliyor."
+archived_to: "/attila-ilhan-edebiyat-odulleri"
 ---
 
 ## Attila İlhan 9. Edebiyat Ödülleri

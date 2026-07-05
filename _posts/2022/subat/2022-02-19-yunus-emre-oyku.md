@@ -12,6 +12,7 @@ price: "7 bin 500 TL"
 organizer: "Porsuk Kültür Sanat"
 requirements: "18 yaşını doldurmuş, Türk vatandaşları katılabilir."
 permalink: "yunus-emre-oyku-yarismasi"
+archived_to: "/eskisehir-yunus-emre-edebiyat-armagani"
 image: "https://edebiyatyarismalari.com/images/2022/subat/yunus-emre-oyku-yarismasi.jpeg"
 excerpt: "Eskişehir Büyükşehir Belediyesi ve Porsuk Kültür Sanat <strong>Yunus Emre Edebiyat Armağanı Öykü Yarışması</strong> düzenliyor."
 ---

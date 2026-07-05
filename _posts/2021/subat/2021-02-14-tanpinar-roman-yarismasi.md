@@ -12,6 +12,7 @@ requirements: "Yarışmaya yurt içi ve yurt dışından herkes katılabilir."
 permalink: "tanpinar-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/subat/tanpinar-roman-yarismasi.jpg"
 excerpt: "Osmangazi Belediyesi Tanpınar Roman Yarışması düzenliyor"
+archived_to: "/osmangazi-tanpinar-edebiyat-yarismasi"
 ---
 
 ## Tanpınar Roman Yarışması

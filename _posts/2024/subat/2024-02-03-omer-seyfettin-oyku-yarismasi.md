@@ -12,6 +12,7 @@ organizer: "İstanbul Beşiktaş Kabataş Erkek Lisesi"
 requirements: "İstanbul geneli özel ve devlet liseleri öğrencileri katılabilir."
 price: "5 Bin TL'dir."
 permalink: "omer-seyfettin-oyku-yarismasi-2024"
+archived_to: "/kabatas-omer-seyfettin-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/subat/omer-seyfettin-oyku-yarismasi-2024.jpg"
 excerpt:  "İstanbul Beşiktaş Kabataş Erkek Lisesi <strong> 12. Ömer Seyfettin Öykü Yarışması </strong> düzenliyor."
 ---
