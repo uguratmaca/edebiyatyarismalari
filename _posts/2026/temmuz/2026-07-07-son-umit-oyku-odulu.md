@@ -3,7 +3,7 @@ layout: post
 title: "Son Ümit Öykü Ödülü 2027"
 description: "Son Ümit'in düzenlediği yarışmaya 18 yaş ve üzeri herkes katılabilir. Son başvuru: 11 Ekim 2026."
 category: articles
-tags: [temmuz 2026, hikaye yarışması, genel]
+tags: [ekim 2026, hikaye yarışması, genel]
 lastDate: 1791666000
 dateHuman: "11 Ekim 2026"
 attendance: "E-posta"
