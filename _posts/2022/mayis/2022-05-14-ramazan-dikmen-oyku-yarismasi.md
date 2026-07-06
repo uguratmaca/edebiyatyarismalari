@@ -4,7 +4,7 @@ title: "Ramazan Dikmen Öykü Yarışması 2022"
 description: "Dursunbey Belediyesi 'Ramazan Dikmen Öykü Yarışması 2022' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [haziran 2022, öykü yarışması, genel]
+tags: [haziran 2022, hikaye yarışması, genel]
 lastDate: 1655931600
 dateHuman: "23 Haziran 2022"
 comTopic: "Serbest"

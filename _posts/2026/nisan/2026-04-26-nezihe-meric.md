@@ -4,7 +4,7 @@ title: "Nezihe Meriç Öykü Ödülü Yarışması"
 description: "Studio Gaia'nın 18 yaş ve üzeri herkese açık düzenlediği yarışmaya son başvuru tarihi 20 Haziran 2026."
 author: "Ümit Atmaca"
 category: articles
-tags: [haziran 2026, öykü yarışması, genel]
+tags: [haziran 2026, hikaye yarışması, genel]
 lastDate: 1781902800
 dateHuman: "20 Haziran 2026"
 attendance: "E-posta"

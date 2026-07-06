@@ -4,7 +4,7 @@ title: "33. Uluslararası Hacı Bektaş Veli Anma Törenleri"
 description: "Hacıbektaş Belediyesi 33. Uluslararası Hacı Bektaş Veli Anma Törenleri çerçevesinde 'kısa öykü ve şiir yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [haziran 2022, öykü yarışması, şiir yarışması, genel]
+tags: [haziran 2022, hikaye yarışması, şiir yarışması, genel]
 lastDate: 1656018000
 dateHuman: "24 Haziran 2022"
 comTopic: "Dört Kapı Kırk Makam Yolumuz İlim İrfan ve İnsanlık Sevgisi"
