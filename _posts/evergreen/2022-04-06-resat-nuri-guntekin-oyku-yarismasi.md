@@ -5,7 +5,7 @@ description: "Vefa Lisesi '4. Reşat Nuri Güntekin Öykü Yarışması' düzenl
 date: 2022-04-06
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [her yıl tekrarlanan, mayıs 2022, hikaye yarışması, lise, reşat nuri güntekin]
+tags: [her yıl tekrarlanan hikaye, mayıs 2022, hikaye yarışması, lise, reşat nuri güntekin]
 lastDate: 1651698000
 dateHuman: "05 Mayıs 2022"
 comTopic: "Konu sınırlaması yoktur."

@@ -4,7 +4,7 @@ title: "Hişt Hişt, Genç Sait Faik Öykü Yarışması"
 description: "Özel Darüşşafaka Lisesi'nin İstanbul'daki lise öğrencilerine yönelik Hişt Hişt, Genç Sait Faik Öykü Yarışması'na başvurular başladı."
 date: 2025-03-29
 category: articles
-tags: [her yıl tekrarlanan, nisan 2025, hikaye yarışması, lise, istanbul, sait faik abasıyanık]
+tags: [her yıl tekrarlanan hikaye, nisan 2025, hikaye yarışması, lise, istanbul, sait faik abasıyanık]
 lastDate: 1744840800
 dateHuman: "17 Nisan 2025"
 attendance: "Websitesi"

@@ -4,7 +4,7 @@ title: "Kabataş Erkek Lisesi Ömer Seyfettin Öykü Yarışması"
 description: "Kabataş Erkek Lisesi'nin İstanbul ili genelindeki lise öğrencilerine açık Ömer Seyfettin Öykü Yarışması'nda ödüller veriliyor. Son başvuru: 13 Şubat 2025."
 date: 2024-12-18
 category: articles
-tags: [her yıl tekrarlanan, şubat 2025, hikaye yarışması, lise, istanbul, ömer seyfettin]
+tags: [her yıl tekrarlanan hikaye, şubat 2025, hikaye yarışması, lise, istanbul, ömer seyfettin]
 lastDate: 1739401200
 price: "14 Bin TL'dir"
 dateHuman: "13 Şubat 2025"

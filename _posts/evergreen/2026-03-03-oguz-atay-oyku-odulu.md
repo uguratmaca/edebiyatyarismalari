@@ -4,7 +4,7 @@ title: "Oğuz Atay Öykü Ödülü"
 description: "İnebolu Kültür ve Sanat Derneği'nin her yıl düzenlediği Oğuz Atay Öykü Ödülü'ne başvurular başladı."
 date: 2026-03-03
 category: articles
-tags: [her yıl tekrarlanan, mayıs 2026, hikaye yarışması, genel]
+tags: [her yıl tekrarlanan hikaye, mayıs 2026, hikaye yarışması, genel]
 lastDate: 1780092000
 dateHuman: "30 Mayıs 2026"
 comTopic: "Serbest"

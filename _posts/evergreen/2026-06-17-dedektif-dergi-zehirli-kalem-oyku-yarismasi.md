@@ -5,7 +5,7 @@ description: "Dedektif Dergi'nin polisiye öykü yarışması Zehirli Kalem Öd�
 date: 2026-06-17
 author: "Ümit Atmaca"
 category: articles
-tags: [her yıl tekrarlanan, temmuz 2026, hikaye yarışması, polisiye, genel]
+tags: [her yıl tekrarlanan hikaye, temmuz 2026, hikaye yarışması, polisiye, genel]
 lastDate: 1784840400
 price: "Zehirli Kalem Ödülü"
 dateHuman: "24 Temmuz 2026"

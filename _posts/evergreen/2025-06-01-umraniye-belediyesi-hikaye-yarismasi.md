@@ -4,7 +4,7 @@ title: "Ümraniye Belediyesi Geleneksel Hikâye Yarışması"
 description: "Ümraniye Belediyesi'nin her yıl düzenlediği Geleneksel Hikâye Yarışması'na başvurular herkese açık. 163 Bin TL toplam ödüllü yarışmada son başvuru: 31 Temmuz 2026."
 date: 2026-07-06
 category: articles
-tags: [her yıl tekrarlanan, temmuz 2026, hikaye yarışması, genel]
+tags: [her yıl tekrarlanan hikaye, temmuz 2026, hikaye yarışması, genel]
 lastDate: 1785448800
 price: "163 Bin TL'dir"
 dateHuman: "31 Temmuz 2026"

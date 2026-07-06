@@ -4,7 +4,7 @@ title: "Seyhan Livaneli Öykü Yarışması"
 description: "Eksik Parça Yayınları'nın öykü türünde kitabı yayımlanmamış 18 yaş üstü yazar ve yazar adaylarına yönelik Seyhan Livaneli Öykü Yarışması'na başvurular başladı."
 date: 2024-07-13
 category: articles
-tags: [her yıl tekrarlanan, ekim 2024, hikaye yarışması, genel]
+tags: [her yıl tekrarlanan hikaye, ekim 2024, hikaye yarışması, genel]
 lastDate: 1728943200
 dateHuman: "15 Ekim 2024"
 attendance: "E-Posta"

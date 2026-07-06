@@ -4,7 +4,7 @@ title: "Gençler Arası Öykü Yarışması"
 description: "T.C. Gençlik ve Spor Bakanlığı'nın 13-25 yaş aralığındaki gençlere yönelik düzenlediği ulusal öykü yarışması. Yarışma her yıl farklı bir tema ve isimle (Bir Asrın Öyküsü, Asım'ın Nesli vb.) düzenlenir."
 date: 2024-03-02
 category: articles
-tags: [her yıl tekrarlanan, hikaye yarışması, lise, üniversite, genel]
+tags: [her yıl tekrarlanan hikaye, hikaye yarışması, lise, üniversite, genel]
 lastDate: 1714683600
 dateHuman: "3 Mayıs 2024"
 attendance: "E-Devlet"

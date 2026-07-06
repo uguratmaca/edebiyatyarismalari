@@ -4,7 +4,7 @@ title: "Çukurova Öykü Yarışması"
 description: "Çukurova Belediyesi ve Yeni Adana Gazetesi işbirliğiyle her yıl düzenlenen Çukurova Öykü Yarışması. Yarışmanın konusu her yıl değişmektedir."
 date: 2025-06-29
 category: articles
-tags: [her yıl tekrarlanan, hikaye yarışması, genel]
+tags: [her yıl tekrarlanan hikaye, hikaye yarışması, genel]
 lastDate: 1759269600
 dateHuman: "1 Ekim 2025"
 comTopic: "Direniş"

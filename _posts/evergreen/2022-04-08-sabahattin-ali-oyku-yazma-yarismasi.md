@@ -5,7 +5,7 @@ description: "Özel Fenerbahçe Anadolu Lisesi '5. Sabahattin Ali Öykü Yazma Y
 date: 2022-04-08
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [her yıl tekrarlanan, mayıs 2022, hikaye yarışması, genel, sabahattin ali, lise]
+tags: [her yıl tekrarlanan hikaye, mayıs 2022, hikaye yarışması, genel, sabahattin ali, lise]
 lastDate: 1652389200
 dateHuman: "13 Mayıs 2022"
 comTopic: "Toplumcu gerçekçilik çizgisinde yazılmış serbest temalı öyküler"

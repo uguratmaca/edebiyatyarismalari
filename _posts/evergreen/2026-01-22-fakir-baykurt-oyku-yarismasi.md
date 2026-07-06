@@ -4,7 +4,7 @@ title: "Fakir Baykurt Öykü Yarışması"
 description: "Sarıyer Belediyesi'nin her yıl düzenlediği Fakir Baykurt Öykü Yarışması'nda 4 kategoride toplam 93 Bin 500 TL'lik ödül dağıtılıyor. Son başvuru: 06 Şubat 2026."
 date: 2026-01-22
 category: articles
-tags: [her yıl tekrarlanan, hikaye yarışması, ortaokul, lise, kitap dosyası, fakir baykurt, genel]
+tags: [her yıl tekrarlanan hikaye, hikaye yarışması, ortaokul, lise, kitap dosyası, fakir baykurt, genel]
 lastDate: 1770332400
 dateHuman: "06 Şubat 2026"
 attendance: "Kargo, Posta"

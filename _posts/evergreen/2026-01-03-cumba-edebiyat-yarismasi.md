@@ -4,7 +4,7 @@ title: "Cumba Edebiyat Yarışması"
 description: "Cumba Sanat Platformu'nun her yıl öykü dalında düzenlediği Cumba Edebiyat Yarışması'na başvurular açık. Son başvuru: 20 Şubat 2026."
 date: 2026-01-03
 category: articles
-tags: [her yıl tekrarlanan, şubat 2026, hikaye yarışması, genel]
+tags: [her yıl tekrarlanan hikaye, şubat 2026, hikaye yarışması, genel]
 comments: true
 lastDate: 1771542000 
 dateHuman: "20 Şubat 2026"

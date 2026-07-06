@@ -5,7 +5,7 @@ description: "Darüşşafaka Cemiyeti'nin Türkiye İş Bankası Kültür Yayın
 date: 2024-01-05
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [her yıl tekrarlanan, şubat 2024, hikaye yarışması, genel, sait faik abasıyanık]
+tags: [her yıl tekrarlanan hikaye, şubat 2024, hikaye yarışması, genel, sait faik abasıyanık]
 lastDate: 1709154000
 dateHuman: "29 Şubat 2024"
 attendance: "Elden/Kargo/Posta"

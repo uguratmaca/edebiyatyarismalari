@@ -4,7 +4,7 @@ title: "Ümit Kaftancıoğlu Öykü Yarışması"
 description: "Gazeteci yazar Ümit Kaftancıoğlu anısına her yıl düzenlenen Ümit Kaftancıoğlu Öykü Yarışması'na başvurular başladı."
 date: 2025-10-12
 category: articles
-tags: [her yıl tekrarlanan, aralık 2025, hikaye yarışması, genel]
+tags: [her yıl tekrarlanan hikaye, aralık 2025, hikaye yarışması, genel]
 lastDate: 1767135600
 dateHuman: "31 Aralık 2025"
 attendance: "Posta, Kargo"

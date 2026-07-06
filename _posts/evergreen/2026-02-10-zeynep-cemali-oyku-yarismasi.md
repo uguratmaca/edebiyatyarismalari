@@ -4,7 +4,7 @@ title: "Zeynep Cemali Öykü Yarışması"
 description: "Günışığı Kitaplığı'nın ortaokul öğrencilerine yönelik Zeynep Cemali Öykü Yarışması'na başvurular başladı. Son başvuru: 6 Mayıs 2026."
 date: 2026-02-10
 category: articles
-tags: [her yıl tekrarlanan, mayıs 2026, hikaye yarışması, ortaokul]
+tags: [her yıl tekrarlanan hikaye, mayıs 2026, hikaye yarışması, ortaokul]
 lastDate: 1778018400
 dateHuman: "6 Mayıs 2026"
 attendance: "Posta, E-Posta"

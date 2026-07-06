@@ -4,7 +4,7 @@ title: "Şerzan Kurt Öykü Yarışması"
 description: "Eğitim Sen Batman Şubesi'nin, Muğla'da yaşanan olaylarda hayatını kaybeden Şerzan Kurt anısına her yıl düzenlediği öykü yarışması."
 date: 2024-07-27
 category: articles
-tags: [her yıl tekrarlanan, eylül 2024, hikaye yarışması, genel]
+tags: [her yıl tekrarlanan hikaye, eylül 2024, hikaye yarışması, genel]
 lastDate: 1726347600
 dateHuman: "15 Eylül 2024"
 attendance: "E-posta"
