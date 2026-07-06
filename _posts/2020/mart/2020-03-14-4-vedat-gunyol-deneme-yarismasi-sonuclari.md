@@ -8,6 +8,7 @@ comments: true
 hidden: true
 excerpt:  "4. Vedat Günyol Deneme Yarışması Sonuçları açıklanmıştır."
 image: "https://edebiyatyarismalari.com/images/2020/mart/4-vedat-gunyol-deneme-yarismasi-kazananlar.jpg"
+archived_to: "/vedat-gunyol-deneme-yarismasi"
 ---
 
 ## 4. Vedat Günyol Deneme Yarışması Sonuçları

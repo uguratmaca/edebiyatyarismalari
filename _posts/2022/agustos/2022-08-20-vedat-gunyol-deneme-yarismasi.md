@@ -11,9 +11,10 @@ attendance: "Elden/Kargo"
 organizer: "Kartal Belediyesi"
 price: "20 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
-permalink: "vedat-gunyol-deneme-yarismasi"
+permalink: "vedat-gunyol-deneme-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/agustos/vedat-gunyol-deneme-yarismasi.jpg"
 excerpt:  "Kartal Belediyesi <strong> Vedat Günyol 7. Deneme Yarışması </strong> düzenliyor."
+archived_to: "/vedat-gunyol-deneme-yarismasi"
 ---
 
 ## Vedat Günyol 7. Deneme Yarışması

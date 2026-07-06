@@ -12,6 +12,7 @@ requirements: "Yarışmaya herkes katılabilir."
 permalink: "5-vedat-gunyol-deneme-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/temmuz/5-vedat-gunyol-deneme-yarismasi.jpg"
 excerpt: "Başta edebiyat alanına giren sorunlar olmak üzere toplumsal yaşam içinde insanı ilgilendiren hemen her konuya eğilen “Yazarların Cumhurbaşkanı” Vedat Günyol’u gelecek kuşaklara tanıtmak ve deneme alanındaki çalışmaları desteklemek amacıyla düzenlenen Vedat Günyol Deneme Ödülü tüm yazarları bekliyor"
+archived_to: "/vedat-gunyol-deneme-yarismasi"
 ---
 
 Kartal Belediyesi, çevirmen, eleştirmen, öğretmen, yayıncı ve yazar Vedat Günyol anısına düzenlediği deneme yarışmasının 5’incisini gerçekleştiriyor.  

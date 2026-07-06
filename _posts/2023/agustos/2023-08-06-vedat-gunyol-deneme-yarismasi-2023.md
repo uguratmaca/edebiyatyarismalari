@@ -14,6 +14,7 @@ requirements: "İsteyen herkes katılabilir."
 permalink: "vedat-gunyol-deneme-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/vedat-gunyol-deneme-yarismasi-2023.jpg"
 excerpt:  "Kartal Belediyesi <strong> 8. Vedat Günyol Deneme Yarışması </strong> düzenliyor."
+archived_to: "/vedat-gunyol-deneme-yarismasi"
 ---
 
 ## 8. Vedat Günyol Deneme Yarışması

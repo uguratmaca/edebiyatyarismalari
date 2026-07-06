@@ -14,6 +14,7 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "6-vedat-gunyol-deneme-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/agustos/6-vedat-gunyol-deneme-yarismasi.jpg"
 excerpt: "Kartal Belediyesi her yıl düzenlediği Vedat Günyol Deneme yarışmasının 6. sını düzenliyor."
+archived_to: "/vedat-gunyol-deneme-yarismasi"
 ---
 
 ## 6. Vedat Günyol Deneme Yarışması
