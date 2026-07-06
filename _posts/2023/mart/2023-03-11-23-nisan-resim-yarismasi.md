@@ -4,7 +4,7 @@ title: "23 Nisan’da Çocuk Olmak Resim Yarışması"
 description: "Afyonkarahisar Namık Kemal İlkokulu '23 Nisan’da Çocuk Olmak Resim Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [nisan 2023, resim yarışması, ilkokul, 23 Nisan]
+tags: [nisan 2023, resim yarışması, ilkokul, 23 nisan]
 lastDate: 1680469200
 hidden: true
 dateHuman: "3 Nisan 2023"

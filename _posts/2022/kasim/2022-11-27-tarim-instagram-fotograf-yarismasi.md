@@ -4,7 +4,7 @@ title: "Cumhuriyetin 100. Yılında Tarım Instagram Fotoğraf Yarışması"
 description: "İzmir Ticaret Borsası (İTB) 'Cumhuriyetin 100. Yılında Tarım Instagram Fotoğraf Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [ocak 2023, fotoğraf yarışması, genel, 29 Ekim]
+tags: [ocak 2023, fotoğraf yarışması, genel, 29 ekim]
 lastDate: 1675112400
 dateHuman: "31 Ocak 2023"
 comTopic: "Cumhuriyet’in 100. Yılında Tarım"

@@ -4,7 +4,7 @@ title: "42. Uluslararası Pınar Çocuk Resim Yarışması"
 description: "Pınar '42. Uluslararası Pınar Çocuk Resim Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [haziran 2023, resim yarışması, ilokul, ortaokul]
+tags: [haziran 2023, resim yarışması, ilkokul, ortaokul]
 lastDate: 1688072400
 hidden: true
 dateHuman: "30 Haziran 2023"
