@@ -8,6 +8,7 @@ tags: [sonuç 2023]
 permalink: "seyhan-livaneli-oyku-sonuc"
 excerpt: "Eksik Parça Yayınları tarafından düzenlenen 2023 Seyhan Livaneli Öykü Yarışması kazananları belli olmuştur."
 image: "https://edebiyatyarismalari.com/images/2023/nisan/seyhan-livaneli-oyku-sonuc.jpg"
+archived_to: "/seyhan-livaneli-oyku-yarismasi"
 ---
 
 ## 2023 Seyhan Livaneli Öykü Yarışması Sonucu

@@ -13,6 +13,7 @@ requirements: "18 yaş üzeri herkes katılabilir"
 permalink: "7-seyhan-livaneli-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2025/agustos/7-seyhan-livaneli-oyku-odulu.jpg"
 excerpt: "7. Seyhan Livaneli Öykü Ödülü duyuruldu"
+archived_to: "/seyhan-livaneli-oyku-yarismasi"
 ---
 
 ## 7. Seyhan Livaneli Öykü Ödülü

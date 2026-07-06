@@ -3,7 +3,7 @@ layout: post
 title: "Kara Hafta İstanbul Polisiye Öykü Yarışması"
 description: "güncel ödüllü öykü yarışmaları 2019, 2019 hikaye yarışmaları, para ödüllü yarışmalar 2019, polisiye hikaye"
 category: articles
-tags: [eylül 2019, genel, hikaye yarışması]
+tags: [eylül 2019, genel, hikaye yarışması, polisiye]
 comments: true
 lastDate: 1567285200
 dateHuman: "01 Eylül 2019"

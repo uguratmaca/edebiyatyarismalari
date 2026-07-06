@@ -3,7 +3,7 @@ layout: post
 title: "15 Temmuz, Demokrasi, Milli Birlik Şiir Yarışması"
 description: "güncel şiir yarışmaları 2019, ödüllü yarışmalar 2019, bulgaristan"
 category: articles
-tags: [temmuz 2019, ortaokul, lise, şiir yarışması]
+tags: [temmuz 2019, ortaokul, lise, şiir yarışması, 15 temmuz]
 comments: true
 lastDate: 1565384400
 dateHuman: "10 Temmuz 2019"
