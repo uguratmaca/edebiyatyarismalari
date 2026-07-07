@@ -1,0 +1,20 @@
+---
+---
+{% capture nowunix %}{{ 'now' | date: '%s' }}{% endcapture %}
+{% assign nowDateInt = nowunix | plus: 0 %}
+{% assign filtered_posts = site.posts | where_exp: "item", "item.lastDate > nowDateInt" %}
+[
+  {% for post in filtered_posts %}
+  {
+    "title": {{ post.title | jsonify }},
+    "url": {{ post.url | prepend: site.url | jsonify }},
+    "tags": {{ post.tags | jsonify }},
+    "dateHuman": {{ post.dateHuman | jsonify }},
+    "lastDate": {{ post.lastDate }},
+    "requirements": {{ post.requirements | jsonify }},
+    "attendance": {{ post.attendance | jsonify }},
+    "attendanceMethods": {{ post.attendance | normalize_attendance | jsonify }},
+    "excerpt": {{ post.excerpt | strip_html | strip_newlines | truncate: 160 | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
