@@ -14,6 +14,7 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "vedat-turkali-edebiyat-odulleri-2022"
 image: "https://edebiyatyarismalari.com/images/2022/ocak/vedat-turkali-edebiyat-odulleri.jpg"
 excerpt: "Atakum Belediyesi 2022 <strong>Vedat Türkali Edebiyat Ödülleri</strong> başvurularını duyurdu."
+archived_to: "/vedat-turkali-edebiyat-odulleri"
 ---
 
 ## Vedat Türkali Edebiyat Ödülleri 2022

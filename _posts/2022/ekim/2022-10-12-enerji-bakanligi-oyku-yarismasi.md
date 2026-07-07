@@ -11,9 +11,10 @@ attendance: "Okul"
 organizer: "Enerji Bakanlığı"
 price: "Tablet"
 requirements: "Ortaokul öğrencileri katılabilir."
-permalink: "enerji-bakanligi-oyku-yarismasi"
+permalink: "enerji-bakanligi-oyku-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/ekim/enerji-bakanligi-oyku-yarismasi.jpg"
 excerpt:  "Enerji Bakanlığı <strong> öykü yarışması </strong> düzenliyor."
+archived_to: "/enerji-bakanligi-oyku-yarismasi"
 ---
 
 ## Enerji Bakanlığı Öykü Yarışması 

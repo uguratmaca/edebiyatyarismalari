@@ -13,6 +13,7 @@ requirements: "Kitapyurdu'nda 31 Aralık 2023 ve öncesinde üyelik oluşturan h
 permalink: "kitap-yurdu-oylama"
 image: "https://edebiyatyarismalari.com/images/2024/mart/kitap-yurdu-oylama.jpg"
 excerpt:  "Kitapyurdu <strong> Kitapyurdu Türkiye Okur Ödülleri </strong> düzenliyor."
+archived_to: "/kitapyurdu-turkiye-okur-odulleri"
 ---
 
 ## Kitapyurdu Türkiye Okur Ödülleri

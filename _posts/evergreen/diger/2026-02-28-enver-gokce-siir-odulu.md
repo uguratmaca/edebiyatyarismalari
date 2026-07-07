@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Enver Gökçe Toplumcu Gerçekci 2026 Şiir Ödülü"
-description: "Özgür Öyküşiir Dergisi Enver Gökçe Toplumcu Şiir Ödülü 2026 düzenliyor."
+title: "Enver Gökçe Toplumcu Gerçekci Şiir Ödülü"
+description: "Özgür Öyküşiir Dergisi Enver Gökçe Toplumcu Şiir Ödülü düzenliyor."
 category: articles
-tags: [temmuz 2026, şiir yarışması, genel]
+tags: [her yıl tekrarlanan, temmuz 2026, şiir yarışması, genel]
 lastDate: 1782856800
 dateHuman: "1 Temmuz 2026"
 attendance: "E-Posta/Kargo/Posta"
 organizer: "Özgür Öyküşiir Dergisi"
 requirements: "İsteyen herkes katılabilir."
-permalink: "enver-gokce-siir-odulu-2026"
+permalink: "enver-gokce-siir-odulu"
 image: "https://edebiyatyarismalari.com/images/2024/subat/enver-gokce-siir-odulu-2024.jpg"
-excerpt: "Özgür Öyküşiir Dergisi Enver Gökçe Toplumcu Şiir Ödülü 2026 düzenliyor."
+excerpt: "Özgür Öyküşiir Dergisi Enver Gökçe Toplumcu Şiir Ödülü düzenliyor."
 ---
 
-## Enver Gökçe Toplumcu Gerçekci 2026 Şiir Ödülü
+## Enver Gökçe Toplumcu Gerçekci Şiir Ödülü
 
 - Özgür Öyküşiir dergisince bu yıl yedincisi düzenlenen **Enver GÖKÇE Toplumcu Gerçekçi Şiir Ödülü**, Enver GÖKÇE adının ve şiirinin yaşatılması için konulmuştur.
 - Bu ödül toplumcu gerçekçi şiir akımının sürekliliğini amaçlar ve Türk şiirinde anlaşılırlığı öne çıkarır.
@@ -30,7 +30,7 @@ excerpt: "Özgür Öyküşiir Dergisi Enver Gökçe Toplumcu Şiir Ödülü 2026
 - Tel. : 0536 425 41 26 - 0535 052 60 35
 - E-posta : oduloykusiir@gmail.com
 
-## Enver Gökçe Toplumcu Gerçekci 2026 Şiir Ödülü Seçici Kurulu
+## Enver Gökçe Toplumcu Gerçekci Şiir Ödülü Seçici Kurulu
 
 - Hasan Hüseyin YALVAÇ (şair, yazar)
 - Haydar ÜNAL (şair)
@@ -38,3 +38,11 @@ excerpt: "Özgür Öyküşiir Dergisi Enver Gökçe Toplumcu Şiir Ödülü 2026
 - Asım ÖZTÜRK (şair, yazar)
 - Hatice TARKAN DOĞANAY (şair, yazar)
 - Münevver AKSOYAK ERDEM (Özgür Öyküşiir dergisi adına)
+
+### Geçmiş Yıllar
+
+Enver Gökçe Toplumcu Gerçekçi Şiir Ödülü'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2025](/enver-gokce-siir-odulu-2025)
+- [2024](/enver-gokce-siir-odulu-2024)
+- [2023](/enver-gokce-siir-odulu-2023)

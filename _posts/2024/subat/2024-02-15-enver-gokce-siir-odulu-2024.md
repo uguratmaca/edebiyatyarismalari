@@ -13,6 +13,7 @@ requirements: "İsteyen herkes katılabilir."
 permalink: "enver-gokce-siir-odulu-2024"
 image: "https://edebiyatyarismalari.com/images/2024/subat/enver-gokce-siir-odulu-2024.jpg"
 excerpt:  "Özgür Öyküşiir Dergisi <strong> Enver Gökçe Şiir Ödülü 2024 </strong> düzenliyor."
+archived_to: "/enver-gokce-siir-odulu"
 ---
 
 ## Enver Gökçe Şiir Ödülü 2024

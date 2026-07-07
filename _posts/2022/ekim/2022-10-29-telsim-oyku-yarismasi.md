@@ -14,6 +14,7 @@ requirements: "KKTC Millî Eğitim Bakanlığı’na bağlı resmî/özel okulla
 permalink: "telsim-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/ekim/telsim-oyku-yarismasi.jpg"
 excerpt:  "Telsim <strong> öykü yarışması </strong> düzenliyor."
+archived_to: "/telsim-kisa-oyku-yarismasi"
 ---
 
 ## Telsim Kısa Öykü Yarışması

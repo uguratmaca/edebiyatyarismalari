@@ -14,6 +14,7 @@ requirements: "18 yaş üzeri yazar ve yazar adayları katılabilir."
 permalink: "mahal-edebiyat-oyku-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/ekim/mahal-edebiyat-oyku-yarismasi-2023.jpg"
 excerpt:  "Mahal Edebiyat <strong> II. Öykü Yarışması </strong> düzenliyor."
+archived_to: "/mahal-edebiyat-oyku-yarismasi"
 ---
 
 ## II. Öykü Yarışması

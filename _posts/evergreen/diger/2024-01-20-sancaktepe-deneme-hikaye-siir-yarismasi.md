@@ -4,14 +4,14 @@ title: "Genç Kalemler Deneme, Hikaye ve Şiir Yarışması"
 description: "Sancaktepe Belediyesi 'Genç Kalemler Deneme, Hikaye ve Şiir Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [mart 2024, deneme yarışması, hikaye yarışması, şiir yarışması, lise, üniversite]
+tags: [her yıl tekrarlanan, mart 2024, deneme yarışması, hikaye yarışması, şiir yarışması, lise, üniversite]
 lastDate: 1709240400
 dateHuman: "1 Mart 2024"
 comTopic: "Serbest"
 attendance: "E-Posta"
 organizer: "Sancaktepe Belediyesi"
 requirements: "15-25 yaş arası gençler katılabilir."
-permalink: "genc-kalemler-deneme-hikaye-siir-yarismasi-2024"
+permalink: "sancaktepe-deneme-hikaye-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/ocak/genc-kalemler-deneme-hikaye-siir-yarismasi-2024.jpg"
 excerpt:  "Sancaktepe Belediyesi <strong> Genç Kalemler Deneme, Hikaye ve Şiir Yarışması </strong> düzenliyor."
 ---
@@ -36,3 +36,9 @@ Katılım Koşulları:
 - Eserlerin yazımında TDK Yazım Kılavuzu esas alınacaktır.
 - Eserler özgün nitelikte olacaktır. Yayımlanmış, herhangi bir yarışmaya katılmış eserler yarışmaya katılamaz. Tespiti hâlinde yarışmacı tüm haklarından feragât etmiş kabul edilecektir.
 - Yarışma şartnamesine uygun olmayan veya zamanında teslim edilmeyen eserler, değerlendirmeye alınmayacaktır.
+
+### Geçmiş Yıllar
+
+Genç Kalemler Deneme, Hikaye ve Şiir Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2023](/sancaktepe-deneme-hikaye-siir-yarismasi-2023)

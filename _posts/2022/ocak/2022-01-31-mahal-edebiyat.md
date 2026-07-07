@@ -10,9 +10,10 @@ comTopic: "Serbest"
 attendance: "E-Posta"
 organizer: "Mahal Edebiyat"
 requirements: "18 yaş üzeri yazar ve yazar adaylarına açıktır."
-permalink: "mahal-edebiyat-oyku-yarismasi"
+permalink: "mahal-edebiyat-oyku-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/ocak/mahal-edebiyat-oyku-yarismasi.jpg"
 excerpt: "Mahal Edebiyat, gelenekselleştirmek istediği öykü yarışmalarının ilki <strong>Mahal Edebiyat Öykü Yarışmasını</strong> düzenliyor."
+archived_to: "/mahal-edebiyat-oyku-yarismasi"
 ---
 
 ## Mahal Edebiyat Öykü Yarışması

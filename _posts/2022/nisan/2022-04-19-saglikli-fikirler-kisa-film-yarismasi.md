@@ -12,9 +12,10 @@ price: "104 Bin TL'dir."
 comTopic: "Gençlerin gözünden uyuşturucu madde bağımlılığı"
 organizer: "Yeşilay"
 requirements: "Türkiye genelinde örgün üniversitelerde öğrenim gören öğrenciler katılabilir."
-permalink: "saglikli-fikirler-kisa-film-yarismasi"
+permalink: "saglikli-fikirler-kisa-film-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/saglikli-fikirler-kisa-film-yarismasi.jpg"
 excerpt:  "Yeşilay  <strong> Sağlıklı Fikirler Kısa Film Yarışması </strong> düzenliyor."
+archived_to: "/saglikli-fikirler-kisa-film-yarismasi"
 ---
 
 ## Sağlıklı Fikirler Kısa Film Yarışması

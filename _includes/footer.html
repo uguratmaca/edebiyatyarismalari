@@ -1,37 +1,81 @@
 <section class="container-fluid p-3 p-md-5">
-    <ul class="nav">
-        <li class="nav-item">
-            <a href="{{ site.twitter }}" rel="nofollow" target="_blank" class="nav-link gtag ml-0 pl-0">Twitter</a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site.facebook }}" rel="nofollow" target="_blank" class="nav-link gtag">Facebook</a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site.instagram }}" rel="nofollow" target="_blank" class="nav-link gtag">Instagram</a>
-        </li>
-        <li class="nav-item">
-            <a href="{{ site.url }}/hakkinda/" class="nav-link gtag">Hakkında</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="{{ site.url }}/feed.xml">RSS</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="https://calendar.google.com/calendar/u/1?cid=ZWRlYml5YXQueWFyaXNtYWxhcmlAZ21haWwuY29t">Google Takvim</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="https://linktr.ee/edebiyatyarismalari">LinkTR</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="https://chat.whatsapp.com/EQ5KuLh0Vzu1oOqH9Csoe7">Whatsapp Topluluk</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="https://open.spotify.com/playlist/4PZ0uiX7wJHgq0ZC4Cm8jd?si=SwyRP1UTRYaOBCXRXG0wdQ">Türkçe Rap En İyiler</a>
-        </li>
-    </ul>
+    <section class="row">
+        <section class="col-md-4 col-sm-12">
+            <ul class="nav flex-column">
+                <li class="nav-item">
+                    <a href="{{ site.twitter }}" rel="nofollow" target="_blank" class="nav-link gtag ml-0 pl-0">Twitter</a>
+                </li>
+                <li class="nav-item">
+                    <a href="{{ site.facebook }}" rel="nofollow" target="_blank" class="nav-link gtag">Facebook</a>
+                </li>
+                <li class="nav-item">
+                    <a href="{{ site.instagram }}" rel="nofollow" target="_blank" class="nav-link gtag">Instagram</a>
+                </li>
+                <li class="nav-item">
+                    <a href="{{ site.url }}/hakkinda/" class="nav-link gtag">Hakkında</a>
+                </li>
+                <li class="nav-item">
+                    <a href="{{ site.url }}/tum-kategoriler/" class="nav-link gtag">Tüm Kategoriler</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.url }}/feed.xml">RSS</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://calendar.google.com/calendar/u/1?cid=ZWRlYml5YXQueWFyaXNtYWxhcmlAZ21haWwuY29t">Google Takvim</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://linktr.ee/edebiyatyarismalari">LinkTR</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://chat.whatsapp.com/EQ5KuLh0Vzu1oOqH9Csoe7">Whatsapp Topluluk</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://open.spotify.com/playlist/4PZ0uiX7wJHgq0ZC4Cm8jd?si=SwyRP1UTRYaOBCXRXG0wdQ">Türkçe Rap En İyiler</a>
+                </li>
+            </ul>
+        </section>
+        <section class="col-md-4 col-sm-12">
+            <ul class="nav flex-column">
+                <li class="nav-item"><h6 class="mt-2">Eserler</h6></li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.url }}/kitaplarimiz/">Kitaplar</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.url }}/hikayeler/">Hikayeler, Öyküler</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.url }}/siirler/">Şiirler</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.url }}/denemeler/">Denemeler</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.url }}/incelemeler/">İncelemeler</a>
+                </li>
+            </ul>
+        </section>
+        <section class="col-md-4 col-sm-12">
+            <ul class="nav flex-column">
+                <li class="nav-item"><h6 class="mt-2">Seçkiler</h6></li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.url }}/anne-siirleri/">Anne Şiirleri Seçkisi</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.url }}/bilimkurgu-salgin/">Salgın Bilimkurgu Öyküleri Seçkisi</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.url }}/peri-masali/">Peri Masalı Seçkisi</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.url }}/sevgili-minimal-oykuleri/">Sevgili Konulu Minimal Öykü Seçkisi</a>
+                </li>
+            </ul>
+        </section>
+    </section>
     <p>EdebiyatYarışmaları® | 2018 - {{ site.year }}</p>
 </section>
 
-<script async src="/search-script.js" onload="applySearch()"></script>
+<script src="/js/theme-toggle.js"></script>
 
 <script>
 

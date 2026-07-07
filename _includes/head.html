@@ -1,4 +1,13 @@
 <meta charset="utf-8">
+<script>
+(function () {
+  try {
+    var saved = localStorage.getItem('theme');
+    var theme = saved || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    document.documentElement.setAttribute('data-theme', theme);
+  } catch (e) {}
+})();
+</script>
 {% capture page_title %}{% if page.title and page.title != site.title %}{% include dynamic-year.html text=page.title %} &#8211; {{ site.title }}{% elsif page.title %}{% include dynamic-year.html text=page.title %}{% else %}{{ site.description }}{% endif %}{% endcapture %}
 <title>{{ page_title }}</title>
 {% capture page_description %}{% if page.description %}{% include dynamic-year.html text=page.description %}{% else %}{{ site.description }}{% endif %}{% endcapture %}

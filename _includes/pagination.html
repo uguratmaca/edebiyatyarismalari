@@ -1,0 +1,42 @@
+{% comment %}
+Aktif (hidden/sticky olmayan, lastDate'i geçmemiş) yarışma sayısına göre
+kaç sayfanın dolu olduğunu hesaplar ve sadece dolu sayfalara link verir.
+Kullanım: {% include pagination.html current=N %}
+Sayfa başına içerik sınırları index.html/sayfa2-5 dosyalarındaki
+counter aralıklarıyla birebir aynı olmalı (6, 13, 20, 27, 34).
+{% endcomment %}
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% assign nowDateInt = nowunix | plus: 0 %}
+{% assign activeCount = 0 %}
+{% for post in site.posts %}
+	{% if post.hidden != true and post.sticky != true and post.lastDate > nowDateInt %}
+		{% assign activeCount = activeCount | plus: 1 %}
+	{% endif %}
+{% endfor %}
+
+{% assign totalPages = 1 %}
+{% if activeCount > 27 %}
+	{% assign totalPages = 5 %}
+{% elsif activeCount > 20 %}
+	{% assign totalPages = 4 %}
+{% elsif activeCount > 13 %}
+	{% assign totalPages = 3 %}
+{% elsif activeCount > 6 %}
+	{% assign totalPages = 2 %}
+{% endif %}
+
+{% if totalPages > 1 %}
+<section class="row mb-5">
+	<section class="col-2 d-none d-md-block"></section>
+	<section class="col">
+		<ul class="pagination" aria-label="Sayfalama">
+			<li class="page-item{% if include.current == 1 %} active{% endif %}"><a class="page-link btn-lg" href="{{site.url}}/" aria-label="Sayfa 1"{% if include.current == 1 %} aria-current="page"{% endif %}>1</a></li>
+			{% if totalPages > 1 %}<li class="page-item{% if include.current == 2 %} active{% endif %}"><a class="page-link btn-lg" href="{{site.url}}/sayfa2/" aria-label="Sayfa 2"{% if include.current == 2 %} aria-current="page"{% endif %}>2</a></li>{% endif %}
+			{% if totalPages > 2 %}<li class="page-item{% if include.current == 3 %} active{% endif %}"><a class="page-link btn-lg" href="{{site.url}}/sayfa3/" aria-label="Sayfa 3"{% if include.current == 3 %} aria-current="page"{% endif %}>3</a></li>{% endif %}
+			{% if totalPages > 3 %}<li class="page-item{% if include.current == 4 %} active{% endif %}"><a class="page-link btn-lg" href="{{site.url}}/sayfa4/" aria-label="Sayfa 4"{% if include.current == 4 %} aria-current="page"{% endif %}>4</a></li>{% endif %}
+			{% if totalPages > 4 %}<li class="page-item{% if include.current == 5 %} active{% endif %}"><a class="page-link btn-lg" href="{{site.url}}/sayfa5/" aria-label="Sayfa 5"{% if include.current == 5 %} aria-current="page"{% endif %}>5</a></li>{% endif %}
+		</ul>
+	</section>
+	<section class="col-2 d-none d-md-block"></section>
+</section>
+{% endif %}

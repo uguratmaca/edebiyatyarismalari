@@ -12,9 +12,10 @@ attendance: "E-posta"
 organizer: "Myrina Yayınları"
 price: "Bin 750 TL'dir"
 requirements: "İsteyen herkes katılabilir."
-permalink: "myrina-yayinlari-oyku-yarismasi"
+permalink: "myrina-yayinlari-oyku-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/mart/myrina-yayinlari-oyku-yarismasi.jpg"
 excerpt:  "Myrina Yayınları <strong> öykü yarışması </strong> düzenliyor."
+archived_to: "/myrina-yayinlari-oyku-yarismasi"
 ---
 
 ## Myrina Yayınları Öykü Yarışması

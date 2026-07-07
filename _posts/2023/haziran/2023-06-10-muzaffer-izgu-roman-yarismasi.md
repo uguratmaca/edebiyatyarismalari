@@ -13,6 +13,7 @@ requirements: "18 yaşının üzerindeki tüm yazarlar katılabilir."
 permalink: "muzaffer-izgu-roman-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/haziran/muzaffer-izgu-roman-yarismasi.jpg"
 excerpt:  "Bilgi Yayınevi <strong> Muzaffer İzgü Çocuk Romanı Yarışması </strong> düzenliyor."
+archived_to: "/muzaffer-izgu-roman-yarismasi"
 ---
 
 ## Muzaffer İzgü Çocuk Romanı Yarışması

@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "KeKeMe Yayınları 3. Öykü Ödülü"
-description: "KeKeMe Yayınları Öteki temalı 3. Öykü Ödülünü duyurdu"
+title: "KeKeMe Yayınları Öykü Ödülü"
+description: "KeKeMe Yayınları Öteki temalı Öykü Ödülünü duyurdu"
 category: articles
-tags: [haziran 2026, hikaye yarışması, genel]
+tags: [her yıl tekrarlanan hikaye, haziran 2026, hikaye yarışması, genel]
 lastDate: 1782770400
 dateHuman: "30 Haziran 2026"
 attendance: "E-Posta"
 comTopic: "Öteki"
 organizer: "KeKeMe Yayınları"
 requirements: "On sekiz yaşını geçmiş herkes katılabilir"
-permalink: "kkm-yayinlari-3-oyku-odulu"
+permalink: "kkm-yayinlari-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2026/subat/kekeme-yayinlari-3-oyku-odulu.webp"
-excerpt: "KeKeMe Yayınları Öteki temalı 3. Öykü Ödülünü duyurdu"
+excerpt: "KeKeMe Yayınları Öteki temalı Öykü Ödülünü duyurdu"
 ---
 
-## KeKeMe Yayınları 3. Öykü Ödülü
+## KeKeMe Yayınları Öykü Ödülü
 
 - On sekiz yaşını geçmiş herkes yetişkinler için yazdığı "Öteki" temalı bir öykü ile ödüle başvurabilir.
 - Ödüle katılacak eserlerin dili Türkçe olmalıdır.
@@ -28,7 +28,7 @@ excerpt: "KeKeMe Yayınları Öteki temalı 3. Öykü Ödülünü duyurdu"
 - KekeMe Yayınları çalışanları ile seçici kurul üyelerinin birinci dereceden yakınları ödü-le katılamazlar.
 - Son başvuru tarihi 30 Haziran 2026 dır. Bu tarihten sonra gelen öyküler değerlendir-meye alınmayacaktır.
 
-### KeKeMe Yayınları 3. Öykü Ödülü Değerlendirme
+### KeKeMe Yayınları Öykü Ödülü Değerlendirme
 
 - Sonuçlar 2026 yılının Eylül ayı içinde basına açıklanacaktır.
 - Ödül töreninin yeri ve saati ayrıca bildirilecektir.
@@ -36,7 +36,7 @@ excerpt: "KeKeMe Yayınları Öteki temalı 3. Öykü Ödülünü duyurdu"
 - Yarışmaya gönderilen eserlerden uygun görülenler, herhangi bir telif hakkı iznine gerek kalmaksızın, istendiği takdirde yarışmayı düzenleyen KeKeMe Yayınları tarafından bir kitapta toplanarak yayımlanabilir.
 - Başvuru yapan herkes katılım koşullarını kabul etmiş sayılır.
 
-### KeKeMe Yayınları 3. Öykü Ödülü Seçici Kurul
+### KeKeMe Yayınları Öykü Ödülü Seçici Kurul
  
 - Ali Doğan
 - Deniz Moralıgil
@@ -45,3 +45,10 @@ excerpt: "KeKeMe Yayınları Öteki temalı 3. Öykü Ödülünü duyurdu"
 - Nesrin Bulat
 - Yunus Bekir Yurdakul
 - Ödülün koordinatörü Hande Baba'dır.
+
+### Geçmiş Yıllar
+
+KeKeMe Yayınları Öykü Ödülü'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2025](/kkm-yayinlari-2-oyku-odulu)
+- [2024](/kekeme-yayinlari-oyku-yarismasi-2024)

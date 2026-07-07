@@ -80,6 +80,30 @@ Yeni dönem duyurulunca o dosya güncellenir, sabit kalır.
 7. `_posts/evergreen/INDEX.md`'ye yeni yarışmayı alfabetik yerine ekle.
 8. Tüm dosyalardaki `permalink` alanlarını `grep` ile kontrol edip çakışma olmadığından emin ol.
 
+### Kontrol scripti: `scripts/sync_archived_to.rb`
+
+Yukarıdaki adımların elle takip edilememesi yüzünden `archived_to` alanları zamanla eksik
+kalabiliyor. Bu script Jekyll'in kendi site modelini yükleyip iki şeyi kontrol eder:
+
+- Her evergreen sayfanın "Geçmiş Yıllar" bölümünde linklediği eski postların gerçekten o
+  evergreen sayfaya `archived_to` ile işaret edip etmediğini (eksikse veya başka bir hedefe
+  işaret ediyorsa raporlar).
+- Henüz evergreen'e çevrilmemiş olası tekrarlanan yarışma serilerini (aynı `organizer` + yıl/sıra
+  numarası çıkarılınca aynı `title` ile eşleşen, 2+ yıla yayılmış postlar) listeler — bunlar elle
+  incelenip yukarıdaki "Yeni bir yarışmayı ilk kez evergreen'e çevirmek" adımlarıyla taşınmalı,
+  script bu kısmı otomatik yapmaz.
+
+Kullanım:
+
+```
+bundle exec ruby scripts/sync_archived_to.rb          # sadece rapor, dosya değiştirmez
+bundle exec ruby scripts/sync_archived_to.rb --fix     # eksik archived_to alanlarını otomatik ekler
+```
+
+`--fix` yalnızca evergreen sayfanın "Geçmiş Yıllar" listesinde zaten adı geçen ama front
+matter'ında `archived_to` unutulmuş dosyalara dokunur; yeni evergreen sayfa oluşturmaz, uyuşmayan
+(`current != expected`) veya çözülemeyen linkleri değiştirmez, onları raporda bırakır.
+
 ## Zayıf / Güncelliğini Yitirmiş İçerik
 
 Bir yarışma tamamen değişmiş (farklı bir programa dönüşmüş, bir daha düzenlenmemiş vb.) ve

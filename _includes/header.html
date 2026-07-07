@@ -1,6 +1,11 @@
 <header class="header-container container-fluid p-0">
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="{{ site.url }}">{{ site.name }}</a>
+    <a class="navbar-brand d-flex align-items-center" href="{{ site.url }}">
+      <img src="{{ site.url }}/images/edebiyat-yarismalari-logo-icon.png" alt="" width="40" height="40" class="mr-2">
+      {{ site.name }}
+    </a>
+    <button id="theme-toggle" type="button" aria-label="Karanlık/aydınlık temayı değiştir" title="Karanlık/aydınlık tema">🌙</button>
+
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
       aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -8,14 +13,24 @@
     <section class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav mr-auto">
 
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.url }}/siir-yarismalari/">Şiir Yarışmaları</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.url }}/hikaye-yarismalari/">Hikaye/Öykü Yarışmaları</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.url }}/para-odullu-yarismalar/">Para Ödüllü Yarışmalar</a>
+        </li>
+
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="yarismalarMenu" role="button" data-toggle="dropdown"
             aria-haspopup="true" aria-expanded="false">
             Yarışmalar
           </a>
           <section class="dropdown-menu" aria-labelledby="yarismalarMenu">
-            <a class="dropdown-item" href="{{ site.url }}/siir-yarismalari/">Şiir Yarışmaları</a>
-            <a class="dropdown-item" href="{{ site.url }}/hikaye-yarismalari/">Hikaye/Öykü Yarışmaları</a>
             <a class="dropdown-item" href="{{ site.url }}/makale-yarismalari/">Makale Yarışmaları</a>
             <a class="dropdown-item" href="{{ site.url }}/deneme-yarismalari/">Deneme Yarışmaları</a>
             <a class="dropdown-item" href="{{ site.url }}/ani-yarismalari/">Anı Yarışmaları</a>
@@ -53,7 +68,7 @@
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="yaslarMenu" role="button" data-toggle="dropdown"
             aria-haspopup="true" aria-expanded="false">
-            Eğitim, Meslek, Kategori
+            Kimler Katılabilir?
           </a>
           <section class="dropdown-menu" aria-labelledby="aylarMenu">
             <a class="dropdown-item" href="{{ site.url }}/ilkokul-ogrencileri-edebiyat-yarismalari/">İlkokul
@@ -64,7 +79,6 @@
               Yarışmaları</a>
             <a class="dropdown-item" href="{{ site.url }}/genel-edebiyat-yarismalari/">Genel Yarışmalar</a>
             <section class="dropdown-divider"></section>
-            <a class="dropdown-item" href="{{ site.url }}/yazarlar-adina-yarismalar">Yazarlar Adına Düzenlenen Yarışmalar</a>
             <a class="dropdown-item" href="{{ site.url }}/ogretmen-yarismalari/">Öğretmenler Arası Yarışmalar</a>
             <a class="dropdown-item" href="{{ site.url }}/hukuk-yarismalari/">Hukuk Yarışmaları</a>
             <a class="dropdown-item" href="{{ site.url }}/kadinlar-icin-yarismalar/">Kadınlar İçin Yarışmalar</a>
@@ -77,70 +91,26 @@
             Diğer
           </a>
           <section class="dropdown-menu" aria-labelledby="digerYarismalar">
-            <a class="dropdown-item" href="{{ site.url }}/yarisma-sonuclari/">Yarışma Sonuçları</a>
-            <section class="dropdown-divider"></section>
-            <a class="dropdown-item" href="{{ site.url }}/para-odullu-yarismalar/">Para Ödüllü Yarışmalar</a>
-            <section class="dropdown-divider"></section>
             <a class="dropdown-item" href="{{ site.url }}/edebiyat-odulleri/">Edebiyat Ödülleri</a>
-            <section class="dropdown-divider"></section>
             <a class="dropdown-item" href="{{ site.url }}/kitap-okuma-yarismalari/">Kitap Okuma Yarışmaları</a>
-            <a class="dropdown-item" href="{{ site.url }}/siir-okuma-yarismalari/">Şiir Okuma Yarışmaları</a>
+            <a class="dropdown-item" href="{{ site.url }}/yazarlar-adina-yarismalar">Yazarlar Adına Düzenlenen Yarışmalar</a>
             <a class="dropdown-item" href="{{ site.url }}/resim-yarismalari/">Resim Yarışmaları</a>
-            <a class="dropdown-item" href="{{ site.url }}/karikatur-yarismalari/">Karikatür Yarışmaları</a>
-            <a class="dropdown-item" href="{{ site.url }}/fotograf-yarismalari/">Fotoğraf Yarışmaları</a>
-            <a class="dropdown-item" href="{{ site.url }}/beste-yarismalari/">Beste Yarışmaları</a>
-            <a class="dropdown-item" href="{{ site.url }}/kisa-film-yarismalari/">Kısa Film Yarışmaları</a>
-            <a class="dropdown-item" href="{{ site.url }}/tasarim-yarismalari/">Tasarım Yarışmaları</a>
-            <a class="dropdown-item" href="{{ site.url }}/afis-yarismalari/">Afiş Yarışmaları</a>
-            <a class="dropdown-item" href="{{ site.url }}/muzik-ses-sarki-yarismalari/">Müzik, Ses, Şarkı
-              Yarışmaları</a>
-            <a class="dropdown-item" href="{{ site.url }}/proje-yarismalari/">Proje Yarışmaları</a>
             <section class="dropdown-divider"></section>
             <a class="dropdown-item" href="{{ site.url }}/gecmis-edebiyat-yarismalari/">Geçmiş Edebiyat
               Yarışmaları</a>
+            <a class="dropdown-item" href="{{ site.url }}/tum-kategoriler/">Tüm Kategoriler</a>
           </section>
         </li>
 
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="seckilerMenu" role="button" data-toggle="dropdown"
+          <a class="nav-link dropdown-toggle" href="#" id="tekrarlananMenu" role="button" data-toggle="dropdown"
             aria-haspopup="true" aria-expanded="false">
-            Seçkiler
+            Tekrarlanan Yarışmalar
           </a>
-          <section class="dropdown-menu" aria-labelledby="seckilerMenu">
-            <a class="dropdown-item" href="{{ site.url }}/anne-siirleri/">Anne Şiirleri Seçkisi</a>
-            <a class="dropdown-item" href="{{ site.url }}/bilimkurgu-salgin/">Salgın Bilimkurgu Öyküleri Seçkisi</a>
-            <a class="dropdown-item" href="{{ site.url }}/peri-masali/">Peri Masalı Seçkisi</a>
-            <a class="dropdown-item" href="{{ site.url }}/sevgili-minimal-oykuleri/">Sevgili Konulu Minimal Öykü
-              Seçkisi</a>
+          <section class="dropdown-menu" aria-labelledby="tekrarlananMenu">
+            <a class="dropdown-item" href="{{ site.url }}/her-yil-tekrarlanan-yarismalar/">Genel</a>
+            <a class="dropdown-item" href="{{ site.url }}/her-yil-tekrarlanan-oyku-yarismalari/">Öykü</a>
           </section>
-        </li>
-
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="eserlerMenu" role="button" data-toggle="dropdown"
-            aria-haspopup="true" aria-expanded="false">
-            Eserler
-          </a>
-          <section class="dropdown-menu" aria-labelledby="eserlerMenu">
-            <a class="dropdown-item" href="{{ site.url }}/kitaplarimiz/">Kitaplar</a>
-            <a class="dropdown-item" href="{{ site.url }}/hikayeler/">Hikayeler, Öyküler</a>
-            <a class="dropdown-item" href="{{ site.url }}/siirler/">Şiirler</a>
-            <a class="dropdown-item" href="{{ site.url }}/denemeler/">Denemeler</a>
-            <a class="dropdown-item" href="{{ site.url }}/incelemeler/">İncelemeler</a>
-          </section>
-        </li>
-
-        <li class="nav-item">
-          <a class="nav-link" href="{{ site.url }}/her-yil-tekrarlanan-yarismalar/" id="tekrarlananYarismalar" role="button"
-            aria-haspopup="true" aria-expanded="false">
-            Her Yıl Tekrarlanan Yarışmalar
-          </a>
-        </li>
-
-        <li class="nav-item">
-          <a class="nav-link" href="{{ site.url }}/her-yil-tekrarlanan-oyku-yarismalari/" id="tekrarlananOykuYarismalari" role="button"
-            aria-haspopup="true" aria-expanded="false">
-            Her Yıl Tekrarlanan Öykü Yarışmaları
-          </a>
         </li>
 
         <li class="nav-item">
@@ -150,13 +120,6 @@
           </a>
         </li>
       </ul>
-
-      <form class="form-inline my-2 my-lg-0">
-        <section id="search-container">
-          <input class="form-control mr-sm-2" type="text" id="search-input" placeholder="ara...">
-          <ul class="list-group" id="results-container" style="position: absolute;z-index:150;"></ul>
-        </section>
-      </form>
 
       <section class="pull-right">
         <a class="nav-link" href="https://forms.gle/KaERCCeUkMSSZgBDA" target="_blank" rel="nofollow">Yarışmanızı

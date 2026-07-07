@@ -11,9 +11,10 @@ comTopic: "Serbest"
 price: "3 Bin 500 TL'dir"
 attendance: "E-Posta"
 requirements: "18 yaşının üzerindeki tüm yazarlara açıktır"
-permalink: "muzaffer-izgu-roman-yarismasi"
+permalink: "muzaffer-izgu-roman-yarismasi-2021"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/muzaffer-izgu-cocuk-roman-yarismasi.jpg"
 excerpt: "Bilgi Yayınevinin düzenlediği 2021 Muzaffer İzgü Çocuk Romanı Yarışması için başvurular başladı."
+archived_to: "/muzaffer-izgu-roman-yarismasi"
 ---
 
 ## Muzaffer İzgü Çocuk Romanı Yarışması

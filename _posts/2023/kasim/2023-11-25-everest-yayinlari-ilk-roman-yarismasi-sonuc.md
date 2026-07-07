@@ -8,6 +8,7 @@ tags: [sonuç 2023]
 permalink: "everest-yayinlari-ilk-roman-yarismasi-sonuc"
 excerpt: "Everest Yayınları tarafından düzenlenen İlk Roman Yarışması kazananları belli olmuştur."
 image: "https://edebiyatyarismalari.com/images/2023/kasim/everest-yayinlari-ilk-roman-yarismasi-sonuc.jpg"
+archived_to: "/everest-yayinlari-ilk-roman-yarismasi"
 ---
 
 ## İlk Roman Yarışması Sonucu

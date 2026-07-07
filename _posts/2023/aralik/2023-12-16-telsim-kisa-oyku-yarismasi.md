@@ -11,9 +11,10 @@ comTopic: "Gelecek Yüzyılda Kıbrıs"
 attendance: "E-Posta"
 organizer: "Milli Eğitim Bakanlığı"
 requirements: "KKTC Millî Eğitim Bakanlığı’na bağlı resmî ve özel okullardaki Ortaokul (6.7.8.) ve Lise (9.10.11.12.) öğrencileri katılabilir."
-permalink: "telsim-kisa-oyku-yarismasi"
+permalink: "telsim-kisa-oyku-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2023/aralik/telsim-kisa-oyku-yarismasi.jpg"
 excerpt:  "Milli Eğitim Bakanlığı <strong> Telsim Kısa Öykü Yarışması </strong> düzenliyor."
+archived_to: "/telsim-kisa-oyku-yarismasi"
 ---
 
 ## Telsim Kısa Öykü Yarışması

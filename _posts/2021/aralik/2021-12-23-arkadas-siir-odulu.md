@@ -13,6 +13,7 @@ requirements: "Yarışmaya isteyen herkes katılabilir."
 permalink: "arkadas-z-ozger-siir-odulu-2022"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/arkadas-z-ozger-siir-odulu.jpg"
 excerpt: "Ölümünün 49. yıldönümünde <strong>Arkadaş Z. Özger Şiir Ödülü 2022 </strong> duyuruldu."
+archived_to: "/arkadas-z-ozger-siir-odulu"
 ---
 
 ## Arkadaş Z. Özger Şiir Ödülü 2022

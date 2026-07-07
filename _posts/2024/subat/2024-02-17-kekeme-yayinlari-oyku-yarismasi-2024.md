@@ -15,6 +15,7 @@ price: "Onur Belgesi + Plaket"
 permalink: "kekeme-yayinlari-oyku-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/subat/kekeme-yayinlari-oyku-yarismasi-2024.jpg"
 excerpt:  "Kekeme Yayınları <strong> öykü yarışması </strong> düzenliyor."
+archived_to: "/kkm-yayinlari-oyku-odulu"
 ---
 
 ## Kekeme Yayınları Öykü Ödülü

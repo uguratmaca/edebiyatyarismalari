@@ -8,6 +8,7 @@ tags: [sonuç 2024]
 permalink: "yunus-emre-tiyatro-yarismasi-sonuc"
 excerpt: "Eskişehir Büyükşehir Belediyesi tarafından düzenlenen Yunus Emre Edebiyat Armağanı Tiyatro Metni Yarışması kazananları belli olmuştur."
 image: "https://edebiyatyarismalari.com/images/2024/subat/yunus-emre-tiyatro-yarismasi-sonuc.jpg"
+archived_to: "/eskisehir-yunus-emre-edebiyat-armagani"
 ---
 
 ## Yunus Emre Edebiyat Armağanı Tiyatro Metni Yarışması Sonucu

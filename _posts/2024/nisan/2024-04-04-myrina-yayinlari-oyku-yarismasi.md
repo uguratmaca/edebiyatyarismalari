@@ -14,6 +14,7 @@ requirements: "İsteyen herkes katılabilir."
 permalink: "myrina-yayinlari-oyku-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/nisan/myrina-yayinlari-oyku-yarismasi.jpg"
 excerpt:  "Myrina Yayınları <strong> öykü yarışması </strong> düzenliyor."
+archived_to: "/myrina-yayinlari-oyku-yarismasi"
 ---
 
 ## Myrina Yayınları Öykü Yarışması

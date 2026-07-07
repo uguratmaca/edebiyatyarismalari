@@ -3,14 +3,14 @@ layout: post
 title: "A7 Kitap Sevim Burak Öykü Ödülü"
 description: "A7 Kitap Sevim Burak Öykü Ödülü'nü duyurdu"
 category: articles
-tags: [nisan 2026, hikaye yarışması, genel, kitap dosyası]
+tags: [her yıl tekrarlanan hikaye, nisan 2026, hikaye yarışması, genel, kitap dosyası]
 lastDate: 1775167200
 dateHuman: "3 Nisan 2026"
 attendance: "Posta, Kargo"
 comTopic: "Serbest"
 organizer: "A7 Kitap"
 requirements: "İsteyen herkes katılabilir"
-permalink: "a7-kitap-sevim-burak-oyku-odulu-2026"
+permalink: "a7-kitap-sevim-burak-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2025/aralik/sevim-burak-oyku-odulu-2026.jpg"
 excerpt: "A7 Kitap Sevim Burak Öykü Ödülü'nü duyurdu"
 ---
@@ -40,3 +40,9 @@ excerpt: "A7 Kitap Sevim Burak Öykü Ödülü'nü duyurdu"
 - Elfe Uluç
 
 - Sevim Burak’ın özgün öykücülüğünden ilhamla düzenlenen A7 Kitap Sevim Burak Öykü Ödülü, kitap bütünlüğü taşıyan öykü dosyalarını desteklemek amacıyla tüm yazarlara açık olarak gerçekleştirilmektedir. Birincilik ödülüne değer görülen dosya, 2026 yılı içinde A7 Kitap tarafından kitaplaştırılacaktır.
+
+### Geçmiş Yıllar
+
+A7 Kitap Sevim Burak Öykü Ödülü'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2024](/a7-kitap-sevim-burak-oyku-odulu-2024)

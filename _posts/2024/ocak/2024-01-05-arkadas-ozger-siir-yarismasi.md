@@ -13,6 +13,7 @@ requirements: "İsteyen herkes katılabilir."
 permalink: "arkadas-ozger-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/ocak/arkadas-ozger-siir-yarismasi.jpg"
 excerpt:  "Mayıs Yayınları <strong> Arkadaş Z. Özger Şiir Ödülü </strong> düzenliyor."
+archived_to: "/arkadas-z-ozger-siir-odulu"
 ---
 
 ## Arkadaş Z. Özger Şiir Ödülü

@@ -14,6 +14,7 @@ requirements: "Öykü yazmaya gönül vermiş tüm yurttaşlar katılabilir."
 permalink: "kamil-furtun-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/kasim/kamil-furtun-oyku-yarismasi.jpg"
 excerpt:  "Samsun Tabip Odası <strong> Dr.Kamil Furtun Öykü Yarışması </strong> düzenliyor."
+archived_to: "/dr-kamil-furtun-oyku-yarismasi"
 ---
 
 ## Dr.Kamil Furtun Öykü Yarışması

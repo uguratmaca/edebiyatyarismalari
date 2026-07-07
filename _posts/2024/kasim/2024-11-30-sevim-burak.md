@@ -9,10 +9,11 @@ dateHuman: "11 Nisan 2025"
 attendance: "Posta, Kargo"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
-permalink: "a7-kitap-sevim-burak-oyku-odulu"
+permalink: "a7-kitap-sevim-burak-oyku-odulu-2024"
 image: "https://edebiyatyarismalari.com/images/2024/kasim/sevim-burak-oyku-odulu.jpeg"
 organizer: "A7 Kitap"
 excerpt: "A7 Kitap Sevim Burak Öykü Ödülü son başvuru tarihi 11 Nisan 2025'dir"
+archived_to: "/a7-kitap-sevim-burak-oyku-odulu"
 ---
 
 ## A7 Kitap Sevim Burak Öykü Ödülü

@@ -4,7 +4,7 @@ title: "Ezber Bozan Tasarım Yarışması"
 description: "Ege İhracatçı Birlikleri 'Ezber Bozan Tasarım Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [ağustos 2023, tasarım yarışması, genel]
+tags: [her yıl tekrarlanan, ağustos 2023, tasarım yarışması, genel]
 lastDate: 1693170000
 hidden: true
 dateHuman: "28 Ağustos 2023"
@@ -12,7 +12,7 @@ attendance: "Kargo/Posta"
 organizer: "Ege İhracatçı Birlikleri"
 requirements: "Tüm tasarımcılar katılabilir."
 price: "240 Bin TL'dir."
-permalink: "ezber-bozan-tasarim-yarismasi-2023"
+permalink: "ezber-bozan-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/nisan/ezber-bozan-tasarim-yarismasi.jpg"
 excerpt:  "Ege İhracatçı Birlikleri <strong> Ezber Bozan Tasarım Yarışması </strong> düzenliyor."
 ---
@@ -42,3 +42,9 @@ Profesyonel Kategorisi:
 - Birinci: 75.000 TL
 - İkinci: 50.000 TL
 - Üçüncü: 25.000 TL
+
+### Geçmiş Yıllar
+
+Ezber Bozan Tasarım Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2022](/ezber-bozan-tasarim-yarismasi-2022)

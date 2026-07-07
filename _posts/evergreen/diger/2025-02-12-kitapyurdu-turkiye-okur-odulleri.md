@@ -3,14 +3,14 @@ layout: post
 title: "Kitapyurdu Türkiye Okur Ödülleri"
 description: "Kitapyurdu Türkiye Okur Ödülleri 2024 oylamaları başladı"
 category: articles
-tags: [mart 2025, genel]
+tags: [her yıl tekrarlanan, mart 2025, genel]
 lastDate: 1741561200
 dateHuman: "10 Mart 2025"
 attendance: "Websitesi"
 comTopic: "Serbest"
 organizer: "Kitapyurdu"
 requirements: "Kitapyurdu.com'da aday gösterilen kitaplar"
-permalink: "kitapyurdu-turkiye-okur-odulleri-2024"
+permalink: "kitapyurdu-turkiye-okur-odulleri"
 image: "https://edebiyatyarismalari.com/images/2025/subat/kitapyurdu-turkiye-okur-odulleri.jpg"
 excerpt:  "Kitapyurdu Türkiye Okur Ödülleri 2024 oylamaları başladı"
 ---
@@ -52,3 +52,9 @@ excerpt:  "Kitapyurdu Türkiye Okur Ödülleri 2024 oylamaları başladı"
 - Bir kitap aynı anda birkaç kategoride yer alabilir.
 
 ### [İlk kitabım kategorisindeki Hayvanat Bahçesi Macerası kitabıma oy vermek için tıklayın](https://www.kitapyurdu.com/index.php?route=contest/contest&category_id=10&product_id=678517){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+
+### Geçmiş Yıllar
+
+Kitapyurdu Türkiye Okur Ödülleri'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2024](/kitap-yurdu-oylama)

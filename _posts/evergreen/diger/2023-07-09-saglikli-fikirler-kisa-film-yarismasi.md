@@ -4,7 +4,7 @@ title: "Sağlıklı Fikirler Kısa Film Yarışması"
 description: "Yeşilay 'Sağlıklı Fikirler Kısa Film Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [ekim 2023, kısa film yarışması, üniversite]
+tags: [her yıl tekrarlanan, ekim 2023, kısa film yarışması, üniversite]
 lastDate: 1696539600
 dateHuman: "6 Ekim 2023"
 comTopic: "Gençlerin Gözünden Uyuşturucu Madde Bağımlılığı"
@@ -13,7 +13,7 @@ organizer: "Yeşilay"
 hidden: true
 price: "200 Bin TL'dir."
 requirements: "Türkiye genelinde ön lisans, lisans, yüksek lisans, doktora ve açık öğretim dahil üniversitelerde öğrenim gören tüm öğrenciler katılabilir."
-permalink: "saglikli-fikirler-kisa-film-yarismasi-2023"
+permalink: "saglikli-fikirler-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/temmuz/saglikli-fikirler-kisa-film-yarismasi-2023.jpg"
 excerpt:  "Yeşilay <strong> Sağlıklı Fikirler Kısa Film Yarışması </strong> düzenliyor."
 ---
@@ -51,3 +51,9 @@ Yeşilay **Sağlıklı Fikirler Kısa Film Yarışması** düzenliyor.
 
 
 ### [Başvuru Formu](https://kisafilm.yesilay.org.tr/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+
+### Geçmiş Yıllar
+
+Sağlıklı Fikirler Kısa Film Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2022](/saglikli-fikirler-kisa-film-yarismasi-2022)

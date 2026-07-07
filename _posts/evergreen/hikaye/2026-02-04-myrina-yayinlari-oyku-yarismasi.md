@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "Myrina Yayınları 2026 Yılı Öykü Yarışması"
-description: "Myrina Yayınları 2026 Yılı Öykü Yarışması son başvuru tarihi 30 Nisan 2026'dır."
+title: "Myrina Yayınları Öykü Yarışması"
+description: "Myrina Yayınları Öykü Yarışması son başvuru tarihi 30 Nisan 2026'dır."
 category: articles
-tags: [nisan 2026, hikaye yarışması, genel]
+tags: [her yıl tekrarlanan hikaye, nisan 2026, hikaye yarışması, genel]
 lastDate: 1777500000
 dateHuman: "30 Nisan 2026"
 comTopic: "Serbest"
 attendance: "E-Posta"
 organizer: "Myrina Yayınları"
 requirements: "İsteyen herkes katılabilir."
-permalink: "myrina-yayinlari-oyku-yarismasi-2026"
+permalink: "myrina-yayinlari-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/subat/myrina-yayinlari-oyku-yarismasi.jpg"
-excerpt:  "Myrina Yayınları 2026 Yılı Öykü Yarışması son başvuru tarihi 30 Nisan 2026'dır."
+excerpt:  "Myrina Yayınları Öykü Yarışması son başvuru tarihi 30 Nisan 2026'dır."
 ---
 
-## Myrina Yayınları 2026 Yılı Öykü Yarışması
+## Myrina Yayınları Öykü Yarışması
 
 - Öykü yarışmasında konu serbesttir. 
 - Yaş sınırı bulunmamaktadır. 
@@ -33,7 +33,7 @@ excerpt:  "Myrina Yayınları 2026 Yılı Öykü Yarışması son başvuru tarih
 - ÖYKÜ GÖNDERİ ADRESİ: **info@myrinayayinlari.com.tr**
 - YARIŞMACI BİLGİLERİ: Dosya ile birlikte; İsim, soy isim, telefon numarası, e-posta adresi ve kısa özgeçmiş içeren bir başvuru dosyası gönderiniz.
 
-## Myrina Yayınları 2026 Yılı Öykü Yarışması Jüri Üyeleri
+## Myrina Yayınları Öykü Yarışması Jüri Üyeleri
 
 - Prof. Dr. Cenker ATİLA
 - Çağdaş Onur ÖZTÜRK
@@ -41,4 +41,11 @@ excerpt:  "Myrina Yayınları 2026 Yılı Öykü Yarışması son başvuru tarih
 - Ufuk UYSAL
 - Kamer YILDIZ OK
 - Abdullah KARAKAYA
- 
+
+### Geçmiş Yıllar
+
+Myrina Yayınları Öykü Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2025](/myrina-yayinlari-oyku-yarismasi-2025)
+- [2024](/myrina-yayinlari-oyku-yarismasi-2024)
+- [2023](/myrina-yayinlari-oyku-yarismasi-2023)

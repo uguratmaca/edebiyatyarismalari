@@ -10,9 +10,10 @@ attendance: "Elden, Posta, Kargo"
 comTopic: "Serbest"
 price: "10000 TL"
 requirements: "İsteyen herkes katılabilir"
-permalink: "vedat-turkali-edebiyat-odulleri"
+permalink: "vedat-turkali-edebiyat-odulleri-2021"
 image: "https://edebiyatyarismalari.com/images/2020/aralik/vedat-turkali-edebiyat-odulleri.jpg"
 excerpt: "Vedat Türkali Edebiyat Ödülleri Roman, Şiir, Öykü ve Çeviri Kurmaca Eser olmak üzere 4 kategoride verilecektir."
+archived_to: "/vedat-turkali-edebiyat-odulleri"
 ---
 
 ## Vedat Türkali Edebiyat Ödülleri Şartları

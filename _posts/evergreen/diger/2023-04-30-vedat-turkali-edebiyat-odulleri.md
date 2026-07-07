@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "2023 Vedat Türkali Edebiyat Ödülleri"
-description: "Atakum Belediyesi '2023 Vedat Türkali Edebiyat Ödülleri' düzenliyor."
+title: "Vedat Türkali Edebiyat Ödülleri"
+description: "Atakum Belediyesi 'Vedat Türkali Edebiyat Ödülleri' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [mayıs 2023, roman yarışması, hikaye yarışması, şiir yarışması, çeviri yarışması, genel]
+tags: [her yıl tekrarlanan, mayıs 2023, roman yarışması, hikaye yarışması, şiir yarışması, çeviri yarışması, genel]
 lastDate: 1685480400
 dateHuman: "31 Mayıs 2023"
 attendance: "Elden/Kargo/Posta"
 organizer: "Atakum Belediyesi"
 requirements: "İsteyen herkes katılabilir."
-permalink: "vedat-turkali-edebiyat-odulleri-2023"
+permalink: "vedat-turkali-edebiyat-odulleri"
 image: "https://edebiyatyarismalari.com/images/2023/nisan/vedat-turkali-edebiyat-odulleri-2023.jpg"
-excerpt:  "Atakum Belediyesi <strong> 2023 Vedat Türkali Edebiyat Ödülleri </strong> düzenliyor."
+excerpt:  "Atakum Belediyesi <strong> Vedat Türkali Edebiyat Ödülleri </strong> düzenliyor."
 ---
 
-## 2023 Vedat Türkali Edebiyat Ödülleri
-Atakum Belediyesi **2023 Vedat Türkali Edebiyat Ödülleri** düzenliyor.  
+## Vedat Türkali Edebiyat Ödülleri
+Atakum Belediyesi **Vedat Türkali Edebiyat Ödülleri** düzenliyor.  
 
 Katılım Koşulları:
 - Vedat Türkali Edebiyat Ödülleri Atakum Belediyesi ve Edebiyat Nöbeti Dergisi tarafından düzenlenerek; Roman, Öykü, Şiir, İlk Roman ve Çeviri Kurmaca Eser olmak üzere 5 kategoride verilir.
@@ -30,3 +30,10 @@ Katılım Koşulları:
 - Yarışma sonuçları ve 5 kategorideki ödülleri kazananlar 03 Ekim 2023 tarihinde ilan edilecektir.
 - Jüri edebiyat veya kent kültürü alanında eser ve emek vermiş bir yazara Onur Ödülü verebilir.
 - Ödül töreni 2023 yılı Ekim ayı içinde Atakum Belediyesi’nin duyuracağı bir tarihte yapılacaktır. Ödül, her kategori için özel tasarlanan ödül heykelciğinden oluşmaktadır.
+
+### Geçmiş Yıllar
+
+Vedat Türkali Edebiyat Ödülleri'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2022](/vedat-turkali-edebiyat-odulleri-2022)
+- [2020](/vedat-turkali-edebiyat-odulleri-2021)

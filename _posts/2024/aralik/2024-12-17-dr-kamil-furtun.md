@@ -10,10 +10,11 @@ attendance: "E-Posta"
 price: "10 Bin TL'dir"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
-permalink: "dr-kamil-furtun-oyku-yarismasi"
+permalink: "dr-kamil-furtun-oyku-yarismasi-2025"
 image: "https://edebiyatyarismalari.com/images/2024/aralik/dr-kamil-furtun-oyku-yarismasi.jpg"
 organizer: "Samsun Tabip Odası"
 excerpt: "Samsun Tabip Odası Dr.Kamil Furtun adına Öykü Yarışması düzenliyor"
+archived_to: "/dr-kamil-furtun-oyku-yarismasi"
 ---
 
 ## Dr.Kamil Furtun Öykü Yarışması

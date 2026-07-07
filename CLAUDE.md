@@ -2,6 +2,10 @@
 
 Jekyll sitesi. Yarışma duyuruları `_posts/<yıl>/<ay>/` altında, klasör postun **eklendiği** yıl/ay'a göre belirlenir (görseller de aynı şekilde `images/<yıl>/<ay>/`).
 
+## Öncelik: SEO
+
+Bu proje için her zaman öncelik **SEO**'dur. Tasarım, UX, performans gibi konularda karar verirken de bu önceliği göz önünde bulundur (ör. semantic HTML, başlık hiyerarşisi, alt text, sayfa hızı, crawl edilebilirlik, structured data gibi etkenler tercih sebebidir).
+
 ## Front matter `tags` kuralları
 
 - Ay/yıl etiketi (ör. `ekim 2026`) postun eklendiği ayı değil, yarışmanın **son başvuru tarihinin** (dateHuman/lastDate) ay ve yılını gösterir.

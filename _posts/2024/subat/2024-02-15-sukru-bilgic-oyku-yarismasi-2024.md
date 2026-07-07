@@ -14,6 +14,7 @@ price: "10 Bin TL'dir."
 permalink: "sukru-bilgic-oyku-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/subat/sukru-bilgic-oyku-yarismasi-2024.jpg"
 excerpt:  "Şükrü Bilgiç Ailesi <strong> Şükrü Bilgiç Öykü Yarışması </strong> düzenliyor."
+archived_to: "/sukru-bilgic-oyku-yarismasi"
 ---
 
 ## Şükrü Bilgiç Öykü Yarışması

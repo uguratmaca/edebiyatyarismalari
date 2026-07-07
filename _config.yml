@@ -5,11 +5,10 @@ description: "Ülkemizde düzenlenen şiir yarışması, öykü yarışması, hi
 master_repo: false
 markdown: kramdown
 highlighter: rouge
-plugins: ['jekyll-gist', 'jekyll-feed', 'jekyll-sitemap', 'jekyll-last-modified-at']
+plugins: ['jekyll-gist', 'jekyll-feed', 'jekyll-sitemap']
 exclude: [".claude", "vendor", ".bundle", "node_modules"]
 logo: logo.png
 twitter: https://twitter.com/yarismaedebiyat
 facebook: https://www.facebook.com/yarismaedebiyat
 instagram: https://www.instagram.com/edebiyatyarisma
-google_analytics: 'UA-122320408-1'
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/Edebiyat.png?alt=media&token=6007c0df-3152-4516-845e-738053c775b2"

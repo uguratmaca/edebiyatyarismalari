@@ -10,9 +10,10 @@ dateHuman: "1 Temmuz 2023"
 attendance: "E-posta"
 organizer: "Özgür Öyküşiir Dergisi"
 requirements: "İsteyen herkes katılabilir."
-permalink: "enver-gokce-siir-odulu"
+permalink: "enver-gokce-siir-odulu-2023"
 image: "https://edebiyatyarismalari.com/images/2023/mart/enver-gokce-siir-odulu.jpg"
 excerpt:  "Özgür Öyküşiir Dergisi <strong> Enver Gökçe Toplumcu Şiir Ödülü </strong> düzenliyor."
+archived_to: "/enver-gokce-siir-odulu"
 ---
 
 ## Enver Gökçe Toplumcu Şiir Ödülü

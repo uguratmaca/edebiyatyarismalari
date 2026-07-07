@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Şükrü Bilgiç Öykü Yarışması"
-description: "15 Bin TL ödüllü Şükrü Bilgiç Yetişkin Öykü Ödülü 2025 başvuruya hazır"
+description: "15 Bin TL ödüllü Şükrü Bilgiç Yetişkin Öykü Ödülü başvuruya hazır"
 category: articles
-tags: [haziran 2025, hikaye yarışması, genel]
+tags: [her yıl tekrarlanan hikaye, haziran 2025, hikaye yarışması, genel]
 lastDate: 1751234400
 dateHuman: "30 Haziran 2025"
 attendance: "E-Posta"
@@ -11,12 +11,12 @@ comTopic: "Serbest"
 organizer: "Şükrü Bilgiç Ailesi"
 requirements: "İsteyen herkes katılabilir."
 price: "15 Bin TL'dir."
-permalink: "sukru-bilgic-oyku-odulu-2025"
+permalink: "sukru-bilgic-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/subat/sukru-bilgic-oyku-yarismasi-2024.jpg"
-excerpt:  "15 Bin TL ödüllü Şükrü Bilgiç Yetişkin Öykü Ödülü 2025 başvuruya hazır"
+excerpt:  "15 Bin TL ödüllü Şükrü Bilgiç Yetişkin Öykü Ödülü başvuruya hazır"
 ---
 
-## Şükrü Bilgiç Yetişkin Öykü Ödülü 2025
+## Şükrü Bilgiç Yetişkin Öykü Ödülü
 
 - Katılım herkese açıktır. Konu sınırlaması yoktur.
 - Sadece öykü başvuruları kabul edilmektedir.
@@ -42,3 +42,9 @@ excerpt:  "15 Bin TL ödüllü Şükrü Bilgiç Yetişkin Öykü Ödülü 2025 b
 - Sonuçların açıklanması: 1 Eylül 2025
 - Ödül Koordinatörü: Aymen Akçay Yazar
 - Ödül töreni günü ileride duyurulacaktır.
+
+### Geçmiş Yıllar
+
+Şükrü Bilgiç Öykü Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2024](/sukru-bilgic-oyku-yarismasi-2024)

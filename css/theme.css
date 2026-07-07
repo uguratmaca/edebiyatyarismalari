@@ -1,0 +1,194 @@
+:root {
+  --bg: #ffffff;
+  --bg-elevated: #f8f9fa;
+  --text: #212529;
+  --text-muted: #6c757d;
+  --border: #dee2e6;
+  --link: #007bff;
+  --link-hover: #0056b3;
+  --success: #28a745;
+  --danger: #dc3545;
+  --info-bg: #d1ecf1;
+  --info-text: #0c5460;
+  --info-border: #bee5eb;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #121212;
+    --bg-elevated: #1e1e1e;
+    --text: #e4e4e4;
+    --text-muted: #a8a8a8;
+    --border: #383838;
+    --link: #6ea8fe;
+    --link-hover: #9ec5fe;
+    --success: #57d768;
+    --danger: #ff6b6b;
+    --info-bg: #10333d;
+    --info-text: #9eeaf9;
+    --info-border: #1c4e5c;
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg: #121212;
+  --bg-elevated: #1e1e1e;
+  --text: #e4e4e4;
+  --text-muted: #a8a8a8;
+  --border: #383838;
+  --link: #6ea8fe;
+  --link-hover: #9ec5fe;
+  --success: #57d768;
+  --danger: #ff6b6b;
+  --info-bg: #10333d;
+  --info-text: #9eeaf9;
+  --info-border: #1c4e5c;
+}
+
+:root[data-theme="light"] {
+  --bg: #ffffff;
+  --bg-elevated: #f8f9fa;
+  --text: #212529;
+  --text-muted: #6c757d;
+  --border: #dee2e6;
+  --link: #007bff;
+  --link-hover: #0056b3;
+  --success: #28a745;
+  --danger: #dc3545;
+  --info-bg: #d1ecf1;
+  --info-text: #0c5460;
+  --info-border: #bee5eb;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+a {
+  color: var(--link);
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+.navbar-light,
+footer.bg-light,
+.bg-light {
+  background-color: var(--bg-elevated) !important;
+  border-color: var(--border);
+}
+
+.navbar-light .navbar-brand,
+.navbar-light .nav-link {
+  color: var(--text) !important;
+}
+
+.navbar-light .nav-link:hover {
+  color: var(--link) !important;
+}
+
+.dropdown-menu {
+  background-color: var(--bg-elevated);
+  border-color: var(--border);
+}
+
+.dropdown-item {
+  color: var(--text);
+  background-color: transparent;
+}
+
+.dropdown-item:hover,
+.dropdown-item:focus {
+  background-color: var(--border);
+  color: var(--text);
+}
+
+.dropdown-item-text {
+  color: var(--text);
+}
+
+.dropdown-divider {
+  border-color: var(--border);
+}
+
+hr {
+  border-color: var(--border);
+}
+
+.text-muted {
+  color: var(--text-muted) !important;
+}
+
+.text-success {
+  color: var(--success) !important;
+}
+
+.text-danger {
+  color: var(--danger) !important;
+}
+
+.pagination .page-link {
+  background-color: var(--bg-elevated);
+  border-color: var(--border);
+  color: var(--link);
+}
+
+.pagination .page-item.active .page-link {
+  background-color: var(--link);
+  border-color: var(--link);
+  color: var(--bg);
+}
+
+.list-group-item {
+  background-color: var(--bg-elevated);
+  border-color: var(--border);
+  color: var(--text);
+}
+
+.list-group-item a {
+  color: var(--link);
+}
+
+.form-control {
+  background-color: var(--bg-elevated);
+  border-color: var(--border);
+  color: var(--text);
+}
+
+.form-control:focus {
+  background-color: var(--bg-elevated);
+  color: var(--text);
+}
+
+.btn-outline-secondary {
+  color: var(--text);
+  border-color: var(--border);
+}
+
+.btn-outline-secondary:hover {
+  background-color: var(--border);
+  color: var(--text);
+}
+
+.alert-info {
+  background-color: var(--info-bg);
+  border-color: var(--info-border);
+  color: var(--info-text);
+}
+
+#theme-toggle {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 0.25rem;
+  padding: 0.25rem 0.6rem;
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+#theme-toggle:hover {
+  background-color: var(--border);
+}

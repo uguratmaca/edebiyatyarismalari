@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Sürdürülebilirlik Fikir Yarışması 2023"
-description: "Çevre Dostu Yeşil Binalar Derneği (ÇEDBİK) 'Sürdürülebilirlik Fikir Yarışması 2023' düzenliyor."
+title: "Sürdürülebilirlik Fikir Yarışması"
+description: "Çevre Dostu Yeşil Binalar Derneği (ÇEDBİK) 'Sürdürülebilirlik Fikir Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [eylül 2023, fikir yarışması, tasarım yarışması, üniversite]
+tags: [her yıl tekrarlanan, eylül 2023, fikir yarışması, tasarım yarışması, üniversite]
 lastDate: 1694984400
 dateHuman: "18 Eylül 2023"
 comTopic: "Dönüşümü Tasarlamak"
@@ -12,13 +12,13 @@ attendance: "E-posta"
 organizer: "Çevre Dostu Yeşil Binalar Derneği (ÇEDBİK)"
 hidden: true
 requirements: "Türkiye ve yurt dışındaki üniversitelerin lisans ve lisansüstü, mimarlık, mühendislik, tasarım ve sanat fakültelerinde okuyan öğrenciler katılabilir."
-permalink: "surdurulebilirlik-fikir-yarismasi-2023"
+permalink: "surdurulebilirlik-fikir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/temmuz/surdurulebilirlik-fikir-yarismasi-2023.jpg"
-excerpt:  "Çevre Dostu Yeşil Binalar Derneği (ÇEDBİK) <strong> Sürdürülebilirlik Fikir Yarışması 2023 </strong> düzenliyor."
+excerpt:  "Çevre Dostu Yeşil Binalar Derneği (ÇEDBİK) <strong> Sürdürülebilirlik Fikir Yarışması </strong> düzenliyor."
 ---
 
-## Sürdürülebilirlik Fikir Yarışması 2023
-Çevre Dostu Yeşil Binalar Derneği (ÇEDBİK) **Sürdürülebilirlik Fikir Yarışması 2023** düzenliyor.
+## Sürdürülebilirlik Fikir Yarışması
+Çevre Dostu Yeşil Binalar Derneği (ÇEDBİK) **Sürdürülebilirlik Fikir Yarışması** düzenliyor.
 
 Katılım Koşulları:
 - Yarışma ekip katılımına açık olup, yarışmacıların her birinin aşağıdaki koşulların tamamına uymaları zorunludur.
@@ -37,5 +37,11 @@ Katılım Koşulları:
 - Yarışmaya katılım ücretsizdir.
 - Yukarıdaki şartların herhangi birine uyulmadığı tespit edilen yarışmacıların ve ekiplerin başvurusu geçersiz sayılacaktır.
 
-### Sürdürülebilirlik Fikir Yarışması 2023 Ödülleri
+### Sürdürülebilirlik Fikir Yarışması Ödülleri
 - Ödül miktarları ileriki zamanlarda internet sayfası ve sosyal medya üzerinden duyurulacaktır.
+
+### Geçmiş Yıllar
+
+Sürdürülebilirlik Fikir Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2022](/surdurulebilirlik-fikir-yarismasi-2022)

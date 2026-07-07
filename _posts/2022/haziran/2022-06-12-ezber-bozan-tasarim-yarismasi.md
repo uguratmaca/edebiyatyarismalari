@@ -13,9 +13,10 @@ attendance: "Websitesi"
 organizer: "Ege İhracatçı Birlikleri"
 price: "220 Bin TL'dir."
 requirements: "üniversitelerin Mimarlık, Mühendislik, Sanat ve Tasarım, Güzel Sanatlar ve Tasarım Fakültelerinin lisans bölümleri, tasarım ve/veya mobilya ile ilgili lisans ya da ön lisans bölümü/programı öğrencileri katılabilir."
-permalink: "ezber-bozan-tasarim-yarismasi"
+permalink: "ezber-bozan-tasarim-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/haziran/ezber-bozan-tasarim-yarismasi.jpg"
 excerpt:  "Ege İhracatçı Birlikleri <strong> Ezber Bozan Tasarım Yarışması </strong> düzenliyor."
+archived_to: "/ezber-bozan-tasarim-yarismasi"
 ---
 
 ## Ezber Bozan Tasarım Yarışması

@@ -12,6 +12,7 @@ requirements: "Yarışmaya Millî Eğitim ve Kültür Bakanlığı’na bağlı 
 permalink: "telsim-kibris-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/kasim/telsim-kibris-kisa-oyku-yarismasi.png"
 excerpt: "Milli Eğitim ve Kültür Bakanlığı, Telsim ile birlikte ülkemizin geleceği olan çocukların ve gençlerin, okuyan, yazan, sorgulayan, araştıran, düşünen bireyler olarak yetişmesine katkı koymak, onlara edebiyatı sevdirmek, geleceğin yazarlarına fırsat vermek ve onları teşvik etmek amacıyla, Ortaokullar ve Liseler Arası Kısa Öykü Yarışması düzenliyor."
+archived_to: "/telsim-kisa-oyku-yarismasi"
 ---
 
 ## Telsim Kısa Öykü Yarışması Şartları

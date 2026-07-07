@@ -4,14 +4,14 @@ title: "Enerji Bakanlığı Öykü Yarışması"
 description: "Enerji Bakanlığı 'öykü yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [kasım 2023, makale yarışması, ortaokul]
+tags: [her yıl tekrarlanan hikaye, kasım 2023, makale yarışması, ortaokul]
 lastDate: 1699563600
 dateHuman: "10 Kasım 2023"
 attendance: "Okul Müdürlükleri"
 organizer: "Enerji Bakanlığı"
 requirements: "Milli Eğitim Bakanlığına bağlı resmi ve özel ortaokulların (5-6–7 ve 8 inci sınıflar) öğrencileri katılabilir."
 price: "Tablet'dir"
-permalink: "enerji-bakanligi-oyku-yarismasi-2023"
+permalink: "enerji-bakanligi-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/ekim/enerji-bakanligi-oyku-yarismasi-2023.jpg"
 excerpt:  "Enerji Bakanlığı <strong> öykü yarışması </strong> düzenliyor."
 ---
@@ -37,3 +37,9 @@ Katılım Koşulları:
 - Birinci: Tablet
 - İkinci: Tablet
 - Üçüncü: Tablet
+
+### Geçmiş Yıllar
+
+Enerji Bakanlığı Öykü Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2022](/enerji-bakanligi-oyku-yarismasi-2022)

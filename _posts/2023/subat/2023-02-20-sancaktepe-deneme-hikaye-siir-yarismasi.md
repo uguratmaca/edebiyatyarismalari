@@ -11,9 +11,10 @@ comTopic: "Serbest"
 attendance: "E-Posta"
 organizer: "Sancaktepe Belediyesi"
 requirements: "15-25 yaş arası gençler katılabilir."
-permalink: "sancaktepe-deneme-hikaye-siir-yarismasi"
+permalink: "sancaktepe-deneme-hikaye-siir-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/subat/sancaktepe-deneme-hikaye-siir-yarismasi.jpg"
 excerpt:  "Sancaktepe Belediyesi <strong> Genç Kalemler Deneme, Hikaye ve Şiir Yarışması </strong> düzenliyor."
+archived_to: "/sancaktepe-deneme-hikaye-siir-yarismasi"
 ---
 
 ## Genç Kalemler Deneme, Hikaye ve Şiir Yarışması

@@ -3,14 +3,14 @@ layout: post
 title: "Telsim Kısa Öykü Yarışması"
 description: "Telsim’in Milli Eğitim Bakanlığı iş birliğinde düzenlediği Ortaokul ve Liseler Arası V. Kısa Öykü Yarışması başvuruları başladı."
 category: articles
-tags: [mart 2025, hikaye yarışması, ortaokul, lise, kıbrıs]
+tags: [her yıl tekrarlanan hikaye, mart 2025, hikaye yarışması, ortaokul, lise, kıbrıs]
 lastDate: 1743116400
 dateHuman: "28 Mart 2025"
 comTopic: "Kıbrıs’ın eşsiz coğrafyasını, tarihî yapıları ve efsaneleriyle harmanlayarak özgün ve etkileyici bir fantastik kurgu yaratmak."
 attendance: "E-Posta"
 organizer: "Telsim"
 requirements: "Yarışmaya KKTC Millî Eğitim Bakanlığı’na bağlı resmî ve özel okullardaki Ortaokul (6.7.8.) ve Lise (9.10.11.12.) öğrencileri katılabileceklerdir"
-permalink: "telsim-kisa-oyku-yarismasi-5"
+permalink: "telsim-kisa-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/ocak/telsim-kisa-oyku-yarismasi.png"
 excerpt: "Telsim’in Milli Eğitim Bakanlığı iş birliğinde düzenlediği Ortaokul ve Liseler Arası V. Kısa Öykü Yarışması başvuruları başladı."
 ---
@@ -47,3 +47,11 @@ Kısa Öykü Yarışması’nın konusu “Kıbrıs’ın eşsiz coğrafyasını
 - Yarışmaya Telsim çalışanlarının birinci derece akrabaları katılamaz. 
 
 ### [Başvuru formu için](https://www.kktctelsim.com/tr/yarismalar/467/telsim-kisa-oyku-yarismasi?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+
+### Geçmiş Yıllar
+
+Telsim Kısa Öykü Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2023](/telsim-kisa-oyku-yarismasi-2024)
+- [2022](/telsim-oyku-yarismasi)
+- [2020](/telsim-kibris-oyku-yarismasi)
