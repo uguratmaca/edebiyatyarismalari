@@ -1,7 +1,7 @@
 ---
 layout: simple
 headline: "Kompozisyon Nedir?"
-title: "Kompozisyon Nedir? | Edebiyat Yarışmaları"
+title: "Kompozisyon Nedir?"
 permalink: "kompozisyon-nedir/"
 description: "Kompozisyon nedir, sözlü ve yazılı kompozisyon arasındaki fark nedir? Kompozisyon türünün özelliklerini bu sayfada öğrenebilirsiniz."
 ---

@@ -8,7 +8,7 @@
   } catch (e) {}
 })();
 </script>
-{% capture page_title %}{% if page.title and page.title != site.title %}{% include dynamic-year.html text=page.title %} &#8211; {{ site.title }}{% elsif page.title %}{% include dynamic-year.html text=page.title %}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+{% capture page_title %}{% if page.title and page.title != site.title %}{% include dynamic-year.html text=page.title %} &#8211; {{ site.name }}{% elsif page.title %}{% include dynamic-year.html text=page.title %}{% else %}{{ site.description }}{% endif %}{% endcapture %}
 <title>{{ page_title }}</title>
 {% capture page_description %}{% if page.description %}{% include dynamic-year.html text=page.description %}{% else %}{{ site.description }}{% endif %}{% endcapture %}
 <meta name="description"
@@ -25,7 +25,7 @@
 <meta property="og:description"
     content="{{ page_description }}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:site_name" content="{{ site.name }}">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}">
 <meta property="og:image:width" content="1200">

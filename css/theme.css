@@ -214,3 +214,9 @@ hr {
 #theme-toggle:hover {
   background-color: var(--border);
 }
+
+.hero-img {
+  aspect-ratio: 1200 / 630;
+  object-fit: contain;
+  background-color: var(--bg-elevated);
+}

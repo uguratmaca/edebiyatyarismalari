@@ -1,7 +1,7 @@
 ---
 layout: simple
 headline: "Hikaye Nedir?"
-title: "Hikaye, Öykü Nedir? | Edebiyat Yarışmaları"
+title: "Hikaye, Öykü Nedir?"
 permalink: "hikaye-nedir/"
 description: "Hikaye (öykü) nedir, türleri nelerdir? Ömer Seyfettin, Sait Faik Abasıyanık gibi Türk edebiyatının usta hikayecilerini ve eserlerini bu sayfada inceleyebilirsiniz."
 ---

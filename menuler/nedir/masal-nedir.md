@@ -1,7 +1,7 @@
 ---
 layout: simple
 headline: "Masal Nedir?"
-title: "Masal Nedir? | Edebiyat Yarışmaları"
+title: "Masal Nedir?"
 permalink: "masal-nedir/"
 description: "Masal nedir, özellikleri nelerdir? Ziya Gökalp, Eflatun Cem Güney gibi yazarların masal türündeki eserleriyle birlikte bu sayfada inceleyebilirsiniz."
 ---

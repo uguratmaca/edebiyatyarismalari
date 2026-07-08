@@ -14,3 +14,11 @@ Bu proje için her zaman öncelik **SEO**'dur. Tasarım, UX, performans gibi kon
 ## `lastDate` hesaplama
 
 `lastDate`, son başvuru tarihinin (dateHuman) İstanbul saatiyle gece yarısı (00:00) karşılığının Unix epoch'udur — yani `dateHuman` gününden bir gün önce, saat 21:00 UTC.
+
+## Değerlendirilecek: eski/bitmiş postlarda noindex
+
+Sitede binlerce (2018'den beri ~2000) yarışma duyurusu var; çoğu tek seferlik ve bir daha tekrarlanmayan, bitmiş yarışmalar. Şu an hepsi `index, follow` — hiçbirine `noindex` uygulanmıyor.
+
+Bu bilinçli olarak ertelendi (2026-07 tarihli SEO incelemesinde gündeme geldi): eski postlara noindex eklemek sitenin "güncel/aktif" sinyalini güçlendirebilir, ama bazı eski sayfalar backlink/referans değeri taşıyabilir ve noindex bunu siler. Binlerce dosyayı tek tek "gerçekten tekrarlanmıyor mu" diye evergreen sistemle karşılaştırmak da hata payı yüksek, zaman alıcı bir iş.
+
+Karar: Şimdilik dokunulmuyor. İleride ele alınırsa, önce hangi postların gerçekten hiç tekrarlanmadığını (evergreen/"her yıl tekrarlanan" sistemine dahil olmayanları) belirleyecek bir kritere ihtiyaç var.

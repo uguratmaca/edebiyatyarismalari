@@ -1,7 +1,7 @@
 ---
 layout: simple
 headline: "Tüm Kategoriler"
-title: "Tüm Edebiyat Yarışması Kategorileri | Edebiyat Yarışmaları"
+title: "Tüm Edebiyat Yarışması Kategorileri"
 permalink: "tum-kategoriler/"
 description: "Şiir, hikaye, roman, senaryo, resim, fotoğraf ve daha birçok türde edebiyat yarışması kategorisine buradan ulaşabilirsiniz."
 ---

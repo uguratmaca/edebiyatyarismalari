@@ -1,7 +1,7 @@
 ---
 layout: simple
 headline: "Tiyatro Nedir?"
-title: "Tiyatro Nedir? | Edebiyat Yarışmaları"
+title: "Tiyatro Nedir?"
 permalink: "tiyatro-nedir/"
 description: "Tiyatro nedir, oyun ve müellif ne demektir? Aziz Nesin, Necip Fazıl Kısakürek gibi yazarların tiyatro eserleriyle birlikte bu sayfada inceleyebilirsiniz."
 ---

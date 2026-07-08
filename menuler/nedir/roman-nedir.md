@@ -1,7 +1,7 @@
 ---
 layout: simple
 headline: "Roman Nedir?"
-title: "Roman Nedir? | Edebiyat Yarışmaları"
+title: "Roman Nedir?"
 permalink: "roman-nedir/"
 description: "Roman nedir, özellikleri ve türleri nelerdir? Halide Edip Adıvar, Reşat Nuri Güntekin gibi Türk edebiyatının usta romancılarını bu sayfada inceleyebilirsiniz."
 ---

@@ -1,7 +1,7 @@
 ---
 layout: simple
 headline: "Mektup Nedir?"
-title: "Mektup Nedir? | Edebiyat Yarışmaları"
+title: "Mektup Nedir?"
 permalink: "mektup-nedir/"
 description: "Mektup nedir, türleri nelerdir? Fuzuli, Ahmet Hamdi Tanpınar gibi yazarların mektup türündeki eserleriyle birlikte bu sayfada inceleyebilirsiniz."
 ---

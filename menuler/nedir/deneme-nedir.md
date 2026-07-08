@@ -1,7 +1,7 @@
 ---
 layout: simple
 headline: "Deneme Nedir?"
-title: "Deneme Nedir? | Edebiyat Yarışmaları"
+title: "Deneme Nedir?"
 permalink: "deneme-nedir/"
 description: "Deneme nedir, özellikleri nelerdir? Nurullah Ataç, Suut Kemal Yetkin gibi yazarların deneme türündeki eserleriyle birlikte bu sayfada inceleyebilirsiniz."
 ---

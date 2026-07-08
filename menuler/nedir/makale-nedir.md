@@ -1,7 +1,7 @@
 ---
 layout: simple
 headline: "Makale Nedir?"
-title: "Makale Nedir? | Edebiyat Yarışmaları"
+title: "Makale Nedir?"
 permalink: "makale-nedir/"
 description: "Makale nedir, edebi ve mesleki makale arasındaki fark nedir? Namık Kemal, Ziya Gökalp gibi yazarların makale türündeki eserleriyle birlikte bu sayfada inceleyebilirsiniz."
 ---

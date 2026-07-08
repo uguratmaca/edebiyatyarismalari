@@ -1,7 +1,7 @@
 ---
 layout: simple
 headline: "Senaryo Nedir?"
-title: "Senaryo Nedir? | Edebiyat Yarışmaları"
+title: "Senaryo Nedir?"
 permalink: "senaryo-nedir/"
 description: "Senaryo nedir, nasıl yazılır? Ece Yörenç, Onur Ünlü gibi ünlü senaristlerin eserleriyle birlikte senaryo türünü bu sayfada inceleyebilirsiniz."
 ---

@@ -1,7 +1,7 @@
 ---
 layout: simple
 headline: "Şiir Nedir?"
-title: "Şiir Nedir? | Edebiyat Yarışmaları"
+title: "Şiir Nedir?"
 permalink: "siir-nedir/"
 description: "Şiir nedir, özellikleri nelerdir? Mehmet Akif Ersoy, Nazım Hikmet, Attila İlhan gibi Türk edebiyatının usta şairlerini ve eserlerini bu sayfada inceleyebilirsiniz."
 ---
