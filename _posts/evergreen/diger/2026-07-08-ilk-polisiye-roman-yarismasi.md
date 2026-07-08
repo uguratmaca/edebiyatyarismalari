@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3. İlk Polisiye Roman Yarışması"
+title: "İlk Polisiye Roman Yarışması"
 description: "Mahal Edebiyat ve SUÇÜSTÜ iş birliğiyle 3. İlk Polisiye Roman Yarışması başvuruları başladı"
 category: articles
 tags: [her yıl tekrarlanan, aralık 2026, roman yarışması, polisiye, genel]
@@ -15,7 +15,7 @@ image: "https://edebiyatyarismalari.com/images/2026/temmuz/ilk-polisiye-roman-ya
 excerpt: "Mahal Edebiyat ve SUÇÜSTÜ iş birliğiyle 3. İlk Polisiye Roman Yarışması başvuruları başladı"
 ---
 
-## 3. İlk Polisiye Roman Yarışması
+## İlk Polisiye Roman Yarışması
 
 Edebiyatımıza polisiye türünde yeni yazarlar kazandırma misyonu ile 2024 yılında SUÇÜSTÜ ve Mahal Edebiyat iş birliğiyle başlattığımız ‘**İlk Polisiye Roman Yarışması**’nın üçüncüsü için başvurular başladı! İlk yılında Umut Kaygısız’ın “Küpelerini Tak Anne” ve ikinci yılında Nadide Acar Yılmaz’ın “Şüphe” isimli eserlerinin birincilikle taçlandırıldığı yarışma yeni adaylarını aramaya başladı. Tıpkı iki yıldır olduğu gibi yayımlanmış hiç eseriniz yoksa, polisiye türünün gereksinimlerini karşılayan roman dosyanız ile siz de bu yarışmaya katılabilirsiniz.
 

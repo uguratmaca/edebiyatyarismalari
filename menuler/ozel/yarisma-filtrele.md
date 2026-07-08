@@ -1,19 +1,9 @@
 ---
 layout: default
 title: "Yarışma Filtrele | Sana Uygun Edebiyat Yarışmasını Bul"
-description: "Yaş grubuna (ilkokul, ortaokul, lise, üniversite) ve yarışma türüne göre güncel edebiyat yarışmalarını filtreleyerek listeleyin."
+description: "Yarışma türüne ve yaş grubuna (ilkokul, ortaokul, lise, üniversite) göre güncel edebiyat yarışmalarını filtreleyerek listeleyin."
 permalink: "yarisma-filtrele/"
 filterGroups:
-  - id: audience
-    label: "Kimler Katılabilir?"
-    options:
-      - genel
-      - ilkokul
-      - ortaokul
-      - lise
-      - üniversite
-      - kadın
-      - öğretmen
   - id: type
     label: "Yarışma Türü"
     options:
@@ -38,6 +28,16 @@ filterGroups:
       - anı yarışması
       - kitap dosyası
       - kitap okuma yarışması
+  - id: audience
+    label: "Kimler Katılabilir?"
+    options:
+      - genel
+      - ilkokul
+      - ortaokul
+      - lise
+      - üniversite
+      - kadın
+      - öğretmen
   - id: attendance
     label: "Gönderim Şekli"
     options:
@@ -52,7 +52,7 @@ filterGroups:
 
 <section class="p-2">
   <h1>Yarışma Filtrele</h1>
-  <p>Kimlerin katılabileceğini, yarışma türünü ve gönderim şeklini seçerek güncel duyuruları daraltabilirsiniz. (Deneme sürümü)</p>
+  <p>Yarışma türünü, kimlerin katılabileceğini ve gönderim şeklini seçerek güncel duyuruları daraltabilirsiniz.</p>
 
   <section class="row">
     {% for group in page.filterGroups %}
