@@ -1,29 +1,29 @@
 ---
 layout: post
 title: "Seyhan Livaneli Öykü Yarışması"
-description: "Eksik Parça Yayınları'nın öykü türünde kitabı yayımlanmamış 18 yaş üstü yazar ve yazar adaylarına yönelik Seyhan Livaneli Öykü Yarışması'na başvurular başladı."
+description: "Edisyon Kitap'ın öykü türünde kitabı yayımlanmamış 18 yaş üstü yazar ve yazar adaylarına yönelik Seyhan Livaneli Öykü Yarışması'na başvurular başladı."
 date: 2025-08-10
 category: articles
-tags: [her yıl tekrarlanan hikaye, ekim 2025, hikaye yarışması, genel]
-lastDate: 1760479200
-dateHuman: "15 Ekim 2025"
+tags: [her yıl tekrarlanan hikaye, ekim 2026, hikaye yarışması, genel]
+lastDate: 1792011600
+dateHuman: "15 Ekim 2026"
 attendance: "E-Posta"
-comTopic: "Vicdan"
-organizer: "Eksik Parça Yayınları"
+comTopic: "Değişim"
+organizer: "Edisyon Kitap"
 requirements: "18 yaş üzeri herkes katılabilir."
 permalink: "seyhan-livaneli-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/agustos/7-seyhan-livaneli-oyku-odulu.jpg"
-excerpt: "Eksik Parça Yayınları'nın öykü türünde kitabı yayımlanmamış 18 yaş üstü yazar ve yazar adaylarına yönelik Seyhan Livaneli Öykü Yarışması'na başvurular başladı."
+image: "https://edebiyatyarismalari.com/images/2026/temmuz/seyhan-livaneli-oyku-yarismasi-2026.jpg"
+excerpt: "Edisyon Kitap'ın öykü türünde kitabı yayımlanmamış 18 yaş üstü yazar ve yazar adaylarına yönelik Seyhan Livaneli Öykü Yarışması'na başvurular başladı."
 ---
 
 ## Seyhan Livaneli Öykü Yarışması
 
-Eksik Parça Yayınları, öykü türünde kitabı yayımlanmamış 18 yaş üzeri yazar ve yazar adaylarına yönelik **Seyhan Livaneli Öykü Yarışması**'nı her yıl düzenliyor.
+Edisyon Kitap, öykü türünde kitabı yayımlanmamış 18 yaş üzeri yazar ve yazar adaylarına yönelik **Seyhan Livaneli Öykü Yarışması**'nı her yıl düzenliyor.
 
 - Ödül, öykü türünde kitabı yayımlanmamış 18 yaş üzeri yazar ve yazar adaylarına açıktır. (Diğer türlerde kitabı yayımlanmış olmak, başvurmaya engel değildir.)
 - Ödüle, iki öyküyle başvurulur. Öyküler elektronik ortamda veya kâğıt baskı olarak yayımlanmamış, başka bir yarışmadan ödül almamış olmalı ve yarışmanın sonucu açıklanana kadar yayımlanmamalıdır.
 - Her biri en fazla 1500 sözcük uzunluğunda iki öykü, tek Word dosyası içinde gönderilmelidir.
-- Başvuru, adayın kendisi tarafından **seyhanlivanelioykuyarismasi@eksikparca.com** e-posta adresine gönderilmelidir.
+- Başvuru, adayın kendisi tarafından **seyhanlivanelioykuyarismasi@edisyonkitap.com** e-posta adresine gönderilmelidir.
 - Başvuru için gönderilen e-posta, iki Word dosyasından oluşmalıdır:
     - Birinci dosyada yazarın/yazar adayının adı, iki öyküsünün adları, belirlediği rumuz, adresi, cep telefonu, e-posta adresi ve kısa özgeçmiş bilgisi bulunmalıdır.
     - İki öykünün yer alacağı diğer dosyaya yazarın adı yazılmayacaktır.
@@ -31,9 +31,9 @@ Eksik Parça Yayınları, öykü türünde kitabı yayımlanmamış 18 yaş üze
 - Düzenleme kurulu, jüri üyelerine, ön elemeden geçen adayların dosyalarını isimsiz iletecektir.
 - Düzenleme kurulu, adayların dosyalarını yönetmeliğe uygunluk, özensizlik, belirgin anlatım sorunu, yazım hatası gibi yönlerden inceleyecektir. Yarışmayı düzenleyen kurum ön seçici kurul oluşturma yetkisine sahiptir.
 - Ödüle gönderilen öykülerin hukukî sorumluluğu yazarına aittir. İntihal veya üçüncü kişilerin telif hakkı gibi durumlarda, sorumluluk yazara aittir.
-- Yarışma teması her yıl değişir; en güncel dönemin teması **"Vicdan"** olarak belirlenmiştir.
+- Yarışma teması her yıl değişir; en güncel dönemin teması **"Değişim"** olarak belirlenmiştir.
 - Seçici Kurul üyelerinin birinci derece yakınları, önceki senelerde ödül alan veya finale kalan yazarlar ödüle başvuramaz.
-- Ödülü kazanan yazarın öykü dosyası, Eksik Parça Yayınları tarafından kitaplaştırılır. Yarışma sonucu açıklanana kadar katılımcılar başka bir yayıneviyle kitap anlaşması yapamaz.
+- Ödülü kazanan yazarın öykü dosyası, Edisyon Kitap tarafından kitaplaştırılır. Yarışma sonucu açıklanana kadar katılımcılar başka bir yayıneviyle kitap anlaşması yapamaz.
 - Yarışma sonucu, Seyhan Livaneli'nin doğum günü olan 22 Ocak'ta açıklanır; ödül töreni ise izleyen nisan ayında düzenlenir.
 
 ### Seyhan Livaneli Öykü Yarışması Seçici Kurulu

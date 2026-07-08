@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "5. Sabahattin Ali Öykü Yazma Yarışması"
-description: "Özel Fenerbahçe Anadolu Lisesi '5. Sabahattin Ali Öykü Yazma Yarışması' düzenliyor."
+title: "Sabahattin Ali Öykü Yazma Yarışması"
+description: "Özel Fenerbahçe Anadolu Lisesi 'Sabahattin Ali Öykü Yazma Yarışması' düzenliyor."
 date: 2022-04-08
 author: "Yasemin Eyüpoğlu"
 category: articles
@@ -15,11 +15,11 @@ organizer: "Özel Fenerbahçe Anadolu Lisesi"
 requirements: "Türkiye geneli resmi-özel lisede okuyan öğrenciler yarışmaya katılabilir."
 permalink: "sabahattin-ali-oyku-yazma-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/sabahattin-ali-oyku-yazma-yarismasi.jpg"
-excerpt:  "Özel Fenerbahçe Anadolu Lisesi <strong> 5. Sabahattin Ali Öykü Yazma Yarışması </strong> düzenliyor."
+excerpt:  "Özel Fenerbahçe Anadolu Lisesi <strong> Sabahattin Ali Öykü Yazma Yarışması </strong> düzenliyor."
 ---
 
-## 5. Sabahattin Ali Öykü Yazma Yarışması
-Özel Fenerbahçe Anadolu Lisesi **5. Sabahattin Ali Öykü Yazma Yarışması** düzenliyor.
+## Sabahattin Ali Öykü Yazma Yarışması
+Özel Fenerbahçe Anadolu Lisesi **Sabahattin Ali Öykü Yazma Yarışması**'nı her yıl düzenliyor.
 
 Katılım Koşulları:
 - Katılımcılar yarışmaya tek bir öykü gönderebilir.
@@ -33,7 +33,7 @@ Yarışma Şartları:
 - Öyküler, 4 sayfadan fazla olmamalıdır.
 
 
-### 5. Sabahattin Ali Öykü Yazma Yarışması Ödülleri
+### Sabahattin Ali Öykü Yazma Yarışması Ödülleri
 - Birinci: 2000 TL
 - İkinci: 1500 TL 
 - Üçüncü: 1000 TL 
