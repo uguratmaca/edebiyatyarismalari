@@ -11,6 +11,7 @@ comTopic: "Serbest"
 organizer: "Mahal Edebiyat ve SUÇÜSTÜ"
 requirements: "İsteyen herkes katılabilir"
 permalink: "2-ilk-polisiye-roman-yarismasi"
+archived_to: "/ilk-polisiye-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/ekim/2-ilk-polisiye-roman-duyuru.webp"
 excerpt: "Mahal Edebiyat ve SUÇÜSTÜ iş birliğiyle 2. İlk Polisiye Roman Yarışması başvuruları başladı"
 ---

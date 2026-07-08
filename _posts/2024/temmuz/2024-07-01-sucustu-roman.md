@@ -9,9 +9,9 @@ dateHuman: "31 Aralık 2024"
 comTopic: "Serbest"
 attendance: "E-Posta"
 organizer: "SUÇÜSTÜ Dergi"
-sticky: true
 requirements: "İsteyen herkes katılabilir"
-permalink: "ilk-polisiye-roman-yarismasi"
+permalink: "ilk-polisiye-roman-yarismasi-2024"
+archived_to: "/ilk-polisiye-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/temmuz/ilk-polisiye-roman-yarismasi.webp"
 excerpt: "Suçüstü dergi <strong>İlk Polisiye Roman Yarışmasını</strong> duyurdu."
 ---
