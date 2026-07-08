@@ -2,7 +2,7 @@
 layout: post
 title: "Seyhan Livaneli Öykü Yarışması"
 description: "Edisyon Kitap'ın öykü türünde kitabı yayımlanmamış 18 yaş üstü yazar ve yazar adaylarına yönelik Seyhan Livaneli Öykü Yarışması'na başvurular başladı."
-date: 2026-07-09
+date: 2026-07-08
 category: articles
 tags: [her yıl tekrarlanan hikaye, ekim 2026, hikaye yarışması, genel]
 lastDate: 1792011600
