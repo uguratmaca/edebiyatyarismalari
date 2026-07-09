@@ -3,7 +3,7 @@ layout: post
 title: "Millet Derneği Düzyazı Yarışması"
 description: "Millet Derneği Düzyazı Yarışması duyuruldu."
 category: articles
-tags: [her yıl tekrarlanan, şubat 2025, hikaye yarışması, deneme yarışması, makale yarışması, mektup yarışması, genel]
+tags: [şubat 2025, hikaye yarışması, deneme yarışması, makale yarışması, mektup yarışması, genel]
 lastDate: 1740697200
 dateHuman: "28 Şubat 2025"
 comTopic: "İnsanlığın Kesintisiz Yolculuğu GÖÇ"
@@ -11,9 +11,10 @@ attendance: "E-Posta"
 organizer: "Millet Derneği"
 requirements: "Yurt içinde ve yurt dışında yaşayan herkes katılabilir."
 price: "50 Bin TL'dir."
-permalink: "millet-dernegi-duzyazi-yarismasi"
+permalink: "millet-dernegi-duzyazi-yarismasi-2025"
 image: "https://edebiyatyarismalari.com/images/2025/ocak/millet-dernegi-duzyazi-yarismasi.jpg"
 excerpt:  "Millet Derneği <strong> Millet Derneği Düzyazı Yarışması </strong> düzenliyor."
+archived_to: "/millet-dernegi-duzyazi-yarismasi"
 ---
 
 ## Millet Derneği Düzyazı Yarışması
@@ -44,10 +45,3 @@ Millet Derneği olarak toplumsal bir sorun halini almış “göç” gerçeği 
 - Birinci: 25.000 TL
 - İkinci: 15.000 TL
 - Üçüncü: 10.000 TL
-
-### Geçmiş Yıllar
-
-Millet Derneği Düzyazı Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
-
-- [2025](/millet-dernegi-duzyazi-yarismasi-2025)
-- [2023](/millet-dernegi-duzyazi-yarismasi-2023)
