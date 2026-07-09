@@ -46,6 +46,7 @@ excerpt:  "Myrina Yayınları Öykü Yarışması son başvuru tarihi 30 Nisan 2
 
 Myrina Yayınları Öykü Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2026](/myrina-yayinlari-oyku-yarismasi-2026)
 - [2025](/myrina-yayinlari-oyku-yarismasi-2025)
 - [2024](/myrina-yayinlari-oyku-yarismasi-2024)
 - [2023](/myrina-yayinlari-oyku-yarismasi-2023)

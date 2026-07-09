@@ -56,4 +56,5 @@ Yeşilay **Sağlıklı Fikirler Kısa Film Yarışması** düzenliyor.
 
 Sağlıklı Fikirler Kısa Film Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2023](/saglikli-fikirler-kisa-film-yarismasi-2023)
 - [2022](/saglikli-fikirler-kisa-film-yarismasi-2022)

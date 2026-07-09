@@ -50,5 +50,6 @@ excerpt: "KeKeMe Yayınları Öteki temalı Öykü Ödülünü duyurdu"
 
 KeKeMe Yayınları Öykü Ödülü'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2025](/kkm-yayinlari-3-oyku-odulu)
 - [2025](/kkm-yayinlari-2-oyku-odulu)
 - [2024](/kekeme-yayinlari-oyku-yarismasi-2024)

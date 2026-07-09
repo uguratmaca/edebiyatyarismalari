@@ -60,6 +60,7 @@ Attilâ İlhan Bilim, Sanat ve Kültür Vakfı, Türkiye İş Bankası Kültür 
 
 Attilâ İlhan Edebiyat Ödülleri'nin önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2025](/10-attila-ilhan-edebiyat-odulleri)
 - [9. yarışma (2024)](/attila-ilhan-siir-roman-yarismasi-2024)
 - [7. yarışma (2022)](/7-attila-ilhan-edebiyat-oduleri)
 - [4. yarışma (2019)](/articles/2019/04/11/4-attila-ilhan-edebiyat-odulleri.html)

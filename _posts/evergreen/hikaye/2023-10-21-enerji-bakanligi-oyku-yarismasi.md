@@ -42,4 +42,5 @@ Katılım Koşulları:
 
 Enerji Bakanlığı Öykü Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2023](/enerji-bakanligi-oyku-yarismasi-2023)
 - [2022](/enerji-bakanligi-oyku-yarismasi-2022)

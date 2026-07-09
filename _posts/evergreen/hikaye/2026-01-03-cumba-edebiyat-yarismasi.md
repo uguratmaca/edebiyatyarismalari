@@ -47,6 +47,7 @@ excerpt: "Cumba Sanat Platformu'nun her yıl öykü dalında düzenlediği Cumba
 
 Cumba Edebiyat Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2026](/10-cumba-edebiyat-yarismasi)
 - [9. yarışma (2025)](/9-cumba-edebiyat-oyku-yarismasi)
 - [8. yarışma (2024)](/cumba-oyku-yarismasi-2024)
 - [7. yarışma (2023)](/7-cumba-oyku-yarismasi)

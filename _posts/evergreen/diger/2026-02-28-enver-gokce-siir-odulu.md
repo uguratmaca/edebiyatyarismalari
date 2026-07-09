@@ -43,6 +43,7 @@ excerpt: "Özgür Öyküşiir Dergisi Enver Gökçe Toplumcu Şiir Ödülü düz
 
 Enver Gökçe Toplumcu Gerçekçi Şiir Ödülü'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2026](/enver-gokce-siir-odulu-2026)
 - [2025](/enver-gokce-siir-odulu-2025)
 - [2024](/enver-gokce-siir-odulu-2024)
 - [2023](/enver-gokce-siir-odulu-2023)

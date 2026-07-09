@@ -28,6 +28,7 @@ excerpt: "Kırmızı Kedi Yayınevi'nin her yıl bir önceki yılda yayımlanmı
 
 Metin Altıok Şiir Ödülü'nün önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2026](/19-metin-altiok-siir-odulu)
 - [18. yarışma (2025)](/18-metin-altiok-siir-odulu)
 - [15. yarışma (2022)](/15-metin-altiok-siir-odulu)
 - [12. yarışma (2019)](/articles/2019/02/19/12-metin-altiok-siir-odulu-yarisma.html)

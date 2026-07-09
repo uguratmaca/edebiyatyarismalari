@@ -40,6 +40,7 @@ excerpt: "Mayıs Yayınları Arkadaş Z. Özger Şiir Ödülünü duyurdu."
 
 Arkadaş Z. Özger Şiir Ödülü'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2026](/arkadas-z-ozger-siir-odulu-2026)
 - [2025](/arkadas-z-ozger-siir-odulu-2025)
 - [2024](/arkadas-ozger-siir-yarismasi)
 - [2021](/arkadas-z-ozger-siir-odulu-2022)

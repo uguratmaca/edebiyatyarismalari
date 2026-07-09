@@ -151,6 +151,7 @@ Mavera Eğitim ve Sağlık Vakfı'nın 2020'den bu yana düzenlediği yarışma,
 
 Mavera Ödülleri'nin önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2026](/mavera-edebiyat-odulleri-2026)
 - [2025 yılı yarışması](/mavera-odulleri-2025)
 - [2024 yılı yarışması](/mavera-odulleri-2024)
 - [2023 yılı yarışması](/mavera-deneme-yarismasi)

@@ -51,6 +51,7 @@ Osmangazi Belediyesi, Ahmet Hamdi Tanpınar anısına her yıl **Tanpınar Edebi
 
 Tanpınar Edebiyat Yarışması'nın önceki dönemlerine (farklı edebi türlerde düzenlenmiş) aşağıdan ulaşabilirsiniz:
 
+- [2025](/ahmet-hamdi-tanpinar-mektup-yarismasi)
 - [2023 yılı yarışması (şiir)](/tanpinar-siir-yarismasi)
 - [2022 yılı yarışması (deneme)](/tanpinar-deneme-yarismasi)
 - [2021 yılı yarışması (roman)](/tanpinar-roman-yarismasi)

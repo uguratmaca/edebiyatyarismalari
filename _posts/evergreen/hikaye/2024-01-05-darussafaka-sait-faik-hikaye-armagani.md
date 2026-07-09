@@ -33,5 +33,6 @@ Katılım Koşulları:
 
 Sait Faik Hikaye Armağanı'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2024](/sait-faik-70-hikaye-yarismasi)
 - [68. yarışma (2022)](/68-sait-faik-hikaye-armagani)
 - [66. yarışma (2020)](/articles/2020/01/27/66-sait-faik-hikaye-yarismasi.html)

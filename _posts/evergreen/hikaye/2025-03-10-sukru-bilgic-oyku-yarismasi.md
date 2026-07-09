@@ -47,4 +47,5 @@ excerpt:  "15 Bin TL ödüllü Şükrü Bilgiç Yetişkin Öykü Ödülü başvu
 
 Şükrü Bilgiç Öykü Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2025](/sukru-bilgic-oyku-odulu-2025)
 - [2024](/sukru-bilgic-oyku-yarismasi-2024)

@@ -57,4 +57,5 @@ excerpt:  "Kitapyurdu Türkiye Okur Ödülleri 2024 oylamaları başladı"
 
 Kitapyurdu Türkiye Okur Ödülleri'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2025](/kitapyurdu-turkiye-okur-odulleri-2024)
 - [2024](/kitap-yurdu-oylama)

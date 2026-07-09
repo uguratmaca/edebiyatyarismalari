@@ -44,4 +44,5 @@ Katılım Koşulları:
 
 Sürdürülebilirlik Fikir Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2023](/surdurulebilirlik-fikir-yarismasi-2023)
 - [2022](/surdurulebilirlik-fikir-yarismasi-2022)

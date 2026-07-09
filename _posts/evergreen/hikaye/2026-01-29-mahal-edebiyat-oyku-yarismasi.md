@@ -41,5 +41,6 @@ excerpt: "Mahal Edebiyat 3. sünü düzenlediği Mahal Edebiyat Öykü Yarışma
 
 Mahal Edebiyat Öykü Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2026](/mahal-edebiyat-2026-oyku-yarismasi)
 - [2023](/mahal-edebiyat-oyku-yarismasi-2023)
 - [2022](/mahal-edebiyat-oyku-yarismasi-2022)

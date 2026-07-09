@@ -52,6 +52,7 @@ Kısa Öykü Yarışması’nın konusu “Kıbrıs’ın eşsiz coğrafyasını
 
 Telsim Kısa Öykü Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2025](/telsim-kisa-oyku-yarismasi-5)
 - [2023](/telsim-kisa-oyku-yarismasi-2024)
 - [2022](/telsim-oyku-yarismasi)
 - [2020](/telsim-kibris-oyku-yarismasi)

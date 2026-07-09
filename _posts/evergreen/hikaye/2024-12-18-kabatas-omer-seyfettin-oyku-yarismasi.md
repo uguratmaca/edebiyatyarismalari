@@ -40,4 +40,5 @@ Kabataş Erkek Lisesi, Ömer Seyfettin'i anmak amacıyla her yıl **Ömer Seyfet
 
 Kabataş Erkek Lisesi Ömer Seyfettin Öykü Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2024](/13-omer-seyfettin-oyku-yarismasi)
 - [12. Ömer Seyfettin Öykü Yarışması](/omer-seyfettin-oyku-yarismasi-2024)

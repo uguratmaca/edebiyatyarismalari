@@ -34,6 +34,7 @@ excerpt: "Süreyya Ağaoğlu Çocuk Dostları Derneği'nin lisansüstü öğrenc
 
 Süreyya Ağaoğlu Makale Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2026](/sureyya-agaoglu-makale-yarismasi-2026)
 - [3. yarışma (2024)](/sureyya-agaoglu-makale-yarismasi-2024)
 - [2. yarışma (2023)](/sureyya-agaoglu-makale-yarismasi-2023)
 - [1. yarışma (2022)](/sureyya-agaoglu-makale-yarismasi-2022)

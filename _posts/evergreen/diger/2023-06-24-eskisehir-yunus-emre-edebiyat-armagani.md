@@ -51,6 +51,7 @@ Eskişehir Büyükşehir Belediyesi, Yunus Emre'nin anısını yaşatmak amacıy
 
 Yunus Emre Edebiyat Armağanı'nın önceki dönemlerine ve sonuçlarına aşağıdan ulaşabilirsiniz:
 
+- [2023](/yunus-emre-tiyatro-metni-yarismasi)
 - [2026 duyurusu](/uluslararasi-yunus-emre-edebiyat-senligi)
 - [2023 tiyatro yarışması sonuçları](/yunus-emre-tiyatro-yarismasi-sonuc)
 - [2022 öykü yarışması](/yunus-emre-oyku-yarismasi)

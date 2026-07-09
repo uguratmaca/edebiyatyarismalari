@@ -57,6 +57,7 @@ excerpt: "Doğan Kitap'ın 50 Bin TL para ödüllü Duygu Asena Roman Ödülü'n
 
 Duygu Asena Roman Ödülü'nün önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2026](/duygu-asena-roman-odulu-2026)
 - [2025 yılı yarışması](/duygu-asena-roman-odulu-2025)
 - [2024 yılı yarışması](/duygu-asena-roman-odulu-2024)
 - [2022 yılı yarışması](/duygu-asena-roman-odulu-2022)

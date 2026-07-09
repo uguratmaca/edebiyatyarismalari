@@ -42,6 +42,7 @@ excerpt: "Buca Belediyesi'nin her yıl düzenlediği Ali Rıza Ertan Şiir Ödü
 
 Ali Rıza Ertan Şiir Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2026](/ali-riza-ertan-siir-yarismasi-2026)
 - [2025 yılı yarışması](/ali-riza-ertan-siir-yarismasi-2025)
 - [2022 yılı yarışması](/ali-riza-ertan-siir-yarismasi-2022)
 - [23. yarışma (2020)](/23-ali-riza-ertan-siir-odulu)

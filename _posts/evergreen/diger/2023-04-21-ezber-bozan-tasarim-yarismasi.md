@@ -47,4 +47,5 @@ Profesyonel Kategorisi:
 
 Ezber Bozan Tasarım Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2023](/ezber-bozan-tasarim-yarismasi-2023)
 - [2022](/ezber-bozan-tasarim-yarismasi-2022)

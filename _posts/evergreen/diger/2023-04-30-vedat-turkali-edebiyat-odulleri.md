@@ -35,5 +35,6 @@ Katılım Koşulları:
 
 Vedat Türkali Edebiyat Ödülleri'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2023](/vedat-turkali-edebiyat-odulleri-2023)
 - [2022](/vedat-turkali-edebiyat-odulleri-2022)
 - [2020](/vedat-turkali-edebiyat-odulleri-2021)

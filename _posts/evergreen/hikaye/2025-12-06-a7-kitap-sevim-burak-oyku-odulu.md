@@ -45,4 +45,5 @@ excerpt: "A7 Kitap Sevim Burak Öykü Ödülü'nü duyurdu"
 
 A7 Kitap Sevim Burak Öykü Ödülü'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2025](/a7-kitap-sevim-burak-oyku-odulu-2026)
 - [2024](/a7-kitap-sevim-burak-oyku-odulu-2024)

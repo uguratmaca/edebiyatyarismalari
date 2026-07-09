@@ -41,4 +41,5 @@ Katılım Koşulları:
 
 Genç Kalemler Deneme, Hikaye ve Şiir Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2024](/genc-kalemler-deneme-hikaye-siir-yarismasi-2024)
 - [2023](/sancaktepe-deneme-hikaye-siir-yarismasi-2023)
