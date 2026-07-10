@@ -11,7 +11,7 @@ layout: default
             {{ content }}
         </section>
         <section class="col-md-6 col-sm-12">
-            <img src="{{page.image}}" alt="{{page.title}}" loading="lazy" width="1200" height="630" class="img-fluid{% if page.avatar %} rounded-circle author-avatar{% else %} hero-img{% endif %}" />
+            <img src="{{page.image}}" alt="{% if page.imageAlt %}{{ page.imageAlt }}{% elsif page.avatar %}{{ page.title }} fotoğrafı{% else %}{{ page.title }} görseli{% endif %}" loading="lazy" width="1200" height="630" class="img-fluid{% if page.avatar %} rounded-circle author-avatar{% else %} hero-img{% endif %}" />
         </section>
         {% else %}
         <section class="col justify-content-center">

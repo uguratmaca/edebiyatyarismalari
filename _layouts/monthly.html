@@ -15,3 +15,18 @@ layout: default
 		{% endif %}
 	{% endfor %}
 </section>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "url": "{{site.url}}{{page.url}}",
+  "name": {{ page.title | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "publisher": {
+    "@type": "Organization",
+    "name": "Edebiyat Yarışmaları",
+    "logo": "https://edebiyatyarismalari.com/images/icons/icon-384x384.png"
+  }
+}
+</script>

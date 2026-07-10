@@ -11,7 +11,7 @@ comTopic: "Karabağ Zaferi"
 requirements: "Yarışma, Türkiye’deki Liselerde öğrenim gören tüm öğrencileri (T.C. Milli Eğitim Bakanlığı’na bağlı resmi ve özel okulların 9,10,11 ve 12. Sınıflarında okuyan öğrenciler) kapsamaktadır"
 permalink: "karabag-zaferi-resim-yarismasi"
 hidden: true
-image: "https://edebiyatyarismalari.com/images/2021/ocak/karabag-zaferi-resim-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2021/ocak/karabag-zaferi-resim-yarismasi.webp"
 excerpt: "Ermenistan işgali altında olan Karabağ, Azerbaycan ordusunun harekete geçmesiyle büyük bir zaferle yeniden özgürlüğüne kavuştu. İki devlet, tek millet anlayışıyla organize edilen bu projede, liseli öğrencilerin gözünden Karabağ zaferini görmek ve bu vesileyle kardeşlik duygularımızı pekiştirmek hedeflenmiştir. Proje sonunda ise ilk üçe giren öğrenciler, Azerbaycan gezisine gitmeye hak kazanacaktır."
 ---
 

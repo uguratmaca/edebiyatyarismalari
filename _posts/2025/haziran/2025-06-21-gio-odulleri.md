@@ -11,7 +11,7 @@ comTopic: "Serbest"
 organizer: "Fantazya ve Bilimkurgu Sanatları Derneği"
 requirements: "İsteyen herkes katılabilir"
 permalink: "fabisad-11-gio-odulleri"
-image: "https://edebiyatyarismalari.com/images/2025/haziran/fabisad-11-gio-odulleri.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/haziran/fabisad-11-gio-odulleri.webp"
 excerpt: "FABİSAD 7 Kategoride düzenlenecek 11. GİO Ödülleri'ni duyurdu"
 ---
 

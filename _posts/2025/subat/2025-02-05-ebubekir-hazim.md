@@ -12,7 +12,7 @@ price: "140 Bin TL'dir"
 organizer: "Niğde Valiliği"
 requirements: "Yarışma 15 (on beş) yaş üzeri herkese açıktır."
 permalink: "ebubekir-hazim-tepeyran-hikaye-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/subat/ebubekir-hazim-tepeyran-hikaye-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/subat/ebubekir-hazim-tepeyran-hikaye-yarismasi.webp"
 excerpt: "Niğde Valiliği 140 Bin TL para ödüllü Ulusal Ebubekir Hâzım Tepeyran Hikâye Yarışması'nı duyurdu"
 ---
 

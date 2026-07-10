@@ -5,6 +5,7 @@ title: "Melek Kaya | Yazar"
 permalink: "melek-kaya/"
 description: "Melek Kaya, edebiyatyarismalari.com'da masal ve şiir türünde yazılar paylaşan yazarlardan biri."
 image: "https://edebiyatyarismalari.com/images/yazarlar/melek-kaya.jpeg"
+imageAlt: "Melek Kaya fotoğrafı"
 avatar: true
 ---
 

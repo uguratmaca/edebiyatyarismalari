@@ -13,7 +13,7 @@ organizer: "Kırım Türkleri Kültür ve Yardımlaşma Derneği Köklüce Şube
 price: "2 Bin 250 TL'dir."
 requirements: "10-15 yaş aralığındaki gençler katılabilir."
 permalink: "kirim-temali-hikaye-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/haziran/kirim-temali-hikaye-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2023/haziran/kirim-temali-hikaye-yarismasi.webp"
 excerpt:  "Kırım Türkleri Kültür ve Yardımlaşma Derneği Köklüce Şubesi <strong> Kırım Temalı Hikaye Yarışması </strong> düzenliyor."
 ---
 

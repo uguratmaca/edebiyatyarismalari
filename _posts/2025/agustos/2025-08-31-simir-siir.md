@@ -13,7 +13,7 @@ organizer: "Simit Çay Edebiyat Etkinlikleri"
 requirements: "İsteyen herkes katılabilir."
 permalink: "12-simit-cay-siir-yarismasi"
 archived_to: "/simit-cay-etkinlikleri-siir-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/agustos/12-simit-cay-siir-yarismasi.png"
+image: "https://edebiyatyarismalari.com/images/2025/agustos/12-simit-cay-siir-yarismasi.webp"
 excerpt: "Simit Çay Edebiyat Etkinlikleri tarafından şiir meraklılarını yazmaya özendirmek amacıyla  12.si düzenlenen “serbest” konulu Şiir Yarışması 2025 başlıyor"
 ---
 

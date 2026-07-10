@@ -14,7 +14,7 @@ price: "MacBook Air'dir."
 organizer: "Adidas ve Mercado"
 requirements: "İsteyen herkes katılabilir."
 permalink: "ilham-istanbul-tisort-tasarim-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/mayis/ilham-istanbul-tisort-tasarim-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/mayis/ilham-istanbul-tisort-tasarim-yarismasi.webp"
 excerpt:  "Adidas ve Mercado <strong> Adidas Tişört Tasarım Yarışması </strong> düzenliyor."
 ---
 

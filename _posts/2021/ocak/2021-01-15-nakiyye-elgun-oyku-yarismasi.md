@@ -11,7 +11,7 @@ price : "6 Bin TL'dir"
 comTopic: "Özlem"
 requirements: "Türkiye’deki resmî ve özel okulların 5, 6, 7 ve 8. sınıf öğrencileri katılabilir"
 permalink: "nakiyye-elgun-ulusal-oyku-yarismasi-2021"
-image: "https://edebiyatyarismalari.com/images/2021/ocak/nakiyye-elgun-ulusal-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2021/ocak/nakiyye-elgun-ulusal-oyku-yarismasi.webp"
 excerpt: "Feyziye Mektepleri Vakfı Işık Ortaokulu Nakıyye Elgün Ulusal Öykü Yarışması düzenliyor"
 ---
 

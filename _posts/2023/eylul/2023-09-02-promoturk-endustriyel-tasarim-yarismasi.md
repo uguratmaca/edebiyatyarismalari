@@ -13,7 +13,7 @@ hidden: true
 price: "45 Bin TL'dir."
 requirements: "35 yaşını doldurmamış, üniversitelerin endüstriyel tasarım bölümü, güzel sanatlar, görsel iletişim sanatları bölümleri ve mimarlık fakültesi bölümlerine kayıtlı lisans öğrencileri ve mezunları ile bu bölümlere ilişkin yüksek lisans/doktora öğrencileri veya mezunları katılabilir."
 permalink: "promoturk-endustriyel-tasarim-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/eylul/promoturk-endustriyel-tasarim-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2023/eylul/promoturk-endustriyel-tasarim-yarismasi.webp"
 excerpt:  "Promotürk Derneği <strong> Endüstriyel Tasarım Yarışması </strong> düzenliyor."
 ---
 

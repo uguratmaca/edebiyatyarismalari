@@ -13,7 +13,7 @@ price: "6 Bin TL'dir"
 organizer: "Yalova Atatürk BİLSEM"
 requirements: "Ortaokul ve Lise öğrencileri katılabilir"
 permalink: "kucurek-bilim-kurgu-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/ocak/kucurek-bilimkurgu-oyku-yarismasi.jpeg"
+image: "https://edebiyatyarismalari.com/images/2022/ocak/kucurek-bilimkurgu-oyku-yarismasi.webp"
 excerpt: "Yalova Atatürk BİLSEM <strong>Bilim Kurgu Küçürek Öykü Yarışması</strong> düzenliyor."
 ---
 

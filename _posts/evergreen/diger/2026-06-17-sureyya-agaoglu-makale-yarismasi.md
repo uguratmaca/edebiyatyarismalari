@@ -14,7 +14,7 @@ comTopic: "Suçlu kim, çocuk mu yoksa çocuğu koruyamayan ve onu suça sürük
 organizer: "Süreyya Ağaoğlu Çocuk Dostları Derneği"
 requirements: "Hukuk, sosyoloji, felsefe, psikoloji, sosyal hizmet ve benzer alanlardaki programlara yüksek lisans ve doktora düzeyinde kayıtlı bulunan tüm öğrencilere açıktır."
 permalink: "sureyya-agaoglu-makale-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2026/haziran/2026-5-sureyya-agaoglu-makale-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2026/haziran/2026-5-sureyya-agaoglu-makale-yarismasi.webp"
 excerpt: "Süreyya Ağaoğlu Çocuk Dostları Derneği'nin lisansüstü öğrencilere yönelik düzenlediği Makale Yarışması'nda ödül 120 bin TL. Son başvuru: 15 Eylül 2026."
 ---
 

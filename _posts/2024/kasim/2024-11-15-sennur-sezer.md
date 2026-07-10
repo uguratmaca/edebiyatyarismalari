@@ -10,7 +10,7 @@ attendance: "Posta"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
 permalink: "sennur-sezer-emek-direnis-siir-ve-oyku-odulleri"
-image: "https://edebiyatyarismalari.com/images/2024/kasim/sennur-sezer-emek-direnis-siir-ve-oyku-odulleri.jpeg"
+image: "https://edebiyatyarismalari.com/images/2024/kasim/sennur-sezer-emek-direnis-siir-ve-oyku-odulleri.webp"
 organizer: "Gıda İş Sendikası, Manos Kitap"
 excerpt: "2015 yılında aramızdan ayrılan Şennur Sezer'in anısı ve mücadelesini yaşatmak için düzenlenen Şennur Sezer Emek-Direniş Şiir ve Öykü Ödülleri için başvurular başladı."
 ---

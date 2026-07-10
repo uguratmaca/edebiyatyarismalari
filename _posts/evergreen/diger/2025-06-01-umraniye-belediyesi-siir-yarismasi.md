@@ -13,7 +13,7 @@ organizer: "Ümraniye Belediyesi"
 requirements: "İsteyen herkes katılabilir"
 price: "130 Bin TL'dir"
 permalink: "umraniye-belediyesi-siir-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2026/temmuz/umraniye-belediyesi-siir-yarismasi-2026.jpeg"
+image: "https://edebiyatyarismalari.com/images/2026/temmuz/umraniye-belediyesi-siir-yarismasi-2026.webp"
 excerpt: "130 Bin TL toplam ödüllü Ümraniye Belediyesi Geleneksel Şiir Yarışması'na her yıl başvurular açılıyor. Son başvuru: 31 Temmuz 2026."
 ---
 

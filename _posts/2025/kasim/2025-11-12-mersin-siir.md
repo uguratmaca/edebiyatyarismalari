@@ -12,7 +12,7 @@ organizer: "Mersin Yazarlar Derneği ve Erdemli Belediyesi"
 attendance: "E-Posta"
 requirements: "18 yaşın üzerindeki Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir"
 permalink: "11-mersinin-kurtulusu-siir-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/kasim/11-mersinin-kurtulusu-siir-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/kasim/11-mersinin-kurtulusu-siir-yarismasi.webp"
 excerpt: "Mersin Yazarlar Derneği ve Erdemli Belediyesi’nden duyurdu. 3 Ocak Mersin’in Kurtuluşu, Şiir Yarışmasının 11. si Yapılacak."
 ---
 

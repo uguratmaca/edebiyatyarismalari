@@ -13,7 +13,7 @@ comTopic: "3000 Yıllık Meslek: Süngercilik"
 organizer: "Bodrum Deniz Müzesi"
 requirements: "Bodrum Yarımadası genelinde tüm ilkokul, ortaokul ve lise öğrencileri katılabilir."
 permalink: "bodrum-deniz-muzesi-resim-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/nisan/bodrum-deniz-muzesi-resim-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/nisan/bodrum-deniz-muzesi-resim-yarismasi.webp"
 excerpt:  "Bodrum Deniz Müzesi  <strong> 3. Bodrum Deniz Müzesi Çocuk Resim Yarışması </strong> düzenliyor."
 ---
 

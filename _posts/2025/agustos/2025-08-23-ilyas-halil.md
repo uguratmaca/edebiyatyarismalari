@@ -12,7 +12,7 @@ price: "25 Bin TL'dir"
 organizer: "Mersin Sanat Edebiyat"
 requirements: "İsteyen herkes katılabilir"
 permalink: "4-ilyas-halil-oyku-odulu"
-image: "https://edebiyatyarismalari.com/images/2025/agustos/4-ilyas-halil-oyku-odulu.jpeg"
+image: "https://edebiyatyarismalari.com/images/2025/agustos/4-ilyas-halil-oyku-odulu.webp"
 excerpt: "Mersin Sanat Edebiyat 4. İlyas Halil Öykü Ödülü'nü duyurdu"
 ---
 

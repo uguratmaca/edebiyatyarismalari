@@ -12,7 +12,7 @@ hidden: true
 attendance: "Instagram, Twitter, Facebook"
 requirements: "7-12 yaş arası tüm çocuklara çocuklara yöneliktir."
 permalink: "yarini-aydinlat-resim-yarismasi-2020"
-image: "https://edebiyatyarismalari.com/images/2020/nisan/yarini-aydinlat-23-nisan-resim-yarismasi.png"
+image: "https://edebiyatyarismalari.com/images/2020/nisan/yarini-aydinlat-23-nisan-resim-yarismasi.webp"
 ---
 
 İçindeki sanatçıyı ortaya çıkar 👩‍🎨

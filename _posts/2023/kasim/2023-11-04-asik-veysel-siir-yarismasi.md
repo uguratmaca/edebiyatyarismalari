@@ -12,7 +12,7 @@ attendance: "Kargo/Posta"
 organizer: "BİLSEM"
 requirements: "Millî Eğitim Bakanlığına bağlı BİLSEM öğrencileri katılabilir."
 permalink: "asik-veysel-siir-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/kasim/asik-veysel-siir-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2023/kasim/asik-veysel-siir-yarismasi.webp"
 excerpt:  "BİLSEM <strong> Aşık Veysel Şiir Yarışması </strong> düzenliyor."
 ---
 

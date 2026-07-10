@@ -12,7 +12,7 @@ comTopic: "İzmir"
 organizer: "CS Yapım"
 requirements: "⁠Yarışmaya on sekiz yaşını doldurmuş herkes katılabilir"
 permalink: "izmir-seni-seviyorum-senaryo-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/agustos/izmir-seni-seviyorum-senaryo-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/agustos/izmir-seni-seviyorum-senaryo-yarismasi.webp"
 excerpt: "İzmir Seni Seviyorum (İSS) Kısa Film Senaryo Yarışması son başvuru tarihi 20 Eylül 2025"
 ---
 

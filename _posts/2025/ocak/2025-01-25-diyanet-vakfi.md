@@ -12,7 +12,7 @@ attendance: "E-Posta"
 organizer: "Türkiye Diyanet Vakfı"
 requirements: "Yarışmaya yurt içinden ve yurt dışından, 18 yaşını doldurmuş ve Türkçe yazabilenler katılabilir."
 permalink: "diyanet-vakfi-aile-roman-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/ocak/aile-haftasi-roman-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/ocak/aile-haftasi-roman-yarismasi.webp"
 excerpt: "Türkiye Diyanet Vakfı 2025 Aile Haftası Roman Yarışmasını duyurdu"
 ---
 

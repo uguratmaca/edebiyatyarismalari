@@ -12,7 +12,7 @@ price: "6 Bin TL'dir"
 organizer: "Amasya Dernekler Federasyonu"
 requirements: "18 yaşını doldurmuş bütün yetişkinler yarışmaya katılabilir."
 permalink: "ferhat-ve-sirin-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/mart/ferhan-sirin-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/mart/ferhan-sirin-oyku-yarismasi.webp"
 excerpt: "Amasya Dernekler Federasyonu <strong>Ferhat ve Şirin Öykü Yarışması</strong> düzenliyor."
 ---
 

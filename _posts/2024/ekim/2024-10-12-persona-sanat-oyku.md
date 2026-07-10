@@ -10,7 +10,7 @@ attendance: "E-Posta"
 comTopic: "Tiyatro"
 requirements: "Yarışmaya yurtiçi ve yurtdışından herkes katılabilir"
 permalink: "persona-sanat-kucurek-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2024/ekim/persona-sanat-kucurek-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2024/ekim/persona-sanat-kucurek-oyku-yarismasi.webp"
 organizer: "Persona Sanat Topluluğu"
 excerpt: "Persona Sanat Topluluğu 2. Persona Sanat Küçürek Öykü Yarışmasını duyurdu"
 ---

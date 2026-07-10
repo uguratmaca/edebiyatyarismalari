@@ -5,6 +5,7 @@ title: "Uğur Atmaca | Yazar"
 permalink: "ugur-atmaca/"
 description: "Uğur Atmaca | edebiyatyarismalari.com Yazarı"
 image: "https://edebiyatyarismalari.com/images/yazarlar/ugur-atmaca.jpg"
+imageAlt: "Uğur Atmaca fotoğrafı"
 avatar: true
 ---
 

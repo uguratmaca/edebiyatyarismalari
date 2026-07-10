@@ -1,9 +1,9 @@
 ---
 layout: category
-headline: "Kısa Film Yarışmaları"
-title: "Kısa Film Yarışmaları"
+headline: "Kısa Film Yarışmaları {{ site.year }}"
+title: "Kısa Film Yarışması {{ site.year }} | Senaryo ve Reklam Film Yarışmaları"
 key: "kısa film yarışması, reklam yarışması"
-description: "kısa film yarışması, kısa film yarışmaları, kısa film yarışmaları {{ site.year }}, film yarışmaları"
-subline: "kısa film yarışması, kısa film yarışmaları, kısa film yarışmaları {{ site.year }}, film yarışmaları"
+description: "{{ site.year }} yılı kısa film ve reklam filmi yarışmaları güncel duyuruları burada."
+subline: "Ülkemizde düzenlenen <strong>kısa film yarışması</strong> duyurularına bu sayfadan ulaşabilirsiniz. {{ site.year }} yılı güncel <strong>kısa film yarışmaları</strong>, reklam filmi ve senaryo yarışmalarıyla birlikte aşağıda listelenmektedir."
 permalink: "kisa-film-yarismalari/"
 ---

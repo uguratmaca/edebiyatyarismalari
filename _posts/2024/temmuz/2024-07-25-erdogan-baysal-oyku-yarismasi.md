@@ -11,7 +11,7 @@ attendance: "E-Posta"
 organizer: "İzmir Yazarlar Kooperatifi"
 requirements: "18 yaşını geçmiş herkes katılabilir."
 permalink: "2-erdogan-baysal-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2024/temmuz/2-erdogan-baysal-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2024/temmuz/2-erdogan-baysal-oyku-yarismasi.webp"
 excerpt:  "İzmir Yazarlar Kooperatifi <strong> Erdoğan Baysal Öykü Yarışması </strong> düzenliyor."
 ---
 

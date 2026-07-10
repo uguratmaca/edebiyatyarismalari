@@ -13,7 +13,7 @@ organizer: "İstanbul Barosu Hukuk Felsefesi ve Sosyolojisi Komisyonu"
 price: "33 Bin 500 TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "istanbul-barosu-makale-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/mayis/istanbul-barosu-makale-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/mayis/istanbul-barosu-makale-yarismasi.webp"
 excerpt:  "İstanbul Barosu Hukuk Felsefesi ve Sosyolojisi Komisyonu <strong> İstanbul Barosu Makale Yarışması </strong> düzenliyor."
 ---
 

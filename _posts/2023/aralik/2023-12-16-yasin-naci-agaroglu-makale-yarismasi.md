@@ -13,7 +13,7 @@ organizer: "Hukuk ve Değişim Derneği"
 requirements: "Sadece Türkiye’deki ve KKTC’deki hukuk fakültelerinde öğrenim gören lisans öğrencileri katılabilir."
 price: "45 Bin TL'dir"
 permalink: "yasin-naci-agaroglu-makale-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/aralik/yasin-naci-agaroglu-makale-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2023/aralik/yasin-naci-agaroglu-makale-yarismasi.webp"
 excerpt:  "Hukuk ve Değişim Derneği <strong> Yasin Naci Ağaroğlu Makale Yarışması </strong> düzenliyor."
 ---
 

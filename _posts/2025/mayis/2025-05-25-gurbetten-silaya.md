@@ -12,7 +12,7 @@ comTopic: "Gurbet, Gurbetçiler"
 organizer: "Kılbasan Yardımlaşma Derneği"
 requirements: "Yarışmaya yurtiçi ve yurtdışı genelinden Türkçe eserleri ile 18 yaşını doldurmuş herkes katılabilir."
 permalink: "gurbetten-silaya-siir-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/mayis/gurbetten-silaya-siir-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/mayis/gurbetten-silaya-siir-yarismasi.webp"
 excerpt: "Kılbasan Yardımlaşma Derneği, toplam 22 Bin 500 TL para ödüllü Karaman 1. Gurbetten Sılaya Şiir Yarışması'nı duyurdu."
 ---
 

@@ -11,7 +11,7 @@ organizer: "Bursa Milli Eğitim Müdürlüğü"
 requirements: "Bursa İli, Nilüfer İlçesi genelindeki resmî temel eğitim kurumlarında öğrenim gören 5, 6, 7 ve 8. sınıf öğrencileri katılabilir."
 price: "10 Bin TL'dir"
 permalink: "ataturke-mektup-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/kasim/ataturke-mektup-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2023/kasim/ataturke-mektup-yarismasi.webp"
 excerpt:  "Bursa Milli Eğitim Müdürlüğü <strong> Cumhuriyetimizin 2. Yüzyılına ve Atatürk’e Mektup Yarışması </strong> düzenliyor."
 ---
 

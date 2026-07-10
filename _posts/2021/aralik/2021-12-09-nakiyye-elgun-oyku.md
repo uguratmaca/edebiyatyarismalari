@@ -12,7 +12,7 @@ comTopic: "Doğa Sevgisi"
 attendance: "Websitesi"
 requirements: "Türkiye’deki resmî ve özel okulların 5, 6, 7 ve 8. sınıf öğrencileri"
 permalink: "nakiyye-elgun-oyku-yarismasi-2022"
-image: "https://edebiyatyarismalari.com/images/2021/aralik/nakiyye-elgun-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2021/aralik/nakiyye-elgun-oyku-yarismasi.webp"
 excerpt: "FMV Işık Ortaokulu tarafından her sene düzenlenen Nakıyye Elgün Öykü Yarışması'nın 2022 başvuruları başladı."
 ---
 

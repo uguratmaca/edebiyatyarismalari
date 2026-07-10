@@ -12,7 +12,7 @@ comTopic: "Serbest"
 organizer: "Bilgi Yayınevi"
 requirements: "Yarışmamıza 18 yaş ve üzerindeki herkes davetlidir"
 permalink: "muzaffer-izgu-cocuk-romani-yarismasi-25"
-image: "https://edebiyatyarismalari.com/images/2025/temmuz/muzaffer-izgu-cocuk-romani-yarismasi.png"
+image: "https://edebiyatyarismalari.com/images/2025/temmuz/muzaffer-izgu-cocuk-romani-yarismasi.webp"
 excerpt: "Bilgi Yayınevi 2025 yılı Muzaffer İzgü Çocuk Romanı Yarışması'nı duyurdu"
 archived_to: "/muzaffer-izgu-roman-yarismasi"
 ---

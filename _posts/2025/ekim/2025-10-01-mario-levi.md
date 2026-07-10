@@ -11,7 +11,7 @@ comTopic: "Serbest"
 organizer: "Everest Yayınları"
 requirements: "İsteyen herkes yarışmaya katılabilir."
 permalink: "mario-levi-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/ekim/mario-levi-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/ekim/mario-levi-oyku-yarismasi.webp"
 excerpt: "Everest Yayınları isteyen herkesin katılabileceği Mario Levi Öykü Yarışması'nı duyurdu"
 ---
 

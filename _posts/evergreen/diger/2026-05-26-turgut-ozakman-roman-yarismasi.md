@@ -14,7 +14,7 @@ comTopic: "Serbest"
 organizer: "Bilgi Yayınevi"
 requirements: "Herkese açık"
 permalink: "turgut-ozakman-roman-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2026/mayıs/Turgut-ozakaman-yarisma-web.png"
+image: "https://edebiyatyarismalari.com/images/2026/mayıs/Turgut-ozakaman-yarisma-web.webp"
 excerpt: "Bilgi Yayınevi'nin her yıl düzenlediği İlk Roman Yarışması'nda ödül 25 bin TL. Son başvuru: 15 Haziran 2026."
 ---
 

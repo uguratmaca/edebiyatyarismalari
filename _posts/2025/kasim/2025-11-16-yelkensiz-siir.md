@@ -12,7 +12,7 @@ organizer: "Yelkensiz Şiir Dergisi"
 attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"
 permalink: "yelkensiz_siir_odulu_2026"
-image: "https://edebiyatyarismalari.com/images/2025/kasim/yelkensiz_siir_odulu_2026.png"
+image: "https://edebiyatyarismalari.com/images/2025/kasim/yelkensiz_siir_odulu_2026.webp"
 excerpt: "Yelkensiz Dergi Yelkensiz Şiir Ödülü 2026'yı duyurdu"
 ---
 

@@ -13,7 +13,7 @@ organizer: "Başakşehir Belediyesi ve Başakşehir Living Lab"
 price: "400 Bin TL'dir."
 requirements: "Ortaokul, lise, yüksekokul, ön lisans, lisans ve yüksek lisans öğrencileri, öğretmenler (ilk ve orta öğretim öğretmenleri) ve akademisyenler (araştırma görevlileri, öğretim görevlileri, öğretim üyeleri) katılabilir."
 permalink: "basaksehir-living-lab-inovasyon-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/temmuz/basaksehir-living-lab-inovasyon-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/temmuz/basaksehir-living-lab-inovasyon-yarismasi.webp"
 excerpt:  "Başakşehir Belediyesi ve Başakşehir Living Lab <strong> 9. İnovasyon Yarışması </strong> düzenliyor."
 ---
 

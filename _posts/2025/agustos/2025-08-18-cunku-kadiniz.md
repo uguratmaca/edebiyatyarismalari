@@ -11,7 +11,7 @@ comTopic: "Hesaplaşma"
 organizer: "Çünkü Kadınız Kolektifi"
 requirements: "Yarışma, 18 yaş üzeri adayların katılımına açıktır."
 permalink: "cunku-kadiniz-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/agustos/cunku-kadiniz-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/agustos/cunku-kadiniz-oyku-yarismasi.webp"
 excerpt: "Çünkü Kadınız Kolektifi Hesaplaşma temalı Çünkü Kadınız Öykü Yarışması düzenliyor."
 ---
 

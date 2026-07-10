@@ -13,7 +13,7 @@ organizer: "Eğitim-Bir-Sen"
 price: "56 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "egitim-bir-sen-kisa-film-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/temmuz/egitim-bir-sen-kisa-film-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/temmuz/egitim-bir-sen-kisa-film-yarismasi.webp"
 excerpt: "Eğitim-Bir-Sen <strong> 7. Uluslararası Kısa Film Yarışması </strong> düzenliyor."
 ---
 

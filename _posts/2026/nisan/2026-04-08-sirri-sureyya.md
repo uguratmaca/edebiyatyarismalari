@@ -12,7 +12,7 @@ attendance: "E-Posta"
 organizer: "Eğitim Sen Adıyaman Şubesi"
 requirements: "İlkokul, ortaokul ve lise öğrencileri"
 permalink: "sirri-sureyya-onder-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2026/nisan/sirri-sureyya-onder-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2026/nisan/sirri-sureyya-onder-oyku-yarismasi.webp"
 excerpt:  "Eğitim Sen Adıyaman Şubesi Sırrı Süreyya Önder Anısına düzenlenen Barış temalı Hikâye - Öykü Yarışmasını duyurdu"
 ---
 

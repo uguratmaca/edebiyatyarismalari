@@ -10,7 +10,7 @@ attendance: "Şahsen/Elden"
 comTopic: "Serbest"
 requirements: "Yarışmaya Zeytinburnu sınırları içerisinde ikamet eden, okuyan, çalışan veya Bilgi Evleri ile Gençlik Merkezimize üye olan; ilkokul 4. sınıftan itibaren bütün öğrenciler ve yetişkinler katılabilir."
 permalink: "zeytinburnu-10-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2024/ekim/zeytinburnu-10-oyku-yarismasi-2024.jpg"
+image: "https://edebiyatyarismalari.com/images/2024/ekim/zeytinburnu-10-oyku-yarismasi-2024.webp"
 organizer: "Zeytinburnu Belediyesi Bilgi Evleri"
 excerpt: "Zeytinburnu Belediyesi 10. Öykü Yarışmasını duyurdu."
 ---

@@ -12,7 +12,7 @@ organizer: "Çukurova Belediyesi"
 requirements: "18 yaşın üzerindeki herkes katılabilir"
 permalink: "cukurova-oyku-yarismasi-24"
 archived_to: "/cukurova-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2024/haziran/cukurova-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2024/haziran/cukurova-oyku-yarismasi.webp"
 excerpt: "Çukurova belediyesi Yalnızlık temalı <strong>Çukurova Öykü Yarışması</strong>'nı duyurdu."
 ---
 

@@ -3,7 +3,7 @@ layout: null
 sitemap: false
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   {% assign current_year = site.time | date: "%Y" %}
   {% assign collections = site.collections | where_exp:'collection','collection.output != false' %}
   {% for collection in collections %}
@@ -19,6 +19,12 @@ sitemap: false
             <lastmod>{{ doc.date | date_to_xmlschema }}</lastmod>
           {% endif %}
         {% endif %}
+        {% if doc.image %}
+          <image:image>
+            <image:loc>{{ doc.image | xml_escape }}</image:loc>
+            {% if doc.title %}<image:title>{{ doc.title | xml_escape }}</image:title>{% endif %}
+          </image:image>
+        {% endif %}
       </url>
     {% endfor %}
   {% endfor %}
@@ -29,6 +35,12 @@ sitemap: false
       <loc>{{ page.url | replace:'/index.html','/' | absolute_url | xml_escape }}</loc>
       {% if page.last_modified_at %}
         <lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      {% if page.image %}
+        <image:image>
+          <image:loc>{{ page.image | xml_escape }}</image:loc>
+          {% if page.title %}<image:title>{{ page.title | xml_escape }}</image:title>{% endif %}
+        </image:image>
       {% endif %}
     </url>
   {% endfor %}

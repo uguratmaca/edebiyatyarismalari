@@ -6,7 +6,7 @@ category: articles
 tags: [sonuç 2026]
 permalink: "yelkensiz-siir-odulu-sonucu"
 excerpt: "Yelkensiz Şiir Dergisi 2026 Yelkensiz Şiir Ödülü Sonuçlandı. Kazanan Yavuz Evliyaoğlu oldu."
-image: "https://edebiyatyarismalari.com/images/2026/mart/yelkensiz-siir-odulu-sonucu.png"
+image: "https://edebiyatyarismalari.com/images/2026/mart/yelkensiz-siir-odulu-sonucu.webp"
 ---
 
 ## 2026 Yelkensiz Şiir Ödülü Sonuçlandı

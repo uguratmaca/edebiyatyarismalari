@@ -12,7 +12,7 @@ hidden: true
 organizer: "Çorum Özel Hastanesi"
 requirements: "Çorum genelindeki resmi ve özel tüm ilkokul öğrenciler katılabilir."
 permalink: "ucuncu-geleneksel-resim-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/nisan/ucuncu-geleneksel-resim-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/nisan/ucuncu-geleneksel-resim-yarismasi.webp"
 excerpt:  "Çorum Özel Hastanesi <strong> 3. Geleneksel Resim Yarışması </strong> düzenliyor."
 ---
 

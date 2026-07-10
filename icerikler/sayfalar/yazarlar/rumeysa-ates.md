@@ -5,6 +5,7 @@ title: "Rümeysa Ateş | Yazar"
 permalink: "rumeysa-ates/"
 description: "Rümeysa Ateş | edebiyatyarismalari.com Yazarı"
 image: "https://edebiyatyarismalari.com/images/yazarlar/rumeysa-ates.jpeg"
+imageAlt: "Rümeysa Ateş fotoğrafı"
 avatar: true
 ---
 

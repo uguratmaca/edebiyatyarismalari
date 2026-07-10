@@ -11,7 +11,7 @@ price: "10 Bin TL'dir"
 comTopic: "Serbest"
 requirements: "Yazarlar, kitap oylumundaki, yayınlanmamış bir roman dosyası ile yarışmaya katılabilirler"
 permalink: "2-fakir-baykurt-roman-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/ekim/fakir-baykurt-roman-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2020/ekim/fakir-baykurt-roman-yarismasi.webp"
 excerpt: "Çiğli Belediyesi 2. Fakir Baykurt Roman Yarışmasını düzenliyor."
 archived_to: "/fakir-baykurt-roman-odulu"
 ---

@@ -13,7 +13,7 @@ organizer: "Dünya Mevlâna Sağlık Eğitim ve Kültür Vakfı"
 price: "100 Bin TL'dir."
 requirements: "18 yaş ve üzeri isteyen herkes katılabilir."
 permalink: "dunya-mevlana-vakfi-siir-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/temmuz/dunya-mevlana-vakfi-siir-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2023/temmuz/dunya-mevlana-vakfi-siir-yarismasi.webp"
 excerpt:  "Dünya Mevlâna Sağlık Eğitim ve Kültür Vakfı <strong> Mevlana Konulu Şiir Yarışması </strong> düzenliyor."
 ---
 

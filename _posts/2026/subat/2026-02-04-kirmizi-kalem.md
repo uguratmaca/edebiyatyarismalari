@@ -11,7 +11,7 @@ attendance: "E-Posta"
 organizer: "Kırmızı Kalem Edebiyat"
 requirements: "18 yaş üzeri herkese açıktır"
 permalink: "kirmizi-kalem-edebiyat-oyku-yarismasi-2026"
-image: "https://edebiyatyarismalari.com/images/2026/subat/kirmizi-kalem-edebiyat-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2026/subat/kirmizi-kalem-edebiyat-oyku-yarismasi.webp"
 excerpt:  "Kırmızı Kalem Edebiyat Misafir konulu Ödüllü Öykü Yarışması'nı duyurdu"
 ---
 

@@ -11,7 +11,7 @@ comTopic: "6-12 yaş grubuna yönelik olarak resimli kitap"
 price: "130 Bin TL'dir"
 requirements: "18 yaşın üzerinde olan herkes katılabilir"
 permalink: "koklerden-gelecege-hikaye-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2026/subat/koklerden-gelecege-hikaye-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2026/subat/koklerden-gelecege-hikaye-yarismasi.webp"
 organizer: "Yeni Türkiye Eğitim Vakfı"
 excerpt: "Yeni Türkiye Eğitim Vakfı toplam 130 Bin TL para ödüllü Köklerden Geleceğe: Çocuk Edebiyatında Yeniden Yazım Hikâye Yarışması'nı duyurdu"
 ---

@@ -12,7 +12,7 @@ price: "70 Bin TL'dir"
 organizer: "Yıldırım Belediyesi"
 requirements: "Yarışmanın dili Türkçedir, yarışmaya katılım için yaş ve uyruk sınırlaması yoktur"
 permalink: "bursa-fetih-700-hikaye-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/ekim/bursa-fetih-700-hikaye-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/ekim/bursa-fetih-700-hikaye-yarismasi.webp"
 excerpt: "Yıldırım Belediyesi 70 Bin TL para ödüllü Bursa’nın Fethinin 700. Yılı Anısına Hikâye Yarışması'nı duyurdu."
 ---
 

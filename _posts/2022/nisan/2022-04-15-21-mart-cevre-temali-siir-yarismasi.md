@@ -12,7 +12,7 @@ comTopic: "Çevre, İklim ya da Sürdürülebilirlik"
 organizer: "İklim İçin Türkiye ve Ayrıntı Yayınları"
 requirements: "Türkiye'de öğrenim gören tüm lise ve üniversite öğrencileri katılabilir."
 permalink: "21-mart-cevre-temali-siir-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/nisan/21-mart-cevre-temali-siir-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/nisan/21-mart-cevre-temali-siir-yarismasi.webp"
 excerpt:  "İklim İçin Türkiye ve Ayrıntı Yayınları  <strong> 21 Mart Dünya Şiir Günü Şiir Yarışması </strong> düzenliyor."
 ---
 

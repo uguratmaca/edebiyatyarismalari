@@ -13,7 +13,7 @@ organizer: "Konya Büyükşehir Belediyesi"
 requirements: "İsteyen herkes katılabilir."
 price: "47 Bin 500 TL'dir"
 permalink: "mevlanaya-mektup-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/ekim/mevlanaya-mektup-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2023/ekim/mevlanaya-mektup-yarismasi.webp"
 excerpt:  "Konya Büyükşehir Belediyesi <strong> Hz Pîr’e Mektup Yarışması </strong> düzenliyor."
 ---
 

@@ -13,7 +13,7 @@ organizer: "Yaşar Dondurma ve Gıda Maddeleri A.Ş (MADO), Kahramanmaraş Edebi
 price: "25 Bin 500 TL'dir."
 requirements: "18 yaşından gün almış herkes katılabilir."
 permalink: "mesder-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/eylul/mesder-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2023/eylul/mesder-oyku-yarismasi.webp"
 excerpt:  "Yaşar Dondurma ve Gıda Maddeleri A.Ş (MADO), Kahramanmaraş Edebiyat ve Sanat Derneği (MESDER) <strong> Deprem Konulu Öykü Yarışması </strong> düzenliyor."
 ---
 

@@ -12,7 +12,7 @@ organizer: "Eskişehir Büyükşehir Belediyesi"
 price: "Çeşitli hediyeler (Tablet, E-kitap okuyucu, Yazıcı, Kitap seti)"
 requirements: "Eskişehir ve ilçelerinde yaşayan 18-35 yaş arası gençler ile Eskişehir ve ilçelerindeki lise öğrencileri katılabilir."
 permalink: "eskisehir-yunus-emre-edebiyat-armagani"
-image: "https://edebiyatyarismalari.com/images/2026/haziran/uluslararasi-yunus-emre-edebiyat-senligi.png"
+image: "https://edebiyatyarismalari.com/images/2026/haziran/uluslararasi-yunus-emre-edebiyat-senligi.webp"
 excerpt: "Eskişehir Büyükşehir Belediyesi, kategorisi her yıl değişen (şiir, öykü, deneme, tiyatro metni vb.) Yunus Emre Edebiyat Armağanı'nı düzenliyor. 2026 teması: Neşe. Son başvuru: 26 Temmuz 2026."
 ---
 

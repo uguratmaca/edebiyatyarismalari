@@ -13,7 +13,7 @@ organizer: "Diyarbakır Büyükşehir Belediyesi"
 price: "42 Bin 500 TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "2-ulusal-diyarbakir-oyun-yazma-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/ocak/diyarbakir-oyun-yazma-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/ocak/diyarbakir-oyun-yazma-yarismasi.webp"
 excerpt: "Diyarbakır Büyükşehir Belediyesi <strong>2. Ulusal Türkçe Kürtçe Tiyatro Oyun Yazma Yarışması</strong> düzenlemektedir."
 ---
 

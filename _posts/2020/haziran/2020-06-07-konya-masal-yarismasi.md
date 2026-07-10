@@ -11,7 +11,7 @@ attendance: "E-Posta"
 comTopic: "Serbest"
 requirements: "Yarışmaya bütün ilkokul ve ortaokul öğrencilerimiz katılabilir."
 permalink: "benim-dunyam-masal-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/haziran/benim-dunyam-masal-yazma-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2020/haziran/benim-dunyam-masal-yazma-yarismasi.webp"
 ---
 
 Dünyayı saran ve ülkemizi de etkileyen Korona virüs salgını nedeniyle evde okul eğitimlerine devam eden çocuklarımızın arta kalan zamanlarını verimli değerlendirmek; her yaştan insanın dinleyebileceği, anlatabileceği, yazabileceği bir tür olan **masal**la onların edebi ve düşünsel yönlerini zenginleştirerek hayal dünyalarını kaleme almalarını sağlamak. Ülkemizde okuma ve yazma kültürünün gelişmesi ve okur kitlesinin çoğalmasına katkı sağlamak.  

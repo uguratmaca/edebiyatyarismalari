@@ -14,7 +14,7 @@ comTopic: "Serbest"
 organizer: "magazasimitcay.com"
 requirements: "Herkese açık"
 permalink: "simit-cay-etkinlikleri-siir-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2026/haziran/simit-cay-edebiyat-siir-yarismasi-13.jpg"
+image: "https://edebiyatyarismalari.com/images/2026/haziran/simit-cay-edebiyat-siir-yarismasi-13.webp"
 excerpt: "Simit Çay Edebiyat Etkinlikleri'nin düzenlediği ödüllü şiir yarışmasına herkes katılabilir, toplam ödül 8 bin TL. Son başvuru: 31 Aralık 2026."
 ---
 

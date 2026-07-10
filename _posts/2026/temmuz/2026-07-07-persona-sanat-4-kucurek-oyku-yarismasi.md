@@ -11,7 +11,7 @@ comTopic: "Ağıt"
 organizer: "Persona Sanat Topluluğu"
 requirements: "Yurtiçi ve yurtdışından herkes katılabilir"
 permalink: "persona-sanat-4-kucurek-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2026/temmuz/persona-sanat-4-kucurek-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2026/temmuz/persona-sanat-4-kucurek-oyku-yarismasi.webp"
 excerpt: "Persona Sanat Topluluğu'nun düzenlediği yarışmaya yurtiçi ve yurtdışından herkes katılabilir. Son başvuru: 1 Ekim 2026."
 ---
 

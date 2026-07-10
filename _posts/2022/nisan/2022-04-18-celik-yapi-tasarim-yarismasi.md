@@ -14,7 +14,7 @@ price: "30 Bin TL'dir."
 hidden: true
 requirements: "Yarışma, Türkiye ve KKTC üniversitelerinden, Mimarlık ve İnşaat Mühendisliği bölümlerinde lisans öğrenimi gören öğrencilere açıktır."
 permalink: "celik-yapi-tasarim-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/nisan/celik-yapi-tasarim-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/nisan/celik-yapi-tasarim-yarismasi.webp"
 excerpt:  "Türk Yapısal Çelik Derneği  <strong> SteelPRO Çelik Yapı Tasarımı Öğrenci Yarışması </strong> düzenliyor."
 ---
 

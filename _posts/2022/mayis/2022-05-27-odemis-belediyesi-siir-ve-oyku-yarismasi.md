@@ -13,7 +13,7 @@ organizer: "İzmir Ödemiş Belediyesi"
 price: "13 Bin TL'dir."
 requirements: "18 yaşını doldurmuş, eli kalem tutan yurt içinde ve yurt dışında yaşayan bayan ve bay her Türk vatandaşı katılabilir."
 permalink: "odemis-belediyesi-siir-ve-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/mayis/odemis-belediyesi-siir-ve-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/mayis/odemis-belediyesi-siir-ve-oyku-yarismasi.webp"
 excerpt:  "İzmir Ödemiş Belediyesi <strong> Ulusal Şiir ve Öykü Yarışması </strong> düzenliyor."
 ---
 

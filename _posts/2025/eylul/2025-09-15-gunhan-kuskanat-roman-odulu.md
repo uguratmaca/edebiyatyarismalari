@@ -12,7 +12,7 @@ price: "30 Bin TL'dir"
 organizer: "Günhan Kuşkanat Ailesi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "gunhan-kuskanat-roman-odulu-2025"
-image: "https://edebiyatyarismalari.com/images/2025/eylul/gunhan-kuskanat-roman-odulu-2025.png"
+image: "https://edebiyatyarismalari.com/images/2025/eylul/gunhan-kuskanat-roman-odulu-2025.webp"
 excerpt:  "2. Günhan Kuşkanat Roman Ödülü 2025 duyuruldu"
 ---
 

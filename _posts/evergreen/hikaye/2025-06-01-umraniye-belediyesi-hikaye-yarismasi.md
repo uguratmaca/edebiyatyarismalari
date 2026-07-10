@@ -13,7 +13,7 @@ comTopic: "SERBEST"
 organizer: "Ümraniye Belediyesi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "umraniye-belediyesi-hikaye-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2026/temmuz/umraniye-belediyesi-hikaye-yarismasi-2026.jpeg"
+image: "https://edebiyatyarismalari.com/images/2026/temmuz/umraniye-belediyesi-hikaye-yarismasi-2026.webp"
 excerpt: "163 Bin TL toplam ödüllü Ümraniye Belediyesi Geleneksel Hikâye Yarışması başvuruları herkese açıldı."
 ---
 

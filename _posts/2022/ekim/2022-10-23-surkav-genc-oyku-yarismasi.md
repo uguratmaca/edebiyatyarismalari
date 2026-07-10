@@ -12,7 +12,7 @@ attendance: "E-posta"
 organizer: "ŞURKAV"
 requirements: "Şanlıurfa'da yaşayan lise öğrencileri katılabilir."
 permalink: "surkav-genc-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/ekim/surkav-genc-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/ekim/surkav-genc-oyku-yarismasi.webp"
 excerpt:  "ŞURKAV <strong> Lise Öğrencileri Öykü Yarışması </strong> düzenliyor."
 ---
 

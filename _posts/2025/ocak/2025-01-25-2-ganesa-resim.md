@@ -11,7 +11,7 @@ attendance: "E-Posta"
 organizer: "Ganeşa Yayınevi"
 requirements: "18 yaşını bitirmiş kişiler yarışmaya katılabilir"
 permalink: "ganesa-mitolojik-resim-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/ocak/2-ganesa-mitolojik-resim-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/ocak/2-ganesa-mitolojik-resim-yarismasi.webp"
 excerpt: "Ganeşa Yayınevi 2. Ganeşa Mitolojik İllüstrasyon ve Resim Yarışmasını duyurdu."
 ---
 

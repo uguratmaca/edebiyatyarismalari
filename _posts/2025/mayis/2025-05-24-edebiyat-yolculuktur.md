@@ -12,7 +12,7 @@ price: "180 Bin TL'dir"
 organizer: "İzmir Büyükşehir Belediyesi"
 requirements: "Yarışmaya lise hazırlık, 9,10,11 ve 12, sınıf öğrencileri katılabilir."
 permalink: "edebiyat-yolculuktur-siir-oyku-deneme-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/mayis/edebiyat-yolculuktur-siir-oyku-deneme-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/mayis/edebiyat-yolculuktur-siir-oyku-deneme-yarismasi.webp"
 excerpt:  "İzmir Büyükşehir Belediyesi lise öğrencileri için toplam 180 Bin TL ödüllü Edebiyat Yolculuktur Şiir, Öykü, Deneme Yarışması düzenliyor."
 ---
 

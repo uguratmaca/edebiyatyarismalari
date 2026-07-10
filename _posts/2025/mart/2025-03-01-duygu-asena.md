@@ -13,7 +13,7 @@ organizer: "Doğan Kitap"
 requirements: "2024 yılında basılmış bir roman sahibi olmak"
 permalink: "duygu-asena-roman-odulu-2025"
 archived_to: "/duygu-asena-roman-odulu"
-image: "https://edebiyatyarismalari.com/images/2025/mart/duygu-asena-roman-odulu.png"
+image: "https://edebiyatyarismalari.com/images/2025/mart/duygu-asena-roman-odulu.webp"
 excerpt:  "Doğan Kitap Duygu Asena Roman Ödülü başvuruları başladı"
 ---
 

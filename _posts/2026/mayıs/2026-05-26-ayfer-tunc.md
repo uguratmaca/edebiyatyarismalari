@@ -13,7 +13,7 @@ comTopic: "Bir Hayatı Değiştiren An"
 organizer: "Erenköy Kız Liseliler Derneği"
 requirements: "İstanbul liseler arası"
 permalink: "istanbul-liseler-arasi-ayfer-tunc-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2026/mayıs/ayfer-tunc.png"
+image: "https://edebiyatyarismalari.com/images/2026/mayıs/ayfer-tunc.webp"
 excerpt: "Erenköy Kız Liseliler Derneği'nin İstanbul liseler arası düzenlediği yarışmada toplam ödül 10 bin TL. Son başvuru: 1 Haziran 2026."
 ---
 

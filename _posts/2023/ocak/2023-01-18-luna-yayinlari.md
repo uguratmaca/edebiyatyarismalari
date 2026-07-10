@@ -12,7 +12,7 @@ attendance: "Posta ya da E-Posta"
 organizer: "Luna Yayınları"
 requirements: "Yurt içinden ve yurt dışından 18 yaşını tamamlamış T.C. vatandaşları veya Türkçe yazan yazarlar katılabilir"
 permalink: "luna-yayinlari-4-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/ocak/luna-yayinlari-4-oyku-kucurek-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2023/ocak/luna-yayinlari-4-oyku-kucurek-oyku-yarismasi.webp"
 excerpt:  "Luna Yayınları 6. yılını <strong>öykü ve küçürek öykü yarışması</strong> ile kutluyor."
 ---
 

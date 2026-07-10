@@ -12,7 +12,7 @@ comTopic: "Köklerden Göklere Dede Korkut Hikayelerinin günümüze yansıması
 organizer: "Dede Korkut Platformu"
 requirements: "Türkiye geneli 9, 10, 11 ve 12. sınıf öğrencileri katılabilir"
 permalink: "dede-korkut-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2026/ocak/dede-korkut-oyku-yarismasi.jpeg"
+image: "https://edebiyatyarismalari.com/images/2026/ocak/dede-korkut-oyku-yarismasi.webp"
 excerpt:  "Dede Korkut Platformu 120 Bin TL ödüllü Turan'a Doğru Dede Korkut Liseler Arası Öykü Yarışması'nı duyurdu"
 ---
 

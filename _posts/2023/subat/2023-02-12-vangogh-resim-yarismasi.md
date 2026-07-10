@@ -13,7 +13,7 @@ attendance: "Kargo/Posta"
 organizer: "SU-ASEA Vakfı"
 requirements: "Millî Eğitim Bakanlığı’na bağlı tüm özel ve devlet okullarında öğrenim gören lise öğrencileri katılabilir."
 permalink: "vangogh-resim-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/subat/vangogh-resim-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2023/subat/vangogh-resim-yarismasi.webp"
 excerpt:  "SU-ASEA Vakfı <strong> Vincent van Gogh Resim Yarışması </strong> düzenliyor."
 ---
 

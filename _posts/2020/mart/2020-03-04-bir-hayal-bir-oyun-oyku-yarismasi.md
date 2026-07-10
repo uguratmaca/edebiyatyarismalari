@@ -9,7 +9,7 @@ lastDate: 1584392400
 dateHuman: "17 Mart 2020"
 attendance: "Websitesi/Posta"
 requirements: "Tüm ilkokul kurumlarının 2019-2020 eğitim-öğretim yılında üçüncü ve dördüncü sınıflarında okuyacak ve bunu belgeleyebilecek öğrenciler."
-image: "https://edebiyatyarismalari.com/images/2020/mart/bir-hayal-bir-oyun-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2020/mart/bir-hayal-bir-oyun-oyku-yarismasi.webp"
 ---
 
 Zorlu Holding tarafından düzenlenen “Bir Hayal Bir Oyun” Yarışması – 2020, geleceğin yazarlarının kendilerini keşfetmelerini sağlamayı amaçlıyor.

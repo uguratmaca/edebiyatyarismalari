@@ -11,7 +11,7 @@ comTopic: "Canım Ailem"
 organizer: "Gaziantep Aile ve Sosyal Hizmetler İl Müdürlüğü, Gaziantep İl Milli Eğitim Müdürlüğü"
 requirements: "Gaziantep ilinde eğitim gören öğrenciler"
 permalink: "canim-ailem-resim-siir-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/mart/canim-ailem-resim-siir-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/mart/canim-ailem-resim-siir-oyku-yarismasi.webp"
 excerpt:  "Hayatımın En Güzel Eseri Canım Ailem Resim, Şiir ve Öykü Yarışması başvuruları açıldı"
 ---
 

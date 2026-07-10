@@ -11,7 +11,7 @@ attendance: "Elden, Posta, Kargo"
 organizer: "Bursa Büyükşehir Belediyesi"
 requirements: "Yarışmaya 2024 yılı içinde ilk kez yayımlanmış Türkçe şiir kitaplarıyla başvurulabilir"
 permalink: "nazim-hikmet-siir-odulu"
-image: "https://edebiyatyarismalari.com/images/2025/ocak/nazim-hikmet-siir-odulu.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/ocak/nazim-hikmet-siir-odulu.webp"
 excerpt: "Nâzım Hikmet Şiir Ödülü, Bursa Büyükşehir Belediyesi tarafından, Türk şiirine katkı sunmak amacıyla verilir."
 ---
 

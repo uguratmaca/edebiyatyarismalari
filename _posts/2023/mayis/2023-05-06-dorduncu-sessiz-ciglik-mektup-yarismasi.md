@@ -13,7 +13,7 @@ price: "12 Bin TL'dir."
 organizer: "Yaşlı Hakları ve Ruh Sağlığı Derneği"
 requirements: "Sadece Kıbrıs’ta yaşayan bireyler ve yurtdışında yaşayan Kıbrıslılar katılabilir."
 permalink: "dorduncu-sessiz-ciglik-mektup-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/mayis/dorduncu-sessiz-ciglik-mektup-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2023/mayis/dorduncu-sessiz-ciglik-mektup-yarismasi.webp"
 excerpt:  "Yaşlı Hakları ve Ruh Sağlığı Derneği <strong> 4. Sessiz Çığlık Mektup Yarışması </strong> düzenliyor."
 ---
 

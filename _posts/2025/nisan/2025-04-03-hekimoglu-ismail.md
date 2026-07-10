@@ -10,7 +10,7 @@ attendance: "Websitesi"
 organizer: "Timaş Gülce Kitap"
 requirements: "18 yaşının üzerindeki herkes yarışmaya katılabilir"
 permalink: "3-hekimoglu-ismail-hikaye-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/nisan/hekimoglu-ismail-hikaye-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/nisan/hekimoglu-ismail-hikaye-yarismasi.webp"
 excerpt:  "Timaş Gülce Kitap 3. Hekimoğlu İsmail Hikâye Yarışması'nı duyurdu."
 ---
 

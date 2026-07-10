@@ -13,7 +13,7 @@ organizer: "TÜBİTAK"
 price: "603 Bin TL'dir."
 requirements: "Türkiye’de ve KKTC’de öğrenim gören ön lisans veya lisans öğrencileri katılabilir."
 permalink: "tubitak-arastirma-proje-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2022/mayis/tubitak-arastirma-proje-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2022/mayis/tubitak-arastirma-proje-yarismasi.webp"
 excerpt:  "TÜBİTAK <strong> TÜBİTAK Üniversite Öğrencileri Araştırma Proje Yarışmaları 2022 </strong> düzenliyor."
 ---
 

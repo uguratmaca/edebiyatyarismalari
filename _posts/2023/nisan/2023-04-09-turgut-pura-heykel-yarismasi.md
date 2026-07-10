@@ -13,7 +13,7 @@ organizer: "Turgut Pura Vakfı"
 requirements: "Plastik sanatlar eğitimi almış sanatçılar, sanat eğitimine devam eden öğrenciler ve bu alanda çalışmaları bulunan herkes katılabilir."
 price: "140 Bin TL'dir."
 permalink: "turgut-pura-heykel-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/nisan/turgut-pura-heykel-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2023/nisan/turgut-pura-heykel-yarismasi.webp"
 excerpt:  "Turgut Pura Vakfı <strong> heykel yarışması </strong> düzenliyor."
 ---
 

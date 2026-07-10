@@ -13,7 +13,7 @@ organizer: "Başkent Üniversitesi Sürdürülebilir Çevre Uygulama ve Araştı
 requirements: "Türkiye Üniversitelerinden ön lisans ve lisans öğrencileri katılabilir."
 price: "18 Bin TL'dir"
 permalink: "yesil-kampus-kisa-film-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/subat/yesil-kampus-kisa-film-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2023/subat/yesil-kampus-kisa-film-yarismasi.webp"
 excerpt:  "Başkent Üniversitesi Sürdürülebilir Çevre Uygulama ve Araştırma Merkezi <strong> 6. Yeşil Kampüs Etkinlikleri Kamu Spotu Yarışması </strong> düzenliyor."
 ---
 

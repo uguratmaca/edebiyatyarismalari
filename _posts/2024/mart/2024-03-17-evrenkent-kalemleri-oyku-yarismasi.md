@@ -13,7 +13,7 @@ organizer: "Evrenkent Kalemleri"
 requirements: "18 yaş ve üstü herkes katılabilir."
 price: "Bin 500 TL Amazon Hediye Kağıdı ve Kitap'dır."
 permalink: "evrenkent-kalemleri-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2024/mart/evrenkent-kalemleri-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2024/mart/evrenkent-kalemleri-oyku-yarismasi.webp"
 excerpt:  "Evrenkent Kalemleri <strong> öykü yarışması </strong> düzenliyor."
 ---
 

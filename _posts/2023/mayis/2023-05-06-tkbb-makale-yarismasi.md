@@ -12,7 +12,7 @@ price: "12 Bin $'dir."
 organizer: "Türkiye Katılım Bankaları Birliği (TKBB)"
 requirements: "Doktora öğrencileri, doktora mezun araştırmacıları, akademisyen ve sektör profesyonelleri katılabilir."
 permalink: "tkbb-makale-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2023/mayis/tkbb-makale-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2023/mayis/tkbb-makale-yarismasi.webp"
 excerpt:  "Türkiye Katılım Bankaları Birliği (TKBB) <strong> uluslararası makale yarışması </strong> düzenliyor."
 ---
 

@@ -11,7 +11,7 @@ comTopic: "Türk ve Dünya edebiyatından seçilen bir romanın okunup incelenme
 price: "3 Bin TL'dir"
 requirements: "Türkiye genelindeki sosyal bilimler liselerinde eğitim gören Hazırlık-9-10-11-12.sınıf öğrencileri katılacaktır."
 permalink: "benim-roman-kahramanim-deneme-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2020/ekim/benim-roman-kahramanim-deneme-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2020/ekim/benim-roman-kahramanim-deneme-yarismasi.webp"
 excerpt: "Benim Roman Kahramanım konulu <strong>deneme yarışması</strong> ile öğrencileri okumaya özendirmek, onların okudukları eserlerle bağ kurmalarını ve bilhassa yaklaşık yüz yetmiş yıllık roman birikimimizin genç kuşaklarca bilinmesini sağlamak amaçlanmaktadır."
 ---
 

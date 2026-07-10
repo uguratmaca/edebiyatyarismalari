@@ -12,7 +12,7 @@ organizer: "ULUED"
 requirements: "İsteyen herkes katılabilir."
 price: "5 Milyon TL'dir."
 permalink: "4-aydinlik-yarinlara-kitap-okuma-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/mart/aydinlik-yarinlara-kitap-okuma-yarismasi.png"
+image: "https://edebiyatyarismalari.com/images/2025/mart/aydinlik-yarinlara-kitap-okuma-yarismasi.webp"
 excerpt:  "5 Milyon TL ödüllü 4. Aydınlık Yarınlara Kitap Okuma Yarışması her yaştan katılımcıyı bekliyor."
 archived_to: "/aydinlik-yarinlara-kitap-okuma-yarismasi"
 ---

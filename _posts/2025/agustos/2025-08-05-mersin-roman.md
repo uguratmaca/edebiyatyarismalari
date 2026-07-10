@@ -12,7 +12,7 @@ comTopic: "Serbest"
 organizer: "Mersin Büyükşehir Belediyesi"
 requirements: "18 yaşını doldurmuş Türkiye Cumhuriyeti vatandaşları"
 permalink: "5-mersin-roman-odulu"
-image: "https://edebiyatyarismalari.com/images/2025/agustos/5-mersin-roman-odulu.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/agustos/5-mersin-roman-odulu.webp"
 excerpt: "Mersin Büyükşehir Belediyesi 5.Mersin Roman Ödülü'nü duyurdu"
 ---
 

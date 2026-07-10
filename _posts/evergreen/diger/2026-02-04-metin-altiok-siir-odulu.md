@@ -11,7 +11,7 @@ attendance: "Kargo/Posta"
 organizer: "Kırmızı Kedi Yayınevi"
 requirements: "İsteyen herkes katılabilir."
 permalink: "metin-altiok-siir-odulu"
-image: "https://edebiyatyarismalari.com/images/2026/subat/19-metin-altiok-siir-odulu.jpg"
+image: "https://edebiyatyarismalari.com/images/2026/subat/19-metin-altiok-siir-odulu.webp"
 excerpt: "Kırmızı Kedi Yayınevi'nin her yıl bir önceki yılda yayımlanmış şiir kitaplarına verdiği Metin Altıok Şiir Ödülü'ne son başvuru: 4 Mart 2026."
 ---
 

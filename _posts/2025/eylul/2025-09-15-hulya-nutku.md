@@ -11,7 +11,7 @@ comTopic: "Serbest"
 organizer: "“Hülya Nutku Oyun Yazarlığı Ödülleri” Koordinatörü Zeynep Nutku"
 requirements: "18 yaşını doldurmuş herkes katılabilir"
 permalink: "1-hulya-nutku-tiyatro-oyun-yazarligi-odulleri"
-image: "https://edebiyatyarismalari.com/images/2025/eylul/1-hulya-nutku-tiyatro-oyun-yazarligi-odulleri.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/eylul/1-hulya-nutku-tiyatro-oyun-yazarligi-odulleri.webp"
 excerpt:  "1. Hülya Nutku Tiyatro Oyun Yazarlığı Ödülleri son başvuru tarihi 1 Şubat 2026'dır"
 ---
 

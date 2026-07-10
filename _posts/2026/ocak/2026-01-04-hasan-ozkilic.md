@@ -12,7 +12,7 @@ organizer: "Mask Yayınları"
 attendance: "E-Posta"
 requirements: "Yarışma 18 yaş ve üzeri tüm katılımcılara açıktır"
 permalink: "hasan-ozkilic-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2026/ocak/hasan-ozkilic-oyku-yarismasi.jpeg"
+image: "https://edebiyatyarismalari.com/images/2026/ocak/hasan-ozkilic-oyku-yarismasi.webp"
 excerpt: "Mask Yayınları Hasan Özkılıç Öykü Yarışması'nı duyurdu."
 ---
 

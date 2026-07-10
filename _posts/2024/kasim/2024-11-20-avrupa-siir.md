@@ -10,7 +10,7 @@ attendance: "E-Posta"
 comTopic: "Göç, hasret, gurbet"
 requirements: "Yarışmaya Avrupa’da veya Türkiye dışında yaşayan şairler katılabilir"
 permalink: "avrupa-11-siir-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2024/kasim/11-avrupa-siir-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2024/kasim/11-avrupa-siir-yarismasi.webp"
 organizer: "Platform Dergi"
 excerpt: "Platform Dergi Avrupa Platform 11. Şiir Yarışmasını duyurdu"
 ---

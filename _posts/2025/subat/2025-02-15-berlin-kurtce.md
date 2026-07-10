@@ -12,7 +12,7 @@ comTopic: "Serbest"
 organizer: "Almanya Kürt Enstitüsü Berlin Şubesi"
 requirements: "Yarışma dili Kurmancîdir."
 permalink: "almanya-kurt-enstitusu-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/subat/almanya-kurt-enstitusu-oyku-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2025/subat/almanya-kurt-enstitusu-oyku-yarismasi.webp"
 excerpt: "1500 Euro ödüllü Almanya Kürt Enstitüsü Berlin Şubesi 1. Öykü Yarışması düzenleniyor."
 ---
 
