@@ -38,4 +38,4 @@ Dereceye giren makaleler düzenlenen bir panelde yazarları tarafından sunulaca
 - Beşinci: 1.000 $
 
 
-### [Başvuru Formu](essaycompetition.tkbb.org.tr/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://essaycompetition.tkbb.org.tr/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

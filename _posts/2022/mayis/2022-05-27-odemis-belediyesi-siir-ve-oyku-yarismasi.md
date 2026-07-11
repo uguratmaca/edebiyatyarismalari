@@ -20,7 +20,7 @@ excerpt:  "İzmir Ödemiş Belediyesi <strong> Ulusal Şiir ve Öykü Yarışmas
 ## Ulusal Şiir ve Öykü Yarışması
 İzmir Ödemiş Belediyesi **Ulusal Şiir ve Öykü Yarışması** düzenliyor.
 
-Yarışmayla ilgili her türlü duyuru ### [www.odemis.bel.tr](www.odemis.bel.tr){:rel="nofollow"}{:target="_blank"}{:class="gtag"} adresinden ilân edilecektir.  
+Yarışmayla ilgili her türlü duyuru ### [www.odemis.bel.tr](https://www.odemis.bel.tr){:rel="nofollow"}{:target="_blank"}{:class="gtag"} adresinden ilân edilecektir.  
 
 ### SEÇİCİ KURUL
 1. Dr. Alev COŞKUN (Cumhuriyet Gazetesi Vakfı Başkanı ve İmtiyaz Sahibi/Kültür
