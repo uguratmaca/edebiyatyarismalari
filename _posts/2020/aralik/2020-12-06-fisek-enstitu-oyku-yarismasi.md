@@ -11,6 +11,7 @@ price: "4 Bin 500 TL'dir"
 comTopic: "Çocuk işçiliğine hayır"
 requirements: "Yarışma herkesin katılımına açıktır."
 permalink: "fisek-enstitusu-oyku-yarismasi"
+redirect_from: ["/fisek-"]
 image: "https://edebiyatyarismalari.com/images/2020/aralik/fisek-enstitusu-oyku-yarismasi.jpg"
 excerpt: "Fişek Enstitüsü çocuk işçiliğe hayır konulu öykü yarışması düzenliyor"
 ---

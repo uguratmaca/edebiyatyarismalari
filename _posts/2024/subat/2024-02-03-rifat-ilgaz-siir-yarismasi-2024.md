@@ -12,6 +12,7 @@ organizer: "Cide Belediye Başkanlığı"
 requirements: "İsteyen herkes katılabilir."
 price: "5 Bin TL'dir."
 permalink: "rifat-ilgaz-siir-yarismasi-2024"
+redirect_from: ["/rifat-ilgaz-"]
 archived_to: "/rifat-ilgaz-siir-odulu"
 image: "https://edebiyatyarismalari.com/images/2024/subat/rifat-ilgaz-siir-yarismasi-2024.jpg"
 excerpt:  "Cide Belediye Başkanlığı <strong> 2024 Rıfat Ilgaz Şiir Yarışması </strong> düzenliyor."

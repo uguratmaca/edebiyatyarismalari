@@ -10,6 +10,7 @@ attendance: "E-Posta/Kargo/Posta"
 organizer: "Özgür Öyküşiir Dergisi"
 requirements: "İsteyen herkes katılabilir."
 permalink: "enver-gokce-siir-odulu-2026"
+redirect_from: ["/enver-gokce-siir-"]
 image: "https://edebiyatyarismalari.com/images/2024/subat/enver-gokce-siir-odulu-2024.jpg"
 excerpt: "Özgür Öyküşiir Dergisi Enver Gökçe Toplumcu Şiir Ödülü 2026 düzenliyor."
 archived_to: "/enver-gokce-siir-odulu"

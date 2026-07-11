@@ -11,6 +11,7 @@ attendance: "E-Posta"
 organizer: "Myrina Yayınları"
 requirements: "İsteyen herkes katılabilir."
 permalink: "myrina-yayinlari-oyku-yarismasi-2026"
+redirect_from: ["/myrina-yayinlari-"]
 image: "https://edebiyatyarismalari.com/images/2026/subat/myrina-yayinlari-oyku-yarismasi.jpg"
 excerpt:  "Myrina Yayınları 2026 Yılı Öykü Yarışması son başvuru tarihi 30 Nisan 2026'dır."
 archived_to: "/myrina-yayinlari-oyku-yarismasi"

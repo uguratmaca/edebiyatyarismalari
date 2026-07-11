@@ -13,6 +13,7 @@ organizer: "uStory"
 price: "1750 TL'dir."
 requirements: "Yarışmaya Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir."
 permalink: "2-interaktif-hikaye-yarismasi"
+redirect_from: ["/2-interaktif-hikaye-"]
 image: "https://edebiyatyarismalari.com/images/2022/temmuz/interaktif-hikaye-yarismalari.jpg"
 excerpt:  "uStory İnteraktif Mesleki Kurgular konulu 2.İnteraktif Hikâye Yarışması düzenliyor."
 ---

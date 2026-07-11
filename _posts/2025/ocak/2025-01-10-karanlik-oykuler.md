@@ -11,6 +11,7 @@ attendance: "E-Posta"
 organizer: "Ayrıkotu Kitap Yayınevi"
 requirements: "18 yaşını doldurmuş, yurtiçi ve yurtdışından, T.C. vatandaşı olan herkes katılabilir."
 permalink: "karanlik-oykuler-polisiye-oyku-yarismasi"
+redirect_from: ["/karanlik-oykuler-"]
 image: "https://edebiyatyarismalari.com/images/2025/ocak/karanlik-oykuler-polisiye-oyku-yarismasi.webp"
 excerpt: "Ayrıkotu Kitap Karanlık Öyküler Polisiye Öykü Yarışması'nı duyurdu"
 ---

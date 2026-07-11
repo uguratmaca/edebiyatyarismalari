@@ -11,6 +11,7 @@ attendance: "E-Posta"
 organizer: "Doğunun Kraliçesi Antakya Kültür Sanat ve Edebiyat Dergisi"
 requirements: "Yarışma, başvuru tarihi itibarıyla 18 yaşını doldurmuş tüm katılımcılara açıktır"
 permalink: "antakyanin-nefesi-siir-yarismasi"
+redirect_from: ["/antakyanin-nefesi-"]
 image: "https://edebiyatyarismalari.com/images/2026/subat/antakyanin-nefesi-siir-yarismasi.jpg"
 excerpt: "Doğunun Kraliçesi Antakya Kültür Sanat ve Edebiyat Dergisi Asi’nin Sesi, Antakya’nın Nefesi Şiir Yarışması'nı duyurdu."
 ---

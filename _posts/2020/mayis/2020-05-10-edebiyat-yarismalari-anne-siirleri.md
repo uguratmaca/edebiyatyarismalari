@@ -11,6 +11,7 @@ hidden: true
 comTopic: "Anne şiirleri"
 requirements: "Yarışmaya 18 yaşını doldurmuş herkes katılabilir."
 permalink: "anne-siirleri-siir-yarismasi"
+redirect_from: ["/anne-siirleri-siir-"]
 image: "https://edebiyatyarismalari.com/images/2020/mayis/anne-siirleri-siir-yarismasi.jpg"
 ---
 

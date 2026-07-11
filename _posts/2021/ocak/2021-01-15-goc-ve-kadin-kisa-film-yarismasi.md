@@ -11,6 +11,7 @@ price : "22 Bin TL'dir"
 comTopic: "Göç ve Kadın"
 requirements: "İsteyen herkes katılabilir"
 permalink: "goc-ve-kadin-kisa-film-yarismasi"
+redirect_from: ["/goc-ve-"]
 image: "https://edebiyatyarismalari.com/images/2021/ocak/goc-ve-kadin-kisa-film-yarismasi.jpg"
 excerpt: "Kadın ve Demokrasi Derneği (KADEM) Hatay Temsilciliği kadınların hayatında önemli izler bırakan, Göç ve Kadın konulu kısa film yarışması düzenliyor."
 ---

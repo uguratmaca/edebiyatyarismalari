@@ -12,6 +12,7 @@ attendance: "Websitesi"
 organizer: "Kahramanmaraş Belediyesi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "mevlana-idris-siir-yarismasi"
+redirect_from: ["/mevlana-idris-siir-"]
 image: "https://edebiyatyarismalari.com/images/2026/ocak/mevlana-idris-siir-yarismasi.avif"
 excerpt: "Kahramanmaraş Belediyesi Uluslararası Kahramanmaraş Şiir ve Edebiyat Günleri kapsamında düzenlenen Mevlana İdris Anısına Şiir Yarışması'nı duyurdu."
 ---

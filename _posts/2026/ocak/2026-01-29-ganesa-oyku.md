@@ -12,6 +12,7 @@ organizer: "Ganeşa Yayınevi"
 price: "10 Bin TL'dir"
 requirements: "17 yaşını doldurmuş herkes katılabilir"
 permalink: "ganesa-mitolojik-oyku-yarismasi-2026"
+redirect_from: ["/ganesa-mitolojik-"]
 image: "https://edebiyatyarismalari.com/images/2026/ocak/ganesa-mitolojik-oyku-yarismasi.webp"
 excerpt: "Ganeşa Yayınevi 2. Mitoloji Festivali Mitolojik Öykü Yarışması duyurdu."
 ---

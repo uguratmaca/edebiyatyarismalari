@@ -10,6 +10,7 @@ attendance: "E-Posta"
 comTopic: "Niçin Yazıyoruz?"
 requirements: "Katılım herkese açıktır"
 permalink: "haydi-sen-de-yaz-kompozisyon-mart-2021"
+redirect_from: ["/haydi-sen-"]
 image: "https://edebiyatyarismalari.com/images/2021/mart/haydi-sen-de-yaz-kompozisyon.jpg"
 excerpt: "Ocak ayında başlattığımız ve 6 ay sürecek olan edebiyat yarışmamızın üçüncüsü ile devam ediyoruz."
 ---

@@ -10,6 +10,7 @@ attendance: "Kargo/Posta"
 organizer: "Kırmızı Kedi Yayınevi"
 requirements: "İsteyen herkes katılabilir."
 permalink: "19-metin-altiok-siir-odulu"
+redirect_from: ["/19-metin-altiok-siir-"]
 image: "https://edebiyatyarismalari.com/images/2026/subat/19-metin-altiok-siir-odulu.webp"
 excerpt: "Kırmızı Kedi Yayınevi 19. Metin Altıok Şiir Ödülü'nü duyurdu"
 archived_to: "/metin-altiok-siir-odulu"

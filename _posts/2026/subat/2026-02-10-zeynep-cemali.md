@@ -10,6 +10,7 @@ attendance: "Posta, E-Posta"
 comTopic: "Mutluluk"
 requirements: "Bu yarışmaya Türkiye genelinde tüm 6, 7 ve 8. sınıf öğrencileri katılabilirler"
 permalink: "zeynep-cemali-oyku-yarismasi-2026"
+redirect_from: ["/zeynep-cemali-oyku"]
 archived_to: "/zeynep-cemali-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/subat/zeynep-cemali-oyku-yarismasi.jpg"
 organizer: "Günışığı Kitaplığı"

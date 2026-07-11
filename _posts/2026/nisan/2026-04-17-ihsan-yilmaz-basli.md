@@ -13,6 +13,7 @@ attendance: "E-Posta"
 organizer: "Eğitim-Sen Bafra Temsilciliği"
 requirements: "18 yaş üzeri yazar ve yazar adaylarına açıktır"
 permalink: "3-ihsan-yilmazsamli-oyku-yarismasi"
+redirect_from: ["/İhsan-Yilmazsamli-Oyku-Yarismasi"]
 image: "https://edebiyatyarismalari.com/images/2026/nisan/ihsanyilmazoyku.jpg"
 excerpt: "Eğitim-Sen Bafra Temsilciliği'nin 18 yaş üzeri yazarlara yönelik düzenlediği yarışmada toplam ödül 20 bin TL. Son başvuru: 30 Nisan 2026."
 ---

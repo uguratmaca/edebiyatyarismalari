@@ -12,6 +12,7 @@ sticky: true
 organizer: "Ganeşa Yayınevi"
 requirements: "18 yaşını bitirmiş kişiler yarışmaya katılabilir"
 permalink: "2-ganesa-mitolojik-oyku-yarismasi"
+redirect_from: ["/2-ganesa-mitolojik-"]
 image: "https://edebiyatyarismalari.com/images/2025/ocak/2-ganesa-mitolojik-oyku-yarismasi.jpg"
 excerpt: "Ganeşa Yayınevi 2. Ganeşa Mitolojik Öykü Yarışmasını duyurdu."
 ---

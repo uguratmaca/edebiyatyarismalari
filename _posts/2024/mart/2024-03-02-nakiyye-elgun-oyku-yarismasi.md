@@ -13,6 +13,7 @@ organizer: "FMV Özel Işık Ortaokulu Müdürlüğü"
 requirements: "İstanbul’da bulunan Resmi-Özel tüm ortaokul (6, 7 ve 8. Sınıflar) öğrencileri katılabilir."
 price: "15 Bin TL'dir."
 permalink: "nakiyye-elgun-oyku-yarismasi"
+redirect_from: ["/nakiyye-"]
 image: "https://edebiyatyarismalari.com/images/2024/mart/nakiyye-elgun-oyku-yarismasi.jpg"
 excerpt:  "FMV Özel Işık Ortaokulu Müdürlüğü <strong> Nakiyye Elgün Öykü Yarışması </strong> düzenliyor."
 ---

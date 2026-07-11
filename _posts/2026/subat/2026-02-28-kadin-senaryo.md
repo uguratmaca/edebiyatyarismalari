@@ -11,6 +11,7 @@ attendance: "E-Posta"
 organizer: "Uçan Süpürge Vakfı"
 requirements: "Yarışma, 18-30 yaş arası katılımcılara yöneliktir"
 permalink: "kadin-haklari-senaryo-yarismasi"
+redirect_from: ["/kadin-haklari-"]
 image: "https://edebiyatyarismalari.com/images/2026/subat/kadin-haklari-senaryo-yarismasi.jpg"
 excerpt: "Uçan Süpürge Vakfı Kadın Hakları Konulu Senaryo Yarışması'nı duyurdu."
 ---

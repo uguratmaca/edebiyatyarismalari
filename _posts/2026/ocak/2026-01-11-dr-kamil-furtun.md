@@ -11,6 +11,7 @@ price: "10 Bin TL'dir"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
 permalink: "dr-kamil-furtun-oyku-yarismasi-2026"
+redirect_from: ["/dr-kamil-furtun-oyku"]
 image: "https://edebiyatyarismalari.com/images/2026/ocak/dr-kamil-furtun-oyku-yarismasi.webp"
 organizer: "Samsun Tabip Odası"
 excerpt: "Samsun Tabip Odası Dr.Kamil Furtun adına Öykü Yarışması düzenliyor"

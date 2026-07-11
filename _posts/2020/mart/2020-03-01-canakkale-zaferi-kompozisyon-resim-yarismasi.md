@@ -10,6 +10,7 @@ dateHuman: "31 Mart 2020"
 comTopic: "Çanakkale Zaferi ve Mehmet Akif Ersoy"
 attendance: "Elden"
 requirements: "Yarışmaya sadece örgün eğitim-öğretime devam eden ortaokul öğrencileri katılabileceklerdir"
+redirect_from: ["/articles/2020/03/01/canakkalezaferikompozisyonresimyarismasi.html"]
 ---
 
 1. Yarışma, kompozisyon ve resim alanlarında, "Çanakkale Zaferi ve Mehmet Akif Ersoy" teması ile gerçekleştirilecektir.

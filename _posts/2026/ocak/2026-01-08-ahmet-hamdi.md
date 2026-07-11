@@ -12,6 +12,7 @@ organizer: "Bursa Büyükşehir Belediyesi"
 requirements: "İsteyen herkes katılabilir."
 price: "50 Bin TL'dir."
 permalink: "ahmet-hamdi-tanpinar-roman-odulu"
+redirect_from: ["/ahmet-hamdi-"]
 image: "https://edebiyatyarismalari.com/images/2026/ocak/ahmet-hamdi-tanpinar-roman-odulu.jpg"
 excerpt:  "Bursa Büyükşehir Belediyesi 50 Bin TL ödüllü Ahmet Hamdi Tanpınar Roman Ödülü'nü duyurdu."
 ---
