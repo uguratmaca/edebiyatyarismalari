@@ -8,3 +8,9 @@ image: "https://edebiyatyarismalari.com/images/genel/oyku-hikaye-yarismasi.jpg"
 description: "{{ site.year }} yılı öykü ve hikaye yarışmaları: kısa öykü, para ödüllü ve yazı yazma yarışması güncel duyuruları burada."
 permalink: "hikaye-yarismalari/"
 ---
+
+Türkçede "öykü" ve "hikâye" kelimeleri çoğu zaman birbirinin yerine kullanılsa da, bazı yarışma şartnameleri ikisi arasında ince bir ayrım yapar: hikâye daha çok olay örgüsüne, öykü ise duygu ve atmosfere dayanan kısa anlatıları tanımlamak için tercih edilir. Pratikte başvuru kuralları neredeyse her zaman aynıdır: eserin daha önce yayımlanmamış ve başka bir yarışmada ödül almamış olması, genellikle 1500-5000 kelime arasında bir uzunlukta olması beklenir.
+
+Öykü ve hikâye yarışmalarının organizatörleri oldukça çeşitlidir: yayınevleri kazanan eserleri bir antolojide veya kitapta yayımlama sözü verirken, belediyeler ve vakıflar genellikle nakit ödül sunar. Bazı yarışmalar tür bağımsızdır, bazıları ise polisiye, bilim kurgu, mitoloji veya çocuk edebiyatı gibi belirli bir alt türe odaklanır.
+
+Jüri değerlendirmesinde kurgu bütünlüğü, karakter derinliği, dil kullanımı ve temaya uygunluk öne çıkan kriterlerdir. Yeni başlayan yazarlar için öykü yarışmaları, eserini geniş bir okuyucu kitlesiyle buluşturmanın ve yayınevleriyle ilk teması kurmanın en erişilebilir yollarından biridir.
