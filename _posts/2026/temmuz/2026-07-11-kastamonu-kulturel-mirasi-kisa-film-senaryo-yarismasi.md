@@ -13,6 +13,7 @@ organizer: "Kastamonu Valiliği"
 requirements: "İsteyen herkes katılabilir."
 price: "50.000 TL'dir."
 permalink: "kastamonu-kulturel-mirasi-kisa-film-senaryo-yarismasi"
+image: "https://edebiyatyarismalari.com/images/2026/temmuz/kastamonu-kisa-film-senaryo-yarismasi.jpg"
 excerpt: "Kastamonu Valiliği, ilin somut ve somut olmayan kültürel mirasından ilham alan kısa film senaryoları için yarışma düzenliyor. Son başvuru: 31 Ağustos 2026."
 ---
 
