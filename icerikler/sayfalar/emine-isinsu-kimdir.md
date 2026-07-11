@@ -26,4 +26,4 @@ Yazar İskender Öksüz ile evlenen Emine Işınsu'nun üç çocuğu oldu. 2008 
 
 Anısına, doğum günü olan 17 Mayıs'ta sonuçları açıklanan **Emine Işınsu Roman Ödülü** her yıl düzenlenmektedir.
 
-### [Emine Işınsu Roman Ödülü hakkında bilgi almak için tıklayın](/emine-isinsu-roman-odulu-2027)
+### [Emine Işınsu Roman Ödülü hakkında bilgi almak için tıklayın](/emine-isinsu-roman-odulu)

@@ -11,6 +11,7 @@ attendance: "E-Posta"
 organizer: "Emine Işınsu"
 requirements: "İsteyen herkes katılabilir"
 permalink: "emine-isinsu-roman-odulu-2027"
+archived_to: "/emine-isinsu-roman-odulu"
 image: "https://edebiyatyarismalari.com/images/2024/haziran/emine-isinsu-roman-odulu-2025.jpg"
 excerpt: "Emine Işınsu Roman Ödülü'ne daha önce yayımlanmamış eserlerle isteyen herkes katılabilir. Son başvuru: 1 Şubat 2027."
 ---

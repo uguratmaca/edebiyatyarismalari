@@ -11,6 +11,7 @@ attendance: "E-Posta"
 organizer: "Emine Işınsu"
 requirements: "İsteyen herkes katılabilir"
 permalink: "emine-isinsu-roman-odulu-2025"
+archived_to: "/emine-isinsu-roman-odulu"
 image: "https://edebiyatyarismalari.com/images/2024/haziran/emine-isinsu-roman-odulu-2025.jpg"
 excerpt:  "<strong>2025 Emine Işınsu Roman Ödülü</strong>ne daha önce yayımlanmamış eserlerle isteyen herkes katılabilir."
 ---
