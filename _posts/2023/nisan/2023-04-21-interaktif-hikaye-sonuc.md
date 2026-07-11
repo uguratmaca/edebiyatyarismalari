@@ -5,6 +5,7 @@ description: "uStory tarafından düzenlenen 3. İnteraktif Hikâye Yarışması
 author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [sonuç 2023]
+noindex: true
 permalink: "interaktif-hikaye-sonuc"
 excerpt: "uStory tarafından düzenlenen 3. İnteraktif Hikâye Yarışması kazananları belli olmuştur."
 image: "https://edebiyatyarismalari.com/images/2023/nisan/interaktif-hikaye-sonuc.jpg"
