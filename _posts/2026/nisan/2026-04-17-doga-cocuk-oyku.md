@@ -3,6 +3,7 @@ layout: post
 title: "Doğan Çocuk Öykü Yarışması"
 description: "Doğan Çocuk Yayınları'nın 5, 6, 7 ve 8. sınıf öğrencilerine yönelik düzenlediği yarışmada her sınıf kategorisinde 30.000 TL, 20.000 TL ve 10.000 TL ödül var. Son başvuru: 30 Ekim 2026."
 author: "Ümit Atmaca"
+date: 2026-07-11
 category: articles
 tags: [ekim 2026, hikaye yarışması, ortaokul]
 lastDate: 1793307600
