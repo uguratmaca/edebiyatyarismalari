@@ -1,5 +1,7 @@
 ---
 layout: monthly
+noindex: true
+sitemap: false
 title: "Mart 2019 Edebiyat Yarışmaları"
 key: "mart 2019"
 description: "mart 2019 resim yarışması, şiir yarışmaları, yazı yazma yarışmaları"

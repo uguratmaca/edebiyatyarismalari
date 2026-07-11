@@ -1,5 +1,7 @@
 ---
 layout: monthly
+noindex: true
+sitemap: false
 title: "Ekim 2019 Edebiyat Yarışmaları"
 key: "ekim 2019"
 description: "ekim 2019, resim yarışmaları, yazı yazma yarışmaları, para ödüllü yarışmalar, öykü yarışması"

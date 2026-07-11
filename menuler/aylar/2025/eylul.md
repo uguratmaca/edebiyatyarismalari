@@ -1,5 +1,7 @@
 ---
 layout: monthly
+noindex: true
+sitemap: false
 title: "Eylül 2025 Yarışmalar"
 key: "eylül 2025"
 description: "Eylül 2025 son başvuru tarihli tüm edebiyat yarışmaları, senaryo yarışmaları, yazı yazma yarışmaları, öykü yarışmalarına buradan ulaşabilirsiniz."

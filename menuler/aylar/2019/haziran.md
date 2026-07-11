@@ -1,5 +1,7 @@
 ---
 layout: monthly
+noindex: true
+sitemap: false
 title: "Haziran 2019 Edebiyat Yarışmaları"
 key: "haziran 2019"
 description: "haziran 2019 edebiyat yarışmaları, öykü yarışması, kısa çocuk öyküleri"

@@ -1,5 +1,7 @@
 ---
 layout: monthly
+noindex: true
+sitemap: false
 title: "Ağustos 2020 Edebiyat Yarışmaları"
 key: "ağustos 2020"
 description: "ağustos 2020, resim yarışmaları, hikaye yazma, para ödüllü yarışmalar, öykü yarışması"

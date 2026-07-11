@@ -1,5 +1,7 @@
 ---
 layout: monthly
+noindex: true
+sitemap: false
 title: "Şubat 2022 Yarışmalar"
 key: "şubat 2022"
 description: "Son başvuru tarihi 2022 yılının Şubat Ayı olan tüm edebiyat yarışmaları, kitap okuma yarışmaları, resim yarışmaları, öykü yarışmalarına aşağıdan  ulaşabilirsiniz."
