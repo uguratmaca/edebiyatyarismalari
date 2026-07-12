@@ -3,6 +3,37 @@
   var allPosts = [];
   var visibleCount = PAGE_SIZE;
 
+  // Mirrors _plugins/attendance_normalizer.rb. Done client-side (instead of
+  // relying on the post.attendanceMethods field baked into yarismalar.json)
+  // because that field was observed to come through unnormalized in
+  // production despite building correctly locally - keeping this logic here
+  // makes the filter correct regardless of what the JSON contains.
+  var EPOSTA_PATTERN = /e[\s-]?post\w*|e[\s-]?mail/i;
+  var OTHER_CATEGORIES = [
+    ['Online/Web Sitesi', /web ?sitesi|wesitesi|online|internet sitesi|e-?devlet|çevrimiçi/i],
+    ['Kargo/Posta', /kargo|posta|ptt|aps\b/i],
+    ['Elden', /elden|şahsen|yüz ?yüze|teslim/i],
+    ['Okul/Kurum', /okul|müdürl|müftül|milli eğitim|öğretmen|veli|kurum|danışman|konsoloslu|bilgi evi|gençlik merkezi/i],
+    ['Sosyal Medya', /instagram|facebook|twitter|whatsapp|telegram|sosyal medya|mesaj/i]
+  ];
+
+  function normalizeAttendance(input) {
+    if (!input) return [];
+    var text = String(input).replace(/İ/g, 'i');
+    var matched = [];
+
+    if (EPOSTA_PATTERN.test(text)) {
+      matched.push('E-posta');
+      text = text.replace(EPOSTA_PATTERN, '');
+    }
+
+    OTHER_CATEGORIES.forEach(function (entry) {
+      if (entry[1].test(text)) matched.push(entry[0]);
+    });
+
+    return matched.length ? matched : ['Diğer'];
+  }
+
   var resultsEl = document.getElementById('filter-results');
   var countEl = document.getElementById('filter-count');
   var moreBtn = document.getElementById('filter-more');
@@ -15,7 +46,7 @@
 
   function matchesFilters(post, audience, types, attendanceMethods) {
     var tags = post.tags || [];
-    var methods = post.attendanceMethods || [];
+    var methods = normalizeAttendance(post.attendance);
     var audienceMatch = audience.length === 0 || audience.some(function (a) { return tags.indexOf(a) !== -1; });
     var typeMatch = types.length === 0 || types.some(function (t) { return tags.indexOf(t) !== -1; });
     var attendanceMatch = attendanceMethods.length === 0 || attendanceMethods.some(function (m) { return methods.indexOf(m) !== -1; });
