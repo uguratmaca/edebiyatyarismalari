@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Benim Eserim-7 Senaryo Yarışması"
-description: "SETEM, T.C. Kültür ve Turizm Bakanlığı Telif Hakları Genel Müdürlüğü desteğiyle 'Benim Eserim-7' Kısa Film Senaryo Yarışması düzenliyor. Son başvuru: 1 Eylül 2026."
+title: "Benim Eserim Senaryo Yarışması"
+description: "SETEM, T.C. Kültür ve Turizm Bakanlığı Telif Hakları Genel Müdürlüğü desteğiyle 'Benim Eserim' Kısa Film Senaryo Yarışması düzenliyor. Son başvuru: 1 Eylül 2026."
+date: 2026-07-11
 category: articles
-tags: [eylül 2026, senaryo yarışması, genel]
+tags: [her yıl tekrarlanan, eylül 2026, senaryo yarışması, genel]
 lastDate: 1788210000
 dateHuman: "1 Eylül 2026"
 comTopic: "Toplumda telif hakkı bilincinin arttırılması"
@@ -11,14 +12,14 @@ attendance: "E-Posta"
 organizer: "SETEM"
 requirements: "İsteyen herkes katılabilir."
 price: "22.500 TL'dir."
-permalink: "benim-eserim-7-senaryo-yarismasi"
+permalink: "benim-eserim-senaryo-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/benim-eserim-7-senaryo-yarismasi.webp"
-excerpt: "SETEM, T.C. Kültür ve Turizm Bakanlığı Telif Hakları Genel Müdürlüğü desteğiyle 'Benim Eserim-7' Kısa Film Senaryo Yarışması düzenliyor. Son başvuru: 1 Eylül 2026."
+excerpt: "SETEM, T.C. Kültür ve Turizm Bakanlığı Telif Hakları Genel Müdürlüğü desteğiyle 'Benim Eserim' Kısa Film Senaryo Yarışması düzenliyor. Son başvuru: 1 Eylül 2026."
 ---
 
-## Benim Eserim-7 Senaryo Yarışması
+## Benim Eserim Senaryo Yarışması
 
-Sinema ve Televizyon Eseri Sahipleri Meslek Birliği (SETEM), T.C. Kültür ve Turizm Bakanlığı Telif Hakları Genel Müdürlüğü desteğiyle **"Benim Eserim-7" Kısa Film Senaryo Yarışması**'nı düzenliyor. Yarışmanın amacı, toplumda telif hakları konusunda farkındalık düzeyinin artmasını sağlamaktır.
+Sinema ve Televizyon Eseri Sahipleri Meslek Birliği (SETEM), T.C. Kültür ve Turizm Bakanlığı Telif Hakları Genel Müdürlüğü desteğiyle **"Benim Eserim" Kısa Film Senaryo Yarışması**'nı düzenliyor. Yarışmanın amacı, toplumda telif hakları konusunda farkındalık düzeyinin artmasını sağlamaktır.
 
 Katılım Koşulları:
 - Gönderilecek senaryolar başka bir yerde yayınlanmamış ve tüm hakları yazarda olmalıdır.
@@ -33,8 +34,18 @@ Katılım Koşulları:
 - Son başvuru tarihi 1 Eylül 2026 saat 23:59'dur. Bu tarihten sonra gelen senaryolar değerlendirmeye alınmayacaktır.
 - Sonuçlar 15 Eylül 2026 tarihinde www.setem.org.tr adresinde ilan edilecek, derece alanlara ayrıca telefon ve/veya e-posta yoluyla bilgi verilecektir.
 
-### Benim Eserim-7 Senaryo Yarışması Ödülleri
+### Benim Eserim Senaryo Yarışması Ödülleri
 
 - Birincilik: 10.000 TL
 - İkincilik: 7.500 TL
 - Üçüncülük: 5.000 TL
+
+### Geçmiş Yıllar
+
+Benim Eserim Senaryo Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+
+- [2024](/benim-eserim-5-senaryo-yarismasi/)
+- [2023](/benim-eserim-senaryo-yarismasi-2023/)
+- [2022](/benim-eserim-senaryo-yarismasi-2022/)
+- [2020](/benim-eserim-2-senaryo-yarismasi/)
+- [2019](/articles/2019/04/30/benim-eserim-senaryo-yarismasi.html)

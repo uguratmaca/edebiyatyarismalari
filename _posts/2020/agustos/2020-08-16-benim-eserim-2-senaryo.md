@@ -12,6 +12,7 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "benim-eserim-2-senaryo-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/agustos/benim-eserim-2-senaryo-yarismasi.jpg"
 excerpt: "Sinema ve Televizyon Eseri Sahipleri Meslek Birliği (SETEM) tarafından T.C. Kültür ve Turizm Bakanlığı Telif Hakları Genel Müdürlüğü desteği ile “Kısa Film Senaryo Yarışması” düzenlenmiştir. “Benim Eserim-2” projesinin bir ayağı olan senaryo yarışmasının amacı; Telif Hakları konusunda farkındalık düzeyinin artmasını sağlamaktır."
+archived_to: "/benim-eserim-senaryo-yarismasi"
 ---
 
 Amaç:  

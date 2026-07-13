@@ -14,6 +14,7 @@ price: "20 Bin TL'dir."
 permalink: "benim-eserim-5-senaryo-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/nisan/benim-eserim-5-senaryo-yarismasi.jpg"
 excerpt:  "SETEM <strong> 5. Benim Eserim Senaryo Yarışması </strong> düzenliyor."
+archived_to: "/benim-eserim-senaryo-yarismasi"
 ---
 
 ## 5. Benim Eserim Senaryo Yarışması

@@ -15,6 +15,7 @@ requirements: "İsteyen herkes katılabilir."
 permalink: "benim-eserim-senaryo-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/haziran/benim-eserim-senaryo-yarismasi-2023.jpg"
 excerpt:  "Sinema ve Televizyon Eseri Sahipleri Meslek Birliği (SETEM) <strong> 4. Benim Eserim Senaryo Yarışması </strong> düzenliyor."
+archived_to: "/benim-eserim-senaryo-yarismasi"
 ---
 
 ## 4. Benim Eserim Senaryo Yarışması

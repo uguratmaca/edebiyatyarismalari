@@ -11,9 +11,10 @@ comTopic: "Telif Hakları"
 attendance: "E-posta"
 organizer: "Sinema ve Televizyon Eseri Sahipleri Meslek Birliği (SETEM)"
 requirements: "Üniversite öğrencileri ve bu alandaki profesyoneller katılabilir."
-permalink: "benim-eserim-senaryo-yarismasi"
+permalink: "benim-eserim-senaryo-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/benim-eserim-senaryo-yarismasi.jpg"
 excerpt:  "Sinema ve Televizyon Eseri Sahipleri Meslek Birliği (SETEM) <strong> 3. Benim Eserim Senaryo Yarışması </strong> düzenliyor."
+archived_to: "/benim-eserim-senaryo-yarismasi"
 ---
 
 ## 3. Benim Eserim Senaryo Yarışması

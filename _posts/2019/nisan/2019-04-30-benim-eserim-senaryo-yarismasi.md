@@ -9,6 +9,7 @@ lastDate: 1561842000
 dateHuman: "30 Haziran 2019"
 comTopic: "Telif Hakları"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/benim-eserim-senaryo-yarismasi.jpg?alt=media&token=ede78092-7dea-402d-9442-679103ae8567"
+archived_to: "/benim-eserim-senaryo-yarismasi"
 ---
 
 1.Amaç ve Konu:
