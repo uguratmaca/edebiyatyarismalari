@@ -2,7 +2,6 @@
 layout: post
 title: "Kastamonu Kültürel Mirası Kısa Film Senaryo Yarışması"
 description: "Kastamonu Valiliği, ilin somut ve somut olmayan kültürel mirasından ilham alan kısa film senaryoları için yarışma düzenliyor. Son başvuru: 31 Ağustos 2026."
-author: "Ümit Atmaca"
 category: articles
 tags: [ağustos 2026, senaryo yarışması, genel]
 lastDate: 1788123600

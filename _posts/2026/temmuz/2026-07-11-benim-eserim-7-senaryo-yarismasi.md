@@ -2,7 +2,6 @@
 layout: post
 title: "Benim Eserim-7 Senaryo Yarışması"
 description: "SETEM, T.C. Kültür ve Turizm Bakanlığı Telif Hakları Genel Müdürlüğü desteğiyle 'Benim Eserim-7' Kısa Film Senaryo Yarışması düzenliyor. Son başvuru: 1 Eylül 2026."
-author: "Ümit Atmaca"
 category: articles
 tags: [eylül 2026, senaryo yarışması, genel]
 lastDate: 1788210000

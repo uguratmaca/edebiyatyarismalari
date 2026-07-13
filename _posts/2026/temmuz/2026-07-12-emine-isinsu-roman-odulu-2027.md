@@ -3,6 +3,7 @@ layout: post
 title: "2027 Emine Işınsu Roman Ödülü"
 description: "Emine Işınsu Roman Ödülü'ne daha önce yayımlanmamış eserlerle isteyen herkes katılabilir. Son başvuru: 1 Şubat 2027."
 category: articles
+date: 2026-05-05
 tags: [şubat 2027, roman yarışması, kitap dosyası, genel]
 lastDate: 1801429200
 dateHuman: "1 Şubat 2027"
