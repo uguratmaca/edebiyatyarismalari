@@ -8,7 +8,7 @@ comments: true
 lastDate: 1632952800    
 dateHuman: "30 Eylül 2021"
 comTopic: "Hoşgörü, sabır, sevgi ve özveri"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 attendance: "E-Posta"
 requirements: "Yarışma, okul kimlikleriyle başvuru yapan ortaöğretim kurumlarının 12. sınıf öğrencilerine açık olacaktır."
 permalink: "yunusca-yasamak-kisa-oyku-yarismasi"

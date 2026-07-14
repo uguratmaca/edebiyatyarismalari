@@ -8,7 +8,7 @@ lastDate: 1739487600
 dateHuman: "14 Şubat 2025"
 comTopic: "Toplum ve Kadın"
 attendance: "E-Posta"
-price: "25 Bin TL'dir"
+totalPrize: "25 Bin TL'dir"
 organizer: "Özel Antalya Toplum Koleji Anadolu Lisesi"
 requirements: "Antalya il sınırları ve merkez ilçeler kapsamında ortaöğretim kurumuna bağlı tüm liselerde geçerlidir"
 permalink: "toplum-liselerarasi-1-oyku-yarismasi"

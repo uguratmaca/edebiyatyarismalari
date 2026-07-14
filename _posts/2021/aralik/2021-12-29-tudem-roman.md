@@ -9,7 +9,7 @@ lastDate: 1667257200
 dateHuman: "1 Kasım 2022"
 comTopic: "Serbest"
 attendance: "Posta, Kargo"
-price: "22500 TL'dir"
+totalPrize: "22500 TL'dir"
 requirements: "Yarışma tüm yazarlara açıktır. Uyruğu ve öğrenim durumu ne olursa olsun 18 yaşın üzerinde olan ve şartname koşullarına uyan herkes katılabilir"
 permalink: "20-tudem-edebiyat-odulleri"
 archived_to: "/tudem-edebiyat-odulleri"

@@ -8,7 +8,7 @@ lastDate: 1605387600
 dateHuman: "15 Kasım 2020"
 attendance: "Web sitesi"
 comTopic: "Özgür Kudüs'e giden yol"
-price: "26 Bin TL'dir"
+totalPrize: "26 Bin TL'dir"
 requirements: "Yarışmaya 15-30 yaş aralığındaki kişiler katılabilir"
 permalink: "mavi-marmara-oyku-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/mavi-marmara-kudus-oyku-siir-yarismasi.jpg"

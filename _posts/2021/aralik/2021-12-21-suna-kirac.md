@@ -9,7 +9,7 @@ lastDate: 1644620400
 dateHuman: "12 Şubat 2022"
 comTopic: "Oyun"
 attendance: "E-Posta"
-price: "9 Bin 500 TL'dir"
+totalPrize: "9 Bin 500 TL'dir"
 requirements: "İstanbul genelindeki devlet liselerini ve özel liseleri kapsamaktadır"
 permalink: "15-suna-kirac-liselerarasi-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/15-suna-kirac-liseler-arasi-oyku-yarismasi.jpg"

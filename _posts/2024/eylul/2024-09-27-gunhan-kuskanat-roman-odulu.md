@@ -8,7 +8,7 @@ lastDate: 1728943200
 dateHuman: "15 Ekim 2024"
 attendance: "Posta, Kargo"
 comTopic: "Serbest"
-price: "20 Bin TL'dir"
+totalPrize: "20 Bin TL'dir"
 organizer: "Yeditepe Üniversitesi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "gunhan-kuskanat-roman-odulu"

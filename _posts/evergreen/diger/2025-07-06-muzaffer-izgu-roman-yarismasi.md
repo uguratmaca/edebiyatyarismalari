@@ -7,7 +7,7 @@ tags: [her yıl tekrarlanan, eylül 2025, roman yarışması, muzaffer izgü, ge
 lastDate: 1759183200
 dateHuman: "​30 Eylül 202​5"
 attendance: "E-Posta"
-price: "15 Bin TL'dir"
+totalPrize: "15 Bin TL'dir"
 comTopic: "Serbest"
 organizer: "Bilgi Yayınevi"
 requirements: "Yarışmamıza 18 yaş ve üzerindeki herkes davetlidir"

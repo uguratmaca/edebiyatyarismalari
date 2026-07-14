@@ -8,7 +8,7 @@ lastDate: 1589576400
 dateHuman: "16 Mayıs 2020"
 attendance: "Whatsapp"
 comTopic: "Serbest"
-price: "2 Bin TL'dir"
+totalPrize: "2 Bin TL'dir"
 requirements: "Yarışmaya 15 ile 20 yaş aralığında gençler katılabilir."
 permalink: "gokyuzu-genc-yazarlar-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/mayis/19-mayis-oyku-yarismasi-gokyuzu.jpg"

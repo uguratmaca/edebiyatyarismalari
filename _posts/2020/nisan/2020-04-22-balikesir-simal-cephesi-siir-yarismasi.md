@@ -8,7 +8,7 @@ lastDate: 1594760400
 dateHuman: "15 Temmuz 2020"
 attendance: "E-Posta"
 comTopic: "Kuvâ-yi Milliye"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 requirements: "Balıkesir il geneli lise öğrencileri katılabilir"
 permalink: "balikesir-baysad-siir-yarismasi-2020"
 image: "https://edebiyatyarismalari.com/images/2020/nisan/simal-cephesi-siir-yarismasi-baysad-10.jpg"

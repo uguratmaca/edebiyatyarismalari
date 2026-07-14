@@ -9,7 +9,7 @@ lastDate: 1627765200
 dateHuman: "1 Ağustos 2021"
 comTopic: "Serbest"
 attendance: "Posta, Kargo"
-price: "2 Bin 500 TL'dir"
+totalPrize: "2 Bin 500 TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "mufide-guzin-anadol-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2021/mayis/mufide-guzin-anadol-oyku-odulu.jpg"

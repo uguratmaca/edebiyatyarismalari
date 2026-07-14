@@ -9,7 +9,7 @@ lastDate: 1663189200
 dateHuman: "15 Eylül 2022"
 comTopic: "Serbest"
 organizer: "Eskişehir Sanat Derneği"
-price: "Yunus Emre Heykelciği ve Ödül Belgesi'dir."
+totalPrize: "Yunus Emre Heykelciği ve Ödül Belgesi'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "14-yunus-emre-siir-yarismasi"
 archived_to: "/yunus-emre-siir-yarismasi"

@@ -7,7 +7,7 @@ comments: true
 lastDate: 1596747600    
 dateHuman: "7 Ağustos 2020"
 attendance: "E-Posta"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 comTopic: "Eksik Yaşım"
 requirements: "Ön lisans, lisans veya lisansüstü öğrencileri katılabilir"
 permalink: "4-zeynep-basak-gulsoy-deneme-yarismasi"

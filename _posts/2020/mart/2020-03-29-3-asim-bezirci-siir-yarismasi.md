@@ -8,7 +8,7 @@ lastDate: 1592168400
 dateHuman: "15 Haziran 2020"
 attendance: "Posta/Kargo/Elden"
 comTopic: "Serbest"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 requirements: "TÜRMOB'a bağlı Odalara kayıtlı meslek mensuplarının ve stajyerlerin katılabileceği bir şiir yarışmasıdır"
 image: "https://edebiyatyarismalari.com/images/2020/mart/3-asim-bezirci-siir-yarismasi.jpg"
 permalink: "3-asim-bezirci-siir-yarismasi-2020"

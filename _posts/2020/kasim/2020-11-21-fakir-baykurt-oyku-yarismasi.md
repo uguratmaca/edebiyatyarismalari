@@ -8,7 +8,7 @@ lastDate: 1613336400
 dateHuman: "15 Şubat 2021"
 attendance: "Posta-Kargo"
 comTopic: "Serbest"
-price: "25 Bin TL'dir"
+totalPrize: "25 Bin TL'dir"
 requirements: "Ortaokul ve lise öğrencileri ve yetişkinler katılabilir"
 permalink: "sariyer-fakir-baykurt-oyku-yarismasi"
 archived_to: "/fakir-baykurt-oyku-yarismasi"

@@ -9,7 +9,7 @@ lastDate: 1575579600
 dateHuman: "6 Aralık 2019"
 attendance: "Web sitesi"
 comTopic: "Ailenin korunması ve toplum düzeni"
-price: "11 Bin TL'dir"
+totalPrize: "11 Bin TL'dir"
 requirements: "Yaş sınırı olmadan isteyen herkes katılabilir"
 ---
 

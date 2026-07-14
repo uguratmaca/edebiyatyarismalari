@@ -7,7 +7,7 @@ tags: [mart 2025, hikaye yarışması, lise, dede korkut]
 lastDate: 1741388400
 dateHuman: "8 Mart 2025"
 attendance: "E-Posta"
-price: "120 Bin TL'dir"
+totalPrize: "120 Bin TL'dir"
 comTopic: "Serbest"
 organizer: "Türk Dünyası Dayanışma ve Yardımlaşma Derneği"
 requirements: "Türkiye geneli 9, 10, 11 ve 12. sınıf öğrencileri katılabilir"

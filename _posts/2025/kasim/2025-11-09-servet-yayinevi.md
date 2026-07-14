@@ -7,7 +7,7 @@ tags: [aralık 2025, hikaye yarışması, genel]
 lastDate: 1767049200
 dateHuman: "30 Aralık 2025"
 attendance: "E-Posta"
-price: "250 Dolar'dır"
+totalPrize: "250 Dolar'dır"
 comTopic: "Serbest"
 organizer: "Kartopu Enez Gönüllüleri ve Sahil Sakinleri Derneği"
 requirements: "İsteyen herkes katılabilir"

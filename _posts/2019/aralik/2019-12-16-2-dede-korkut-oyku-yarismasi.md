@@ -8,7 +8,7 @@ comments: true
 lastDate: 1585515600
 dateHuman: "30 Mart 2020"
 comTopic: "Serbest"
-price: "13 Bin TL'dir"
+totalPrize: "13 Bin TL'dir"
 attendance: "Posta/Kargo"
 requirements: "Yetişkin kategorisine herkes katılabilir, öğrenci kategorisine sadece Elazığ'da öğrenim görenler katılabilir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/2-uluslararasi-dede-korkut-oyku-yarismasi-2020.jpg?alt=media&token=3cdc4cba-6552-4dab-a4ea-fc8867f95c9f"

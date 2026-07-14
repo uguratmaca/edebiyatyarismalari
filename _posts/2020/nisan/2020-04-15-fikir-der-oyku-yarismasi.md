@@ -7,7 +7,7 @@ comments: true
 lastDate: 1590786000    
 dateHuman: "30 Mayıs 2020" 
 attendance: "Websitesi"
-price: "2 Bin 250 TL'dir"
+totalPrize: "2 Bin 250 TL'dir"
 comTopic: "Karantina"
 requirements: "Ülkemizdeki 30 yaş ve altındaki gençler katılabilir"
 permalink: "fikir-hareketi-dernegi-evde-kal-oyku-yarismasi"

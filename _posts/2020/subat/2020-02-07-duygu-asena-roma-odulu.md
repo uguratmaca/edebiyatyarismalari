@@ -8,7 +8,7 @@ comments: true
 archived_to: "/duygu-asena-roman-odulu"
 lastDate: 1582837200
 dateHuman: "28 Şubat 2020"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 comTopic: "Türkiye’de kadının yerini sorgulayan, hayata kadınların penceresinden bakan, yaşanan zorluklar"
 attendance: "Posta/Kargo"
 requirements: "Ödüle aday olmak ya da başvurmak için Türkiye Cumhuriyeti vatandaşı olmalıdır."

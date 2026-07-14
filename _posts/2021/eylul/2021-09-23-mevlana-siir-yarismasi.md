@@ -7,7 +7,7 @@ tags: [kasım 2021, şiir yarışması, lise, mevlana]
 comments: true
 lastDate: 1636671600 
 dateHuman: "12 Kasım 2021"
-price: "15 Bin TL'dir"
+totalPrize: "15 Bin TL'dir"
 comTopic: "Serbest"
 attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"

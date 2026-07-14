@@ -9,7 +9,7 @@ lastDate: 1579467600
 dateHuman: "20 Ocak 2019"
 attendance: "Web sitesi (Online)"
 comTopic: "Ceza Muhakemesinde Sosyal Medyanın Etkisi"
-price: "22 Bin 500 TL'dir"
+totalPrize: "22 Bin 500 TL'dir"
 requirements: "Yarışmaya yalnızca Hukuk Fakültesi lisans öğrencileri katılım gösterebilir."
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ceza-muhakeme-makale-yarismasi-2020.jpg?alt=media&token=5106a6c4-b306-4a95-b5b6-8dfbe21af8e8"
 ---

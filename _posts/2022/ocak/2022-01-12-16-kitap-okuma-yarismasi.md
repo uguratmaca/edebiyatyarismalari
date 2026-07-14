@@ -9,7 +9,7 @@ lastDate: 1644015600
 dateHuman: "5 Şubat 2022"
 comTopic: "21 Farklı Kitap"
 attendance: "Bilgi Evi"
-price: "82 Bin TL'dir"
+totalPrize: "82 Bin TL'dir"
 organizer: "Zeytinburnu Belediyesi"
 requirements: "İlkokul, ortaokul, lise ve yetişkinler katılabilir"
 permalink: "16-kitap-okuma-yarismasi"

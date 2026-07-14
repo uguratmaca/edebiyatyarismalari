@@ -7,7 +7,7 @@ comments: true
 lastDate: 1610658000  
 dateHuman: "15 Ocak 2021"
 attendance: "Web sitesi"
-price: "10500 TL'dir"
+totalPrize: "10500 TL'dir"
 comTopic: "Geleceğin çiftlikleri"
 requirements: "Alltech Resim Yarışması’na, temel eğitim seviyesinde (ilkokul-ortaokul) öğrenim gören, 2010 ile 2014 tarihleri arasında doğan, 7-11 yaşlarındaki Türkiye Cumhuriyeti vatandaşı öğrenciler katılabilirler"
 permalink: "alltech-resim-yarismasi"

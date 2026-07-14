@@ -7,7 +7,7 @@ tags: [şubat 2025, hikaye yarışması, genel]
 lastDate: 1738364400
 dateHuman: "1 Şubat 2025"
 attendance: "E-Posta"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 comTopic: "Emekçi Kadın"
 requirements: "18 yaşını doldurmuş ve daha önce öykü kitabı yayınlanmamış herkes katılabilir"
 permalink: "ilerici-kadinlar-oyku-odulu"

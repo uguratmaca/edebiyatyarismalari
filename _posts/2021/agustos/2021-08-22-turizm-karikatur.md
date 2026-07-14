@@ -9,7 +9,7 @@ lastDate: 1640905200
 dateHuman: "31 Aralık 2021"
 comTopic: "Turizm sektörü çalışanları"
 attendance: "Posta ya da E-Posta"
-price: "5 Bin TL'dir"
+totalPrize: "5 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "13-turizm-karikatur-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/agustos/turizm-karikatur-yarismasi.jpg"

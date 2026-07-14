@@ -7,7 +7,7 @@ comments: true
 lastDate: 1614459600 
 dateHuman: "28 Şubat 2021"
 attendance: "E-Posta, Websitesi"
-price: "1750 TL'dir"
+totalPrize: "1750 TL'dir"
 comTopic: "Çanakkale Zaferi"
 requirements: "18 yaş üstü herkes katılabilir"
 permalink: "mehmet-akif-ersoy-siir-yarismasi"

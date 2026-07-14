@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "01 Mayıs 2022"
 comTopic: "Muğla Sıtkı Koçman Üniversitesi’ni temsil edebilecek nitelikte, üniversitenin misyon ve vizyonuna uygun, yüceltici olmalıdır."
 attendance: "E-posta"
-price: "19 Bin TL'dir."
+totalPrize: "19 Bin TL'dir."
 organizer: "Muğla Sıtkı Koçman Üniversitesi"
 requirements: "Yarışmaya yurtiçinde veya yurtdışında yaşayan, Türkiye Cumhuriyeti vatandaşı besteciler
 katılabilir. 18 yaşından küçükler veli muvafakatnamesi ile katılabilir."

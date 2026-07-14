@@ -10,7 +10,7 @@ dateHuman: "26 Haziran 2022"
 comTopic: "Zamansız Yolculuk"
 hidden: true
 attendance: "Websitesi"
-price: "140 Bin TL'dir."
+totalPrize: "140 Bin TL'dir."
 organizer: "Denizli İhracatçılar Birliği (DENİB)"
 requirements: "18–30 yaş arası gerçek kişiler katılabilir."
 permalink: "ev-banyo-tekstili-tasarim-yarismasi"

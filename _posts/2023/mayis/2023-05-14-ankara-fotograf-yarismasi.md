@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "26 Kasım 2023"
 attendance: "Websitesi"
 organizer: "Ankara Kalkınma Ajansı"
-price: "25 Bin 500 TL'dir."
+totalPrize: "25 Bin 500 TL'dir."
 requirements: "Amatör ve profesyonel tüm fotoğrafçılar katılabilir."
 permalink: "ankara-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mayis/ankara-fotograf-yarismasi.jpg"

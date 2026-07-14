@@ -9,7 +9,7 @@ lastDate: 1664658000
 dateHuman: "02 Ekim 2022"
 comTopic: "Yunus Emre ve Felsefesidir."
 attendance: "Websitesi"
-price: "31 Bin 400 TL'dir"
+totalPrize: "31 Bin 400 TL'dir"
 organizer: "SE-K-A-SAR Vakfı"
 requirements: "Seçici Kurul üyeleri ve TFSF Temsilcileri ile birinci dereceden yakınları, 18 yaşından küçükler dışında, ülkemizde yerleşik amatör ve profesyonel tüm fotoğrafçıların katılımına açıktır."
 permalink: "yunusca-bakmak-fotograf-yarismasi"

@@ -8,7 +8,7 @@ lastDate: 1618952400
 dateHuman: "30 Nisan 2021"
 attendance: "Posta-Kargo"
 comTopic: "Gezegenin Geleceği: Kaygılar ve Umutlar"
-price: "3750 TL'dir"
+totalPrize: "3750 TL'dir"
 requirements: "Tüm lisesi öğrencileri katılabilir"
 permalink: "kapadokya-oyku-yazma-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/kasim/kapadokya-universitesi-oyku-yazma-yarismasi.jpg"

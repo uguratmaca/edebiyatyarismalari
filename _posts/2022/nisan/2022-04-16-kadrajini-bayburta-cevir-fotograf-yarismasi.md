@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "15 Haziran 2022"
 comTopic: "Kadrajını Bayburt’a Çevir"
 attendance: "E-posta/Elden"
-price: "6 Bin 500 TL'dir."
+totalPrize: "6 Bin 500 TL'dir."
 organizer: "Bayburt Belediyesi"
 requirements: "Seçici kurul üyeleri dışında tüm amatör ve profesyonel fotoğrafçılar katılabilir."
 permalink: "kadrajini-bayburta-cevir-fotograf-yarismasi"

@@ -9,7 +9,7 @@ lastDate: 1656536400
 dateHuman: "30 Haziran 2022"
 comTopic: "Serbest"
 attendance: "Kargo"
-price: "10 Bin TL'dir."
+totalPrize: "10 Bin TL'dir."
 organizer: "Bursa Yazın ve Sanat Derneği (BUYAZ) ve Üren Ailesi"
 requirements: "18 yaş ve üstü tüm şairler katılabilir."
 permalink: "ihsan-uren-siir-odulu"

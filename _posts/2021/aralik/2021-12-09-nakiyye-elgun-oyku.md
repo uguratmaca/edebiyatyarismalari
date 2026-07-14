@@ -7,7 +7,7 @@ tags: [mart 2022, ortaokul, hikaye yarışması]
 comments: true
 lastDate: 1648162800
 dateHuman: "25 Mart 2022"
-price: "6250 Bin TL'dir"
+totalPrize: "6250 Bin TL'dir"
 comTopic: "Doğa Sevgisi"
 attendance: "Websitesi"
 requirements: "Türkiye’deki resmî ve özel okulların 5, 6, 7 ve 8. sınıf öğrencileri"

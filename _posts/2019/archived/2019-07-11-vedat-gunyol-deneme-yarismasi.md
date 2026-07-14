@@ -7,7 +7,7 @@ tags: [kasım 2019, genel, deneme yarışması]
 comments: true
 lastDate: 1575061200
 dateHuman: "30 Kasım 2019"
-price: "13 Bin 500 TL'dir"
+totalPrize: "13 Bin 500 TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/vedat-gunyol-deneme-yarismasi.jpg?alt=media&token=2440370a-78d6-4507-8dd1-62fa0661959e"
 archived_to: "/vedat-gunyol-deneme-yarismasi"
 ---

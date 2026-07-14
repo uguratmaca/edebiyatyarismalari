@@ -9,7 +9,7 @@ lastDate: 1663189200
 dateHuman: "15 Eylül 2022"
 attendance: "Kargo"
 organizer: "Balıkesir Belediyesi Balıkesir Kent Konseyi"
-price: "795 Bin TL'dir."
+totalPrize: "795 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "sanatin-on-hali-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/mayis/sanatin-on-hali-yarismasi.jpg"

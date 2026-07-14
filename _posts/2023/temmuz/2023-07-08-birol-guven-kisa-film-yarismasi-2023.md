@@ -11,7 +11,7 @@ comTopic: "Depremle Değişen Hayatlar"
 attendance: "Elden/E-Posta"
 organizer: "Darıca Kaymakamlığı"
 hidden: true
-price: "100 Bin TL'dir."
+totalPrize: "100 Bin TL'dir."
 requirements: "15 yaş üstü film sever herkes katılabilir."
 permalink: "birol-guven-kisa-film-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/temmuz/birol-guven-kisa-film-yarismasi-2023.jpg"

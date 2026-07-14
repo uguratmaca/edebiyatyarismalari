@@ -12,7 +12,7 @@ attendance: "Posta/Kargo/E-Posta"
 hidden: true
 organizer: "Energo-Pro Türkiye"
 requirements: "Değerlendirme komitesi dışında tüm profesyonel ve amatör katılımcılar katılabilir."
-price: "60 Bin TL'dir"
+totalPrize: "60 Bin TL'dir"
 permalink: "dunya-su-gunu-afis-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/subat/dunya-su-gunu-afis-yarismasi.jpg"
 excerpt:  "Energo-Pro Türkiye <strong> Dünya Su Günü Afiş Yarışması </strong> düzenliyor."

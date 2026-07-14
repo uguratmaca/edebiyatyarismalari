@@ -8,7 +8,7 @@ lastDate: 1774994400
 dateHuman: "01 Nisan 2026"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "45 Bin TL'dir"
+totalPrize: "45 Bin TL'dir"
 organizer: "Mersin Toroslar Belediyesi"
 requirements: "18 yaşını doldurmuş olan her T.C. yurttaşı katılabilir"
 permalink: "osman-sahin-oyku-odulu"

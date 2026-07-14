@@ -9,7 +9,7 @@ lastDate: 1665954000
 dateHuman: "17 Ekim 2022"
 attendance: "Websitesi"
 organizer: "İBB Park Bahçe ve Yeşil Alanlar Dairesi Başkanlığı"
-price: "540 Bin TL'dir."
+totalPrize: "540 Bin TL'dir."
 requirements: "Türkiye Cumhuriyeti vatandaşı, T.C. Kimlik Numarası sahibi olan ve 1 Ocak 2004 tarihinden önce doğan kişiler katılabilir."
 permalink: "kucukcekmece-lagunu-fikir-proje-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/agustos/kucukcekmece-lagunu-fikir-proje-yarismasi.jpg"

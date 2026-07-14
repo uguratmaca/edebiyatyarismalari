@@ -8,7 +8,7 @@ comments: true
 lastDate: 1585688400
 dateHuman: "1 Nisan 2020"
 attendance: "Posta/Kargo"
-price: "30 Bin TL'dir"
+totalPrize: "30 Bin TL'dir"
 requirements: "Her yaştan yarışmacı başvurabilir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/sufisin-senaryo-yarismasi.jpg?alt=media&token=ff1c04ec-fbeb-4df9-b066-6f7b872e084a"
 ---

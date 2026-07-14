@@ -12,7 +12,7 @@ attendance: "Websitesi"
 hidden: true
 organizer: "Yeşilay"
 requirements: "İsteyen katılabilir."
-price: "260 Bin TL'dir"
+totalPrize: "260 Bin TL'dir"
 permalink: "yesilay-8-karikatur-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/aralik/yesilay-8-karikatur-yarismasi.jpg"
 excerpt:  "Yeşilay <strong> 8. Uluslararası Karikatür Yarışması </strong> düzenliyor."

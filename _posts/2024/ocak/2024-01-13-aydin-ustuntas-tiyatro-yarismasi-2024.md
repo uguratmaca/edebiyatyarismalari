@@ -9,7 +9,7 @@ lastDate: 1706734800
 dateHuman: "1 Şubat 2024"
 attendance: "Websitesi"
 organizer: "Güzel Ordu Kültür Sanat Vakfı"
-price: "10 Bin TL'dir."
+totalPrize: "10 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "aydin-ustuntas-tiyatro-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/ocak/aydin-ustuntas-tiyatro-yarismasi-2024.jpg"

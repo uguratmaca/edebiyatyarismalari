@@ -9,7 +9,7 @@ lastDate: 1645311600
 dateHuman: "20 Şubat 2022"
 comTopic: "Serbest"
 attendance: "Websitesi"
-price: "4 250 TL'dir"
+totalPrize: "4 250 TL'dir"
 requirements: "Trabzon İli dâhilindeki tüm resmi ve özel ortaöğretim kurumlarında öğrenim gören öğrenciler (9,10,11 ve 12.sınıflar) bu yarışmaya katılabilir"
 permalink: "5-yaziyorum-felsefi-deneme-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/felsefi-deneme-yazma-yarismasi.jpg"

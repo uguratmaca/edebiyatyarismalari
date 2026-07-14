@@ -7,7 +7,7 @@ tags: [mart 2020, kadın, hikaye yarışması]
 comments: true
 lastDate: 1584738000
 dateHuman: "21 Mart 2020"
-price: "2 Bin 250 TL'dir"
+totalPrize: "2 Bin 250 TL'dir"
 comTopic: "Geleceği Hatırla!"
 attendance: "E-Posta ya da Posta"
 requirements: "Yarışma, Türkiye’de ya da yurt dışında yaşayan bütün kadınlara açıktır."  

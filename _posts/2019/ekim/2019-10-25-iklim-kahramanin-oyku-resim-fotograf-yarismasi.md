@@ -9,7 +9,7 @@ lastDate: 1575061200
 dateHuman: "30 Kasım 2019"
 comTopic: "Küresel İklim Değişikliği ve Çevre Sorunları"
 attendance: "Websitesi"
-price: "9 Bin TL'dir"
+totalPrize: "9 Bin TL'dir"
 requirements: "13-18 Yaş arası gençler"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/senin-iklim-kahramanin-kim-oyku-fotograf-resim-yarismasi.jpg?alt=media&token=85aa0097-4f73-4a2c-8831-eac10773c7e7"
 ---

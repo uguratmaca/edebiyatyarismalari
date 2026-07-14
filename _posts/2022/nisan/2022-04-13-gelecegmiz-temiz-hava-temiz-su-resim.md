@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "29 Nisan 2022"
 comTopic: "Geleceğimiz Temiz Hava Temiz Su"
 attendance: "Okul"
-price: "Bisiklet"
+totalPrize: "Bisiklet"
 organizer: "Afyonkarahisar İl Milli Eğitim Müdürlüğü ve Afyonkarahisar Çevre Şehircilik ve İklim Değişikliği İl Müdürlüğü"
 requirements: "Yarışmaya okul öncesi, ilkokul, ortaokul ve lise öğrencileri katılabilir."
 permalink: "gelecegmiz-temiz-hava-temiz-su-resim"

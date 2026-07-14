@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "30 Haziran 2023"
 attendance: "E-Posta"
 organizer: "Esenler Belediyesi"
-price: "30 Bin TL'dir."
+totalPrize: "30 Bin TL'dir."
 requirements: "Yurt içi ve yurt dışından herkes katılabilir."
 permalink: "evliya-celebi-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mayis/evliya-celebi-fotograf-yarismasi.jpg"

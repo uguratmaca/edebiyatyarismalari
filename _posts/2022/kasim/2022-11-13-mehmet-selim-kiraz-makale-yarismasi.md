@@ -11,7 +11,7 @@ comTopic: "Ceza Hukuku Bağlamında: SOSYAL AĞLARDA KİŞİSEL VERİLERE KARŞI
 attendance: "E-posta"
 organizer: "Fatih Sultan Mehmet Vakıf Üniversitesi Hukuk Kulübü"
 requirements: "Türkiye’deki ve KKTC’deki hukuk fakültelerinde öğrenim gören lisans, yüksek lisans ve doktora öğrencileri katılabilir."
-price: "135 Bin TL'dir."
+totalPrize: "135 Bin TL'dir."
 permalink: "mehmet-selim-kiraz-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/kasim/mehmet-selim-kiraz-makale-yarismasi.jpg"
 excerpt:  "Fatih Sultan Mehmet Vakıf Üniversitesi Hukuk Kulübü <strong> 4. Makale Yarışması </strong> düzenliyor."

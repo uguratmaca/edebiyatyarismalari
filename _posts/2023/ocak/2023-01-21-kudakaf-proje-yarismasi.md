@@ -11,7 +11,7 @@ hidden: true
 attendance: "E-Posta"
 organizer: "KUDAKAF"
 requirements: "Sadece ön lisans, lisans ve lisansüstü öğrencileri katılabilir."
-price: "30 Bin TL'dir."
+totalPrize: "30 Bin TL'dir."
 permalink: "kudakaf-proje-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/ocak/kudakaf-proje-yarismasi.jpg"
 excerpt:  "KUDAKAF <strong> Kariyer Geliştirme Odaklı Öğrenci Ar-Ge Projeleri Yarışması </strong> düzenliyor."

@@ -7,7 +7,7 @@ comments: true
 lastDate: 1589490000    
 dateHuman: "15 Mayıs 2020" 
 attendance: "E-Posta"
-price: "2 Bin 250 TL'dir"
+totalPrize: "2 Bin 250 TL'dir"
 comTopic: "Koronavirüs sürecinde mevcut durumun anlaşılması"
 requirements: "Üniversite öğrencileri katılabilir"
 permalink: "koronavirüs-mevcut-durumu-anlamak-makale-yarismasi"

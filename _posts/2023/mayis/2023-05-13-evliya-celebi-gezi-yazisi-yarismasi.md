@@ -9,7 +9,7 @@ lastDate: 1688072400
 dateHuman: "30 Haziran 2023"
 attendance: "E-Posta"
 organizer: "Esenler Belediyesi"
-price: "30 Bin TL'dir."
+totalPrize: "30 Bin TL'dir."
 requirements: "Yurt içi ve yurt dışından herkes katılabilir."
 permalink: "evliya-celebi-gezi-yazisi-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mayis/evliya-celebi-gezi-yazisi-yarismasi.jpg"

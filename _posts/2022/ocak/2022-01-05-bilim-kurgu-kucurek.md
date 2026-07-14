@@ -9,7 +9,7 @@ lastDate: 1644793200
 dateHuman: "14 Şubat 2022"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 organizer: "Yalova Atatürk BİLSEM"
 requirements: "Ortaokul ve Lise öğrencileri katılabilir"
 permalink: "kucurek-bilim-kurgu-oyku-yarismasi"

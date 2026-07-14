@@ -7,7 +7,7 @@ comments: true
 lastDate: 1597611600  
 dateHuman: "17 Ağustos 2020"
 attendance: "Elden, Posta"
-price: "17 Bin TL'dir"
+totalPrize: "17 Bin TL'dir"
 comTopic: "Türkiye'de Kadın Olmak"
 requirements: "Yarışmaya herkes katılabilir."
 permalink: "ahmet-hamdi-tanpinar-senaryo-yarismasi"

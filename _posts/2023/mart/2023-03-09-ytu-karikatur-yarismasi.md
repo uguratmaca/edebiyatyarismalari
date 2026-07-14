@@ -12,7 +12,7 @@ attendance: "E-Posta"
 hidden: true
 organizer: "Yıldız Teknik Üniversitesi"
 requirements: "Yüksek Öğretim Kurumuna bağlı, Türkiye ve KKTC’deki üniversitelerin ön-lisans ve lisans programlarına kayıtlı öğrenciler katılabilir."
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 permalink: "ytu-karikatur-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mart/ytu-karikatur-yarismasi.jpg"
 excerpt:  "Yıldız Teknik Üniversitesi <strong> 3. Öğrenci Karikatür Yarışması </strong> düzenliyor."

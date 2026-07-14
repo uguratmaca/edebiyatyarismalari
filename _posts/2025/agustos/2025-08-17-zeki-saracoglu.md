@@ -7,7 +7,7 @@ tags: [kasım 2025, deneme yarışması, makale yarışması, genel]
 lastDate: 1763679600
 dateHuman: "21 Kasım 2025"
 attendance: "E-Posta"
-price: "100 Bin TL'dir"
+totalPrize: "100 Bin TL'dir"
 organizer: "Ortadoğu Gazetesi"
 requirements: "18 yaşını doldurmuş Türkiye Cumhuriyeti vatandaşları ile Türkiye’de yasal ikamet hakkına sahip kişiler"
 permalink: "1-zeki-saracoglu-kose-yazarligi-yarismasi"

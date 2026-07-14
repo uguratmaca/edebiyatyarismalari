@@ -8,7 +8,7 @@ comments: true
 lastDate: 1618520400    
 dateHuman: "16 Nisan 2021"
 comTopic: "Serbest"
-price: "6 Bin 750 Tl'dir"
+totalPrize: "6 Bin 750 Tl'dir"
 attendance: "Websitesi"
 requirements: "5, 6, 7 ve 8. sınıflar masal ve öykü dalında; 9, 10, 11 ve 12. sınıflar öykü ve şiir dallarından sadece birinde yarışmaya katılabilecektir."
 permalink: "20-gunaydin-edebiyat-yarismasi"

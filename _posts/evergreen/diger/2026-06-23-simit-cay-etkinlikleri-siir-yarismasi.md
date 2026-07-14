@@ -7,7 +7,7 @@ author: "Ümit Atmaca"
 category: articles
 tags: [her yıl tekrarlanan, aralık 2026, şiir yarışması, genel]
 lastDate: 1798664400
-price: "8 Bin TL'dir"
+totalPrize: "8 Bin TL'dir"
 dateHuman: "31 Aralık 2026"
 attendance: "E-Posta"
 comTopic: "Serbest"

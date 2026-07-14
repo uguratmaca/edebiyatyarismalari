@@ -8,7 +8,7 @@ lastDate: 1604091600
 dateHuman: "31 Ekim 2020"
 attendance: "E-Posta"
 comTopic: "Adalet, Demokrasi, Özgürlük"
-price: "10 Bin Dolar'dır"
+totalPrize: "10 Bin Dolar'dır"
 requirements: "İsteyen herkes katılabilir"
 permalink: "nasreddin-hoca-karikatur-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/40-uluslararasi-nasreddin-hoca-karikatur-yarismasi.jpg"

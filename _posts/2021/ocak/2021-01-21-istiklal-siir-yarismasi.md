@@ -7,7 +7,7 @@ comments: true
 lastDate: 1614546000 
 dateHuman: "1 Mart 2021"
 attendance: "Websitesi"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 comTopic: "Milletimizin temel değerlerini İSTİKLAL kavramı merkezinde işlemektir."
 requirements: "Türkiye’den ve Türk dünyasından 18 yaşından gün almış herkes katılabilir"
 permalink: "istiklal-konulu-siir-yarismasi"

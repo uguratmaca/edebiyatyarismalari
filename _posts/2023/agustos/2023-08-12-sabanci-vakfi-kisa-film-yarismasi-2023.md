@@ -11,7 +11,7 @@ hidden: true
 comTopic: "Su Krizi"
 attendance: "Websitesi"
 organizer: "Sabancı Vakfı"
-price: "150 Bin TL'dir."
+totalPrize: "150 Bin TL'dir."
 requirements: "TC veya KKTC'daki yönetmen veya yapımcılar katılabilir."
 permalink: "sabanci-vakfi-kisa-film-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/sabanci-vakfi-kisa-film-yarismasi-2023.jpg"

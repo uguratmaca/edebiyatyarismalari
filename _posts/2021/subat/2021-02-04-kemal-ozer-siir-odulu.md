@@ -6,7 +6,7 @@ tags: [nisan 2021, genel, şiir yarışması]
 comments: true
 lastDate: 1619730000 
 dateHuman: "30 Nisan 2021"
-price: "2500 TL'dir"
+totalPrize: "2500 TL'dir"
 attendance: "Posta, Kargo"
 requirements: "2020 yılı içerisinde (1 Ocak 2020 – 30 Ocak 2021) yayımlanan kitaplar ve dosya dalında (kitap oylumundaki) dosyalar katılabilir"
 permalink: "kemal-ozer-siir-odulu"

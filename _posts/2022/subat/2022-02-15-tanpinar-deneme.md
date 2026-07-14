@@ -8,7 +8,7 @@ lastDate: 1649368800
 dateHuman: "8 Nisan 2022"
 comTopic: "Serbest"
 attendance: "Posta, Kargo"
-price: "28500 TL'dir"
+totalPrize: "28500 TL'dir"
 organizer: "Osmangazi Belediyesi"
 requirements: "Yarışmaya yurt içi ve yurt dışından herkes katılabilir"
 permalink: "tanpinar-deneme-yarismasi"

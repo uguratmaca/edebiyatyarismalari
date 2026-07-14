@@ -8,7 +8,7 @@ tags: [ekim 2026, hikaye yarışması, genel]
 lastDate: 1795986000
 dateHuman: "30 Ekim 2026"
 comTopic: "Serbest"
-price: "157 Bin 500 TL'dir"
+totalPrize: "157 Bin 500 TL'dir"
 attendance: "Online"
 organizer: "Timaş Yayın Grubu"
 requirements: "18 yaş üzeri yazar ve yazar adaylarına açıktır"

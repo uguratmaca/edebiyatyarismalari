@@ -9,7 +9,7 @@ lastDate: 1705006800
 hidden: true
 dateHuman: "12 Ocak 2024"
 attendance: "Posta"
-price: "52 Bin 500 TL'dir."
+totalPrize: "52 Bin 500 TL'dir."
 organizer: "İhsan Doğramacı Bilkent Üniversitesi"
 requirements: "Yarışmaya her ülkeden yaş farketmeksizin tüm besteciler katılabilir."
 permalink: "ihsan-dogramaci-beste-yarismasi"

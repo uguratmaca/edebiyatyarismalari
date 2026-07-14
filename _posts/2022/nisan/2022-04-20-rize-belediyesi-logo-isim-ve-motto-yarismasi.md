@@ -9,7 +9,7 @@ lastDate: 1651179600
 hidden: true
 dateHuman: "29 Nisan 2022"
 attendance: "E-posta"
-price: "6 Bin TL'dir."
+totalPrize: "6 Bin TL'dir."
 organizer: "Rize Belediyesi"
 requirements: "18 yaş ve üstü katılabilir."
 permalink: "rize-belediyesi-logo-isim-ve-motto-yarismasi"

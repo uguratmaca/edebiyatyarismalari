@@ -7,7 +7,7 @@ tags: [nisan 2026, hikaye yarışması, ilkokul, ortaokul, lise]
 lastDate: 1777068000
 dateHuman: "25 Nisan 2026"
 comTopic: "Barış"
-price: "49 Bin 500 TL'dir"
+totalPrize: "49 Bin 500 TL'dir"
 attendance: "E-Posta"
 organizer: "Eğitim Sen Adıyaman Şubesi"
 requirements: "İlkokul, ortaokul ve lise öğrencileri"

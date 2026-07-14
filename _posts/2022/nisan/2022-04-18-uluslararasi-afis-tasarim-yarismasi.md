@@ -9,7 +9,7 @@ lastDate: 1657832400
 dateHuman: "15 Temmuz 2022"
 attendance: "Websitesi"
 organizer: "Kütahya Valiliği ile Kütahya Dumlupınar Üniversitesi (DPÜ) Güzel Sanatlar Fakültesi"
-price: "35 Bin TL'dir."
+totalPrize: "35 Bin TL'dir."
 requirements: "Türkiye’deki amatör ve profesyonel herkes katılabilir."
 permalink: "uluslararasi-afis-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/uluslararasi-afis-tasarim-yarismasi.jpg"

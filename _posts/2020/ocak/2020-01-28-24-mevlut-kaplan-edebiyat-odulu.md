@@ -6,7 +6,7 @@ category: articles
 tags: [eylül 2020, genel, hikaye yarışması]
 comments: true
 lastDate: 1599598800
-price: "2 Bin TL'dir"
+totalPrize: "2 Bin TL'dir"
 dateHuman: "9 Eylül 2020"
 comTopic: "Serbest"
 attendance: "Posta"

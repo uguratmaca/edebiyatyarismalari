@@ -9,7 +9,7 @@ lastDate: 1652130000
 dateHuman: "10 Mayıs 2022"
 comTopic: "Büyük Taarruz ve Kocatepe"
 attendance: "E-posta"
-price: "13 Bin TL'dir"
+totalPrize: "13 Bin TL'dir"
 organizer: "Afyonkarahisar Ahde Vefa Kültür Sanat Derneği"
 requirements: "18 yaş ve üstü kişiler katılabilir."
 permalink: "buyuk-taarruz-siir-yarismasi"

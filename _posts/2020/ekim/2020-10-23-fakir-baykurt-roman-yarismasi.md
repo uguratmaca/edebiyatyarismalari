@@ -7,7 +7,7 @@ comments: true
 lastDate: 1616274000  
 dateHuman: "5 Mart 2021"
 attendance: "Elden - Kargo - Posta"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 comTopic: "Serbest"
 requirements: "Yazarlar, kitap oylumundaki, yayınlanmamış bir roman dosyası ile yarışmaya katılabilirler"
 permalink: "2-fakir-baykurt-roman-yarismasi"

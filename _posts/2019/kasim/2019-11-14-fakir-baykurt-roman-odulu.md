@@ -7,7 +7,7 @@ tags: [mart 2020, genel, roman yarışması]
 comments: true
 lastDate: 1583096400
 dateHuman: "2 Mart 2020"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 attendance: "Kargo/Posta/Elden"
 requirements: "İsteyen herkes katılabilir"  
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/fakir-baykurt-roman-yarismasi-odulu.jpg?alt=media&token=416285a1-0f53-40b8-ac9c-5456b02682b8"

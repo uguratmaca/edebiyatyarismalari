@@ -7,7 +7,7 @@ tags: [mayıs 2025, hikaye yarışması, genel, kürtçe]
 lastDate: 1746050400
 dateHuman: "1 Mayıs 2025"
 comTopic: "Serbest"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 attendance: "E-Posta"
 organizer: "Eğitim-Sen Urfa Şubesi"
 requirements: "İsteyen herkes katılabilir"

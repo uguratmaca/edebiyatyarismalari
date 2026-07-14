@@ -5,7 +5,7 @@ description: "Buca Belediyesi 2026 Yılı Ali Rıza Ertan Şiir Yarışması'nı
 category: articles
 tags: [nisan 2026, şiir yarışması, genel]
 lastDate: 1777500000
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 dateHuman: "30 Nisan 2026"
 attendance: "E-Posta"
 comTopic: "Serbest"

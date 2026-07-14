@@ -7,7 +7,7 @@ tags: [ocak 2020, istanbul, lise, ortaokul, hikaye yarışması, şiir yarışma
 comments: true
 lastDate: 1579208400
 dateHuman: "17 Ocak 2020"
-price: "4 Bin 200 TL'dir"
+totalPrize: "4 Bin 200 TL'dir"
 comTopic: "Serbest"
 attendance: "Posta/Elden"
 requirements: "Türkiye geneli ortaokulu, lise öğrencileri katılabilir"

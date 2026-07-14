@@ -11,7 +11,7 @@ hidden: true
 attendance: "Elden/Posta/Kargo"
 organizer: "Erdek Genç İnsanları Derneği (ERGİAD)"
 requirements: "18 yaşını doldurmuş herkes katılabilir."
-price: "42 Bin 500 TL'dir"
+totalPrize: "42 Bin 500 TL'dir"
 permalink: "kapidag-logo-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mart/kapidag-logo-tasarim-yarismasi.jpg"
 excerpt:  "Erdek Genç İnsanları Derneği (ERGİAD) <strong> logo tasarım yarışması </strong> düzenliyor."

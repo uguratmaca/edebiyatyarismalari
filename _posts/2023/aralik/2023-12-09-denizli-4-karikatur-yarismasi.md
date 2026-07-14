@@ -12,7 +12,7 @@ attendance: "Websitesi"
 hidden: true
 organizer: "Denizli Büyükşehir Belediyesi"
 requirements: "Amatör ve profesyonel bütün dünya karikatürcüleri katılabilir."
-price: "69 Bin TL'dir"
+totalPrize: "69 Bin TL'dir"
 permalink: "denizli-4-karikatur-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/aralik/denizli-4-karikatur-yarismasi.jpg"
 excerpt:  "Denizli Büyükşehir Belediyesi <strong> 4. Uluslararası Karikatür Yarışması </strong> düzenliyor."

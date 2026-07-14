@@ -8,7 +8,7 @@ lastDate: 1652047200
 dateHuman: "09 Mayıs 2022"
 comTopic: "23 Mayıs 2022 Uluslararası Sigorta Haftası"
 attendance: "E-Posta"
-price: "26 Bin 500 TL'dir"
+totalPrize: "26 Bin 500 TL'dir"
 organizer: "Türkiye Sigorta Birliği"
 requirements: "Üniversitelerin lisans ve ön lisans öğrencileri ve/veya sigorta sektöründe en fazla 2 yıllık deneyime sahip kişiler"
 permalink: "sigortacilik-makale-yarismasi"

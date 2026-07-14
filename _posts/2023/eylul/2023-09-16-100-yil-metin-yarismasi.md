@@ -9,7 +9,7 @@ lastDate: 1696194000
 dateHuman: "2 Ekim 2023"
 attendance: "Websitesi"
 organizer: "Yaşar Üniversitesi Mimarlık Fakültesi"
-price: "Yakın Kitabevi’nden 3000 TL’lik Hediye Çeki'dir."
+totalPrize: "Yakın Kitabevi’nden 3000 TL’lik Hediye Çeki'dir."
 requirements: "Üniversitelerin yüksek lisans ya da doktora programına kayıtlı her öğrenci katılabilir."
 permalink: "100-yil-metin-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/eylul/100-yil-metin-yarismasi.jpg"

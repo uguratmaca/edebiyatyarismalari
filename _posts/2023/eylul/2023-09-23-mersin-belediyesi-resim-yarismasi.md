@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "13 Ekim 2023"
 attendance: "Elden/Kargo/Posta"
 organizer: "Mersin Büyükşehir Belediyesi"
-price: "175 Bin TL'dir."
+totalPrize: "175 Bin TL'dir."
 requirements: "40 yaş ve altında tüm amatör ve profesyonel sanatçılar katılabilir."
 permalink: "mersin-belediyesi-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/eylul/mersin-belediyesi-resim-yarismasi.jpg"

@@ -8,7 +8,7 @@ lastDate: 1775167200
 dateHuman: "3 Nisan 2026"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "50 Bin TL'dir"
+totalPrize: "50 Bin TL'dir"
 organizer: "Doğan Kitap"
 requirements: "Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir"
 permalink: "duygu-asena-roman-odulu-2026"

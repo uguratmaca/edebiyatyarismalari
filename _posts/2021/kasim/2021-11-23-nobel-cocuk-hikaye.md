@@ -7,7 +7,7 @@ tags: [mart 2022, genel, hikaye yarışması]
 comments: true
 lastDate: 1648677600
 dateHuman: "31 Mart 2022"
-price: "14 Bin TL'dir"
+totalPrize: "14 Bin TL'dir"
 comTopic: "Serbest"
 attendance: "E-Posta"
 requirements: "Yarışma 18 yaşının üzerindeki tüm yazarlara açıktır."

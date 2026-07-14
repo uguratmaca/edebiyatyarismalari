@@ -9,7 +9,7 @@ lastDate: 1697749200
 dateHuman: "20 Ekim 2023"
 attendance: "Elden/Kargo/Posta"
 organizer: "Mimarlar Odası Ankara Şubesi"
-price: "15 Bin 500 TL'dir."
+totalPrize: "15 Bin 500 TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "teoman-ozturk-mekan-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/teoman-ozturk-mekan-oyku-yarismasi.jpg"

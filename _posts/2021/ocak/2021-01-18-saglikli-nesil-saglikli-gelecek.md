@@ -5,7 +5,7 @@ description: "Öğrencilerin bağımlılık konularına duyarlılığını artı
 tags: [mart 2021, ilkokul, ortaokul, lise, afiş yarışması, resim yarışması, karikatür yarışması, şiir yarışması, hikaye yarışması, kompozisyon yarışması, deneme yarışması, anı yarışması]
 comments: true
 lastDate: 1617138000 
-price: "180 Bin TL'dir"
+totalPrize: "180 Bin TL'dir"
 dateHuman: "31 Mart 2021"
 attendance: "Okul Müdürlükleri"
 comTopic: "Bağımlılık"

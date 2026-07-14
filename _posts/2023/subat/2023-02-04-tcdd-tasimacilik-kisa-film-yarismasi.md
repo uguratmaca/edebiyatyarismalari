@@ -11,7 +11,7 @@ attendance: "Elden/Kargo"
 organizer: "TCDD Taşımacılık A.Ş."
 hidden: true
 requirements: "Ülkemizde yerleşik amatör ve profesyonel 18-26 yaş arası tüm sanatçılar katılabilir."
-price: "75 Bin TL'dir"
+totalPrize: "75 Bin TL'dir"
 permalink: "tcdd-tasimacilik-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/subat/tcdd-tasimacilik-kisa-film-yarismasi.jpg"
 excerpt:  "TCDD Taşımacılık A.Ş. <strong> Ulaşınca Başlar Kısa Film Yarışması </strong> düzenliyor."

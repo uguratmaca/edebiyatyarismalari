@@ -5,7 +5,7 @@ description: "Nilüfer Belediyesi 20 Bin TL para ödüllü 2026 Yılın Yazarı 
 category: articles
 tags: [mayıs 2026, şiir yarışması, kitap dosyası, genel]
 lastDate: 1780005600
-price: "20 Bin TL'dir"
+totalPrize: "20 Bin TL'dir"
 dateHuman: "29 Mayıs 2026"
 attendance: "Kargo, Elden"
 comTopic: "Serbest"

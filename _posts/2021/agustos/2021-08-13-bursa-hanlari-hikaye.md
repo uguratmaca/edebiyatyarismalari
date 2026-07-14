@@ -8,7 +8,7 @@ comments: true
 lastDate: 1635372000    
 dateHuman: "28 Ekim 2021"
 comTopic: "Bursa’daki Hanlar Bölgesi’nde geçmesi veya Hanlar Bölgesi’ni konu edinmesi"
-price: "17 Bin TL'dir"
+totalPrize: "17 Bin TL'dir"
 attendance: "Posta, Kargo, Elden"
 requirements: "İsteyen herkes katılabilir"
 permalink: "bursanin-hanlari-hikaye-yarismasi"

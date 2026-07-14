@@ -9,7 +9,7 @@ lastDate: 1633035600
 dateHuman: "1 Ekim 2021"
 comTopic: "100. Yıl Marşı Şiir ve Beste Yarışması"
 attendance: "E-Posta"
-price: "300 Bin TL'dir"
+totalPrize: "300 Bin TL'dir"
 requirements: "Yarışma T.C. vatandaşı ve 18 yaş üzeri olan herkesin katılımına açıktır."
 permalink: "100-yil-siir-beste-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/temmuz/izmir-siir-beste-yarismasi.jpg"

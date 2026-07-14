@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "20 Mayıs 2022"
 comTopic: "Fotoğrafların Finike İlçesi sınırları içerisinde yer alan Hasyurt, Sahilkent, Yeşilyurt ve Turunçova Beldelerinde ve Finike’ye bağlı köylerde çekilmeleri"
 attendance: "Elden"
-price: "18 Bin 500 TL'dir."
+totalPrize: "18 Bin 500 TL'dir."
 organizer: "Finike Kaymakamlığı"
 requirements: "18 yaş üzeri tüm amatör ve profesyonel fotoğrafçılar katılabilir."
 permalink: "finike-birinci-geleneksel-fotograf-yarismasi"

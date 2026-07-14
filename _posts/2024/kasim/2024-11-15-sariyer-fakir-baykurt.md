@@ -7,7 +7,7 @@ tags: [şubat 2025, hikaye yarışması, genel, lise, ortaokul, kitap dosyası, 
 lastDate: 1738882800
 dateHuman: "7 Şubat 2025"
 attendance: "Elden, APS, Kargo, Kurye"
-price: "93 Bin 500 TL'dir"
+totalPrize: "93 Bin 500 TL'dir"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
 permalink: "sariyer-fakir-baykurt-oyku-yarismasi-24"

@@ -8,7 +8,7 @@ tags: [mayıs 2022, şiir yarışması, ortaokul, lise, üniversite, kastamonu, 
 lastDate: 1653598800
 dateHuman: "27 Mayıs 2022"
 comTopic: "Kurtuluş Mücadelesinde Kastamonu ve Halkının Yeri, Şehitlik Ruhu, İstiklal Mücadelesi, Bağımsızlık, Kastamonu Kadınının Gösterdiği Fedakarlık, Milli Mücadele Ruhu, Şehadet"
-price: "Altın, Burs"
+totalPrize: "Altın, Burs"
 organizer: "İlim Yayma Cemiyeti Kastamonu Şubesi"
 requirements: "Kastamonu ilindeki Ortaokul, lise ve üniversite öğrencileri katılabilir."
 permalink: "kastamonu-ikinci-siir-yarismasi"

@@ -9,7 +9,7 @@ lastDate: 1637881200
 dateHuman: "26 Kasım 2021"
 comTopic: "Cengiz Aytmatov’dan seçilen bir romanın okunup incelenmesi ve söz konusu romanın kahramanı ile ilgili bir deneme yazılmasıdır."
 attendance: "E-Posta"
-price: "3 Bin TL'dir"
+totalPrize: "3 Bin TL'dir"
 requirements: "Türkiye genelindeki sosyal bilimler liselerinde eğitim gören Hazırlık-9-10-11-12.sınıf öğrencileri katılabilir."
 permalink: "benim-roman-kahramanim-3-deneme-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/ekim/benim-roman-kahramanim-deneme-yarismasi-2021.jpg"

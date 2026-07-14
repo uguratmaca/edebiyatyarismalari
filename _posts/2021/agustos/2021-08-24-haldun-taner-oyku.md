@@ -9,7 +9,7 @@ lastDate: 1632952800
 dateHuman: "30 Eylül 2021"
 comTopic: "Serbest"
 attendance: "Websitesi"
-price: "20 Bin TL'dir"
+totalPrize: "20 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "32-haldun-taner-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2021/agustos/haldun-taner-oyku-yarismasi.jpg"

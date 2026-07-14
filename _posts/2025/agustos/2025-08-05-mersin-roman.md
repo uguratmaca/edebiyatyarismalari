@@ -7,7 +7,7 @@ tags: [ekim 2025, roman yarışması, kitap dosyası, genel]
 lastDate: 1759615200
 dateHuman: "5 Ekim 2025"
 attendance: "E-Posta"
-price: "55 Bin TL'dir"
+totalPrize: "55 Bin TL'dir"
 comTopic: "Serbest"
 organizer: "Mersin Büyükşehir Belediyesi"
 requirements: "18 yaşını doldurmuş Türkiye Cumhuriyeti vatandaşları"

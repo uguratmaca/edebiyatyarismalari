@@ -8,7 +8,7 @@ lastDate: 1604782800
 dateHuman: "8 Kasım 2020"
 attendance: "E-Posta"
 comTopic: "Rize Şehir Belleği"
-price: "11 Bin TL'dir"
+totalPrize: "11 Bin TL'dir"
 requirements: "15 yaşını doldurmuş amatör ve profesyonel tüm film severlere açıktır."
 permalink: "1001-gozle-rize-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/1001-gozle-rize-kisa-film-yarismasi.jpg"

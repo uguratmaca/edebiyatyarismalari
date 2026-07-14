@@ -11,7 +11,7 @@ attendance: "E-Posta/Elden/Posta"
 hidden: true
 organizer: "Türkiye Tohumcular Birliği (TÜRKTOB)"
 requirements: "Üniversite öğrencileri katılabilir."
-price: "75 Bin TL'dir"
+totalPrize: "75 Bin TL'dir"
 permalink: "turktob-proje-fikir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mart/turktob-proje-fikir-yarismasi.jpg"
 excerpt:  "Türkiye Tohumcular Birliği (TÜRKTOB) <strong> Cumhuriyetimizin 100. Yılında Tohumculuğun Geleceği Proje Fikri Yarışması </strong> düzenliyor."

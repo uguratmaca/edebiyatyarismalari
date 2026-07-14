@@ -7,7 +7,7 @@ tags: [eylül 2025, senaryo yarışması, genel]
 lastDate: 1758319200
 dateHuman: "20 Eylül 2025"
 attendance: "Websitesi"
-price: "270 Bin TL'dir"
+totalPrize: "270 Bin TL'dir"
 comTopic: "İzmir"
 organizer: "CS Yapım"
 requirements: "⁠Yarışmaya on sekiz yaşını doldurmuş herkes katılabilir"

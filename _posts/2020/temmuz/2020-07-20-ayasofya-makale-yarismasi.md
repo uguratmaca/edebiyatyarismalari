@@ -8,7 +8,7 @@ lastDate: 1604005200
 dateHuman: "30 Ekim 2020"
 attendance: "Web sitesi"
 comTopic: "Her Açıdan Ayasofya Camii"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 requirements: "Yarışma, tüm araştırmacıların ve akademisyenlerin başvurusuna açıktır"
 permalink: "ayasofya-camii-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/temmuz/ayasofya-camii-makale-yarismasi.jpg"

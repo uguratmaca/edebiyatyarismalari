@@ -9,7 +9,7 @@ lastDate: 1630270800
 dateHuman: "30 Ağustos 2021"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "3 Bin 750 TL'dir"
+totalPrize: "3 Bin 750 TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "cagdas-kalemler-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/cagdas-kalemler-oyku-odulu.jpeg"

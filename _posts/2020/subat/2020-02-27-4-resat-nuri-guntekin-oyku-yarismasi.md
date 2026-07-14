@@ -8,7 +8,7 @@ comments: true
 lastDate: 1584478800    
 dateHuman: "18 Mart 2020"
 comTopic: "Serbest"
-price: "4 Bin TL'dir"
+totalPrize: "4 Bin TL'dir"
 attendance: "E-Posta"
 requirements: "İstanbul ilindeki lise ve dengi okullarda okuyan tüm öğrenciler yarışmaya katılabilecektir."
 image: "https://edebiyatyarismalari.com/images/2020/subat/4-resat-nuri-guntekin-oyku-yarismasi.jpg"

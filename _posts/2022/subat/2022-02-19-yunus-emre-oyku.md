@@ -8,7 +8,7 @@ lastDate: 1651183200
 dateHuman: "29 Nisan 2022"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "7 bin 500 TL"
+totalPrize: "7 bin 500 TL"
 organizer: "Porsuk Kültür Sanat"
 requirements: "18 yaşını doldurmuş, Türk vatandaşları katılabilir."
 permalink: "yunus-emre-oyku-yarismasi"

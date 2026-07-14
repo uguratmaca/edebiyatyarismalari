@@ -11,7 +11,7 @@ hidden: true
 attendance: "Websitesi"
 organizer: "Esenler Belediyesi Kültür İşleri Müdürlüğü"
 requirements: "İsteyen herkes katılabilir."
-price: "125 Bin TL'dir"
+totalPrize: "125 Bin TL'dir"
 permalink: "esenler-belediyesi-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/ekim/esenler-belediyesi-kisa-film-yarismasi.jpg"
 excerpt:  "Esenler Belediyesi Kültür İşleri Müdürlüğü <strong> 4. Esenler Film Festivali Ulusal Kısa Film Yarışması </strong> düzenliyor."

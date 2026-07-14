@@ -8,7 +8,7 @@ comments: true
 lastDate: 1647298800
 dateHuman: "15 Mart 2022"
 comTopic: "Masumiyet Karinesi"
-price: "15 Bin TL'dir"
+totalPrize: "15 Bin TL'dir"
 attendance: "Kargo"
 requirements: "Yalnızca hukuk fakültesi öğrencileri, hukukçu akademisyenler, stajyer avukatlar, avukatlar, hakim ve savcılar ile tüm hukuk fakültesi mezunlarının katılımına açıktır"
 permalink: "manisa-baro-makale-yarismasi"

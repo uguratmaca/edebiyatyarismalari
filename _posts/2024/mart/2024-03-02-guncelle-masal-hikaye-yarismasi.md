@@ -11,7 +11,7 @@ comTopic: "Bir masalın ya da halk hikayesinin günümüze uyarlanması"
 attendance: "E-Posta"
 organizer: "Özel Saint Michel Fransız Lisesi"
 requirements: "İstanbul ilinde faaliyet gösteren Milli Eğitim Bakanlığına bağlı tüm Resmi Anadolu Lisesi, Resmi Çok Programlı Anadolu Lisesi, Resmi Fen Lisesi, Resmi İmam-Hatip Anadolu Lisesi, Özel Anadolu Lisesi, Özel Fen Lisesi okul türlerinde öğrenim gören öğrenciler katılabilir."
-price: "10 Bin 500 TL'dir."
+totalPrize: "10 Bin 500 TL'dir."
 permalink: "guncelle-masal-hikaye-yarismasi"
 redirect_from: ["/guncelle-"]
 image: "https://edebiyatyarismalari.com/images/2024/mart/guncelle-masal-hikaye-yarismasi.jpg"

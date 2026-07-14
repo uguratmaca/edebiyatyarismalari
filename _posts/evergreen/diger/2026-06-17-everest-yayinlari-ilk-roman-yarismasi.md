@@ -7,7 +7,7 @@ author: "Ümit Atmaca"
 category: articles
 tags: [her yıl tekrarlanan, temmuz 2026, roman yarışması, kitap dosyası, genel]
 lastDate: 1785445200
-price: "Kitap Basımı"
+totalPrize: "Kitap Basımı"
 dateHuman: "31 Temmuz 2026"
 attendance: "E-Posta"
 comTopic: "Serbest"

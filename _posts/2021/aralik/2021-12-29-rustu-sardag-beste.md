@@ -10,7 +10,7 @@ lastDate: 1643929200
 dateHuman: "4 Şubat 2022"
 comTopic: "Serbest"
 attendance: "Posta, Kargo"
-price: "21000 TL'dir"
+totalPrize: "21000 TL'dir"
 requirements: "Yarışma on sekiz yaşını doldurmuş tüm bestecilerin katılımına açıktır"
 permalink: "rustu-sardag-beste-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/rustu-sardag-beste-yarismasi.jpg"

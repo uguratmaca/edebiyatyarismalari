@@ -8,7 +8,7 @@ tags: [mayıs 2022, kısa film yarışması, üniversite, kıbrıs]
 lastDate: 1652562000
 dateHuman: "15 Mayıs 2022"
 attendance: "Websitesi"
-price: "26 Bin TL'dir."
+totalPrize: "26 Bin TL'dir."
 comTopic: "İklim Değişikliği"
 organizer: "Esaretten Cesarete Ekibi"
 requirements: "Türkiye ve KKTC’deki üniversitelerde; ön lisans, lisans veya lisansüstü bölümlerinde eğitim gören öğrenciler katılabilir."

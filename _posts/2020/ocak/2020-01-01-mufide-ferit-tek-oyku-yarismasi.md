@@ -9,7 +9,7 @@ lastDate: 1585861200
 dateHuman: "3 Nisan 2020"
 comTopic: "Hayat Bir Oyunsa, Kendi Rolünüzü Bu Oyunda Nasıl Görüyorsunuz?"
 attendance: "E-Posta"
-price: "8 Bin 500 TL'dir"
+totalPrize: "8 Bin 500 TL'dir"
 requirements: "2019-2020 eğitim yılında öğrenim gören üniversite öğrencileri katılabilecekler"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/m%C3%BCfide-ferit-tek-%C3%B6yk%C3%BC-yar%C4%B1%C5%9Fmas%C4%B1.jpg?alt=media&token=ead4c1f2-c799-4dc3-8655-55a20ebbcbde"
 ---

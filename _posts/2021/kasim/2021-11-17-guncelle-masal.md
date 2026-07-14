@@ -8,7 +8,7 @@ comments: true
 lastDate: 1648764000
 dateHuman: "1 Nisan 2022"
 comTopic: "Serbest"
-price: "7 Bin 500 TL'dir"
+totalPrize: "7 Bin 500 TL'dir"
 attendance: "Posta, E-Posta"
 requirements: "İstanbul ilinde yerleşik tüm lise ve dengi okullar, tüm Fransız Liseleri 2021-2022 eğitim-öğretim yılında hazırlık sınıfları, 9, 10, 11 ve 12. sınıflarda okuyan öğrenciler"
 permalink: "5-guncelle-masal-hikaye-yarisma"

@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "01 Mayıs 2022"
 comTopic: "Ramazan'dan Kareler"
 attendance: "E-posta"
-price: "4 Bin 500 TL'dir."
+totalPrize: "4 Bin 500 TL'dir."
 organizer: "Yeni Dünya Vakfı"
 requirements: "18-28 yaş arasındaki herkes katılabilir."
 permalink: "ramazan-kareleri-fotograf-yarismasi"

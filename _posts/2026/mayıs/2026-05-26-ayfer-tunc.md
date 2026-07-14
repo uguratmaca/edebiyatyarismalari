@@ -6,7 +6,7 @@ author: "Ümit Atmaca"
 category: articles
 tags: [mayıs 2026, hikaye yarışması, genel]
 lastDate: 1780261200
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 dateHuman: "1 Haziran 2026"
 attendance: "E-Posta"
 comTopic: "Bir Hayatı Değiştiren An"

@@ -8,7 +8,7 @@ lastDate: 1621890000
 dateHuman: "25 Mayıs 2021"
 attendance: "Websitesi"
 comTopic: "Serbest"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 requirements: "İstanbul'da ikamet eden veya İstanbul'da öğrenim gören herkes yarışmaya ücretsiz olarak katılabilir."
 permalink: "2-okumak-guzeldir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/subat/okumak-guzeldir-kitap-okuma-yarismasi.jpg"

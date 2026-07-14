@@ -11,7 +11,7 @@ hidden: true
 attendance: "Elden/Kargo/Posta"
 organizer: "Bayburt Yüzbaşı Şehit Agah İlkokulu"
 requirements: "Türkiye genelindeki ilkokul 3. ve 4. sınıf öğrencileri katılabilir."
-price: "6 Bin TL'dir."
+totalPrize: "6 Bin TL'dir."
 permalink: "gelecek-icin-geri-donusum-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/kasim/gelecek-icin-geri-donusum-resim-yarismasi.jpg"
 excerpt:  "Bayburt Yüzbaşı Şehit Agah İlkokulu <strong> Gelecek İçin Geri Dönüşüm Resim Yarışması </strong> düzenliyor."

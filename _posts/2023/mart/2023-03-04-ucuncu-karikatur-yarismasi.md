@@ -12,7 +12,7 @@ attendance: "E-Posta"
 hidden: true
 organizer: "ADAM-DER (Askeri Darbelerin Asker Muhalifleri Derneği)"
 requirements: "Tüm amatör ve profesyonel karikatüristler katılabilir."
-price: "21 Bin TL'dir"
+totalPrize: "21 Bin TL'dir"
 permalink: "ucuncu-karikatur-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mart/ucuncu-karikatur-yarismasi.jpg"
 excerpt:  "ADAM-DER (Askeri Darbelerin Asker Muhalifleri Derneği) <strong> 3. Karikatür Yarışması </strong> düzenliyor."

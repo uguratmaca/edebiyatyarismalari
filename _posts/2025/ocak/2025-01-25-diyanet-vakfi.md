@@ -7,7 +7,7 @@ tags: [nisan 2025, roman yarışması, genel, kitap dosyası]
 lastDate: 1744322400
 dateHuman: "11 Nisan 2025"
 comTopic: "Aile"
-price: "105 Bin TL'dir"
+totalPrize: "105 Bin TL'dir"
 attendance: "E-Posta"
 organizer: "Türkiye Diyanet Vakfı"
 requirements: "Yarışmaya yurt içinden ve yurt dışından, 18 yaşını doldurmuş ve Türkçe yazabilenler katılabilir."

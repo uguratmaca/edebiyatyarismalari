@@ -9,7 +9,7 @@ dateHuman: "1 Kasım 2020"
 attendance: "Websitesi"
 comTopic: "Serbest"
 hidden: true
-price: "8 Bin TL'dir"
+totalPrize: "8 Bin TL'dir"
 requirements: "Yarışmaya Türkiye yapımı veya ortak yapımı kurmaca, belgesel, animasyon veya deneysel kısa metrajlı filmler katılabilir"
 permalink: "2-kemeralti-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/2-kemeralti-kisa-film-yarismasi.png"

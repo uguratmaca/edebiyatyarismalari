@@ -8,7 +8,7 @@ lastDate: 1650405600
 dateHuman: "20 Nisan 2022"
 comTopic: "Rumeli'den Göç"
 attendance: "E-Posta"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 organizer: "Kosova Rumeli Derneği"
 requirements: "18 yaş ve üzeri herkes katılabilir."
 permalink: "rumeli-dernegi-kisa-oyku-yarismasi"

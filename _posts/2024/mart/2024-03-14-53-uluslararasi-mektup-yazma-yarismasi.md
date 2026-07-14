@@ -11,7 +11,7 @@ comTopic: "Gelecek nesillere, miras almalarını umduğunuz dünya hakkında bir
 attendance: "PTT Kargo"
 organizer: "Evrensel Posta Birliği (UPU)"
 requirements: "9-15 yaş arası gençler katılabilir."
-price: "10 Bin TL'dir."
+totalPrize: "10 Bin TL'dir."
 permalink: "53-uluslararasi-mektup-yazma-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/mart/53-uluslararasi-mektup-yazma-yarismasi.jpg"
 excerpt:  "Evrensel Posta Birliği (UPU) <strong> 53. Mektup Yarışması </strong> düzenliyor."

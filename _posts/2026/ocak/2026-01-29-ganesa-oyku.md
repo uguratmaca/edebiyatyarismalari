@@ -9,7 +9,7 @@ dateHuman: "10 Mayıs 2026"
 comTopic: "Mitler ve Efsaneler"
 attendance: "E-Posta"
 organizer: "Ganeşa Yayınevi"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 requirements: "17 yaşını doldurmuş herkes katılabilir"
 permalink: "ganesa-mitolojik-oyku-yarismasi-2026"
 redirect_from: ["/ganesa-mitolojik-"]

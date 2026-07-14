@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "09 Mayıs 2022"
 comTopic: "Sevgi"
 attendance: "Elden/Posta"
-price: "13 Bin 500 TL'dir."
+totalPrize: "13 Bin 500 TL'dir."
 organizer: "Çorum Belediyesi ile Çorum İl Milli Eğitim Müdürlüğü"
 requirements: "Türkiye genelinde eğitim gören ilkokul, ortaokul ve lise öğrencileri katılabilir."
 permalink: "sevgi-temali-resim-yarismasi"

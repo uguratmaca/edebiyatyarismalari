@@ -8,7 +8,7 @@ lastDate: 1590094800
 dateHuman: "22 Mayıs 2020"
 attendance: "E-Posta"
 comTopic: "Ramazan'da çocuk olmak"
-price: "350 TL'dir"
+totalPrize: "350 TL'dir"
 requirements: "Yarışmaya Türkiye genelinde 30 yaş ve altı tüm gençler katılabilir"
 permalink: "ramazanda-cocukolmak-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/mayis/ramazanda-cocuk-olmak-hikaye-yarismasi.jpg"

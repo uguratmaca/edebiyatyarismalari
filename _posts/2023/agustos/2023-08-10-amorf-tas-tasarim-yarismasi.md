@@ -10,7 +10,7 @@ dateHuman: "9 Ekim 2023"
 attendance: "Websitesi"
 organizer: "Ege Maden İhracatçıları Birliği (EMİB)"
 hidden: true
-price: "250 Bin TL'dir."
+totalPrize: "250 Bin TL'dir."
 requirements: "25-50 yaş aralığıdaki kişiler katılabilir."
 permalink: "amorf-tas-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/amorf-tas-tasarim-yarismasi.jpg"

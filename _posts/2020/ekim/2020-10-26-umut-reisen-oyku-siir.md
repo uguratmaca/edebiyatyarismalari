@@ -8,7 +8,7 @@ lastDate: 1606597200
 dateHuman: "29 Kasım 2020"
 attendance: "Web sitesi"
 comTopic: "Serbest ve Seyahat"
-price: "11 Bin 550 Euro'dur"
+totalPrize: "11 Bin 550 Euro'dur"
 requirements: "18 yaşından büyük herkes katılabilir"
 permalink: "umut-reisen-oyku-siir-yarismasi"
 excerpt: "Umut Reisen 1. Öykü ve Şiir Yarışmasına katılın"

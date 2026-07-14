@@ -8,7 +8,7 @@ comments: true
 lastDate: 1643583600
 dateHuman: "31 Ocak 2022"
 comTopic: "Pandemide Yaşam"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 attendance: "E-Posta"
 requirements: "Yarışma ulusal ölçekte olup herkese açıktır"
 permalink: "pandemide-yasam-kisa-film-yarismasi"

@@ -9,7 +9,7 @@ lastDate: 1625000400
 dateHuman: "30 Haziran 2021"
 comTopic: "15 Temmuz: Milli İradenin Zaferi"
 attendance: "E-Posta"
-price: "11 Bin TL'dir"
+totalPrize: "11 Bin TL'dir"
 requirements: "Yarışma, tüm üniversite öğrencilerine açıktır."
 permalink: "15-temmuz-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/15-temmuz-siir-yarismasi.jpg"

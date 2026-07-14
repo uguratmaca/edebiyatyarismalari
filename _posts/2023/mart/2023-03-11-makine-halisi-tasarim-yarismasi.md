@@ -11,7 +11,7 @@ attendance: "Wesitesi"
 hidden: true
 organizer: "Güneydoğu Anadolu Halı İhracatçıları Birliği (GAHİB) "
 requirements: "Amatör, profesyonel tüm katılımcılar katılabilir."
-price: "150 Bin TL'dir"
+totalPrize: "150 Bin TL'dir"
 permalink: "makine-halisi-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mart/makine-halisi-tasarim-yarismasi.jpg"
 excerpt:  "Güneydoğu Anadolu Halı İhracatçıları Birliği (GAHİB) <strong> IX. Makine Halısı Tasarım Yarışması </strong> düzenliyor."

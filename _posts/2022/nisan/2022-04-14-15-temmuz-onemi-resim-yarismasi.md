@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "09 Mayıs 2022"
 attendance: "Elden/Kargo"
 comTopic: "15 Temmuz Demokrasi Ve Milli Birlik Günün Öneminin Resmedilmesi"
-price: "1 Bin 230 TL'dir."
+totalPrize: "1 Bin 230 TL'dir."
 organizer: "Şanlıurfa Karaköprü"
 requirements: "Türkiye genelindeki resmi ilkokul 3 ve 4. sınıfta öğrenim gören bütün öğrenciler katılabilir."
 permalink: "15-temmuz-onemi-resim-yarismasi"

@@ -8,7 +8,7 @@ lastDate: 1598907600
 dateHuman: "1 Eylül 2020"
 attendance: "Web sitesi"
 comTopic: "Bir bölümü Ayasofya Camii'nde geçen kurmaca hikaye"
-price: "9 Bin TL'dir"
+totalPrize: "9 Bin TL'dir"
 requirements: "Yarışmaya 35 yaşının üstündekiler katılamaz."
 permalink: "ayasofya-camii-kurmaca-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/temmuz/ayasofya-camii-kurmaca-hikaye-yarismasi.jpg"

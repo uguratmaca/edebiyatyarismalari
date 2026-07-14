@@ -10,7 +10,7 @@ dateHuman: "15 Nisan 2023"
 attendance: "Kargo/Posta"
 organizer: "Konya İl Kültür ve Turizm Müdürlüğü"
 requirements: "İsteyen herkes katılabilir."
-price: "45 Bin TL'dir"
+totalPrize: "45 Bin TL'dir"
 hidden: true
 permalink: "sufi-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mart/sufi-kisa-film-yarismasi.jpg"

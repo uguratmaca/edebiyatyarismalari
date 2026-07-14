@@ -9,7 +9,7 @@ lastDate: 1640991600
 dateHuman: "1 Ocak 2022"
 comTopic: "Serbest"
 attendance: "Posta"
-price: "1000 TL'dir"
+totalPrize: "1000 TL'dir"
 requirements: "Yarışmaya isteyen herkes katılabilir."
 permalink: "2022-ceyhun-atuf-kansu-siir-odulu"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/ceyhun-atuf-kansu-siir-odulu.jpg"

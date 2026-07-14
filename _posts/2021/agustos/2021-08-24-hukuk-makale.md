@@ -9,7 +9,7 @@ lastDate: 1630447200
 dateHuman: "1 Ekim 2021"
 comTopic: "Kripto Paraların Hukuki Durumu"
 attendance: "E-Posta"
-price: "22 Bin TL'dir"
+totalPrize: "22 Bin TL'dir"
 requirements: "Türkiye Cumhuriyeti’nde bulunan devlet veya vakıf üniversitelerinin hukuk fakültelerinde lisans düzeyinde öğrenim görüyor olmak şarttır"
 permalink: "cag-hukuk-makale-yarismasi"
 excerpt: "Çağ Üniversitesi Hukuk Fakültesi Makale Yarışması düzenliyor"

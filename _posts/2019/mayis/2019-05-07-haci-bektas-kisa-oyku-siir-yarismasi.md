@@ -6,7 +6,7 @@ category: articles
 tags: [haziran 2019, genel, hikaye yarışması, şiir yarışması]
 comments: true
 lastDate: 1561669200
-price: "4500 TL'dir."
+totalPrize: "4500 TL'dir."
 dateHuman: "28 Haziran 2019"
 ---
 

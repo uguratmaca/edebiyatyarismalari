@@ -9,7 +9,7 @@ lastDate: 1661979600
 dateHuman: "01 Eylül 2022"
 attendance: "Websitesi"
 organizer: "EDICtive Design Call Eskişehir Tasarım & İnovasyon Merkezi"
-price: "60 Bin TL'dir."
+totalPrize: "60 Bin TL'dir."
 requirements: "Türkiye’deki yerleşik kişiler katılabilir."
 permalink: "etim-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/temmuz/etim-tasarim-yarismasi.jpg"

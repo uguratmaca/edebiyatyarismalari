@@ -12,7 +12,7 @@ attendance: "Websitesi"
 hidden: true
 organizer: "Gaziantep Büyükşehir Belediyesi"
 requirements: "İsteyen herkes katılabilir."
-price: "66 Bin TL'dir"
+totalPrize: "66 Bin TL'dir"
 permalink: "kadraj-merhamet-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mart/kadraj-merhamet-kisa-film-yarismasi.jpg"
 excerpt:  "Gaziantep Büyükşehir Belediyesi <strong> Kadraj Merhamet Kısa Film Yarışması </strong> düzenliyor."

@@ -11,7 +11,7 @@ hidden: true
 attendance: "Elden/Kargo/Posta"
 organizer: "Sivas Vali Aydın Güçlü İlkokulu"
 requirements: "Türkiye genelindeki ilkokul 4. sınıf öğrencileri katılabilir."
-price: "900 TL'dir."
+totalPrize: "900 TL'dir."
 permalink: "aramizda-engel-yok-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/kasim/aramizda-engel-yok-resim-yarismasi.jpg"
 excerpt:  "Sivas Vali Aydın Güçlü İlkokulu <strong> Aramızda Engel Yok Resim Yarışması </strong> düzenliyor."

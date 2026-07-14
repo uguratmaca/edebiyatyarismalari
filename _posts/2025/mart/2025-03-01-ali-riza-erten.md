@@ -5,7 +5,7 @@ description: "Buca Belediyesi 2025 Yılı Ali Rıza Ertan Şiir Yarışması'nı
 category: articles
 tags: [nisan 2025, şiir yarışması, genel]
 lastDate: 1745964000
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 dateHuman: "30 Nisan 2025"
 attendance: "E-Posta"
 comTopic: "Serbest"

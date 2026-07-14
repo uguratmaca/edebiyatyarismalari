@@ -7,7 +7,7 @@ tags: [eylül 2020, lise, hikaye yarışması, ömer seyfettin]
 comments: true
 lastDate: 1598907600    
 dateHuman: "1 Eylül 2020"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 attendance: "Kargo"
 comTopic: "Vatan Sevgisi"
 requirements: "Yarışmaya lise öğrencileri katılabilir."

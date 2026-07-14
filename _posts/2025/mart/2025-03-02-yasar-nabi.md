@@ -5,7 +5,7 @@ description: "Varlık dergisi ve yayınları 2025 Yaşar Nabi Nayır Gençlik Ö
 category: articles
 tags: [mart 2025, şiir yarışması, hikaye yarışması, kitap dosyası, genel]
 lastDate: 1743116400
-price: "47 Bin 500 TL'dir"
+totalPrize: "47 Bin 500 TL'dir"
 dateHuman: "30 Mart 2025"
 attendance: "E-Posta"
 comTopic: "Serbest"

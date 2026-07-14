@@ -8,7 +8,7 @@ lastDate: 1754949600
 dateHuman: "12 Ağustos 2025"
 attendance: "E-Posta"
 comTopic: "Serbest"
-price: "45 Bin 500 TL"
+totalPrize: "45 Bin 500 TL"
 organizer: "Kahramanmaraş Edebiyat-Sanat Derneği"
 requirements: "Yarışmaya ülke geneli 18 yaş üstü bütün T.C. vatandaşları katılabilecektir"
 permalink: "mesder-mado-hikaye-yazma-yarismasi"

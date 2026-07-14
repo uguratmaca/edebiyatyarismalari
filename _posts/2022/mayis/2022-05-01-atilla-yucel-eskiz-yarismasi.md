@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "23 Mayıs 2022"
 attendance: "Websitesi"
 organizer: "Uluslararası Kıbrıs Üniversitesi Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi"
-price: "2 Bin 500 TL'dir."
+totalPrize: "2 Bin 500 TL'dir."
 requirements: "Türkiye ve KKTC Üniversitelerindeki lisans öğrencileri katılabilir."
 permalink: "atilla-yucel-eskiz-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/mayis/atilla-yucel-eskiz-yarismasi.jpg"

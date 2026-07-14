@@ -9,7 +9,7 @@ lastDate: 1660510800
 dateHuman: "15 Ağustos 2022"
 attendance: "E-posta"
 organizer: "Antalya Büyükşehir Belediyesi"
-price: "120 Bin TL'dir."
+totalPrize: "120 Bin TL'dir."
 requirements: "Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir."
 permalink: "edebiyat-uyarlamasi-senaryo-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/temmuz/edebiyat-uyarlamasi-senaryo-yarismasi.jpg"

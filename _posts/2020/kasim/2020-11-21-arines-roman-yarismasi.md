@@ -8,7 +8,7 @@ lastDate: 1613336400
 dateHuman: "15 Şubat 2021"
 attendance: "E-Posta-Posta-Kargo"
 comTopic: "Serbest"
-price: "4 Bin 500 TL'dir"
+totalPrize: "4 Bin 500 TL'dir"
 requirements: "Türkiye geneli 18 yaşını doldurmuş vatandaşların katılabilir"
 permalink: "arines-1-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/kasim/arines-roman-yarismasi.jpeg"

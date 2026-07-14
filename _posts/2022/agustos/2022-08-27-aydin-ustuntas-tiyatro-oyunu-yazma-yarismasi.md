@@ -9,7 +9,7 @@ lastDate: 1676840400
 dateHuman: "20 Şubat 2023"
 attendance: "Websitesi"
 organizer: "Güzel Ordu Kültür Sanat Derneği"
-price: "5 Bin TL'dir."
+totalPrize: "5 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "aydin-ustuntas-tiyatro-oyunu-yazma-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/agustos/aydin-ustuntas-tiyatro-oyunu-yazma-yarismasi.jpg"

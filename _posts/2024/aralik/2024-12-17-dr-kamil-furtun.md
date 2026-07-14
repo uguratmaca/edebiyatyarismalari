@@ -7,7 +7,7 @@ tags: [şubat 2025, hikaye yarışması, genel]
 lastDate: 1739746800
 dateHuman: "17 Şubat 2025"
 attendance: "E-Posta"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
 permalink: "dr-kamil-furtun-oyku-yarismasi-2025"

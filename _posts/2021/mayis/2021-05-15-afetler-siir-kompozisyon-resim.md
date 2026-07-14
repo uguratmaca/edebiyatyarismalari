@@ -9,7 +9,7 @@ lastDate: 1622062800
 dateHuman: "27 Mayıs 2021"
 comTopic: "Afetlere Ne Kadar Hazırlıklıyız, Afetlerin İnsan Yaşamı Üzerindeki Etkileri"
 attendance: "Okul Müdürlükleri"
-price: "5 Bin 550 TL'dir"
+totalPrize: "5 Bin 550 TL'dir"
 requirements: "İlkokul, ortaokul ve lise öğrencileri katılabilir"
 permalink: "afetler-siir-resim-kompozisyon-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/mayis/afetler-siir-kompozisyon-resim-yarismasi.jpg"

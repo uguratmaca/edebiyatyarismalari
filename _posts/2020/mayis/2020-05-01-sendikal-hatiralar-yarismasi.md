@@ -7,7 +7,7 @@ comments: true
 lastDate: 1594328400    
 dateHuman: "10 Temmuz 2020"
 attendance: "Websitesi"
-price: "29 Bin TL'dir"
+totalPrize: "29 Bin TL'dir"
 requirements: "Eğitimciler Birliği Sendikası’nın görev süresi sona ermiş veya halen görevde bulunan bütün genel merkez, şube, temsilcilik yöneticileri, işyeri temsilcileri ile emekli olan veya halen üye olan bütün üyelerine açıktır"
 permalink: "egitim-bir-sen-hatiralar-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/mayis/sendikal-hatiralar-yarismasi.jpg"

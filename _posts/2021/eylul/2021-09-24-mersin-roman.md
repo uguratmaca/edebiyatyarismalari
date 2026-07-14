@@ -8,7 +8,7 @@ comments: true
 lastDate: 1636930800 
 dateHuman: "15 Kasım 2021"
 comTopic: "Serbest"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 attendance: "Posta, Kargo"
 requirements: "İsteyen herkes katılabilir"
 permalink: "mersin-roman-yarismasi"

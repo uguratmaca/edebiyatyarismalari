@@ -12,7 +12,7 @@ attendance: "E-Posta"
 hidden: true
 organizer: "İzmir Belediyesi"
 requirements: "İsteyen herkes katılabilir."
-price: "42 Bin TL'dir"
+totalPrize: "42 Bin TL'dir"
 permalink: "izmir-kooperatif-karikatur-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mart/izmir-kooperatif-karikatur-yarismasi.jpg"
 excerpt:  "İzmir Belediyesi <strong> Köylünün Örgütlü Gücü Kooperatif Karikatür Yarışması </strong> düzenliyor."

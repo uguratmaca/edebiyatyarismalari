@@ -9,7 +9,7 @@ lastDate: 1692046800
 dateHuman: "15 Ağustos 2023"
 comTopic: "Erol Güngör Düşüncesinde Halkçılık ve Cumhuriyet"
 attendance: "E-Posta"
-price: "36 Bin TL'dir."
+totalPrize: "36 Bin TL'dir."
 organizer: "Kocav Yayınları"
 requirements: "Türkiye geneli Millî Eğitim Bakanlığına bağlı resmî sosyal bilimler lisesi öğrencileri katılabilir."
 permalink: "kultur-ocagi-vakfi-makale-yarismasi"

@@ -9,7 +9,7 @@ lastDate: 1690837200
 dateHuman: "1 Temmuz 2023"
 attendance: "Websitesi"
 organizer: "Gemlik Belediyesi"
-price: "70 Bin TL'dir."
+totalPrize: "70 Bin TL'dir."
 requirements: "Türkiye'den herkes katılabilir."
 permalink: "gemlik-kisa-film-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/mayis/gemlik-kisa-film-yarismasi-2023.jpg"

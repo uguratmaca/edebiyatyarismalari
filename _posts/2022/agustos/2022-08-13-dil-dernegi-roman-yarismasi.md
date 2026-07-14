@@ -9,7 +9,7 @@ lastDate: 1667250000
 dateHuman: "06 Ocak 2023"
 attendance: "Kargo/Posta"
 organizer: "Dil Derneği"
-price: "4 Bin TL'dir."
+totalPrize: "4 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "dil-dernegi-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/agustos/dil-dernegi-roman-yarismasi.jpg"

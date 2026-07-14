@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "16 Aralık 2022"
 attendance: "Elden/Posta/Kargo"
 organizer: "İHİB"
-price: "95 Bin TL'dir."
+totalPrize: "95 Bin TL'dir."
 requirements: "Üniversitelerin Ön lisans, Lisans ve Yüksek Lisans bölümlerinde (bölüm sınırlaması olmaksızın ) okuyan veya en fazla 3 yıl önce mezun olmuş olan öğrenciler katılabilir."
 permalink: "16-ulusal-hali-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/temmuz/16-ulusal-hali-tasarim-yarismasi.jpg"

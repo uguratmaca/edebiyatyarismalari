@@ -8,7 +8,7 @@ lastDate: 1655244000
 dateHuman: "15 Haziran 2022"
 comTopic: "Türkiye yargı sisteminin sorunlarına dair tespitler ve çözüm yollarına dair görüşler"
 attendance: "E-Posta"
-price: "33500 TL'dir"
+totalPrize: "33500 TL'dir"
 organizer: "İstanbul Barosu Hukuk Felsefesi ve Sosyolojisi Komisyonu"
 requirements: "İsteyen herkes katılabilir"
 permalink: "yargi-sistemi-makale-yarismasi"

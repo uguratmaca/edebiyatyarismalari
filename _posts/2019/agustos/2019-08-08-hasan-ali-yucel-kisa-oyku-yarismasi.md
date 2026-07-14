@@ -8,7 +8,7 @@ comments: true
 lastDate: 1569790800
 dateHuman: "30 Eylül 2019"
 comTopic: "Anadolu"
-price: "19 Bin 500 TL'dir."
+totalPrize: "19 Bin 500 TL'dir."
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/hasan-ali-yucel-kisa-oyku-yarismasi.PNG?alt=media&token=44b1a53a-fe0c-485b-980a-0ac94bdd86a0"
 ---
 

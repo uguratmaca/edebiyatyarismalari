@@ -8,7 +8,7 @@ tags: [ağustos 2022, hikaye yarışması, proje yarışması, genel, üniversit
 lastDate: 1661806800
 dateHuman: "30 Ağustos 2022"
 attendance: "Websitesi"
-price: "120 Bin TL'dir"
+totalPrize: "120 Bin TL'dir"
 organizer: "Türkiye İlahiyatlar Derneği"
 requirements: "1993-2004 arası doğumlu İlahiyat ve İslâmî İlimlerde okuyan her genç katılabilirler."
 permalink: "ilahiyat-yildizlari-odulleri"

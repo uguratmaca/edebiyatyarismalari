@@ -7,7 +7,7 @@ tags: [ocak 2022, genel, makale yarışması]
 comments: true
 lastDate: 1642201200
 dateHuman: "15 Ocak 2022"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 comTopic: "Türkiye’de Mülkiyet Hakları"
 attendance: "Websitesi"
 requirements: "Yarışma herkese açıktır."

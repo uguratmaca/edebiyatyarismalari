@@ -9,7 +9,7 @@ lastDate: 1672434000
 dateHuman: "31 Aralık 2022"
 attendance: "Elden, Posta"
 organizer: "Kuşadası Eğitim Ve Geliştirme Vakfı (KEGEV)"
-price: "3 Bin TL'dir."
+totalPrize: "3 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "sunullah-arisoy-siir-odulu"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/sunullah-arisoy-siir-odulu.jpg"

@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "12 Mayıs 2022"
 attendance: "Websitesi"
 organizer: "TÜBİTAK"
-price: "603 Bin TL'dir."
+totalPrize: "603 Bin TL'dir."
 requirements: "Türkiye’de ve KKTC’de öğrenim gören ön lisans veya lisans öğrencileri katılabilir."
 permalink: "tubitak-arastirma-proje-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/mayis/tubitak-arastirma-proje-yarismasi.webp"

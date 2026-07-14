@@ -7,7 +7,7 @@ comments: true
 lastDate: 1598821200  
 dateHuman: "31 Ağustos 2020"
 attendance: "E-Posta"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 comTopic: "Serbest"
 requirements: "Yarışmaya herkes katılabilir."
 permalink: "tbd-2020-bilimkurgu-oyku-yarismasi"

@@ -10,7 +10,7 @@ comTopic: "İnteraktif Mesleki Kurgular"
 attendance: "Websitesi"
 sticky: true
 organizer: "uStory"
-price: "1750 TL'dir."
+totalPrize: "1750 TL'dir."
 requirements: "Yarışmaya Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir."
 permalink: "2-interaktif-hikaye-yarismasi"
 redirect_from: ["/2-interaktif-hikaye-"]

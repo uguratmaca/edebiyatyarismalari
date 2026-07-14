@@ -9,7 +9,7 @@ lastDate: 1661893200
 dateHuman: "31 Ağustos 2022"
 attendance: "E-posta"
 organizer: "Sağlık-Sen"
-price: "87 Bin TL'dir."
+totalPrize: "87 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "saglik-sen-ani-fotograf-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/agustos/saglik-sen-ani-fotograf-kisa-film-yarismasi.jpg"

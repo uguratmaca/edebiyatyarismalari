@@ -5,7 +5,7 @@ description: "dokuz eylül üniversitesi, para ödüllü yarışmalar 2019"
 category: articles
 tags: [temmuz 2019, genel, şiir yarışması, kompozisyon yarışması]
 comments: true
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 lastDate: 1562274000
 dateHuman: "05 Temmuz 2019"
 comTopic: "15 Temmuz Demokrasi ve Milli Birlik Günü"

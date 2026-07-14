@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "28 Nisan 2022"
 comTopic: "İklim"
 attendance: "E-posta"
-price: "9 Bin TL'dir."
+totalPrize: "9 Bin TL'dir."
 organizer: "Pursaklar Belediyesi ve Pursaklar İlçe Milli Eğitim Müdürlüğü"
 requirements: "İlçe Milli Eğitim Müdürlüğüne bağlı resmi ve özel lise öğrencileri katılabilir."
 permalink: "pursaklar-iklim-fotograf-yarismasi"

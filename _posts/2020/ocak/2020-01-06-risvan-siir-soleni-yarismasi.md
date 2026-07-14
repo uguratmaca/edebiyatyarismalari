@@ -7,7 +7,7 @@ tags: [şubat 2020, genel, şiir yarışması]
 comments: true
 lastDate: 1582837200
 dateHuman: "28 Şubat 2020"
-price: "2 Bin 250 TL'dir"
+totalPrize: "2 Bin 250 TL'dir"
 comTopic: "Serbest"
 attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"

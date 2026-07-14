@@ -9,7 +9,7 @@ lastDate: 1666645200
 dateHuman: "25 Ekim 2022"
 attendance: "Elden/Kargo/Posta/E-posta"
 organizer: "Anadolu Üniversitesi İletişim Bilimleri Fakültesi"
-price: "8 Bin TL'dir."
+totalPrize: "8 Bin TL'dir."
 requirements: "Sinema alanında çalışan düşünür, yazar ve akademisyenler katılabilir."
 permalink: "eskisehir-film-festivali"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/eskisehir-film-festivali.jpg"

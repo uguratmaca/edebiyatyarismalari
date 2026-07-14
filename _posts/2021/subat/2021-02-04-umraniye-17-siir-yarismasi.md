@@ -8,7 +8,7 @@ lastDate: 1621544400
 dateHuman: "21 Mayıs 2021"
 attendance: "Websitesi"
 comTopic: "Kahramanlık Şiirleri"
-price: "26 Bin 500 TL'dir"
+totalPrize: "26 Bin 500 TL'dir"
 requirements: "Yarışma herkese açıktır."
 permalink: "umraniye-belediyesi-17-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/subat/umraniye-belediyesi-17-siir-yarismasi.jpg"

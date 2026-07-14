@@ -7,7 +7,7 @@ category: articles
 tags: [mayıs 2022, şiir yarışması, genel, diyarbakır, edebiyat ödülleri, kitap dosyası]
 lastDate: 1653944400
 dateHuman: "31 Mayıs 2022"
-price: "3 Bin TL'dir."
+totalPrize: "3 Bin TL'dir."
 organizer: "Ditav (Diyarbakır Tanıtma, Kültür, Yardımlaşma Vakfı)"
 requirements: "2021 yılında yayınlanmış şiir kitapları yarışmaya katılabilir."
 permalink: "ihsan-bicici-siir-odulu"

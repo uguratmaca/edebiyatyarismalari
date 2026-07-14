@@ -8,7 +8,7 @@ lastDate: 1753912800
 dateHuman: "31 Temmuz 2025"
 attendance: "E-Posta"
 comTopic: "Yolculuk"
-price: "180 Bin TL'dir"
+totalPrize: "180 Bin TL'dir"
 organizer: "İzmir Büyükşehir Belediyesi"
 requirements: "Yarışmaya lise hazırlık, 9,10,11 ve 12, sınıf öğrencileri katılabilir."
 permalink: "edebiyat-yolculuktur-siir-oyku-deneme-yarismasi"

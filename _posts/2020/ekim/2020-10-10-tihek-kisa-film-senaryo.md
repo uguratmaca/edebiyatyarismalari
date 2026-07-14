@@ -8,7 +8,7 @@ lastDate: 1605733200
 dateHuman: "19 Kasım 2020"
 attendance: "Websitesi"
 comTopic: "İnsan Hakları Bağlamında İnsani Değerler"
-price: "39 Bin 500 TL'dir"
+totalPrize: "39 Bin 500 TL'dir"
 requirements: "Yarışmalara (Jüri heyeti üyeleri ve 1. derece yakınları hariç) yurt içinden ve yurt dışından amatör veya profesyonel tüm kurum ve kişiler eserleriyle başvurabilir."
 permalink: "tihek-kisa-film-senaryo-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/tihek-kisa-film-ve-senaryo-yarismasi.jpeg"

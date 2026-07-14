@@ -7,7 +7,7 @@ comments: true
 lastDate: 1618520400 
 dateHuman: "16 Nisan 2021"
 attendance: "Posta"
-price: "3 Bin TL'dir"
+totalPrize: "3 Bin TL'dir"
 comTopic: "Ailenden Birine COVID-19 Hakkındaki Deneyimlerinle İlgili Mektup Yaz"
 requirements: "9-15 yaş arası gençler katılabilir"
 permalink: "gencler-arasi-mektup-yazma-yarismasi"

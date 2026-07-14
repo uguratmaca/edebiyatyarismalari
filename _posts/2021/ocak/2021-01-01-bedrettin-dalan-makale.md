@@ -8,7 +8,7 @@ lastDate: 1610658000
 dateHuman: "15 Ocak 2021"
 attendance: "Websitesi"
 comTopic: "Kâzım Berzeg'in Özgürlük ve Hukuk Üzerine Düşünceleri"
-price: "10000 TL'dir"
+totalPrize: "10000 TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "kazim-berzeg-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/ocak/kazim-berzeg-makale-yarismasi.jpg"

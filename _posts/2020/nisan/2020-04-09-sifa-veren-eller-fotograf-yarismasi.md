@@ -7,7 +7,7 @@ comments: true
 lastDate: 1589490000    
 dateHuman: "15 Mayıs 2020"
 attendance: "E-Posta"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 comTopic: "Şifa Veren Eller"
 hidden: true
 requirements: "Yarışma özel ve kamu kurumlarında çalışan sağlık çalışanları ve sağlıkla ilgili herhangi bir okulda öğrenim gören öğrencilere açıktır."

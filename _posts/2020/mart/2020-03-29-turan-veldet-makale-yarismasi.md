@@ -7,7 +7,7 @@ tags: [mayıs 2020, türmob, makale yarışması]
 comments: true
 lastDate: 1590094800    
 dateHuman: "22 Mayıs 2020"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 comTopic: "Dijital Çağda Muhasebe Mesleğinin Geleceği"
 attendance: "Posta/Kargo/Elden"
 requirements: "TÜRMOB'a bağlı Odalara kayıtlı meslek mensuplarının ve stajyerlerin katılabileceği bir makale yarışması düzenlenmiştir."

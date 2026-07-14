@@ -7,7 +7,7 @@ tags: [kasım 2019, senaryo yarışması, film yarışması]
 comments: true
 lastDate: 1572555600
 dateHuman: "1 Kasım 2019"
-price: "50 Bin TL'dir."
+totalPrize: "50 Bin TL'dir."
 comTopic: "Sigarasız Yaşam"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ilk-senaryo-ilk-film-yarismasi.jpg?alt=media&token=bd8f1b1a-0d15-485b-ae04-ca714613042f"
 ---

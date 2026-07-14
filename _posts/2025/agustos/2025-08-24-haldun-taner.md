@@ -7,7 +7,7 @@ tags: [eylül 2025, hikaye yarışması, haldun taner, genel]
 lastDate: 1758837600
 dateHuman: "26 Eylül 2025"
 attendance: "Posta, Kargo"
-price: "50 Bin TL'dir"
+totalPrize: "50 Bin TL'dir"
 comTopic: "Serbest"
 organizer: "Miliyet Gazetesi"
 requirements: "İsteyen herkes katılabilir"

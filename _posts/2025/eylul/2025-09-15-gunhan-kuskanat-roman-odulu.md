@@ -8,7 +8,7 @@ lastDate: 1760911200
 dateHuman: "20 Ekim 2025"
 attendance: "Posta, Kargo"
 comTopic: "Serbest"
-price: "30 Bin TL'dir"
+totalPrize: "30 Bin TL'dir"
 organizer: "Günhan Kuşkanat Ailesi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "gunhan-kuskanat-roman-odulu-2025"

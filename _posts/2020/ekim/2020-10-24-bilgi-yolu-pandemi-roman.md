@@ -7,7 +7,7 @@ comments: true
 lastDate: 1613336400  
 dateHuman: "15 Ocak 2021"
 attendance: "Kargo - Posta"
-price: "25 Bin 500 TL'dir"
+totalPrize: "25 Bin 500 TL'dir"
 comTopic: "Pandemi Döneminde Çocuk Olmak"
 requirements: "Yarışma 18 yaşını bitirmiş tüm yazarlara açıktır."
 permalink: "pandemi-cocuk-edebiyati-roman-yarismasi"

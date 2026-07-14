@@ -5,7 +5,7 @@ description: "İlkadım Belediyesi 6. Geleneksel Cemal Safi Şiir Yarışması'n
 category: articles
 tags: [mart 2025, şiir yarışması, genel]
 lastDate: 1743116400
-price: "47 Bin 500 TL'dir"
+totalPrize: "47 Bin 500 TL'dir"
 dateHuman: "28 Mart 2025"
 attendance: "Websitesi"
 comTopic: "Serbest"

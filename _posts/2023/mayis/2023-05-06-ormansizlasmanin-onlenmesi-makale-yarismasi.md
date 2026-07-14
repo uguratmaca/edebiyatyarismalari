@@ -8,7 +8,7 @@ tags: [eylül 2023, makale yarışması, üniversite, kıbrıs, hukuk]
 lastDate: 1696021200
 dateHuman: "30 Eylül 2023"
 attendance: "E-posta"
-price: "27 Bin TL'dir."
+totalPrize: "27 Bin TL'dir."
 organizer: "WWF-Türkiye (Doğal Hayatı Koruma Vakfı) ile Kadir Has Üniversitesi İklim Değişikliği ve Hukuk Laboratuvarı (CCLLAB)"
 requirements: "Avukatlar, Türkiye Cumhuriyeti ve Kuzey Kıbrıs Türk Cumhuriyeti’nde yer alan üniversitelerden lisans derecesiyle mezun olanlar, yüksek lisans ya da doktora eğitimi görmekte olan öğrenciler, bu programlardan mezun olanlar ve bu üniversitelerde öğretim üyesi ya da öğretim görevlisi olarak görev yapan akademisyenler katılabilir."
 permalink: "ormansizlasmanin-onlenmesi-makale-yarismasi"

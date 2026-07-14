@@ -7,7 +7,7 @@ comments: true
 lastDate: 1618866000  
 dateHuman: "20 Nisan 2021"
 attendance: "Kargo - Posta"
-price: "5 Bin TL'dir"
+totalPrize: "5 Bin TL'dir"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
 permalink: "rifat-ilgaz-roman-yarismasi"

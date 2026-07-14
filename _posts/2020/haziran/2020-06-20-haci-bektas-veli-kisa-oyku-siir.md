@@ -7,7 +7,7 @@ comments: true
 lastDate: 1593118800  
 dateHuman: "26 Haziran 2020"
 attendance: "Posta/Kargo"
-price: "4 Bin 500 TL'dir"
+totalPrize: "4 Bin 500 TL'dir"
 comTopic: "Anadolu Aydınlanmasında Kadıncık Ananın Önderliği"
 requirements: "Yarışmaya herkes katılabilir."
 permalink: "haci-bektas-veli-kisa-oyku-siir-yarismasi"

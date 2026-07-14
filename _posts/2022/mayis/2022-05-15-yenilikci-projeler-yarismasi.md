@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "07 Haziran 2022"
 attendance: "Websitesi"
 organizer: "MBA Okulları"
-price: "Akıllı Saat"
+totalPrize: "Akıllı Saat"
 requirements: "İstanbul ili genelindeki ilköğretim ve ortaöğretim okullarının 5,6,7,8,9,10,11 ve 12. sınıf ve aynı düzeydeki Bilim ve Sanat Merkezi öğrencileri katılabilir."
 permalink: "yenilikci-projeler-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/mayis/yenilikci-projeler-yarismasi.jpg"

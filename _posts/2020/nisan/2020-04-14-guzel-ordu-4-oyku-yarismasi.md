@@ -6,7 +6,7 @@ tags: [ekim 2020, genel, hikaye yarışması]
 comments: true
 lastDate: 1603054800    
 dateHuman: "19 Ekim 2020"
-price: "4 Bin 500 TL'dir"
+totalPrize: "4 Bin 500 TL'dir"
 attendance: "E-Posta"
 comTopic: "Adalet"
 requirements: "İsteyen herkes katılabilir"

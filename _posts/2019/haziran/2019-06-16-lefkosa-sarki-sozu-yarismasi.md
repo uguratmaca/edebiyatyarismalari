@@ -5,7 +5,7 @@ description: "lefkoşa türk belediyesi, para ödüllü yarışmalar 2019"
 category: articles
 tags: [haziran 2019, genel, şarkı sözü yarışması]
 comments: true
-price: "2500 TL'dir"
+totalPrize: "2500 TL'dir"
 lastDate: 1561064400
 dateHuman: "21 Haziran 2019"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/lefkosa-sarki-sozu-yazma-yarismasi.png?alt=media&token=3d363068-2b1d-452c-90f1-35bf072b8b61"

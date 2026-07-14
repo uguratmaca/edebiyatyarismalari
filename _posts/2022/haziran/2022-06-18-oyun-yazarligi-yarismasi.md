@@ -9,7 +9,7 @@ lastDate: 1660856400
 dateHuman: "19 Ağustos 2022"
 attendance: "Elden/Posta/Kargo"
 organizer: "İstanbul Güngören Belediyesi"
-price: "17 Bin 500 TL'dir."
+totalPrize: "17 Bin 500 TL'dir."
 requirements: "İstanbul genelinde yaşayan ve Türkçe eser veren herkes katılabilir."
 permalink: "oyun-yazarligi-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/haziran/oyun-yazarligi-yarismasi.jpg"

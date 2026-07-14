@@ -7,7 +7,7 @@ tags: [masal yarışması, mayıs 2019]
 comments: true
 lastDate: 1559163600
 dateHuman: "30 Mayıs 2019"
-price: "5250 TL'dir"
+totalPrize: "5250 TL'dir"
 ---
 
 Kültür ve Turizm Bakanlığı’nca 03-05 Mart 2017 tarihleri arasında İstanbul’da gerçekleştirilen III. Millî Kültür Şurası sonucunda hazırlanan Eylem Planı’nın “12. Çocuk ve Kültür Bölümü” nün 6. maddesi kapsamında, okul öncesi yaş grubu çocuklarımıza yönelik yeni ve özgün metinler yazılmasını teşvik etmek amacıyla Müdürlüğümüz tarafından “Bir Varmış Bir Yokmuş” adlı ödüllü masal yarışması düzenlenmiştir.

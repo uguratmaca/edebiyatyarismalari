@@ -9,7 +9,7 @@ lastDate: 1633640400
 dateHuman: "8 Ekim 2021"
 comTopic: "Yunus Emre’ye Mektup"
 attendance: "E-Posta"
-price: "10 Bin 500 TL'dir"
+totalPrize: "10 Bin 500 TL'dir"
 requirements: "Lise öğrencileri katılabilir"
 permalink: "yunus-emreye-mektup-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/yunus-emreye-mektup-yarismasi.jpg"

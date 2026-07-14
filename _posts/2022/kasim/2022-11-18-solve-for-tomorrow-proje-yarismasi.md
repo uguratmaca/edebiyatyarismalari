@@ -9,7 +9,7 @@ lastDate: 1673730000
 dateHuman: "15 Ocak 2023"
 attendance: "Websitesi"
 organizer: "Habitat Derneği ve Samsung"
-price: "75 Bin TL Hediye Çeki'dir."
+totalPrize: "75 Bin TL Hediye Çeki'dir."
 requirements: "8-12. sınıflardaki tüm öğrenciler ekiplerini oluşturarak yarışmaya katılabilir."
 permalink: "solve-for-tomorrow-proje-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/kasim/solve-for-tomorrow-proje-yarismasi.jpg"

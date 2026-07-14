@@ -7,7 +7,7 @@ tags: [mart 2022, makale yarışması, üniversite]
 comments: true
 lastDate: 1646348400
 dateHuman: "4 Mart 2022"
-price: "12 Bin TL'dir"
+totalPrize: "12 Bin TL'dir"
 comTopic: "Makaleler; Kişisel Verilerin Korunması ve Öneminin - Ulusal ve Uluslararası Uygulamalar göz önünde bulundurularak - hukuki, sosyal ve teknik açıdan değerlendirilmesine dair tüm konularda hazırlanabilecektir."
 attendance: "Websitesi"
 requirements: "Yarışmaya yalnızca öğrenim görmekte olan yüksek lisans ve doktora öğrencileri katılabilir."

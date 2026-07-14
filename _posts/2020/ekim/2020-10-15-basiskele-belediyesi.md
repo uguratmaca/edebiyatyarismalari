@@ -9,7 +9,7 @@ dateHuman: "29 Ocak 2021"
 attendance: "Websitesi"
 comTopic: "Serbest"
 hidden: true
-price: "20 Bin TL'dir"
+totalPrize: "20 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "mavi-yesil-basiskele-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/6-geleneksel-mavi-yesil-fotograf-yarismasi.jpg"

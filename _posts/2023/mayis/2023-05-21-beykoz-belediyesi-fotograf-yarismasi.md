@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "1 Kasım 2023"
 attendance: "Websitesi"
 organizer: "Beykoz Belediyesi"
-price: "377 Bin 500 TL'dir."
+totalPrize: "377 Bin 500 TL'dir."
 requirements: "Amatör veya profesyonel, ulusal veya yerel olmak üzere 18 yaş üstü herkes katılabilir."
 permalink: "beykoz-belediyesi-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mayis/beykoz-belediyesi-fotograf-yarismasi.jpg"

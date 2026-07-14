@@ -9,7 +9,7 @@ lastDate: 1636066800
 dateHuman: "5 Kasım 2021"
 comTopic: "Serbest"
 attendance: "Elden, Kargo"
-price: "4 Bin TL'dir"
+totalPrize: "4 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "cocuk-edebiyati-oyku-roman-yarismasi"
 excerpt: "Kocaeli Yüksek Öğrenim Vakfı Öykü ve Roman Dalında Çocuk Edebiyatı Ödülleri yarışması düzenliyor"

@@ -9,7 +9,7 @@ lastDate: 1573678800
 dateHuman: "14 Kasım 2019"
 comTopic: "İnsan Hakları Odağında Hukuk Güvenliği"
 attendance: "Posta ya da Elden"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/avukat-kazim-kolcuoglu-makale-yarismasi.jpg?alt=media&token=13535dad-1ad9-4775-a5dc-4ba26895f523"
 ---
 

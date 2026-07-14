@@ -7,7 +7,7 @@ tags: [mayıs 2021, sağlık, anı yarışması, covid19]
 comments: true
 lastDate: 1622322000    
 dateHuman: "30 Mayıs 2021"
-price: "37 Bin 500 TL'dir"
+totalPrize: "37 Bin 500 TL'dir"
 comTopic: "Sağlık Çalışanlarının Covid 19 pandemisi sürecinde yaşamış oldukları anılar"
 attendance: "E-Posta, Posta"
 requirements: "Yarışmaya kamu ve özel sağlık kurum ve kuruluşlarında görev yapan tüm sağlık çalışanları ve birinci derece yakınları katılabilirler."

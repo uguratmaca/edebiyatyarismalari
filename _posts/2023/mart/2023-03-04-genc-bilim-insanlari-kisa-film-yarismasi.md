@@ -10,7 +10,7 @@ dateHuman: "24 Mart 2023"
 attendance: "İlçe Milli Eğitim Müdürlükleri"
 organizer: "Plastiksiz Okullar Hareketi - School Plastıc Free Movement"
 requirements: "Türkiye geneli ilkokul ve ortaokullarda öğrenim gören 9 ile 12 yaş arası öğrenciler katılabilir."
-price: "18 Bin TL'dir"
+totalPrize: "18 Bin TL'dir"
 hidden: true
 permalink: "genc-bilim-insanlari-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mart/genc-bilim-insanlari-kisa-film-yarismasi.jpg"

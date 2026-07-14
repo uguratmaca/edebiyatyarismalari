@@ -10,7 +10,7 @@ dateHuman: "30 Ekim 2023"
 hidden: true
 attendance: "E-Posta"
 organizer: "Türk Japon Vakfı"
-price: "30 Bin TL'dir."
+totalPrize: "30 Bin TL'dir."
 requirements: "Türkiye geneli ilkokul, ortaokul, lise ve özel eğitim okullarındaki öğrenciler katılabilir."
 permalink: "afet-risk-azaltma-proje-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/temmuz/afet-risk-azaltma-proje-yarismasi.jpg"

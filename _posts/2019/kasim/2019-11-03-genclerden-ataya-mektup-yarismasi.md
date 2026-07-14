@@ -8,7 +8,7 @@ comments: true
 lastDate: 1588539600
 dateHuman: "4 Mayıs 2020"
 attendance: "Elden/Online"
-price: "3 Bin TL'dir"
+totalPrize: "3 Bin TL'dir"
 requirements: "Yarışmaya Küçükçekmece genelindeki resmi/özel liselerde okuyan öğrenciler katılabilir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/genclerden-ataya-mektup-yarismasi.jpg?alt=media&token=f095774b-eaa8-44c0-8f2e-34e0d50bc931"
 ---

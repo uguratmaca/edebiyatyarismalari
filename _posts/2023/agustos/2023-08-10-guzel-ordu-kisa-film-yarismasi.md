@@ -11,7 +11,7 @@ comTopic: "Empati"
 attendance: "Websitesi"
 organizer: "Güzel Ordu Kültür Sanat Vakfı"
 hidden: true
-price: "30 Bin TL'dir."
+totalPrize: "30 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "guzel-ordu-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/guzel-ordu-kisa-film-yarismasi.jpg"

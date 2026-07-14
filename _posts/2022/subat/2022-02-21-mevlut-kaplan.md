@@ -8,7 +8,7 @@ lastDate: 1662674400
 dateHuman: "9 Eylül 2022"
 comTopic: "Serbest"
 attendance: "Posta"
-price: "2 Bin TL'dir"
+totalPrize: "2 Bin TL'dir"
 organizer: "Özgür Eğitim Yayınları"
 requirements: "Yarışma herkese açıktır."
 permalink: "26-mevlut-kaplan-edebiyat-odulu"

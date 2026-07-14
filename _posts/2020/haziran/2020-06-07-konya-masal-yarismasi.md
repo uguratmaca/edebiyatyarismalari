@@ -6,7 +6,7 @@ tags: [haziran 2020, ilkokul, ortaokul, masal yarışması]
 comments: true
 lastDate: 1593464400    
 dateHuman: "30 Haziran 2020"
-price: "73 Bin TL'dir"
+totalPrize: "73 Bin TL'dir"
 attendance: "E-Posta"
 comTopic: "Serbest"
 requirements: "Yarışmaya bütün ilkokul ve ortaokul öğrencilerimiz katılabilir."

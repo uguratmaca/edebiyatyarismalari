@@ -10,7 +10,7 @@ dateHuman: "21 Ekim 2022"
 attendance: "Websitesi"
 comTopic: "İklim değişikliklerinden kaynaklı sorunlara yaratıcı yapısal çözümler"
 organizer: "Türk Yapısal Çelik Derneği"
-price: "30 Bin TL'dir."
+totalPrize: "30 Bin TL'dir."
 hidden: true
 requirements: "Yarışma, Türkiye ve KKTC üniversitelerinden, Mimarlık ve İnşaat Mühendisliği bölümlerinde lisans öğrenimi gören öğrencilere açıktır."
 permalink: "celik-yapi-tasarim-yarismasi"

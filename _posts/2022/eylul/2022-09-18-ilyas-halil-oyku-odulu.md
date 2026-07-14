@@ -9,7 +9,7 @@ lastDate: 1669755600
 dateHuman: "30 Kasım 2022"
 attendance: "E-Posta"
 organizer: "Mersin Sanat Edebiyat Dergisi"
-price: "5 Bin TL'dir."
+totalPrize: "5 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "ilyas-halil-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/ilyas-halil-oyku-odulu.jpg"

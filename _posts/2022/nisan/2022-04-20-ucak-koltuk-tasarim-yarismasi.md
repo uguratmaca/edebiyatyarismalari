@@ -9,7 +9,7 @@ lastDate: 1657746000
 hidden: true
 dateHuman: "14 Temmuz 2022"
 attendance: "Websitesi"
-price: "35 Bin TL'dir."
+totalPrize: "35 Bin TL'dir."
 organizer: "TSI Seats"
 requirements: "Üniversitelere kayıtlı ön lisans, lisans, yüksek lisans ve doktora öğrencileri katılabilir."
 permalink: "ucak-koltuk-tasarim-yarismasi"

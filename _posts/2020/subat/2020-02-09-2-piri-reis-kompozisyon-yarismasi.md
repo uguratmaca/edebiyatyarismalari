@@ -7,7 +7,7 @@ tags: [şubat 2020, lise, kompozisyon yarışması]
 comments: true
 lastDate: 1582232400
 dateHuman: "21 Şubat 2020"
-price: "7 Bin TL'dir"
+totalPrize: "7 Bin TL'dir"
 comTopic: "İsraf"
 attendance: "E-Posta"
 requirements: "Türkiye’deki tüm ortaöğretim (lise) öğrencileri katılabilir"

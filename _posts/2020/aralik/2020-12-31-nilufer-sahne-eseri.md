@@ -7,7 +7,7 @@ comments: true
 lastDate: 1620075600 
 dateHuman: "4 Mayıs 2021"
 attendance: "Posta, Kargo"
-price: "34 Bin TL'dir"
+totalPrize: "34 Bin TL'dir"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
 permalink: "sahne-eseri-yazma-yarismasi-2021"

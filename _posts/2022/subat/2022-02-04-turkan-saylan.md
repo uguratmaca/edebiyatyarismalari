@@ -8,7 +8,7 @@ lastDate: 1645398000
 dateHuman: "21 Şubat 2022"
 comTopic: "Serbest"
 attendance: "Posta, Kargo"
-price: "5000 TL'dir"
+totalPrize: "5000 TL'dir"
 organizer: "Çağdaş Yaşamı Destekleme Derneği"
 requirements: "İsteyen herkes katılabilir"
 permalink: "turkan-saylan-sanat-odulu"

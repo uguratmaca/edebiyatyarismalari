@@ -9,7 +9,7 @@ lastDate: 1580677200
 dateHuman: "3 Şubat 2020"
 attendance: "Posta/Kargo/Elden"
 comTopic: "Opera"
-price: "22 Bin TL'dir"
+totalPrize: "22 Bin TL'dir"
 requirements: "Üniversitelerin sanat eğitimi veren fakültelerinin sanat eğitimi veren bölümlerinde veya Eğitim Fakülteleri’nin Resim-İş
 Öğretmenliği Bölümü’nde eğitimini sürdüren lisans öğrencileri ve tüm bu bölümlerin lisansüstü programlarında eğitim gören lisansüstü öğrenciler katılabilir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/hayal-melodileri-resim-yarismasi-2020.jpg?alt=media&token=526948a6-a57b-4c98-8bd9-45a0ab5cd39d"

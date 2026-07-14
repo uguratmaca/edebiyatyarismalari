@@ -6,7 +6,7 @@ category: articles
 tags: [şubat 2026, şiir yarışması, genel]
 lastDate: 1771110000
 dateHuman: "15 Şubat 2026"
-price: "45 Bin TL'dir"
+totalPrize: "45 Bin TL'dir"
 comTopic: "Serbest"
 attendance: "Websitesi"
 organizer: "Kahramanmaraş Belediyesi"

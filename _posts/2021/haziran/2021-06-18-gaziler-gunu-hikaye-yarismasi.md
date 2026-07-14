@@ -9,7 +9,7 @@ lastDate: 1627592400
 dateHuman: "30 Temmuz 2021"
 comTopic: "19 Eylül Gazileri Anma Günü"
 attendance: "Websitesi"
-price: "4 Bin TL'dir"
+totalPrize: "4 Bin TL'dir"
 requirements: "12 (dahil) ile 22 (dahil) yaş aralığında tüm Türkiye genelinden katılım sağlanabilecektir"
 permalink: "bir-vatan-hikayesi-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/gaziler-gunu-hikaye-yarismasi.jpg"

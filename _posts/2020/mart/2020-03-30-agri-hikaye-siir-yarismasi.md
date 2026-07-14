@@ -8,7 +8,7 @@ lastDate: 1601413200
 dateHuman: "30 Eylül 2020"
 attendance: "Websitesi"
 comTopic: "Ağrı"
-price: "17 Bin TL'dir"
+totalPrize: "17 Bin TL'dir"
 requirements: "Ülkemizin üniversitelerinde öğrenim hayatını halen sürdüren önlisans, lisans, yüksek lisans ve doktoraöğrencileri katılabilir"
 image: "https://edebiyatyarismalari.com/images/2020/mart/agri-hikaye-siir-yarismasi.jpg"
 permalink: "agri-hikaye-siir-yarismasi-2020"

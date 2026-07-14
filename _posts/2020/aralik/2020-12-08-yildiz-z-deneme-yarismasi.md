@@ -7,7 +7,7 @@ comments: true
 lastDate: 1614546000  
 dateHuman: "1 Mart 2021"
 attendance: "E-Posta - Web Sitesi"
-price: "1750 TL'dir"
+totalPrize: "1750 TL'dir"
 comTopic: "Pandemilerin Sosyal, Psikolojik ve Siyasi Etkileri"
 requirements: "İstanbul ili Üsküdar, Ümraniye, Beykoz, Kadıköy, Beşiktaş ve Ataşehir ilçelerinde bulunan, milli eğitim bakanlığına bağlı  liselerin (Hazırlık, 9-10-11 ve 12. sınıflar) öğrencileri katılabilir"
 permalink: "2020-yildiz-z-lari-deneme-yarismasi"

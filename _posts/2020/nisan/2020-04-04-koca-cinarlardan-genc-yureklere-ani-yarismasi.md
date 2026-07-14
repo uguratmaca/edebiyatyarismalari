@@ -7,7 +7,7 @@ comments: true
 lastDate: 1588194000    
 dateHuman: "30 Nisan 2020"
 attendance: "E-Posta"
-price: "22 Bin 500 TL'dir"
+totalPrize: "22 Bin 500 TL'dir"
 comTopic: "Serbest"
 requirements: "65 yaş ve üzerinde olanlar yarışmaya katılabilecektir."
 permalink: "koca-cinarlardan-genc-yureklere-ani-yarismasi-2020"

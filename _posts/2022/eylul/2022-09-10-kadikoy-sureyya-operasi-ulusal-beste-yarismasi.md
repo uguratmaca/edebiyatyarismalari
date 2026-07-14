@@ -10,7 +10,7 @@ dateHuman: "30 Eylül 2022"
 comTopic: "Viyolonsel-Piyano Eseri"
 attendance: "Kargo/Posta"
 organizer: "Kadıköy Belediyesi Süreyya Operası"
-price: "37 Bin 500 TL'dir."
+totalPrize: "37 Bin 500 TL'dir."
 hidden: true
 requirements: "36 yaşından küçük herkes katılabilir."
 permalink: "kadikoy-sureyya-operasi-ulusal-beste-yarismasi"

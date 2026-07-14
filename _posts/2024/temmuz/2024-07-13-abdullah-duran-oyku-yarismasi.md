@@ -8,7 +8,7 @@ lastDate: 1735599600
 dateHuman: "31 Aralık 2024"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "12 Bin TL'dir"
+totalPrize: "12 Bin TL'dir"
 organizer: "Eğitim Sen Diyarbakır Şubeleri"
 requirements: "18 yaş üzeri herkes katılabilir."
 permalink: "14-abdullah-duran-oyku-yarismasi-2024"

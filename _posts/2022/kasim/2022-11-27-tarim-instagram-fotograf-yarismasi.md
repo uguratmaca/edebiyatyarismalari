@@ -12,7 +12,7 @@ hidden: true
 attendance: "Instagram"
 organizer: "İzmir Ticaret Borsası (İTB)"
 requirements: "16 yaş ve üstü kişiler katılabilir."
-price: "38 Bin TL'dir."
+totalPrize: "38 Bin TL'dir."
 permalink: "tarim-instagram-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/kasim/tarim-instagram-fotograf-yarismasi.jpg"
 excerpt:  "İzmir Ticaret Borsası (İTB) <strong> Cumhuriyetin 100. Yılında Tarım Instagram Fotoğraf Yarışması </strong> düzenliyor."

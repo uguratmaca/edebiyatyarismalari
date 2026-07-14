@@ -9,7 +9,7 @@ lastDate: 1640991600
 dateHuman: "1 Ocak 2022"
 comTopic: "Yol"
 attendance: "Websitesi"
-price: "750 TL'dir"
+totalPrize: "750 TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "7-simit-cay-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/agustos/simit-cay-siir-yarismasi.jpg"

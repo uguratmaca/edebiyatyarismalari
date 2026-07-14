@@ -8,7 +8,7 @@ comments: true
 lastDate: 1567285200
 comTopic: "Dostluk"
 dateHuman: "1 Eylül 2019"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/zeynep-basak-gulsoy-deneme-yarismasi.jpg?alt=media&token=07b688b9-ac84-4dd2-8b00-cb5f14ba2595"
 ---
 

@@ -8,7 +8,7 @@ lastDate: 1602795600
 dateHuman: "16 Ekim 2020"
 attendance: "Kargo - Elden"
 comTopic: "Vefatının 59. Yıldönümünde Demokrasi Şehidi Merhum Başbakan Adnan Menderes"
-price: "15 Bin TL'dir"
+totalPrize: "15 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "adnan-menderes-ulusal-siir-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/eylul/adnan-menderes-ulusal-resim-siir-yarismasi.jpg"

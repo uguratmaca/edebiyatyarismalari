@@ -6,7 +6,7 @@ category: articles
 tags: [hikaye yarışması, ağustos 2019, genel]
 lastDate: 1567112400
 dateHuman: "30 Ağustos 2019"
-price: "3 Bin TL'dir"
+totalPrize: "3 Bin TL'dir"
 comments: true
 ---
 

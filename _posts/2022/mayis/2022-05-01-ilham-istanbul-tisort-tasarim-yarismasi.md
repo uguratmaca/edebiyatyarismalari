@@ -10,7 +10,7 @@ dateHuman: "30 Mayıs 2022"
 comTopic: "İstanbul ilhamı"
 hidden: true
 attendance: "Websitesi"
-price: "MacBook Air'dir."
+totalPrize: "MacBook Air'dir."
 organizer: "Adidas ve Mercado"
 requirements: "İsteyen herkes katılabilir."
 permalink: "ilham-istanbul-tisort-tasarim-yarismasi"

@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "17 Nisan 2022"
 comTopic: "Küresel Isınmanın Etkileri"
 attendance: "Websitesi"
-price: "11 Bin 300 Dolardır."
+totalPrize: "11 Bin 300 Dolardır."
 organizer: "Arbella Makarna"
 requirements: "Yarışma, amatör veya profesyonel fotoğrafa meraklı herkese açıktır. Düzenleme kurulu, jüri üyeleri ve birinci dereceden yakınları ile Arbella Makarna çalışanları yarışmaya katılamazlar."
 permalink: "arbella-uluslararasi-fotograf-yarismasi"

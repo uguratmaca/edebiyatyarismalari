@@ -7,7 +7,7 @@ tags: [şubat 2026, hikaye yarışması, ortaokul, lise, kitap dosyası, fakir b
 lastDate: 1770332400
 dateHuman: "06 Şubat 2026"
 attendance: "Kargo, Posta"
-price: "93 Bin 500 TL'dir"
+totalPrize: "93 Bin 500 TL'dir"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
 permalink: "fakir-baykurt-oyku-yarismasi-2026"

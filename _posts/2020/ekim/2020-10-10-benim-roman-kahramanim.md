@@ -8,7 +8,7 @@ lastDate: 1605819600
 dateHuman: "20 Kasım 2020"
 attendance: "Kendi okulunuz / E-Posta"
 comTopic: "Türk ve Dünya edebiyatından seçilen bir romanın okunup incelenmesi sonucu söz konusu romanın kahramanı ile ilgili bir deneme yazılması."
-price: "3 Bin TL'dir"
+totalPrize: "3 Bin TL'dir"
 requirements: "Türkiye genelindeki sosyal bilimler liselerinde eğitim gören Hazırlık-9-10-11-12.sınıf öğrencileri katılacaktır."
 permalink: "benim-roman-kahramanim-deneme-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/benim-roman-kahramanim-deneme-yarismasi.webp"

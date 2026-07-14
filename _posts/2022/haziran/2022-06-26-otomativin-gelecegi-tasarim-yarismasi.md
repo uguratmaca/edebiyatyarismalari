@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "26 Ağustos 2022"
 attendance: "Websitesi"
 organizer: "Uludağ Otomotiv Endüstrisi İhracatçıları Birliği"
-price: "500 Bin TL'dir."
+totalPrize: "500 Bin TL'dir."
 requirements: "18 yaşını tamamlamış herkes bireysel ve ekip halinde katılabilir."
 permalink: "otomativin-gelecegi-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/haziran/otomativin-gelecegi-tasarim-yarismasi.jpg"

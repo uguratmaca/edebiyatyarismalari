@@ -8,7 +8,7 @@ comments: true
 lastDate: 1634767200 
 dateHuman: "21 Ekim 2021"
 comTopic: "Söz, Varlık ve Türkçe"
-price: "8 Bin 500 TL'dir"
+totalPrize: "8 Bin 500 TL'dir"
 attendance: "E-Posta, Posta"
 requirements: "Üniversite öğrencileri katılabilir"
 permalink: "soz-varlik-turkce-deneme-yarismasi"

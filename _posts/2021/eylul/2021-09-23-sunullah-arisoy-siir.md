@@ -7,7 +7,7 @@ tags: [aralık 2021, şiir yarışması, genel]
 comments: true
 lastDate: 1640905200 
 dateHuman: "31 Aralık 2021"
-price: "3000 TL'dir"
+totalPrize: "3000 TL'dir"
 comTopic: "Serbest"
 attendance: "Posta, Kargo"
 requirements: "İsteyen herkes katılabilir"

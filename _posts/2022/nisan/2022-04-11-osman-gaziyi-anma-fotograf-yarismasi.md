@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "26 Nisan 2022"
 comTopic: "17. Osman Gazi’yi Anma ve Bursa’nın Fethi Şenlikleri"
 attendance: "Websitesi"
-price: "59 Bin 500 TL'dir."
+totalPrize: "59 Bin 500 TL'dir."
 organizer: "Osmangazi Belediyesi"
 requirements: "İsteyen herkes katılabilir."
 permalink: "osman-gaziyi-anma-fotograf-yarismasi"

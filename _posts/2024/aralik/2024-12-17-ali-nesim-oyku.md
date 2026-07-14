@@ -7,7 +7,7 @@ tags: [ocak 2025, hikaye yarışması, üniversite, kıbrıs]
 lastDate: 1736809200
 dateHuman: "14 Ocak 2025"
 attendance: "Elden"
-price: "15 Bin TL'dir"
+totalPrize: "15 Bin TL'dir"
 comTopic: "Serbest"
 requirements: "Yarışmaya KKTC üniversitelerinde okuyan herkes (yabancı uyruklular dâhil) katılabilir"
 permalink: "ali-nesim-kisa-oyku-yarismasi"

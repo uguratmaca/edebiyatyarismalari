@@ -7,7 +7,7 @@ tags: [şubat 2020, genel, senaryo yarışması]
 comments: true
 lastDate: 1581627600
 dateHuman: "14 Şubat 2020"
-price: "D&R Hediye çekleri"
+totalPrize: "D&R Hediye çekleri"
 comTopic: "Aşk"
 attendance: "Websitesi"
 requirements: "İsteyen herkes katılabilir"

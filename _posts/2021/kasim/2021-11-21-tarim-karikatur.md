@@ -8,7 +8,7 @@ comments: true
 lastDate: 1642719600
 dateHuman: "21 Ocak 2022"
 comTopic: "Başka Bir Tarım Mümkün"
-price: "13 Bin TL'dir"
+totalPrize: "13 Bin TL'dir"
 attendance: "E-Posta"
 requirements: "Yarışma ulusal ölçekte olup herkese açıktır"
 permalink: "baska-bir-tarim-mumkun-karikatur-yarismasi"

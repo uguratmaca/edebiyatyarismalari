@@ -7,7 +7,7 @@ tags: [eylül 2025, şiir yarışması, kitap dosyası, genel]
 lastDate: 1756677600
 dateHuman: "1 Eylül 2025"
 attendance: "Posta, Kargo"
-price: "30 Bin TL'dir"
+totalPrize: "30 Bin TL'dir"
 comTopic: "Serbest"
 organizer: "Manisa Büyükşehir Belediyesi"
 requirements: "İsteyen herkes katılabilir"

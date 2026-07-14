@@ -11,7 +11,7 @@ comTopic: "Milli Mücadelede Gördes ve Şehit Makbule"
 attendance: "Elden, Kargo, Posta"
 requirements: "İsteyen herkes katılabilir"
 permalink: "sehit-makbule-tiyatro-yazma-yarismasi"
-price: "20 Bin TL'dir"
+totalPrize: "20 Bin TL'dir"
 image: "https://edebiyatyarismalari.com/images/2021/nisan/sehit-makbule-tiyatro-oyunu-yazma-yarismasi.jpg"
 excerpt: "Gördes Belediyesi Milli Mücadelede Gördes ve Şehit Makbule Tiyatro Oyunu Yazma Yarışması düzenliyor."
 ---

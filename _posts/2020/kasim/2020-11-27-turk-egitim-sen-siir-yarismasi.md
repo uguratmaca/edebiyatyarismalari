@@ -7,7 +7,7 @@ comments: true
 lastDate: 1613941200  
 dateHuman: "22 Şubat 2021"
 attendance: "E-Posta"
-price: "49 Bin TL'dir"
+totalPrize: "49 Bin TL'dir"
 comTopic: "İstiklal Marşı’nın kabul edilişinin yüzüncü yılında millî marşımızın bize hissettirdiği duygular ekseninde bağımsızlık, kahramanlık, zafer, vatan sevgisi, bayrak sevgisi, Türk milletinin fedakârlığı ile Türk bağımsızlık mücadelesi konularını içermektedir"
 requirements: "Yarışma; Üyeler, Yükseköğretim ve Ortaöğretim olmak üzerek üç kategoride düzenlenecektir."
 permalink: "turk-egitim-sen-siir-yarismasi"

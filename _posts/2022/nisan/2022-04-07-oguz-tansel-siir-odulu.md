@@ -8,7 +8,7 @@ tags: [mayıs 2022, şiir yarışması, genel, bilkent, edebiyat ödülleri]
 lastDate: 1653944400
 dateHuman: "31 Mayıs 2022"
 attendance: "E-posta"
-price: "3 Bin TL'dir."
+totalPrize: "3 Bin TL'dir."
 organizer: "Bilkent Üniversitesi"
 requirements: "Düzenleme kurulu ve seçici kurul üyeleri ve bunların birinci derece yakınları dışındaki herkes katılabilir."
 permalink: "oguz-tansel-siir-odulu"

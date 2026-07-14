@@ -8,7 +8,7 @@ lastDate: 1610658000
 dateHuman: "15 Ocak 2021"
 attendance: "E-Posta"
 comTopic: "Mekan Tasviri"
-price: "10000 TL'dir"
+totalPrize: "10000 TL'dir"
 requirements: "Yarışmaya KKTC veya TC vatandaşı olup, KTMMOB ve TMMOB’a bağlı meslek örgütlerinden herhangi birine üye olan herkes katılabilir"
 permalink: "mimarca-mekan-anlatimi-metin-yarismasi"
 excerpt: "Mimarca Mekan Anlatımı Metin Yarışması düz yazılar öykü, hikaye ya da deneme türünde olabilir."

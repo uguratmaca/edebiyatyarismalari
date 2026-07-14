@@ -12,7 +12,7 @@ attendance: "E-Posta/Elden/Kargo"
 hidden: true
 organizer: "TC. Kültür ve Turizm Bakanlığı"
 requirements: "Yurt içinde bulunan Üniversitelerin Yüksekokulların; Çini Sanatı ve Tasarımı Bölümleri ve Güzel Sanatlar Fakülteleri ile dengi (Sanat ve Tasarım) Fakültelerin Seramik, Cam ve Çini Sanatları Bölümleri, Ön Lisans, Lisans, Yüksek Lisans, Bileşik Sanatlar, Sanat Tasarım ve Sanatta Yeterlik (Doktora) öğrencileri katılabilir."
-price: "36 Bin TL'dir"
+totalPrize: "36 Bin TL'dir"
 permalink: "aizanoi-seramik-cini-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mart/aizanoi-seramik-cini-tasarim-yarismasi.jpg"
 excerpt:  "TC. Kültür ve Turizm Bakanlığı <strong> 1. Ulusal Aizanoi Seramik ve Çini Tasarım Yarışması </strong> düzenliyor."

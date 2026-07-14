@@ -9,7 +9,7 @@ lastDate: 1680469200
 dateHuman: "3 Nisan 2023"
 organizer: "Işık Okulları"
 requirements: "FMV Işık liseleri ve fen liseleri öğrencileri katılabilir."
-price: "5 Bin TL'dir"
+totalPrize: "5 Bin TL'dir"
 permalink: "rauf-mutluay-oyku-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/ocak/rauf-mutluay-oyku-siir-yarismasi.jpg"
 excerpt:  "Işık Okulları <strong> Rauf Mutluay Öykü ve Şiir Yarışması </strong> düzenliyor."

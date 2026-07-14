@@ -9,7 +9,7 @@ lastDate: 1644534000
 dateHuman: "11 Şubat 2022"
 comTopic: "Yeraltısuyunu Görünür Yapmak"
 attendance: "Okul müdürlükleri"
-price: "42000 TL'dir"
+totalPrize: "42000 TL'dir"
 requirements: "Ortaokulların 7. ve 8. sınıfındaki öğrenciler bu yarışmaya katılabileceklerdir."
 permalink: "dsi-kompozisyon-resim-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/dunya-su-gunu-kompozisyon-resim-fotograf-afis-yarisma.jpg"

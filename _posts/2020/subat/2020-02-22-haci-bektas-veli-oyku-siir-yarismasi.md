@@ -7,7 +7,7 @@ tags: [mayıs 2020, genel, hikaye yarışması, şiir yarışması]
 comments: true
 lastDate: 1590786000    
 dateHuman: "30 Mayıs 2020"
-price: "2 Bin TL'dir"
+totalPrize: "2 Bin TL'dir"
 attendance: "Posta/Kargo/Elden"
 requirements: "İsteyen herkes katılabilir"
 ---

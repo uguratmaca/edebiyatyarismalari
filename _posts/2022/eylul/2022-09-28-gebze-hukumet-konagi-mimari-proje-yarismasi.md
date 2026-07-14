@@ -9,7 +9,7 @@ lastDate: 1665522000
 dateHuman: "12 Ekim 2022"
 attendance: "Kargo/Posta"
 organizer: "Gebze Belediyesi"
-price: "525 Bin TL'dir."
+totalPrize: "525 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "gebze-hukumet-konagi-mimari-proje-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/gebze-hukumet-konagi-mimari-proje-yarismasi.jpg"

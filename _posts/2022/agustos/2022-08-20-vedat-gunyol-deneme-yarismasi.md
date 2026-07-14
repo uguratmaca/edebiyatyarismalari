@@ -9,7 +9,7 @@ lastDate: 1668114000
 dateHuman: "11 Kasım 2022"
 attendance: "Elden/Kargo"
 organizer: "Kartal Belediyesi"
-price: "20 Bin TL'dir."
+totalPrize: "20 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "vedat-gunyol-deneme-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/agustos/vedat-gunyol-deneme-yarismasi.jpg"

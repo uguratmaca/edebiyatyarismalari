@@ -9,7 +9,7 @@ lastDate: 1694725200
 dateHuman: "15 Eylül 2023"
 attendance: "Elden/Kargo/Posta"
 organizer: "Narlıdere Belediyesi"
-price: "10 Bin TL'dir."
+totalPrize: "10 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "narlidere-belediyesi-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/narlidere-belediyesi-oyku-yarismasi.jpg"

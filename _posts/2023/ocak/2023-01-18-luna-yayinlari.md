@@ -7,7 +7,7 @@ tags: [ocak 2023, hikaye yarışması, küçürek öykü yarışması]
 lastDate: 1674946800
 dateHuman: "29 Ocak 2023"
 comTopic: "Serbest"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 attendance: "Posta ya da E-Posta"
 organizer: "Luna Yayınları"
 requirements: "Yurt içinden ve yurt dışından 18 yaşını tamamlamış T.C. vatandaşları veya Türkçe yazan yazarlar katılabilir"

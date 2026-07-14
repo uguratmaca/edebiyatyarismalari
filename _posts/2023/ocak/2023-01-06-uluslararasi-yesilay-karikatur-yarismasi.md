@@ -9,7 +9,7 @@ lastDate: 1675112400
 dateHuman: "31 Ocak 2023"
 attendance: "Websitesi"
 comTopic: "Hayat Bağımlılıklardan Güçlüdür"
-price: "130 Bin TL'dir."
+totalPrize: "130 Bin TL'dir."
 organizer: "Yeşilay"
 requirements: "İsteyen herkes katılabilir."
 permalink: "uluslararasi-yesilay-karikatur-yarismasi"

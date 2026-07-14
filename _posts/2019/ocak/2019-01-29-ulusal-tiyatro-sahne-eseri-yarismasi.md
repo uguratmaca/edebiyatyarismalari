@@ -6,7 +6,7 @@ category: articles
 tags: [temmuz 2019, tiyatro oyunu yazma yarışması]
 lastDate: 1563138000
 dateHuman: "15 Temmuz 2019"
-price: "42 Bin 500 TL'dir"
+totalPrize: "42 Bin 500 TL'dir"
 comments: true
 ---
 

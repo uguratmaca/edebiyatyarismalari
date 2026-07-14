@@ -8,7 +8,7 @@ lastDate: 1652392800
 dateHuman: "13 Mayıs 2022"
 comTopic: "Teknoloji ve İnsan"
 attendance: "E-Posta veya Kargo"
-price: "4500 TL'dir"
+totalPrize: "4500 TL'dir"
 organizer: "Kapadokya Üniversitesi"
 requirements: "Tüm lise düzeyindeki ortaöğretim kurumların öğrencileri katılabilir"
 permalink: "kapadokya-oyku-yarismasi-2022"

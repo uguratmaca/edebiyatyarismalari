@@ -12,7 +12,7 @@ attendance: "E-Posta"
 hidden: true
 organizer: "Muğla Büyükşehir Belediyesi"
 requirements: "Amatör ve profesyonel bütün dünya karikatürcüleri katılabilir."
-price: "90 Bin TL'dir"
+totalPrize: "90 Bin TL'dir"
 permalink: "mugla-karikatur-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/ocak/mugla-karikatur-yarismasi-2024.jpg"
 excerpt:  "Muğla Büyükşehir Belediyesi <strong> 5. Uluslararası Karikatür Yarışması </strong> düzenliyor."

@@ -7,7 +7,7 @@ tags: [mart 2022, üniversite, makale yarışması]
 comments: true
 lastDate: 1646607600
 dateHuman: "7 Mart 2022"
-price: "22 Bin TL'dir"
+totalPrize: "22 Bin TL'dir"
 comTopic: "Türkiye’de Üniversite Mezunlarının İşsizlik Sorunu"
 attendance: "E-Posta"
 requirements: "Üniversitelerdeki Çalışma Ekonomisi ve Endüstri İlişkileri Lisans Programları’nın 3 ve 4’üncü sınıf öğrencileri yarışmaya başvurabilecektir."

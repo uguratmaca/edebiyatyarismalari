@@ -10,7 +10,7 @@ dateHuman: "3 Kasım 2023"
 attendance: "Websitesi"
 organizer: "İstanbul Demir ve Demir Dışı Metaller İhracatçıları Birliği (İDDMİB)"
 hidden: true
-price: "134 Bin TL'dir."
+totalPrize: "134 Bin TL'dir."
 requirements: "35 yaşını doldurmamış, üniversitelerin endüstriyel tasarım bölümü, güzel sanatlar ve mimarlık fakültesi bölümlerine kayıtlı lisans öğrencileri ve mezunları ile bu bölümlere ilişkin yüksek lisans/doktora öğrencileri veya mezunları veya ETMK üyeleri katılabilir."
 permalink: "immib-endustriyel-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/immib-endustriyel-tasarim-yarismasi.jpg"

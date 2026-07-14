@@ -12,7 +12,7 @@ hidden: true
 attendance: "E-Posta"
 organizer: "Bursa Teknik Üniversitesi"
 requirements: "Yurt içi ya da yurt dışından ön lisans ve lisans öğrencileri katılabilir."
-price: "22 Bin 500 TL'dir"
+totalPrize: "22 Bin 500 TL'dir"
 permalink: "bagimlilik-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/haziran/bagimlilik-kisa-film-yarismasi.jpg"
 excerpt:  "Bursa Teknik Üniversitesi <strong> kısa film yarışması </strong> düzenliyor."

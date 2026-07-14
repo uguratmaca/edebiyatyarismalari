@@ -7,7 +7,7 @@ tags: [şiir yarışması, hikaye yarışması, mart 2019]
 comments: true
 lastDate: 1551387600
 dateHuman: "1 Mart 2019"
-price: "15 Bin 750 TL'dir."
+totalPrize: "15 Bin 750 TL'dir."
 ---
 
 Konu:

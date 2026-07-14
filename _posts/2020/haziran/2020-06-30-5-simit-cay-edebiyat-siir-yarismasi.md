@@ -7,7 +7,7 @@ comments: true
 lastDate: 1607979600  
 dateHuman: "15 Aralık 2020"
 attendance: "Web sitesi"
-price: "750 TL'dir"
+totalPrize: "750 TL'dir"
 comTopic: "Başlangıç"
 requirements: "Yarışmaya herkes katılabilir."
 permalink: "5-simit-cay-edebiyat-siir-yarismasi"

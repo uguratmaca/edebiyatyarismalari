@@ -8,7 +8,7 @@ lastDate: 1725055200
 dateHuman: "31 Ağustos 2024"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "20 Bin TL'dir"
+totalPrize: "20 Bin TL'dir"
 organizer: "Türkiye Bilişim Derneği"
 requirements: "İsteyen herkes katılabilir"
 permalink: "tbd-bilimkurgu-oyku-yarismasi-2024"

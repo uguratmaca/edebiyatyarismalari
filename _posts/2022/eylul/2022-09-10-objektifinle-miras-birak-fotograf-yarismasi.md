@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "10 Ekim 2022"
 attendance: "Websitesi"
 organizer: "T.C. Kültür ve Turizm Bakanlığı Vakıflar Genel Müdürlüğü Basın ve Halkla İlişkiler Müşavirliği"
-price: "Altın"
+totalPrize: "Altın"
 requirements: "Tüm amatör veya profesyonel fotoğrafçılar katılabilir."
 permalink: "objektifinle-miras-birak-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/objektifinle-miras-birak-fotograf-yarismasi.jpg"

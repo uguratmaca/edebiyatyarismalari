@@ -7,7 +7,7 @@ tags: [nisan 2020, istanbul, lise, hikaye yarışması, minimal öykü yarışma
 comments: true
 lastDate: 1587330000
 dateHuman: "20 Nisan 2020"
-price: "4 Bin 500 TL'dir"
+totalPrize: "4 Bin 500 TL'dir"
 comTopic: "Serbest"
 attendance: "Posta ve E-Posta"
 requirements: "İstanbul il sınırları içindeki tüm özel-resmi liselerde öğrenim gören öğrencilere"

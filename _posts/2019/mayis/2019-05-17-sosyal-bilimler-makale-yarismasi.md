@@ -7,7 +7,7 @@ tags: [ağustos 2019, lise, makale yarışması]
 comments: true
 lastDate: 1565816400
 dateHuman: "15 Ağustos 2019"
-price: "72 Bin 500 TL'dir."
+totalPrize: "72 Bin 500 TL'dir."
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/sosyal-bilimler-makale-yarismasi.jpg?alt=media&token=56f38fde-64b1-4bc5-b485-85f5f0a05c96"
 ---
 

@@ -8,7 +8,7 @@ lastDate: 1597006800
 dateHuman: "10 Ağustos 2020"
 attendance: "Web sitesi"
 comTopic: "Ayasofya"
-price: "12 Bin TL'dir"
+totalPrize: "12 Bin TL'dir"
 requirements: "Makale Yarışmasında Konya geneli tüm ilçelerdeki lise öğrencileri katılabilecektir"
 permalink: "ayasofya-fetih-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/temmuz/ayasofya-fetih-makale-yarismasi.jpg"

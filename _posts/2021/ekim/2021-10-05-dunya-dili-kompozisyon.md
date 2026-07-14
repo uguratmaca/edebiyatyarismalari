@@ -8,7 +8,7 @@ comments: true
 lastDate: 1636671600 
 dateHuman: "12 Kasım 2021"
 comTopic: "Serbest"
-price: "49 Bin TL'dir"
+totalPrize: "49 Bin TL'dir"
 attendance: "Websitesi"
 requirements: "Üniversite ve lise öğrencileri katılabilir"
 permalink: "dunya-dili-turkce-kompozisyon-yarismasi"

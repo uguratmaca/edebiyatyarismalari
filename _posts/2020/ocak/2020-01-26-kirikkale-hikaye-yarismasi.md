@@ -7,7 +7,7 @@ tags: [mart 2020, genel, hikaye yarışması]
 comments: true
 lastDate: 1583096400
 dateHuman: "2 Mart 2020"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 comTopic: "Kırıkkale"
 attendance: "Elden"
 requirements: "Yarışma, Türkiye'de ve başka ülkelerde yaşayan bütün Türkiye Cumhuriyeti vatandaşlarına açıktır"

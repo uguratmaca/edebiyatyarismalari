@@ -10,7 +10,7 @@ dateHuman: "2 Mart 2020"
 comTopic: "Göç"
 attendance: "E-Posta"
 requirements: "Türkiye Genelindeki Lise Öğrencileri"
-price: "7 Bin TL'dir"
+totalPrize: "7 Bin TL'dir"
 ---
 
 Amaç:  

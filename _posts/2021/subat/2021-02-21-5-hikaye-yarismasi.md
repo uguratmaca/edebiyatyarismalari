@@ -7,7 +7,7 @@ comments: true
 lastDate: 1619730000 
 dateHuman: "30 Nisan 2021"
 attendance: "Websitesi"
-price: "18 Bin TL'dir"
+totalPrize: "18 Bin TL'dir"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
 permalink: "5-kayseri-hikaye-yarismasi"

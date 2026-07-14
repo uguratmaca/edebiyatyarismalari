@@ -8,7 +8,7 @@ comments: true
 lastDate: 1629583200    
 dateHuman: "22 Ağustos 2021"
 comTopic: "Gönül Coğrafyamız"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 attendance: "Posta, Kargo, E-Posta"
 requirements: "Tüm lise ve dengi okulların öğrencilerine açıktır"
 permalink: "gonul-cografyamiz-kompozisyon-yarismasi"

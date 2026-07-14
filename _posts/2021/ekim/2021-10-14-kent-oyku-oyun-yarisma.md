@@ -7,7 +7,7 @@ tags: [aralık 2021, hikaye yarışması, tiyatro oyunu yazma yarışması, gene
 comments: true
 lastDate: 1638313200 
 dateHuman: "1 Aralık 2021"
-price: "53 Bin 500 TL'dir"
+totalPrize: "53 Bin 500 TL'dir"
 comTopic: "Kent öyküsünü, sahne kentini arıyor"
 attendance: "Kargo"
 requirements: "İsteyen herkes katılabilir"

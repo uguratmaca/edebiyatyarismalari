@@ -7,7 +7,7 @@ tags: [ekim 2019, genel, hikaye yarışması]
 comments: true
 lastDate: 1571346000
 dateHuman: "18 Ekim 2019"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 comTopic: "Öykünün konuları, meslek odalarının işbirliği içerisinde yürütülen kentsel mekanlar ve alanlardır."
 ---
 

@@ -10,7 +10,7 @@ dateHuman: "18 Eylül 2022"
 comTopic: "Konu ve tür sınırlaması yoktur."
 attendance: "Websitesi"
 organizer: "Yeditepe Üniversitesi Sinema Kulübü ve Ay Yapım"
-price: "35 Bin TL'dir."
+totalPrize: "35 Bin TL'dir."
 hidden: true
 requirements: "Sadece Türkiye Cumhuriyeti vatandaşı öğrencileri katılabilir."
 permalink: "luma-kisa-film-yarismasi"

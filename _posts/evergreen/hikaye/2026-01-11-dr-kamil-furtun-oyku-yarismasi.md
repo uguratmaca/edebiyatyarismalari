@@ -7,7 +7,7 @@ tags: [her yıl tekrarlanan hikaye, şubat 2026, hikaye yarışması, genel]
 lastDate: 1771196400
 dateHuman: "16 Şubat 2026"
 attendance: "E-Posta"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
 permalink: "dr-kamil-furtun-oyku-yarismasi"

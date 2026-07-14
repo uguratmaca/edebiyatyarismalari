@@ -9,7 +9,7 @@ lastDate: 1661806800
 dateHuman: "30 Ağustos 2022"
 attendance: "Websitesi"
 organizer: "YTB (Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı)"
-price: "188 Bin TL'dir."
+totalPrize: "188 Bin TL'dir."
 requirements: "Ülkemizde öğrenim gören uluslararası lisans ve lisans üstü öğrenciler katılabilir."
 permalink: "uluslararasi-ogrenci-odulleri"
 image: "https://edebiyatyarismalari.com/images/2022/temmuz/uluslararasi-ogrenci-odulleri.jpg"

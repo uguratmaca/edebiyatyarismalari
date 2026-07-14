@@ -9,7 +9,7 @@ lastDate: 1646089200
 dateHuman: "1 Mart 2022"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "22 Bin 500 TL'dir"
+totalPrize: "22 Bin 500 TL'dir"
 requirements: "Yarışmaya Türkiye veya yurtdışında yaşayan ve Türkçe eser veren herkes katılabilir."
 permalink: "hulya-nutku-tiyatro-oyun-yazma-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/hulya-nutku-tiyatro-oyunu-yazma-yarismasi.jpg"

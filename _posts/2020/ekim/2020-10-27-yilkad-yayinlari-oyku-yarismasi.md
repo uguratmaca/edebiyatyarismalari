@@ -7,7 +7,7 @@ comments: true
 lastDate: 1607202000  
 dateHuman: "6 Aralık 2020"
 attendance: "E-Posta"
-price: "3000 TL"
+totalPrize: "3000 TL"
 comTopic: "Serbest"
 requirements: "Yarışmaya ülke geneli 18 yaş üstü bütün öykü severler katılabilecektir."
 permalink: "yilkad-oyku-yarismasi"

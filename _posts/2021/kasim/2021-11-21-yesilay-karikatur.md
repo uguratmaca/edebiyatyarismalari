@@ -8,7 +8,7 @@ comments: true
 lastDate: 1643583600
 dateHuman: "31 Ocak 2022"
 comTopic: "Bağımlılıklardan Özgürleşmek"
-price: "90 Bin TL'dir"
+totalPrize: "90 Bin TL'dir"
 hidden: true
 attendance: "Websitesi"
 requirements: "İsteyen herkes katılabilir"

@@ -6,7 +6,7 @@ date: 2026-04-08
 category: articles
 tags: [her yıl tekrarlanan, nisan 2026, şiir yarışması, genel]
 lastDate: 1777500000
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 dateHuman: "30 Nisan 2026"
 attendance: "E-Posta"
 comTopic: "Serbest"

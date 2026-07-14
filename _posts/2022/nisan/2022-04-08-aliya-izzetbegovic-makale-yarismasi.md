@@ -9,7 +9,7 @@ lastDate: 1659906000
 dateHuman: "08 Ağustos 2022"
 comTopic: "Aliya İzzetbegoviç"
 attendance: "Kargo/Posta"
-price: "28 Bin 500 TL'dir."
+totalPrize: "28 Bin 500 TL'dir."
 organizer: "Osmangazi Belediyesi"
 requirements: "Yarışmaya yurt içi ve yurt dışından herkes katılabilir."
 permalink: "aliya-izzetbegovic-makale-yarismasi"

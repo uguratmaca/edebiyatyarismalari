@@ -7,7 +7,7 @@ tags: [ağustos 2020, genel, roman yarışması]
 comments: true
 lastDate: 1598734800    
 dateHuman: "30 Ağustos 2020"
-price: "3 Bin 500 TL'dir"
+totalPrize: "3 Bin 500 TL'dir"
 attendance: "E-Posta"
 requirements: "Yarışmaya daha önce bir romanı yayımlanmamış yazarlar ilk romanlarıyla katılabilir."
 image: "https://edebiyatyarismalari.com/images/2020/mart/turgut-ozakman-roman-yarismasi.jpg"

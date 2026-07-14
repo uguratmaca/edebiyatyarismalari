@@ -8,7 +8,7 @@ lastDate: 1774393200
 dateHuman: "25 Mart 2026"
 attendance: "E-Posta"
 comTopic: "6-12 yaş grubuna yönelik olarak resimli kitap"
-price: "130 Bin TL'dir"
+totalPrize: "130 Bin TL'dir"
 requirements: "18 yaşın üzerinde olan herkes katılabilir"
 permalink: "koklerden-gelecege-hikaye-yarismasi"
 redirect_from: ["/koklerden-gelecege-"]

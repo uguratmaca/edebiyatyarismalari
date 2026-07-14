@@ -6,7 +6,7 @@ category: articles
 tags: [mart 2025, hikaye yarışması, genel, kürtçe]
 lastDate: 1743372000
 dateHuman: "31 Mart 2025"
-price: "1500 Euro'dur"
+totalPrize: "1500 Euro'dur"
 attendance: "E-Posta"
 comTopic: "Serbest"
 organizer: "Almanya Kürt Enstitüsü Berlin Şubesi"

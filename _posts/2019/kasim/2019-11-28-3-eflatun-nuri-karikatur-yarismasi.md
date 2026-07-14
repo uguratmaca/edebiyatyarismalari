@@ -9,7 +9,7 @@ lastDate: 1576357200
 dateHuman: "15 Aralık 2019"
 attendance: "Posta/Kargo/Elden"
 comTopic: "Şiddet"
-price: "16 Bin 500 TL'dir"
+totalPrize: "16 Bin 500 TL'dir"
 requirements: "Yarışma amatör ya da profesyonel bütün karikatür çizerlerine açıktır"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/3-eflatun-nuri-ulusal-karikat%C3%BCr-yarismasi-2019.jpg?alt=media&token=d7627666-8f4a-4fd9-82aa-0557f06f995f"
 ---

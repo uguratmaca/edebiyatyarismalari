@@ -8,7 +8,7 @@ comments: true
 lastDate: 1768431600 
 dateHuman: "15 Ocak 2026"
 comTopic: "Serbest"
-price: "4 Bin Dolar'dır"
+totalPrize: "4 Bin Dolar'dır"
 organizer: "Of Folklor Derneği"
 attendance: "Kargo, Posta"
 requirements: "40 yaş altı herkes başvurabilir"

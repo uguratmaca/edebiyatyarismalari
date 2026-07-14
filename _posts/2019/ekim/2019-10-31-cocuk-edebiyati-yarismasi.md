@@ -7,7 +7,7 @@ tags: [nisan 2020, genel, roman yarışması]
 comments: true
 lastDate: 1587589200
 dateHuman: "23 Nisan 2020"
-price: "1000 TL'dir"
+totalPrize: "1000 TL'dir"
 comTopic: "Serbest"
 attendance: "E-Posta"
 requirements: "Yarışmaya katılacaklar 18 yaşından büyük olmalıdır"

@@ -7,7 +7,7 @@ tags: [haziran 2019, genel]
 comments: true
 lastDate: 1560546000
 dateHuman: "15 Haziran 2019"
-price: "1500 TL'dir"
+totalPrize: "1500 TL'dir"
 ---
 
 Emin Özdemir Türkçe Ödülü Katılım Koşulları

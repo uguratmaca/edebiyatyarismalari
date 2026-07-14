@@ -9,7 +9,7 @@ lastDate: 1657746000
 dateHuman: "14 Temmuz 2022"
 attendance: "Websitesi"
 organizer: "Puruli Kültür Sanat"
-price: "2 Bin Dolar'dır."
+totalPrize: "2 Bin Dolar'dır."
 requirements: "İsteyen herkes katılabilir."
 permalink: "engelsiz-filmler-festivali"
 image: "https://edebiyatyarismalari.com/images/2022/temmuz/engelsiz-filmler-festivali.jpg"

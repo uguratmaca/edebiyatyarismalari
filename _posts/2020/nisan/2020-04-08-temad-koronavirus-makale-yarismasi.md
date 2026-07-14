@@ -7,7 +7,7 @@ comments: true
 lastDate: 1590958800    
 dateHuman: "1 Haziran 2020" 
 attendance: "E-Posta"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 comTopic: "Koronavirüs Günlerinde Yaşam"
 requirements: "TEMAD üyesi olan, olmayan Emekli Astsubay meslektaşlarımız ile birinci derece yakınları katılabilirler."
 permalink: "koronavirus-gunlerinde-yasam-makale-yarismasi"

@@ -7,7 +7,7 @@ comments: true
 lastDate: 1603573200  
 dateHuman: "25 Ekim 2020"
 attendance: "E-Posta"
-price: "1500 TL'dir"
+totalPrize: "1500 TL'dir"
 comTopic: "Serbest, Tür: Polisiye"
 requirements: "Türkiye içinde ya da dışında yaşayan herkes, Türkçe yazmak koşuluyla bu ödüle başvurabilir."
 permalink: "zehirli-kalem-oyku-yarismasi"

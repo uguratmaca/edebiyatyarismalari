@@ -8,7 +8,7 @@ lastDate: 1589922000
 dateHuman: "20 Mayıs 2020"
 hidden: true
 attendance: "Websitesi"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 comTopic: "Arif Nihat Asya’nın ‘Bayrak’ şiiri"
 requirements: "Samsun'da yaşayan okul öncesi, ilkokul, ortaokul, lise öğrencileri katılabilir"
 permalink: "19-mayis-bayrak-siiri-okuma-yarismasi"

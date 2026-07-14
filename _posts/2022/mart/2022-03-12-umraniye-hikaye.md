@@ -8,7 +8,7 @@ lastDate: 1653602400
 dateHuman: "27 Mayıs 2022"
 comTopic: "Serbest"
 attendance: "Websitesi"
-price: "33 Bin TL'dir"
+totalPrize: "33 Bin TL'dir"
 organizer: "Ümraniye Belediyesi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "umraniye-18-hikaye-yarismasi"

@@ -9,7 +9,7 @@ lastDate: 1662670800
 hidden: true
 dateHuman: "09 Eylül 2022"
 organizer: "Payda Yayınları"
-price: "5 Bin TL'dir."
+totalPrize: "5 Bin TL'dir."
 permalink: "payda-yayinlari-basin-emek-odulu"
 image: "https://edebiyatyarismalari.com/images/2022/mayis/payda-yayinlari-basin-emek-odulu.jpg"
 excerpt:  "Payda Yayınları Nedret Gürcan Adına <strong> Basın Emek Ödülü </strong> düzenliyor."

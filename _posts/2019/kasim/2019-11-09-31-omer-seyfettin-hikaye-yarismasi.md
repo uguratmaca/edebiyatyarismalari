@@ -8,7 +8,7 @@ comments: true
 lastDate: 1578603600
 dateHuman: "10 Ocak 2020"
 comTopic: "Serbest"
-price: "15 Bin TL'dir"
+totalPrize: "15 Bin TL'dir"
 attendance: "Websitesi"
 requirements: "Tüm lise öğrencileri ve yetişkinler katılabilir"  
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/31-omer-seyfettin-hikaye-yarismasi-2020.jpg?alt=media&token=cfb6662d-3fad-4d2f-92ca-a257f0d74603"

@@ -7,7 +7,7 @@ tags: [eylül 2019, makale yarışması, genel]
 comments: true
 lastDate: 1569790800
 dateHuman: "30 Eylül 2019"
-price: "10 Bin TL'dir."
+totalPrize: "10 Bin TL'dir."
 comTopic: "Dicle Koğacıoğlu anısına"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/dicle-kogacioglu-makale-odulu.jpg?alt=media&token=39d43bc6-36b1-46a8-a78d-8c2a9b166369"
 ---

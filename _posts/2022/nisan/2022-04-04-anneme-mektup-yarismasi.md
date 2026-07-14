@@ -9,7 +9,7 @@ lastDate: 1650488400
 dateHuman: "21 Nisan 2022"
 comTopic: "Anneme Mektup"
 attendance: "E-Posta"
-price: "850 TL'dir"
+totalPrize: "850 TL'dir"
 organizer: "19 Mayıs İmam Hatip Ortaokulu"
 requirements: "Milli Eğitim Bakanlığına bağlı özel ve resmî ortaokul öğrencilerinin tamamını kapsamaktadır."
 permalink: "anneme-mektup-yarismasi"

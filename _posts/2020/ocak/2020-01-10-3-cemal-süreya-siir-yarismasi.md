@@ -7,7 +7,7 @@ tags: [şubat 2020, lise, istanbul, şiir yarışması, cemal süreya]
 comments: true
 lastDate: 1580590800
 dateHuman: "2 Şubat 2020"
-price: "4 Bin 250 TL'dir"
+totalPrize: "4 Bin 250 TL'dir"
 comTopic: "Ben Hangi Şehirdeysem Yalnızlığın Başkenti Orası"
 attendance: "E-Posta"
 requirements: "İstanbul genelinde resmi veya özel bir lisede örgün eğitim gören öğrenciler"

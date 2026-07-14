@@ -10,7 +10,7 @@ lastDate: 1651698000
 dateHuman: "05 Mayıs 2022"
 comTopic: "Konu sınırlaması yoktur."
 attendance: "E-posta"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 organizer: "Vefa Lisesi"
 requirements: "Yurt genelindeki lise ve dengi okullarda okuyan tüm öğrenciler katılabilir."
 permalink: "resat-nuri-guntekin-oyku-yarismasi"

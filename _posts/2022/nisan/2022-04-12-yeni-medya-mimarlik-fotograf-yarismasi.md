@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "02 Mayıs 2022"
 comTopic: "Eserin estetik/mimari değerler, ifade ettiği fikir ve mimari ifadenin sınırlarının araştırıldığı bütünlüğü her türlü içerik ve teknik sorgulama ile yeniden düşünmeye davet ediyor."
 attendance: "Websitesi"
-price: "12 Bin TL'dir."
+totalPrize: "12 Bin TL'dir."
 organizer: "Mimarlar Derneği"
 requirements: "Türkiye ve yurt dışında eğitim veren üniversitelerin mimarlık bölümlerine kayıtlı lisans ve lisansüstü öğrencileri katılabilir."
 permalink: "yeni-medya-mimarlik-fotograf-yarismasi"

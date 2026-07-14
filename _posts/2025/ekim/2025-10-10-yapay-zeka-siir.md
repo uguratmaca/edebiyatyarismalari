@@ -8,7 +8,7 @@ lastDate: 1760824800
 dateHuman: "19 Ekim 2025"
 attendance: "Websitesi"
 comTopic: "Aile Teması"
-price: "36 Bin 500 TL'dir"
+totalPrize: "36 Bin 500 TL'dir"
 organizer: "İhlas Vakfı"
 requirements: "Yarışma, bütün üniversite öğrencilerine açıktır"
 permalink: "yapay-zeka-siir-yarismasi"

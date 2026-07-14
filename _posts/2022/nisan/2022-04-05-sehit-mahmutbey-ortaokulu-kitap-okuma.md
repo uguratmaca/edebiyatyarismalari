@@ -7,7 +7,7 @@ category: articles
 tags: [nisan 2022, kitap okuma yarışması, ortaokul, sakarya]
 lastDate: 1649970000
 dateHuman: "15 Nisan 2022"
-price: "1000 TL'dir"
+totalPrize: "1000 TL'dir"
 organizer: "Şehit Mahmutbey Ortaokulu"
 requirements: "Sakarya ili Hendek ilçesi dâhilindeki tüm ortaokulların 5, 6, 7 ve 8. sınıflarında okuyan tüm öğrenciler katılabilir."
 permalink: "sehit-mahmutbey-ortaokulu-kitap-okuma"

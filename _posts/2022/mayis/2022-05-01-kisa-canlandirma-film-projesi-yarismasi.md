@@ -8,7 +8,7 @@ tags: [mayıs 2022, kısa film yarışması, genel]
 lastDate: 1652994000
 dateHuman: "20 Mayıs 2022"
 comTopic: "Serbest"
-price: "10 Bin TL'dir."
+totalPrize: "10 Bin TL'dir."
 attendance: "Websitesi"
 organizer: "Canlandıranlar Yetenek Kampı (CYK)"
 requirements: "18 yaş üstü herkes katılabilir."

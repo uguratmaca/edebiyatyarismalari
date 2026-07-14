@@ -7,7 +7,7 @@ comments: true
 lastDate: 1613077200 
 dateHuman: "12 Şubat 2021"
 attendance: "Okul Müdürlükleri"
-price: "7250 TL'dir"
+totalPrize: "7250 TL'dir"
 comTopic: "İstiklâl Marşı’nın kabulünün 100. Yılı münasebetiyle Millî Şairimiz Mehmet Âkif Ersoy’a mektupların yazılabileceği yarışma Âkif’e Mektuplar"
 requirements: "Yarışmaya İstanbul Millî Eğitim’e bağlı bütün resmi /özel okullarda okuyan ortaokul ve lise öğrencileri katılabileceklerdir."
 permalink: "mehmet-akif-ersoy-mektup-yarismasi"

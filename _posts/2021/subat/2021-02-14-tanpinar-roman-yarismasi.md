@@ -7,7 +7,7 @@ comments: true
 lastDate: 1618002000 
 dateHuman: "10 Nisan 2021"
 attendance: "Posta"
-price: "38 Bin 500 TL'dir"
+totalPrize: "38 Bin 500 TL'dir"
 requirements: "Yarışmaya yurt içi ve yurt dışından herkes katılabilir."
 permalink: "tanpinar-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/subat/tanpinar-roman-yarismasi.jpg"

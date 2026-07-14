@@ -9,7 +9,7 @@ lastDate: 1666818000
 dateHuman: "27 Ekim 2022"
 attendance: "Elden"
 organizer: "Konya Büyükşehir Belediyesi"
-price: "1 Milyon TL'dir."
+totalPrize: "1 Milyon TL'dir."
 requirements: "Türk Mühendis ve Mimar Odaları Birliği’ne bağlı ilgili meslek odalarındaki kişiler katılabilir."
 permalink: "konya-alaeddin-tepesi-mimari-proje-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/temmuz/konya-alaeddin-tepesi-mimari-proje-yarismasi.jpg"

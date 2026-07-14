@@ -7,7 +7,7 @@ tags: [şiir yarışması, nisan 2019]
 comments: true
 dateHuman: "19 Nisan 2019"
 lastDate: 1555621200
-price: "1750 TL'dir"
+totalPrize: "1750 TL'dir"
 comTopic: "Kudüs İçin Yaz"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kudus-icin.jpg?alt=media&token=881b2572-ff19-4983-a47d-e75ee906c240"
 ---

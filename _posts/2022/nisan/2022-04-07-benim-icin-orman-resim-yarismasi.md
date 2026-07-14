@@ -9,7 +9,7 @@ lastDate: 1652907600
 dateHuman: "19 Mayıs 2022"
 comTopic: "Benim için orman"
 attendance: "Websitesi"
-price: "Altın"
+totalPrize: "Altın"
 organizer: "T.C. Tarım ve Orman Bakanlığı Orman Genel Müdürlüğü ve T.C. Milli Eğitim Bakanlığı"
 requirements: "Türkiye Cumhuriyeti sınırları içinde yaşayan tüm ilkokul ve ortaokul öğrencileri katılabilir."
 permalink: "benim-icin-orman-resim-yarismasi"

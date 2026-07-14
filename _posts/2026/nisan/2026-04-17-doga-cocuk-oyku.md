@@ -9,7 +9,7 @@ tags: [ekim 2026, hikaye yarışması, ortaokul]
 lastDate: 1793307600
 dateHuman: "30 Ekim 2026"
 comTopic: "Serbest"
-price: "Sınıf kategorisi başına 30.000 TL'dir"
+totalPrize: "Sınıf kategorisi başına 30.000 TL'dir"
 attendance: "İnternet Sitesi"
 organizer: "Doğan Çocuk Yayınları"
 requirements: "2025-2026-2027 eğitim ve öğretim yılında 5, 6, 7 ve 8. sınıfta okuyan tüm öğrencilerin katılımına açıktır"

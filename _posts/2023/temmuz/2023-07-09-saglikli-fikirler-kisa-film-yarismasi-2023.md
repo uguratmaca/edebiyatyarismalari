@@ -11,7 +11,7 @@ comTopic: "Gençlerin Gözünden Uyuşturucu Madde Bağımlılığı"
 attendance: "Websitesi"
 organizer: "Yeşilay"
 hidden: true
-price: "200 Bin TL'dir."
+totalPrize: "200 Bin TL'dir."
 requirements: "Türkiye genelinde ön lisans, lisans, yüksek lisans, doktora ve açık öğretim dahil üniversitelerde öğrenim gören tüm öğrenciler katılabilir."
 permalink: "saglikli-fikirler-kisa-film-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/temmuz/saglikli-fikirler-kisa-film-yarismasi-2023.jpg"

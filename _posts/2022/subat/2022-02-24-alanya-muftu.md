@@ -8,7 +8,7 @@ lastDate: 1646953200
 dateHuman: "11 Mart 2022"
 comTopic: "Çanakkale Ruhu"
 attendance: "Elden"
-price: "1000 TL'dir"
+totalPrize: "1000 TL'dir"
 organizer: "Alanya Müftülüğü"
 requirements: "Lise öğrencileri katıbilir"
 permalink: "canakkale-ruhu-lise-siir-yarismasi"

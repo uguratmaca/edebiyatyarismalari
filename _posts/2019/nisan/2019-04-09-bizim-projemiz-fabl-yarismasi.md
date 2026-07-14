@@ -7,7 +7,7 @@ tags: [mayıs 2019, masal yarışması, ortaokul]
 comments: true
 lastDate: 1556658000
 dateHuman: "1 Mayıs 2019"
-price: "1500 TL'dir"
+totalPrize: "1500 TL'dir"
 ---
 
 Boyabat Fatih Sultan Mehmet İmam Hatip Ortaokulu Bizim Projemiz Fabl Yazma Yarışması

@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "6 Eylül 2023"
 attendance: "Websitesi"
 organizer: "Türk Sigorta Enstitüsü Vakfı (TSEV)"
-price: "30 Bin TL'dir."
+totalPrize: "30 Bin TL'dir."
 requirements: "Tüm fotoğraf severler katılabilir."
 permalink: "kadrajimda-sigorta-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/temmuz/kadrajimda-sigorta-fotograf-yarismasi.jpg"

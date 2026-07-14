@@ -9,7 +9,7 @@ lastDate: 1630443600
 dateHuman: "1 Eylül 2021"
 comTopic: "Kadınlar, Kentler, Umutlar"
 attendance: "E-Posta, Posta, Kargo"
-price: "14 Bin 500 TL'dir"
+totalPrize: "14 Bin 500 TL'dir"
 requirements: "Yarışma 18 yaş üstü ve SADECE KADIN katılımcılara açıktır."
 permalink: "kadin-oykuleri-kisa-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/kadin-oykuleri-kisa-oyku-yarismasi.jpeg"

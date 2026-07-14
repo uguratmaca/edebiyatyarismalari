@@ -7,7 +7,7 @@ tags: [ocak 2025, şiir yarışması, genel]
 lastDate: 1736895600
 dateHuman: "15 Ocak 2025"
 attendance: "E-Posta"
-price: "22 Bin 500 TL'dir"
+totalPrize: "22 Bin 500 TL'dir"
 comTopic: "OF"
 organizer: "Of Belediyesi"
 requirements: "İsteyen herkes katılabilir"

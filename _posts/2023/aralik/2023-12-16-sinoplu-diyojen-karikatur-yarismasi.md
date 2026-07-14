@@ -12,7 +12,7 @@ attendance: "E-Posta"
 hidden: true
 organizer: "Ayancık Belediyesi ve Sinop Yazarlar, Şairler ve Sanatçılar Derneği"
 requirements: "Amatör ve profesyonel bütün dünya karikatürcüleri katılabilir."
-price: "12 Bin 500 TL'dir"
+totalPrize: "12 Bin 500 TL'dir"
 permalink: "sinoplu-diyojen-karikatur-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/aralik/sinoplu-diyojen-karikatur-yarismasi.jpg"
 excerpt:  "Ayancık Belediyesi ve Sinop Yazarlar, Şairler ve Sanatçılar Derneği <strong> 3. Uluslararası Karikatür Yarışması 2024 </strong> düzenliyor."

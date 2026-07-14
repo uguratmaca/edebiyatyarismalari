@@ -9,7 +9,7 @@ lastDate: 1654376400
 dateHuman: "05 Haziran 2022"
 comTopic: "Öykülerin konusu Malatya ile ilgili olmalıdır."
 attendance: "E-posta"
-price: "6 Bin TL'dir."
+totalPrize: "6 Bin TL'dir."
 organizer: "Malatya İnönü Üniversitesi"
 requirements: "Yarışmamız ulusal ve uluslararası katılıma açıktır. Her yaş ve meslek kümesinden konuya ilgi duyanlar yarışmaya katılabilir."
 permalink: "malatya-oykuleri-yarismasi"

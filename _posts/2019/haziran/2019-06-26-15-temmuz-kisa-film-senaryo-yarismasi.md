@@ -7,7 +7,7 @@ tags: [temmuz 2019, genel, senaryo yarışması, kısa film yarışması, 15 tem
 comments: true
 lastDate: 1562878800
 dateHuman: "12 Temmuz 2019"
-price: "200 Bin TL'dır"
+totalPrize: "200 Bin TL'dır"
 ---
 
 15 Temmuz Demokrasi Ve Milli Birlik Günü 15 Temmuz Kısa Film Ve Senaryo Yarışmasının Amacı Milli Şuurumuzun Gelişimine Katkı Sağlanması, 15 Temmuz İle İlgili Nitelikli İçerikler Üretilmesi Ve Demokrasi Bilincinin Güçlendirilmesidir.

@@ -7,7 +7,7 @@ tags: [mart 2019, makale yarışması]
 comments: true
 lastDate: 1553202000
 dateHuman: "22 Mart 2019"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/avim-makale.jpg?alt=media&token=7214e139-86ce-4a3f-a8d3-fa535b634c1a"
 ---
 

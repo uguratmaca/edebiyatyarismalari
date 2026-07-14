@@ -10,7 +10,7 @@ dateHuman: "15 Nisan 2024"
 attendance: "Elden/Kargo/Posta"
 organizer: "Cide Belediye Başkanlığı"
 requirements: "İsteyen herkes katılabilir."
-price: "5 Bin TL'dir."
+totalPrize: "5 Bin TL'dir."
 permalink: "rifat-ilgaz-siir-yarismasi-2024"
 redirect_from: ["/rifat-ilgaz-"]
 archived_to: "/rifat-ilgaz-siir-odulu"

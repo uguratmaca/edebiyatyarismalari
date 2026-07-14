@@ -7,7 +7,7 @@ tags: [haziran 2020, genel, hikaye yarışması, ahmet hamdi tanpınar]
 comments: true
 lastDate: 1591304400
 dateHuman: "5 Haziran 2020"
-price: "38 Bin 500 TL'dir"
+totalPrize: "38 Bin 500 TL'dir"
 comTopic: "Gecmiş Zaman Aynasında Bursa"
 attendance: "Posta"
 requirements: "Yarışmaya yurt içi ve yurt dışından herkes katılabilir."

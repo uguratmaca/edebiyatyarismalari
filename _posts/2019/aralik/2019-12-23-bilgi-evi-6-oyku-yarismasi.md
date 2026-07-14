@@ -6,7 +6,7 @@ category: articles
 tags: [ocak 2020, ortaokul, lise, üniversite, hikaye yarışması]
 comments: true
 lastDate: 1578344400
-price: "37 Bin 500 TL'dir"
+totalPrize: "37 Bin 500 TL'dir"
 dateHuman: "7 Ocak 2020"
 comTopic: "Serbest"
 attendance: "Elden/Posta"

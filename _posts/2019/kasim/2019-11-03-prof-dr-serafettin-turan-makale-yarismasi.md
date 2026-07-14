@@ -9,7 +9,7 @@ lastDate: 1580331600
 dateHuman: "30 Ocak 2020"
 attendance: "E-Posta"
 comTopic: "Cumhuriyetin Kültür Devrimi"
-price: "1000 TL'dir"
+totalPrize: "1000 TL'dir"
 requirements: "Yarışmaya 17-25 yaş arasında olan (yüksek lisans ve doktora öğrencileri dışındaki) yükseköğrenim gören gençler katılabilir."
 ---
 

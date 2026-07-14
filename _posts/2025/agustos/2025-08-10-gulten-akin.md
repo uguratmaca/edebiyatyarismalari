@@ -7,7 +7,7 @@ tags: [aralık 2025, şiir yarışması, genel, kitap dosyası]
 lastDate: 1767135600
 dateHuman: "31 Aralık 2025"
 attendance: "E-Posta"
-price: "20 Bin TL'dir"
+totalPrize: "20 Bin TL'dir"
 comTopic: "Serbest"
 organizer: "Balad Şiir Vakfı"
 requirements: "Ödüle katılacak şairler, ödüle son katılım tarihinde 35 yaşını geçmemiş/aşmamış olmalıdır"

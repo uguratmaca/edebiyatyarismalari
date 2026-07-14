@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "09 Mayıs 2022"
 comTopic: "Çocuk Gözünden Ramazan"
 attendance: "Websitesi"
-price: "82 Bin 500 TL'dir."
+totalPrize: "82 Bin 500 TL'dir."
 organizer: "AK Parti İstanbul İl Kadın Kolları Başkanlığı"
 requirements: "İstanbul sınırları içerisinde yasal olarak ikamet eden 4-13 yaş arasındaki çocuklar katılabilir."
 permalink: "cocuk-gozunden-ramazan-resim"

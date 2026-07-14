@@ -8,7 +8,7 @@ lastDate: 1590958800
 dateHuman: "1 Haziran 2020"
 attendance: "Posta/E-Posta"
 comTopic: "Evde Kal, El Ele Başaracağız"
-price: "1800 TL'dir"
+totalPrize: "1800 TL'dir"
 requirements: "3 Kategori (9-10-11 yaş grubu), (12-13-14 yaş grubu), (15-16-17 yaş grubu)"
 permalink: "girne-evde-kal-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/mayis/girne-3-oyku-yarismasi.jpg"

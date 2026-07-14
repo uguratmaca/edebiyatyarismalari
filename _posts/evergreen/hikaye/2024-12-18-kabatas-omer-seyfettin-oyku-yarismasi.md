@@ -6,7 +6,7 @@ date: 2024-12-18
 category: articles
 tags: [her yıl tekrarlanan hikaye, şubat 2025, hikaye yarışması, lise, istanbul, ömer seyfettin]
 lastDate: 1739401200
-price: "14 Bin TL'dir"
+totalPrize: "14 Bin TL'dir"
 dateHuman: "13 Şubat 2025"
 attendance: "E-Posta"
 comTopic: "Yol"

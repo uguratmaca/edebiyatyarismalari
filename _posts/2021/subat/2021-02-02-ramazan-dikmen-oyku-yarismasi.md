@@ -8,7 +8,7 @@ lastDate: 1617138000
 dateHuman: "31 Mart 2021"
 attendance: "Websitesi"
 comTopic: "Serbest"
-price: "14 Bin 500 TL'dir"
+totalPrize: "14 Bin 500 TL'dir"
 requirements: "Orta öğretim öğrencileri ve bütün yetişkinler katılabilir"
 permalink: "ramazan-dikmen-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/subat/ramazan-dikmen-öykü-yarismasi.jpg"

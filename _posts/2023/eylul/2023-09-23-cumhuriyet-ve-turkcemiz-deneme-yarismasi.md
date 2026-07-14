@@ -9,7 +9,7 @@ lastDate: 1696798800
 dateHuman: "9 Ekim 2023"
 attendance: "Okul Müdürlüğü"
 organizer: "Milli Eğitim Bakanlığı"
-price: "75 Bin TL'dir."
+totalPrize: "75 Bin TL'dir."
 requirements: "2023-2024 eğitim-öğretim yılı itibarıyla Milli Eğitim Bakanlığına bağlı kamu ve özel liselerde öğrenim gören tüm öğrenciler katılabilir."
 permalink: "cumhuriyet-ve-turkcemiz-deneme-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/eylul/cumhuriyet-ve-turkcemiz-deneme-yarismasi.jpg"

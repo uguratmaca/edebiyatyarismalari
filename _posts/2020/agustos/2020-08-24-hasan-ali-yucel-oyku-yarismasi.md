@@ -7,7 +7,7 @@ comments: true
 lastDate: 1603573200  
 dateHuman: "17 Eylül 2020"
 attendance: "Okul Müdürlükleri"
-price: "26 Bin TL'dir"
+totalPrize: "26 Bin TL'dir"
 comTopic: "Yuva"
 requirements: "Yarışmaya Millî Eğitim Bakanlığına bağlı resmî ve özel okul/kurumlarda, eğitim öğretim hizmetleri sınıfında fiilen görev yapmakta olan öğretmen ve yöneticiler katılabileceklerdir."
 permalink: "hasan-ali-yucel-kisa-oyku-yarismasi"

@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "01 Haziran 2022"
 comTopic: "Mustafapaşa’nın doğal ve kültürel zenginlikleri ile geleneksel yaşamı."
 attendance: "E-posta"
-price: "6 Bin 250 TL'dir."
+totalPrize: "6 Bin 250 TL'dir."
 organizer: "Kapadokya Üniversitesi"
 requirements: "İsteyen herkes katılabilir."
 permalink: "dorduncu-kun-fotograf-yarismasi"

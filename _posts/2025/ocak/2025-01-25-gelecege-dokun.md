@@ -7,7 +7,7 @@ tags: [mart 2025, hikaye yarışması, lise, bilimkurgu]
 lastDate: 1743289200
 dateHuman: "30 Mart 2025"
 comTopic: "Serbest"
-price: "14 Bin TL'dir"
+totalPrize: "14 Bin TL'dir"
 attendance: "Websitesi"
 organizer: "Demirtaş Anadolu İmam Hatip Lisesi"
 requirements: "Türkiye geneli resmî/özel lise ve dengi okullarda öğrenim gören öğrenciler katılabilir."

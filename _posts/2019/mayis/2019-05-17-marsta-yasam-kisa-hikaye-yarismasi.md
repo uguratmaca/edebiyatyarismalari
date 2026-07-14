@@ -7,7 +7,7 @@ tags: [haziran 2019, ortaokul, hikaye yarışması]
 comments: true
 lastDate: 1560114000
 dateHuman: "10 Haziran 2019"
-price: "22 Bin 500 TL'dir."
+totalPrize: "22 Bin 500 TL'dir."
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/marsta-hayat-kisa-hikaye-yarismasi.jpg?alt=media&token=f4b4edf1-1071-454b-b780-eb55d56a11d2"
 ---
 

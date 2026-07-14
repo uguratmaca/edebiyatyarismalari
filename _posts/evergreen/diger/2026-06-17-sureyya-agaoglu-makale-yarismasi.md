@@ -7,7 +7,7 @@ author: "Ümit Atmaca"
 category: articles
 tags: [her yıl tekrarlanan, eylül 2026, makale yarışması, genel]
 lastDate: 1789419600
-price: "120 Bin TL"
+totalPrize: "120 Bin TL"
 dateHuman: "15 Eylül 2026"
 attendance: "E-Posta"
 comTopic: "Suçlu kim, çocuk mu yoksa çocuğu koruyamayan ve onu suça sürükleyen toplum ve sistem mi?"

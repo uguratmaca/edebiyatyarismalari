@@ -8,7 +8,7 @@ tags: [aralık 2023, makale yarışması, genel]
 lastDate: 1703970000
 dateHuman: "31 Aralık 2023"
 attendance: "Websitesi"
-price: "12 Bin $'dir."
+totalPrize: "12 Bin $'dir."
 organizer: "Türkiye Katılım Bankaları Birliği (TKBB)"
 requirements: "Doktora öğrencileri, doktora mezun araştırmacıları, akademisyen ve sektör profesyonelleri katılabilir."
 permalink: "tkbb-makale-yarismasi"

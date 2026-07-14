@@ -9,7 +9,7 @@ lastDate: 1652216400
 dateHuman: "11 Mayıs 2022"
 comTopic: "Rüya Anıdan Sayılır mı?"
 attendance: "Websitesi"
-price: "7 Bin 250 TL'dir"
+totalPrize: "7 Bin 250 TL'dir"
 organizer: "Özel PEV Amiroğlu Fen Lisesi"
 requirements: "Türkiye geneli lise öğrencileri katılabilir."
 permalink: "bana-duslerinden-yaz-deneme"

@@ -8,7 +8,7 @@ tags: [haziran 2022, şiir yarışması, hikaye yarışması, genel]
 lastDate: 1656536400
 dateHuman: "30 Haziran 2022"
 attendance: "Elden/Posta/Kargo"
-price: "5 Bin TL'dir."
+totalPrize: "5 Bin TL'dir."
 organizer: "Devrek Belediye Başkanlığı"
 requirements: "İsteyen herkes katılabilir."
 permalink: "devrek-belediye-siir-ve-oyku-odulu"

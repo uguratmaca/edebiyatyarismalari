@@ -9,7 +9,7 @@ lastDate: 1653858000
 dateHuman: "30 Mayıs 2022"
 comTopic: "Ruh Sağlığı, Yaşlılar"
 attendance: "E-posta"
-price: "7 Bin 500 TL'dir."
+totalPrize: "7 Bin 500 TL'dir."
 organizer: "Yaşlı Hakları ve Ruh Sağlığı Derneği"
 requirements: "Mektup yarışmasına sadece Kıbrıs’ta yaşayan bireyler katılabilir."
 permalink: "ucuncu-sessiz-ciglik-mektup"

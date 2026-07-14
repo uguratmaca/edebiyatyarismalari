@@ -7,7 +7,7 @@ tags: [ağustos 2021, genel, fotoğraf yarışması]
 comments: true
 lastDate: 1630270800    
 dateHuman: "30 Ağustos 2021"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 comTopic: "Güzel İstanbul"
 attendance: "E-Posta"
 hidden: true

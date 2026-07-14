@@ -7,7 +7,7 @@ tags: [ocak 2020, senaryo yarışması, üniversite]
 comments: true
 lastDate: 1579208400
 dateHuman: "17 Ocak 2020"
-price: "22 Bin 500 TL'dir"
+totalPrize: "22 Bin 500 TL'dir"
 comTopic: "Kadın"
 attendance: "Posta/Kargo/Elden"
 ---

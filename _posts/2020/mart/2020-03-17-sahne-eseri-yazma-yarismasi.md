@@ -7,7 +7,7 @@ tags: [mayıs 2020, genel, oyun yazma yarışması]
 comments: true
 lastDate: 1588539600    
 dateHuman: "4 Mayıs 2020"
-price: "34 Bin TL'dir"
+totalPrize: "34 Bin TL'dir"
 attendance: "Elden/Posta/Kargo"
 comTopic: "Serbest"
 requirements: "Yarışmaya isteyen herkes katılabilir."

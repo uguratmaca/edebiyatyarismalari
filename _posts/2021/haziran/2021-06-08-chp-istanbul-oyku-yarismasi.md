@@ -7,7 +7,7 @@ tags: [ağustos 2021, genel, hikaye yarışması]
 comments: true
 lastDate: 1630270800    
 dateHuman: "30 Ağustos 2021"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 comTopic: "İstanbul’dan Türkiye’ye UMUT"
 attendance: "Kargo, Posta"
 requirements: "İsteyen herkes katılabilir"

@@ -7,7 +7,7 @@ tags: [haziran 2019, genel, şiir yarışması]
 comments: true
 lastDate: 1560978000
 dateHuman: "20 Haziran 2019"
-price: "10 Bin TL'dir."
+totalPrize: "10 Bin TL'dir."
 comTopic: "Sivas Kongresinin 100. Yılı"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/sivas-kongresi-100-yil-siir-yarismasi.png?alt=media&token=54afb458-73b2-4244-8036-f7cbccfd4339"
 ---

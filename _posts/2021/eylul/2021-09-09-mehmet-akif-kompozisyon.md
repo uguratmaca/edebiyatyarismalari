@@ -9,7 +9,7 @@ lastDate: 1634248800
 dateHuman: "15 Ekim 2021"
 comTopic: "Mehmet Akif Ersoy"
 attendance: "Posta, Elden"
-price: "7 Bin 500 TL'dir"
+totalPrize: "7 Bin 500 TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "mehmet-akif-kompozisyon-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/eylul/mehmet-akif-kompozisyon-yarismasi.jpg"

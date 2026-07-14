@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "31 Ağustos 2022"
 attendance: "Websitesi"
 organizer: "Kastamonu Üniversitesi Ahşap Kültürünü Araştırma ve Uygulama Merkezi"
-price: "37 Bin 500 TL'dir."
+totalPrize: "37 Bin 500 TL'dir."
 requirements: "14 yaş üstü herkes katılabilir."
 permalink: "ahsap-oyuncak-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/temmuz/ahsap-oyuncak-tasarim-yarismasi.jpg"

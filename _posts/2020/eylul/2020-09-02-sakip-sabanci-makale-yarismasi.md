@@ -8,7 +8,7 @@ lastDate: 1610658000
 dateHuman: "15 Ocak 2021"
 attendance: "Websitesi"
 comTopic: "Korona Sonrası Dünya ve Türkiye: Pandemilerin Sosyal, Psikolojik ve Siyasi Etkileri"
-price: "35 Bin USD'dir"
+totalPrize: "35 Bin USD'dir"
 requirements: "Çalışmada imzası bulunan tüm araştırmacılar 1976 veya sonrası doğumlu olmalıdır."
 permalink: "sakip-sabanci-makale-odulu"
 image: "https://edebiyatyarismalari.com/images/2020/eylul/sakip-sabanci-korona-makale-yarismasi.jpg"

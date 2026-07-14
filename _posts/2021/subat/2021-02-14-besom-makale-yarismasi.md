@@ -7,7 +7,7 @@ comments: true
 lastDate: 1632949200 
 dateHuman: "30 Eylül 2021"
 attendance: "E-Posta"
-price: "21 Bin TL'dir"
+totalPrize: "21 Bin TL'dir"
 comTopic: "Cumhuriyet dönemi çağdaş Türk besteciliğinin verimi; nicel ve nitel olarak, yurt içinde ve yurt dışında ne denli etkili olabilmiştir? Elde edilen sonuca hangi nedenler yol açmıştır ve bu nedenler nasıl yorumlanabilir?"
 requirements: "Yarışmaya her yaşta T.C. vatandaşı katılabilir"
 permalink: "besom-makale-yarismasi"

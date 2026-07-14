@@ -8,7 +8,7 @@ lastDate: 1756418400
 dateHuman: "29 Ağustos 2025"
 attendance: "Kargo, Elden"
 comTopic: "Serbest"
-price: "35 Bin TL'dir"
+totalPrize: "35 Bin TL'dir"
 organizer: "Nilüfer Belediyesi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "rifat-ilgaz-oyku-odulu"

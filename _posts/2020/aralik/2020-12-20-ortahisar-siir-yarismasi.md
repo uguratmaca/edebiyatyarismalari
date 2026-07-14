@@ -7,7 +7,7 @@ comments: true
 lastDate: 1609362000 
 dateHuman: "31 Aralık 2020"
 attendance: "Posta, Kargo"
-price: "13000 TL'dir"
+totalPrize: "13000 TL'dir"
 comTopic: "Cumhuriyet, Çanakkale Zafer, 15 Temmuz Destanı, Trabzon"
 requirements: "İsteyen herkes katılabilir"
 permalink: "trabzon-siir-yazma-yarismasi"

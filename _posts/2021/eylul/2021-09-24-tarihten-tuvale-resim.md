@@ -9,7 +9,7 @@ lastDate: 1635372000
 dateHuman: "28 Ekim 2021"
 comTopic: "Tarihten Tuvale"
 attendance: "Websitesi"
-price: "10 Bin 500 TL'dir"
+totalPrize: "10 Bin 500 TL'dir"
 requirements: "Yarışmaya 18 yaş ve üzeri bireyler katılım sağlayabilir. Yurt içi ve yurt dışı katılım açıktır."
 permalink: "fatih-tarihten-tuvale-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/eylul/tarihten-tuvale-resim-yarismasi.jpg"

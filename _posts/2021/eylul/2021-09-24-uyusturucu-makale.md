@@ -9,7 +9,7 @@ lastDate: 1639522800
 dateHuman: "15 Aralık 2021"
 comTopic: "Uyuşturucu ile Mücadelede Hukukun Rolü"
 attendance: "E-Posta"
-price: "12 Bin TL'dir"
+totalPrize: "12 Bin TL'dir"
 requirements: "Tüm üniversite öğrencileri katılabilir"
 permalink: "uyusturucu-mucadele-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/eylul/uyusturucu-ile-mucadele-makale-yarismasi.jpg"

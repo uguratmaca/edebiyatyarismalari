@@ -9,7 +9,7 @@ lastDate: 1634248800
 dateHuman: "15 Ekim 2021"
 comTopic: "Trabzon"
 attendance: "Posta, Elden"
-price: "7 Bin 500 TL'dir"
+totalPrize: "7 Bin 500 TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "trabzon-kompozisyon-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/agustos/bana-trabzon-anlat-kompozisyon-yarismasi.jpg"

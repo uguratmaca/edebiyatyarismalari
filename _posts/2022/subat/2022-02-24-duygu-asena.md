@@ -8,7 +8,7 @@ lastDate: 1648162800
 dateHuman: "25 Mart 2022"
 comTopic: "Kadının Hâlâ Adı Yok"
 attendance: "Elden, Posta"
-price: "10.000 TL'dir"
+totalPrize: "10.000 TL'dir"
 organizer: "Doğan Kitap"
 requirements: "İsteyen herkes katılabilir"
 permalink: "duygu-asena-roman-odulu-2022"

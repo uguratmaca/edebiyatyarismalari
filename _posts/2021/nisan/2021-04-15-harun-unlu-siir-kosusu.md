@@ -8,7 +8,7 @@ comments: true
 lastDate: 1627765200    
 dateHuman: "1 Ağustos 2021"
 comTopic: "Serbest"
-price: "2 Bin TL'dir"
+totalPrize: "2 Bin TL'dir"
 attendance: "Posta"
 requirements: "18 yaşından büyük olmak üzere yurtiçi ve yurtdışından herkes katılabilir"
 permalink: "harun-unlu-siir-kosusu"

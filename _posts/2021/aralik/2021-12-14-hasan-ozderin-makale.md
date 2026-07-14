@@ -7,7 +7,7 @@ tags: [ağustos 2022, hukuk, makale yarışması]
 comments: true
 lastDate: 1660514400
 dateHuman: "15 Ağustos 2022"
-price: "15 Bin TL'dir"
+totalPrize: "15 Bin TL'dir"
 comTopic: "Sosyal Medyanın Denetimi"
 attendance: "Kargo, Posta"
 requirements: "Yarışma yalnızca hukuk fakültesi öğrencilerinin katılımına açıktır"

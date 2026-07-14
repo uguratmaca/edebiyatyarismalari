@@ -7,7 +7,7 @@ tags: [nisan 2019, mektup yarışması]
 comments: true
 dateHuman: "5 Nisan 2019"
 lastDate: 1554066000
-price: "3 Bin TL'dir"
+totalPrize: "3 Bin TL'dir"
 ---
 
 PTT AŞ Tarafından Verilecek Ödüller

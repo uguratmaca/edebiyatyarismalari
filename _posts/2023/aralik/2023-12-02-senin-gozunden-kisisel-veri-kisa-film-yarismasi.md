@@ -11,7 +11,7 @@ attendance: "E-Posta"
 hidden: true
 organizer: "Kişisel Verileri Koruma Kurumu"
 requirements: "Türkiye’deki üniversitelerin; İletişim Fakültesi, Güzel Sanatlar Fakültesi, Sanat, Tasarım ve Mimarlık Fakültesi, Güzel Sanatlar ve Mimarlık Fakültesi’nde eğitim gören öğrenciler katılabilir."
-price: "65 Bin TL'dir."
+totalPrize: "65 Bin TL'dir."
 permalink: "senin-gozunden-kisisel-veri-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/aralik/senin-gozunden-kisisel-veri-kisa-film-yarismasi.jpg"
 excerpt:  "Kişisel Verileri Koruma Kurumu <strong> Senin Gözünden Kişisel Veri Kısa Film Yarışması </strong> düzenliyor."

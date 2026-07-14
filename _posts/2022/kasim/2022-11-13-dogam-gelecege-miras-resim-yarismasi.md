@@ -12,7 +12,7 @@ comTopic: "Küresel Isınmanın Etkisiyle Oluşan İklim Değişikliğine Farkı
 attendance: "Kargo/Posta"
 organizer: "Ankara Enver Bektaş İlkokulu"
 requirements: "Türkiye geneli resmi ilkokullarda öğrenim gören 3. ve 4. sınıf öğrencileri katılabilir."
-price: "Başarı Belgesi"
+totalPrize: "Başarı Belgesi"
 permalink: "dogam-gelecege-miras-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/kasim/dogam-gelecege-miras-resim-yarismasi.jpg"
 excerpt:  "Ankara Enver Bektaş İlkokulu <strong> Doğam Geleceğe Miras Resim Yarışması </strong> düzenliyor."

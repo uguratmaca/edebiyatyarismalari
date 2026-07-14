@@ -9,7 +9,7 @@ lastDate: 1626296400
 dateHuman: "15 Temmuz 2021"
 comTopic: "Aşı Kararsızlığıyla"
 attendance: "E-Posta"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 requirements: "Her yaş ve meslek kümesinden değerli katılımlarınızı bekliyoruz."
 permalink: "asi-kararsizligi-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/mayis/asi-kararsizligina-oyku-yarismasi.jpg"

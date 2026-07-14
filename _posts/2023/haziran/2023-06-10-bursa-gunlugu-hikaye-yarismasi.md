@@ -9,7 +9,7 @@ lastDate: 1693515600
 dateHuman: "1 Eylül 2023"
 attendance: "Websitesi"
 organizer: "Bursa Büyükşehir Belediyesi"
-price: "35 Bin TL'dir."
+totalPrize: "35 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "bursa-gunlugu-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/haziran/bursa-gunlugu-hikaye-yarismasi.jpg"

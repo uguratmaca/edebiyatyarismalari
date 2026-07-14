@@ -8,7 +8,7 @@ lastDate: 1749938400
 dateHuman: "15 Haziran 2025"
 attendance: "Websitesi"
 comTopic: "Umut"
-price: "30 Bin TL'dir"
+totalPrize: "30 Bin TL'dir"
 organizer: "Güzel Ordu Kültür Sanat Vakfı"
 requirements: "Yarışma tüm yazarlara açıktır"
 permalink: "8-guzel-ordu-oyku-yarismasi"

@@ -7,7 +7,7 @@ tags: [temmuz 2019, genel, roman yarışması, hikaye yarışması, şiir yarı�
 comments: true
 lastDate: 1564088400
 dateHuman: "26 Temmuz 2019"
-price: "5 Bin TL'dir."
+totalPrize: "5 Bin TL'dir."
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ankara-universitesi-edebiyat-odulleri-oyku-roman-siir-yarismasi.jpg?alt=media&token=d6f5b5f7-04b7-472f-a70b-09b230fc9f18"
 ---
 

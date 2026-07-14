@@ -9,7 +9,7 @@ lastDate: 1651784400
 hidden: true
 dateHuman: "06 Mayıs 2022"
 comTopic: "Çocuk Gözüyle Aşı Olmanın Faydaları"
-price: "3 Bin TL'dir."
+totalPrize: "3 Bin TL'dir."
 organizer: "Kocaeli Eczacı Odası"
 requirements: "Yarışmaya ilkokul öğrencileri katılabilir."
 permalink: "cocuk-gozuyle-asi-olma-resim"

@@ -10,7 +10,7 @@ lastDate: 1652389200
 dateHuman: "13 Mayıs 2022"
 comTopic: "Toplumcu gerçekçilik çizgisinde yazılmış serbest temalı öyküler"
 attendance: "Websitesi"
-price: "4 Bin 500 TL'dir."
+totalPrize: "4 Bin 500 TL'dir."
 organizer: "Özel Fenerbahçe Anadolu Lisesi"
 requirements: "Türkiye geneli resmi-özel lisede okuyan öğrenciler yarışmaya katılabilir."
 permalink: "sabahattin-ali-oyku-yazma-yarismasi"

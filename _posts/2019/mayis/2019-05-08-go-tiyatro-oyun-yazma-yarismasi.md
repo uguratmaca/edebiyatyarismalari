@@ -7,7 +7,7 @@ tags: [ekim 2019, genel, tiyatro oyunu yazma yarışması]
 comments: true
 lastDate: 1570741200
 dateHuman: "11 Ekim 2019"
-price: "3000 TL'dir"
+totalPrize: "3000 TL'dir"
 ---
 
 Amaç

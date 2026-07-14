@@ -7,7 +7,7 @@ tags: [nisan 2020, üniversite, hikaye yarışması]
 comments: true
 lastDate: 1588194000
 dateHuman: "30 Nisan 2020"
-price: "19 Bin 500 TL'dir"
+totalPrize: "19 Bin 500 TL'dir"
 comTopic: "Uyuşturucu madde kullanımını önleme"
 attendance: "Posta ve E-Posta"
 requirements: "Yarışmaya üniversitelerde öğrenim gören herkes katılabilir."

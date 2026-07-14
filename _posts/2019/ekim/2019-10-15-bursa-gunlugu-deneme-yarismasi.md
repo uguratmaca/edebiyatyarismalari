@@ -9,7 +9,7 @@ lastDate: 1583442000
 dateHuman: "6 Mart 2020"
 comTopic: "Bursa'nın tarihi ve tabii güzelliklerini içeren mekanlar"
 attendance: "E-Posta / Posta / Kargo / Elden"
-price: "13 Bin TL'dir"
+totalPrize: "13 Bin TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/bursa-gunlugu-dergisi-para-odullu-deneme-yarismasi-2020.jpg?alt=media&token=8eb4aa64-903b-43d5-a7ee-c360f8d87163"
 ---
 

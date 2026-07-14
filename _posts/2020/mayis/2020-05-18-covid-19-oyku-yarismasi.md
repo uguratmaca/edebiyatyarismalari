@@ -8,7 +8,7 @@ lastDate: 1596315600
 dateHuman: "2 Ağustos 2020"
 attendance: "E-Posta"
 comTopic: "COVID-19 küresel salgını"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 requirements: "Herkese açıktır"
 permalink: "covid-19-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/mayis/covid-19-oykuleri-oyku-yarismasi.jpg"

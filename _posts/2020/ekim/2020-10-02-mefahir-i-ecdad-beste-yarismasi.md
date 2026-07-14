@@ -7,7 +7,7 @@ comments: true
 lastDate: 1605819600
 dateHuman: "20 Kasım 2020"
 attendance: "Posta"
-price: "117 Bin TL'dir"
+totalPrize: "117 Bin TL'dir"
 comTopic: "Yiğitlik ve Kahramanlık Türküsü, Fetih ve Mehter Marşı"
 requirements: "Yarışmaya T.C. vatandaşı olan bütün besteciler katılabilir"
 permalink: "mefahir-i-ecdad-beste-yarismasi"

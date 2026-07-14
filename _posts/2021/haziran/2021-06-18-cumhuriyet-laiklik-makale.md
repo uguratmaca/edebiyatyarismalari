@@ -9,7 +9,7 @@ lastDate: 1624222800
 dateHuman: "21 Haziran 2021"
 comTopic: "Cumhuriyet ve Laiklik"
 attendance: "E-Posta"
-price: "16 Bin TL'dir"
+totalPrize: "16 Bin TL'dir"
 requirements: "Üniversite öğrencileri katılabilir"
 permalink: "cagdas-yasam-dernegi-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/cumhuriyet-laiklik-makale-yarismasi.jpg"

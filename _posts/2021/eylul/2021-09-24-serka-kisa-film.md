@@ -9,7 +9,7 @@ lastDate: 1638313200
 dateHuman: "1 Aralık 2021"
 comTopic: "Serbest"
 attendance: "Kargo"
-price: "30 Bin TL'dir"
+totalPrize: "30 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "serka-kisa-film-belgesel-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/eylul/serka-kisa-film-belgesel-yarismasi.jpg"

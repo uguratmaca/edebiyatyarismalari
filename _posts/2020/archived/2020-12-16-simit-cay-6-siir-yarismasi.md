@@ -7,7 +7,7 @@ comments: true
 lastDate: 1625086800  
 dateHuman: "1 Temmuz 2021"
 attendance: "Web sitesi"
-price: "750 TL'dir"
+totalPrize: "750 TL'dir"
 comTopic: "İnsan"
 requirements: "İsteyen herkes katılabilir"
 permalink: "simit-cay-6-siir-yarismasi"

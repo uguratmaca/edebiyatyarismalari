@@ -8,7 +8,7 @@ lastDate: 1621544400
 dateHuman: "21 Mayıs 2021"
 attendance: "Websitesi"
 comTopic: "Serbest"
-price: "33 Bin TL'dir"
+totalPrize: "33 Bin TL'dir"
 requirements: "Yarışma herkese açıktır."
 permalink: "umraniye-belediyesi-17-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/subat/umraniye-belediyesi-17-hikaye-yarismasi.jpg"

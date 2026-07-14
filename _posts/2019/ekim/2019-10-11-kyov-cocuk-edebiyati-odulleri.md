@@ -9,7 +9,7 @@ lastDate: 1572901200
 dateHuman: "5 Kasım 2019"
 comTopic: "Serbest"
 attendance: "Posta/Kargo ya da Elden"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kocaeli-y%C3%BCksek-%C3%B6%C4%9Frenim-vakf%C4%B1-%C3%A7ocuk-edebiyat%C4%B1-yar%C4%B1%C5%9Fmas%C4%B1.jpg?alt=media&token=4bd2f7da-099c-4ad8-9fee-3107356edba7"
 ---
 

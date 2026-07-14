@@ -8,7 +8,7 @@ lastDate: 1645138800
 dateHuman: "18 Şubat 2022"
 comTopic: "Buket Aşçı Anısına"
 attendance: "E-Posta"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 organizer: "KAFA Dergisi"
 requirements: "Yarışmaya katılacak yazarların 27 yaşını geçmemiş olması gerekmektedir"
 permalink: "kafa-genc-oykucu-yarismasi"

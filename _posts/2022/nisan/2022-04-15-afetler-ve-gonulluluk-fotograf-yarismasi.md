@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "06 Mayıs 2022"
 comTopic: "Afetler ve Gönüllülük"
 attendance: "Posta/Kargo"
-price: "15 Bin 000 TL'dir."
+totalPrize: "15 Bin 000 TL'dir."
 organizer: "Afet ve Acil Durum Yönetimi Başkanlığı"
 requirements: "Konuya ilgi duyan ve AFAD Gönüllülük Sisteminde yer alan Zorunlu online eğitimi (Birey ve Aileler için Afet Bilinci) tamamlamış tüm AFAD Gönüllüsü katılabilir."
 permalink: "afetler-ve-gonulluluk-fotograf-yarismasi"

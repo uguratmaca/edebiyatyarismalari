@@ -9,7 +9,7 @@ lastDate: 1655413200
 dateHuman: "17 Haziran 2022"
 attendance: "Elden/Posta/Kargo"
 organizer: "Edirne Belediyesi"
-price: "150 Bin TL'dir."
+totalPrize: "150 Bin TL'dir."
 requirements: "Ekip olarak katılım sağlanmalıdır."
 permalink: "edirne-kurtulusu-fikir-proje-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/edirne-kurtulusu-fikir-proje-yarismasi.jpg"

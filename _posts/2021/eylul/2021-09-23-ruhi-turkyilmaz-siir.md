@@ -7,7 +7,7 @@ tags: [mart 2022, şiir yarışması, genel]
 comments: true
 lastDate: 1648162800 
 dateHuman: "25 Mart 2022"
-price: "2500 TL'dir"
+totalPrize: "2500 TL'dir"
 comTopic: "Serbest"
 attendance: "Posta, Kargo"
 requirements: "İsteyen herkes katılabilir"

@@ -8,7 +8,7 @@ comments: true
 lastDate: 1582837200
 dateHuman: "28 Şubat 2020"
 attendance: "Posta/Kargo ya da Elden"
-price: "4 Bin 500 TL'dir"
+totalPrize: "4 Bin 500 TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/homeros-edebiyat-odulleri-siir-inceleme.png?alt=media&token=57745338-66de-4c00-b74b-2a448816b14e"
 ---
 

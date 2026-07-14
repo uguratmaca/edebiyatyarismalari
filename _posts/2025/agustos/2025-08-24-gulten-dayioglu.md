@@ -7,7 +7,7 @@ tags: [aralık 2025, roman yarışması, gülten dayıoğlu, genel]
 lastDate: 1767135600
 dateHuman: "31 Aralık 2025"
 attendance: "Posta, Kargo"
-price: "20 Bin TL'dir"
+totalPrize: "20 Bin TL'dir"
 comTopic: "Serbest"
 organizer: "Gülten Dayıoğlu Çocuk ve Gençlik Edebiyatı Vakfı"
 requirements: "İsteyen herkes katılabilir"

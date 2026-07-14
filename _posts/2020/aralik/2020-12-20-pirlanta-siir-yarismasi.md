@@ -7,7 +7,7 @@ comments: true
 lastDate: 1611522000 
 dateHuman: "25 Ocak 2021"
 attendance: "E-Posta, Websitesi"
-price: "1750 TL'dir"
+totalPrize: "1750 TL'dir"
 comTopic: "Serbest"
 requirements: "İstanbul ilinde bulunan, milli eğitim bakanlığına bağlı resmi ve özel liselerin (9-10-11 ve 12. sınıflar) öğrencileri katılabilir"
 permalink: "pirlanta-siir-yarismasi"

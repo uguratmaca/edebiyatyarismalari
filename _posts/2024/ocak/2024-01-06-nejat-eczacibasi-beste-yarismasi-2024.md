@@ -9,7 +9,7 @@ lastDate: 1735246800
 hidden: true
 dateHuman: "27 Aralık 2024"
 attendance: "Elden/Kargo/Posta"
-price: "100 Bin TL'dir."
+totalPrize: "100 Bin TL'dir."
 organizer: "İzmir Kültür Sanat Ve Eğitim Vakfı (İKSEV)"
 requirements: "Yarışmaya T.C. vatandaşları katılabilir."
 permalink: "nejat-eczacibasi-beste-yarismasi-2024"

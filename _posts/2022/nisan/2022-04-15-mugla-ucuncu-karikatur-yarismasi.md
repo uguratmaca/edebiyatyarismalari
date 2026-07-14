@@ -9,7 +9,7 @@ lastDate: 1652994000
 dateHuman: "20 Mayıs 2022"
 attendance: "E-posta"
 comTopic: "Yangın"
-price: "31 Bin 500 TL'dir."
+totalPrize: "31 Bin 500 TL'dir."
 organizer: "Muğla Büyükşehir Belediyesi"
 requirements: "Amatör ve profesyonel bütün dünya karikatürcüleri katılabilir."
 permalink: "mugla-ucuncu-karikatur-yarismasi"

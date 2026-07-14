@@ -8,7 +8,7 @@ comments: true
 lastDate: 1579813200
 dateHuman: "24 Ocak 2020"
 comTopic: "Serbest"
-price: "Bin 500 TL'dir"
+totalPrize: "Bin 500 TL'dir"
 attendance: "Kargo/Elden"
 requirements: "Yarışmaya 18 yaşından küçükler katılamazlar"
 ---

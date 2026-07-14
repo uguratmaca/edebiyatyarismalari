@@ -8,7 +8,7 @@ tags: [temmuz 2022, hikaye yarışması, genel]
 lastDate: 1659214800
 dateHuman: "31 Temmuz 2022"
 attendance: "E-posta"
-price: "9 Bin TL'dir."
+totalPrize: "9 Bin TL'dir."
 organizer: "Edebiyatist Yayın Evi"
 requirements: "18 yaşını dolduran herkes katılabilir."
 permalink: "edebiyatist-oyku-yarismasi"

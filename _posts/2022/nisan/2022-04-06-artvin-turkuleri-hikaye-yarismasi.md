@@ -9,7 +9,7 @@ lastDate: 1652043600
 dateHuman: "09 Mayıs 2022"
 comTopic: "Artvin Türküleri"
 attendance: "E-posta"
-price: "6 Gram Altın"
+totalPrize: "6 Gram Altın"
 organizer: "Artvin Bilim ve Sanat Merkezi"
 requirements: "Bilim ve sanat merkezlerine devam eden ortaokul öğrencilerine yöneliktir."
 permalink: "artvin-turkuleri-hikaye-yarismasi"

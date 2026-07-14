@@ -9,7 +9,7 @@ lastDate: 1652562000
 dateHuman: "15 Mayıs 2022"
 attendance: "Websitesi"
 organizer: "Eğitimciler Birliği Sendikası (Eğitim Bir-Sen) Samsun 1 Nolu Şube"
-price: "11 Bin 500 TL ve 250 Euro'dur."
+totalPrize: "11 Bin 500 TL ve 250 Euro'dur."
 requirements: "Okul öncesi, ilkokul, ortaokul ve lise öğrencilerinin yanısıra Bosna Hersek'ten öğrencilerde katılabilir."
 permalink: "ucuncu-siir-okuma-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/ucuncu-siir-okuma-yarismasi.jpg"

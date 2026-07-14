@@ -7,7 +7,7 @@ tags: [şubat 2020, istanbul, lise, hikaye yarışması]
 comments: true
 lastDate: 1581022800
 dateHuman: "7 Şubat 2020"
-price: "4 Bin 500 TL'dir"
+totalPrize: "4 Bin 500 TL'dir"
 comTopic: "Su"
 attendance: "Websitesi"
 requirements: "Yarışma İstanbul genelindeki devlet liselerini ve özel liseleri kapsamaktadır."

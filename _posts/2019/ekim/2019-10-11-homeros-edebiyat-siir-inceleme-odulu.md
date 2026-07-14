@@ -8,7 +8,7 @@ comments: true
 lastDate: 1578603600
 dateHuman: "10 Ocak 2020"
 attendance: "Posta/Kargo ya da Elden"
-price: "4 Bin 500 TL'dir"
+totalPrize: "4 Bin 500 TL'dir"
 ---
 
 Dil, inceleme-araştırma, söyleşi ve **şiir** dallarında verilegelen **Homeros Edebiyat Ödülleri 2020**'de Bir Şiiri İnceleme Ödülü olarak düzenlenmiştir.

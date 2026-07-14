@@ -7,7 +7,7 @@ tags: [şubat 2020, lise, kompozisyon yarışması, attila ilhan]
 comments: true
 lastDate: 1581714000
 dateHuman: "15 Şubat 2020"
-price: "3 Bin 750 TL'dir"
+totalPrize: "3 Bin 750 TL'dir"
 comTopic: "Daha Az Çalışmak, Daha İyi Yaşamak Anlamına Gelir Mi?"
 attendance: "E-Posta"
 requirements: "Lise"

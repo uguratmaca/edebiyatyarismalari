@@ -8,7 +8,7 @@ lastDate: 1661979600
 dateHuman: "01 Eylül 2022"
 comTopic: "Sanal Dünyada Milliyetçilik ve Türk Milliyetçiliği"
 attendance: "E-Posta"
-price: "27 Bin 500 TL'dir"
+totalPrize: "27 Bin 500 TL'dir"
 organizer: "Türk Ocakları Genel Merkezi"
 requirements: "Yarışmaya, Türkiye’deki üniversitelerde okuyan veya mezun olan (lisans, yüksek lisans, doktora) 1990 ve sonrası doğumlular katılabilir."
 permalink: "sanal-dunyada-milliyetcilik-makale-yarismasi"

@@ -8,7 +8,7 @@ comments: true
 lastDate: 1640905200
 dateHuman: "31 Aralık 2021"
 comTopic: "Serbest"
-price: "13 Bin TL'dir"
+totalPrize: "13 Bin TL'dir"
 attendance: "E-Posta"
 requirements: "Yarışmaya yurtiçinde veya yurtdışında yaşayan, Türkiye Cumhuriyeti vatandaşı besteciler (yaş sınırı olmaksızın) katılabilir."
 permalink: "muzaffer-arkan-beste-yarismasi"

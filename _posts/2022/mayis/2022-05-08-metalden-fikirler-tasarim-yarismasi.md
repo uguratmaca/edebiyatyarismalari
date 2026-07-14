@@ -10,7 +10,7 @@ dateHuman: "04 Temmuz 2022"
 comTopic: "Katılımcılardan yarışma kapsamında metal malzemenin potansiyellerini göz önünde bulundurarak farklı fonksiyonlara ve kullanım alanlarına hizmet edecek ürün tasarımları beklenmektedir."
 hidden: true
 attendance: "Websitesi"
-price: "64 Bin TL'dir."
+totalPrize: "64 Bin TL'dir."
 organizer: "Abdullah Gül Üniversitesi ve İç Mimarlar Odası öncülüğünde KAYMET ve No 239 işbirliğiyle"
 requirements: "Türkiye Cumhuriyeti ve Kuzey Kıbrıs Türk Cumhuriyeti Üniversitelerinde bulunan Endüstri Ürünleri Tasarımı, İç Mimarlık, İç Mimarlık ve Çevre Tasarımı ve Mimarlık Lisans ve Lisansüstü programlarındaki öğrenciler katılabilir."
 permalink: "metalden-fikirler-tasarim-yarismasi"

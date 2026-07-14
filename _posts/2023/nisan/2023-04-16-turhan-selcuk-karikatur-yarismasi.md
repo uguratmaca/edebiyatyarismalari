@@ -12,7 +12,7 @@ attendance: "Kargo/Posta"
 hidden: true
 organizer: "Muğla Milas Belediyesi"
 requirements: "Amatör ve profesyonel bütün dünya karikatürcüleri katılabilir."
-price: "45 Bin TL'dir"
+totalPrize: "45 Bin TL'dir"
 permalink: "turhan-selcuk-karikatur-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/nisan/turhan-selcuk-karikatur-yarismasi.jpg"
 excerpt:  "Muğla Milas Belediyesi <strong> Turhan Selçuk Karikatür Yarışması </strong> düzenliyor."

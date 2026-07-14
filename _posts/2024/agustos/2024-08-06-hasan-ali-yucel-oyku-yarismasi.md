@@ -7,7 +7,7 @@ tags: [kasım 2023, hikaye yarışması, genel, hasan ali yücel]
 lastDate: 1730408400
 dateHuman: "1 Kasım 2024"
 attendance: "E-Posta"
-price: "70 Bin TL'dir"
+totalPrize: "70 Bin TL'dir"
 comTopic: "Hasan Ali Yücel'in eğitim ve kültür hayatına katkıları"
 organizer: "Osmangazi Belediyesi"
 requirements: "Yarışmaya yurtiçi ve yurtdışından 18 yaşını doldurmuş herkes katılabilir"

@@ -11,7 +11,7 @@ comTopic: "Uşak"
 attendance: "Websitesi"
 hidden: true
 organizer: "Uşak İl Kültür ve Turizm Müdürlüğü"
-price: "22 Bin 500 TL'dir."
+totalPrize: "22 Bin 500 TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "usak-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/usak-kisa-film-yarismasi.jpg"

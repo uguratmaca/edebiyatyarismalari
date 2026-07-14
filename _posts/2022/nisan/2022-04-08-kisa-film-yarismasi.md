@@ -9,7 +9,7 @@ lastDate: 1660510800
 dateHuman: "15 Ağustos 2022"
 comTopic: "'Kitap Tüm Çağarın Muallimidir.', 'Okumanın Filminden, Anlamanın İlmine'"
 attendance: "Websitesi"
-price: "35 Bin TL'dir."
+totalPrize: "35 Bin TL'dir."
 organizer: "Genç Kitaplar"
 requirements: "Türkiye Cumhuriyeti’ndeki üniversitelerde ön lisans, lisans, yüksek lisans ve doktora eğitimine devam edenler ve yurtdışında üniversite öğrenimi görmekte olan tüm Türkiye Cumhuriyeti vatandaşları katılabilir."
 permalink: "kisa-film-yarismasi"

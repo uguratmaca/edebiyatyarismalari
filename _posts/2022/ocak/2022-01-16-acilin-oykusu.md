@@ -7,7 +7,7 @@ tags: [haziran 2022, genel, hikaye yarışması]
 comments: true
 lastDate: 1654380000
 dateHuman: "5 Haziran 2022"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 comTopic: "Acil Servis"
 attendance: "E-Posta"
 organizer: "Acil Tıp Uzmanları Derneği"

@@ -8,7 +8,7 @@ lastDate: 1650146400
 dateHuman: "17 Nisan 2022"
 comTopic: "Serbest"
 attendance: "Websitesi"
-price: "45 Bin TL'dir"
+totalPrize: "45 Bin TL'dir"
 organizer: "İlkadım Belediyesi"
 requirements: "Yarışmaya 18 yaş ve üzeri herkes katılabilir"
 permalink: "cemal-safi-siir-yarismasi-2022"

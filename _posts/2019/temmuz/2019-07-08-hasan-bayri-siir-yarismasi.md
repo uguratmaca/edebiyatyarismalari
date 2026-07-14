@@ -8,7 +8,7 @@ comments: true
 lastDate: 1569531600
 dateHuman: "27 Eylül 2019"
 comTopic: "Serbest"
-price: "2 Bin 400 TL'dir"
+totalPrize: "2 Bin 400 TL'dir"
 ---
 
 Bartın Belediyesi tarafından bu sene 22.’si düzenlenecek olan Hasan Bayrı Şiir Yarışması başvuruları başladı.

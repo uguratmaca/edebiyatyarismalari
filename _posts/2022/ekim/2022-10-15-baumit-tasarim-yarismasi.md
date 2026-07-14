@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "15 Şubat 2023"
 attendance: "Websitesi"
 organizer: "Baumit Türkiye"
-price: "75 Bin TL'dir."
+totalPrize: "75 Bin TL'dir."
 requirements: "Tüm üniversitelerin lisans ve yüksek lisans öğrencileri katılabilir."
 permalink: "baumit-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/ekim/baumit-tasarim-yarismasi.jpg"

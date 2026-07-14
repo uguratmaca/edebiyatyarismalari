@@ -8,7 +8,7 @@ lastDate: 1658268000
 dateHuman: "20 Temmuz 2022"
 comTopic: "Serbest"
 attendance: "Websitesi"
-price: "11000 TL'dir"
+totalPrize: "11000 TL'dir"
 organizer: "edebiyatevi.com"
 requirements: "İsteyen herkes katılabilir"
 permalink: "edebiyat-evi-siir-yarismasi"

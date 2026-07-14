@@ -9,7 +9,7 @@ lastDate: 1623704400
 dateHuman: "15 Haziran 2021"
 comTopic: "Serbest"
 attendance: "Websitesi"
-price: "17 Bin TL'dir"
+totalPrize: "17 Bin TL'dir"
 requirements: "Faaliyet Türkiye genelini kapsamaktadır. Yarışmaya Kadın/Erkek her yaş grubundan başvuru yapılabilir"
 permalink: "mehmet-akif-ersoy-kompozisyon-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/mart/mehmet-akif-ersoy-kompozisyon-yarismasi.jpg"

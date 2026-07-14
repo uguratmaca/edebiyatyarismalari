@@ -9,7 +9,7 @@ lastDate: 1664485200
 dateHuman: "30 Eylül 2022"
 attendance: "Elden/Kargo"
 organizer: "Milliyet Gazetesi"
-price: "25 Bin TL'dir."
+totalPrize: "25 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "haldun-taner-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2022/agustos/haldun-taner-oyku-odulu.jpg"

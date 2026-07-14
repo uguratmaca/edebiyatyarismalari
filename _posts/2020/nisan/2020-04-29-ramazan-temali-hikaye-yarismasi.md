@@ -7,7 +7,7 @@ comments: true
 lastDate: 1589662800    
 dateHuman: "17 Mayıs 2020" 
 attendance: "Whatsapp, Kısa Mesaj, E-Posta"
-price: "1000 TL'dir"
+totalPrize: "1000 TL'dir"
 comTopic: "Ramazan Temalı"
 requirements: "Örgün veya açıköğretim lisans ve ön lisans düzeyinde eğitime devam eden, 1 Ocak 1993 ve sonrasında doğmuş üniversite öğrencileri"
 permalink: "ramazan-temali-kisa-hikaye-yarismasi-2020"

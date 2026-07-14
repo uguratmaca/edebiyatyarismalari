@@ -8,7 +8,7 @@ comments: true
 lastDate: 1630270800    
 dateHuman: "30 Ağustos 2021"
 comTopic: "Serbest"
-price: "3 Bin 500 TL'dir"
+totalPrize: "3 Bin 500 TL'dir"
 attendance: "E-Posta"
 requirements: "18 yaşının üzerindeki tüm yazarlara açıktır"
 permalink: "muzaffer-izgu-roman-yarismasi-2021"

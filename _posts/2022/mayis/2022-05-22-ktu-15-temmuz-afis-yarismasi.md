@@ -9,7 +9,7 @@ lastDate: 1655240400
 dateHuman: "15 Haziran 2022"
 attendance: "E-posta"
 organizer: "Karadeniz Teknik Üniversitesi"
-price: "13 Bin TL'dir."
+totalPrize: "13 Bin TL'dir."
 requirements: "Türkiye genelindeki tüm üniversitelerin Grafik, Grafik Tasarım, Görsel İletişim Tasarımı, Sanat ve Tasarım bölümlerinde öğrenim görmekte olan ön lisans, lisans ve lisansüstü öğrencileri katılabilir."
 permalink: "ktu-15-temmuz-afis-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/mayis/ktu-15-temmuz-afis-yarismasi.jpg"

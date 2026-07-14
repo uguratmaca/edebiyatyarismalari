@@ -7,7 +7,7 @@ tags: [şubat 2025, hikaye yarışması, lise, istanbul, ömer seyfettin]
 lastDate: 1739401200
 dateHuman: "13 Şubat 2025"
 attendance: "E-Posta"
-price: "14 Bin TL'dir"
+totalPrize: "14 Bin TL'dir"
 comTopic: "Yol"
 requirements: "İstanbul ili geneli bütün özel ve resmi liseler"
 permalink: "13-omer-seyfettin-oyku-yarismasi"

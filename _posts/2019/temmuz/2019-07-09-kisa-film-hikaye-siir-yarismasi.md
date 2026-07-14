@@ -8,7 +8,7 @@ comments: true
 lastDate: 1571518800
 dateHuman: "20 Ekim 2019"
 comTopic: "Barış"
-price: "45 Bin TL'dir"
+totalPrize: "45 Bin TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/benim-ulkem-turkiye-kisa-film-hikaye-siir-yarismasi.jpeg?alt=media&token=48aa602b-859b-4ddd-aaac-e22c89eb9756"
 ---
 

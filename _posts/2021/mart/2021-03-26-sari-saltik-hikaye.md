@@ -9,7 +9,7 @@ lastDate: 1627592400
 dateHuman: "30 Temmuz 2021"
 comTopic: "Sarı Saltık Gâzi’nin hayatı"
 attendance: "Posta, Kargo, Elden"
-price: "17 Bin TL'dir"
+totalPrize: "17 Bin TL'dir"
 requirements: "Yarışmaya katılım için yaş ve uyruk sınırlaması yoktur."
 permalink: "sari-saltik-gazi-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/mart/bahar-siir-yarismasi.jpg"

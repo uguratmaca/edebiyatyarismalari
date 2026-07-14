@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "23 Nisan 2022"
 comTopic: "Uluslararası Maraton İzmir’in, İzmir kent yaşamındaki yeri ve kent kültüründeki etkisi. Maraton sporu çerçevesinde oluşan rekabetçilik, dayanıklılık ve fairplay ruhu"
 attendance: "Websitesi"
-price: "12 Bin 200 TL'dir."
+totalPrize: "12 Bin 200 TL'dir."
 organizer: "İzmir Büyükşehir Belediyesi tarafından Türkiye Fotoğraf Sanatı Federasyonu(TFSF), İzmir Fotoğraf Sanatı Derneği (İFOD), Ege Fotoğraf ve Sinema Amatörleri Derneği(EFSA), UFGD (Urla Fotoğraf Gönüllüleri Derneği) desteği ile yapılacaktır."
 requirements: "Fotoğrafa ilgi duyan 18 yaş üstü amatör/profesyonel fotoğrafçılar katılabilir."
 permalink: "maraton-izmir-fotograf-yarismasi"

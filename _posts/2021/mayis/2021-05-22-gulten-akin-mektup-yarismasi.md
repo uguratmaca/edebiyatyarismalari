@@ -9,7 +9,7 @@ lastDate: 1630011600
 dateHuman: "27 Ağustos 2021"
 comTopic: "Gülten Akın'ın kuvvetli bir etik hatırlatmayı da içeren 'Yanlış mı belledim, insan sorumluluktur.' dizesinin odağında; anlamak, anlatmak, anlaşılmak isteğini içeriğinde taşıyan; dünyada, kendinden ve ötekinden sorumlu olmanın anlamını sorgulayan, cinsiyet eşitsizliğinden kaynaklanan sorunlara ilişkin olacaktır."
 attendance: "Posta, Kargo, Elden"
-price: "8 Bin TL'dir"
+totalPrize: "8 Bin TL'dir"
 requirements: "Ödül herkese açıktır; ancak Seçici Kurul üyelerinin birinci dereceden yakınları katılamaz"
 permalink: "gulten-akin-mektup-odulu"
 image: "https://edebiyatyarismalari.com/images/2021/mayis/gulten-akin-mektup-yarismasi.jpg"

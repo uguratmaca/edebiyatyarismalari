@@ -8,7 +8,7 @@ comments: true
 lastDate: 1645398000 
 dateHuman: "21 Şubat 2022"
 comTopic: "Gelecekte, yapay zeka ile insan arasındaki ayrım konusunda sizin fikirleriniz nelerdir?"
-price: "3750 TL'dir"
+totalPrize: "3750 TL'dir"
 attendance: "E-Posta"
 requirements: "Ülkemiz içinde resmi/özel lise ve dengi okullarda okuyan tüm gençler kişisel olarak, doğrudan başvuruda bulunabileceklerdir. "
 permalink: "14-attila-ilhan-kompozisyon-yarismasi"

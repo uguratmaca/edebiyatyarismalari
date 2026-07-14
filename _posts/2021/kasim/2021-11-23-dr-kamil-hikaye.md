@@ -7,7 +7,7 @@ tags: [şubat 2022, genel, hikaye yarışması]
 comments: true
 lastDate: 1644793200
 dateHuman: "14 Şubat 2022"
-price: "5 Bin TL'dir"
+totalPrize: "5 Bin TL'dir"
 comTopic: "Serbest"
 attendance: "Kargo, elden"
 requirements: "İsteyen herkes katılabilir"

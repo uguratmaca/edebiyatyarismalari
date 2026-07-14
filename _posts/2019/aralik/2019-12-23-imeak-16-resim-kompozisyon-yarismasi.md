@@ -7,7 +7,7 @@ tags: [nisan 2020, ilkokul, ortaokul, kompozisyon yarışması, resim yarışmas
 comments: true
 lastDate: 1585861200
 dateHuman: "3 Nisan 2020"
-price: "4 Bin 700 TL'dir"
+totalPrize: "4 Bin 700 TL'dir"
 comTopic: "Kompozisyon: Denizlerimizden Nasıl Yararlanabiliriz? (ortaokul) - Resim: Denizde Eğlence (ilkokul)"
 attendance: "Posta/Kargo"
 requirements: "İzmir İl Milli Eğitim Müdürlüğü’ne bağlı resmi/özel tüm ilkokullar ve ortaokullar katılabilir."

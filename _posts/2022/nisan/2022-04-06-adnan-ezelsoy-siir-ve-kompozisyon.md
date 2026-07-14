@@ -9,7 +9,7 @@ lastDate: 1652648400
 dateHuman: "16 Mayıs 2022"
 comTopic: "İnsan Yaşadığı Yere Benzer"
 attendance: "E-posta"
-price: "7 Bin TL'dir"
+totalPrize: "7 Bin TL'dir"
 organizer: "Antakya Sanat Derneği"
 requirements: "Hatay'da yaşayan herkes katılabilir. Yaş sınırı yoktur."
 permalink: "adnan-ezelsoy-siir-ve-kompozisyon"

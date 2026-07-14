@@ -6,7 +6,7 @@ date: 2025-12-21
 category: articles
 tags: [her yıl tekrarlanan hikaye, ocak 2026, hikaye yarışması, lise, ömer seyfettin, genel]
 lastDate: 1768777200
-price: "57 Bin TL'dir"
+totalPrize: "57 Bin TL'dir"
 dateHuman: "19 Ocak 2026"
 attendance: "Websitesi"
 comTopic: "Serbest"

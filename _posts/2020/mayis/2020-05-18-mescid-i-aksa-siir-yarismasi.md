@@ -7,7 +7,7 @@ comments: true
 lastDate: 1598302800    
 dateHuman: "25 Ağustos 2020"
 attendance: "Websitesi"
-price: "2250 TL'dir"
+totalPrize: "2250 TL'dir"
 comTopic: "El-Aksa’ya Terennüm"
 requirements: "14-25 yaş arası tüm gençler katılabilir."
 permalink: "mescidi-aksa-siir-yarismasi"

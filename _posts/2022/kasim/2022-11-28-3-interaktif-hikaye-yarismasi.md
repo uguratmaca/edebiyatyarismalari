@@ -11,7 +11,7 @@ attendance: "Websitesi"
 organizer: "uStory"
 sticky: true
 requirements: "İsteyen herkes katılabilir"
-price: "4 Bin TL'dir."
+totalPrize: "4 Bin TL'dir."
 permalink: "3-interaktif-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/kasim/3-interaktif-hikaye-yarismasi.jpg"
 excerpt:  "Kuruluşunun 2. yılında uStory ailesi olarak, EdebiyatYarismalari.com sponsorluğunda, Türkiye ve Azerbaycan geneli <strong>3. İnteraktif Edebiyat Yarışması</strong>'nı duyurmaktan büyük heyecan duyuyoruz. "

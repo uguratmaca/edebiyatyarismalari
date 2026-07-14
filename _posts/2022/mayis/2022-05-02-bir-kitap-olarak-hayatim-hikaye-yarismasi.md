@@ -9,7 +9,7 @@ lastDate: 1654030800
 dateHuman: "01 Haziran 2022"
 attendance: "Sosyal Medya"
 organizer: "Zeytin Ağacı, Eğitim ve Yardımlaşma Derneği (ZAYDER), Toplumsal Gelişim Hareketi (TOGEH) ve Mağusa Ravelin Lions Kulübü Derneği"
-price: "4 Bin 500 TL'dir."
+totalPrize: "4 Bin 500 TL'dir."
 permalink: "bir-kitap-olarak-hayatim-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/mayis/bir-kitap-olarak-hayatim-hikaye-yarismasi.jpg"
 excerpt:  "Zeytin Ağacı, Eğitim ve Yardımlaşma Derneği (ZAYDER), Toplumsal Gelişim Hareketi (TOGEH) ve Mağusa Ravelin Lions Kulübü Derneği <strong> 'Bir Kitap Olarak Hayatım' adlı Hikaye Yarışması </strong> düzenliyor."

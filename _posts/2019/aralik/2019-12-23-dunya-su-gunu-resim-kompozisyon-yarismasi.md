@@ -7,7 +7,7 @@ tags: [şubat 2020, ortaokul, kompozisyon yarışması, resim yarışması]
 comments: true
 lastDate: 1581454800
 dateHuman: "12 Şubat 2020"
-price: "12 Bin TL'dir"
+totalPrize: "12 Bin TL'dir"
 comTopic: "Kompozisyon: Su ve İklim Değişikliği - Resim: Su ve Atıksu"
 attendance: "Posta/Kargo"
 requirements: "Ortaokulların 7. ve 8. sınıfındaki öğrenciler bu yarışmaya katılabileceklerdir."

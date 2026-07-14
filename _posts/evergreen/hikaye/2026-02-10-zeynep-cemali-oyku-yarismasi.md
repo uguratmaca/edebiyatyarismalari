@@ -9,7 +9,7 @@ lastDate: 1778018400
 dateHuman: "6 Mayıs 2026"
 attendance: "Posta, E-Posta"
 comTopic: "Mutluluk"
-price: "Akıllı Saat + Ödüllü Öyküler Kitapçığı"
+totalPrize: "Akıllı Saat + Ödüllü Öyküler Kitapçığı"
 organizer: "Günışığı Kitaplığı"
 requirements: "Türkiye genelinde tüm 6, 7 ve 8. sınıf öğrencileri katılabilir."
 permalink: "zeynep-cemali-oyku-yarismasi"

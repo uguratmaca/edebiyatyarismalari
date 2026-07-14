@@ -9,7 +9,7 @@ lastDate: 1660856400
 dateHuman: "19 Ağustos 2022"
 comTopic: "Kuvayi Milliye / Kurtuluş"
 attendance: "E-posta"
-price: "9 Bin 500 TL'dir"
+totalPrize: "9 Bin 500 TL'dir"
 organizer: "Altıeylül Belediyesi"
 requirements: "Yarışmaya Balıkesir‘de yaşayan ve 18 yaşını doldurmuş kişiler katılabilirler."
 permalink: "kurtulus-marsi-soz-yarismasi"

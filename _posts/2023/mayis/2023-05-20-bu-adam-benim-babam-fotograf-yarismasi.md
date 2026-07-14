@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "5 Haziran 2023"
 attendance: "Websitesi"
 organizer: "Beyşehir Fotoğraf Kulübü"
-price: "6 Bin 250 TL'dir."
+totalPrize: "6 Bin 250 TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "bu-adam-benim-babam-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mayis/bu-adam-benim-babam-fotograf-yarismasi.jpg"

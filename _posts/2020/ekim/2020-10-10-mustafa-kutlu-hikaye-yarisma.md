@@ -8,7 +8,7 @@ lastDate: 1604437200
 dateHuman: "4 Kasım 2020"
 attendance: "Okul Müdürlükleri"
 comTopic: "Merhamet"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 requirements: "Yarışmaya İstanbul Milli Eğitim’e bağlı bütün resmi/özel okullarda okuyan lise öğrencileri katılabileceklerdir."
 permalink: "mustafa-kutlu-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/mustafa-kutlu-odullu-kisa-hikaye-yarismasi.jpeg"

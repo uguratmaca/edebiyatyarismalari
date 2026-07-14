@@ -7,7 +7,7 @@ comments: true
 lastDate: 1605387600  
 dateHuman: "15 Kasım 2020"
 attendance: "Posta"
-price: "13 Bin 500 TL'dir"
+totalPrize: "13 Bin 500 TL'dir"
 requirements: "Yarışmaya herkes katılabilir."
 permalink: "5-vedat-gunyol-deneme-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/temmuz/5-vedat-gunyol-deneme-yarismasi.jpg"

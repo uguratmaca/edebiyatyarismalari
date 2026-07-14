@@ -8,7 +8,7 @@ comments: true
 lastDate: 1557435600
 dateHuman: "10 Mayıs 2019"
 comTopic: "Benim İşim ..."
-price: "2250 TL'dir"
+totalPrize: "2250 TL'dir"
 ---
 
 Sevgili Üniversite Adayları;

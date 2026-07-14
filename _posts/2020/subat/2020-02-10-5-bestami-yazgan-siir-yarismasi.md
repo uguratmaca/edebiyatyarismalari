@@ -9,7 +9,7 @@ lastDate: 1584651600
 dateHuman: "20 Mart 2020"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "5 Bin TL'dir"
+totalPrize: "5 Bin TL'dir"
 requirements: "Yarışmaya Türkiye genelinde, Millî Eğitim Bakanlığına bağlı tüm resmî-özel okullarda öğrenim gören lise öğrencileri katılabilir."
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/5-bestami-yazgan-siir-yarismasi-2020.jpg?alt=media&token=31493299-b0f9-499f-b5ae-c4c6eb8f60bf"
 ---

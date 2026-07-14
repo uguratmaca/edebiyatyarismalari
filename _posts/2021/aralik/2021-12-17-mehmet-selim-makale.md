@@ -9,7 +9,7 @@ lastDate: 1645311600
 dateHuman: "20 Şubat 2022"
 comTopic: "Ceza Hukuku Bağlamında: İSLAMOFOBİ"
 attendance: "E-Posta"
-price: "135000 TL'dir"
+totalPrize: "135000 TL'dir"
 requirements: "Hukuk fakültelerinde öğrenim gören lisans, yüksek lisans ve doktora öğrencileri katılabilir"
 permalink: "3-mehmet-selim-kiraz-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/mehmet-selim-kiraz-makale-yarismasi.jpg"

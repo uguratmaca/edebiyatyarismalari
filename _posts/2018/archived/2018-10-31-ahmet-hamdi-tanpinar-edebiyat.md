@@ -7,7 +7,7 @@ tags: [masal yarışması, nisan 2019, ahmet hamdi tanpınar]
 comments: true
 lastDate: 1554411600
 dateHuman: "5 Nisan 2019"
-price: "14 Bin TL'dir."
+totalPrize: "14 Bin TL'dir."
 comTopic: "Çocuk, doğa ve hayvan"
 archived_to: "/ahmet-hamdi-tanpinar-edebiyat-yarismasi"
 ---

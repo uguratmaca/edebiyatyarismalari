@@ -11,7 +11,7 @@ hidden: true
 attendance: "E-Posta"
 organizer: "Vicdan Vakfı"
 requirements: "18 - 35 yaş aralığındaki gençler katılabilir."
-price: "50 Bin TL'dir."
+totalPrize: "50 Bin TL'dir."
 permalink: "vicdanli-genclik-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/mart/vicdanli-genclik-kisa-film-yarismasi.jpg"
 excerpt:  "Vicdan Vakfı <strong> Vicdanlı Gençlik Kısa Film Yarışması </strong> düzenliyor."

@@ -9,7 +9,7 @@ dateHuman: "21 Aralık 2023"
 attendance: "E-Posta"
 organizer: "İnsan Evreni"
 requirements: "İsteyen herkes katılabilir."
-price: "4 Bin 500 TL'dir"
+totalPrize: "4 Bin 500 TL'dir"
 sticky: true
 permalink: "insan-evreni-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/ekim/insan-evreni-hikaye-yarismasi.jpg"

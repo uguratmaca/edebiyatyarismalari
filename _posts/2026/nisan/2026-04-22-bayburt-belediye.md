@@ -6,7 +6,7 @@ author: "Ümit Atmaca"
 category: articles
 tags: [mayıs 2026, şiir yarışması, dede korkut, genel]
 lastDate: 1780174800
-price: "120 Bin TL'dir"
+totalPrize: "120 Bin TL'dir"
 dateHuman: "31 Mayıs 2026"
 attendance: "Online"
 comTopic: "Serbest"

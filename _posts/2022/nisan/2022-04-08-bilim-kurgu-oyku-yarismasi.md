@@ -9,7 +9,7 @@ lastDate: 1661893200
 dateHuman: "31 Ağustos 2022"
 comTopic: "Konu kısıtlaması olmamakla birlikte öykülerde bilimkurgusal ögeler aranacaktır."
 attendance: "Websitesi"
-price: "Hediye Çeki"
+totalPrize: "Hediye Çeki"
 organizer: "Türkiye Bilişim Dergisi"
 requirements: "TBD Yönetim Kurulu üyeleri ile TBD Bilişim Dergisi Yayın Kurulu Üyeleri dışında herkes katılabilir."
 permalink: "tbd-bilim-kurgu-oyku-yarismasi"

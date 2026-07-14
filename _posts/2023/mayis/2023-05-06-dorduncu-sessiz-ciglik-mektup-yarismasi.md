@@ -9,7 +9,7 @@ lastDate: 1685394000
 dateHuman: "30 Mayıs 2023"
 comTopic: "Ruh Sağlığı, Yaşlılar"
 attendance: "E-posta"
-price: "12 Bin TL'dir."
+totalPrize: "12 Bin TL'dir."
 organizer: "Yaşlı Hakları ve Ruh Sağlığı Derneği"
 requirements: "Sadece Kıbrıs’ta yaşayan bireyler ve yurtdışında yaşayan Kıbrıslılar katılabilir."
 permalink: "dorduncu-sessiz-ciglik-mektup-yarismasi"

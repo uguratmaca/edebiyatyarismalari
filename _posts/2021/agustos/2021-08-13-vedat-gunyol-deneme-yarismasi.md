@@ -8,7 +8,7 @@ comments: true
 lastDate: 1636844400    
 dateHuman: "14 Kasım 2021"
 comTopic: "Serbest"
-price: "13 Bin 500 TL'dir"
+totalPrize: "13 Bin 500 TL'dir"
 attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"
 permalink: "6-vedat-gunyol-deneme-yarismasi"

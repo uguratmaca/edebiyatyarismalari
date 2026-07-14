@@ -10,7 +10,7 @@ dateHuman: "22 Nisan 2022"
 comTopic: "Tütünsüz Hayat"
 attendance: "Websitesi"
 hidden: true
-price: "29 Bin TL'dir."
+totalPrize: "29 Bin TL'dir."
 organizer: "Kütahya Dumlupınar Üniversitesi Güzel Sanatlar Fakültesi Görsel İletişim Tasarımı Bölümü ve Sağlık Diplomasisi Derneği"
 requirements: "İsteyen herkes katılabilir."
 permalink: "tutunsuz-hayat-afis-yarismasi"

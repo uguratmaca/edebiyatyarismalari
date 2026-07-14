@@ -7,7 +7,7 @@ comments: true
 lastDate: 1588107600    
 dateHuman: "29 Nisan 2020" 
 attendance: "E-Posta"
-price: "2 Bin 100 TL'dir"
+totalPrize: "2 Bin 100 TL'dir"
 comTopic: "BAYRAMIMIZ 100 YAŞINDA! YAŞASIN 23 NİSAN!"
 requirements: "Yarışmaya, 8-13 yaş aralığında, Eskişehir sınırları içerisinde yaşayan her çocuk katılabilir."
 permalink: "23-nisan-kompozisyon-yarismasi-2020"

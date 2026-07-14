@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "15 Kasım 2022"
 comTopic: "Beykoz"
 attendance: "Websitesi"
-price: "292 Bin TL'dir."
+totalPrize: "292 Bin TL'dir."
 organizer: "Beykoz Belediyesi"
 requirements: "Yarışma amatör veya profesyonel, ulusal veya yerel olmak üzere 18 yaş üstü herkes katılabilir."
 permalink: "dorduncu-beykoz-fotograf-yarismasi"

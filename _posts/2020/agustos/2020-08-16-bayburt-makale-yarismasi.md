@@ -8,7 +8,7 @@ lastDate: 1598821200
 dateHuman: "31 Ağustos 2020"
 attendance: "Web sitesi"
 comTopic: "Kur’an ve Sünnet Işığında Salgın Hastalıklar ve Dünyanın Geleceği, Büyük Salgınlar Öncesi ve Sonrası Dünyada Meydana Gelen Değişiklikler, Türkiye Yarınlara Nereden, Nasıl Bakmalı?"
-price: "20 Bin TL'dir"
+totalPrize: "20 Bin TL'dir"
 requirements: "Yarışmaya 45 yaş ve altında olan herkes katılabilir."
 permalink: "bayburt-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/agustos/bayburt-makale-yarismasi.jpeg"

@@ -7,7 +7,7 @@ tags: [ağustos 2019, genel, hikaye yarışması]
 comments: true
 lastDate: 1566507600
 dateHuman: "23 Ağustos 2019"
-price: "8 Bin TL'dir."
+totalPrize: "8 Bin TL'dir."
 comTopic: "Serbest"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/nezihe-meric-oyku-odulu.jpg?alt=media&token=66d2c313-1fba-4dbd-baac-dfdbbf12448d"
 ---

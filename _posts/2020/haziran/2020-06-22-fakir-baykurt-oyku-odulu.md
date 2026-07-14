@@ -7,7 +7,7 @@ comments: true
 lastDate: 1599166800  
 dateHuman: "4 Eylül 2020"
 attendance: "Kargo ya da Elden"
-price: "8 Bin TL'dir"
+totalPrize: "8 Bin TL'dir"
 comTopic: "Serbest"
 requirements: "Yarışmaya herkes katılabilir."
 permalink: "fakir-baykurt-oyku-odulu-2020"

@@ -8,7 +8,7 @@ comments: true
 lastDate: 1637103600
 dateHuman: "17 Kasım 2021"
 comTopic: "Öğretmenler Günü"
-price: "12 Bin TL'dir"
+totalPrize: "12 Bin TL'dir"
 attendance: "Whatsapp"
 requirements: "Yarışmaya Şanlıurfa il sınırları içerisinde eğitim gören İlköğretim – Ortaöğretim ve Lise öğrencilerimiz katılabilir."
 permalink: "ogretmenler-gunu-siir-okuma-yarismasi"

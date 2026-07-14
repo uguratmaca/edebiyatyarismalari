@@ -7,7 +7,7 @@ tags: [her yıl tekrarlanan, eylül 2025, şiir yarışması, kitap dosyası, ge
 lastDate: 1756677600
 dateHuman: "1 Eylül 2025"
 attendance: "Posta, Kargo"
-price: "5 Bin TL'dir"
+totalPrize: "5 Bin TL'dir"
 comTopic: "Serbest"
 organizer: "Payda Yayınları"
 requirements: "İsteyen herkes katılabilir"

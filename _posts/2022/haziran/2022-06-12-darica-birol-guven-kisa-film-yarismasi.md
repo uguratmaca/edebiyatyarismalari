@@ -8,7 +8,7 @@ tags: [eylül 2022, kısa film yarışması, genel]
 lastDate: 1664485200
 dateHuman: "30 Eylül 2022"
 comTopic: "Hikâyen Darıca ile Buluşuyor"
-price: "37 Bin TL'dir."
+totalPrize: "37 Bin TL'dir."
 attendance: "Posta/Kargo"
 organizer: "Darıca Belediyesi"
 requirements: "15 yaş ve üzerindeki herkes başvuru yapabilir."

@@ -9,7 +9,7 @@ lastDate: 1663102800
 dateHuman: "14 Eylül 2022"
 attendance: "Websitesi"
 organizer: "Vehbi Koç Ankara Araştırmaları Uygulama ve Araştırma Merkezi (VEKAM) ve Ankara Film Festivali"
-price: "10 Bin TL'dir."
+totalPrize: "10 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "ankara-film-festivali"
 image: "https://edebiyatyarismalari.com/images/2022/agustos/ankara-film-festivali.jpg"

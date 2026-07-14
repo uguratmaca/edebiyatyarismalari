@@ -7,7 +7,7 @@ comments: true
 lastDate: 1616101200 
 dateHuman: "19 Mart 2021"
 attendance: "E-Posta"
-price: "3 Bin TL'dir"
+totalPrize: "3 Bin TL'dir"
 comTopic: "Türkiye’de Yenilenebilir Enerji Kaynakları"
 requirements: "Türkiye genelindeki resmi proje liselerinde eğitim gören Hazırlık, 9.-10.-11.-12.sınıf öğrencilerini kapsamaktadır."
 permalink: "yenilenebilir-enerji-makale-yarismasi"

@@ -7,7 +7,7 @@ tags: [eylül 2025, hikaye yarışması, genel, bilimkurgu]
 lastDate: 1757455200
 dateHuman: "10 Eylül 2025"
 attendance: "Websitesi"
-price: "50 Bin TL'dir"
+totalPrize: "50 Bin TL'dir"
 comTopic: "Serbest"
 organizer: "TBD BİLİŞİM DERGİSİ"
 requirements: "İsteyen herkes katılabilir"

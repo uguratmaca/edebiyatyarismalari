@@ -8,7 +8,7 @@ comments: true
 lastDate: 1642719600
 dateHuman: "21 Ocak 2022"
 comTopic: "Hayata Dönmek"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 attendance: "E-Posta"
 requirements: "Yurtiçi veya yurt dışı üniversitelerde ön lisans, lisans düzeyinde veya yüksek lisans ya da doktora öğrencisi katılabilir"
 permalink: "5-zeynep-basak-gulsoy-deneme-yarismasi"

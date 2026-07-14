@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "02 Aralık 2022"
 comTopic: "Objektifimden Sarıyer"
 attendance: "Websitesi"
-price: "20 Bin 500 TL'dir."
+totalPrize: "20 Bin 500 TL'dir."
 organizer: "İstanbul Sarıyer Belediyesi"
 requirements: "18 yaşını doldurmuş tüm profesyonel ve amatör fotoğrafçılar katılabilir."
 permalink: "sariyer-belediyesi-ulusal-fotograf-yarismasi"

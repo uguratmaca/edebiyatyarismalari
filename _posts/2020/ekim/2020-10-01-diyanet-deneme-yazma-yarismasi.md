@@ -8,7 +8,7 @@ lastDate: 1602795600
 dateHuman: "16 Ekim 2020"
 attendance: "E-Posta"
 comTopic: "Cami, İlim ve Gençlik"
-price: "1900 TL'dir"
+totalPrize: "1900 TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "diyanet-deneme-yazma-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/deneme-yazma-yarismasi.jpg"

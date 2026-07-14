@@ -8,7 +8,7 @@ lastDate: 1767135600
 dateHuman: "31 Aralık 2025"
 attendance: "Web sitesi"
 comTopic: "Serbest"
-price: "7 Bin TL'dir"
+totalPrize: "7 Bin TL'dir"
 organizer: "Simit Çay Edebiyat Etkinlikleri"
 requirements: "İsteyen herkes katılabilir."
 permalink: "12-simit-cay-siir-yarismasi"

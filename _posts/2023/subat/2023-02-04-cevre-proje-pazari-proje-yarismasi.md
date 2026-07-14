@@ -11,7 +11,7 @@ hidden: true
 attendance: "E-Posta"
 organizer: "Yozgat Bozok Üniversitesi"
 requirements: "Akademisyenler, AR-GE ve tasarım merkezleri, yatırımcı/girişimciler, küçük, orta ve büyük ölçekli işletmeler, fikri olan tüm araştırmacılar ile ön lisans, lisans ve lisansüstü öğrenciler katılabilir."
-price: "67 Bin 500 TL'dir"
+totalPrize: "67 Bin 500 TL'dir"
 permalink: "cevre-proje-pazari-proje-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/subat/cevre-proje-pazari-proje-yarismasi.jpg"
 excerpt:  "Yozgat Bozok Üniversitesi <strong> 1. Çevre Proje Pazarı </strong> düzenliyor."

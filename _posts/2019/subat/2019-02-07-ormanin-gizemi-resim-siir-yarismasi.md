@@ -7,7 +7,7 @@ tags: [resim yarışması, şiir yarışması]
 comments: true
 lastDate: 1551387600
 dateHuman: "1 Mart 2019"
-price: "12 Bin TL'dir."
+totalPrize: "12 Bin TL'dir."
 comTopic: "Ormanın Gizemi"
 ---
 

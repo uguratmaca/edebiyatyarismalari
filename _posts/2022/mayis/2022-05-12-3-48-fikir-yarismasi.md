@@ -9,7 +9,7 @@ lastDate: 1653166800
 dateHuman: "22 Mayıs 2022"
 attendance: "E-posta"
 organizer: "Fatih Sultan Mehmet Vakıf Üniversitesi"
-price: "13 Bin TL'dir."
+totalPrize: "13 Bin TL'dir."
 requirements: "Yükseköğretim Kurulu’na bağlı üniversitelerin Mimarlık, İç Mimarlık, Şehir ve Bölge Planlama, Kentsel Tasarım, Peyzaj Mimarlığı ve Endüstri Ürünleri Tasarımı Bölümü lisans öğrencileri katılabilir."
 permalink: "3-48-fikir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/mayis/3-48-fikir-yarismasi.jpg"

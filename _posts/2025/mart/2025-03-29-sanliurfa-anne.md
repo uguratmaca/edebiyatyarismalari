@@ -7,7 +7,7 @@ tags: [nisan 2025, hikaye yarışması, lise, şanlıurfa]
 lastDate: 1745791200
 dateHuman: "28 Nisan 2025"
 attendance: "E-Posta"
-price: "14 Bin TL'dir"
+totalPrize: "14 Bin TL'dir"
 comTopic: "Anne temasına uygun Anne konulu hikâyeler"
 organizer: "Şanlıurfa İl Milli Eğitim Müdürlüğü"
 requirements: "Şanlıurfa Geneli Liseler Arası"

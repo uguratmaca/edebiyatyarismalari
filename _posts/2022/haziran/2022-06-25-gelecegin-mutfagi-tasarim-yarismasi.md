@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "01 Temmuz 2022"
 attendance: "Websitesi"
 organizer: "SRA Stone Gallery"
-price: "70 Bin TL'dir."
+totalPrize: "70 Bin TL'dir."
 requirements: "Türkiye ve Kuzey Kıbrıs Türk Cumhuriyeti'ndeki üniversitelerin mimarlık, iç mimarlık, iç mimarlık ve çevre tasarımı ve endüstriyel tasarım lisans programlarında öğrenim gören öğrenciler katılabilir."
 permalink: "gelecegin-mutfagi-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/haziran/gelecegin-mutfagi-tasarim-yarismasi.jpg"

@@ -8,7 +8,7 @@ lastDate: 1647385200
 dateHuman: "16 Mart 2022"
 comTopic: "Fotoğraftan hareketle şiir yazmak"
 attendance: "E-Posta, Posta, Kargo"
-price: "10 Bin TL"
+totalPrize: "10 Bin TL"
 organizer: "Başakşehir Kültürevi Derneği"
 requirements: "Başakşehir’de öğrenim gören veya ikamet eden ortaokul (5, 6, 7 ve 8. sınıflar) ve ortaöğretim (9, 10, 11 ve 12. sınıflar) kurumlarında okuyan öğrenciler."
 permalink: "6-basaksehir-siir-yarismasi"

@@ -7,7 +7,7 @@ tags: [mayıs 2021, lise, mehmet akif ersoy, deneme yarışması]
 comments: true
 lastDate: 1621544400    
 dateHuman: "21 Mayıs 2021"
-price: "2 Bin 250 TL'dir"
+totalPrize: "2 Bin 250 TL'dir"
 comTopic: "İstiklâl Marşı’mızın Dilinden 21. Yüzyılda Vatan"
 attendance: "Okul Müdürlükleri"
 requirements: "Yarışmaya Türkiye genelindeki resmi Sosyal Bilimler Liselerinde eğitim gören tüm öğrenciler katılabilecektir."

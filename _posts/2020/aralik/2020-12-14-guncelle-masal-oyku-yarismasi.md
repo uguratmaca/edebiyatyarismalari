@@ -7,7 +7,7 @@ comments: true
 lastDate: 1617224400  
 dateHuman: "1 Nisan 2021"
 attendance: "E-Posta"
-price: "6000 TL'dir"
+totalPrize: "6000 TL'dir"
 comTopic: "Serbest"
 requirements: "İstanbul ilinde yerleşik tüm lise ve dengi okulların, tüm Fransız Liselerinin 2020-2021 eğitim-öğretim yılında hazırlık sınıfları, 9, 10, 11 ve 12. sınıflarda okuyan öğrencilerin katılım hakkı vardır"
 permalink: "guncelle-masal-hikaye-yarismasi-2021"

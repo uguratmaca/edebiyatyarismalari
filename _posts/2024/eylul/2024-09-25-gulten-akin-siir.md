@@ -8,7 +8,7 @@ lastDate: 1735599600
 dateHuman: "31 Aralık 2024"
 attendance: "E-Posta"
 comTopic: "Serbest"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 organizer: "Balad Şiir Vakfı, Kanguru Yayınevi"
 requirements: "Ödüle katılacak şairler, ödülün açıklandığı tarihte 35 yaşını aşmamış olmalıdır"
 permalink: "gulten-akin-siir-odulu-2024"

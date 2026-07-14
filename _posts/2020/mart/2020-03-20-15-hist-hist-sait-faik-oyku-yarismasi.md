@@ -6,7 +6,7 @@ tags: [mart 2020, lise, hikaye yarışması, sait faik abasıyanık]
 comments: true
 lastDate: 1585515600    
 dateHuman: "30 Mart 2020"
-price: "3 Bin 50 TL'dir"
+totalPrize: "3 Bin 50 TL'dir"
 attendance: "Websitesi"
 comTopic: "Serbest"
 requirements: "Türkiye genelindeki lise öğrencileri"

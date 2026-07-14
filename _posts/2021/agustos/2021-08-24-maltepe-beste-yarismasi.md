@@ -8,7 +8,7 @@ comments: true
 lastDate: 1651356000    
 dateHuman: "1 Mayıs 2022"
 comTopic: "Cumhuriyet'in 100. yılı"
-price: "32 Bin 500 TL'dir"
+totalPrize: "32 Bin 500 TL'dir"
 attendance: "Kargo, Posta"
 requirements: "İsteyen herkes katılabilir"
 permalink: "maltepe-100-yil-beste-yarismasi"

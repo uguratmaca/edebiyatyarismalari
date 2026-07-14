@@ -9,7 +9,7 @@ lastDate: 1577221200
 dateHuman: "25 Aralık 2019"
 attendance: "Web sitesi"
 comTopic: "2040 Yılında Kuantum Teknolojiler Hayatımızı Nasıl Etkileyecek?"
-price: "2 Bin 250 TL'dir"
+totalPrize: "2 Bin 250 TL'dir"
 requirements: "18- 30 yaş aralığında Teknolojik gelişmelere ve bilime ilgi duyan her Türkiye vatandaşı genç başvurabilir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kuantum-hikaye-yarismasi-qturkey.jpg?alt=media&token=1bd75432-791a-4c64-9f8a-4e264e58f41b"
 ---

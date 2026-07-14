@@ -7,7 +7,7 @@ tags: [nisan 2020, kocaeli, lise, şiir yarışması]
 comments: true
 lastDate: 1586120400    
 dateHuman: "6 Nisan 2020"
-price: "10 Bin 500 TL'dir"
+totalPrize: "10 Bin 500 TL'dir"
 comTopic: "Sevgi"
 attendance: "Okul Müdürlükleri"
 requirements: "Yarışmaya Kocaeli genelinde, Millî Eğitim Bakanlığına bağlı bütün resmî / özel okullarda öğrenim gören lise öğrencileri katılabilir."

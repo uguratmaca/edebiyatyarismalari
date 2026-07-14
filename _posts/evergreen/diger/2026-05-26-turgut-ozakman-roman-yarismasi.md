@@ -7,7 +7,7 @@ author: "Ümit Atmaca"
 category: articles
 tags: [her yıl tekrarlanan, mayıs 2026, roman yarışması, genel]
 lastDate: 1781470800
-price: "25 Bin TL'dir"
+totalPrize: "25 Bin TL'dir"
 dateHuman: "15 Haziran 2026"
 attendance: "E-Posta"
 comTopic: "Serbest"

@@ -9,7 +9,7 @@ lastDate: 1663189200
 dateHuman: "15 Eylül 2022"
 attendance: "Websitesi"
 organizer: "Sinehane ve Lacivert Dergi"
-price: "450 Bin TL'dir."
+totalPrize: "450 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "sinehane-lacivert-senaryo-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/agustos/sinehane-lacivert-senaryo-yarismasi.jpg"

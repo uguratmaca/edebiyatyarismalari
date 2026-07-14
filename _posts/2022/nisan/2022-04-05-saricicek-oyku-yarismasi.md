@@ -9,7 +9,7 @@ lastDate: 1650574800
 dateHuman: "22 Nisan 2022"
 comTopic: "Konu sınırlaması yoktur."
 attendance: "Websitesi"
-price: "30 Bin TL'dir"
+totalPrize: "30 Bin TL'dir"
 organizer: "Karaman İl Milli Eğitim Müdürlüğü, Karaman İl Kültür ve Turizm Müdürlüğü"
 requirements: "Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir."
 permalink: "saricicek-oyku-yarismasi"

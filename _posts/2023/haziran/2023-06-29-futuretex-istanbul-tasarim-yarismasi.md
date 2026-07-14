@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "20 Ağustos 2023"
 attendance: "Websitesi"
 organizer: "İstanbul Tekstil Ve Hammaddeleri İhracatçıları Birliği (İTHİB)"
-price: "510 Bin TL'dir."
+totalPrize: "510 Bin TL'dir."
 requirements: "35 yaş altındaki kişiler katılabilir."
 permalink: "futuretex-istanbul-tasarim-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/haziran/futuretex-istanbul-tasarim-yarismasi.jpg"

@@ -9,7 +9,7 @@ lastDate: 1632434400
 dateHuman: "24 Eylül 2021"
 comTopic: "Çağımızın Asım’ı Olmak"
 attendance: "Websitesi"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 requirements: "Yarışmaya ülke genelindeki ortaöğretim kurumlarında  (resmî ve özel) öğrenim gören tüm öğrenciler katılabilecektir."
 permalink: "asim-deneme-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/eylul/lise-deneme-yarismasi.jpg"

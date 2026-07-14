@@ -8,7 +8,7 @@ tags: [mayıs 2022, müzik yarışması, lise]
 lastDate: 1653080400
 dateHuman: "21 Mayıs 2022"
 attendance: "Posta/Kargo"
-price: "4 Bin 250 TL'dir."
+totalPrize: "4 Bin 250 TL'dir."
 organizer: "Türk Eğitim Vakfı Özel İnanç Türkeş Anadolu Lisesi"
 requirements: "Türkiye Ve KKTC sınırları içinde yer alan tüm lise öğrencileri katılabilir."
 permalink: "guher-ve-suher-pekinel-muzik-yarismasi"

@@ -10,7 +10,7 @@ dateHuman: "30 Nisan 2024"
 attendance: "E-Posta"
 comTopic: "Sürdürülebilir Şehir ve Yaşam Alanları"
 hidden: true
-price: "11 Bin TL'dir."
+totalPrize: "11 Bin TL'dir."
 organizer: "Yıldız Teknik Üniversitesi"
 requirements: "Yüksek Öğretim Kurumu’na bağlı, Türkiye ve KKTC’deki üniversitelerin ön-lisans ve lisans programlarına kayıtlı öğrenciler katılabilir."
 permalink: "ytu-karikatur-yarismasi-2024"

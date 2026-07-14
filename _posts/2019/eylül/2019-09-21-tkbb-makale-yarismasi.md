@@ -5,7 +5,7 @@ description: "para ödüllü makale yarışmaları 2020, güncel makale yarışm
 category: articles
 tags: [şubat 2020, makale yarışması, genel]
 comments: true
-price: "17 Bin TL'dir"
+totalPrize: "17 Bin TL'dir"
 lastDate: 1581627600
 dateHuman: "14 Şubat 2020"
 ---

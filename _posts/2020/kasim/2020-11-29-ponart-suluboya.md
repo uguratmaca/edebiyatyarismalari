@@ -8,7 +8,7 @@ lastDate: 1610658000
 dateHuman: "15 Ocak 2021"
 attendance: "Websitesi"
 comTopic: "Serbest"
-price: "5 Bin TL'dir"
+totalPrize: "5 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "ponart-suluboya-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/kasim/ponart-suluboya-resim-yarismasi.jpg"

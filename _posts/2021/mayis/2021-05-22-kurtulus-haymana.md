@@ -9,7 +9,7 @@ lastDate: 1631394000
 dateHuman: "12 Eylül 2021"
 comTopic: "Kurtuluşa Giden Yolda Son Kale: Haymana"
 attendance: "Okul Müdürlükleri"
-price: "10 Bin 750 TL'dir"
+totalPrize: "10 Bin 750 TL'dir"
 requirements: "Milli Eğitim Bakanlığına bağlı tüm resmi/özel ilkokul, ortaokul ve ortaöğretim kurumlarında okuyan 1-12.sınıf öğrencileri."
 permalink: "haymana-siir-resim-kompozisyon-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/mayis/haymana-resim-siir-kompozisyon-yarismasi.jpg"

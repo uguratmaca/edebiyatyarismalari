@@ -6,7 +6,7 @@ date: 2026-07-06
 category: articles
 tags: [her yıl tekrarlanan hikaye, temmuz 2026, hikaye yarışması, genel]
 lastDate: 1785448800
-price: "163 Bin TL'dir"
+totalPrize: "163 Bin TL'dir"
 dateHuman: "31 Temmuz 2026"
 attendance: "Websitesi"
 comTopic: "SERBEST"

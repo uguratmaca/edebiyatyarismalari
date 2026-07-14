@@ -9,7 +9,7 @@ lastDate: 1625000400
 dateHuman: "30 Haziran 2021"
 comTopic: "Ruh Sağlığı veya Yaşlılık"
 attendance: "E-Posta"
-price: "4 Bin 500 TL'dir"
+totalPrize: "4 Bin 500 TL'dir"
 requirements: "Mektup yarışmasına sadece Kuzey Kıbrıs’ta yaşayan bireyler katılabilir."
 permalink: "sessiz-ciglik-mektup-yarismasi-2021"
 excerpt: "Sessiz Çığlık Mektup Yarışması 2021 duyurulmuştur."

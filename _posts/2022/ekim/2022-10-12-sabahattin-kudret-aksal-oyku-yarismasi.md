@@ -9,7 +9,7 @@ lastDate: 1672434000
 dateHuman: "31 Aralık 2022"
 attendance: "PTT Kargo ile"
 organizer: "Sabahattin Kudret Aksal Ailesi"
-price: "15 Bin TL'dir."
+totalPrize: "15 Bin TL'dir."
 requirements: "18 yaşını bitirmiş Türkiye Cumhuriyeti vatandaşları katılabilir."
 permalink: "sabahattin-kudret-aksal-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/ekim/sabahattin-kudret-aksal-oyku-yarismasi.jpg"

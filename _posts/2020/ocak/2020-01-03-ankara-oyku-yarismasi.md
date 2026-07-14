@@ -7,7 +7,7 @@ tags: [şubat 2020, genel, hikaye yarışması]
 comments: true
 lastDate: 1581714000
 dateHuman: "15 Şubat 2020"
-price: "7 Bin TL'dir"
+totalPrize: "7 Bin TL'dir"
 comTopic: "Ankara"
 attendance: "Elden/APS/Kargo/Posta"
 requirements: "Yarışmaya, herkes katılabilir. Yaş vs. sınırlaması yoktur"

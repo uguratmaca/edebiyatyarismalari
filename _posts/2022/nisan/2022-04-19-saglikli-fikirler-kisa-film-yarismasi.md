@@ -8,7 +8,7 @@ tags: [eylül 2022, kısa film yarışması, üniversite]
 lastDate: 1663275600
 dateHuman: "16 Eylül 2022"
 attendance: "Websitesi"
-price: "104 Bin TL'dir."
+totalPrize: "104 Bin TL'dir."
 comTopic: "Gençlerin gözünden uyuşturucu madde bağımlılığı"
 organizer: "Yeşilay"
 requirements: "Türkiye genelinde örgün üniversitelerde öğrenim gören öğrenciler katılabilir."

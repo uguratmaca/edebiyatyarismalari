@@ -7,7 +7,7 @@ comments: true
 lastDate: 1598821200  
 dateHuman: "31 Ağustos 2020"
 attendance: "E-Posta"
-price: "2 Bin 250 TL'dir"
+totalPrize: "2 Bin 250 TL'dir"
 comTopic: "Hz. Peygamberi (S.A.V) Sevmek"
 requirements: "Yarışmaya Millî Eğitim Bakanlığı’na bağlı resmi ve özel tüm ortaokul öğrencileri katılabilecektir."
 permalink: "ortaokul-kompozisyon-yarismasi"

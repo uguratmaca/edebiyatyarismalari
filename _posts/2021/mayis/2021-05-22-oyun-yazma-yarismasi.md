@@ -9,7 +9,7 @@ lastDate: 1640898000
 dateHuman: "31 Aralık 2021"
 comTopic: "Cumhuriyetin 100. Yılında Kadın"
 attendance: "Posta, Kargo"
-price: "175 Bin TL'dir"
+totalPrize: "175 Bin TL'dir"
 requirements: "Yarışmaya yurt içinden ve yurt dışından T.C. vatandaşları veya Türkçe yazan yazarlar katılabilir."
 permalink: "cumhuriyet-oyun-yazma-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/mayis/oyun-yazma-yarismasi.jpeg"

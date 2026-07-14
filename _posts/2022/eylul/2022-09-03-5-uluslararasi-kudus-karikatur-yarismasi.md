@@ -9,7 +9,7 @@ lastDate: 1666904400
 dateHuman: "28 Ekim 2022"
 attendance: "E-posta/Posta/Kargo"
 comTopic: "Mirasımız Kudüs"
-price: "107 Bin 500 TL'dir."
+totalPrize: "107 Bin 500 TL'dir."
 organizer: "Mirasımız Derneği"
 requirements: "Amatör ve profesyonel herkes katılabilir."
 permalink: "5-uluslararasi-kudus-karikatur-yarismasi"

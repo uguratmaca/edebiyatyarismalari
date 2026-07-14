@@ -7,7 +7,7 @@ tags: [mart 2020, genel, şiir yarışması]
 comments: true
 lastDate: 1584651600
 dateHuman: "20 Mart 2020"
-price: "16 Bin 500 TL'dir"
+totalPrize: "16 Bin 500 TL'dir"
 comTopic: "Aşk"
 attendance: "E-Posta"
 requirements: "Yarışmaya 18 yaş ve üzeri herkes katılabilir."

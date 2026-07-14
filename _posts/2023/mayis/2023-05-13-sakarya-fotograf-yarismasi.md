@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "19 Kasım 2023"
 attendance: "Websitesi"
 organizer: "Sakarya Belediyesi"
-price: "51 Bin TL'dir."
+totalPrize: "51 Bin TL'dir."
 requirements: "Seçici kurul üyeleri ve birinci dereceden yakınları dışında amatör veya profesyonel, fotoğrafa meraklı herkes katılabilir."
 permalink: "sakarya-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mayis/sakarya-fotograf-yarismasi.jpg"

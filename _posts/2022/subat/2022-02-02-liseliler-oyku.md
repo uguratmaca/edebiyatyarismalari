@@ -8,7 +8,7 @@ lastDate: 1650578400
 dateHuman: "22 Nisan 2022"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "2 Bin TL'dir"
+totalPrize: "2 Bin TL'dir"
 organizer: "Türkler Borsa İstanbul Sosyal Bilimler Lisesi"
 requirements: "Türkiye geneli tüm lise öğrencileri"
 permalink: "2-liseler-arasi-oyku-yarismasi"

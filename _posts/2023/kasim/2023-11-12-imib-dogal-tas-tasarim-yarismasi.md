@@ -11,7 +11,7 @@ comTopic: "Dönüşümü taşla başlat! DÜŞün/TAŞın"
 attendance: "Websitesi"
 organizer: "İstanbul Maden İhracatçıları Birliği"
 hidden: true
-price: "410 Bin TL'dir."
+totalPrize: "410 Bin TL'dir."
 requirements: "Üniversitelerin Endüstriyel Tasarım; İç Mimarlık; İç Mimarlık ve Çevre Tasarımı; Kuyumculuk ve Mücevher Tasarımı; Mimarlık; Peyzaj Mimarlığı; Takı Tasarımı; Endüstri Ürünleri Tasarımı; Ürün Tasarımı; İç Mekân Tasarımı lisans veya ön lisans bölümlerinde okuyan tüm öğrenciler katılabilir."
 permalink: "imib-dogal-tas-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/kasim/imib-dogal-tas-tasarim-yarismasi.jpg"

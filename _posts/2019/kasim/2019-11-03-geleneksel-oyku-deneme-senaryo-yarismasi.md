@@ -8,7 +8,7 @@ comments: true
 lastDate: 1581714000
 dateHuman: "15 Şubat 2019"
 attendance: "E-Posta"
-price: "9 Bin 750 TL'dir"
+totalPrize: "9 Bin 750 TL'dir"
 comTopic: "Erzurum'da Yaşamak"
 requirements: "2019-2020 Eğitim öğretim yılında Atatürk Üniversitesinde önlisans, lisans, yüksek lisans ve doktora öğrenimi görmekte olan her öğrenci (örgün, uzaktan ve açık öğretim) katılabilir."
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ataturk-universitesi-oyku-deneme-senaryo-yarismasi.jpg?alt=media&token=aad8bad9-037d-436c-8d96-7a042e2dee34"

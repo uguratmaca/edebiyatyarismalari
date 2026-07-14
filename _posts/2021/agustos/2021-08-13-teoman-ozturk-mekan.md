@@ -8,7 +8,7 @@ comments: true
 lastDate: 1631829600    
 dateHuman: "17 Eylül 2021"
 comTopic: "Mimarlar Odası, TMMOB’a bağlı odaların mücadele verdiği mekânlar"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 attendance: "Web sitesi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "teoman-ozturk-oyku-yarismasi"

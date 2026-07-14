@@ -8,7 +8,7 @@ lastDate: 1773529200
 dateHuman: "15 Mart 2026"
 attendance: "E-Posta"
 comTopic: "Serbest"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 organizer: "Van Kent Tiyatrosu"
 requirements: "Yurtiçi ve yurtdışından katılıma açıktır"
 permalink: "tek-kisilik-tiyatro-oyunu-metin-yazma-yarismasi"

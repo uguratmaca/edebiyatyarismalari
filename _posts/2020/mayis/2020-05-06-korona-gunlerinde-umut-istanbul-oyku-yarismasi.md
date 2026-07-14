@@ -8,7 +8,7 @@ lastDate: 1593464400
 dateHuman: "30 Haziran 2020"
 attendance: "Posta/Kargo"
 comTopic: "Korona günlerinde umut. Salgın döneminde dayanışmayı, paylaşmayı, sevgiyi ve gelecek güzel günler umudunu sesleyen öyküler."
-price: "2 Bin TL'dir"
+totalPrize: "2 Bin TL'dir"
 requirements: "Yarışmaya 18 yaşından büyük olmak şartıyla İstanbul’da yaşayan herkes"
 permalink: "chp-korona-gunlerinde-umut-istanbul-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/mayis/korona-gunlerinde-umut-chp-istanbul-oyku-yarismasi.jpeg"

@@ -8,7 +8,7 @@ tags: [temmuz 2026, hikaye yarışması, genel]
 lastDate: 1784667600
 dateHuman: "22 Temmuz 2026"
 comTopic: "Serbest"
-price: "30 Bin TL'dir"
+totalPrize: "30 Bin TL'dir"
 attendance: "E-Posta"
 organizer: "Foça Belediyesi, Foça Akademi"
 requirements: "18 yaş üzeri yazar ve yazar adaylarına açıktır"

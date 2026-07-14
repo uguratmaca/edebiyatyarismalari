@@ -10,7 +10,7 @@ dateHuman: "14 Nisan 2023"
 attendance: "Elden/Posta/Kargo"
 organizer: "Merinos Tekstil Sanayi Müzesi"
 requirements: "İsteyen herkes katılabilir."
-price: "30 Bin TL'dir"
+totalPrize: "30 Bin TL'dir"
 hidden: true
 permalink: "ipek-igne-oya-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/mart/ipek-igne-oya-tasarim-yarismasi.jpg"

@@ -7,7 +7,7 @@ tags: [kasım 2019, genel, beste yarışması]
 comments: true
 lastDate: 1575061200
 dateHuman: "30 Kasım 2019"
-price: "50 Bin TL'dir"
+totalPrize: "50 Bin TL'dir"
 ---
 
 İlahi Aşkın Sesi Beste Yarışması

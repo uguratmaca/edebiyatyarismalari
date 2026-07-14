@@ -7,7 +7,7 @@ tags: [kasım 2021, genel, mektup yarışması, istanbul, öğretmen]
 comments: true
 lastDate: 1636930800 
 dateHuman: "15 Kasım 2021"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 comTopic: "Serbest"
 attendance: "E-Posta"
 requirements: "İstanbul Bağcılar İlçesinde görev yapan tüm öğretmenlerimizi kapsamaktadır"

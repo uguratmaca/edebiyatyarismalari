@@ -8,7 +8,7 @@ lastDate: 1650060000
 dateHuman: "16 Nisan 2022"
 comTopic: "Serbest"
 attendance: "Elden (Bilgi Evleri)"
-price: "61 bin 500 TL"
+totalPrize: "61 bin 500 TL"
 organizer: "Zeytinburnu Bilgi Evleri"
 requirements: "İstanbul Zeytinburnu Ortaokul, lise, üniversite, yetişkinler katılabilir"
 permalink: "zeytinburnu-7-hikaye-yarismasi"

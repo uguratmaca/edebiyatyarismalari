@@ -7,7 +7,7 @@ tags: [ömer seyfettin, ocak 2025, hikaye yarışması, lise]
 lastDate: 1736463600
 dateHuman: "10 Ocak 2025"
 attendance: "Websitesi"
-price: "46 Bin 500 TL'dir"
+totalPrize: "46 Bin 500 TL'dir"
 comTopic: "Serbest"
 requirements: "Hikaye dalında yarışmaya resmi/özel tüm lise kurumlarındaki öğrenciler katılabilecektir"
 permalink: "36-omer-seyfettin-hikaye-yarismasi"

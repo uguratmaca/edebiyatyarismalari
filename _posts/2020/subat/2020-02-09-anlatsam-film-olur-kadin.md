@@ -7,7 +7,7 @@ tags: [mart 2020, genel, senaryo yarışması]
 comments: true
 lastDate: 1583614800
 dateHuman: "8 Mart 2020"
-price: "D&R Hediye çekleri"
+totalPrize: "D&R Hediye çekleri"
 comTopic: "Kadın"
 attendance: "Websitesi"
 requirements: "İsteyen herkes katılabilir"

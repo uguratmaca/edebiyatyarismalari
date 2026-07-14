@@ -10,7 +10,7 @@ dateHuman: "15 Aralık 2023"
 attendance: "E-Posta"
 comTopic: "Sonsuza Kadar Cumhuriyet"
 hidden: true
-price: "88 Bin TL'dir."
+totalPrize: "88 Bin TL'dir."
 organizer: "İzmir Gazeteciler Cemiyeti ve Konak Belediyesi"
 requirements: "Amatör ya da profesyonel bütün karikatür çizerler katılabilir."
 permalink: "eflatun-nuri-karikatur-yarismasi"

@@ -8,7 +8,7 @@ lastDate: 1612126800
 dateHuman: "1 Şubat 2021"
 attendance: "E-Posta"
 comTopic: "Adalet"
-price: "65 Bin TL'dir"
+totalPrize: "65 Bin TL'dir"
 requirements: "Yarışmaya herkes başvurabilir."
 permalink: "mehmet-selim-kiraz-oyku-deneme-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/mehmet-selim-kiraz-oyku-deneme-yarismasi.jpg"

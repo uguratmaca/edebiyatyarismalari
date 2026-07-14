@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "24 Eylül 2023"
 attendance: "Websitesi"
 organizer: "Fotovizyon Fotoğraf Dergisi"
-price: "7 Bin 500 TL'dir."
+totalPrize: "7 Bin 500 TL'dir."
 requirements: "18 yaş üstü ve T.C. vatandaşı tüm fotoğrafçılar katılabilir."
 permalink: "fotovizyon-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/fotovizyon-fotograf-yarismasi.jpg"

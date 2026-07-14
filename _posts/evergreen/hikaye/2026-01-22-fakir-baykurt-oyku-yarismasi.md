@@ -8,7 +8,7 @@ tags: [her yıl tekrarlanan hikaye, hikaye yarışması, ortaokul, lise, kitap d
 lastDate: 1770332400
 dateHuman: "06 Şubat 2026"
 attendance: "Kargo, Posta"
-price: "93 Bin 500 TL'dir"
+totalPrize: "93 Bin 500 TL'dir"
 comTopic: "Serbest"
 organizer: "Sarıyer Belediyesi"
 requirements: "İsteyen herkes katılabilir"

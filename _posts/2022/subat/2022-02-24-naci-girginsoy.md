@@ -8,7 +8,7 @@ lastDate: 1648850400
 dateHuman: "2 Nisan 2022"
 comTopic: "Serbest"
 attendance: "Posta, Kargo"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 organizer: "Aydili Sanat Derneği"
 requirements: "Yarışma on sekiz (18) yaş üzeri herkese açıktır. Yurtdışından da katılım mümkündür"
 permalink: "naci-girginsoy-oyku-yarismasi"

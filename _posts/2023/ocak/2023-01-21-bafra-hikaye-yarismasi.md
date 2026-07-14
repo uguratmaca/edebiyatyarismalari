@@ -10,7 +10,7 @@ dateHuman: "16 Haziran 2023"
 attendance: "E-Posta"
 organizer: "Samsun Bafra Belediyesi"
 requirements: "Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir."
-price: "34 Bin 500 TL'dir."
+totalPrize: "34 Bin 500 TL'dir."
 permalink: "bafra-hikaye-yarismasi-2023"
 redirect_from: ["/bafra-hikaye-yarismasi"]
 image: "https://edebiyatyarismalari.com/images/2023/mayis/bafra-hikaye-yarismasi-2023.jpg"

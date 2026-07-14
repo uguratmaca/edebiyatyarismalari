@@ -8,7 +8,7 @@ comments: true
 lastDate: 1576357200
 dateHuman: "15 Aralık 2019"
 attendance: "E-Posta"
-price: "22 Bin 500 TL'dir"
+totalPrize: "22 Bin 500 TL'dir"
 requirements: "Üniversitelerin Uluslararası ilişkiler, siyaset bilimi, kamu yönetimi, hukuk, iktisat, işletme, maliye, finans, tarih, sosyoloji, halkla ilişkiler ve tanıtım veya psikoloji bölümlerinde lisans öğrencisi olmak"
 comTopic: "SAHADA VE MASADA GÜÇLÜ DİPLOMASİ: CUMHURİYETİMİZİN 100. YILINDA TÜRK DIŞ POLİTİKASI"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/di%C5%9F-i%C5%9Fleri-bakanligi-makale-yarismasi.jpg?alt=media&token=48bab8c3-eda1-47a0-9f2d-1f97808bbfb9"

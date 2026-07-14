@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "1 Ekim 2023"
 attendance: "Websitesi"
 organizer: "Erciyes Üniversitesi"
-price: "21 Bin 500 TL'dir."
+totalPrize: "21 Bin 500 TL'dir."
 requirements: "Tüm amatör ve profesyonel fotoğrafçılar katılabilir."
 permalink: "erciyes-universitesi-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/temmuz/erciyes-universitesi-fotograf-yarismasi.jpg"

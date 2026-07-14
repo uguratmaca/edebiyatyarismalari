@@ -7,7 +7,7 @@ tags: [mart 2025, şiir yarışması, lise, istanbul, behçet necatigil]
 lastDate: 1742338800
 dateHuman: "19 Mart 2025"
 attendance: "E-Posta"
-price: "14 Bin TL'dir"
+totalPrize: "14 Bin TL'dir"
 comTopic: "Her yol bir yerde biter/ Herkes bir yol, bir çarşı/ Orda alışverişler/ Ya bir boşluk ya Tanrı/ Gördüm evlere evlere. (Behçet NECATİGİL’in “DALAR” şiirinden)"
 requirements: "İstanbul ili geneli bütün özel ve resmi liseler"
 permalink: "14-behcet-necatigil-siir-yarismasi"

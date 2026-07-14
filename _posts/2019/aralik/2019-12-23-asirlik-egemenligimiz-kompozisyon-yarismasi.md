@@ -7,7 +7,7 @@ tags: [mart 2020, lise, kompozisyon yarışması]
 comments: true
 lastDate: 1584651600
 dateHuman: "20 Mart 2020"
-price: "1050 TL'dir"
+totalPrize: "1050 TL'dir"
 comTopic: "Asırlık Egemenliğimi"
 attendance: "Posta/Kargo"
 requirements: "Tüm Hazırlık-9-10-11 ve 12’nci sınıf (lise) öğrencileri katılabilir"

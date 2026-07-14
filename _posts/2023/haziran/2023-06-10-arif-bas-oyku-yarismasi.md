@@ -9,7 +9,7 @@ lastDate: 1688072400
 dateHuman: "30 Haziran 2023"
 attendance: "Posta/Kargo"
 organizer: "Bahadın Belediye Başkanlığı"
-price: "5 Bin TL'dir."
+totalPrize: "5 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "arif-bas-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/haziran/arif-bas-oyku-yarismasi.jpg"

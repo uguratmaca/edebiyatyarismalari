@@ -8,7 +8,7 @@ lastDate: 1772406000
 dateHuman: "02 Mart 2026"
 attendance: "E-Posta"
 comTopic: "Maddi ve Manevi Yönleriyle Bursa’nın Fethi"
-price: "70 Bin TL'dir"
+totalPrize: "70 Bin TL'dir"
 organizer: "Yıldırım Belediyesi"
 requirements: "Yarışmanın dili Türkçedir, yarışmaya katılım için yaş ve uyruk sınırlaması yoktur"
 permalink: "bursa-fetih-700-hikaye-yarismasi"

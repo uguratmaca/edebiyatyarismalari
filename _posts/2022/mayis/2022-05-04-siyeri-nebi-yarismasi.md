@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "03 Haziran 2022"
 attendance: "Websitesi"
 organizer: "AGD Derneği"
-price: "14 Bin 500 TL'dir."
+totalPrize: "14 Bin 500 TL'dir."
 requirements: "Sadece örgün eğitim ve açıktan eğitim gören üst yaş sınırı 19, alt yaş sınırı 9 olan (11/06/2013-11/06/2003 arası doğumlu olanlar) her sınıftaki ortaokul ve lise öğrencileri katılabilir."
 permalink: "siyeri-nebi-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/mayis/siyeri-nebi-yarismasi.jpg"

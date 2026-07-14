@@ -7,7 +7,7 @@ tags: [mayıs 2020, genel, hikaye yarışması, şiir yarışması, deneme yarı
 comments: true
 lastDate: 1589662800    
 dateHuman: "17 Mayıs 2020"
-price: "120 Bin TL'dir"
+totalPrize: "120 Bin TL'dir"
 comTopic: "Serbest"
 attendance: "E-Posta"
 requirements: "Yurtdışında en az 7 yıldır ikamet sahibi olan 15-40 yaş aralığındaki tüm vatandaşlarımız yarışmaya katılabilirler"

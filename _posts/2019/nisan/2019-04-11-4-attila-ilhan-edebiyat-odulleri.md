@@ -7,7 +7,7 @@ tags: [haziran 2019, şiir yarışması, roman yarışması, genel, attila ilhan
 comments: true
 lastDate: 1560546000
 dateHuman: "15 Haziran 2019"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/attila-ilhan-edebiyat-odulleri.jpg?alt=media&token=9d3e88f5-463c-4a40-82fd-71886c0f9eae"
 archived_to: "/attila-ilhan-edebiyat-odulleri"
 ---

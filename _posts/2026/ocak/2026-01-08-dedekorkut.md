@@ -7,7 +7,7 @@ tags: [şubat 2025, hikaye yarışması, lise, dede korkut]
 lastDate: 1770332400
 dateHuman: "6 Şubat 2025"
 attendance: "Websitesi"
-price: "120 Bin TL'dir"
+totalPrize: "120 Bin TL'dir"
 comTopic: "Köklerden Göklere Dede Korkut Hikayelerinin günümüze yansıması"
 organizer: "Dede Korkut Platformu"
 requirements: "Türkiye geneli 9, 10, 11 ve 12. sınıf öğrencileri katılabilir"

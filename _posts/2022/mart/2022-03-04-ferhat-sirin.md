@@ -8,7 +8,7 @@ lastDate: 1651701600
 dateHuman: "5 Mayıs 2022"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 organizer: "Amasya Dernekler Federasyonu"
 requirements: "18 yaşını doldurmuş bütün yetişkinler yarışmaya katılabilir."
 permalink: "ferhat-ve-sirin-oyku-yarismasi"

@@ -11,7 +11,7 @@ comTopic: "Fikirleriniz ile çelişen bir gerçek, sizin için ne kadar önemlid
 attendance: "E-Posta"
 organizer: "Attilâ İlhan Bilim Sanat Kültür Vakfı"
 requirements: "Türkiye geneli resmi/özel lise ve dengi okul öğrencileri katılabilir."
-price: "3 Bin 750 TL'dir."
+totalPrize: "3 Bin 750 TL'dir."
 permalink: "attila-ilhan-kompozisyon-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/ocak/attila-ilhan-kompozisyon-yarismasi.jpg"
 excerpt:  "Attilâ İlhan Bilim Sanat Kültür Vakfı <strong> Attila İlhan Liseli Gençler Kompozisyon Yarışması </strong> düzenliyor."

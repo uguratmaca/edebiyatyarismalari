@@ -7,7 +7,7 @@ tags: [şubat 2020, genel, şiir yarışması]
 comments: true
 lastDate: 1580763600
 dateHuman: "4 Şubat 2020"
-price: "14 Bin TL'dir"
+totalPrize: "14 Bin TL'dir"
 comTopic: "Kahramanmaraş’ın düşman işgaline karşı verdiği kurtuluş mücadelesinin anlam ve önemi"
 attendance: "E-Posta"
 requirements: "Ülke genelinde 18 yaşından büyük bireyler yarışmaya katılabilecektir."

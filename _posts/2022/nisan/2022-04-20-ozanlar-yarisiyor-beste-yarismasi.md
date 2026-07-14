@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "29 Nisan 2022"
 comTopic: "'Ozanlar Yarışıyor Türk Halk Müziği' beste yarışması"
 attendance: "Telegram"
-price: "37 Bin 500 TL'dir."
+totalPrize: "37 Bin 500 TL'dir."
 organizer: "Kırşehir Belediyesi ve Ahi Evran Üniversitesi"
 requirements: "Yarışmaya T.C. ve K.K.T.C. Vatandaşı olan bütün besteciler katılabilir."
 permalink: "ozanlar-yarisiyor-beste-yarismasi"

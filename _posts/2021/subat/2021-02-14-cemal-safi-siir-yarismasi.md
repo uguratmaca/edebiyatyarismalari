@@ -8,7 +8,7 @@ lastDate: 1617915600
 dateHuman: "9 Nisan 2021"
 attendance: "E-Posta"
 comTopic: "Aşk"
-price: "19 Bin 500 TL'dir"
+totalPrize: "19 Bin 500 TL'dir"
 requirements: "Yarışmaya 18 yaş ve üzeri herkes katılabilir."
 permalink: "cemal-safi-siir-yarismasi-2021"
 archived_to: "/cemal-safi-siir-yarismasi"

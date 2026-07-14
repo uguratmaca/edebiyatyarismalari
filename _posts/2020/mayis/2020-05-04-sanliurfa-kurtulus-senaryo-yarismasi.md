@@ -7,7 +7,7 @@ comments: true
 lastDate: 1598562000    
 dateHuman: "28 Ağustos 2020"
 attendance: "Websitesi"
-price: "25 Bin TL'dir"
+totalPrize: "25 Bin TL'dir"
 comTopic: "Urfa'nın Kurtuluşu"
 requirements: "Yarışmaya T.C. vatandaşı olan Senaryo yazmaya ilgi duyan tüm sanatseverler katılabilir."
 permalink: "1-ulusal-urfa-kurtulusu-senaryo-yarismasi"

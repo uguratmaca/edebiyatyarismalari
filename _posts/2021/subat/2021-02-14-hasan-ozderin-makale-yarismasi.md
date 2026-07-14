@@ -7,7 +7,7 @@ comments: true
 lastDate: 1630443600 
 dateHuman: "1 Eylül 2021"
 attendance: "Elden, Kargo"
-price: "10 Bin TL'dir"
+totalPrize: "10 Bin TL'dir"
 comTopic: "Nefret Suçları"
 requirements: "Tüm üniversitesi öğrencileri katılabilir"
 permalink: "10-hasan-ozderin-makale-yarismasi"

@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "01 Haziran 2022"
 comTopic: "Dumlupınar (Başkomutanlık) Meydan Muharebesi Zaferinin 100. yılı"
 attendance: "Kargo/Posta/Elden"
-price: "6 Bin 500 TL'dir."
+totalPrize: "6 Bin 500 TL'dir."
 organizer: "Kütahya İl Milli Eğitim Müdürlüğü ve Kütahya Ahmet Yakupoğlu Güzel Sanatlar Lisesi"
 requirements: "Yarışmaya Türkiye genelinde örgün öğrenim gören resmi ve özel lise öğrencileri katılabilir."
 permalink: "buyuk-zaferin-yuzuncu-yili-resim-yarismasi"

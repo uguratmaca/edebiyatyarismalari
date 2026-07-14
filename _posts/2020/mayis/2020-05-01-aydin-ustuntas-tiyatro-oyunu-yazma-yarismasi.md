@@ -6,7 +6,7 @@ tags: [ekim 2020, genel, tiyatro oyunu yazma yarışması]
 comments: true
 lastDate: 1603054800    
 dateHuman: "19 Ekim 2020"
-price: "3 Bin TL'dir"
+totalPrize: "3 Bin TL'dir"
 attendance: "Kargo-Posta"
 comTopic: "Geleneksel Anadolu Tiyatrosu’ndan beslenen, kalıplarını, biçem özelliklerini taşıyan ve gelenekseli günümüze getiren yeni yazılmış oyunlar."
 requirements: "Yarışmaya, herkes katılabilir."

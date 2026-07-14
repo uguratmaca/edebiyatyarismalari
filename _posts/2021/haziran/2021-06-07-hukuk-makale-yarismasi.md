@@ -9,7 +9,7 @@ lastDate: 1628974800
 dateHuman: "15 Ağustos 2021"
 comTopic: "COVID-19 sürecinde alınan önlemlerin uluslararası ve iç hukuk kapsamında değerlendirilmesi"
 attendance: "E-Posta"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "maltepe-hukuk-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/hukuk-makale-yarismasi.jpg"

@@ -7,7 +7,7 @@ author: "Ümit Atmaca"
 category: articles
 tags: [her yıl tekrarlanan hikaye, temmuz 2026, hikaye yarışması, polisiye, genel]
 lastDate: 1784840400
-price: "Zehirli Kalem Ödülü"
+totalPrize: "Zehirli Kalem Ödülü"
 dateHuman: "24 Temmuz 2026"
 attendance: "E-Posta"
 comTopic: "Polisiye"

@@ -8,7 +8,7 @@ comments: true
 lastDate: 1635544800 
 dateHuman: "30 Ekim 2021"
 comTopic: "Kadın"
-price: "7 Bin TL'dir"
+totalPrize: "7 Bin TL'dir"
 attendance: "E-Posta"
 requirements: "18 yaşını doldurmuş kadın erkek her yetişkin yarışmaya katılabilir."
 permalink: "efeler-kadin-oyku-yarismasi"

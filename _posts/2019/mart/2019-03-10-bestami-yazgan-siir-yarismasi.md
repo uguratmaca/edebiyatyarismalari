@@ -6,7 +6,7 @@ category: articles
 tags: [nisan 2019, şiir yarışması, lise]
 comments: true
 lastDate: 1554411600
-price: "5 Bin TL'dir."
+totalPrize: "5 Bin TL'dir."
 dateHuman: "5 Nisan 2019"
 comTopic: "Serbest"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/bestami-yazgan.jpg?alt=media&token=4b80e5b1-cc1c-4347-8029-dbf3872f1270"

@@ -9,7 +9,7 @@ lastDate: 1672347600
 dateHuman: "30 Aralık 2022"
 attendance: "Websitesi"
 organizer: "Akbank Sanat"
-price: "5.000 USD + 50 Bin TL'dir."
+totalPrize: "5.000 USD + 50 Bin TL'dir."
 hidden: true
 requirements: "TC uyruklu herkes katılabilir."
 permalink: "akbank-kisa-film-festivali"

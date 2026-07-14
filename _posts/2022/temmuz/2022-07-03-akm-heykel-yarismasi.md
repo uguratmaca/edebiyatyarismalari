@@ -9,7 +9,7 @@ lastDate: 1658696400
 dateHuman: "25 Temmuz 2022"
 attendance: "Websitesi"
 organizer: "İstanbul Atatürk Kültür Merkezi"
-price: "480 Bin TL'dir."
+totalPrize: "480 Bin TL'dir."
 requirements: "18 yaş üstü herkes katılabilir."
 permalink: "akm-heykel-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/temmuz/akm-heykel-yarismasi.jpg"

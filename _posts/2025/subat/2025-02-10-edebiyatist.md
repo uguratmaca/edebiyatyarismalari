@@ -6,7 +6,7 @@ category: articles
 tags: [temmuz 2025, hikaye yarışması, genel]
 lastDate: 1753912800
 dateHuman: "31 Temmuz 2025"
-price: "55 Bin TL'dir"
+totalPrize: "55 Bin TL'dir"
 attendance: "Posta, Kargo, Elden"
 comTopic: "Serbest"
 organizer: "Edebiyatist Dergi"

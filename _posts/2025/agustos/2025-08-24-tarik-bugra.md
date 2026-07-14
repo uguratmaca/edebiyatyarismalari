@@ -7,7 +7,7 @@ tags: [kasım 2025, hikaye yarışması, tarık buğra, genel]
 lastDate: 1763679600
 dateHuman: "21 Kasım 2025"
 attendance: "Posta, Kargo, Elden"
-price: "60 Bin TL'dir"
+totalPrize: "60 Bin TL'dir"
 comTopic: "Serbest"
 organizer: "Akşehir Belediyesi"
 requirements: "Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir"

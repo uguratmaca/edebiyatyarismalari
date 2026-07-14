@@ -7,7 +7,7 @@ comments: true
 lastDate: 1604005200
 dateHuman: "30 Ekim 2020"
 attendance: "Websitesi"
-price: "80 Bin TL'dir"
+totalPrize: "80 Bin TL'dir"
 comTopic: "Direnç"
 requirements: "İsteyen herkes katılabilir"
 permalink: "uluslararasi-siir-edebiyat-resim-yarismasi"

@@ -12,7 +12,7 @@ comTopic: "Kişisel gözlem ve deneyimleriniz ışığında, lise öğreniminin 
 attendance: "E-Posta"
 organizer: "Attilâ İlhan Bilim Sanat Kültür Vakfı"
 requirements: "Resmi / özel lise ve dengi okullarda okuyan tüm gençler katılabilir."
-price: "12 Bin TL'dir"
+totalPrize: "12 Bin TL'dir"
 permalink: "attila-ilhan-kompozisyon-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/kasim/attila-ilhan-kompozisyon-yarismasi-2024.jpg"
 excerpt: "Attilâ İlhan Bilim Sanat Kültür Vakfı'nın Türkiye genelindeki lise öğrencilerine yönelik düzenlediği Attila İlhan Liseli Gençler Kompozisyon Yarışması'na başvurular her yıl şubat ayında sona eriyor."

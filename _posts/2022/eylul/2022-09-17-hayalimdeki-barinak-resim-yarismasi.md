@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "29 Eylül 2022"
 attendance: "Elden/Kargo"
 organizer: "Tepebaşı Belediyesi"
-price: "4 Bin 500 TL Media Markt Hediye Çeki'dir."
+totalPrize: "4 Bin 500 TL Media Markt Hediye Çeki'dir."
 requirements: "İlkokul 3. ve 4. sınıf öğrencileri katılabilir."
 permalink: "hayalimdeki-barinak-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/hayalimdeki-barinak-resim-yarismasi.jpg"

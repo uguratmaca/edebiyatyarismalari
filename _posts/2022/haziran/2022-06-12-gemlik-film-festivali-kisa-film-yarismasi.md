@@ -7,7 +7,7 @@ category: articles
 tags: [temmuz 2022, kısa film yarışması, genel]
 lastDate: 1656622800
 dateHuman: "01 Temmuz 2022"
-price: "50 Bin TL'dir."
+totalPrize: "50 Bin TL'dir."
 attendance: "Websitesi"
 organizer: "Gemlik Belediyesi"
 requirements: "Yarışmaya sadece Türkiye’den kısa filmler başvurabilir."

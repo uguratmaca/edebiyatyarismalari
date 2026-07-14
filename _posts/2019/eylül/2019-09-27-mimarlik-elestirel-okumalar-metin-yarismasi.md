@@ -5,7 +5,7 @@ description: "mimarlıkta eleştirel okumalar metin yarışması, para ödüllü
 category: articles
 tags: [ekim 2019, üniversite]
 comments: true
-price: "7 Bin 500 TL'dir"
+totalPrize: "7 Bin 500 TL'dir"
 lastDate: 1571605200
 dateHuman: "21 Ekim 2019"
 comTopic: "Yeni Üzerine Spekülasyonlar"

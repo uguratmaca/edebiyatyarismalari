@@ -7,7 +7,7 @@ tags: [ömer seyfettin, ocak 2026, hikaye yarışması, lise]
 lastDate: 1768777200
 dateHuman: "19 Ocak 2026"
 attendance: "Websitesi"
-price: "57 Bin TL'dir"
+totalPrize: "57 Bin TL'dir"
 comTopic: "Serbest"
 requirements: "Hikaye dalında yarışmaya resmi/özel tüm lise kurumlarındaki öğrenciler katılabilecektir"
 permalink: "37-omer-seyfettin-hikaye-yarismasi"

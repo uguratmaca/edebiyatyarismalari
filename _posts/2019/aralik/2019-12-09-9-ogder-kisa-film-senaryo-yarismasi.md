@@ -8,7 +8,7 @@ comments: true
 lastDate: 1589576400
 dateHuman: "16 Mayıs 2020"
 attendance: "Elden/Kurye/Posta"
-price: "12 Bin TL'dir"
+totalPrize: "12 Bin TL'dir"
 comTopic: "Irkçılık, ötekileştirme ve ayrımcılık gibi konularla ilgili kısa film senaryoları drama tarzında yazılabilir. "
 requirements: "Her yaştan yarışmacı başvurabilir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/9-k%C4%B1sa-film-senaryo-yarismasi.jpg?alt=media&token=3dbeb206-dfc2-4c94-a8cf-3f6cd4960208"

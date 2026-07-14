@@ -7,7 +7,7 @@ tags: [aralık 2022, roman yarışması, gülten dayıoğlu, genel, kitap dosyas
 comments: true
 lastDate: 1672441200
 dateHuman: "31 Aralık 2022"
-price: "10000 TL'dir"
+totalPrize: "10000 TL'dir"
 comTopic: "Serbest"
 attendance: "Posta"
 organizer: "Gülten Dayıoğlu Çocuk ve Gençlik Edebiyat Vakfı"

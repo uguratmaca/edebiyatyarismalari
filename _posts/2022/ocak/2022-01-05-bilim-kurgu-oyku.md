@@ -9,7 +9,7 @@ lastDate: 1646089200
 dateHuman: "1 Mart 2022"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "9 Bin TL'dir"
+totalPrize: "9 Bin TL'dir"
 organizer: "Demirtaş Anadolu İmam Hatip Lisesi"
 requirements: "Lise öğrencileri katılabilir"
 permalink: "bilim-kurgu-oyku-yarismasi"

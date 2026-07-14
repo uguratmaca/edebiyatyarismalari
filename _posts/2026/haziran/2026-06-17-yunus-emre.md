@@ -6,7 +6,7 @@ author: "Ümit Atmaca"
 category: articles
 tags: [yunus emre, temmuz 2026, şiir yarışması, hikaye yarışması, deneme yarışması, genel]
 lastDate: 1785013200
-price: "Çeşitli hediyeler"
+totalPrize: "Çeşitli hediyeler"
 dateHuman: "26 Temmuz 2026"
 attendance: "E-Posta"
 comTopic: "Neşe"

@@ -8,7 +8,7 @@ lastDate: 1756677600
 dateHuman: "1 Eylül 2025"
 attendance: "Posta, Kargo"
 comTopic: "Serbest"
-price: "30 Bin TL"
+totalPrize: "30 Bin TL"
 organizer: "Manisa Büyükşehir Belediyesi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "yusuf-atilgan-roman-odulu"

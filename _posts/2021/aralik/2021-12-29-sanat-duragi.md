@@ -7,7 +7,7 @@ tags: [ocak 2022, hikaye yarışması, genel]
 comments: true
 lastDate: 1643324400
 dateHuman: "28 Ocak 2022"
-price: "9 Bin 500 TL'dir"
+totalPrize: "9 Bin 500 TL'dir"
 comTopic: "Sanatın İyileştirici Yönü, Dayanışma, Benim İzmir’im, Serbest"
 attendance: "E-Posta"
 requirements: "Yarışmaya Türkiye veya yurtdışında yaşayan, Türkçe eser veren ve 18 yaşından gün almış herkes katılabilir."

@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "22 Ağustos 2022"
 attendance: "Websitesi"
 organizer: " Ege Maden İhracatçıları Birliği (EMİB)"
-price: "195 Bin TL'dir."
+totalPrize: "195 Bin TL'dir."
 requirements: "18 yaş üstü herkes katılabilir."
 permalink: "dogal-tas-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/temmuz/dogal-tas-tasarim-yarismasi.jpg"

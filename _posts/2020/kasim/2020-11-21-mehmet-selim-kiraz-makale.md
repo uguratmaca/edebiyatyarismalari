@@ -8,7 +8,7 @@ lastDate: 1613768400
 dateHuman: "20 Şubat 2021"
 attendance: "Posta-Kargo"
 comTopic: "Yapay Zekanın Cezai Sorumluluğu"
-price: "32 Bin 500 TL'dir"
+totalPrize: "32 Bin 500 TL'dir"
 requirements: "Yarışma hukuk fakültesi lisans öğrencilerine yöneliktir."
 permalink: "mehmet-selim-kiraz-2-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/kasim/hukuki-makale-yarismasi.jpg"

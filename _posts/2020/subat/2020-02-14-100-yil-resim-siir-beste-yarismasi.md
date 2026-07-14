@@ -7,7 +7,7 @@ tags: [şubat 2020, ilkokul, ortaokul, genel, şiir yarışması, resim yarışm
 comments: true
 lastDate: 1583442000    
 dateHuman: "6 Mart 2020"
-price: "235 Bin TL'dir"
+totalPrize: "235 Bin TL'dir"
 comTopic: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, Mustafa Kemal Atatürk, Cumhuriyet, demokrasi ve TBMM'nin açılmasının 100. Yıldönümü ve benzeri konular."
 attendance: "Elden/Kargo"
 requirements: "Yarışmaya 01/01/2005 ile 31/12/2014 tarihleri arası doğmuş olan; ilkokul veya ortaokul öğrencisi T.C vatandaşları katılabilir."

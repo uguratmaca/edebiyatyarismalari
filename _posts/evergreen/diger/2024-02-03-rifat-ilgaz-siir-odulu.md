@@ -7,7 +7,7 @@ author: "Yasemin Eyüpoğlu"
 category: articles
 tags: [her yıl tekrarlanan, rıfat ılgaz, şiir yarışması, genel]
 lastDate: 1713128400
-price: "5 Bin TL'dir."
+totalPrize: "5 Bin TL'dir."
 dateHuman: "15 Nisan 2024"
 attendance: "Elden/Kargo/Posta"
 comTopic: "Serbest"

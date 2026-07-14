@@ -7,7 +7,7 @@ tags: [haziran 2025, şiir yarışması, genel]
 lastDate: 1750370400
 dateHuman: "20 Haziran 2025"
 attendance: "E-Posta"
-price: "22 Bin 500 TL'dir"
+totalPrize: "22 Bin 500 TL'dir"
 comTopic: "Gurbet, Gurbetçiler"
 organizer: "Kılbasan Yardımlaşma Derneği"
 requirements: "Yarışmaya yurtiçi ve yurtdışı genelinden Türkçe eserleri ile 18 yaşını doldurmuş herkes katılabilir."

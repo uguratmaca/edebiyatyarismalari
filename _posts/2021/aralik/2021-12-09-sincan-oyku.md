@@ -7,7 +7,7 @@ tags: [şubat 2022, sincan, ortaokul, lise, üniversite, genel, hikaye yarışma
 comments: true
 lastDate: 1645743600
 dateHuman: "25 Şubat 2022"
-price: "14 Bin TL'dir"
+totalPrize: "14 Bin TL'dir"
 comTopic: "Serbest"
 attendance: "Elden"
 requirements: "Sincan ilçesi sınırları içinde ikamet eden, okuyan veya çalışan; ortaokul 6. sınıftan itibaren bütün öğrenciler ve yetişkinler katılabilir."

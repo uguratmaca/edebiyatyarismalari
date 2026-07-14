@@ -6,7 +6,7 @@ author: "Ümit Atmaca"
 category: articles
 tags: [haziran 2026, şiir yarışması, genel]
 lastDate: 1782766800
-price: "25 Bin TL'dir"
+totalPrize: "25 Bin TL'dir"
 dateHuman: "30 Haziran 2026"
 attendance: "E-Posta"
 comTopic: "Serbest"

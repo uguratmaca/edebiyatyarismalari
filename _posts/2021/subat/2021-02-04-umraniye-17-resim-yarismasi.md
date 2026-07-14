@@ -8,7 +8,7 @@ lastDate: 1624568400
 dateHuman: "25 Haziran 2021"
 attendance: "Kargo, Elden"
 comTopic: "Kahraman Sağlık Çalışanları"
-price: "40 Bin TL'dir"
+totalPrize: "40 Bin TL'dir"
 requirements: "Yarışma herkese açıktır."
 permalink: "umraniye-belediyesi-17-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/subat/umraniye-belediyesi-17-resim-yarismasi.jpg"

@@ -11,7 +11,7 @@ attendance: "Websitesi"
 hidden: true
 organizer: "Bursa Büyükşehir Belediyesi"
 requirements: "İsteyen herkes katılabilir."
-price: "270 Bin TL'dir"
+totalPrize: "270 Bin TL'dir"
 permalink: "erdinc-celikkol-beste-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/ekim/erdinc-celikkol-beste-yarismasi.jpg"
 excerpt:  "Bursa Büyükşehir Belediyesi <strong> 3. Erdinç Çelikkol Beste Yarışması </strong> düzenliyor."

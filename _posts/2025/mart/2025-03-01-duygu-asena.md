@@ -5,7 +5,7 @@ description: "Doğan Kitap Duygu Asena Roman Ödülü başvuruları başladı"
 category: articles
 tags: [nisan 2025, roman yarışması, genel, duygu asena]
 lastDate: 1744322400
-price: "30 Bin TL'dir"
+totalPrize: "30 Bin TL'dir"
 dateHuman: "11 Nisan 2025"
 attendance: "Posta, Kargo"
 comTopic: "Türkiye’de kadının yerini sorgulayan, hayata kadınların penceresinden bakan, yaşanan zorluklar"

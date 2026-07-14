@@ -7,7 +7,7 @@ comments: true
 lastDate: 1612126800  
 dateHuman: "1 Şubat 2021"
 attendance: "E-Posta"
-price: "3 Bin TL'dir"
+totalPrize: "3 Bin TL'dir"
 comTopic: "Pandemi sürecinin kadınların yaşamı üzerindeki etkisi."
 requirements: "18 yaş üstü bireyler"
 permalink: "pandemide-kadin-olmak-oyku-yarismasi"

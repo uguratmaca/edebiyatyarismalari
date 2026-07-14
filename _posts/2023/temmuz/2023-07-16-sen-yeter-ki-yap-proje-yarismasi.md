@@ -10,7 +10,7 @@ dateHuman: "30 Kasım 2023"
 hidden: true
 attendance: "Websitesi"
 organizer: "Tümosan Motor ve Traktör A.Ş."
-price: "210 Bin TL'dir."
+totalPrize: "210 Bin TL'dir."
 requirements: "Türkiye Cumhuriyeti vatandaşları katılabilir."
 permalink: "sen-yeter-ki-yap-proje-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/temmuz/sen-yeter-ki-yap-proje-yarismasi.jpg"

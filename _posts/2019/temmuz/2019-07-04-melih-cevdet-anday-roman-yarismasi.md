@@ -7,7 +7,7 @@ tags: [temmuz 2019, genel, roman yarışması]
 comments: true
 lastDate: 1564520400
 dateHuman: "31 Temmuz 2019"
-price: "3 Bin TL'dir"
+totalPrize: "3 Bin TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/melih-cevdet-anday-roman-yarismasi.jpg?alt=media&token=a3f96559-272c-4e53-be5d-52b553e0531e"
 ---
 

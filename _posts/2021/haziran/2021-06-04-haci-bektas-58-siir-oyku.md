@@ -9,7 +9,7 @@ lastDate: 1624568400
 dateHuman: "25 Haziran 2021"
 comTopic: "Dünya Hacı Bektaş Veli’nin Hoşgörüsü, Ahi Evran’ın Cömertliği ve Yunus Emre’nin Sevgisiyle Barışa Kavuşsun"
 attendance: "Posta, Kargo"
-price: "4 Bin 500 TL'dir"
+totalPrize: "4 Bin 500 TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "haci-bektas-veli-kisa-oyku-siir-yarismasi-2021"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/58-haci-bektas-siir-oyku-yarismasi.jpg"

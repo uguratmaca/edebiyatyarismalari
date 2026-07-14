@@ -7,7 +7,7 @@ tags: [mart 2019, şiir yarışması]
 comments: true
 lastDate: 1551992400
 dateHuman: "8 Mart 2019"
-price: "7 Bin 250 TL'dir"
+totalPrize: "7 Bin 250 TL'dir"
 comTopic: "Vatan, Ahlaki Değerler, Doğa, Sevgi, Saygı"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kadim.jpg?alt=media&token=547d7e8c-cb86-49a6-89c1-ab38e417679c"
 ---

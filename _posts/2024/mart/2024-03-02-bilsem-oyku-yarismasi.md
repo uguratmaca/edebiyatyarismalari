@@ -11,7 +11,7 @@ comTopic: "Kültürel Mirasımız Efsaneler, Çocukların Bakış Açısıyla Ye
 attendance: "E-Posta"
 organizer: "Rize Fatma- Nuri Erkan Bilim ve Sanat Merkezi"
 requirements: "Bilim ve Sanat Merkezlerine kayıtlı BYF ve ÖYG (5-6-7-8. Sınıf) öğrencileri katılabilir."
-price: "30 Bin TL'dir."
+totalPrize: "30 Bin TL'dir."
 permalink: "bilsem-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/mart/bilsem-oyku-yarismasi.jpg"
 excerpt:  "Rize Fatma- Nuri Erkan Bilim ve Sanat Merkezi <strong> Efsaneden Fantastik Kurguya Öykü Yarışması </strong> düzenliyor."

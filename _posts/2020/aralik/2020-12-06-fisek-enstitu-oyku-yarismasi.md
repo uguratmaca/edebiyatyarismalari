@@ -7,7 +7,7 @@ comments: true
 lastDate: 1614200400  
 dateHuman: "25 Şubat 2021"
 attendance: "E-Posta"
-price: "4 Bin 500 TL'dir"
+totalPrize: "4 Bin 500 TL'dir"
 comTopic: "Çocuk işçiliğine hayır"
 requirements: "Yarışma herkesin katılımına açıktır."
 permalink: "fisek-enstitusu-oyku-yarismasi"

@@ -7,7 +7,7 @@ tags: [ekim 2019, genel, hikaye yarışması]
 comments: true
 lastDate: 1570741200
 dateHuman: "11 Ekim 2019"
-price: "2600 TL'dir"
+totalPrize: "2600 TL'dir"
 comTopic: "Kadın"
 ---
 

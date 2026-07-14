@@ -9,7 +9,7 @@ lastDate: 1641510000
 dateHuman: "7 Ocak 2022"
 comTopic: "Serbest"
 attendance: "Posta"
-price: "5 Bin TL'dir"
+totalPrize: "5 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "2-oktay-akbal-edebiyat-odulu"
 image: "https://edebiyatyarismalari.com/images/2021/ekim/oktay-akbal-roman-yarismasi.jpeg"

@@ -8,7 +8,7 @@ tags: [mayıs 2022, kısa film yarışması, lise]
 lastDate: 1652562000
 dateHuman: "15 Mayıs 2022"
 comTopic: "Konu kısıtlaması bulunmamaktadır."
-price: "7 Bin TL'dir."
+totalPrize: "7 Bin TL'dir."
 attendance: "E-posta"
 organizer: "İstanbul Erkek Lisesi"
 requirements: "Sadece lise öğrencileri katılabilir."

@@ -8,7 +8,7 @@ lastDate: 1609102800
 dateHuman: "28 Aralık 2020"
 attendance: "Elden-Kargo-Posta"
 comTopic: "Serbest"
-price: "16 Bin 500 TL'dir"
+totalPrize: "16 Bin 500 TL'dir"
 requirements: "Yarışma her yaştan, amatör ve profesyonel şairlere açıktır."
 permalink: "neyzen-tevfik-siir-yarisma"
 image: "https://edebiyatyarismalari.com/images/2020/agustos/neyzen-tefik-hiciv-siir-yarismasi.jpg"

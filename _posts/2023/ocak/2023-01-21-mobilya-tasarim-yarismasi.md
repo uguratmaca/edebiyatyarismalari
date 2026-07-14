@@ -11,7 +11,7 @@ attendance: "E-Posta"
 hidden: true
 organizer: "Mimar Sinan Güzel Sanatlar Üniversitesi Mimarlık Fakültesi ve ASTORAL"
 requirements: "Yarışma öğrenci ve profesyonel olarak iki kategoride düzenlemektedir."
-price: "88 Bin TL'dir"
+totalPrize: "88 Bin TL'dir"
 permalink: "mobilya-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/ocak/mobilya-tasarim-yarismasi.jpg"
 excerpt:  "Mimar Sinan Güzel Sanatlar Üniversitesi Mimarlık Fakültesi ve ASTORAL <strong> 2023 Mobilya Tasarım Yarışması </strong> düzenliyor."

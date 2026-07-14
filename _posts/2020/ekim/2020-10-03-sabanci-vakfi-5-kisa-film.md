@@ -8,7 +8,7 @@ lastDate: 1605819600
 dateHuman: "20 Kasım 2020"
 attendance: "Websitesi"
 comTopic: "Değişen İklimler, Değişen Hayatlar"
-price: "45 Bin TL'dir"
+totalPrize: "45 Bin TL'dir"
 requirements: "Yarışma’ya başvuran eserlerin yönetmen (Eser Sahibi) ve / veya yapımcısından en az birisinin T.C. veya K.K.T.C. vatandaşı olması gerekmektedir"
 permalink: "sabanci-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/sabanci-vakfi-kisa-film-yarismasi.jpg"

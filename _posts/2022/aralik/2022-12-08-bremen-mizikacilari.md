@@ -11,7 +11,7 @@ attendance: "Websitesi"
 sticky: true
 organizer: "Edebiyat Yarışmaları"
 requirements: "İsteyen herkes katılabilir"
-price: "Kitap Hediye Çeki"
+totalPrize: "Kitap Hediye Çeki"
 permalink: "bremen-mizikacilari-interaktif"
 image: "https://edebiyatyarismalari.com/images/2022/aralik/bremen-mizikacilari-interaktif.jpg"
 excerpt:  "Bremen Mızıkacıları İnteraktif masalıyla ilgili bir soru ve doğru bilenler arasında yapılacak bir çekiliş."

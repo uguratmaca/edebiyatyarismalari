@@ -6,7 +6,7 @@ category: articles
 tags: [mart 2020, ortaokul, kitap okuma yarışması]
 comments: true
 lastDate: 1585515600
-price: "28 Bin TL'dir"
+totalPrize: "28 Bin TL'dir"
 dateHuman: "30 Mart 2020"
 attendance: "Websitesi"
 requirements: "Yarışma, Türkiye’deki ortaokullarda öğrenim gören tüm öğrencileri kapsamaktadır."

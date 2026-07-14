@@ -9,7 +9,7 @@ lastDate: 1703970000
 dateHuman: "31 Aralık 2023"
 attendance: "E-Posta"
 organizer: "Kalila Yayınevi"
-price: "37 Bin 500 TL'dir."
+totalPrize: "37 Bin 500 TL'dir."
 requirements: "18 yaşın üzerinde olan tüm yazar ve yazar adayları katılabilir."
 permalink: "kalila-cocuk-novella-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/eylul/kalila-cocuk-novella-yarismasi.jpg"

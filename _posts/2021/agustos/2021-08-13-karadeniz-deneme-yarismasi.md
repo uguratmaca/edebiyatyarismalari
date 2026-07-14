@@ -8,7 +8,7 @@ comments: true
 lastDate: 1632952800    
 dateHuman: "30 Eylül 2021"
 comTopic: "Deniz Kirliliği"
-price: "18 Bin TL'dir"
+totalPrize: "18 Bin TL'dir"
 attendance: "E-Posta"
 requirements: "15 ile 18 yaşları arasında lise öğrencileri katılabilir"
 permalink: "denizimizi-kurtarmak-deneme-yarismasi"

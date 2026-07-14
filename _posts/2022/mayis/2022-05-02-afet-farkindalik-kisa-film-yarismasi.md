@@ -9,7 +9,7 @@ lastDate: 1662066000
 dateHuman: "02 Eylül 2022"
 hidden: true
 comTopic: "Afet bilincinin geliştirilmesine yönelik kısa film hazırlanması"
-price: "104 Bin TL'dir."
+totalPrize: "104 Bin TL'dir."
 attendance: "Elden/Posta/Kargo"
 organizer: "T.C. İçişleri Bakanlığı Afet ve Acil Durum Yönetimi Başkanlığı"
 requirements: "Bireysel veya toplu halde herkesin katılımına açıktır."

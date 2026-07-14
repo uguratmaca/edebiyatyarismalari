@@ -8,7 +8,7 @@ comments: true
 hidden: true
 lastDate: 1639090800
 dateHuman: "10 Aralık 2021"
-price: "3 Bin TL'dir"
+totalPrize: "3 Bin TL'dir"
 comTopic: "Evim ve Ailem"
 attendance: "E-Posta"
 requirements: "Devlet ya da özel okullarda öğrenim gören (İlkokul Birinci ve İkinci Kademe) her öğrenci katılabilir."

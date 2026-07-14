@@ -8,7 +8,7 @@ lastDate: 1611262800
 dateHuman: "22 Ocak 2020"
 attendance: "Websitesi"
 comTopic: "Serbest"
-price: "10 Bin 500 TL'dir"
+totalPrize: "10 Bin 500 TL'dir"
 requirements: "Lise öğrencileri ve yetişkinler katılabilir"
 permalink: "32-omer-seyfettin-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/kasim/32-omer-seyfettin-hikaye-yarismasi.jpg"

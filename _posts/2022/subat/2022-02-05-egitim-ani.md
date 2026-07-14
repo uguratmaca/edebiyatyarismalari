@@ -8,7 +8,7 @@ lastDate: 1652565600
 dateHuman: "15 Mayıs 2022"
 comTopic: "Türk Eğitim Sen’in çözümüne öncülük etmiş olduğu sorunların tespiti ve sonuca ulaşmasına yönelik önemli fikirlerin doğuşunu, ülkemizdeki eğitim çalışanlarının sendikal mücadelesinde ilklerin ortaya çıkışını, Türk eğitimi ile ilgili sendikal kimlikle öne çıkarmış olduğumuz yaklaşımları içeren hatıralar"
 attendance: "Websitesi"
-price: "30 Bin TL'dir"
+totalPrize: "30 Bin TL'dir"
 organizer: "Türk Eğitim Sen"
 requirements: "Yarışmaya Türk Eğitim-Sen üyeleri ve emeklileri katılabilirler"
 permalink: "sendika-mucadelimiz-ani-yarismasi"

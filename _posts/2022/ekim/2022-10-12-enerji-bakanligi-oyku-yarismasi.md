@@ -9,7 +9,7 @@ lastDate: 1671138000
 dateHuman: "16 Aralık 2022"
 attendance: "Okul"
 organizer: "Enerji Bakanlığı"
-price: "Tablet"
+totalPrize: "Tablet"
 requirements: "Ortaokul öğrencileri katılabilir."
 permalink: "enerji-bakanligi-oyku-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/ekim/enerji-bakanligi-oyku-yarismasi.jpg"

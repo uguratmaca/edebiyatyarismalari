@@ -6,7 +6,7 @@ tags: [aralık 2020, üniversite, şiir yarışması, hikaye yarışması, kısa
 comments: true
 lastDate: 1601758800  
 dateHuman: "4 Ekim 2020"
-price: "51 Bin TL'dir"
+totalPrize: "51 Bin TL'dir"
 attendance: "E-Posta"
 comTopic: "YTB’nin 10. Yılı ..."
 requirements: "Türkiye’de lisans ve lisansüstü düzeyde öğrenim gören bütün uluslararası öğrencilerin katılımına açıktır."

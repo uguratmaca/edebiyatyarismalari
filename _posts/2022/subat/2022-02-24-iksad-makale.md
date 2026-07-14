@@ -8,7 +8,7 @@ lastDate: 1667257200
 dateHuman: "1 Kasım 2022"
 comTopic: "Türkiye'de Ekonomik Kalkınma: Yerel Dinamiklerin Etkisi"
 attendance: "E-Posta"
-price: "8 Bin TL'dir"
+totalPrize: "8 Bin TL'dir"
 organizer: "İksad Yayınevi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "iksad-yayinevi-makale-yarismasi"

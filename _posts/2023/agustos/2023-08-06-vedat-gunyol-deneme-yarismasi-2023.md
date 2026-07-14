@@ -9,7 +9,7 @@ lastDate: 1699995600
 dateHuman: "15 Kasım 2023"
 attendance: "Kargo/Posta"
 organizer: "Kartal Belediyesi"
-price: "30 Bin TL'dir."
+totalPrize: "30 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "vedat-gunyol-deneme-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/vedat-gunyol-deneme-yarismasi-2023.jpg"

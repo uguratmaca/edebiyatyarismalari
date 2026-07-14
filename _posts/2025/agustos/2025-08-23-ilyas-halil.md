@@ -8,7 +8,7 @@ lastDate: 1760479200
 dateHuman: "15 Ekim 2025"
 attendance: "E-Posta"
 comTopic: "Serbest"
-price: "25 Bin TL'dir"
+totalPrize: "25 Bin TL'dir"
 organizer: "Mersin Sanat Edebiyat"
 requirements: "İsteyen herkes katılabilir"
 permalink: "4-ilyas-halil-oyku-odulu"

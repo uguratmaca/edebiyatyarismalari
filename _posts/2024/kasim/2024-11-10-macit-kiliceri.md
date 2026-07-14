@@ -8,7 +8,7 @@ lastDate: 1735599600
 dateHuman: "31 Aralık 2024"
 attendance: "Posta, Kargo, Elden"
 comTopic: "Serbest"
-price: "20 Bin TL'dir"
+totalPrize: "20 Bin TL'dir"
 organizer: "Theme Edebiyat ve KALİD"
 requirements: "İsteyen herkes katılabilir"
 permalink: "macit-kiliceri-roman-odulu"

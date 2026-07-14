@@ -8,7 +8,7 @@ comments: true
 lastDate: 1559336400
 dateHuman: "1 Haziran 2019"
 comTopic: "Millî Mücadele ve/veya 1. Dünya Savaşı ve/veya  Çanakkale’de Türk Ocakları ve Türk Ocaklılar"
-price: "13 Bin TL'dir."
+totalPrize: "13 Bin TL'dir."
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/karacaahmet-hikaye-yarismasi.jpg?alt=media&token=4802f629-99c4-45d3-8555-0bf8d12afea5"
 ---
 

@@ -9,7 +9,7 @@ lastDate: 1654462800
 dateHuman: "06 Haziran 2022"
 comTopic: "'Kurtuluşa Giden Yolda Son Kale: Haymana', Sakarya Meydan Muharebesi ve Zaferinde Haymana’nın yeri, önemi ve Haymanalıların katkıları"
 attendance: "Okula teslim"
-price: "30 Bin TL'dir."
+totalPrize: "30 Bin TL'dir."
 organizer: "Haymana Kaymakamlığı, Haymana Belediye Başkanlığı Ve Haymana İlçe Milli Eğitim Müdürlüğü"
 requirements: "Milli Eğitim Bakanlığına bağlı tüm resmi/özel ilkokul, ortaokul ve lise öğrencileri katılabilir."
 permalink: "kurtulusa-giden-yolda-son-kale-haymana"

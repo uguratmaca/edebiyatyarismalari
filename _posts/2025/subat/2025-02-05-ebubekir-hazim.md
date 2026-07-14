@@ -8,7 +8,7 @@ lastDate: 1744668000
 dateHuman: "15 Nisan 2025"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "140 Bin TL'dir"
+totalPrize: "140 Bin TL'dir"
 organizer: "Niğde Valiliği"
 requirements: "Yarışma 15 (on beş) yaş üzeri herkese açıktır."
 permalink: "ebubekir-hazim-tepeyran-hikaye-yarismasi"

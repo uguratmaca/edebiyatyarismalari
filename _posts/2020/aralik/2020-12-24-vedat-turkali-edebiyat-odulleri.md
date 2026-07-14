@@ -8,7 +8,7 @@ lastDate: 1614459600
 dateHuman: "28 Şubat 2021"
 attendance: "Elden, Posta, Kargo"
 comTopic: "Serbest"
-price: "10000 TL"
+totalPrize: "10000 TL"
 requirements: "İsteyen herkes katılabilir"
 permalink: "vedat-turkali-edebiyat-odulleri-2021"
 image: "https://edebiyatyarismalari.com/images/2020/aralik/vedat-turkali-edebiyat-odulleri.jpg"

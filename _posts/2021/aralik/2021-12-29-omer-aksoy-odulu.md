@@ -7,7 +7,7 @@ tags: [temmuz 2022, hikaye yarışması, kitap dosyası, edebiyat ödülleri]
 comments: true
 lastDate: 1656972000
 dateHuman: "5 Temmuz 2022"
-price: "5 Bin TL'dir"
+totalPrize: "5 Bin TL'dir"
 comTopic: "Serbest"
 attendance: "Posta, Kargo"
 requirements: "İsteyen herkes katılabilir"

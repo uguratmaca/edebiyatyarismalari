@@ -9,7 +9,7 @@ lastDate: 1659214800
 dateHuman: "31 Temmuz 2022"
 comTopic: "Turgut Özakman’ın sanat ve edebiyat anlayışına aykırı olmaması koşuluyla romanlarda konu ve tür sınırlaması yoktur."
 attendance: "E-posta"
-price: "5 Bin TL'dir."
+totalPrize: "5 Bin TL'dir."
 organizer: "Bilgi Yayınevi"
 requirements: "İsteyen herkes yarışmaya katılabilir."
 permalink: "turgut-ozakman-roman-yarismasi-2022"

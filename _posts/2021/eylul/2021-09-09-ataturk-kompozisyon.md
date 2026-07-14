@@ -9,7 +9,7 @@ lastDate: 1646953200
 dateHuman: "11 Mart 2022"
 comTopic: "Mustafa Kemal Atatürk"
 attendance: "Posta, Elden"
-price: "7 Bin 500 TL'dir"
+totalPrize: "7 Bin 500 TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "ataturk-kompozisyon-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/eylul/ataturk-kompozisyon-yarismasi.jpg"

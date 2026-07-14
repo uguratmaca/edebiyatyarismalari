@@ -9,7 +9,7 @@ lastDate: 1646002800
 dateHuman: "28 Şubat 2022"
 comTopic: "Sosyal Güvenlikte Güncel Meseleler"
 attendance: "E-Posta"
-price: "9500 TL'dir"
+totalPrize: "9500 TL'dir"
 requirements: "Yarışmaya isteyen herkes katılabilir."
 permalink: "sosyal-guvenlik-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/sosyal-guvenlik-makale-yarismasi.jpg"

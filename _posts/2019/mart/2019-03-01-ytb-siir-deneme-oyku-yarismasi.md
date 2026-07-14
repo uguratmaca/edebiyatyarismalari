@@ -7,7 +7,7 @@ tags: [mayıs 2019, şiir yarışması, hikaye yarışması, deneme yarışması
 comments: true
 lastDate: 1557781200
 dateHuman: "14 Mayıs 2019"
-price: "145 Bin TL'dir 💰"
+totalPrize: "145 Bin TL'dir 💰"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ytb.jpg?alt=media&token=600f003a-ed59-49fd-899e-a8f5a14e7837"
 ---
 

@@ -8,7 +8,7 @@ lastDate: 1651266000
 dateHuman: "30 Nisan 2022"
 comTopic: "Eğitim çalışanlarının sendikal mücadelesinin yüz akı Türk Eğitim Sen’i ve ilkelerini ihtiva eden Türk Eğitim Sen’in kimliğini ve kurumsal bakış açısını yansıtan bir marş sözü yazılması."
 attendance: "Websitesi"
-price: "30 Bin TL'dir"
+totalPrize: "30 Bin TL'dir"
 organizer: "Türk Eğitim-Sen"
 requirements: "Yarışmaya Türk Eğitim-Sen ve Türkiye Kamu Sen’e bağlı sendikaların üyeleri ve emeklileri katılabilirler."
 permalink: "turk-egitim-sen-marsi-soz-yarismasi"

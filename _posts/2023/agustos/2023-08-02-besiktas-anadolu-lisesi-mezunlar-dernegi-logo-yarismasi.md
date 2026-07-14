@@ -10,7 +10,7 @@ dateHuman: "14 Ağustos 2023"
 attendance: "Websitesi"
 hidden: true
 organizer: "Beşiktaş Anadolu Lisesi Mezunlar Derneği (BALUMNİ)"
-price: "100 Dolar'dır."
+totalPrize: "100 Dolar'dır."
 requirements: "İsteyen herkes katılabilir."
 permalink: "besiktas-anadolu-lisesi-mezunlar-dernegi-logo-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/besiktas-anadolu-lisesi-mezunlar-dernegi-logo-yarismasi.jpg"

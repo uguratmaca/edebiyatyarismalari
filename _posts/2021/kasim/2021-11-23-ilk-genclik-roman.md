@@ -8,7 +8,7 @@ comments: true
 lastDate: 1647298800
 dateHuman: "15 Mart 2022"
 comTopic: "Ergenin Yaşamına Tanık Olmak"
-price: "31 Bin TL'dir"
+totalPrize: "31 Bin TL'dir"
 attendance: "Posta, Kargo"
 requirements: "Yarışma 18 yaşını bitirmiş tüm yazarlara açıktır."
 permalink: "ilk-genclik-roman-yarismasi"

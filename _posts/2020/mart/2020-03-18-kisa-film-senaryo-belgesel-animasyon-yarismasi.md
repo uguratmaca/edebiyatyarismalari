@@ -7,7 +7,7 @@ tags: [ekim 2020, genel, senaryo yarışması, kısa film yarışması]
 comments: true
 lastDate: 1604091600    
 dateHuman: "31 Ekim 2020"
-price: "100 Bin TL'dir"
+totalPrize: "100 Bin TL'dir"
 attendance: "Websitesi"
 comTopic: "Aile: Dünyadaki Cennet"
 requirements: "Yarışmaya yurt içinden ve yurt dışından tüm senaristler katılabilir."

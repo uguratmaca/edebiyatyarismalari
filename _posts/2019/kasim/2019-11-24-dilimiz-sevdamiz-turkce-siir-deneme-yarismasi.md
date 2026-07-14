@@ -9,7 +9,7 @@ lastDate: 1581022800
 dateHuman: "7 Şubat 2020"
 attendance: "Web sitesi"
 comTopic: "Türkçe Ağzımda Annemin Ak Sütü Gibidir"
-price: "2 Bin TL'dir"
+totalPrize: "2 Bin TL'dir"
 requirements: "Yaş sınırı Türkiye genelindeki tüm lise öğrencileri katılabilir"
 ---
 

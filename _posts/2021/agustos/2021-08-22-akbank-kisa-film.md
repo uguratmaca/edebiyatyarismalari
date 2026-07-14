@@ -8,7 +8,7 @@ comments: true
 lastDate: 1640300400    
 dateHuman: "24 Aralık 2021"
 comTopic: "Serbest"
-price: "80 Bin TL'dir"
+totalPrize: "80 Bin TL'dir"
 attendance: "Websitesi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "18-akbank-kisa-film-yarismasi"

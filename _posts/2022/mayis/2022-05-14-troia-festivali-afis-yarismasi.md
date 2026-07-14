@@ -10,7 +10,7 @@ dateHuman: "26 Mayıs 2022"
 comTopic: "Yarışmacılardan, kentin ve kentlinin yaşam süreci ve geleceğe aktarım olgusu içinde, kentin öğeleri ve yukarıda bahsedilen değerleri dikkate alınarak “TROİA” ve “BARIŞ”ı yorumlamaları beklenmektedir."
 attendance: "Elden/Kargo/Posta"
 organizer: "Çanakkale Belediyesi"
-price: "15 Bin TL'dir."
+totalPrize: "15 Bin TL'dir."
 hidden: true
 requirements: "Türkiye genelinde ve Uluslararası alanda 18 yaş üzeri tüm tasarımcılar katılabilir."
 permalink: "troia-festivali-afis-yarismasi"

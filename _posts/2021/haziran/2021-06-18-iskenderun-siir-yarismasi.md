@@ -9,7 +9,7 @@ lastDate: 1625000400
 dateHuman: "30 Haziran 2021"
 comTopic: "Dünden Bugüne İskenderun"
 attendance: "E-Posta"
-price: "8 Bin 500 TL'dir"
+totalPrize: "8 Bin 500 TL'dir"
 requirements: "18 yaş üstü herkes katılabilir"
 permalink: "iskenderun-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/iskenderun-siir-yarismasi.jpg"

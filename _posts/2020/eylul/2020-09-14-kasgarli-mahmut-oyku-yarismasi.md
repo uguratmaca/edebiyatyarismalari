@@ -8,7 +8,7 @@ lastDate: 1605387600
 dateHuman: "15 Kasım 2020"
 attendance: "E-Posta"
 comTopic: "Serbest"
-price: "70 Bin TL'dir"
+totalPrize: "70 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "kasgarli-mahmut-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/eylul/kasgarli-mahmut-hikaye-yarismasi.jpg"

@@ -9,7 +9,7 @@ lastDate: 1667163600
 dateHuman: "31 Ekim 2022"
 attendance: "E-posta"
 organizer: "Mersin Büyükşehir Belediyesi"
-price: "15 Bin TL'dir."
+totalPrize: "15 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "2-mersin-roman-odulu"
 image: "https://edebiyatyarismalari.com/images/2022/ekim/2-mersin-roman-odulu.jpg"

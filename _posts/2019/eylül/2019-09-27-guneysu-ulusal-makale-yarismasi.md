@@ -5,7 +5,7 @@ description: "para ödüllü makale yarışmaları 2019, güncel makale yarışm
 category: articles
 tags: [kasım 2019, makale yarışması, genel]
 comments: true
-price: "11 Bin TL'dir"
+totalPrize: "11 Bin TL'dir"
 lastDate: 1573765200
 dateHuman: "15 Kasım 2019"
 comTopic: "Aile Yapısının Korunması ve Toplum Düzeni"

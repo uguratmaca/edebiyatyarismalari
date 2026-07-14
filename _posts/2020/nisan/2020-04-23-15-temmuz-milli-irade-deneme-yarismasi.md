@@ -7,7 +7,7 @@ comments: true
 lastDate: 1592168400    
 dateHuman: "15 Haziran 2020" 
 attendance: "E-Posta"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 comTopic: "15 Temmuz ve Milli İrade"
 requirements: "Lisans, Yüksek Lisans ve Doktora öğrencileri katılabilir."
 permalink: "15-temmuz-ve-milli-irade-deneme-yarismasi-2020"

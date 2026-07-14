@@ -12,7 +12,7 @@ comTopic: "Bilecik ili, Söğüt ilçesi, Balaban mahallesinde yer alan 300 ada 
 attendance: "Elden/Posta/Kargo"
 organizer: "TMMOB Mimarlar Odası Bursa Şubesi"
 requirements: "İsteyen herkes katılabilir."
-price: "370 Bin TL'dir."
+totalPrize: "370 Bin TL'dir."
 permalink: "sogut-mimari-proje-yarisma"
 image: "https://edebiyatyarismalari.com/images/2022/ekim/sogut-mimari-proje-yarisma.jpg"
 excerpt:  "TMMOB Mimarlar Odası Bursa Şubesi <strong> Söğüt Tarih ve Doğa ile Buluşma-Karşılaşma Alanı Mimari Proje Yarışması </strong> düzenliyor."

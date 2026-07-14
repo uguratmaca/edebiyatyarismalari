@@ -9,7 +9,7 @@ lastDate: 1652907600
 dateHuman: "19 Mayıs 2022"
 comTopic: "Gençler İstiklal ve İstikbali Yazıyor."
 attendance: "Websitesi"
-price: "10 Bin 500 TL'dir"
+totalPrize: "10 Bin 500 TL'dir"
 organizer: "Aziziye Belediye Başkanlığı ve Türkiye Dil ve Edebiyat Derneği Erzurum Şubesi"
 requirements: "2021–2022 eğitim-öğretim yılında Erzurum ve ilçelerinde öğrenim gören; Ortaöğretim, ortaöğretim (mezun öğrenci), Önlisans, Lisans öğrencileri katılabilecektir. Liseden sonra okumayan gençler için üst yaş sınırı 23’tür."
 permalink: "gencler-istiklal-ve-istikbali-yazacak-mektup"

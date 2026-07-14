@@ -8,7 +8,7 @@ lastDate: 1723672800
 dateHuman: "15 Ağustos 2024"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "5 Bin TL'dir"
+totalPrize: "5 Bin TL'dir"
 organizer: "Dedektif Dergi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "zehirli-kalem-polisiye-oyku-yarismasi-24"

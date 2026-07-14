@@ -7,7 +7,7 @@ tags: [hikaye yarışması, şiir yarışması, deneme yarışması, nisan 2019]
 comments: true
 lastDate: 1555016400
 dateHuman: "12 Nisan 2019"
-price: "19 500 TL'dir."
+totalPrize: "19 500 TL'dir."
 comTopic: "Eyüpsultan'da Bir Sabah"
 ---
 

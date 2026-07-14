@@ -7,7 +7,7 @@ tags: [ağustos 2019, genel, hikaye yarışması]
 comments: true
 lastDate: 1567198800
 dateHuman: "31 Ağustos 2019"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/turkiye-bilisim-dergisi-2019-bilimkurgu-oyku-yarismasi.jpg?alt=media&token=0b1c9d07-a860-4581-814a-4ad9a79cd728"
 ---
 

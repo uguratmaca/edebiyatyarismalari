@@ -8,7 +8,7 @@ tags: [nisan 2026, hikaye yarışması, genel]
 lastDate: 1777496400
 dateHuman: "30 Nisan 2026"
 comTopic: "Serbest"
-price: "20 Bin TL'dir"
+totalPrize: "20 Bin TL'dir"
 attendance: "E-Posta"
 organizer: "Eğitim-Sen Bafra Temsilciliği"
 requirements: "18 yaş üzeri yazar ve yazar adaylarına açıktır"

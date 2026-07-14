@@ -9,7 +9,7 @@ lastDate: 1650834000
 dateHuman: "25 Nisan 2022"
 comTopic: "Erişilebilirlik"
 attendance: "Websitesi"
-price: "12 Bin TL'dir"
+totalPrize: "12 Bin TL'dir"
 organizer: "Aile ve Sosyal Hizmetler Bakanlığı"
 requirements: "İlkokul, ortaokul ve lise öğrencileri katılabilir."
 permalink: "erisilebilirlik-temali-yarisma"

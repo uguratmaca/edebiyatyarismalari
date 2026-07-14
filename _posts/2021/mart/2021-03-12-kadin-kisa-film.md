@@ -8,7 +8,7 @@ lastDate: 1619730000
 dateHuman: "30 Nisan 2021"
 attendance: "Websitesi"
 comTopic: "Kadın"
-price: "30 Bin TL'dir"
+totalPrize: "30 Bin TL'dir"
 requirements: "Yarışmaya amatör profesyonel başvuru şartlarını yerine getiren herkes katılabilir."
 permalink: "kadin-senaryo-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/mart/kadin-kisa-film-yarismasi.png"

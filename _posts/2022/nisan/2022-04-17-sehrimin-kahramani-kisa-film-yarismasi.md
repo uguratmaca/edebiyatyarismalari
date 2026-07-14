@@ -8,7 +8,7 @@ tags: [temmuz 2022, kısa film yarışması, üniversite]
 lastDate: 1660510800
 dateHuman: "15 Temmuz 2022"
 attendance: "Websitesi"
-price: "58 Bin TL'dir."
+totalPrize: "58 Bin TL'dir."
 comTopic: "‘Kahramanlık Destanları’ kitabında yer alan şehitlerimizin hikayeleri"
 organizer: "Aile Ve Sosyal Hizmetler Bakanlığı"
 requirements: "Türkiye Cumhuriyeti’ndeki üniversitelerde ön lisans, lisans, yüksek lisans ve doktora eğitimine devam edenler ve yurtdışında üniversite öğrenimi görmekte olan tüm T.C vatandaşları katılabilir."

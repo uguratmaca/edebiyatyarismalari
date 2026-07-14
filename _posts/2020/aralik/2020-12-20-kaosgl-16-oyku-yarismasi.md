@@ -7,7 +7,7 @@ comments: true
 lastDate: 1617483600  
 dateHuman: "4 Nisan 2021"
 attendance: "E-Posta, Posta"
-price: "2250 TL'dir"
+totalPrize: "2250 TL'dir"
 comTopic: "Ev"
 requirements: "Yarışma, Türkiye’de ya da yurt dışında yaşayan bütün kadınlara açıktır."
 permalink: "16-kadin-kadina-oyku-yarismasi"

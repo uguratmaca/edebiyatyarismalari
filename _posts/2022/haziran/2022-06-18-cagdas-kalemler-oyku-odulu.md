@@ -9,7 +9,7 @@ lastDate: 1661806800
 dateHuman: "30 Ağustos 2022"
 attendance: "E-posta"
 organizer: "Çağdaş Yaşamı Destekleme Derneği (ÇYDD) Trabzon Şubesi"
-price: "6 Bin TL'dir."
+totalPrize: "6 Bin TL'dir."
 requirements: "Öykü türünde kitabı yayımlanmamış 18 yaş üzeri yazar ve yazar adayları katılabilir."
 permalink: "cagdas-kalemler-oyku-odulu-2022"
 image: "https://edebiyatyarismalari.com/images/2022/haziran/cagdas-kalemler-oyku-odulu.jpg"

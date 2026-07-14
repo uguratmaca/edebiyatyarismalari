@@ -8,7 +8,7 @@ comments: true
 lastDate: 1648760400
 dateHuman: "1 Nisan 2022"
 comTopic: "Dostluk"
-price: "35 Bin TL'dir"
+totalPrize: "35 Bin TL'dir"
 attendance: "E-Posta veya Posta"
 organizer: "Esenler Belediyesi"
 requirements: "Üniversitede eğitim gören bütün öğrenciler katılabilecektir."

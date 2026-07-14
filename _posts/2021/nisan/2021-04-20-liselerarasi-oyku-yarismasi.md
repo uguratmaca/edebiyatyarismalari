@@ -9,7 +9,7 @@ lastDate: 1619038800
 dateHuman: "22 Nisan 2021"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "2 Bin TL'dir"
+totalPrize: "2 Bin TL'dir"
 requirements: "Yarışmaya katılım ülkemizdeki tüm lise öğrencilerine açık ve ücretsizdir."
 permalink: "liselerarasi-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/nisan/liselerarasi-oyku-yarismasi.jpg"

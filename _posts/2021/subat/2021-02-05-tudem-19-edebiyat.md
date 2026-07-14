@@ -8,7 +8,7 @@ lastDate: 1635714000
 dateHuman: "1 Kasım 2021"
 attendance: "Posta, Kargo"
 comTopic: "Serbest"
-price: "22500 TL'dir"
+totalPrize: "22500 TL'dir"
 requirements: "18 yaş üzeri herkes katılabilir"
 permalink: "tudem-19-edebiyat-odulleri-2021"
 image: "https://edebiyatyarismalari.com/images/2021/subat/19-tudem-edebiyat-odulleri-resimli-kitap-yarismasi.jpg"

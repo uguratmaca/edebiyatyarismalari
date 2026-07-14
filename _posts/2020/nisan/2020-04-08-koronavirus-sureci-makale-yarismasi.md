@@ -7,7 +7,7 @@ comments: true
 lastDate: 1588280400    
 dateHuman: "1 Mayıs 2020" 
 attendance: "E-Posta"
-price: "5 Bin TL'dir"
+totalPrize: "5 Bin TL'dir"
 comTopic: "Koronavirüs Süreci Sonrasında Geleceği Anlama Senaryoları"
 requirements: "Yazdığı senaryoya güvenen herkes yarışmaya katılabilir."
 permalink: "koronavirus-sureci-gelecek-senaryolari-makale-yarismasi"

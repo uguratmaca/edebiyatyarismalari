@@ -8,7 +8,7 @@ lastDate: 1609362000
 dateHuman: "31 Aralık 2020"
 attendance: "Kargo/Elden"
 comTopic: "Hekimlik ve Sağlıkta Mizah"
-price: "5 Bin TL'dir"
+totalPrize: "5 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "dr-kamil-furtun-mizah-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/kamil-furtun-mizah-oyku-yarismasi.jpg"

@@ -8,7 +8,7 @@ lastDate: 1613336400
 dateHuman: "15 Şubat 2021"
 attendance: "Posta, Kargo"
 comTopic: "Serbest"
-price: "13 Bin TL'dir"
+totalPrize: "13 Bin TL'dir"
 requirements: "Yarışma on sekiz yaş üzeri herkese açıktır."
 permalink: "rusen-hakki-siir-yarismasi"
 excerpt: "Ruşen Hakkı’nın ölümünün 10. yıldönümü nedeniyle Uluslararası Ruşen Hakkı Şiir Yarışması düzenlenmektedir."

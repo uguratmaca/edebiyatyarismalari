@@ -7,7 +7,7 @@ tags: [aralık 2019, genel, hikaye yarışması]
 comments: true
 lastDate: 1577739600
 dateHuman: "31 Aralık 2019"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 comTopic: "Kanserler ve Kan Hastalıkları"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/hayata-tutunma-%C3%B6yk%C3%BCleri-2020.jpg?alt=media&token=305595be-3d5a-49fb-b5cf-6611265458a5"
 ---

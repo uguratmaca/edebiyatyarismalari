@@ -9,7 +9,7 @@ lastDate: 1652648400
 dateHuman: "16 Mayıs 2022"
 attendance: "Websitesi"
 comTopic: "Ekoloji (İklim Değişikliği, Gıda Kıtlığı, Su Kıtlığı, Ormanların yok olması, 5 Haziran Dünya Çevre Günü)"
-price: "34 Bin 500 TL'dir."
+totalPrize: "34 Bin 500 TL'dir."
 organizer: "İstanbul Büyükçekmece Belediyesi"
 requirements: "Amatör ve profesyonel bütün dünya karikatürcüleri katılabilir."
 permalink: "buyukcekmece-karikatur-yarismasi"

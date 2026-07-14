@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "15 Nisan 2022"
 comTopic: "Sağlıklı mıyız?"
 attendance: "Websitesi"
-price: "6 Bin TL Hediye Çeki'dir."
+totalPrize: "6 Bin TL Hediye Çeki'dir."
 organizer: "Erasmus+ KA204"
 requirements: "Konuya ilgi duyan, son başvuru tarihine kadar 18 yaşını doldurmuş ve üzeri yaşlardaki herkes katılabilir."
 permalink: "saglikli-miyiz-fotograf-yarismasi"

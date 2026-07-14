@@ -9,7 +9,7 @@ lastDate: 1632952800
 dateHuman: "30 Eylül 2021"
 comTopic: "Kardenizin Temizliği"
 attendance: "E-Posta"
-price: "18 Bin TL'dir"
+totalPrize: "18 Bin TL'dir"
 requirements: "15 ila 18 yaş arasındaki lise öğrencileri katılabilir"
 permalink: "karadeniz-temizligi-makale-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/agustos/karadeniz-makale-yarismasi.jpg"

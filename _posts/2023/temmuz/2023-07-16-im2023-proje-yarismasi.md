@@ -10,7 +10,7 @@ dateHuman: "9 Ekim 2023"
 hidden: true
 attendance: "Websitesi"
 organizer: "TMMOB İçmimarlar Odası"
-price: "13 Bin 500 TL'dir."
+totalPrize: "13 Bin 500 TL'dir."
 requirements: "Türkiye ve Kuzey Kıbrıs Türk Cumhuriyeti’nde iç mimarlık eğitimi veren ve YÖK tarafından tanınan herhangi bir lisans programında ana dal öğrencisi olarak kayıtlı tüm öğrenciler katılabilir."
 permalink: "im2023-proje-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/temmuz/im2023-proje-yarismasi.jpg"

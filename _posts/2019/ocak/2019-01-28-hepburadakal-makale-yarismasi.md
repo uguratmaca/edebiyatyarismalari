@@ -7,7 +7,7 @@ tags: [makale yarışması, nisan 2019]
 comments: true
 dateHuman: "1 Nisan 2019"
 lastDate: 1554066000
-price: "500 USD'dir"
+totalPrize: "500 USD'dir"
 ---
 
 Yarışmaya Katılmak İçin;

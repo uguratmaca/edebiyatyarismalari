@@ -8,7 +8,7 @@ tags: [nisan 2022, proje yarışması, ilkokul, ortaokul, lise, afet]
 lastDate: 1650661200
 dateHuman: "23 Nisan 2022"
 organizer: "Japonya Uluslararası İşbirliği Ajansı (JICA) ve Türk Japon Vakfı (TJV)"
-price: "20 Bin TL'dir."
+totalPrize: "20 Bin TL'dir."
 requirements: "İlkokul, ortaokul ve lise öğrencileri katılabilir."
 permalink: "afet-risk-azaltma-proje-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/afet-risk-azaltma-proje-yarismasi.jpg"

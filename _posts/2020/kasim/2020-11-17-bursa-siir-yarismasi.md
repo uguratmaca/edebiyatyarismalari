@@ -7,7 +7,7 @@ comments: true
 lastDate: 1624222800  
 dateHuman: "6 Nisan 2021"
 attendance: "E-Posta"
-price: "13 Bin TL'dir"
+totalPrize: "13 Bin TL'dir"
 comTopic: "Bursa"
 requirements: "Yarışmaya 18 yaşını doldurmuş her Türkiye Cumhuriyeti vatandaşı katılabilir."
 permalink: "bursa-konulu-siir-yarismasi"

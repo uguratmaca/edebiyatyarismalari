@@ -8,7 +8,7 @@ comments: true
 lastDate: 1635458400    
 dateHuman: "29 Ekim 2021"
 comTopic: "100. Yıl"
-price: "400 Bin TL'dir"
+totalPrize: "400 Bin TL'dir"
 attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"
 permalink: "100-yil-siir-yarismasi-cekmekoy"

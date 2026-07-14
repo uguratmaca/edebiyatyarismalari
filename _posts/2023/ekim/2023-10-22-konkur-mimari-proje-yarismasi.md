@@ -10,7 +10,7 @@ dateHuman: "22 Kasım 2023"
 hidden: true
 attendance: "E-Posta"
 organizer: "İstanbul Büyükşehir Belediyesi Etüd ve Projeler Dairesi Başkanlığı"
-price: "3 Milyon 350 Bin TL'dir."
+totalPrize: "3 Milyon 350 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "konkur-mimari-proje-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/ekim/konkur-mimari-proje-yarismasi.jpg"

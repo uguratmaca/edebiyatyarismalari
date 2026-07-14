@@ -7,7 +7,7 @@ tags: [haziran 2020, genel, hikaye yarışması, şiir yarışması, deneme yar�
 comments: true
 lastDate: 1625000400    
 dateHuman: "30 Haziran 2021"
-price: "265 Bin TL'dir"
+totalPrize: "265 Bin TL'dir"
 comTopic: "Serbest"
 attendance: "E-Posta"
 permalink: "ytb-turkce-odulleri"

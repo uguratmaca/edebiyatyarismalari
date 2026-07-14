@@ -12,7 +12,7 @@ attendance: "E- Posta"
 hidden: true
 organizer: "Kişisel Verileri Koruma Kurumu (KVKK)"
 requirements: "Türkiye sınırları içerisindeki tüm resmi/özel ortaöğretim kurumları öğrencileri katılabilir."
-price: "16 Bin TL'dir"
+totalPrize: "16 Bin TL'dir"
 permalink: "kvkk-karikatur-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/subat/kvkk-karikatur-yarismasi-2024.jpg"
 excerpt:  "Kişisel Verileri Koruma Kurumu (KVKK) <strong> KVKK Karikatür Yarışması </strong> düzenliyor."

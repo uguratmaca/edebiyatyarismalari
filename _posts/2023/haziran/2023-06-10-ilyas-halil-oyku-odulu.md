@@ -9,7 +9,7 @@ lastDate: 1701291600
 dateHuman: "30 Kasım 2023"
 attendance: "Posta/Kargo"
 organizer: "Mersin Sanat Edebiyat Derneği"
-price: "10 Bin TL'dir."
+totalPrize: "10 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "ilyas-halil-oyku-odulu-2023"
 image: "https://edebiyatyarismalari.com/images/2023/haziran/ilyas-halil-oyku-odulu.jpg"

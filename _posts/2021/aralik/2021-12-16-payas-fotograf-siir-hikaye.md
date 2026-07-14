@@ -9,7 +9,7 @@ lastDate: 1661810400
 dateHuman: "30 Ağustos 2022"
 comTopic: "Dünden Bugüne Payas"
 attendance: "Websitesi"
-price: "76 500 TL'dir"
+totalPrize: "76 500 TL'dir"
 requirements: "Yarışmaya 16 yaş üstü herkes katılabilir."
 permalink: "payas-siir-hikaye-fotograf-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/payas-belediyesi-fotograf-oyku-siir-yarismasi.jpg"

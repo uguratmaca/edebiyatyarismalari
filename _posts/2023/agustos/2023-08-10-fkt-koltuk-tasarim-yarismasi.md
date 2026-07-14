@@ -11,7 +11,7 @@ comTopic: "Geleceğin yolcu koltuğu ve koltuk sistemlerinin tasarımı"
 attendance: "Websitesi"
 organizer: "FKT Koltuk Sistemleri Üretim ve Dağıtım San. Ve Tic. A.Ş."
 hidden: true
-price: "70 Bin TL'dir."
+totalPrize: "70 Bin TL'dir."
 requirements: "T.C. Üniversitelerinin bütün bölümlerinde öğrenim gören öğrenciler katılabilir."
 permalink: "fkt-koltuk-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/fkt-koltuk-tasarim-yarismasi.jpg"

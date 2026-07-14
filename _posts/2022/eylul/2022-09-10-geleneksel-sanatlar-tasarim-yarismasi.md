@@ -10,7 +10,7 @@ hidden: true
 dateHuman: "30 Eylül 2022"
 attendance: "Elden/Kargo/Posta"
 organizer: "Zeytinburnu Kültür Sanat Merkezi"
-price: "85 Bin TL'dir."
+totalPrize: "85 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "geleneksel-sanatlar-tasarim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/geleneksel-sanatlar-tasarim-yarismasi.jpg"

@@ -7,7 +7,7 @@ tags: [haziran 2020, genel, makale yarışması]
 comments: true
 lastDate: 1593464400    
 dateHuman: "30 Haziran 2020"
-price: "13 Bin TL'dir"
+totalPrize: "13 Bin TL'dir"
 comTopic: "Farabi’nin bilim dünyasına katkısını ve tesirini"
 attendance: "E-Posta/Posta/Kargo/Elden"
 requirements: "İsteyen herkes katılabilir"

@@ -9,7 +9,7 @@ lastDate: 1644188400
 dateHuman: "7 Şubat 2022"
 comTopic: "Tapduk’un Tapusunda, Yunus’un Kapusunda, Sevgi Durağı Nallıhan"
 attendance: "E-Posta"
-price: "6 Bin TL'dir"
+totalPrize: "6 Bin TL'dir"
 requirements: "Türkiye genelinde özel ve resmi ortaokulların 5, 6, 7 ve 8.sınıf öğrencileri"
 permalink: "nallihan-kisa-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/yunus-emre-nallihan-oyku-yarismasi.jpg"

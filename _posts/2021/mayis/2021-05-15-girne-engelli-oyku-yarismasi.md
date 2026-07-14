@@ -9,7 +9,7 @@ lastDate: 1622494800
 dateHuman: "1 Haziran 2021"
 comTopic: "Hayatın içinde, hayatın dışında"
 attendance: "E-Posta, Posta"
-price: "5 Bin 400 TL'dir"
+totalPrize: "5 Bin 400 TL'dir"
 requirements: "9-17 yaş grubu arasında herkes katılabilir"
 permalink: "girne-engelli-4-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/mayis/engelli-bireyin-yasami-oyku-yarismasi.jpg"

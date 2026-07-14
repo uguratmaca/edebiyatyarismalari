@@ -8,7 +8,7 @@ lastDate: 1774908000
 dateHuman: "31 Mart 2026"
 comTopic: "Serbest"
 attendance: "E-Posta"
-price: "75 Bin TL'dir"
+totalPrize: "75 Bin TL'dir"
 organizer: "Samsun İlkadım Belediyesi"
 requirements: "Yarışmaya 18 yaş ve üzeri, T.C. vatandaşı olan herkes katılabilir"
 permalink: "7-cemal-safi-siir-yarismasi"
