@@ -11,6 +11,7 @@ comTopic: "Serbest"
 organizer: "Çığ Dergisi"
 requirements: "Yarışmaya 18 yaş üzeri kişiler sadece bir öykü ile katılabilirler"
 permalink: "cig-dergisi-2-oyku-yarismasi"
+archived_to: "/cig-dergisi-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/agustos/cig-dergisi-2-oyku-yarismasi.jpg"
 excerpt: "Çığ Dergisi 2. Öykü Yarışması başvuruları açıldı"
 ---

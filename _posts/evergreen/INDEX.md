@@ -63,6 +63,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Yunus Emre Edebiyat Armağanı (Eskişehir)** — [dosya](2023-06-24-eskisehir-yunus-emre-edebiyat-armagani.md) · `/eskisehir-yunus-emre-edebiyat-armagani`
 - **Yunus Emre Şiir Yarışması** — [dosya](2025-08-23-yunus-emre-siir-yarismasi.md) · `/yunus-emre-siir-yarismasi`
 - **Zeynep Cemali Öykü Yarışması** — [dosya](2026-02-10-zeynep-cemali-oyku-yarismasi.md) · `/zeynep-cemali-oyku-yarismasi`
+- **Çığ Dergisi Öykü Yarışması** — [dosya](../hikaye/2026-07-15-cig-dergisi-oyku-yarismasi.md) · `/cig-dergisi-oyku-yarismasi`
 - **Çukurova Öykü Yarışması** — [dosya](2025-06-29-cukurova-oyku-odulu.md) · `/cukurova-oyku-yarismasi`
 - **Ümit Kaftancıoğlu Öykü Yarışması** — [dosya](2025-10-12-umit-kaftancioglu-oyku-yarismasi.md) · `/umit-kaftancioglu-oyku-yarismasi`
 - **Ümraniye Belediyesi Geleneksel Hikâye Yarışması** — [dosya](2025-06-01-umraniye-belediyesi-hikaye-yarismasi.md) · `/umraniye-belediyesi-hikaye-yarismasi`
