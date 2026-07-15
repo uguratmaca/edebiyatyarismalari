@@ -132,4 +132,29 @@ layout: default
     }
   }
 </script>
+
+{% if page.lastDate %}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": {{ page.title | jsonify }},
+    "url": "{{site.url}}{{page.url}}",
+    "description": {{ page.excerpt | strip_html | normalize_whitespace | jsonify }},
+    "startDate": "{{ page.date | date_to_xmlschema }}",
+    "endDate": "{{ page.lastDate | date_to_xmlschema }}",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "{{site.url}}{{page.url}}"
+    },
+    "image": "{{page.image}}",
+    "organizer": {
+      "@type": "Organization",
+      "name": {{ page.organizer | default: "Edebiyat Yarışmaları" | jsonify }}
+    }
+  }
+</script>
+{% endif %}
 </article>
