@@ -12,7 +12,7 @@ organizer: "Kartal Belediyesi"
 requirements: "İsteyen herkes katılabilir"
 totalPrize: "90 Bin TL'dir"
 permalink: "vedat-gunyol-deneme-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2025/agustos/vedat-gunyol-deneme-yarismasi.jpg"
+image: "https://edebiyatyarismalari.com/images/2026/temmuz/vedat-gunyol-deneme-odulu.jpg"
 excerpt: "Kartal Belediyesi'nin her yıl düzenlediği <strong>Vedat Günyol Deneme Ödülü</strong> tüm yazarları bekliyor."
 ---
 
