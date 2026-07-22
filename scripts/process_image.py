@@ -91,7 +91,14 @@ def main():
         im = add_watermark(im, args.text)
 
     os.makedirs(os.path.dirname(args.output) or ".", exist_ok=True)
-    im.save(args.output, "WEBP", quality=args.quality, method=6)
+
+    ext = os.path.splitext(args.output)[1].lower()
+    if ext in (".jpg", ".jpeg"):
+        im.save(args.output, "JPEG", quality=args.quality)
+    elif ext == ".png":
+        im.save(args.output, "PNG")
+    else:
+        im.save(args.output, "WEBP", quality=args.quality, method=6)
 
     in_size = os.path.getsize(args.input)
     out_size = os.path.getsize(args.output)
