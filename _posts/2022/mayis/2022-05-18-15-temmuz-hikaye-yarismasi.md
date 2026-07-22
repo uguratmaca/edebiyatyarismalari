@@ -12,6 +12,7 @@ attendance: "E-posta"
 organizer: "Düzce Üniversitesi"
 requirements: "Düzce Üniversitesi'nde ön lisans, lisans ve lisansüstü eğitimi alan öğrenciler katılabilir."
 permalink: "15-temmuz-hikaye-yarismasi"
+redirect_from: ["/articles/2019/01/14/15-temmuz-hikaye-yarismasi.html"]
 image: "https://edebiyatyarismalari.com/images/2022/mayis/15-temmuz-hikaye-yarismasi.webp"
 excerpt:  "Düzce Üniversitesi <strong> 15 Temmuz Milli Uyanışı Hikaye Yarışması </strong> düzenliyor."
 ---

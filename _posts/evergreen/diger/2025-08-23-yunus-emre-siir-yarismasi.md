@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Yunus Emre Şiir Yarışması"
-description: "Eskişehir Sanat Derneği, 'Serbest Konulu' ve 'Yunus Emre İçin Yazılmış Şiirler' kategorilerinde Yunus Emre Şiir Yarışması'nı duyurdu."
+title: "Eskişehir Yunus Emre Şiir Yarışması"
+description: "Eskişehir Sanat Derneği, 'Serbest Konulu' ve 'Yunus Emre İçin Yazılmış Şiirler' kategorilerinde Eskişehir Yunus Emre Şiir Yarışması'nı duyurdu."
 date: 2026-07-09
 category: articles
 tags: [her yıl tekrarlanan, eylül 2026, şiir yarışması, yunus emre, genel]
@@ -13,12 +13,12 @@ organizer: "Eskişehir Sanat Derneği"
 requirements: "İsteyen herkes katılabilir"
 permalink: "yunus-emre-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/18-eskisehir-yunus-emre-siir-yarismasi.jpg"
-excerpt: "Eskişehir Sanat Derneği, 'Serbest Konulu' ve 'Yunus Emre İçin Yazılmış Şiirler' kategorilerinde Yunus Emre Şiir Yarışması'nı duyurdu."
+excerpt: "Eskişehir Sanat Derneği, 'Serbest Konulu' ve 'Yunus Emre İçin Yazılmış Şiirler' kategorilerinde Eskişehir Yunus Emre Şiir Yarışması'nı duyurdu."
 ---
 
-## Yunus Emre Şiir Yarışması
+## Eskişehir Yunus Emre Şiir Yarışması
 
-Eskişehir Sanat Derneği, şiirimizin büyük şairi Yunus Emre’mizi anma ve tanıtmayı hedefleyerek 2004 yılında başlattığı ve geleneksel olarak her yıl sürdürdüğü Yunus Emre Şiir Yarışması'nı düzenlemektedir. Yarışma, “Serbest Konulu” ve “Yunus Emre İçin Yazılmış Şiirler” olmak üzere iki ayrı kategoride yapılmaktadır; isteyen bir kategoriye, isteyen her ikisine birden katılabilir.
+Eskişehir Sanat Derneği, şiirimizin büyük şairi Yunus Emre’mizi anma ve tanıtmayı hedefleyerek 2004 yılında başlattığı ve bu yıl 18.'ini düzenlediği Eskişehir Yunus Emre Şiir Yarışması'nı sürdürmektedir. Yarışma, “Serbest Konulu” ve “Yunus Emre İçin Yazılmış Şiirler” olmak üzere iki ayrı kategoride yapılmaktadır; isteyen bir kategoriye, isteyen her ikisine birden katılabilir.
 
 1. Yarışmaya her kategoride tek şiir ya da 3 şiir ile katılınabilir.
 2. Şiirlerin daha önce yayınlanmamış ve ödül almamış olması gerekmektedir.
@@ -34,7 +34,7 @@ Eskişehir Sanat Derneği, şiirimizin büyük şairi Yunus Emre’mizi anma ve 
 12. Adres: **Eskişehir Sanat Derneği İstiklal Mah. Reşadiye Caddesi No:8 Yelkovan İş Merkezi Kat: 3 / 150 Odunpazarı-ESKİŞEHİR**
 13. Bilgi için: WhatsApp 0505 601 22 26, e-posta **esk.sanatdernegi@gmail.com**
 
-### Yunus Emre Şiir Yarışması Seçici Kurulu
+### Eskişehir Yunus Emre Şiir Yarışması Seçici Kurulu
 
 **Serbest Konulu Yarışma:**
 - Nilüfer Uçar (Ankara)
@@ -50,7 +50,7 @@ Eskişehir Sanat Derneği, şiirimizin büyük şairi Yunus Emre’mizi anma ve 
 
 ### Geçmiş Yıllar
 
-Yunus Emre Şiir Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
+Eskişehir Yunus Emre Şiir Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
 - [17. Yunus Emre Şiir Yarışması (2025)](/17-yunus-emre-siir-yarismasi)
 - [15. Eskişehir Yunus Emre Şiir Yarışması](/yunus-emre-siir-yarismasi-2023)

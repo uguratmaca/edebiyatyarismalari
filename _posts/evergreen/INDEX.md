@@ -22,6 +22,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Duygu Asena Roman Ödülü** — [dosya](2026-03-02-duygu-asena-roman-odulu.md) · `/duygu-asena-roman-odulu`
 - **Enerji Bakanlığı Öykü Yarışması** — [dosya](2023-10-21-enerji-bakanligi-oyku-yarismasi.md) · `/enerji-bakanligi-oyku-yarismasi`
 - **Enver Gökçe Toplumcu Gerçekçi Şiir Ödülü** — [dosya](2026-02-28-enver-gokce-siir-odulu.md) · `/enver-gokce-siir-odulu`
+- **Eskişehir Yunus Emre Şiir Yarışması** — [dosya](2025-08-23-yunus-emre-siir-yarismasi.md) · `/yunus-emre-siir-yarismasi`
 - **Everest Yayınları İlk Roman Yarışması** — [dosya](2026-06-17-everest-yayinlari-ilk-roman-yarismasi.md) · `/everest-yayinlari-ilk-roman-yarismasi`
 - **Ezber Bozan Tasarım Yarışması** — [dosya](2023-04-21-ezber-bozan-tasarim-yarismasi.md) · `/ezber-bozan-tasarim-yarismasi`
 - **Fakir Baykurt Roman Ödülü** — [dosya](2024-03-02-fakir-baykurt-roman-odulu.md) · `/fakir-baykurt-roman-odulu`
@@ -61,7 +62,6 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Vedat Türkali Edebiyat Ödülleri** — [dosya](2023-04-30-vedat-turkali-edebiyat-odulleri.md) · `/vedat-turkali-edebiyat-odulleri`
 - **Yaşar Nabi Nayır Gençlik Ödülleri** — [dosya](2025-12-21-yasar-nabi.md) · `/yasar-nabi-nayir-odulleri`
 - **Yunus Emre Edebiyat Armağanı (Eskişehir)** — [dosya](2023-06-24-eskisehir-yunus-emre-edebiyat-armagani.md) · `/eskisehir-yunus-emre-edebiyat-armagani`
-- **Yunus Emre Şiir Yarışması** — [dosya](2025-08-23-yunus-emre-siir-yarismasi.md) · `/yunus-emre-siir-yarismasi`
 - **Zeynep Cemali Öykü Yarışması** — [dosya](2026-02-10-zeynep-cemali-oyku-yarismasi.md) · `/zeynep-cemali-oyku-yarismasi`
 - **Çığ Dergisi Öykü Yarışması** — [dosya](../hikaye/2026-07-15-cig-dergisi-oyku-yarismasi.md) · `/cig-dergisi-oyku-yarismasi`
 - **Çukurova Öykü Yarışması** — [dosya](2025-06-29-cukurova-oyku-odulu.md) · `/cukurova-oyku-yarismasi`

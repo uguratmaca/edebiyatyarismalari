@@ -2,6 +2,9 @@
 
 Jekyll sitesi. Yarışma duyuruları `_posts/<yıl>/<ay>/` altında, klasör postun **eklendiği** yıl/ay'a göre belirlenir (görseller de aynı şekilde `images/<yıl>/<ay>/`).
 
+Yeni yarışma postu eklerken front matter alanları, `tags` filtre kategorileri ve görsel
+işleme (resize/watermark) için `.claude/notes-post-schema.md`'ye bak.
+
 ## Öncelik: SEO
 
 Bu proje için her zaman öncelik **SEO**'dur. Tasarım, UX, performans gibi konularda karar verirken de bu önceliği göz önünde bulundur (ör. semantic HTML, başlık hiyerarşisi, alt text, sayfa hızı, crawl edilebilirlik, structured data gibi etkenler tercih sebebidir).
