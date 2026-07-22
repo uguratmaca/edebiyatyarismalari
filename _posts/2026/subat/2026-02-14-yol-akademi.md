@@ -6,6 +6,7 @@ category: articles
 tags: [aralık 2026, roman yarışması, hikaye yarışması, kitap dosyası, genel]
 lastDate: 1798671600
 dateHuman: "31 Aralık 2026"
+comTopic: "Serbest"
 attendance: "Web sitesi"
 organizer: "Yol Akademi Yayınevi"
 requirements: "Yarışmaya yurt içinden ve yurt dışından 18 yaşını tamamlamış T.C. vatandaşları veya Türkçe yazan yazarlar katılabilir"

@@ -6,6 +6,7 @@ category: articles
 tags: [eylül 2026, hikaye yarışması, şiir yarışması, genel]
 lastDate: 1790715600
 dateHuman: "30 Eylül 2026"
+comTopic: "Serbest"
 attendance: "Posta veya E-Posta"
 organizer: "Türkiye Gazeteciler Cemiyeti (TGC)"
 requirements: "Son bir yıl içinde yayınlanmış kitaplaşmış eserlerin yazarları katılabilir."

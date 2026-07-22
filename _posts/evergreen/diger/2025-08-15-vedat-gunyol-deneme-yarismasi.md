@@ -7,6 +7,7 @@ category: articles
 tags: [her yıl tekrarlanan, kasım 2026, deneme yarışması, genel]
 lastDate: 1794517200
 dateHuman: "13 Kasım 2026"
+comTopic: "Serbest"
 attendance: "Posta, Kargo"
 organizer: "Kartal Belediyesi"
 requirements: "İsteyen herkes katılabilir"

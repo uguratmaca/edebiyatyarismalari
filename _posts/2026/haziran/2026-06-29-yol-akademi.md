@@ -6,6 +6,7 @@ category: articles
 tags: [temmuz 2026, roman yarışması, hikaye yarışması, kitap dosyası, genel]
 lastDate: 1785448800
 dateHuman: "31 Temmuz 2026"
+comTopic: "Serbest"
 attendance: "Web sitesi"
 sticky: true
 organizer: "Yol Akademi Yayınevi"
