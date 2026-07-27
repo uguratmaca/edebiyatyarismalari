@@ -1,5 +1,5 @@
 === Edebiyat Yarışmaları Widget ===
-Contributors: edebiyatyarismalari
+Contributors: Ugur Atmaca
 Tags: literature, competitions, widget, writing, contest
 Requires at least: 5.8
 Tested up to: 7.0
