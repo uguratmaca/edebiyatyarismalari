@@ -44,8 +44,8 @@ Katılım Koşulları:
 
 Benim Eserim Senaryo Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
-- [2024](/benim-eserim-5-senaryo-yarismasi/)
-- [2023](/benim-eserim-senaryo-yarismasi-2023/)
-- [2022](/benim-eserim-senaryo-yarismasi-2022/)
-- [2020](/benim-eserim-2-senaryo-yarismasi/)
+- [2024](/benim-eserim-5-senaryo-yarismasi)
+- [2023](/benim-eserim-senaryo-yarismasi-2023)
+- [2022](/benim-eserim-senaryo-yarismasi-2022)
+- [2020](/benim-eserim-2-senaryo-yarismasi)
 - [2019](/articles/2019/04/30/benim-eserim-senaryo-yarismasi.html)
