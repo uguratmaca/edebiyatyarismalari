@@ -11,6 +11,7 @@
     "tags": {{ post.tags | jsonify }},
     "dateHuman": {{ post.dateHuman | jsonify }},
     "lastDate": {{ post.lastDate }},
+    "totalPrize": {{ post.totalPrize | jsonify }},
     "requirements": {{ post.requirements | jsonify }},
     "attendance": {{ post.attendance | jsonify }},
     "attendanceMethods": {{ post.attendance | normalize_attendance | jsonify }},
