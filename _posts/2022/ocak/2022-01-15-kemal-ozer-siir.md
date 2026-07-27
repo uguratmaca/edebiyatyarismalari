@@ -12,6 +12,7 @@ attendance: "Posta, Kargo"
 organizer: "Klaros Yayınları"
 requirements: "isteyen herkes katılabilir"
 permalink: "kemal-ozer-siir-odulu-2022"
+archived_to: "/kemal-ozer-siir-odulu"
 image: "https://edebiyatyarismalari.com/images/2022/ocak/kemal-ozer-siir-odulu.jpeg"
 excerpt: "Şair Kemal Özer’e ve şiirine saygı adına Klaros Yayınları tarafından düzenlenen <strong>2022 Kemal Özer Şiir Ödülü</strong> için başvurular başladı."
 ---

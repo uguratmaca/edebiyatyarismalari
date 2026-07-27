@@ -36,6 +36,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **İlk Polisiye Roman Yarışması** — [dosya](2026-07-08-ilk-polisiye-roman-yarismasi.md) · `/ilk-polisiye-roman-yarismasi`
 - **Kabataş Erkek Lisesi Ömer Seyfettin Öykü Yarışması** — [dosya](2024-12-18-kabatas-omer-seyfettin-oyku-yarismasi.md) · `/kabatas-omer-seyfettin-oyku-yarismasi`
 - **KeKeMe Yayınları Öykü Ödülü** — [dosya](2025-06-23-kkm-yayinlari-oyku-odulu.md) · `/kkm-yayinlari-oyku-odulu`
+- **Kemal Özer Şiir Ödülü** — [dosya](2026-07-27-kemal-ozer-siir-odulu.md) · `/kemal-ozer-siir-odulu`
 - **Kitapyurdu Türkiye Okur Ödülleri** — [dosya](2025-02-12-kitapyurdu-turkiye-okur-odulleri.md) · `/kitapyurdu-turkiye-okur-odulleri`
 - **Mahal Edebiyat Öykü Yarışması** — [dosya](2026-01-29-mahal-edebiyat-oyku-yarismasi.md) · `/mahal-edebiyat-oyku-yarismasi`
 - **Mavera Edebiyat Ödülleri** — [dosya](2026-02-15-mavera-edebiyat-odulleri.md) · `/mavera-edebiyat-odulleri`
