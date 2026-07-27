@@ -10,7 +10,16 @@
 </script>
 {% capture page_title %}{% if page.title and page.title != site.title %}{% include dynamic-year.html text=page.title %} &#8211; {{ site.name }}{% elsif page.title %}{% include dynamic-year.html text=page.title %}{% else %}{{ site.description }}{% endif %}{% endcapture %}
 <title>{{ page_title }}</title>
-{% capture page_description %}{% if page.description %}{% include dynamic-year.html text=page.description %}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+{%- assign page_description = "" -%}
+{%- if page.description and page.description.size >= 60 -%}
+  {%- capture page_description -%}{% include dynamic-year.html text=page.description %}{%- endcapture -%}
+{%- elsif page.excerpt and page.excerpt.size > 0 -%}
+  {%- assign page_description = page.excerpt | strip_html | normalize_whitespace | truncate: 160 -%}
+{%- elsif page.description -%}
+  {%- capture page_description -%}{% include dynamic-year.html text=page.description %}{%- endcapture -%}
+{%- else -%}
+  {%- assign page_description = site.description -%}
+{%- endif -%}
 <meta name="description"
     content="{{ page_description }}">
 {% if page.tags %}
