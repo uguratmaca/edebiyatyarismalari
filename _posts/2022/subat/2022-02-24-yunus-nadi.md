@@ -11,6 +11,7 @@ attendance: "Elden, Posta"
 organizer: "Cumhuriyet Gazetesi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "77-yunus-nadi-odulleri"
+redirect_from: ["/articles/2019/01/02/yunus-nadi-odulleri.html"]
 image: "https://edebiyatyarismalari.com/images/2022/subat/yunus-nadi-edebiyat-odulleri.jpg"
 excerpt: "Cumhuriyet Gazetesi <strong>77. Yunus Nadi Ödülleri</strong> düzenliyor."
 ---

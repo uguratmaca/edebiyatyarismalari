@@ -12,6 +12,7 @@ attendance: "E-Posta"
 organizer: "Bursa Barosu"
 requirements: "Avukat, hâkim, savcı, stajyer avukat, hukuk fakültesi öğrencisi, adliye personeli, avukat çalışanı ya da hukukçu kimliğini taşıyan meslek çalışanları katılabilir."
 permalink: "ozgur-aksoy-siir-yarismasi"
+redirect_from: ["/articles/2019/03/12/avukat-ozgur-aksoy-siir-yarismasi.html"]
 image: "https://edebiyatyarismalari.com/images/2023/temmuz/ozgur-aksoy-siir-yarismasi.jpg"
 excerpt:  "Bursa Barosu <strong> Avukat Özgür Aksoy Şiir Yarışması </strong> düzenliyor."
 ---

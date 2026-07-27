@@ -11,6 +11,7 @@ attendance: "E-Posta"
 organizer: "Bilecik Kültür ve Sanat Derneği"
 requirements: "Herkes katılabilir."
 permalink: "seyh-edebali-oyku-yarismasi"
+redirect_from: ["/seyh-edebali-oyku-"]
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/seyh-edebali-oyku-yarismasi.webp"
 excerpt: "Bilecik Kültür ve Sanat Derneği, Şeyh Edebali'nin hayatını ve öğretilerini konu alan öykü yarışması düzenliyor. Son başvuru: 1 Ekim 2026."
 ---
