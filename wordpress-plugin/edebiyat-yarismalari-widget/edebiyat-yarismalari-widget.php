@@ -1,7 +1,6 @@
 <?php
 /**
  * Plugin Name:       Edebiyat Yarışmaları Widget
- * Plugin URI:         https://edebiyatyarismalari.com
  * Description:        edebiyatyarismalari.com'daki güncel edebiyat yarışması duyurularını [eyw_widget] shortcode'u ile sitenizde listeler.
  * Version:            1.0.0
  * Requires at least:  5.8
