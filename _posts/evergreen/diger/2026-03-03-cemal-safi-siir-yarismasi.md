@@ -13,7 +13,7 @@ comTopic: "Serbest"
 organizer: "Samsun İlkadım Belediyesi"
 requirements: "Yarışmaya 18 yaş ve üzeri, T.C. vatandaşı olan herkes katılabilir"
 permalink: "cemal-safi-siir-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2026/subat/7-cemal-safi-siir-yarismasi.jpeg"
+image: "https://edebiyatyarismalari.com/images/2026/mart/7-cemal-safi-siir-yarismasi.jpeg"
 excerpt: "Samsun İlkadım Belediyesi'nin her yıl düzenlediği Cemal Safi Şiir Yarışması'nda toplam 75 Bin TL para ödülü dağıtılıyor. Son başvuru: 31 Mart 2026."
 ---
 
