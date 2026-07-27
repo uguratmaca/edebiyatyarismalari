@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "112 Acil Çağrı Merkezi Asılsız İhbar ve Gereksiz Çağrı Temalı Karikatür Yarışması"
+title: "112 Acil Çağrı Merkezi Asılsız İhbar Temalı Karikatür Yarışması"
 description: "Çankırı Valiliği 112 Acil Çağrı Merkezi Müdürlüğü '112 Acil Çağrı Merkezi Asılsız İhbar ve Gereksiz Çağrı Temalı Karikatür Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles

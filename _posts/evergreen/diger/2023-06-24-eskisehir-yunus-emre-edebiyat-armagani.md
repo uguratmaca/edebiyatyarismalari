@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yunus Emre Edebiyat Armağanı (Uluslararası Yunus Emre Edebiyat Şenliği)"
+title: "Yunus Emre Edebiyat Armağanı ve Edebiyat Şenliği"
 description: "Eskişehir Büyükşehir Belediyesi, kategorisi her yıl değişen (şiir, öykü, deneme, tiyatro metni vb.) Yunus Emre Edebiyat Armağanı'nı düzenliyor. 2026 teması: Neşe. Son başvuru: 26 Temmuz 2026."
 category: articles
 tags: [her yıl tekrarlanan, temmuz 2026, şiir yarışması, hikaye yarışması, deneme yarışması, genel, yunus emre]

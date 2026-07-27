@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3. Geleneksel Ekonomi Sınıfı Uçak Koltuk ve Parçaları Tasarım ve Mühendislik Yarışması"
+title: "3. Ekonomi Sınıfı Uçak Koltuğu Tasarım ve Mühendislik Yarışması"
 description: "TSI Seats '3. Geleneksel Ekonomi Sınıfı Uçak Koltuk ve Parçaları Tasarım ve Mühendislik Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles

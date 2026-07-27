@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Söğüt Tarih ve Doğa ile Buluşma-Karşılaşma Alanı Mimari Proje Yarışması"
+title: "Söğüt Tarih ve Doğa Buluşma Alanı Mimari Proje Yarışması"
 description: "TMMOB Mimarlar Odası Bursa Şubesi 'Söğüt Tarih ve Doğa ile Buluşma-Karşılaşma Alanı Mimari Proje Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles

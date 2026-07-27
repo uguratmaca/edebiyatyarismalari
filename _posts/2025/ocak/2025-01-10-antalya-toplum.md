@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Özel Antalya Toplum Koleji Anadolu Lisesi Liselerarası 1. Öykü Yarışması"
+title: "Antalya Toplum Koleji Liselerarası 1. Öykü Yarışması"
 description: "Özel Antalya Toplum Koleji Anadolu Lisesi Liselerarası 1. Öykü Yarışması düzenleniyor."
 category: articles
 tags: [şubat 2025, hikaye yarışması, antalya, lise]

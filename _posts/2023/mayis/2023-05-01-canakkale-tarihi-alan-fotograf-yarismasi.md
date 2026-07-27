@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Çanakkale Savaşları Gelibolu Tarihi Alan Başkanlığı Ulusal Fotoğraf Yarışması"
+title: "Çanakkale Gelibolu Tarihi Alan Ulusal Fotoğraf Yarışması"
 description: "Çanakkale Savaşları Gelibolu Tarihi Alan Başkanlığı 'fotoğraf yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles

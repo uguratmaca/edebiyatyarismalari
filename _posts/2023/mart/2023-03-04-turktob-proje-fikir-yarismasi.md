@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cumhuriyetimizin 100. Yılında Tohumculuğun Geleceği Proje Fikri Yarışması"
+title: "Cumhuriyetin 100. Yılında Tohumculuğun Geleceği Proje Yarışması"
 description: "Türkiye Tohumcular Birliği (TÜRKTOB) 'Cumhuriyetimizin 100. Yılında Tohumculuğun Geleceği Proje Fikri Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles

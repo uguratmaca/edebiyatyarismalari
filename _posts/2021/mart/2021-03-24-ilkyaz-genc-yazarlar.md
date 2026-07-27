@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "İlkyaz Genç Yazarlar 2021 Edebi/Düşünsel/Sanatsal Yazı ve İçerik Başvurusu"
+title: "İlkyaz Genç Yazarlar 2021 Edebi ve Sanatsal Yazı Başvurusu"
 description: "İlkyaz Ailesi, honorarium ödemesi yaparak her ay yer verdiği ana yazarların yanı sıra İlkyaz’ın web sitesinde her nevi edebi içerik de yayınlamaktadır"
 tags: [mayıs 2021, genel, deneme yarışması, makale yarışması]
 comments: true

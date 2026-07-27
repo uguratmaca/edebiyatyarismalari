@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kurtuluşa Giden Yolda Son Kale Haymana Resim Şiir Kompozisyon Yarışması"
+title: "Kurtuluşa Giden Yolda Son Kale Haymana Resim ve Şiir Yarışması"
 description: "Haymana Kaymakamlığı, Haymana Belediye Başkanlığı Ve Haymana İlçe Milli Eğitim Müdürlüğü 'Kurtuluşa Giden Yolda Son Kale Haymana Resim Şiir Kompozisyon Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles

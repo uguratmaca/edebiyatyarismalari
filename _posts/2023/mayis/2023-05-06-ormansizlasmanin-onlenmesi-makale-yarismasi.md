@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hukuk ve İklim Değişikliği Perspektifinden Ormansızlaşmanın Önlenmesi Makale Yarışması"
+title: "İklim Değişikliği ve Ormansızlaşmanın Önlenmesi Makale Yarışması"
 description: "WWF-Türkiye (Doğal Hayatı Koruma Vakfı) ile Kadir Has Üniversitesi İklim Değişikliği ve Hukuk Laboratuvarı (CCLLAB) 'Hukuk ve İklim Değişikliği Perspektifinden Ormansızlaşmanın Önlenmesi Makale Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles

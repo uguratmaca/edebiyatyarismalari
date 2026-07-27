@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EÇEV 11. İzmir Çocuk ve Gençlik Edebiyatı Günleri Gençler Öykü ve Şiir Yazma Yarışması"
+title: "EÇEV 11. İzmir Çocuk ve Gençlik Edebiyatı Günleri Öykü-Şiir Yarışması"
 description: "EÇEV 11. İzmir Çocuk ve Gençlik Edebiyatı Günleri Gençler Öykü ve Şiir Yazma Yarışması başvuruları açıldı"
 category: articles
 tags: [eylül 2025, hikaye yarışması, şiir yarışması, ilkokul, ortaokul, lise, izmir]

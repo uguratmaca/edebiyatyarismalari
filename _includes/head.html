@@ -8,7 +8,17 @@
   } catch (e) {}
 })();
 </script>
-{% capture page_title %}{% if page.title and page.title != site.title %}{% include dynamic-year.html text=page.title %} &#8211; {{ site.name }}{% elsif page.title %}{% include dynamic-year.html text=page.title %}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+{%- assign page_title = site.description -%}
+{%- if page.title -%}
+  {%- capture bare_title -%}{% include dynamic-year.html text=page.title %}{%- endcapture -%}
+  {%- assign page_title = bare_title -%}
+  {%- if page.title != site.title -%}
+    {%- assign full_title = bare_title | append: " – " | append: site.name -%}
+    {%- if full_title.size <= 70 -%}
+      {%- assign page_title = full_title -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endif -%}
 <title>{{ page_title }}</title>
 {%- assign page_description = "" -%}
 {%- if page.description and page.description.size >= 60 -%}
