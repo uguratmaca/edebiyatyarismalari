@@ -56,7 +56,8 @@ Yeni dönem duyurulunca o dosya güncellenir, sabit kalır.
 2. Evergreen dosyasında şu alanları yeni yılın bilgisiyle güncelle:
    - `date` (duyurunun yapıldığı gün)
    - `description`, `excerpt` (yeni ödül/tarih bilgisiyle)
-   - `tags` (ay/yıl etiketini güncelle, `her yıl tekrarlanan` etiketini koru)
+   - `tags` (ay/yıl etiketini güncelle, evergreen etiketini —`her yıl tekrarlanan` veya
+     `her yıl tekrarlanan hikaye`— olduğu gibi koru)
    - `lastDate` (yeni son başvuru tarihinin epoch/Unix timestamp karşılığı — bkz. aşağıdaki "Date" bölümü)
    - `dateHuman`, `price`, `comTopic`, `requirements`, `image` (varsa yeni bilgiyle)
    - **`permalink`'e dokunma** — sabit kalmalı, sitedeki tüm linkler ona göre çalışıyor
@@ -66,10 +67,14 @@ Yeni dönem duyurulunca o dosya güncellenir, sabit kalır.
 ### Yeni bir yarışmayı ilk kez evergreen'e çevirmek
 
 1. En güncel (son) yıla ait duyuru dosyasını `_posts/evergreen/` altına taşı
-   (`git mv ...`), dosya adını `<tarih>-<temiz-slug>.md` şeklinde ver.
+   (`git mv ...`), dosya adını `<tarih>-<temiz-slug>.md` şeklinde ver. `evergreen/` altında
+   iki alt klasör var: hikaye/öykü türü yarışmalar `hikaye/` alt klasörüne, diğer tüm türler
+   (şiir, roman, deneme, vb.) `diger/` alt klasörüne gider.
 2. Başlıktan/alt başlıklardan sıra numarasını veya yılı kaldır (örn. "5. Filan Yarışması" →
    "Filan Yarışması"), o yıla özgü talimatları (e-posta konu başlığı gibi) olduğu gibi bırak.
-3. `date` alanını ekle, `tags` listesine `her yıl tekrarlanan` ekle.
+3. `date` alanını ekle, `tags` listesine evergreen etiketini ekle: `hikaye/` alt klasörüne
+   giden postlarda `her yıl tekrarlanan hikaye` (tür soneki ile), `diger/` alt klasörüne
+   giden postlarda sade `her yıl tekrarlanan`.
 4. `permalink` için: eski yazılardan biri zaten temiz (yılsız) bir permalink kullanıyorsa onu
    evergreen sayfaya devret (o eski yazının permalink'ini `-<yıl>` ekleyerek değiştir); hiçbiri
    kullanmıyorsa yeni bir stabil slug seç.

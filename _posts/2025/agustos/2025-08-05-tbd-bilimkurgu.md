@@ -12,6 +12,7 @@ comTopic: "Serbest"
 organizer: "TBD BİLİŞİM DERGİSİ"
 requirements: "İsteyen herkes katılabilir"
 permalink: "tbd-bilim-kurgu-oyku-yarismasi-2025"
+archived_to: "/tbd-bilisim-dergisi-bilimkurgu-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/agustos/tbd-bilim-kurgu-oyku-yarismasi-2025.jpg"
 excerpt: "TBD BİLİŞİM DERGİSİ 27. Bilimkurgu Öykü Yarışmasını duyurdu."
 ---

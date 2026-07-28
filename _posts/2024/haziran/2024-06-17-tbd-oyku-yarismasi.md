@@ -12,6 +12,7 @@ totalPrize: "20 Bin TL'dir"
 organizer: "Türkiye Bilişim Derneği"
 requirements: "İsteyen herkes katılabilir"
 permalink: "tbd-bilimkurgu-oyku-yarismasi-2024"
+archived_to: "/tbd-bilisim-dergisi-bilimkurgu-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/haziran/bilim-kurgu-oyku-yarismasi-2024.jpg"
 excerpt: "Türkiye Bilişim Derneği (TBD) <strong>26. TBD Bilimkurgu Öykü Yarışması</strong>'nı duyurdu."
 ---

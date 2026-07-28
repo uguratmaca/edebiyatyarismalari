@@ -11,6 +11,7 @@ totalPrize: "6 Bin TL'dir"
 comTopic: "Serbest"
 requirements: "Yarışmaya herkes katılabilir."
 permalink: "tbd-2020-bilimkurgu-oyku-yarismasi"
+archived_to: "/tbd-bilisim-dergisi-bilimkurgu-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/haziran/tbd-bilimkurgu-oyku-yarismasi.jpg"
 ---
 

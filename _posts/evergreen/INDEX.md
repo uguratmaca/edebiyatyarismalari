@@ -55,6 +55,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Sürdürülebilirlik Fikir Yarışması** — [dosya](2023-07-02-surdurulebilirlik-fikir-yarismasi.md) · `/surdurulebilirlik-fikir-yarismasi`
 - **Süreyya Ağaoğlu Makale Yarışması** — [dosya](2026-06-17-sureyya-agaoglu-makale-yarismasi.md) · `/sureyya-agaoglu-makale-yarismasi`
 - **Tanpınar Edebiyat Yarışması (Osmangazi)** — [dosya](2025-03-11-osmangazi-tanpinar-edebiyat-yarismasi.md) · `/osmangazi-tanpinar-edebiyat-yarismasi`
+- **TBD Bilişim Dergisi Bilimkurgu Öykü Yarışması** — [dosya](2026-07-28-tbd-bilisim-dergisi-bilimkurgu-oyku-yarismasi.md) · `/tbd-bilisim-dergisi-bilimkurgu-oyku-yarismasi`
 - **Telsim Kısa Öykü Yarışması** — [dosya](2025-01-25-telsim-kisa-oyku-yarismasi.md) · `/telsim-kisa-oyku-yarismasi`
 - **Tudem Edebiyat Ödülleri** — [dosya](2026-02-01-tudem-edebiyat-odulleri.md) · `/tudem-edebiyat-odulleri`
 - **Turgut Özakman İlk Roman Yarışması** — [dosya](2026-05-26-turgut-ozakman-roman-yarismasi.md) · `/turgut-ozakman-roman-yarismasi`

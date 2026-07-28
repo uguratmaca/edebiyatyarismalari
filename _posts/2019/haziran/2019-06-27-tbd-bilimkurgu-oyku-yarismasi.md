@@ -9,6 +9,7 @@ lastDate: 1567198800
 dateHuman: "31 Ağustos 2019"
 totalPrize: "6 Bin TL'dir"
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/turkiye-bilisim-dergisi-2019-bilimkurgu-oyku-yarismasi.jpg?alt=media&token=0b1c9d07-a860-4581-814a-4ad9a79cd728"
+archived_to: "/tbd-bilisim-dergisi-bilimkurgu-oyku-yarismasi"
 ---
 
 TÜRKİYE BİLİŞİM DERGİSİ 2019 Bilimkurgu Öykü Yarışması

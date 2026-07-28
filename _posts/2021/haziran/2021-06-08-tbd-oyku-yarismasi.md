@@ -11,6 +11,7 @@ comTopic: "Serbest"
 attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"
 permalink: "tbd-23-bilimkurgu-oyku-yarismasi"
+archived_to: "/tbd-bilisim-dergisi-bilimkurgu-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/haziran/tbd-23-bilimkurgu-2021-oyku-yarismasi.jpg"
 excerpt: "Türkiye Bilişim Dergisi 23. Bilimkurgu Öykü Yarışmasını düzenliyor."
 ---
