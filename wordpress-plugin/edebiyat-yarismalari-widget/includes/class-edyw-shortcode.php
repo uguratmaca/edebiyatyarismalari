@@ -3,18 +3,18 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-require_once EYW_PLUGIN_DIR . 'includes/class-eyw-data-source.php';
+require_once EDYW_PLUGIN_DIR . 'includes/class-edyw-data-source.php';
 
 /**
- * [eyw_widget] shortcode'unu kaydeder ve render eder.
+ * [edyw_widget] shortcode'unu kaydeder ve render eder.
  */
-class EYW_Shortcode {
+class EDYW_Shortcode {
 
 	/**
 	 * Hook kayıtları.
 	 */
 	public static function init() {
-		add_shortcode( 'eyw_widget', array( __CLASS__, 'render' ) );
+		add_shortcode( 'edyw_widget', array( __CLASS__, 'render' ) );
 	}
 
 	/**
@@ -31,13 +31,13 @@ class EYW_Shortcode {
 				'baslik' => '',
 			),
 			$atts,
-			'eyw_widget'
+			'edyw_widget'
 		);
 
-		$items = EYW_Data_Source::get_items();
+		$items = EDYW_Data_Source::get_items();
 
 		if ( '' !== $atts['tip'] ) {
-			$items = EYW_Data_Source::filter_by_tag( $items, $atts['tip'] );
+			$items = EDYW_Data_Source::filter_by_tag( $items, $atts['tip'] );
 		}
 
 		$count = max( 1, (int) $atts['count'] );
@@ -47,24 +47,24 @@ class EYW_Shortcode {
 			return '';
 		}
 
-		wp_enqueue_style( 'eyw-style' );
+		wp_enqueue_style( 'edyw-style' );
 
 		ob_start();
 		?>
-		<div class="eyw-widget">
+		<div class="edyw-widget">
 			<?php if ( '' !== $atts['baslik'] ) : ?>
-				<h3 class="eyw-widget__title"><?php echo esc_html( $atts['baslik'] ); ?></h3>
+				<h3 class="edyw-widget__title"><?php echo esc_html( $atts['baslik'] ); ?></h3>
 			<?php endif; ?>
-			<ul class="eyw-widget__list">
+			<ul class="edyw-widget__list">
 				<?php foreach ( $items as $item ) : ?>
-					<li class="eyw-widget__item">
+					<li class="edyw-widget__item">
 						<a
 							href="<?php echo esc_url( $item['url'] ?? '' ); ?>"
 							rel="nofollow sponsored noopener"
 							target="_blank"
 						><?php echo esc_html( $item['title'] ?? '' ); ?></a>
 						<?php if ( ! empty( $item['dateHuman'] ) ) : ?>
-							<span class="eyw-widget__date">
+							<span class="edyw-widget__date">
 								<?php
 								echo esc_html(
 									sprintf(
@@ -77,7 +77,7 @@ class EYW_Shortcode {
 							</span>
 						<?php endif; ?>
 						<?php if ( ! empty( $item['totalPrize'] ) ) : ?>
-							<span class="eyw-widget__prize">
+							<span class="edyw-widget__prize">
 								<?php
 								echo esc_html(
 									sprintf(
@@ -92,7 +92,7 @@ class EYW_Shortcode {
 					</li>
 				<?php endforeach; ?>
 			</ul>
-			<p class="eyw-widget__credit">
+			<p class="edyw-widget__credit">
 				<?php esc_html_e( 'Kaynak:', 'edebiyat-yarismalari-widget' ); ?>
 				<a href="https://edebiyatyarismalari.com" rel="nofollow sponsored noopener" target="_blank">edebiyatyarismalari.com</a>
 			</p>

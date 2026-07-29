@@ -3,5 +3,5 @@ if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
 	exit;
 }
 
-delete_option( 'eyw_yarismalar_fallback' );
-delete_transient( 'eyw_yarismalar' );
+delete_option( 'edyw_yarismalar_fallback' );
+delete_transient( 'edyw_yarismalar' );

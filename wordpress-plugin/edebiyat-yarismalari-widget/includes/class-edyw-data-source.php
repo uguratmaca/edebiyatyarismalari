@@ -6,9 +6,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * edebiyatyarismalari.com/yarismalar.json besleme verisini çeker, cache'ler ve filtreler.
  */
-class EYW_Data_Source {
+class EDYW_Data_Source {
 
-	const FALLBACK_OPTION = 'eyw_yarismalar_fallback';
+	const FALLBACK_OPTION = 'edyw_yarismalar_fallback';
 
 	/**
 	 * Yarışma listesini döndürür (en yakın son başvuru tarihi önce).
@@ -16,7 +16,7 @@ class EYW_Data_Source {
 	 * @return array
 	 */
 	public static function get_items() {
-		$items = get_transient( EYW_TRANSIENT_KEY );
+		$items = get_transient( EDYW_TRANSIENT_KEY );
 
 		if ( false === $items ) {
 			$items = self::fetch_remote();
@@ -43,7 +43,7 @@ class EYW_Data_Source {
 	 */
 	private static function fetch_remote() {
 		$response = wp_remote_get(
-			EYW_FEED_URL,
+			EDYW_FEED_URL,
 			array(
 				'timeout' => 5,
 			)
@@ -62,7 +62,7 @@ class EYW_Data_Source {
 			return is_array( $fallback ) ? $fallback : array();
 		}
 
-		set_transient( EYW_TRANSIENT_KEY, $items, EYW_CACHE_TTL );
+		set_transient( EDYW_TRANSIENT_KEY, $items, EDYW_CACHE_TTL );
 		update_option( self::FALLBACK_OPTION, $items, false );
 
 		return $items;
