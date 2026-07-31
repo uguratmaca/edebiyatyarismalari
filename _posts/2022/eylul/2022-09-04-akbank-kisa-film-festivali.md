@@ -13,6 +13,7 @@ totalPrize: "5.000 USD + 50 Bin TL'dir."
 hidden: true
 requirements: "TC uyruklu herkes katılabilir."
 permalink: "akbank-kisa-film-festivali"
+archived_to: "/akbank-kisa-film-festivali-senaryo-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/akbank-kisa-film-festivali.jpg"
 excerpt:  "Akbank Sanat <strong> 19. Akbank Kısa Film Festivali </strong> düzenliyor."
 ---

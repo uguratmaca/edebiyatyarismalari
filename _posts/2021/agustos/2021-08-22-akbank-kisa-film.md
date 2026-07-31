@@ -12,6 +12,7 @@ totalPrize: "80 Bin TL'dir"
 attendance: "Websitesi"
 requirements: "İsteyen herkes katılabilir"
 permalink: "18-akbank-kisa-film-yarismasi"
+archived_to: "/akbank-kisa-film-festivali-senaryo-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/agustos/18-akbank-kisa-film-festivali.JPG"
 excerpt: "Akbank Kısa Film Forum bölümü kapsamında, yapım desteği amaçlı bir kısa film yarışması yapılacaktır"
 ---
