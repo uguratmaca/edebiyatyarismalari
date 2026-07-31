@@ -11,6 +11,7 @@ comTopic: "Nasılsın?"
 attendance: "Posta, E-Posta"
 requirements: "Türkiye’de ya da yurt dışında yaşayan bütün kadınlara açıktır"
 permalink: "17-kadin-kadina-oyku-yarismasi"
+archived_to: "/kadin-kadina-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/kasim/kaos-gl-17-kadin-kadina-oyku-yarismasi.jpg"
 excerpt: "Kaos GL’nin 17. Kadın Kadına Öykü Yarışması’na başvurular başladı"
 ---

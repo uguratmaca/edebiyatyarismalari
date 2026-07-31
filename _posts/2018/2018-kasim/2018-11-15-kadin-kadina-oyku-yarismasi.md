@@ -3,6 +3,7 @@ layout: post
 title: "14. Kadın Kadına Öykü Yarışması"
 description: "Bir dostluktan neler doğar"
 category: articles
+archived_to: "/kadin-kadina-oyku-yarismasi"
 tags: []
 comments: true
 ---

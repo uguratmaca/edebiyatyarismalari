@@ -11,6 +11,7 @@ totalPrize: "2250 TL'dir"
 comTopic: "Ev"
 requirements: "Yarışma, Türkiye’de ya da yurt dışında yaşayan bütün kadınlara açıktır."
 permalink: "16-kadin-kadina-oyku-yarismasi"
+archived_to: "/kadin-kadina-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/aralik/kaosgl-16-oyku-yarismasi.jpg"
 excerpt: "Kaos GL’nin 16. Kadın Kadına Öykü Yarışması’na başvurular açıldı. Bu senenin teması Ev."
 ---

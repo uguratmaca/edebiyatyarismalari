@@ -11,6 +11,7 @@ totalPrize: "2 Bin 250 TL'dir"
 comTopic: "Geleceği Hatırla!"
 attendance: "E-Posta ya da Posta"
 requirements: "Yarışma, Türkiye’de ya da yurt dışında yaşayan bütün kadınlara açıktır."  
+archived_to: "/kadin-kadina-oyku-yarismasi"
 ---
 
 Bu yıl on beşincisi düzenlenen Kadın Kadına Öykü Yarışması başvuruları başladı. Son başvuru tarihi 1 Mart 2020, Pazar. 15. Kadın Kadına Öykü Yarışması'nın duyurusu ise şöyle:
