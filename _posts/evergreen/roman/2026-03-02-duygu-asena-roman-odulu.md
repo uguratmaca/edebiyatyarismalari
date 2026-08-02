@@ -4,7 +4,7 @@ title: "Duygu Asena Roman Ödülü"
 description: "Doğan Kitap'ın 50 Bin TL para ödüllü Duygu Asena Roman Ödülü'nde son başvuru tarihi: 3 Nisan 2026."
 date: 2026-03-02
 category: articles
-tags: [her yıl tekrarlanan, nisan 2026, roman yarışması, genel]
+tags: [her yıl tekrarlanan roman, nisan 2026, roman yarışması, genel]
 lastDate: 1775167200
 dateHuman: "3 Nisan 2026"
 comTopic: "Serbest"

@@ -3,7 +3,7 @@ layout: post
 title: "Muzaffer İzgü Çocuk Romanı Yarışması"
 description: "Bilgi Yayınevi 2025 yılı Muzaffer İzgü Çocuk Romanı Yarışması'nı duyurdu"
 category: articles
-tags: [her yıl tekrarlanan, eylül 2025, roman yarışması, muzaffer izgü, genel]
+tags: [her yıl tekrarlanan roman, eylül 2025, roman yarışması, muzaffer izgü, genel]
 lastDate: 1759183200
 dateHuman: "​30 Eylül 202​5"
 attendance: "E-Posta"

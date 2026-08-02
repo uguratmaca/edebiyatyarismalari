@@ -3,7 +3,7 @@ layout: post
 title: "Emine Işınsu Roman Ödülü"
 description: "Emine Işınsu Roman Ödülü'ne daha önce yayımlanmamış eserlerle isteyen herkes katılabilir."
 category: articles
-tags: [her yıl tekrarlanan, şubat 2027, roman yarışması, kitap dosyası, genel]
+tags: [her yıl tekrarlanan roman, şubat 2027, roman yarışması, kitap dosyası, genel]
 lastDate: 1801429200
 dateHuman: "1 Şubat 2027"
 comTopic: "Serbest"

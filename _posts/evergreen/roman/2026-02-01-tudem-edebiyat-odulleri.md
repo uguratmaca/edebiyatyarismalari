@@ -4,7 +4,7 @@ title: "Tudem Edebiyat Ödülleri"
 description: "Tudem Yayın Grubu'nun 2003'ten bu yana düzenlediği Tudem Edebiyat Ödülleri'nin güncel (24.) dönem konusu: Romanla Tanışıyorum (Kısa Çocuk Romanı)."
 date: 2026-07-01
 category: articles
-tags: [her yıl tekrarlanan, kasım 2026, roman yarışması, genel]
+tags: [her yıl tekrarlanan roman, kasım 2026, roman yarışması, genel]
 lastDate: 1793487600
 dateHuman: "1 Kasım 2026"
 attendance: "Posta, Kargo"

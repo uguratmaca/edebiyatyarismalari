@@ -5,7 +5,7 @@ description: "Simit Çay Edebiyat Etkinlikleri'nin düzenlediği ödüllü şiir
 date: 2026-06-23
 author: "Ümit Atmaca"
 category: articles
-tags: [her yıl tekrarlanan, aralık 2026, şiir yarışması, genel]
+tags: [her yıl tekrarlanan şiir, aralık 2026, şiir yarışması, genel]
 lastDate: 1798664400
 totalPrize: "8 Bin TL'dir"
 dateHuman: "31 Aralık 2026"

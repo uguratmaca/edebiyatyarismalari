@@ -3,7 +3,7 @@ layout: post
 title: "Arkadaş Z. Özger Şiir Ödülü"
 description: "Mayıs Yayınları Arkadaş Z. Özger Şiir Ödülünü duyurdu."
 category: articles
-tags: [her yıl tekrarlanan, mart 2026, şiir yarışması, genel]
+tags: [her yıl tekrarlanan şiir, mart 2026, şiir yarışması, genel]
 lastDate: 1773529200
 dateHuman: "15 Mart 2026"
 comTopic: "Serbest"

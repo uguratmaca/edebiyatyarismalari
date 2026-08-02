@@ -3,7 +3,7 @@ layout: post
 title: "Enver Gökçe Toplumcu Gerçekci Şiir Ödülü"
 description: "Özgür Öyküşiir Dergisi Enver Gökçe Toplumcu Şiir Ödülü düzenliyor."
 category: articles
-tags: [her yıl tekrarlanan, temmuz 2026, şiir yarışması, genel]
+tags: [her yıl tekrarlanan şiir, temmuz 2026, şiir yarışması, genel]
 lastDate: 1782856800
 dateHuman: "1 Temmuz 2026"
 attendance: "E-Posta/Kargo/Posta"

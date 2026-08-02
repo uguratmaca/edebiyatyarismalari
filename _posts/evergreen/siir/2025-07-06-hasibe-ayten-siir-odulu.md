@@ -3,7 +3,7 @@ layout: post
 title: "Hasibe Ayten Şiir Ödülü"
 description: "Payda Yayınları Hasibe Ayten Şiir Ödülü'nü duyurdu"
 category: articles
-tags: [her yıl tekrarlanan, eylül 2025, şiir yarışması, kitap dosyası, genel]
+tags: [her yıl tekrarlanan şiir, eylül 2025, şiir yarışması, kitap dosyası, genel]
 lastDate: 1756677600
 dateHuman: "1 Eylül 2025"
 attendance: "Posta, Kargo"

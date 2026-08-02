@@ -5,7 +5,7 @@ description: "Çiğli Belediyesi'nin her yıl düzenlediği Fakir Baykurt Roman 
 date: 2024-03-02
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [her yıl tekrarlanan, mart 2024, roman yarışması, genel, fakir baykurt]
+tags: [her yıl tekrarlanan roman, mart 2024, roman yarışması, genel, fakir baykurt]
 lastDate: 1711314000
 dateHuman: "25 Mart 2024"
 attendance: "Posta/Kargo"

@@ -5,7 +5,7 @@ description: "Cide Belediye Başkanlığı tarafından her yıl düzenlenen Rıf
 date: 2024-02-03
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [her yıl tekrarlanan, rıfat ılgaz, şiir yarışması, genel]
+tags: [her yıl tekrarlanan şiir, rıfat ılgaz, şiir yarışması, genel]
 lastDate: 1713128400
 totalPrize: "5 Bin TL'dir."
 dateHuman: "15 Nisan 2024"

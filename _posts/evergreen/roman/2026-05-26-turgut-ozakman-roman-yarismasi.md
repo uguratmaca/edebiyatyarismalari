@@ -5,7 +5,7 @@ description: "Bilgi Yayınevi'nin her yıl düzenlediği İlk Roman Yarışması
 date: 2026-05-26
 author: "Ümit Atmaca"
 category: articles
-tags: [her yıl tekrarlanan, mayıs 2026, roman yarışması, genel]
+tags: [her yıl tekrarlanan roman, mayıs 2026, roman yarışması, genel]
 lastDate: 1781470800
 totalPrize: "25 Bin TL'dir"
 dateHuman: "15 Haziran 2026"

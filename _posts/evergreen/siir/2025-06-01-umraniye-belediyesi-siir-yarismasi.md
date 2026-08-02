@@ -4,7 +4,7 @@ title: "Ümraniye Belediyesi Geleneksel Şiir Yarışması"
 description: "130 Bin TL toplam ödüllü Ümraniye Belediyesi Geleneksel Şiir Yarışması'na her yıl başvurular açılıyor. Son başvuru: 31 Temmuz 2026."
 date: 2026-07-06
 category: articles
-tags: [her yıl tekrarlanan, temmuz 2026, şiir yarışması, genel]
+tags: [her yıl tekrarlanan şiir, temmuz 2026, şiir yarışması, genel]
 lastDate: 1785448800
 dateHuman: "31 Temmuz 2026"
 attendance: "Websitesi"

@@ -4,7 +4,7 @@ title: "Eskişehir Yunus Emre Şiir Yarışması"
 description: "Eskişehir Sanat Derneği, 'Serbest Konulu' ve 'Yunus Emre İçin Yazılmış Şiirler' kategorilerinde Eskişehir Yunus Emre Şiir Yarışması'nı duyurdu."
 date: 2026-07-09
 category: articles
-tags: [her yıl tekrarlanan, eylül 2026, şiir yarışması, yunus emre, genel]
+tags: [her yıl tekrarlanan şiir, eylül 2026, şiir yarışması, yunus emre, genel]
 lastDate: 1788987600
 dateHuman: "10 Eylül 2026"
 attendance: "Posta/Kargo"

@@ -4,7 +4,7 @@ title: "Kemal Özer Şiir Ödülü"
 description: "Kemal Özer ve Simge Özer Pınarbaşı anısına ailesi ve Artshop Yayıncılık tarafından düzenlenen Kemal Özer Şiir Ödülü'ne son başvuru: 31 Ocak 2027."
 date: 2026-07-27
 category: articles
-tags: [her yıl tekrarlanan, ocak 2027, şiir yarışması, kitap dosyası, genel]
+tags: [her yıl tekrarlanan şiir, ocak 2027, şiir yarışması, kitap dosyası, genel]
 lastDate: 1801342800
 dateHuman: "31 Ocak 2027"
 comTopic: "Serbest"

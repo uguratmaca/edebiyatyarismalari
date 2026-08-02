@@ -4,7 +4,7 @@ title: "Cemal Safi Şiir Yarışması"
 description: "Samsun İlkadım Belediyesi'nin her yıl düzenlediği Cemal Safi Şiir Yarışması'nda toplam 75 Bin TL para ödülü dağıtılıyor. Son başvuru: 31 Mart 2026."
 date: 2026-03-03
 category: articles
-tags: [her yıl tekrarlanan, mart 2026, şiir yarışması, genel]
+tags: [her yıl tekrarlanan şiir, mart 2026, şiir yarışması, genel]
 lastDate: 1774908000
 totalPrize: "75 Bin TL'dir"
 dateHuman: "31 Mart 2026"

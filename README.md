@@ -68,13 +68,16 @@ Yeni dönem duyurulunca o dosya güncellenir, sabit kalır.
 
 1. En güncel (son) yıla ait duyuru dosyasını `_posts/evergreen/` altına taşı
    (`git mv ...`), dosya adını `<tarih>-<temiz-slug>.md` şeklinde ver. `evergreen/` altında
-   iki alt klasör var: hikaye/öykü türü yarışmalar `hikaye/` alt klasörüne, diğer tüm türler
-   (şiir, roman, deneme, vb.) `diger/` alt klasörüne gider.
+   dört alt klasör var: hikaye/öykü türü yarışmalar `hikaye/`, şiir yarışmaları `siir/`,
+   roman yarışmaları `roman/`, diğer tüm türler (deneme, senaryo, makale vb.) ve **birden
+   fazla türü birden kapsayan** (ör. hem şiir hem hikaye dallı) yarışmalar `diger/` alt
+   klasörüne gider — bir yarışma yalnızca tek bir türe (tag'lerinde sadece o türün tag'i
+   varsa) aitse kendi tür klasörüne, birden fazla türü kapsıyorsa `diger/`'e gider.
 2. Başlıktan/alt başlıklardan sıra numarasını veya yılı kaldır (örn. "5. Filan Yarışması" →
    "Filan Yarışması"), o yıla özgü talimatları (e-posta konu başlığı gibi) olduğu gibi bırak.
-3. `date` alanını ekle, `tags` listesine evergreen etiketini ekle: `hikaye/` alt klasörüne
-   giden postlarda `her yıl tekrarlanan hikaye` (tür soneki ile), `diger/` alt klasörüne
-   giden postlarda sade `her yıl tekrarlanan`.
+3. `date` alanını ekle, `tags` listesine evergreen etiketini ekle: gittiği alt klasöre göre
+   `her yıl tekrarlanan hikaye`, `her yıl tekrarlanan şiir`, `her yıl tekrarlanan roman`
+   (tür soneki ile) veya `diger/` alt klasörüne giden postlarda sade `her yıl tekrarlanan`.
 4. `permalink` için: eski yazılardan biri zaten temiz (yılsız) bir permalink kullanıyorsa onu
    evergreen sayfaya devret (o eski yazının permalink'ini `-<yıl>` ekleyerek değiştir); hiçbiri
    kullanmıyorsa yeni bir stabil slug seç.

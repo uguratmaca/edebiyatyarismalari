@@ -3,7 +3,7 @@ layout: post
 title: "İlk Polisiye Roman Yarışması"
 description: "Mahal Edebiyat ve SUÇÜSTÜ iş birliğiyle 3. İlk Polisiye Roman Yarışması başvuruları başladı"
 category: articles
-tags: [her yıl tekrarlanan, aralık 2026, roman yarışması, polisiye, genel]
+tags: [her yıl tekrarlanan roman, aralık 2026, roman yarışması, polisiye, genel]
 lastDate: 1798664400
 dateHuman: "31 Aralık 2026"
 attendance: "E-Posta"
