@@ -22,18 +22,22 @@ excerpt: "Evrenkent Kalemleri <strong>Öykü Yarışması</strong> düzenliyor."
 Evrenkent Kalemleri, "kullan-atçı" bir dünyaya karşı zihnin sınırlarını genişletmek amacıyla kurulmuş bir dernektir. Dernek, insanları üretime teşvik etmek için her yıl bir **Öykü Yarışması** düzenliyor; Türkçe hassasiyeti ilkesi doğrultusunda belirlenen değerlendirme ölçütleri çerçevesinde üç kazanan seçilip ödüllendiriliyor.
 
 Katılım Koşulları:
-- Yarışmaya sadece on sekiz yaş ve üstü katılabilir.
-- Katılımcı, Evrenkent Kalemleri'nin İnstagram veya Twitter hesabını takip etmek zorundadır.
+- Yabancı kelime kullanımından kaçınılmalı, asgari düzeyde tutulmalıdır.
+- Yarışmaya sadece 18 yaş ve üstü katılabilir.
+- Katılımcı, Evrenkent Kalemleri'nin İnstagram ve Youtube hesabını takip etmek zorundadır.
 - Öykü, daha önce bir yerde yayımlanmamış ve ödül almamış olmalıdır.
 - Metin başkasına ait olmamalıdır ya da yüksek oranda alıntı içermemelidir.
-- Evrenkent Kalemleri topluluğu üyelerinin birinci derece akrabaları yarışmaya katılamaz.
-- Her yarışmacı sadece bir öykü ile başvuru yapabilir.
-- Yarışmacılar gerçek isimleriyle başvuru yapmak zorundadır; öykünün dergide yayımlanması durumunda dilerlerse bir mahlas tercih edebilirler.
-- Yabancı kelime kullanımından kaçınılmalı, Türkçeye özen gösterilerek yazılmalıdır.
-- Öykü, Microsoft Word veya Google Dokümanlar üzerinden; başlıkta 13, metinde 12 punto "Times New Roman" yazı tipiyle yazılmalıdır.
-- Paragraf başları boşluk tuşu yerine klavyedeki sekme (tab) tuşuyla verilmelidir.
+- Evrenkent Kalemleri Derneği üyelerinin birinci derece akrabaları yarışmaya katılamaz.
+- Her yarışmacı sadece 1 öykü ile başvuru yapabilir.
+- Yarışmacılar, gerçek isimleriyle başvuru yapmak zorundadırlar. Öykünün dergimizde yayımlanması durumunda dilerlerse bir mahlas tercih edebilirler.
+- Yurt dışından katılarak ilk 3'e giren yarışmacılara ödül gönderimi yapılamamaktadır; bu katılımcıların ödülleri Türkiye sınırları içerisinde belirtecekleri bir kişinin adresine teslim edilebilir.
+- Türkçeye özen gösterilerek yazılmalıdır.
+- Öykünüzü, Microsoft Word veya Google Dokümanlar üzerinden yazmanız tavsiye edilir.
+- Harf boyutu başlıkta 13, metinde ise 12 olmalıdır.
+- Metin "Times New Roman" yazı türüyle yazılmalıdır.
+- Paragraf başlarının boşluk tuşu ile değil, klavyedeki sekme (tab) tuşu ile verilmesi gereklidir.
 - Metin en az 600 kelimeden oluşmalıdır.
-- Belgeye isim, öz geçmiş gibi kişisel hiçbir bilgi yazılmamalıdır.
+- Belgeye kişisel hiçbir bilgi (isim, öz geçmiş vs.) yazılmamalıdır.
 - Son başvuru tarihi 30 Ağustos 2026'dır.
 - Katılım ücretsizdir.
 
@@ -55,6 +59,25 @@ Sonuçlar 29 Ekim 2026'da açıklanacaktır.
 - İlhan Tarus - Hükümet Meydanı
 - Gürcan Sağlam - Atatürk Dönemi İç Gelişmeleri
 - Gürcan Sağlam - Hamuşan
+
+## Evrenkent Kalemleri Öykü Yarışması Jürisi
+
+- Dr. Gürcan Sağlam
+- Kadir Kadakal
+- Sezer Aydın
+
+Yarışmayla Türkçe hassasiyetini artırmak amaçlanıyor; değerlendirme ölçütleri kapsamında yabancı kelimeler yerine Türkçe karşılıklarını kullanan veya yeni karşılıklar öneren katılımcılar öne çıkarılıyor. Öyküler 10 üzerinden şu ölçütlerle puanlanıyor:
+
+- (+2) Yabancı kelime kullanımı (kabul edilebilir sınırın üzerinde ve yersiz kullanım olumsuz etkiler)
+- (+1) Konu ve özgünlük
+- (+1) Derinlik (karakter ve olay kurgusu)
+- (+1) Dil ve üslup
+- (+1) Anlatım ve betimleme
+- (+1) Okunabilirlik
+- (+1) Alt metin
+- (+2) Genel kanaat
+
+Gönderilen öyküler önce ön elemeden geçirilir; kabul edilenler seçici kurul tarafından bu ölçütlerle değerlendirilir, ardından her kurul üyesinin en çok beğendiği iki öykü yeniden okunup kurulun mutabakatıyla ilk üç belirlenir. Kazananlara sonuç ileti veya çağrıyla bildirilir.
 
 ### Geçmiş Yıllar
 
