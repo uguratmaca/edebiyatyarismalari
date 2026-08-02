@@ -13,6 +13,7 @@ requirements: "Yarışmaya sadece on sekiz yaş ve üstü katılabilir."
 permalink: "evrenkent-kalemleri-2-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/haziran/evrenkent-kalemleri-2-oyku-yarismasi.jpg"
 excerpt: "Evrenkent Kalemleri 2. Türkçe Öykü Yarışması başvuruları açıldı"
+archived_to: "/evrenkent-kalemleri-oyku-yarismasi"
 ---
 
 ## Evrenkent Kalemleri 2. Türkçe Öykü Yarışması

@@ -27,6 +27,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Enver Gökçe Toplumcu Gerçekçi Şiir Ödülü** — [dosya](siir/2026-02-28-enver-gokce-siir-odulu.md) · `/enver-gokce-siir-odulu`
 - **Eskişehir Yunus Emre Şiir Yarışması** — [dosya](siir/2025-08-23-yunus-emre-siir-yarismasi.md) · `/yunus-emre-siir-yarismasi`
 - **Everest Yayınları İlk Roman Yarışması** — [dosya](roman/2026-06-17-everest-yayinlari-ilk-roman-yarismasi.md) · `/everest-yayinlari-ilk-roman-yarismasi`
+- **Evrenkent Kalemleri Öykü Yarışması** — [dosya](hikaye/2026-08-02-evrenkent-kalemleri-oyku-yarismasi.md) · `/evrenkent-kalemleri-oyku-yarismasi`
 - **Ezber Bozan Tasarım Yarışması** — [dosya](2023-04-21-ezber-bozan-tasarim-yarismasi.md) · `/ezber-bozan-tasarim-yarismasi`
 - **Fakir Baykurt Roman Ödülü** — [dosya](roman/2024-03-02-fakir-baykurt-roman-odulu.md) · `/fakir-baykurt-roman-odulu`
 - **Fakir Baykurt Öykü Yarışması** — [dosya](2026-01-22-fakir-baykurt-oyku-yarismasi.md) · `/fakir-baykurt-oyku-yarismasi`

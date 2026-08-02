@@ -12,9 +12,10 @@ attendance: "Websitesi"
 organizer: "Evrenkent Kalemleri"
 requirements: "18 yaş ve üstü herkes katılabilir."
 totalPrize: "Bin 500 TL Amazon Hediye Kağıdı ve Kitap'dır."
-permalink: "evrenkent-kalemleri-oyku-yarismasi"
+permalink: "evrenkent-kalemleri-oyku-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/mart/evrenkent-kalemleri-oyku-yarismasi.webp"
 excerpt:  "Evrenkent Kalemleri <strong> öykü yarışması </strong> düzenliyor."
+archived_to: "/evrenkent-kalemleri-oyku-yarismasi"
 ---
 
 ## Evrenkent Kalemleri Öykü Yarışması
