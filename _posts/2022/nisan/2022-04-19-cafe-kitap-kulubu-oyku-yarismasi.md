@@ -11,9 +11,10 @@ attendance: "E-posta"
 comTopic: "Konu serbesttir."
 organizer: "Cafe Kitap Kulübü"
 requirements: "İsteyen herkes katılabilir."
-permalink: "cafe-kitap-kulubu-oyku-yarismasi"
+permalink: "cafe-kitap-kulubu-oyku-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/nisan/cafe-kitap-kulubu-oyku-yarismasi.jpg"
 excerpt:  "Cafe Kitap Kulübü  <strong> Öykü Yarışması </strong> düzenliyor."
+archived_to: "/cafe-kitap-kulubu-oyku-yarismasi"
 ---
 
 ## Cafe Kitap Kulübü Öykü Yarışması

@@ -16,6 +16,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Attilâ İlhan Edebiyat Ödülleri** — [dosya](2025-06-01-attila-ilhan-edebiyat-odulleri.md) · `/attila-ilhan-edebiyat-odulleri`
 - **Aydınlık Yarınlara Kitap Okuma Yarışması** — [dosya](2025-03-29-aydinlik-yarinlara-kitap-okuma-yarismasi.md) · `/aydinlik-yarinlara-kitap-okuma-yarismasi`
 - **Benim Eserim Senaryo Yarışması** — [dosya](2026-07-11-benim-eserim-senaryo-yarismasi.md) · `/benim-eserim-senaryo-yarismasi`
+- **Cafe Kitap Kulübü Öykü Yarışması** — [dosya](hikaye/2026-08-05-cafe-kitap-kulubu-oyku-yarismasi.md) · `/cafe-kitap-kulubu-oyku-yarismasi`
 - **Cemal Safi Şiir Yarışması** — [dosya](siir/2026-03-03-cemal-safi-siir-yarismasi.md) · `/cemal-safi-siir-yarismasi`
 - **Cumba Edebiyat Yarışması** — [dosya](2026-01-03-cumba-edebiyat-yarismasi.md) · `/cumba-edebiyat-yarismasi`
 - **Dedektif Dergi Zehirli Kalem Öykü Yarışması** — [dosya](2026-06-17-dedektif-dergi-zehirli-kalem-oyku-yarismasi.md) · `/dedektif-dergi-zehirli-kalem-oyku-yarismasi`

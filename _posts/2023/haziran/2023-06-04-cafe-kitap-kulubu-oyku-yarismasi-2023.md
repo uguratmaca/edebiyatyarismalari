@@ -14,6 +14,7 @@ requirements: "Yetişkin herkes katılabilir."
 permalink: "cafe-kitap-kulubu-oyku-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/haziran/cafe-kitap-kulubu-oyku-yarismasi-2023.jpg"
 excerpt:  "Cafe Kitap Kulübü <strong> öykü yarışması </strong> düzenliyor."
+archived_to: "/cafe-kitap-kulubu-oyku-yarismasi"
 ---
 
 ## 2. Cafe Kitap Kulübü Öykü Yarışması

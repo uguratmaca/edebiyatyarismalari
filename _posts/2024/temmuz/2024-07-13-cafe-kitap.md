@@ -13,6 +13,7 @@ requirements: "18 yaş üzeri herkes katılabilir."
 permalink: "3-cafe-kitap-kulubu-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/haziran/cafe-kitap-kulubu-oyku-yarismasi-2023.jpg"
 excerpt: "3. Cafe Kitap Kulübü Öykü Yarışması duyuruldu."
+archived_to: "/cafe-kitap-kulubu-oyku-yarismasi"
 ---
 
 ## 3. Cafe Kitap Kulübü Öykü Yarışması

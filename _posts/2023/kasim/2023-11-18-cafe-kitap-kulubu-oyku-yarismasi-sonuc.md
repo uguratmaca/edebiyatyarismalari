@@ -8,6 +8,7 @@ tags: [sonuç 2023]
 permalink: "cafe-kitap-kulubu-oyku-yarismasi-sonuc"
 excerpt: "Cafe Kitap Kulübü tarafından düzenlenen Cafe Kitap Kulübü Öykü Yarışması kazananları belli olmuştur."
 image: "https://edebiyatyarismalari.com/images/2023/kasim/cafe-kitap-kulubu-oyku-yarismasi-sonuc.jpg"
+archived_to: "/cafe-kitap-kulubu-oyku-yarismasi"
 ---
 
 ## Cafe Kitap Kulübü Öykü Yarışması Sonucu
