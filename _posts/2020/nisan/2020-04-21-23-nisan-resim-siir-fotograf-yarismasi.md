@@ -11,6 +11,7 @@ comTopic: "23 Nisan, Evde Hayat Var"
 attendance: "Whatsapp, E-Posta"
 requirements: "05-15 Yaş arası çocuklar katılabilir"
 permalink: "23-nisan-resim-siir-fotograf-yarismasi-2020"
+redirect_from: ["/23-nisan-ilkokul-ortaokul-siir-resim-yarismasi-2020"]
 image: "https://edebiyatyarismalari.com/images/2020/nisan/23-nisan-resim-siir-fotograf-yarismasi.jpg"
 ---
 

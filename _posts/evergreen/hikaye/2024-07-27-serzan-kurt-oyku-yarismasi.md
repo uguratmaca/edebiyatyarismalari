@@ -11,6 +11,7 @@ attendance: "E-posta"
 organizer: "Eğitim Sen Batman Şubesi"
 requirements: "İsteyen herkes katılabilir."
 permalink: "serzan-kurt-oyku-yarismasi"
+redirect_from: ["/14-serzan-kurt-oyku-odulu"]
 image: "https://edebiyatyarismalari.com/images/2024/temmuz/serzan-kurt-oyku-yarismasi.jpg"
 excerpt: "Eğitim Sen Batman Şubesi'nin, Muğla'da yaşanan olaylarda hayatını kaybeden Şerzan Kurt anısına her yıl düzenlediği öykü yarışması."
 ---
