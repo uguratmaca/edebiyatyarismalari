@@ -5,9 +5,11 @@ Jekyll sitesi. Yarışma duyuruları `_posts/<yıl>/<ay>/` altında, klasör pos
 Yeni yarışma postu eklerken front matter alanları, `tags` filtre kategorileri ve görsel
 işleme (resize/watermark) için `.claude/notes-post-schema.md`'ye bak.
 
-## Öncelik: SEO
+## Öncelik: SEO ve GEO
 
 Bu proje için her zaman öncelik **SEO**'dur. Tasarım, UX, performans gibi konularda karar verirken de bu önceliği göz önünde bulundur (ör. semantic HTML, başlık hiyerarşisi, alt text, sayfa hızı, crawl edilebilirlik, structured data gibi etkenler tercih sebebidir).
+
+**GEO** (Generative Engine Optimization — ChatGPT, Perplexity, Google AI Overviews, Claude gibi yapay zekâ motorları tarafından keşfedilmek/atıf almak) de SEO kadar önemli bir önceliktir. Kullanıcılar artık "şu an açık öykü yarışmaları neler" gibi soruları arama motoru yerine bir AI'a soruyor; sitenin bu tür yanıtlarda kaynak gösterilmesi de SEO kadar değerli. Kararlarda bunu da göz önünde bulundur: içeriğin AI tarafından kolayca çıkarılabilir/alıntılanabilir olması (net, etiketli gerçekler; belirsiz olmayan tek-konu sayfalar), yapılandırılmış veri (schema.org), ve AI crawler'ların engellenmemesi gibi etkenler tercih sebebidir.
 
 ## Front matter `tags` kuralları
 

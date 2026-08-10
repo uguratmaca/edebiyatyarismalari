@@ -44,12 +44,4 @@ sitemap: false
       {% endif %}
     </url>
   {% endfor %}
-
-  {% assign static_files = site.static_files | where_exp:'file','file.sitemap != false' | where_exp:'file','file.name != "404.html"' %}
-  {% for file in static_files %}
-    <url>
-      <loc>{{ file.path | replace:'/index.html','/' | absolute_url | xml_escape }}</loc>
-      <lastmod>{{ file.modified_time | date_to_xmlschema }}</lastmod>
-    </url>
-  {% endfor %}
 </urlset>
