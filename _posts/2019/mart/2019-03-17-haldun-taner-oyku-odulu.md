@@ -9,6 +9,7 @@ lastDate: 1554238800
 dateHuman: "3 Nisan 2019"
 comTopic: "Serbest"
 totalPrize: "20 Bin TL'dir"
+archived_to: "/haldun-taner-oyku-odulu/"
 ---
 
 Milliyet gazetesince 30 yıldır verilen Türk edebiyatının en saygın ödüllerinden "Haldun Taner Öykü Ödülü" için 3 Nisan’a kadar başvuru yapılabilecek

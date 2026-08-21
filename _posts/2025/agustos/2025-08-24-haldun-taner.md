@@ -14,6 +14,7 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "haldun-taner-oyku-odulu-2025"
 image: "https://edebiyatyarismalari.com/images/2025/agustos/haldun-taner-oyku-odulu-2025.webp"
 excerpt: "Miliyet Gazetesi 36. Haldun Taner Öykü Ödülü'nü duyurdu."
+archived_to: "/haldun-taner-oyku-odulu/"
 ---
 
 ## Haldun Taner Öykü Ödülü

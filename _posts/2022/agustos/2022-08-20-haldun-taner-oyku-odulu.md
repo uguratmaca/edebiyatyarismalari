@@ -11,9 +11,10 @@ attendance: "Elden/Kargo"
 organizer: "Milliyet Gazetesi"
 totalPrize: "25 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
-permalink: "haldun-taner-oyku-odulu"
+permalink: "haldun-taner-oyku-odulu-2022"
 image: "https://edebiyatyarismalari.com/images/2022/agustos/haldun-taner-oyku-odulu.jpg"
 excerpt:  "Milliyet Gazetesi <strong> Haldun Taner Öykü Yarışması </strong> yarışması düzenliyor."
+archived_to: "/haldun-taner-oyku-odulu/"
 ---
 
 ## Haldun Taner Öykü Yarışması

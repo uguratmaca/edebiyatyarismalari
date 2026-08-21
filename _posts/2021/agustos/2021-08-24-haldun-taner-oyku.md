@@ -14,6 +14,7 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "32-haldun-taner-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2021/agustos/haldun-taner-oyku-yarismasi.jpg"
 excerpt: "Milliyet Gazetesi 32. Haldun Taner Öykü Ödülünü düzenliyor."
+archived_to: "/haldun-taner-oyku-odulu/"
 ---
 
 ## 32. Haldun Taner Öykü Ödülü

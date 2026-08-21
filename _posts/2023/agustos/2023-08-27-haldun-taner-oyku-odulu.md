@@ -14,6 +14,7 @@ requirements: "İsteyen herkes katılabilir."
 permalink: "haldun-taner-oyku-odulu-2023"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/haldun-taner-oyku-odulu.jpg"
 excerpt:  "Milliyet Gazetesi <strong> Haldun Taner Öykü Ödülü </strong> düzenliyor."
+archived_to: "/haldun-taner-oyku-odulu/"
 ---
 
 ## Haldun Taner Öykü Ödülü
