@@ -10,9 +10,10 @@ dateHuman: "20 Eylül 2021"
 comTopic: "Özgürlük, Halk Kültürü, Çevre Doğa"
 attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"
-permalink: "yasar-kemal-oyku-siir-yarisma"
+permalink: "yasar-kemal-oyku-siir-yarisma-2021"
 image: "https://edebiyatyarismalari.com/images/2021/eylul/yasar-kemal-oyku-siir-yarisma.jpg"
 excerpt: "4. Yaşar Kemal Anısına Öykü, Halk Bilim Araştırması ve Şiir Yarışması düzenleniyor."
+archived_to: "/yasar-kemal-oyku-siir-yarisma/"
 ---
 
 ## 4. Yaşar Kemal Anısına Öykü, Halk Bilim Araştırması ve Şiir Yarışması

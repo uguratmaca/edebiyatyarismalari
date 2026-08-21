@@ -71,6 +71,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Ulusal Sait Faik Hikâye Yarışması** — [dosya](2022-11-27-sait-faik-hikaye-yarismasi.md) · `/sait-faik-hikaye-yarismasi`
 - **Vedat Günyol Deneme Ödülü** — [dosya](2025-08-15-vedat-gunyol-deneme-yarismasi.md) · `/vedat-gunyol-deneme-yarismasi`
 - **Vedat Türkali Edebiyat Ödülleri** — [dosya](2023-04-30-vedat-turkali-edebiyat-odulleri.md) · `/vedat-turkali-edebiyat-odulleri`
+- **Yaşar Kemal Anısına Öykü, Şiir ve Halkbilim Yarışması** — [dosya](diger/2026-08-21-yasar-kemal-oyku-siir-yarisma.md) · `/yasar-kemal-oyku-siir-yarisma`
 - **Yaşar Nabi Nayır Gençlik Ödülleri** — [dosya](2025-12-21-yasar-nabi.md) · `/yasar-nabi-nayir-odulleri`
 - **Yunus Emre Edebiyat Armağanı (Eskişehir)** — [dosya](2023-06-24-eskisehir-yunus-emre-edebiyat-armagani.md) · `/eskisehir-yunus-emre-edebiyat-armagani`
 - **Zeynep Cemali Öykü Yarışması** — [dosya](2026-02-10-zeynep-cemali-oyku-yarismasi.md) · `/zeynep-cemali-oyku-yarismasi`

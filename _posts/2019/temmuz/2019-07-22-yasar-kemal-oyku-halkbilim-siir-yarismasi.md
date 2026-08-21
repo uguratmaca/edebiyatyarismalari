@@ -7,6 +7,7 @@ tags: [ağustos 2019, genel, şiir yarışması, hikaye yarışması, araştırm
 comments: true
 lastDate: 1566248400
 dateHuman: "20 Ağustos 2019"
+archived_to: "/yasar-kemal-oyku-siir-yarisma/"
 ---
 
 BİN ÇİÇEKLİ BAHÇE YAŞAR KEMAL Kültür Şöleni dünyaca ünlü yazarımız Yaşar Kemal’in, memleketi Osmaniye’de bir dizi etkinlikle anılıyor.
