@@ -5,8 +5,8 @@ description: "Adana Altın Koza Film Festivali kapsamında her yıl düzenlenen,
 category: articles
 tags: [her yıl tekrarlanan, ağustos 2026, senaryo yarışması, genel]
 date: 2026-08-01
-lastDate: 1786914000
-dateHuman: "17 Ağustos 2026"
+lastDate: 1787691600
+dateHuman: "26 Ağustos 2026"
 comTopic: "Türkiye'de kitap olarak basılmış bir roman veya hikâyenin edebiyat uyarlaması"
 attendance: "Online Form, E-Posta ve Kargo"
 organizer: "Adana Büyükşehir Belediyesi"
@@ -26,7 +26,7 @@ Katılım Koşulları:
 - Daha önce başka bir edebiyat uyarlaması senaryo yarışmasından ödül almış eserler kabul edilmez.
 - Sinopsis en fazla 1 sayfa, tretman en fazla 10 sayfa olmalı; sinopsis, tretman ve senaryonun tamamı A4 boyutunda, 12 punto Times New Roman ile yazılmalıdır.
 - Başvuru, altinkoza.org.tr üzerindeki online formun doldurulmasının ardından imzalı başvuru formu, sinopsis, tretman, senaryo metni ve kitabın dijital kopyasının cansumert@altinkoza.org.tr adresine e-posta ile gönderilmesi ve kitabın fiziki nüshasının kargoyla iletilmesiyle tamamlanır.
-- Son başvuru tarihi 17 Ağustos 2026, saat 18:00'dır.
+- Son başvuru tarihi, uzatma sonrası 26 Ağustos 2026'dır.
 - Katılım ücretsizdir.
 
 ## Edebiyat Uyarlaması Uzun Metraj Senaryo Yarışması Ödülleri
