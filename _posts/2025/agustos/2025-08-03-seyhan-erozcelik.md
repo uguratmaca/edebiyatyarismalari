@@ -13,6 +13,7 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "seyhan-erozcelik-siir-odulu-2025"
 image: "https://edebiyatyarismalari.com/images/2022/agustos/seyhan-erozcelik-siir-yarismasi.jpg"
 excerpt: "Seyhan Erözçelik İlk Kitap Şiir Ödülü 2025 Başvuruları Açıldı."
+archived_to: "/seyhan-erozcelik-siir-yarismasi/"
 ---
 
 ## Seyhan Erözçelik İlk Kitap Şiir Ödülü 2025

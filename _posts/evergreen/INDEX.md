@@ -57,6 +57,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Sabahattin Ali Öykü Yazma Yarışması** — [dosya](2022-04-08-sabahattin-ali-oyku-yazma-yarismasi.md) · `/sabahattin-ali-oyku-yazma-yarismasi`
 - **Sait Faik Hikaye Armağanı (Darüşşafaka)** — [dosya](2024-01-05-darussafaka-sait-faik-hikaye-armagani.md) · `/darussafaka-sait-faik-hikaye-armagani`
 - **Sağlıklı Fikirler Kısa Film Yarışması** — [dosya](2023-07-09-saglikli-fikirler-kisa-film-yarismasi.md) · `/saglikli-fikirler-kisa-film-yarismasi`
+- **Seyhan Erözçelik İlk Kitap Şiir Ödülü** — [dosya](siir/2026-08-21-seyhan-erozcelik-siir-yarismasi.md) · `/seyhan-erozcelik-siir-yarismasi`
 - **Seyhan Livaneli Öykü Yarışması** — [dosya](2024-07-13-seyhan-livaneli-oyku-yarismasi.md) · `/seyhan-livaneli-oyku-yarismasi`
 - **Simit Çay Edebiyat Etkinlikleri Şiir Yarışması** — [dosya](siir/2026-06-23-simit-cay-etkinlikleri-siir-yarismasi.md) · `/simit-cay-etkinlikleri-siir-yarismasi`
 - **Sürdürülebilirlik Fikir Yarışması** — [dosya](2023-07-02-surdurulebilirlik-fikir-yarismasi.md) · `/surdurulebilirlik-fikir-yarismasi`

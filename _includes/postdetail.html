@@ -3,8 +3,7 @@
 
 <article>
 
-  <h2><a href="{% if post.referenceUrl %}{{ post.referenceUrl }}{% else %}{{site.url}}{{post.url}}{% endif %}"
-    {% if post.referenceUrl %}target="_blank"{% endif %}>{{ post.title }}</a></h2>
+  <h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a>{% if post.referenceUrl %} <a href="{{ post.referenceUrl }}" target="_blank" rel="nofollow" class="text-muted" style="font-size: 0.7em;">(Kaynak)</a>{% endif %}</h2>
 
   {% if post.sticky %}
   <em class="text-success">*Sponsorlu</em>

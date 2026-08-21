@@ -50,6 +50,11 @@ filterGroups:
       - Diğer
 ---
 
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% assign nowDateInt = nowunix | plus: 0 %}
+{% assign filtered_posts = site.posts | where_exp: "item", "item.lastDate > nowDateInt" %}
+{% assign sorted_posts = filtered_posts | sort: 'lastDate' %}
+
 <section class="p-2">
   <h1>Yarışma Filtrele</h1>
   <p>Yarışma türünü, kimlerin katılabileceğini ve gönderim şeklini seçerek güncel duyuruları daraltabilirsiniz.</p>
@@ -81,10 +86,21 @@ filterGroups:
 
   <hr>
 
-  <p id="filter-count" class="font-weight-bold"></p>
-  <section id="filter-results"></section>
+  <p id="filter-count" class="font-weight-bold">{{ sorted_posts.size }} yarışma bulundu</p>
+  <section id="filter-results">
+    {% for post in sorted_posts limit:30 %}
+    <article>
+      <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+      <p>🗓️ Yarışmanın son başvuru tarihi: <b>{{ post.dateHuman }}</b></p>
+      {% if post.requirements %}<p>❗ Yarışmadaki kısıtlar: <b>{{ post.requirements }}</b></p>{% endif %}
+      {% if post.attendance %}<p>📮 Gönderim şekli: <b>{{ post.attendance }}</b></p>{% endif %}
+      <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</p>
+    </article>
+    <hr>
+    {% endfor %}
+  </section>
   <section class="text-center mb-4">
-    <button type="button" id="filter-more" class="btn btn-primary" style="display:none;">Daha Fazla Göster</button>
+    <button type="button" id="filter-more" class="btn btn-primary" {% unless sorted_posts.size > 30 %}style="display:none;"{% endunless %}>Daha Fazla Göster</button>
   </section>
 </section>
 

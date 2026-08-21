@@ -11,9 +11,10 @@ attendance: "Kargo/Posta"
 comTopic: "Serbest"
 organizer: "ŞiirAtı"
 requirements: "İsteyen herkes katılabilir."
-permalink: "seyhan-erozcelik-siir-yarismasi"
+permalink: "seyhan-erozcelik-siir-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/agustos/seyhan-erozcelik-siir-yarismasi.jpg"
 excerpt:  "ŞiirAtı <strong> Seyhan Erözçelik İlk Kitap Şiir Ödülü </strong> düzenliyor."
+archived_to: "/seyhan-erozcelik-siir-yarismasi/"
 ---
 
 ## Seyhan Erözçelik İlk Kitap Şiir Ödülü

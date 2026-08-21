@@ -6,6 +6,8 @@ layout: default
 {% assign nowDateInt = nowunix | plus: 0 %}
 {% assign counter = 0 %}
 {% assign counter2 = 0 %}
+{% assign itemlist_position = 0 %}
+{% capture itemlist_items %}{% endcapture %}
 
 <section class="p-2">
     {% assign headline = page.headline | default: page.title %}
@@ -37,9 +39,12 @@ layout: default
             {% for pageKey in pageKeys %}
                 {% if post.tags contains pageKey %}
                     {% assign counter=counter | plus:1 %}
-                    {% if counter < 3 %} 
-					    {% include postdetail.html %} 
-				    {% endif %} 
+                    {% if counter < 3 %}
+					    {% include postdetail.html %}
+					    {% capture itemlist_entry %}{% unless itemlist_position == 0 %},{% endunless %}{"@type":"ListItem","position":{{ itemlist_position | plus: 1 }},"url":"{{ site.url }}{{ post.url }}","name":{{ post.title | jsonify }}}{% endcapture %}
+					    {% assign itemlist_items = itemlist_items | append: itemlist_entry %}
+					    {% assign itemlist_position = itemlist_position | plus: 1 %}
+				    {% endif %}
                 {% endif %}
             {% endfor %}
         {% endif %}
@@ -53,6 +58,9 @@ layout: default
                 {% if post.tags contains pageKey %}
 		            {% if post.sticky == true and post.lastDate > nowDateInt %}
 			            {% include postdetail.html %}
+			            {% capture itemlist_entry %}{% unless itemlist_position == 0 %},{% endunless %}{"@type":"ListItem","position":{{ itemlist_position | plus: 1 }},"url":"{{ site.url }}{{ post.url }}","name":{{ post.title | jsonify }}}{% endcapture %}
+			            {% assign itemlist_items = itemlist_items | append: itemlist_entry %}
+			            {% assign itemlist_position = itemlist_position | plus: 1 %}
                     {% endif %}
                 {% endif %}
             {% endfor %}
@@ -66,9 +74,12 @@ layout: default
             {% for pageKey in pageKeys %}
                 {% if post.tags contains pageKey %}
                    {% assign counter2 = counter2 | plus:1 %}
-                    {% if counter2 > 2 %} 
-					    {% include postdetail.html %} 
-				    {% endif %} 
+                    {% if counter2 > 2 %}
+					    {% include postdetail.html %}
+					    {% capture itemlist_entry %}{% unless itemlist_position == 0 %},{% endunless %}{"@type":"ListItem","position":{{ itemlist_position | plus: 1 }},"url":"{{ site.url }}{{ post.url }}","name":{{ post.title | jsonify }}}{% endcapture %}
+					    {% assign itemlist_items = itemlist_items | append: itemlist_entry %}
+					    {% assign itemlist_position = itemlist_position | plus: 1 %}
+				    {% endif %}
                 {% endif %}
             {% endfor %}
         {% endif %}
@@ -87,9 +98,12 @@ layout: default
                 {% for pageKey in pageKeys %}
                     {% if post.tags contains pageKey %}
                         {% assign counter=counter | plus:1 %}
-                        {% if counter < 10 %} 
-                            {% include postdetail.html %} 
-                        {% endif %} 
+                        {% if counter < 10 %}
+                            {% include postdetail.html %}
+                            {% capture itemlist_entry %}{% unless itemlist_position == 0 %},{% endunless %}{"@type":"ListItem","position":{{ itemlist_position | plus: 1 }},"url":"{{ site.url }}{{ post.url }}","name":{{ post.title | jsonify }}}{% endcapture %}
+                            {% assign itemlist_items = itemlist_items | append: itemlist_entry %}
+                            {% assign itemlist_position = itemlist_position | plus: 1 %}
+                        {% endif %}
                     {% endif %}
                 {% endfor %}
         {% endfor %}
@@ -116,3 +130,34 @@ layout: default
   }
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Ana Sayfa",
+      "item": "{{ site.url }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ page.title | jsonify }},
+      "item": "{{ site.url }}{{ page.url }}"
+    }
+  ]
+}
+</script>
+
+{% if itemlist_position > 0 %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [{{ itemlist_items }}]
+}
+</script>
+{% endif %}

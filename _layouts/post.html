@@ -106,7 +106,7 @@ layout: default
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "NewsArticle",
+    "@type": "Article",
     "url": "{{site.url}}{{page.url}}",
     "publisher":{
     "@type":"Organization",
@@ -153,8 +153,47 @@ layout: default
     "organizer": {
       "@type": "Organization",
       "name": {{ page.organizer | default: "Edebiyat Yarışmaları" | jsonify }}
-    }
+    }{% assign prize_amount = page.totalPrize | prize_amount_try %}{% if prize_amount %},
+    "offers": {
+      "@type": "Offer",
+      "price": "{{ prize_amount }}",
+      "priceCurrency": "TRY",
+      "url": "{{site.url}}{{page.url}}"
+    }{% endif %}
   }
 </script>
 {% endif %}
+
+{% assign breadcrumb_tag = "" %}
+{% for tag in page.tags %}
+  {% if breadcrumb_tag == "" and site.data.pageList[tag] %}
+    {% assign breadcrumb_tag = tag %}
+  {% endif %}
+{% endfor %}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Ana Sayfa",
+        "item": "{{ site.url }}/"
+      }{% if breadcrumb_tag != "" %},
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": {{ site.data.pageList[breadcrumb_tag].title | jsonify }},
+        "item": "{{ site.url }}/{{ site.data.pageList[breadcrumb_tag].url }}"
+      }{% endif %},
+      {
+        "@type": "ListItem",
+        "position": {% if breadcrumb_tag != "" %}3{% else %}2{% endif %},
+        "name": {{ page.title | jsonify }},
+        "item": "{{site.url}}{{page.url}}"
+      }
+    ]
+  }
+</script>
 </article>
