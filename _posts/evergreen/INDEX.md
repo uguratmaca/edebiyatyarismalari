@@ -40,6 +40,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Hasibe Ayten Şiir Ödülü** — [dosya](siir/2025-07-06-hasibe-ayten-siir-odulu.md) · `/hasibe-ayten-siir-odulu`
 - **Hişt Hişt, Genç Sait Faik Öykü Yarışması** — [dosya](2025-03-29-sait-faik-oyku-yarismasi.md) · `/sait-faik-oyku-yarismasi`
 - **İlk Polisiye Roman Yarışması** — [dosya](roman/2026-07-08-ilk-polisiye-roman-yarismasi.md) · `/ilk-polisiye-roman-yarismasi`
+- **İlyas Halil Öykü Ödülü** — [dosya](hikaye/2026-08-21-ilyas-halil-oyku-odulu.md) · `/ilyas-halil-oyku-odulu`
 - **Kabataş Erkek Lisesi Ömer Seyfettin Öykü Yarışması** — [dosya](2024-12-18-kabatas-omer-seyfettin-oyku-yarismasi.md) · `/kabatas-omer-seyfettin-oyku-yarismasi`
 - **Kadın Kadına Öykü Yarışması** — [dosya](hikaye/2026-08-01-kadin-kadina-oyku-yarismasi.md) · `/kadin-kadina-oyku-yarismasi`
 - **Kardelen Sanat Derneği Şiir Yarışması** — [dosya](siir/2026-08-11-kardelen-sanat-dernegi-siir-yarismasi.md) · `/kardelen-sanat-dernegi-siir-yarismasi`
