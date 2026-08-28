@@ -6,4 +6,6 @@ _site
 Gemfile.lock
 .bundle/
 vendor/
-.claude/
+.claude/*
+!.claude/notes-post-schema.md
+!.claude/notes-404-redirects.md

@@ -25,7 +25,7 @@ excerpt: "Doğan Çocuk Yayınları'nın 5, 6, 7 ve 8. sınıf öğrencilerine y
 - İlk başvuru tarihi 9 Mart 2026, son başvuru tarihi ise 30 Ekim 2026.
 - Bir öğrenci yalnızca bir öyküyle yarışmaya katılabilir; öykü tek bir kişi tarafından yazılmalı ve daha önce başka bir yarışmada ödül almamış olmalıdır.
 - Öykü, A4 boyutunda, bilgisayarda 12 punto Times New Roman yazı karakteriyle, 1,5 satır aralığında, en az 2 en fazla 4 sayfa uzunluğunda ve .doc uzantılı Word dosyası olarak hazırlanmalıdır. El yazısıyla gönderilen öyküler değerlendirmeye alınmaz.
-- Başvurular, www.doganyayinlari.com.tr adresindeki form doldurularak ve öykü dosyası sisteme yüklenerek yapılır; veli ve öğretmen onay belgelerinin de eksiksiz gönderilmesi gerekir.
+- Başvurular, [doganyayinlari.com.tr/oyku-yarismasi](https://doganyayinlari.com.tr/oyku-yarismasi){:rel="nofollow"}{:target="_blank"}{:class="gtag"} adresindeki form doldurularak ve öykü dosyası sisteme yüklenerek yapılır; veli ve öğretmen onay belgelerinin de eksiksiz gönderilmesi gerekir.
 - Jüri değerlendirmesi 30 Aralık 2026'da yapılacak, sonuçlar 30 Ocak 2027'de Doğan Çocuk Yayınları'nın çevrim içi mecralarında açıklanacak.
 
 ## Doğan Çocuk Öykü Yarışması Seçici Kurulu
