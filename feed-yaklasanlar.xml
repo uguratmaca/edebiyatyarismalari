@@ -1,23 +1,27 @@
 ---
-layout: 
+layout:
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
+    <title>{{ site.title | xml_escape }} - Son Başvurusu Yaklaşan Yarışmalar</title>
+    <description>Son başvuru tarihine 15 günden az kalan edebiyat yarışmaları.</description>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <atom:link href="{{ "/feed-yaklasanlar.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% assign recent_posts = site.posts | slice: 0, 10 %}
-    {% assign feed_posts = recent_posts | order_for_feed %}
-    {% for post in feed_posts %}
+    {% capture nowunix %}{{ 'now' | date: '%s' }}{% endcapture %}
+    {% assign nowDateInt = nowunix | plus: 0 %}
+    {% assign windowSeconds = 15 | times: 86400 %}
+    {% assign windowEnd = nowDateInt | plus: windowSeconds %}
+    {% assign closing_posts = site.posts | where_exp: "item", "item.hidden != true and item.lastDate > nowDateInt and item.lastDate < windowEnd" %}
+    {% assign closing_posts = closing_posts | sort: 'lastDate' %}
+    {% for post in closing_posts limit:20 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.excerpt | xml_escape }}</description>
+        <description>{{ post.dateHuman | prepend: "Son başvuru: " | append: " — " | append: post.excerpt | strip_html | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>

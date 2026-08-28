@@ -1,0 +1,15 @@
+{%- comment -%}
+Mailchimp'in RSS kampanyalarında görsel göstermesi (*|RSSITEM:IMAGE|*) için
+standart RSS <enclosure> etiketi. Kullanım: {% include rss-image-enclosure.html post=post %}
+{%- endcomment -%}
+{%- if include.post.image -%}
+{%- assign img_ext = include.post.image | split: '.' | last | downcase -%}
+{%- case img_ext -%}
+  {%- when 'webp' -%}{%- assign img_type = 'image/webp' -%}
+  {%- when 'png' -%}{%- assign img_type = 'image/png' -%}
+  {%- when 'avif' -%}{%- assign img_type = 'image/avif' -%}
+  {%- when 'jpg', 'jpeg' -%}{%- assign img_type = 'image/jpeg' -%}
+  {%- else -%}{%- assign img_type = 'image/jpeg' -%}
+{%- endcase -%}
+<enclosure url="{{ include.post.image }}" type="{{ img_type }}" length="0" />
+{%- endif -%}
