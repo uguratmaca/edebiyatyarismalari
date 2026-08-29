@@ -220,3 +220,20 @@ hr {
   object-fit: contain;
   background-color: var(--bg-elevated);
 }
+
+pre {
+  color: var(--text);
+  background-color: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 0.25rem;
+  padding: 0.75rem 1rem;
+}
+
+.table {
+  color: var(--text);
+}
+
+.table th,
+.table td {
+  border-color: var(--border);
+}
