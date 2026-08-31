@@ -2,7 +2,7 @@
 layout: post
 title: "Adı: Kadın Öykü Yarışması"
 description: "Adı: Kadın projesi kapsamında, ana karakteri kadın olan öykülerin katıldığı, her yıl farklı bir yayınevi iş birliğiyle düzenlenen Adı: Kadın Öykü Yarışması."
-date: 2026-09-01
+date: 2026-08-31
 category: articles
 tags: [her yıl tekrarlanan hikaye, aralık 2026, hikaye yarışması, genel, kadın]
 lastDate: 1796072400
