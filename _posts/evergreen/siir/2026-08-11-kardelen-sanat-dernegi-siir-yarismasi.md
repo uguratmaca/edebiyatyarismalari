@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Kardelen Sanat Derneği 5. Ulusal Şiir Yarışması"
-description: "Kardelen Sanat Derneği, 'Barış' temalı 5. Ulusal Şiir Yarışması'nı duyurdu. Son başvuru: 05 Eylül 2026."
+description: "Kardelen Sanat Derneği, 'Barış' temalı 5. Ulusal Şiir Yarışması'nı duyurdu. Son başvuru: 13 Eylül 2026."
 category: articles
 tags: [her yıl tekrarlanan şiir, eylül 2026, şiir yarışması, genel]
 date: 2026-08-11
-lastDate: 1788555600
-dateHuman: "05 Eylül 2026"
+lastDate: 1789246800
+dateHuman: "13 Eylül 2026"
 comTopic: "Barış"
 attendance: "Elden, Posta, Kargo"
 organizer: "Kardelen Sanat Derneği"
@@ -36,11 +36,11 @@ Eser Teslimi:
 - Katılımcılar bilgisayar çıktısı aldıkları şiirlerini bir zarfa koyup üzerine rumuzunu yazarak kapatacaktır.
 - İkinci bir zarfa açık kimlik ve iletişim bilgilerinin bulunduğu (EK-1) belgesi eksiksiz doldurulup imzalanarak konulacaktır; bu zarfın üzerine yalnızca rumuz ve "kimlik" kelimesi yazılacaktır.
 - Her iki zarf da daha büyük bir zarfın içine konulacak, bu zarfın gönderen bölümüne rumuz yazılacaktır.
-- Eserler en geç **05 Eylül 2026** günü mesai saati bitimine kadar aşağıdaki adreslerden birine taahhütlü posta, kargo veya elden ulaştırılmış olacaktır. Postadaki gecikmelerden eser sahibi sorumludur.
+- Eserler en geç **13 Eylül 2026** günü mesai saati bitimine kadar aşağıdaki adreslerden birine taahhütlü posta, kargo veya elden ulaştırılmış olacaktır. Postadaki gecikmelerden eser sahibi sorumludur.
 
 Eserlerin Gönderileceği Adresler:
-- **Nurşen Özden** — Şiva Hazır Giyim Tasarım, Çobançeşme Mah. Sülün Sk. No: 6-8 Güç İş Merkezi Kat: 2 Bahçelievler-İstanbul
-- **Yusuf Ziya Leblebici** — Adnan Kahveci Bulvarı No: 141 Bahçelievler - İstanbul
+- **Nurşen Özden**: Şiva Hazır Giyim Tasarım, Çobançeşme Mah. Sülün Sk. No: 6-8 Güç İş Merkezi Kat: 2 Bahçelievler-İstanbul
+- **Yusuf Ziya Leblebici**: Adnan Kahveci Bulvarı No: 141 Bahçelievler - İstanbul
 
 ## Kardelen Sanat Derneği Şiir Yarışması Ön Değerlendirme Jürisi
 

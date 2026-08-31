@@ -8,6 +8,7 @@ yarışma adına göre alfabetik bir kısayol listesi sağlıyor. Jekyll bu dosy
 Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 
 - **A7 Kitap Sevim Burak Öykü Ödülü** — [dosya](2025-12-06-a7-kitap-sevim-burak-oyku-odulu.md) · `/a7-kitap-sevim-burak-oyku-odulu`
+- **Adı: Kadın Öykü Yarışması** — [dosya](hikaye/2026-09-01-adi-kadin-oyku-yarismasi.md) · `/adi-kadin-oyku-yarismasi`
 - **Ahmet Hamdi Tanpınar Edebiyat Yarışması** — [dosya](2022-06-26-ahmet-hamdi-tanpinar-edebiyat-yarismasi.md) · `/ahmet-hamdi-tanpinar-edebiyat-yarismasi`
 - **Akbank Kısa Film Festivali Senaryo Yarışması** — [dosya](2026-07-31-akbank-kisa-film-festivali-senaryo-yarismasi.md) · `/akbank-kisa-film-festivali-senaryo-yarismasi`
 - **Ali Rıza Ertan Şiir Yarışması** — [dosya](siir/2026-04-08-ali-riza-ertan-siir-yarismasi.md) · `/ali-riza-ertan-siir-yarismasi`
