@@ -11,5 +11,5 @@ standart RSS <enclosure> etiketi. Kullanım: {% include rss-image-enclosure.html
   {%- when 'jpg', 'jpeg' -%}{%- assign img_type = 'image/jpeg' -%}
   {%- else -%}{%- assign img_type = 'image/jpeg' -%}
 {%- endcase -%}
-<enclosure url="{{ include.post.image }}" type="{{ img_type }}" length="0" />
+<enclosure url="{{ include.post.image }}" type="{{ img_type }}" length="{{ include.post.image_bytes | default: 0 }}" />
 {%- endif -%}

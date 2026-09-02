@@ -12,8 +12,7 @@ layout:
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% assign recent_posts = site.posts | slice: 0, 10 %}
-    {% assign feed_posts = recent_posts | order_for_feed %}
+    {% assign feed_posts = site.posts | slice: 0, 10 %}
     {% for post in feed_posts %}
       <item>
         <title>{{ post.title | xml_escape }}</title>

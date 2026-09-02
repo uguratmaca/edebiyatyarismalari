@@ -37,11 +37,13 @@ excerpt: "Timaş Yayın Grubu'nun 18 yaş üzeri yazarlara yönelik düzenlediğ
 - Yarışmaya gönderilen hikâyelerin telif hakkı eser sahibine aittir. Timaş Gülce Kitap, eser sahibinden izin almak kaydıyla yayımlama, yayma, işleme vb. hakkına sahip olacaktır.
 - Yarışmada 1. olan eser Timaş Gülce Çocuk Yayınları tarafından yayınlanacaktır.
 - Yarışmada dereceye giren diğer eserler, yayınevinin “Yayın Kurulundan” onay alması durumunda yayınlanmaya hak kazanacaktır.
-- Yarışmacılar, öncelikle aşağıda yer alan başvuru formunu doldurmalı ve belirtilen alana eserini yüklemelidir.
+- Yarışmacılar, başvuru formunu doldurmalı ve belirtilen alana eserini yüklemelidir.
 - Şartları kabul edip “Gönder” tuşuna basıldığında katılımcılara “Başvurunuz alındı.” şeklinde bir ekran bildirimi gelecektir.
 - Katılımcı, başvuru yüklemelerini yaparken yarışma şartnamesini ve verdiği bilgilerin doğruluğunu kabul ederek başvurusunu gerçekleştirmiş sayılacaktır.
 - Başvuruda istenilen bilgilerin bir ya da birkaçının eksik / yanlış olması elenme nedenidir.
-- Formu doldururken kopyala-yapıştır işlemi yapmayınız aksi takdirde başvuru işlemi gerçekleşmeyecektir
+- Formu doldururken kopyala-yapıştır işlemi yapmayınız aksi takdirde başvuru işlemi gerçekleşmeyecektir.
+
+#### [Başvuru Formu](https://yarisma.hekimogluismail.com/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 
 ## 4. Hekimoğlu İsmail Hikaye Yarışması 2026 Ödülleri
 
