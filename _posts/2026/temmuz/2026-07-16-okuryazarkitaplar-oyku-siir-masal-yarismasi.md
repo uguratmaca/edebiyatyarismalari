@@ -8,6 +8,7 @@ lastDate: 1789419600
 dateHuman: "15 Eylül 2026"
 comTopic: "Dilimiz Bayrağımız"
 attendance: "E-Posta"
+sticky: true
 organizer: "Okuryazarkitaplar Kültür-Sanat-Yaşam Topluluğu"
 requirements: "Herkes katılabilir."
 permalink: "okuryazarkitaplar-oyku-siir-ve-masal-yarismasi"
