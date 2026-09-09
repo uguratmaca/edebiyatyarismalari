@@ -1,23 +1,23 @@
 ---
 layout: post
-title: "Tüvall Topluluk Marvel Temalı Hikaye ve Resim Yarışması"
-description: "Tüvall Topluluk'un düzenlediği, katılımcıların kendi Marvel karakterini tasarlayıp hikayesini yazdığı yarışmaya başvurular başladı."
+title: "Tuv'all Topluluk Marvel Temalı Hikaye ve Resim Yarışması"
+description: "Tuv'all Topluluk'un düzenlediği, katılımcıların kendi Marvel karakterini tasarlayıp hikayesini yazdığı yarışmaya başvurular başladı."
 category: articles
 tags: [ekim 2026, hikaye yarışması, resim yarışması, genel]
 lastDate: 1791147600
 dateHuman: "5 Ekim 2026"
 comTopic: "Katılımcının kendi tasarladığı özgün Marvel karakteri ve bu karakterin hikayesi"
 attendance: "Instagram DM ve E-Posta"
-organizer: "Tüvall Topluluk"
+organizer: "Tuv'all Topluluk"
 requirements: "Yaş sınırı olmaksızın Marvel evrenine ilgi duyan herkes katılabilir."
 permalink: "tuvall-topluluk-marvel-hikaye-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/tuvall-topluluk-marvel-hikaye-resim-yarismasi.webp"
-excerpt: "Tüvall Topluluk tarafından düzenlenen <strong>Marvel Temalı Hikaye ve Resim Yarışması</strong>'na başvurular başladı."
+excerpt: "Tuv'all Topluluk tarafından düzenlenen <strong>Marvel Temalı Hikaye ve Resim Yarışması</strong>'na başvurular başladı."
 ---
 
-## Tüvall Topluluk Marvel Temalı Hikaye ve Resim Yarışması
+## Tuv'all Topluluk Marvel Temalı Hikaye ve Resim Yarışması
 
-Tüvall Topluluk, katılımcıları kendi özgün Marvel karakterlerini yaratmaya davet eden **Marvel Temalı Hikaye ve Resim Yarışması**'nı düzenliyor. Yarışma resim ve yazı olmak üzere iki ayrı dalda yürütülüyor; katılımcılar dilerse her iki dala birden katılabilir.
+Tuv'all Topluluk, katılımcıları kendi özgün Marvel karakterlerini yaratmaya davet eden **Marvel Temalı Hikaye ve Resim Yarışması**'nı düzenliyor. Yarışma resim ve yazı olmak üzere iki ayrı dalda yürütülüyor; katılımcılar dilerse her iki dala birden katılabilir.
 
 Katılım Koşulları:
 - Yaş sınırı olmaksızın herkes katılabilir.
@@ -28,6 +28,6 @@ Katılım Koşulları:
 - Son başvuru tarihi 5 Ekim 2026'dır.
 - Katılım ücretsizdir.
 
-## Tüvall Topluluk Marvel Temalı Hikaye ve Resim Yarışması Ödülleri
+## Tuv'all Topluluk Marvel Temalı Hikaye ve Resim Yarışması Ödülleri
 
 İlk üçe giren yarışmacılara kendi zevklerine göre kişiselleştirilmiş takı kutusu hediye edilecektir.
