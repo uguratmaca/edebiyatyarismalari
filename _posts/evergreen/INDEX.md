@@ -76,6 +76,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Yaşar Kemal Anısına Öykü, Şiir ve Halkbilim Yarışması** — [dosya](diger/2026-08-21-yasar-kemal-oyku-siir-yarisma.md) · `/yasar-kemal-oyku-siir-yarisma`
 - **Yaşar Nabi Nayır Gençlik Ödülleri** — [dosya](2025-12-21-yasar-nabi.md) · `/yasar-nabi-nayir-odulleri`
 - **Yunus Emre Edebiyat Armağanı (Eskişehir)** — [dosya](2023-06-24-eskisehir-yunus-emre-edebiyat-armagani.md) · `/eskisehir-yunus-emre-edebiyat-armagani`
+- **YAZAK Öykü Yarışması** — [dosya](hikaye/2026-09-13-yazak-hikaye-yarismasi.md) · `/yazak-hikaye-yarismasi`
 - **Zeynep Cemali Öykü Yarışması** — [dosya](2026-02-10-zeynep-cemali-oyku-yarismasi.md) · `/zeynep-cemali-oyku-yarismasi`
 - **Çığ Dergisi Öykü Yarışması** — [dosya](hikaye/2026-07-15-cig-dergisi-oyku-yarismasi.md) · `/cig-dergisi-oyku-yarismasi`
 - **Çukurova Öykü Yarışması** — [dosya](2025-06-29-cukurova-oyku-odulu.md) · `/cukurova-oyku-yarismasi`

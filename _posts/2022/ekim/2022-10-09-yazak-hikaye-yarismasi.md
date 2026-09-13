@@ -11,9 +11,10 @@ comTopic: "Serbest"
 attendance: "E-Posta"
 organizer: "Yazarlık Akademisi Derneği (Yazak) ve Acemi Edebiyat Dergisi"
 requirements: "18 yaş üzeri herkes katılabilir."
-permalink: "yazak-hikaye-yarismasi"
+permalink: "yazak-hikaye-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2022/ekim/yazak-hikaye-yarismasi.jpg"
 excerpt:  "Yazarlık Akademisi Derneği (Yazak) ve Acemi Edebiyat Dergisi <strong> YAZAK 8. Öykü Yarışması </strong> düzenliyor."
+archived_to: "/yazak-hikaye-yarismasi"
 ---
 
 ## YAZAK 8. Öykü Yarışması

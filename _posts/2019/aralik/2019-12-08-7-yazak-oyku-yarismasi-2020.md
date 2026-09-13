@@ -11,6 +11,7 @@ comTopic: "Serbest"
 totalPrize: "Bin 500 TL'dir"
 attendance: "Kargo/Elden"
 requirements: "Yarışmaya 18 yaşından küçükler katılamazlar"
+archived_to: "/yazak-hikaye-yarismasi"
 ---
 
 Yazarlık Akademisi Derneği Yazak ile Acemi Edebiyat Dergisinin birlikte düzenlediği 7. Öykü Yarışması Başvuru Şartları:  
