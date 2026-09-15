@@ -10,9 +10,10 @@ dateHuman: "30 Haziran 2023"
 attendance: "Websitesi"
 organizer: "Türk Dünyası Parlamenterler Vakfı (TDPV)"
 requirements: "Türkiye geneli özel/resmî kurumlarda öğrenim gören ilkokul, ortaokul ve lise öğrencileri katılabilir."
-permalink: "ahi-evran-yarismalari"
+permalink: "ahi-evran-yarismalari-2023"
 image: "https://edebiyatyarismalari.com/images/2023/ocak/ahi-evran-yarismalari.jpg"
 excerpt:  "Türk Dünyası Parlamenterler Vakfı (TDPV) <strong> 2. Uluslararası Ahilik ve Ahi Evran Yarışmaları </strong> düzenliyor."
+archived_to: "/ahi-evran-yarismalari"
 ---
 
 ## 2. Uluslararası Ahilik ve Ahi Evran Yarışmaları

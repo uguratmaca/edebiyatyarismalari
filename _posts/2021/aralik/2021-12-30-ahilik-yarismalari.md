@@ -13,6 +13,7 @@ requirements: "Herkes kendi yaş ve öğrenim durumuna uygun kategorideki yarı�
 permalink: "ahilik-yarismalari"
 image: "https://edebiyatyarismalari.com/images/2021/aralik/ahilik-ahi-evran-yarismalari.jpg"
 excerpt: "Türk Dünyası Parlamenterler Vakfı pek çok edebiyat dalında ve pek çok yaş grubuna Uluslararası Ahilik ve Ahi Evran Yarışmaları düzenlemektedir."
+archived_to: "/ahi-evran-yarismalari"
 ---
 
 ## Uluslararası Ahilik ve Ahi Evran Yarışmaları

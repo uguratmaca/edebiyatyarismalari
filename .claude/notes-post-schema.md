@@ -34,7 +34,19 @@ bkz. README.md), `redirect_from` (eski URL'den yönlendirme), `noindex: true`
 (bkz. CLAUDE.md "eski/bitmiş postlarda noindex" — şu an bilinçli olarak
 kullanılmıyor), `featured: true` (haftalık Mailchimp RSS-otomasyonunun
 kaynağı olan `feed.xml`'de postu en üste çıkarır — bkz. `_plugins/feed_order.rb`;
-`sticky` ile karıştırma, o ayrı bir alan ve ana sayfa sabitlemesi için).
+`sticky` ile karıştırma, o ayrı bir alan ve ana sayfa sabitlemesi için),
+`hidden: true` (postu ana sayfa listelemesinden — `index.html`/`sayfa2..5` —
+düşürür, bkz. `_plugins/homepage_pagination_generator.rb`; site edebiyat
+yarışmaları odaklı olduğu için resim/fotoğraf/tasarım/karikatür/beste/kısa film
+gibi **edebiyat dışı** yarışmalarda kullanılır — post yine de kendi URL'sinden,
+tag filtresinden ve aramadan erişilebilir kalır, sadece ana sayfada öne
+çıkmaz. Bir yarışma hem edebiyat hem edebiyat-dışı kategoriler içeriyorsa
+(ör. bir festivalin hem senaryo hem kısa film dalı varsa), Akbank Kısa Film
+Festivali örneğindeki gibi **ikiye böl**: edebiyat kategorisi (senaryo vb.)
+ayrı, görünür bir post/evergreen sayfa olsun; edebiyat dışı kategori (kısa
+film vb.) ayrı, `hidden: true` bir post/evergreen sayfa olsun — bkz.
+`akbank-kisa-film-festivali-senaryo-yarismasi` (görünür) ve
+`akbank-kisa-film-festivali` (hidden, artık güncellenmiyor) örneği).
 
 `totalPrize` yoksa post, `money.html` layout'unun kullandığı "para ödüllü
 yarışmalar" listesine girmez — parasal ödül yoksa alanı boş bırak, uydurma.
