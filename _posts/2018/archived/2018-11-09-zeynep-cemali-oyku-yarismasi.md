@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Zeynep Cemali Öykü Yarışması 2019"
-description: "Zeynep Cemali Öykü Yarışması 2019"
+description: "- Yarışmaya Türkiye genelinde, 2018-2019 öğretim yılında tüm ilköğretim kurumlarının 6, 7 ve 8. sınıflarında okuyan öğrenciler katılabilir."
+excerpt: "- Yarışmaya Türkiye genelinde, 2018-2019 öğretim yılında tüm ilköğretim kurumlarının 6, 7 ve 8. sınıflarında okuyan öğrenciler katılabilir."
 category: articles
 tags: [hikaye yarışması, mayıs 2019]
 comments: true

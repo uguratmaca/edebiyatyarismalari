@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Dicle Koğacıoğlu Makale Ödülü 2019"
-description: "makale yarışması, para ödüllü yarışmalar, su gender"
+description: "Dicle Koğacıoğlu Makale Ödülü, 2009 yılında aramızdan ayrılan meslektaşımız, arkadaşımız, sosyolog Dicle Koğacıoğlu anısına Sabancı Üniversitesi Sanat ve…"
+excerpt: "Dicle Koğacıoğlu Makale Ödülü, 2009 yılında aramızdan ayrılan meslektaşımız, arkadaşımız, sosyolog Dicle Koğacıoğlu anısına Sabancı Üniversitesi Sanat ve…"
 category: articles
 tags: [eylül 2019, makale yarışması, genel]
 comments: true

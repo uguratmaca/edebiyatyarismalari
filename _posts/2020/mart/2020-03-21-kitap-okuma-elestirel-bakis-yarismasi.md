@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Eleştirel Bakış Kitap Okuma Yarışması"
-description: "kitap okuma yarışmaları, güncel edebiyat yarışmaları"
+description: "Amaç: Ortaöğretim Genel Müdürlüğüne bağlı okullarda okuyan öğrencilerimizin tatil dönemlerini verimli ve aktif geçirmelerini sağlamak, kitap okumaya…"
+excerpt: "Amaç: Ortaöğretim Genel Müdürlüğüne bağlı okullarda okuyan öğrencilerimizin tatil dönemlerini verimli ve aktif geçirmelerini sağlamak, kitap okumaya…"
 tags: [nisan 2020, lise, kitap okuma yarışması]
 comments: true
 lastDate: 1585861200    

@@ -1,0 +1,36 @@
+# Edebiyat Yarışmaları
+
+> Türkiye'de düzenlenen öykü/hikaye, şiir, roman, deneme, makale, senaryo ve diğer edebiyat yarışması ile ödüllerinin güncel duyurularını, son başvuru tarihlerini, ödül tutarlarını ve katılım şartlarını listeleyen bir dizin sitesidir. 2018'den beri yayında, binlerce yarışma duyurusu arşivlenmiştir.
+
+Site Türkçe'dir ve içeriği Türkiye'deki edebiyat yarışmalarına odaklanır. Her yıl tekrarlanan (belediye, yayınevi, vakıf, üniversite düzenlemesi) yarışmalar için tek, güncel tutulan bir sayfa kullanılır ("evergreen" sistem); bu sayfalar yeni edisyon duyurulduğunda yerinde güncellenir, permalink'i değişmez.
+
+## Ana sayfalar
+
+- [Ana Sayfa](https://edebiyatyarismalari.com/): Güncel, hâlâ başvurusu açık edebiyat yarışmalarının listesi.
+- [Yarışma Filtrele](https://edebiyatyarismalari.com/yarisma-filtrele/): Tür (öykü, şiir, roman, deneme, makale, senaryo, kısa film vb.) ve kitleye (ilkokul, ortaokul, lise, üniversite, genel) göre filtrelenebilir yarışma listesi.
+- [Para Ödüllü Yarışmalar](https://edebiyatyarismalari.com/para-odullu-yarismalar/): Parasal ödülü olan yarışmalar.
+- [Her Yıl Tekrarlanan Yarışmalar](https://edebiyatyarismalari.com/her-yil-tekrarlanan-yarismalar/): Her yıl aynı şekilde tekrarlanan, tek bir sayfada güncel tutulan yarışmalar.
+- [Her Yıl Tekrarlanan Öykü ve Hikaye Yarışmaları](https://edebiyatyarismalari.com/her-yil-tekrarlanan-oyku-yarismalari/)
+- [Her Yıl Tekrarlanan Şiir Yarışmaları](https://edebiyatyarismalari.com/her-yil-tekrarlanan-siir-yarismalari/)
+- [Her Yıl Tekrarlanan Roman Yarışmaları](https://edebiyatyarismalari.com/her-yil-tekrarlanan-roman-yarismalari/)
+
+## Türe göre kategori sayfaları
+
+- [Hikaye/Öykü Yarışmaları](https://edebiyatyarismalari.com/hikaye-yarismalari/)
+- [Şiir Yarışmaları](https://edebiyatyarismalari.com/siir-yarismalari/)
+- [Roman Yarışmaları](https://edebiyatyarismalari.com/roman-yarismalari/)
+- [Deneme Yarışmaları](https://edebiyatyarismalari.com/deneme-yarismalari/)
+- [Makale Yarışmaları](https://edebiyatyarismalari.com/makale-yarismalari/)
+- [Senaryo Yarışmaları](https://edebiyatyarismalari.com/senaryo-yarismalari/)
+- [Kompozisyon Yarışmaları](https://edebiyatyarismalari.com/kompozisyon-yarismalari/)
+
+## Veri
+
+- [Sitemap](https://edebiyatyarismalari.com/sitemap.xml): Tüm yarışma duyurularının ve sayfaların tam listesi.
+- [RSS Feed](https://edebiyatyarismalari.com/feed.xml): Yeni duyurular.
+
+## Sosyal Medya
+
+- [Instagram](https://www.instagram.com/edebiyatyarisma/)
+
+Her yarışma sayfası şu yapılandırılmış bilgileri (hem düz metin hem schema.org JSON-LD olarak) içerir: yarışma adı, düzenleyen kurum, son başvuru tarihi, konu/tema şartı, katılım koşulları, ödül tutarı, başvuru şekli.

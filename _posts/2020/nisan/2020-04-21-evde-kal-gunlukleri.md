@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Evde Kal Günlükleri Günlük Yazı Yarışması"
-description: "günlük yazma yarışması, anı yarışması, evde kal günlükleri"
+description: "Etkinliğe tüm ilkokul, ortaokul, ve lise öğrencileri katılabilir. Günlükler bir A4 sayfasını aşmayacak şekilde yazılmalıdır."
+excerpt: "Etkinliğe tüm ilkokul, ortaokul, ve lise öğrencileri katılabilir. Günlükler bir A4 sayfasını aşmayacak şekilde yazılmalıdır."
 tags: [nisan 2020, ilkokul, ortaokul, lise, günlük yarışması]
 comments: true
 lastDate: 1588194000    

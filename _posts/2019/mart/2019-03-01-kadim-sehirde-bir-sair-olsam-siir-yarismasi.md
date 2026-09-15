@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Kadim Şehirde Bir Şair Olsam Şiir Yarışması"
-description: "mardin, para ödüllü yarışma"
+description: "Mardin İl Milli Eğitim Müdürlüğü Ortaokul ile Ortaöğretimde okuyan öğrenciler arasında iki farklı kategoride, teması 4 Başlık 7 Adım Projesi Değerler…"
+excerpt: "Mardin İl Milli Eğitim Müdürlüğü Ortaokul ile Ortaöğretimde okuyan öğrenciler arasında iki farklı kategoride, teması 4 Başlık 7 Adım Projesi Değerler…"
 category: articles
 tags: [mart 2019, şiir yarışması]
 comments: true

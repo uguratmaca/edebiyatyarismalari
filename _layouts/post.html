@@ -133,7 +133,7 @@ layout: default
   }
 </script>
 
-{% if page.lastDate %}
+{% if page.lastDate and page.lastDate > nowDateInt %}
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",

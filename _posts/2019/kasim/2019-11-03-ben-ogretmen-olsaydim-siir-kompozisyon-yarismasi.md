@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Ben Öğretmen Olsaydım Şiir ve Kompozisyon Yarışması"
-description: "güncel şiir yarışmaları 2019, kompozisyon yarışmaları"
+description: "Sakarya İl Milli Eğitim Müdürlüğü tarafından 24 Kasım Öğretmenler Günü anısına ilkokul öğrencilerinin şiir; ortaokul ve lise öğrencilerinin kompozisyon…"
+excerpt: "Sakarya İl Milli Eğitim Müdürlüğü tarafından 24 Kasım Öğretmenler Günü anısına ilkokul öğrencilerinin şiir; ortaokul ve lise öğrencilerinin kompozisyon…"
 category: articles
 tags: [kasım 2019, şiir yarışması, kompozisyon yarışması, ilkokul, ortaokul, lise]
 comments: true

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "11. Yunus Emre Şiir Yarışması"
-description: "güncel şiir yarışması 2019, 2019 şiir yarışmaları"
+description: "Eskişehir Sanat Derneği, şiirimizin büyük usta şairi Yunus Emre’mizi sanat ortamında anmak ve tanıtmak amacıyla geleneksel olarak her yıl düzenlediği…"
+excerpt: "Eskişehir Sanat Derneği, şiirimizin büyük usta şairi Yunus Emre’mizi sanat ortamında anmak ve tanıtmak amacıyla geleneksel olarak her yıl düzenlediği…"
 category: articles
 tags: [eylül 2019, şiir yarışması, yunus emre]
 comments: true

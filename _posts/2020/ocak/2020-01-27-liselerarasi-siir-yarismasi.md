@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "O Şiir Sensin Liselerarası Şiir Okuma Yarışması"
-description: "tded gebze şubesi, liselerarası şiir okuma yarışması 2020"
+description: "Türkiye Dil ve Edebiyat Derneği (TDED) Gebze Şubesi, “O Şiir Sensin” sloganıyla, ‘Liseliler arası şiir okuma yarışması’ düzenliyor."
+excerpt: "Türkiye Dil ve Edebiyat Derneği (TDED) Gebze Şubesi, “O Şiir Sensin” sloganıyla, ‘Liseliler arası şiir okuma yarışması’ düzenliyor."
 category: articles
 tags: [şubat 2020, lise, şiir yarışması]
 comments: true

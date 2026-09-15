@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Baba Sahne Oyun Yazma Yarışması"
-description: "Tiyatro oyunu, sahne eseri yazma edebiyat yarışmasıdır."
+description: "Baba Sahne, oyun yazarlarımızı teşvik ederek, kendine özgü bir yapı ve dil üreten, yaşadığımız çağa tanıklık eden yeni oyunların çoğalması,…"
+excerpt: "Baba Sahne, oyun yazarlarımızı teşvik ederek, kendine özgü bir yapı ve dil üreten, yaşadığımız çağa tanıklık eden yeni oyunların çoğalması,…"
 category: articles
 tags: [ocak 2020, senaryo yarışması, üniversite]
 comments: true

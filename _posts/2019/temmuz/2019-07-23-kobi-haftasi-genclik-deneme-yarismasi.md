@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "KOBİ Haftası Gençlik Deneme Yarışması 2019"
-description: "gençlik deneme yarışması, ödüllü yarışmalar 2019"
+description: "“Avrupa’nın girişimcilerine KOBİ’ler için yeni Komisyon Üyesi ve girişimci olarak vereceğiniz konuşmayı yazın” Yarışma iki tura bölünecek: 1.Tur: Bu,…"
+excerpt: "“Avrupa’nın girişimcilerine KOBİ’ler için yeni Komisyon Üyesi ve girişimci olarak vereceğiniz konuşmayı yazın” Yarışma iki tura bölünecek: 1.Tur: Bu,…"
 category: articles
 tags: [ağustos 2019, genel, deneme yarışması]
 comments: true

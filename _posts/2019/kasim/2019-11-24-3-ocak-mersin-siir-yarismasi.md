@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "3 Ocak Şiir Yarışması"
-description: "3 ocak mersin şiir yarışması, ödüllü şiir yarışmaları"
+description: "3 Ocak Mersin’in Kurtuluşu Konulu, Şiir Yarışmasının 4.sü Yapılacak Yarışmanın amacı: Mersin’in düşman işgalinden kurtuluş gününü anlatan, o günkü duygu…"
+excerpt: "3 Ocak Mersin’in Kurtuluşu Konulu, Şiir Yarışmasının 4.sü Yapılacak Yarışmanın amacı: Mersin’in düşman işgalinden kurtuluş gününü anlatan, o günkü duygu…"
 category: articles
 tags: [aralık 2019, genel, şiir yarışması]
 comments: true

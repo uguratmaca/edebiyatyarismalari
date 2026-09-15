@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Yıldızların Altında Manavgat Şiir Yarışması"
-description: "ödüllü ulusal, para ödüllü şiir yarışması 2019"
+description: "AMAÇ: Tarihi binlerce yıl öncesine dayanan Manavgat'ımızın gerek tarihsel, kültürel zenginliklerine, gerekse doğal güzelliklerine ve geleneksel…"
+excerpt: "AMAÇ: Tarihi binlerce yıl öncesine dayanan Manavgat'ımızın gerek tarihsel, kültürel zenginliklerine, gerekse doğal güzelliklerine ve geleneksel…"
 category: articles
 tags: [ağustos 2019, genel, şiir yarışması]
 comments: true

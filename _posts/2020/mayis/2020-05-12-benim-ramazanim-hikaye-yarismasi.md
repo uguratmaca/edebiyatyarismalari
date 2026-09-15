@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Benim Ramazanım Hikaye Yarışması"
-description: "benim ramazanım hikaye yarışması, anadolu gençlik derneği"
+description: "Amaç: İnsanları kurtuluş yoluna götüren, doğruyu yanlıştan ayıran Kuran’ın indiği Ramazan Ayı’nın çocuklarımızın üzerindeki etkisini anlamak, Ramazan’ın…"
+excerpt: "Amaç: İnsanları kurtuluş yoluna götüren, doğruyu yanlıştan ayıran Kuran’ın indiği Ramazan Ayı’nın çocuklarımızın üzerindeki etkisini anlamak, Ramazan’ın…"
 tags: [mayıs 2020, istanbul, ortaokul, hikaye yarışması]
 comments: true
 lastDate: 1590008400    

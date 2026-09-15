@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Makale Yarışması"
-description: "hepburadakal makale yarışması"
+description: "Yarışmaya Katılmak İçin; Yarışmaya 18 yaş ve üstü tüm kadınlar katılabilir."
+excerpt: "Yarışmaya Katılmak İçin; Yarışmaya 18 yaş ve üstü tüm kadınlar katılabilir."
 category: articles
 tags: [makale yarışması, nisan 2019]
 comments: true

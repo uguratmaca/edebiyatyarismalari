@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "3. Cemal Süreya Şiir Yarışması"
-description: "cemal sureya şiir yarışması, şiir yarışmaları 2020"
+description: "Yarışma Şartları: 1. Yarışma İstanbul'daki tüm resmi ve özel lise ve dengi okulların öğrencilerine açıktır. 2."
+excerpt: "Yarışma Şartları: 1. Yarışma İstanbul'daki tüm resmi ve özel lise ve dengi okulların öğrencilerine açıktır. 2."
 category: articles
 tags: [şubat 2020, lise, istanbul, şiir yarışması, cemal süreya]
 comments: true

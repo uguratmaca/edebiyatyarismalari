@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Kurtuluşun 100. Yılı Resim Yarışması"
-description: "kurtuluşun 100. yılı resim yarışması, resim yarışmaları"
+description: "Samsun 100. Yıl Platformu ve Cumhuriyet gazetesi, ulusal bağımsızlık ve Kuvayı Milliye ruhunu yaşatmak, Atatürk İlkelerini bugünlere taşımak amacıyla,…"
+excerpt: "Samsun 100. Yıl Platformu ve Cumhuriyet gazetesi, ulusal bağımsızlık ve Kuvayı Milliye ruhunu yaşatmak, Atatürk İlkelerini bugünlere taşımak amacıyla,…"
 category: articles
 tags: [mayıs 2019, ortaokul, resim yarışması, diğer, samsun]
 comments: true

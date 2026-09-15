@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "İki Toplumlu Şiir Yarışması"
-description: "iki toplumlu şiir yarışmaları 2019"
+description: "Kıbrıs Yazarlar Birliği ile Kıbrıs Sanatçı ve Yazarlar Birliği'nin Nisan başında duyurduğu yarışmaya Kıbrıslı Türk ve Rum gençler katılabilecek."
+excerpt: "Kıbrıs Yazarlar Birliği ile Kıbrıs Sanatçı ve Yazarlar Birliği'nin Nisan başında duyurduğu yarışmaya Kıbrıslı Türk ve Rum gençler katılabilecek."
 category: articles
 tags: [ağustos 2019, genel, şiir yarışması]
 comments: true

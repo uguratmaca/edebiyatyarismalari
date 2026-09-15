@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Bilgi Evi Geleneksel 15. Kitap Okuma Yarışması"
-description: "bilgi evleri, zeytinburnu belediyesi, kitap okuma yarışması"
+description: "Son Başvuru: 16 Şubat 2019 . Toplam Para Ödülü: 45 Bin TL'dir. Zeytinburnu Belediyesi Bilgi Evlerinin bir kültür klasiği haline gelen 15."
+excerpt: "Son Başvuru: 16 Şubat 2019 . Toplam Para Ödülü: 45 Bin TL'dir. Zeytinburnu Belediyesi Bilgi Evlerinin bir kültür klasiği haline gelen 15."
 category: articles
 tags: [şubat 2019, kitap okuma yarışması]
 comments: true

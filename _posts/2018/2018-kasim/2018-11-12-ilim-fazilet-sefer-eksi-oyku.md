@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "İlim Ve Fazilet Vakfı Sefer Ekşi Öykü Yarışması"
-description: "İlim Ve Fazilet Vakfı Sefer Ekşi Öykü Yarışması"
+description: "İlim Ve Fazilet Vakfı Öykü Yarışmasına Her Meslekten (Öğretmen, Lise Ve Üniversite Düzeyindeki Öğrenciler Dahil) Türkiye İçinden Ve Dışından Dileyen…"
+excerpt: "İlim Ve Fazilet Vakfı Öykü Yarışmasına Her Meslekten (Öğretmen, Lise Ve Üniversite Düzeyindeki Öğrenciler Dahil) Türkiye İçinden Ve Dışından Dileyen…"
 category: articles
 tags: []
 comments: true

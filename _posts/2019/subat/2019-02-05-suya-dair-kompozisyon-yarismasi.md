@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Suya Dair Her Şey Kompozisyon Yarışması"
-description: "3. uluslararasi su ve sağlık kongresi, suya dair her şey"
+description: "Yarışmaya Türkiye Geneli İlkokulu Ve Ortaokul Öğrencileri Katılabilir. Yarışma Sonuçları 15 Mayıs 2019 Tarihinde Açıklanacak."
+excerpt: "Yarışmaya Türkiye Geneli İlkokulu Ve Ortaokul Öğrencileri Katılabilir. Yarışma Sonuçları 15 Mayıs 2019 Tarihinde Açıklanacak."
 category: articles
 tags: [kompozisyon yarışması, mart 2019]
 comments: true

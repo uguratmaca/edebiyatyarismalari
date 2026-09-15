@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Yaşar Kemal Öykü, Halkbilim Araştırması ve Şiir Yarışması"
-description: "güncel şiir yarışmaları 2019, hikaye yarışmaları 2019"
+description: "BİN ÇİÇEKLİ BAHÇE YAŞAR KEMAL Kültür Şöleni dünyaca ünlü yazarımız Yaşar Kemal’in, memleketi Osmaniye’de bir dizi etkinlikle anılıyor."
+excerpt: "BİN ÇİÇEKLİ BAHÇE YAŞAR KEMAL Kültür Şöleni dünyaca ünlü yazarımız Yaşar Kemal’in, memleketi Osmaniye’de bir dizi etkinlikle anılıyor."
 category: articles
 tags: [ağustos 2019, genel, şiir yarışması, hikaye yarışması, araştırma yarışması]
 comments: true

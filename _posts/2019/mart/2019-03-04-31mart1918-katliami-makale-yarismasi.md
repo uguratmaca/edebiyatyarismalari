@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "31 Mart 1918 Katliamı Makale Yarışması"
-description: "avim, para ödüllü yarışmalar"
+description: "1917 Ekim Devrimi sonrasında oluşturulan ve Stepan Şaumyan’ın liderliğindeki Bakü Komünü gözetiminde 50.000’e yakın Türk’ün katledilmesi ile sonuçlanan 31…"
+excerpt: "1917 Ekim Devrimi sonrasında oluşturulan ve Stepan Şaumyan’ın liderliğindeki Bakü Komünü gözetiminde 50.000’e yakın Türk’ün katledilmesi ile sonuçlanan 31…"
 category: articles
 tags: [mart 2019, makale yarışması]
 comments: true

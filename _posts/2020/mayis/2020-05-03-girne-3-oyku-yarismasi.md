@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Girne Belediyesi 3. Öykü Yarışması"
-description: "girne belediyes 3. öykü yarışması, hikaye yazma yarışmaları"
+description: "Girne Belediyesi Öykü Yarışması, dünyada yaşanan salgın süreci nedeniyle bu yıl “Evde kal! el ele başaracağız” temasıyla düzenleniyor."
+excerpt: "Girne Belediyesi Öykü Yarışması, dünyada yaşanan salgın süreci nedeniyle bu yıl “Evde kal! el ele başaracağız” temasıyla düzenleniyor."
 tags: [haziran 2020, lise, ilkokul, ortaokul, hikaye yarışması]
 comments: true
 lastDate: 1590958800    

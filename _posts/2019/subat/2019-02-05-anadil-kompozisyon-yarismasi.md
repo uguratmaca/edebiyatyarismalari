@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Uluslararası Anadil Günü Kompozisyon Yarışması"
-description: "uluslararasi anadil günü kompozisyon yarışması"
+description: "Başvuru: 11 Şubat 2019 Sofya’da faaliyet gören Kültürel Etkileşim Derneği tarafından “21 Şubat Uluslararası Anadil Günü (UNESCO)” münasebetiyle bir…"
+excerpt: "Başvuru: 11 Şubat 2019 Sofya’da faaliyet gören Kültürel Etkileşim Derneği tarafından “21 Şubat Uluslararası Anadil Günü (UNESCO)” münasebetiyle bir…"
 category: articles
 tags: [kompozisyon yarışması, şubat 2019]
 comments: true

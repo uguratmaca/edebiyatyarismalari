@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Özgür Pencere Çocuk ve Genç Kalem Öykü Yarışması"
-description: "Özgür Pencere Çocuk ve Genç Kalem Öykü Yarışması"
+description: "Sonuçlar: 2 Nisan 2019'da açıklanacaktır. Özgür Pencere Çocuk Edebiyatı Grubu olarak, bu yıl 15."
+excerpt: "Sonuçlar: 2 Nisan 2019'da açıklanacaktır. Özgür Pencere Çocuk Edebiyatı Grubu olarak, bu yıl 15."
 category: articles
 tags: []
 comments: true

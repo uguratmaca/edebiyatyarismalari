@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "66. Sait Faik Hikaye Armağanı"
-description: "66. sait faik hikaye yarışması, öykü yarışması 2020"
+description: "Darüşşafaka Cemiyeti 2019 yılında öykü kitabı yayımlanmış tüm yazarları, Sait Faik Abasıyanık'ın anısını yaşatmak amacıyla 66."
+excerpt: "Darüşşafaka Cemiyeti 2019 yılında öykü kitabı yayımlanmış tüm yazarları, Sait Faik Abasıyanık'ın anısını yaşatmak amacıyla 66."
 category: articles
 tags: [şubat 2020, genel, hikaye yarışması, sait faik abasıyanık]
 comments: true

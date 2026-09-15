@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "2. Sabahattin Ali Öykü Yazma Yarışması"
-description: "fenerbahçe spor kulübü anadolu lisesi"
+description: "Yarışmanın Amacı: Sabahattin Ali’nin edebi kişiliğini anlamak ve anlatmak, eserlerinin okunup incelenmesini ve özümsenmesini sağlamak Lise öğrencilerini…"
+excerpt: "Yarışmanın Amacı: Sabahattin Ali’nin edebi kişiliğini anlamak ve anlatmak, eserlerinin okunup incelenmesini ve özümsenmesini sağlamak Lise öğrencilerini…"
 category: articles
 tags: [mart 2019, hikaye yarışması, lise, sabahattin ali]
 comments: true

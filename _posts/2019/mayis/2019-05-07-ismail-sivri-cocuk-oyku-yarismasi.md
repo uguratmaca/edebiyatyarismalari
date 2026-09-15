@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "İsmail Sivri Çocuk Öyküleri Yarışması"
-description: "öykü yarışması, çocuk öyküleri, ödüllü yarışmalar"
+description: "İzmir Gazeteciler Cemiyeti’ne 14 yıl başkan olarak hizmet veren, Türkiye Gazeteciler Federasyonu Kurucu Genel Başkanı İsmail Sivri’nin adını yaşatmak ve…"
+excerpt: "İzmir Gazeteciler Cemiyeti’ne 14 yıl başkan olarak hizmet veren, Türkiye Gazeteciler Federasyonu Kurucu Genel Başkanı İsmail Sivri’nin adını yaşatmak ve…"
 category: articles
 tags: [mayıs 2019, lise, ortaokul, hikaye yarışması]
 comments: true

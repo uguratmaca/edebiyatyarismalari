@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "İsraf Konulu Kompozisyon Yarışması"
-description: "piri reis anısına israf kompozisyon yarışması 2020"
+description: "Amaç Hem Türkçeyi korumak, zenginleştirmek ve gelecek nesillere güçlü bir şekilde aktarmak; Türk dilini yerinde, doğru, dil kurallarına uygun, açık ve…"
+excerpt: "Amaç Hem Türkçeyi korumak, zenginleştirmek ve gelecek nesillere güçlü bir şekilde aktarmak; Türk dilini yerinde, doğru, dil kurallarına uygun, açık ve…"
 category: articles
 tags: [şubat 2020, lise, kompozisyon yarışması]
 comments: true

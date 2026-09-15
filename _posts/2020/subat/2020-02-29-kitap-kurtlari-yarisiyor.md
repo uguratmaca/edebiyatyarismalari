@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Kitap Kurtları Yarışıyor 2020"
-description: "tügva kitap okuma yarışması, para ödüllü yarışmalar"
+description: "Necip Fazıl KISAKÜREK “Yeni bir görüş ve duyuş mimarisinin toprak üstünde sarayını kuracak tek vasıta kitaptır” der."
+excerpt: "Necip Fazıl KISAKÜREK “Yeni bir görüş ve duyuş mimarisinin toprak üstünde sarayını kuracak tek vasıta kitaptır” der."
 category: articles
 tags: [mart 2020, ortaokul, kitap okuma yarışması]
 comments: true

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Ailenin Korunması ve Toplum Düzeni Ulusal Makale Yarışması 2019"
-description: "güncel makale yarışması, para ödüllü makale yarışmaları"
+description: "Güneysu İlim Öğrenenlere Yardım Vakfı olarak toplumun temelini oluşturan aile yapısının korunması ve geleceğe taşınması için bu güne kadar alınmış…"
+excerpt: "Güneysu İlim Öğrenenlere Yardım Vakfı olarak toplumun temelini oluşturan aile yapısının korunması ve geleceğe taşınması için bu güne kadar alınmış…"
 category: articles
 tags: [aralık 2019, genel, makale yarışması]
 comments: true

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Bir Şehrin Düşleri Deneme Yarışması"
-description: "bir şehrin düşleri deneme yarışması, deneme yarışmaları"
+description: "Amaç: Yaşadığımız şehre olan aidiyeti güçlendirme, şehrin estetik ve duygusal algısını öğrenci zihninde canlandırma, edebiyat alanında yazma alışkanlığını…"
+excerpt: "Amaç: Yaşadığımız şehre olan aidiyeti güçlendirme, şehrin estetik ve duygusal algısını öğrenci zihninde canlandırma, edebiyat alanında yazma alışkanlığını…"
 category: articles
 tags: [nisan 2019, deneme yarışması]
 comments: true

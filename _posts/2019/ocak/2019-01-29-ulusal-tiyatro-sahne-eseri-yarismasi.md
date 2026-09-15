@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Kadıköy Belediyesi Ulusal Tiyatro Sahne Eseri (Oyun) Yarışması 2020"
-description: "kadıköy belediyesi, sahne eseri yazma yarışması"
+description: "Sanat ve kültür hayatını desteklemeyi, çeşitli sanat alanlarına katkıda bulunmayı önemli bir kamusal sorumluluk kabul eden Kadıköy Belediyesi, Ulusal…"
+excerpt: "Sanat ve kültür hayatını desteklemeyi, çeşitli sanat alanlarına katkıda bulunmayı önemli bir kamusal sorumluluk kabul eden Kadıköy Belediyesi, Ulusal…"
 category: articles
 tags: [temmuz 2019, tiyatro oyunu yazma yarışması]
 lastDate: 1563138000

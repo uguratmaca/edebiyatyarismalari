@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "22. Hasan Bayri Şiir Yarışması"
-description: "bartın belediyesi, para ödüllü şiir yarışması 2019"
+description: "Bartın Belediyesi tarafından bu sene 22.’si düzenlenecek olan Hasan Bayrı Şiir Yarışması başvuruları başladı."
+excerpt: "Bartın Belediyesi tarafından bu sene 22.’si düzenlenecek olan Hasan Bayrı Şiir Yarışması başvuruları başladı."
 category: articles
 tags: [eylül 2019, genel, şiir yarışması]
 comments: true

@@ -11,21 +11,21 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Adı: Kadın Öykü Yarışması** — [dosya](hikaye/2026-09-01-adi-kadin-oyku-yarismasi.md) · `/adi-kadin-oyku-yarismasi`
 - **Ahilik ve Ahi Evran Yarışması (Uluslararası)** — [dosya](diger/2026-09-15-ahi-evran-yarismalari.md) · `/ahi-evran-yarismalari`
 - **Ahmet Hamdi Tanpınar Edebiyat Yarışması** — [dosya](2022-06-26-ahmet-hamdi-tanpinar-edebiyat-yarismasi.md) · `/ahmet-hamdi-tanpinar-edebiyat-yarismasi`
-- **Akbank Kısa Film Festivali Senaryo Yarışması** — [dosya](2026-07-31-akbank-kisa-film-festivali-senaryo-yarismasi.md) · `/akbank-kisa-film-festivali-senaryo-yarismasi`
+- **Akbank Kısa Film Festivali Senaryo Yarışması**: [dosya](senaryo/2026-07-31-akbank-kisa-film-festivali-senaryo-yarismasi.md) · `/akbank-kisa-film-festivali-senaryo-yarismasi`
 - **Ali Rıza Ertan Şiir Yarışması** — [dosya](siir/2026-04-08-ali-riza-ertan-siir-yarismasi.md) · `/ali-riza-ertan-siir-yarismasi`
 - **Arkadaş Z. Özger Şiir Ödülü** — [dosya](siir/2026-01-08-arkadas-z-ozger-siir-odulu.md) · `/arkadas-z-ozger-siir-odulu`
 - **Attila İlhan Liseli Gençler Kompozisyon Yarışması** — [dosya](2023-11-04-attila-ilhan-kompozisyon-yarismasi.md) · `/attila-ilhan-kompozisyon-yarismasi`
 - **Attilâ İlhan Edebiyat Ödülleri** — [dosya](2025-06-01-attila-ilhan-edebiyat-odulleri.md) · `/attila-ilhan-edebiyat-odulleri`
 - **Aydınlık Nesiller Derneği Öykü Ödülü (AND)** — [dosya](hikaye/2026-09-15-aydinlik-nesiller-dernegi-oyku-odulu.md) · `/aydinlik-nesiller-dernegi-oyku-odulu`
 - **Aydınlık Yarınlara Kitap Okuma Yarışması** — [dosya](2025-03-29-aydinlik-yarinlara-kitap-okuma-yarismasi.md) · `/aydinlik-yarinlara-kitap-okuma-yarismasi`
-- **Benim Eserim Senaryo Yarışması** — [dosya](2026-07-11-benim-eserim-senaryo-yarismasi.md) · `/benim-eserim-senaryo-yarismasi`
+- **Benim Eserim Senaryo Yarışması**: [dosya](senaryo/2026-07-11-benim-eserim-senaryo-yarismasi.md) · `/benim-eserim-senaryo-yarismasi`
 - **Cafe Kitap Kulübü Öykü Yarışması** — [dosya](hikaye/2026-08-05-cafe-kitap-kulubu-oyku-yarismasi.md) · `/cafe-kitap-kulubu-oyku-yarismasi`
 - **Cemal Safi Şiir Yarışması** — [dosya](siir/2026-03-03-cemal-safi-siir-yarismasi.md) · `/cemal-safi-siir-yarismasi`
 - **Cumba Edebiyat Yarışması** — [dosya](2026-01-03-cumba-edebiyat-yarismasi.md) · `/cumba-edebiyat-yarismasi`
 - **Dedektif Dergi Zehirli Kalem Öykü Yarışması** — [dosya](2026-06-17-dedektif-dergi-zehirli-kalem-oyku-yarismasi.md) · `/dedektif-dergi-zehirli-kalem-oyku-yarismasi`
 - **Dr.Kamil Furtun Öykü Yarışması** — [dosya](2026-01-11-dr-kamil-furtun-oyku-yarismasi.md) · `/dr-kamil-furtun-oyku-yarismasi`
 - **Duygu Asena Roman Ödülü** — [dosya](roman/2026-03-02-duygu-asena-roman-odulu.md) · `/duygu-asena-roman-odulu`
-- **Edebiyat Uyarlaması Uzun Metraj Senaryo Yarışması (Altın Koza)** — [dosya](2026-08-01-adana-altin-koza-senaryo-yarismasi.md) · `/adana-altin-koza-senaryo-yarismasi`
+- **Edebiyat Uyarlaması Uzun Metraj Senaryo Yarışması (Altın Koza)**: [dosya](senaryo/2026-08-01-adana-altin-koza-senaryo-yarismasi.md) · `/adana-altin-koza-senaryo-yarismasi`
 - **Emine Işınsu Roman Ödülü** — [dosya](roman/2026-07-11-emine-isinsu-roman-odulu.md) · `/emine-isinsu-roman-odulu`
 - **Enerji Bakanlığı Öykü Yarışması** — [dosya](2023-10-21-enerji-bakanligi-oyku-yarismasi.md) · `/enerji-bakanligi-oyku-yarismasi`
 - **Enver Gökçe Toplumcu Gerçekçi Şiir Ödülü** — [dosya](siir/2026-02-28-enver-gokce-siir-odulu.md) · `/enver-gokce-siir-odulu`
@@ -50,8 +50,8 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **KeKeMe Yayınları Öykü Ödülü** — [dosya](2025-06-23-kkm-yayinlari-oyku-odulu.md) · `/kkm-yayinlari-oyku-odulu`
 - **Kemal Özer Şiir Ödülü** — [dosya](siir/2026-07-27-kemal-ozer-siir-odulu.md) · `/kemal-ozer-siir-odulu`
 - **Kitapyurdu Türkiye Okur Ödülleri** — [dosya](2025-02-12-kitapyurdu-turkiye-okur-odulleri.md) · `/kitapyurdu-turkiye-okur-odulleri`
-- **Luma Kısa Film Festivali Senaryo Yarışması** — [dosya](diger/2026-09-15-luma-kisa-film-festivali-senaryo-yarismasi.md) · `/luma-kisa-film-festivali-senaryo-yarismasi`
-- **Luma Kısa Film Yarışması** (hidden) — [dosya](diger/2026-09-15-luma-kisa-film-yarismasi.md) · `/luma-kisa-film-yarismasi`
+- **Luma Kısa Film Festivali Senaryo Yarışması**: [dosya](senaryo/2026-09-15-luma-kisa-film-festivali-senaryo-yarismasi.md) · `/luma-kisa-film-festivali-senaryo-yarismasi`
+- **Luma Kısa Film Yarışması** (hidden): [dosya](kisa-film/2026-09-15-luma-kisa-film-yarismasi.md) · `/luma-kisa-film-yarismasi`
 - **Mahal Edebiyat Öykü Yarışması** — [dosya](2026-01-29-mahal-edebiyat-oyku-yarismasi.md) · `/mahal-edebiyat-oyku-yarismasi`
 - **Mavera Edebiyat Ödülleri** — [dosya](2026-02-15-mavera-edebiyat-odulleri.md) · `/mavera-edebiyat-odulleri`
 - **Metin Altıok Şiir Ödülü** — [dosya](siir/2026-02-04-metin-altiok-siir-odulu.md) · `/metin-altiok-siir-odulu`
@@ -62,9 +62,9 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Reşat Nuri Güntekin Öykü Yarışması** — [dosya](2022-04-06-resat-nuri-guntekin-oyku-yarismasi.md) · `/resat-nuri-guntekin-oyku-yarismasi`
 - **Rıfat Ilgaz Şiir Ödülü** — [dosya](siir/2024-02-03-rifat-ilgaz-siir-odulu.md) · `/rifat-ilgaz-siir-odulu`
 - **Sabahattin Ali Öykü Yazma Yarışması** — [dosya](2022-04-08-sabahattin-ali-oyku-yazma-yarismasi.md) · `/sabahattin-ali-oyku-yazma-yarismasi`
-- **Sabancı Vakfı Kısa Film Yarışması** (hidden) — [dosya](diger/2026-09-15-sabanci-vakfi-kisa-film-yarismasi.md) · `/sabanci-vakfi-kisa-film-yarismasi`
+- **Sabancı Vakfı Kısa Film Yarışması** (hidden): [dosya](kisa-film/2026-09-15-sabanci-vakfi-kisa-film-yarismasi.md) · `/sabanci-vakfi-kisa-film-yarismasi`
 - **Sait Faik Hikaye Armağanı (Darüşşafaka)** — [dosya](2024-01-05-darussafaka-sait-faik-hikaye-armagani.md) · `/darussafaka-sait-faik-hikaye-armagani`
-- **Sağlıklı Fikirler Kısa Film Yarışması** — [dosya](2023-07-09-saglikli-fikirler-kisa-film-yarismasi.md) · `/saglikli-fikirler-kisa-film-yarismasi`
+- **Sağlıklı Fikirler Kısa Film Yarışması**: [dosya](kisa-film/2023-07-09-saglikli-fikirler-kisa-film-yarismasi.md) · `/saglikli-fikirler-kisa-film-yarismasi`
 - **Seyhan Erözçelik İlk Kitap Şiir Ödülü** — [dosya](siir/2026-08-21-seyhan-erozcelik-siir-yarismasi.md) · `/seyhan-erozcelik-siir-yarismasi`
 - **Seyhan Livaneli Öykü Yarışması** — [dosya](2024-07-13-seyhan-livaneli-oyku-yarismasi.md) · `/seyhan-livaneli-oyku-yarismasi`
 - **Simit Çay Edebiyat Etkinlikleri Şiir Yarışması** — [dosya](siir/2026-06-23-simit-cay-etkinlikleri-siir-yarismasi.md) · `/simit-cay-etkinlikleri-siir-yarismasi`
@@ -76,7 +76,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Tudem Edebiyat Ödülleri** — [dosya](roman/2026-02-01-tudem-edebiyat-odulleri.md) · `/tudem-edebiyat-odulleri`
 - **Turgut Özakman İlk Roman Yarışması** — [dosya](roman/2026-05-26-turgut-ozakman-roman-yarismasi.md) · `/turgut-ozakman-roman-yarismasi`
 - **Ulusal Sait Faik Hikâye Yarışması** — [dosya](2022-11-27-sait-faik-hikaye-yarismasi.md) · `/sait-faik-hikaye-yarismasi`
-- **Uluslararası Gastronomi Film Festivali Kısa Film Yarışması (UGFF)** (hidden) — [dosya](diger/2026-09-15-uluslararasi-gastronomi-film-festivali.md) · `/uluslararasi-gastronomi-film-festivali`
+- **Uluslararası Gastronomi Film Festivali Kısa Film Yarışması (UGFF)** (hidden): [dosya](kisa-film/2026-09-15-uluslararasi-gastronomi-film-festivali.md) · `/uluslararasi-gastronomi-film-festivali`
 - **Vedat Günyol Deneme Ödülü** — [dosya](2025-08-15-vedat-gunyol-deneme-yarismasi.md) · `/vedat-gunyol-deneme-yarismasi`
 - **Vedat Türkali Edebiyat Ödülleri** — [dosya](2023-04-30-vedat-turkali-edebiyat-odulleri.md) · `/vedat-turkali-edebiyat-odulleri`
 - **Yaşar Kemal Anısına Öykü, Şiir ve Halkbilim Yarışması** — [dosya](diger/2026-08-21-yasar-kemal-oyku-siir-yarisma.md) · `/yasar-kemal-oyku-siir-yarisma`

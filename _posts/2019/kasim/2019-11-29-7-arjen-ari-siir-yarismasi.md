@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "7. Arjen Ari Şiir Yarışması"
-description: "7. arjen ari şiir yarışması, ödüllü şiir yarışmaları"
+description: "Kürt şiirin çağdaş öncülerinden Arjen Arî’nin anısına düzenlenen şiir yarışmasının 7’inci düzenleniyor."
+excerpt: "Kürt şiirin çağdaş öncülerinden Arjen Arî’nin anısına düzenlenen şiir yarışmasının 7’inci düzenleniyor."
 category: articles
 tags: [mart 2020, genel, şiir yarışması]
 comments: true

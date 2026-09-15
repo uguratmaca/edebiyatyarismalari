@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Güvenli Okul Güvenli Dünya Öykü Yarışması"
-description: "güvenli dünya öykü yarışması, öykü yarışmaları"
+description: "Cemal Reşit Rey İlkokulu Öykü Yarışması Öykü yarışmasına 2,3,4. sınıftan öğrencilerimiz katılabilirler. Öykü konusu ''GÜVENLİ YAŞAM'' olmalıdır."
+excerpt: "Cemal Reşit Rey İlkokulu Öykü Yarışması Öykü yarışmasına 2,3,4. sınıftan öğrencilerimiz katılabilirler. Öykü konusu ''GÜVENLİ YAŞAM'' olmalıdır."
 category: articles
 tags: [nisan 2019, ilkokul, hikaye yarışması]
 comments: true

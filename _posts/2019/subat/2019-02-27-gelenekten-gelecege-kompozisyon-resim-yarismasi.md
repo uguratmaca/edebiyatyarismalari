@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Gelenekten Geleceğe Kompozisyon ve Resim Yarışması"
-description: "malatya kent konseyi, ödüllü yarışma"
+description: "Malatya Kent Konseyi Genel Sekreterliği 2019 yılı lokomotif projesi olarak başlattığı “Gelenekten Geleceğe” projesi kapsamında Milli Eğitim Müdürlüğü…"
+excerpt: "Malatya Kent Konseyi Genel Sekreterliği 2019 yılı lokomotif projesi olarak başlattığı “Gelenekten Geleceğe” projesi kapsamında Milli Eğitim Müdürlüğü…"
 category: articles
 tags: [kompozisyon yarışması, resim yarışması, nisan 2019]
 comments: true

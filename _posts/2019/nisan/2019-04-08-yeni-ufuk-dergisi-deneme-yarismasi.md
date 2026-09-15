@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Yeni Ufuk Dergisi Deneme Yarışması"
-description: "deneme yarışmaları, yeni ufuk dergisi deneme yarışması"
+description: "AMAÇ Türk milletinin yüzyıl önce vermiş olduğu Millî Mücadelenin önemini; mücadelenin zaman ve şartlardan âzâde sürekliliğini; Türk milletinin aynı ruh ve…"
+excerpt: "AMAÇ Türk milletinin yüzyıl önce vermiş olduğu Millî Mücadelenin önemini; mücadelenin zaman ve şartlardan âzâde sürekliliğini; Türk milletinin aynı ruh ve…"
 category: articles
 tags: [nisan 2019, deneme yarışması, genel]
 comments: true

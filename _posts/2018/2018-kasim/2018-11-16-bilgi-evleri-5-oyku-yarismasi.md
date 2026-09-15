@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Bilgi Evleri 5. Öykü Yarışması"
-description: "Bilgi Evleri 5. Öykü Yarışması"
+description: "İnsana, topluma yeni bir bakış ve yorumlar yazmaya yönelenlerin, yazmayı kendine uğraş edinenlerin çalışmalarını destekleyen Zeytinburnu Bilgi Evleri Öykü…"
+excerpt: "İnsana, topluma yeni bir bakış ve yorumlar yazmaya yönelenlerin, yazmayı kendine uğraş edinenlerin çalışmalarını destekleyen Zeytinburnu Bilgi Evleri Öykü…"
 category: articles
 tags: []
 comments: true

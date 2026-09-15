@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "18 Mart Resim ve Şiir Yarışması"
-description: "resim yarışması, şiir yarışması"
+description: "Millî Bayramlar, Mahallî Kurtuluş günleri önemli günlerimizdir."
+excerpt: "Millî Bayramlar, Mahallî Kurtuluş günleri önemli günlerimizdir."
 category: articles
 tags: [şiir yarışması, mart 2019]
 comments: true

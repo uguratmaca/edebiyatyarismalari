@@ -1,14 +1,14 @@
 ---
 layout: simple
 title: "Azınlıklar Raporu 2.0 | Öykü"
-description: "Senin suçun neydi?"
+description: "Azınlıklar Raporu 2.0 -- Senin suçun neydi? -- Her ikimiz de biliyoruz ki suç işlemedik! -- Evet, Bay Ukala. Tabii ki biliyorum ama sanırım beni anladın."
 author: "Uğur Atmaca"
 authorUrl: "https://edebiyatyarismalari.com/ugur-atmaca/"
 tags: [hikaye, uğur atmaca]
 comments: true
 permalink: "blog/azinliklar-raporu"
 image: "https://edebiyatyarismalari.com/images/2021/ocak/azinliklar-raporu.jpg"
-excerpt: "Senin suçun neydi?"
+excerpt: "Azınlıklar Raporu 2.0 -- Senin suçun neydi? -- Her ikimiz de biliyoruz ki suç işlemedik! -- Evet, Bay Ukala. Tabii ki biliyorum ama sanırım beni anladın."
 ---
 
 ## Azınlıklar Raporu 2.0

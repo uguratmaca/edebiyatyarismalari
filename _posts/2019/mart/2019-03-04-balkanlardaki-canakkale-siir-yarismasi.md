@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Balkanlar’daki Çanakkale Şiir Yarışması"
-description: "çanakkale şiir yarışması, şiir yarışmaları"
+description: "18 Mart ”Çanakkale Zaferi ve Şehitleri Anma Günü” etkinlikleri kapsamında T.C."
+excerpt: "18 Mart ”Çanakkale Zaferi ve Şehitleri Anma Günü” etkinlikleri kapsamında T.C."
 category: articles
 tags: [mart 2019, şiir yarışması]
 comments: true

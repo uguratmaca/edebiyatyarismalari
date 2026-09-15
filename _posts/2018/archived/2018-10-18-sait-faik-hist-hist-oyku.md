@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Hişt Hişt Genç Sait Faik Öykü Yarışması 2019"
-description: "Hişt Hişt Genç Sait Faik Öykü Yarışması 2019"
+description: "Toplam para ödülü 3500 TL Ödüllü Yarışmaya Türkiye Geneli Özel Ve Resmi Lise Öğrencileri Katılabilir. 14."
+excerpt: "Toplam para ödülü 3500 TL Ödüllü Yarışmaya Türkiye Geneli Özel Ve Resmi Lise Öğrencileri Katılabilir. 14."
 category: articles
 tags: [sait faik abasıyanık]
 comments: true

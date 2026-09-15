@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "altKitap 2019 Öykü Ödülü"
-description: "altkitap 2019 öykü ödülü"
+description: "Başvuru: 1 Mart 2019 Konu: Serbest Öykü en fazla 2019 sözcükten oluşmalıdır."
+excerpt: "Başvuru: 1 Mart 2019 Konu: Serbest Öykü en fazla 2019 sözcükten oluşmalıdır."
 category: articles
 tags: [hikaye yarışması, mart 2019]
 comments: true

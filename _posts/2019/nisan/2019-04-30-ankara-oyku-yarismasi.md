@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Bir Öykü Yaz İçinde Ankara Olsun"
-description: "ankara öykü yarışması, ilefankara, ödüllü yarışmalar"
+description: "“BİR ÖYKÜ YAZ İÇİNDE ANKARA OLSUN” öykü yarışmasına başvurular başladı."
+excerpt: "“BİR ÖYKÜ YAZ İÇİNDE ANKARA OLSUN” öykü yarışmasına başvurular başladı."
 category: articles
 tags: [mayıs 2019, üniversite, hikaye yarışması]
 comments: true

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "12. Yunus Emre Şiir Yarışması"
-description: "eskişehir sanat derneği 12. yunus emre şiir yarışması"
+description: "Eskişehir Sanat Derneği, şiirimizin büyük usta şairi Yunus Emre‘mizi sanat ortamında anmak ve tanıtmak amacıyla geleneksel olarak her yıl düzenlediği…"
+excerpt: "Eskişehir Sanat Derneği, şiirimizin büyük usta şairi Yunus Emre‘mizi sanat ortamında anmak ve tanıtmak amacıyla geleneksel olarak her yıl düzenlediği…"
 category: articles
 tags: [mart 2020, genel, şiir yarışması, yunus emre]
 comments: true

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "22. Hikmet Okuyar Şiir Yarışması"
-description: "hikmet okuyar şiir yarışması, şiir yarışmaları"
+description: "22. HİKMET OKUYAR ÖDÜLLÜ ŞİİR YARIŞMASI Şartları: ŞİİR yarışmasına katılmak isteyen; KONUSUNUN Uzmanı AŞIK, OZAN ve ŞAİRLER; 01 – Özellikleri ve…"
+excerpt: "22. HİKMET OKUYAR ÖDÜLLÜ ŞİİR YARIŞMASI Şartları: ŞİİR yarışmasına katılmak isteyen; KONUSUNUN Uzmanı AŞIK, OZAN ve ŞAİRLER; 01 – Özellikleri ve…"
 category: articles
 tags: [mayıs 2019, şiir yarışması]
 comments: true

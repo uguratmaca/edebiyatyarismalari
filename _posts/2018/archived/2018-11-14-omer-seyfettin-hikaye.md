@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Gönen Belediyesi Ömer Seyfettin Hikaye Yarışması"
-description: "Gönen Belediyesi Ömer Seyfettin Hikaye Yarışması"
+description: "Gönen Belediye Belediyesi Ömer Seyfettin Hikaye Yarışması Başvuruları 1 Aralık 1018 İle 31 Aralık 2018 Tarihleri Arasında Alınacak."
+excerpt: "Gönen Belediye Belediyesi Ömer Seyfettin Hikaye Yarışması Başvuruları 1 Aralık 1018 İle 31 Aralık 2018 Tarihleri Arasında Alınacak."
 category: articles
 tags: [ömer seyfettin]
 comments: true

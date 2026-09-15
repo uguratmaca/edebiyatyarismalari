@@ -1,7 +1,8 @@
 ---
 layout: simple
 title: "QTurkey Kuantum Hikaye Yarışması Sonuçları"
-description: "QTurkey Kuantum Hikaye Yarışması Sonuçları"
+description: "QTurkey Bilim Kurgu Hikaye Yarışması Sonucu QTurkey Bilim Kurgu Hikaye yarışmasına 18 başvuru gerçekleştirildi."
+excerpt: "QTurkey Bilim Kurgu Hikaye Yarışması Sonucu QTurkey Bilim Kurgu Hikaye yarışmasına 18 başvuru gerçekleştirildi."
 category: articles
 tags: [sonuç 2020]
 comments: true

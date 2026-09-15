@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ephemera Öykü Deneme Şiir Yarışması"
-description: "Ephemera En'lerini Seçiyor!"
+description: "Ephemera Öykü Deneme Şiir Yarışması 1. Yarışma öykü, deneme ve şiir kategorilerinde olacaktır. 2. Konu kişiye bağlıdır."
 category: articles
 tags: [ağustos 2021, genel, hikaye yarışması, deneme yarışması, şiir yarışması]
 comments: true
@@ -12,7 +12,7 @@ attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"
 permalink: "ephemera-oyku-deneme-siir-yarisma"
 image: "https://edebiyatyarismalari.com/images/2021/temmuz/ephemera-oyku-deneme-siir-yarismasi.jpg"
-excerpt: "Ephemera En'lerini Seçiyor!"
+excerpt: "Ephemera Öykü Deneme Şiir Yarışması 1. Yarışma öykü, deneme ve şiir kategorilerinde olacaktır. 2. Konu kişiye bağlıdır."
 ---
 
 ## Ephemera Öykü Deneme Şiir Yarışması

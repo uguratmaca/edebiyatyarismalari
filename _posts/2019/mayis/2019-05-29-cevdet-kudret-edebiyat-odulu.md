@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Cevdet Kudret Edebiyat Ödülü"
-description: "güncel roman yarışmaları 2019, para ödüllü yarışmalar 2019"
+description: "Cevdet Kudret Edebiyat Ödülü bu yıl “Roman” türüne verilecektir."
+excerpt: "Cevdet Kudret Edebiyat Ödülü bu yıl “Roman” türüne verilecektir."
 category: articles
 tags: [ağustos 2019, genel, roman yarışması]
 comments: true

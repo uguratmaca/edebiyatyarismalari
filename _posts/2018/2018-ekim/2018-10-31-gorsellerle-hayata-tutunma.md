@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Görsellerle Hayata Tutunmak Yarışması"
-description: "Görsellerle Hayata Tutunmak Yarışması"
+description: "Toplam para ödülü 6000 TL. Sonuçların resmi duyurusu 08 Şubat 2019 tarihinde II."
+excerpt: "Toplam para ödülü 6000 TL. Sonuçların resmi duyurusu 08 Şubat 2019 tarihinde II."
 category: articles
 tags: []
 comments: true

@@ -6,6 +6,9 @@
 # Bu generator, build-time'da aktif sayıya göre kaç sayfa gerektiğini hesaplar:
 # - site.data['dynamic_pagination']['total_pages'] içine yazar (pagination.html bunu okuyup
 #   ihtiyaç kadar sayfa linki üretir).
+# - site.data['dynamic_pagination']['active_count'] içine de aktif yarışma sayısını yazar
+#   (index.html ana sayfadaki "şu anda X aktif yarışma var" GEO cümlesi bunu okuyor,
+#   ayrı bir Liquid döngüsüyle tekrar saymak yerine tek kaynaktan besleniyor).
 # - index.html (sayfa 1) ve sayfa2../sayfa5/ repo'da statik dosya olarak duruyor, onlara
 #   dokunmaz; sadece 6. sayfadan itibaren gerekiyorsa sayfaN/index.html'i kendisi üretir.
 #
@@ -34,7 +37,7 @@ module Jekyll
         total_pages = 1 + (remaining.to_f / PAGE_SIZE).ceil
       end
 
-      site.data['dynamic_pagination'] = { 'total_pages' => total_pages }
+      site.data['dynamic_pagination'] = { 'total_pages' => total_pages, 'active_count' => active_count }
 
       ((STATIC_PAGES + 1)..total_pages).each do |page_num|
         lower = FIRST_PAGE_SIZE + (page_num - 2) * PAGE_SIZE

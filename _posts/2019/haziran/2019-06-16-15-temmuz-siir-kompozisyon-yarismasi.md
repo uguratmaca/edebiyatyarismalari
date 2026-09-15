@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "15 Temmuz Konulu Şiir ve Kompozisyon Yarışması"
-description: "dokuz eylül üniversitesi, para ödüllü yarışmalar 2019"
+description: "Yarışmanın Amacı: Madde-1. Geçmişten günümüze ülkemizde yaşanan darbelere dikkat çekilerek 15 Temmuz 2016’da milli iradeye yapılan hain saldırı ve darbe…"
+excerpt: "Yarışmanın Amacı: Madde-1. Geçmişten günümüze ülkemizde yaşanan darbelere dikkat çekilerek 15 Temmuz 2016’da milli iradeye yapılan hain saldırı ve darbe…"
 category: articles
 tags: [temmuz 2019, genel, şiir yarışması, kompozisyon yarışması]
 comments: true

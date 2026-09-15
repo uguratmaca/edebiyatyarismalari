@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Ülkem için Üretiyorum Konulu Resim ve Şiir Yarışması"
-description: "ülkem için üretiyorum konulu resim ve şiir yarışması"
+description: "Başvuru: 11 Ocak 2019 . Ödüller: Hediye çeki, tablet ve kol saati Yarışmaya 2006-2011 yılları arasında doğmuş, soy kütüğü ve ön soy kütüğü sistemine…"
+excerpt: "Başvuru: 11 Ocak 2019 . Ödüller: Hediye çeki, tablet ve kol saati Yarışmaya 2006-2011 yılları arasında doğmuş, soy kütüğü ve ön soy kütüğü sistemine…"
 category: articles
 tags: []
 comments: true

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Çiğli Belediyesi Fakir Baykurt Roman Ödülü"
-description: "güncel roman yarışması 2020, para ödüllü yarışmalar 2020"
+description: "Şartlar: 1- Edebiyatın insana kazandırdığı değerleri çoğaltmak, edebiyatımıza halkımızın gerçeğini anlatan, toplumsal gerçekçi yeni yapıtlar kazandırmak,…"
+excerpt: "Şartlar: 1- Edebiyatın insana kazandırdığı değerleri çoğaltmak, edebiyatımıza halkımızın gerçeğini anlatan, toplumsal gerçekçi yeni yapıtlar kazandırmak,…"
 category: articles
 tags: [mart 2020, genel, roman yarışması]
 comments: true

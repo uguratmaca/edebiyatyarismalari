@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Kurtuluşun 100. Yılı Makale Yarışması"
-description: "kurtulusun 100. yılı makale yarışması, makale yarışmaları"
+description: "Samsun 100. Yıl Platformu ve Cumhuriyet gazetesi, ulusal bağımsızlık ve Kuvayı Milliye ruhunu yaşatmak, Atatürk İlkelerini bugünlere taşımak amacıyla,…"
+excerpt: "Samsun 100. Yıl Platformu ve Cumhuriyet gazetesi, ulusal bağımsızlık ve Kuvayı Milliye ruhunu yaşatmak, Atatürk İlkelerini bugünlere taşımak amacıyla,…"
 category: articles
 tags: [mayıs 2019, üniversite, makale yarışması, samsun]
 comments: true

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Şiir Evde, Şiirini Seç ve Seslendir"
-description: "tugva ortaokul şiir evde, şiir okuma yarışması"
+description: "Planlanan bu proje ile öğrenciler, milli ve manevi kültürüne sahip şiirleri okuyarak hem ülkesinin şiır literatürüne hakmı olacak hem de öz değerinin…"
+excerpt: "Planlanan bu proje ile öğrenciler, milli ve manevi kültürüne sahip şiirleri okuyarak hem ülkesinin şiır literatürüne hakmı olacak hem de öz değerinin…"
 tags: [nisan 2020, ortaokul, şiir okuma yarışması]
 comments: true
 lastDate: 1586466000    

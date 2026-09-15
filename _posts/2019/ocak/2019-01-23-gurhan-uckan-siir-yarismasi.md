@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Dil Derneği Gürhan Uçkan Şiir Yarışması"
-description: "gazeteci, yazar, şair, gürhan uçkan şiir yarışması"
+description: "DİL DEVRİMİNİN ÖDÜNSÜZ SAVUNUCUSU GÜRHAN UÇKAN 5 Aralık 2006'da yitirdiğimiz değerli Yazar, Şair, Gazeteci Gürhan Uçkan’ın kişiliğini, düşüncelerini ve…"
+excerpt: "DİL DEVRİMİNİN ÖDÜNSÜZ SAVUNUCUSU GÜRHAN UÇKAN 5 Aralık 2006'da yitirdiğimiz değerli Yazar, Şair, Gazeteci Gürhan Uçkan’ın kişiliğini, düşüncelerini ve…"
 category: articles
 tags: [şiir yarışması, nisan 2019]
 comments: true

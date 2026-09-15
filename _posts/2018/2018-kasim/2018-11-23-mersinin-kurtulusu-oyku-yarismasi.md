@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "3 Ocak Mersin'in Kurtuluşu Öykü Yarışması"
-description: "mersinin kurtulusu oyku yarismasi 2019"
+description: "Mersin Yazarlar Derneği ve Toroslar Belediyesi işbirliği ile “ 3 Ocak Mersin’in Kurtuluşu Konulu” Öykü yarışması yapılıyor."
+excerpt: "Mersin Yazarlar Derneği ve Toroslar Belediyesi işbirliği ile “ 3 Ocak Mersin’in Kurtuluşu Konulu” Öykü yarışması yapılıyor."
 category: articles
 tags: []
 comments: true

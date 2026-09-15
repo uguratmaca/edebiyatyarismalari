@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Yükselen Genç Yazarlar Öykü Yarışması"
-description: "cafer sadık abalıoğlu eğitim ve kültür vakfı"
+description: "Türk Millî Eğitimi’nin genel amaçları doğrultusunda; bu yarışmayla Denizli’nin Pamukkale ve Merkezefendi ilçelerindeki resmi okullarda eğitim ve öğretime…"
+excerpt: "Türk Millî Eğitimi’nin genel amaçları doğrultusunda; bu yarışmayla Denizli’nin Pamukkale ve Merkezefendi ilçelerindeki resmi okullarda eğitim ve öğretime…"
 category: articles
 tags: [mart 2019, hikaye yarışması]
 comments: true

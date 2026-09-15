@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Lefkoşa Şarkı Sözü Yarışması"
-description: "lefkoşa türk belediyesi, para ödüllü yarışmalar 2019"
+description: "Lefkoşa Türk Belediyesi (LTB) başkent Lefkoşa’ya ait ve şehri anlatacak şarkının sözlerinin yazımı için yarışma düzenliyor."
+excerpt: "Lefkoşa Türk Belediyesi (LTB) başkent Lefkoşa’ya ait ve şehri anlatacak şarkının sözlerinin yazımı için yarışma düzenliyor."
 category: articles
 tags: [haziran 2019, genel, şarkı sözü yarışması]
 comments: true

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Tanpınar Makale Yarışması"
-description: "bursa, ahmet hamdi tanpınar, makale yarışması"
+description: "Yarışmaya katılacak eserler daha önce yayımlanmamış olmalıdır. Yarışmaya yurt içi ve yurt dışından herkes katılabilir."
+excerpt: "Yarışmaya katılacak eserler daha önce yayımlanmamış olmalıdır. Yarışmaya yurt içi ve yurt dışından herkes katılabilir."
 category: articles
 tags: [makale yarışması, mayıs 2019, ahmet hamdi tanpınar]
 comments: true

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Turgut Özakman İlk Roman Yarışması"
-description: "turgut özakman ilk roman yarışması, edebiyat yarışmaları"
+description: "Edebiyatımıza yeni isimler kazandırmak ve yeni yazarlara şans vermek adına bu yarışmayı daha önce kitabı yayımlanmamış yazarlara açıktır."
+excerpt: "Edebiyatımıza yeni isimler kazandırmak ve yeni yazarlara şans vermek adına bu yarışmayı daha önce kitabı yayımlanmamış yazarlara açıktır."
 category: articles
 tags: [ağustos 2020, genel, roman yarışması]
 comments: true

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "İzelman 23 Nisan Öykü Yarışması"
-description: "izmir büyükşehir belediyesi izelman 23 nisan öykü yarışması"
+description: "Amaç: 1. 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı’nın ve TBMM’nin kuruluşunun 100."
+excerpt: "Amaç: 1. 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı’nın ve TBMM’nin kuruluşunun 100."
 tags: [nisan 2020, ilkokul, ortaokul, okul öncesi, hikaye yarışması]
 comments: true
 lastDate: 1586984400    

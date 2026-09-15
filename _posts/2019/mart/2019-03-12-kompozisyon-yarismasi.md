@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Kompozisyon Yarışması"
-description: "atatürkçü düşünce derneği, tekirdağ"
+description: "Yarışmanın konusu ve amacı: Yarışmanın konusu : Kurtuluş Savaşımızın 100. Yılında 19 MAYIS 1919’u anlamak Yarışmanın amacı : Kurtuluş Savaşımızın 100."
+excerpt: "Yarışmanın konusu ve amacı: Yarışmanın konusu : Kurtuluş Savaşımızın 100. Yılında 19 MAYIS 1919’u anlamak Yarışmanın amacı : Kurtuluş Savaşımızın 100."
 category: articles
 tags: [mayıs 2019, kompozisyon yarışması, genç]
 comments: true

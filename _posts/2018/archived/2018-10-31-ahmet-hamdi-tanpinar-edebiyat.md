@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "5. Ahmet Hamdi Tanpınar Edebiyat Yarışması"
-description: "5. Ahmet Hamdi Tanpınar Edebiyat Yarışması"
+description: "Türk Edebiyatının tarihi ve kültürel mirasını geliştirip koruyarak; İnceleme ve araştırmayı teşvik etmek, genç kuşaklar arasından yeni yetenekler…"
+excerpt: "Türk Edebiyatının tarihi ve kültürel mirasını geliştirip koruyarak; İnceleme ve araştırmayı teşvik etmek, genç kuşaklar arasından yeni yetenekler…"
 category: articles
 tags: [masal yarışması, nisan 2019, ahmet hamdi tanpınar]
 comments: true

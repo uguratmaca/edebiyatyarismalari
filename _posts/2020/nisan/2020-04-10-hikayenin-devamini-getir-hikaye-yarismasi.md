@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Hikayenin Devamını Getir"
-description: "hikayenin devamını getir hikaye yarışması, 18 nisan 2020"
+description: "Bu hafta üçüncüsünü düzenlediğim hikayenin devamını getirme oyununda asıl amacım insanların okumaya ve yazmaya olan ilgisini artırabilmek ve karantinada…"
+excerpt: "Bu hafta üçüncüsünü düzenlediğim hikayenin devamını getirme oyununda asıl amacım insanların okumaya ve yazmaya olan ilgisini artırabilmek ve karantinada…"
 tags: [nisan 2020, genel, hikaye yarışması]
 comments: true
 lastDate: 1587157200    

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "23 Nisan Resim, Şiir, Fotoğraf Yarışması"
-description: "yozgat demokrat dernekler fedarasyonu, 23 nisan yarışmaları"
+description: "Yozgat Demokrat Dernekler Federasyonu, 23 Nisan'ın 100. Yıldönümünde çocuklara yönelik önemli bir proje hazırlayarak yarışma düzenlediler."
+excerpt: "Yozgat Demokrat Dernekler Federasyonu, 23 Nisan'ın 100. Yıldönümünde çocuklara yönelik önemli bir proje hazırlayarak yarışma düzenlediler."
 category: articles
 tags: [nisan 2020, ilkokul, ortaokul, resim yarışması, şiir yarışması, fotoğraf yarışması, 23 nisan]
 comments: true

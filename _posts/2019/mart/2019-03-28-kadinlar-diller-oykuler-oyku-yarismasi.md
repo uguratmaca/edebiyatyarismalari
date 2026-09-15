@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Kadınlar, Diller, Öyküler Öykü Yarışması"
-description: "egitimsen, izmir 1 nolu bölge, kadın meclisi"
+description: "Yarışma Şartnamesi Yaşamın her alanında sesimizi, sözümüzü duyurmak için mücadele etmeye devam ediyoruz."
+excerpt: "Yarışma Şartnamesi Yaşamın her alanında sesimizi, sözümüzü duyurmak için mücadele etmeye devam ediyoruz."
 category: articles
 tags: [ağustos 2019, hikaye yarışması, kadın]
 comments: true

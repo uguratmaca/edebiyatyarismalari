@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "100. Yıl Ödüllü Şiir ve Makale Yarışması"
-description: "100. Yıl Ödüllü Şiir ve Makale Yarışması"
+description: "Ödüller Şiir Ve Makale Kategorilerinde Ayrı Ayrı Verilecek Birincilik Ödülü 5 Adet Cumhuriyet Altını İkincilik Ödülü 3 Adet Cumhuriyet Altını Üçüncülük…"
+excerpt: "Ödüller Şiir Ve Makale Kategorilerinde Ayrı Ayrı Verilecek Birincilik Ödülü 5 Adet Cumhuriyet Altını İkincilik Ödülü 3 Adet Cumhuriyet Altını Üçüncülük…"
 category: articles
 tags: []
 comments: true

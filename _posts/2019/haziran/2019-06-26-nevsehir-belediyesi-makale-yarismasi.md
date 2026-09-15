@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Nevşehir Belediyesi Makale Yarışması"
-description: "güncel makale yarışmaları 2019, 2019 makale yarışmaları"
+description: "Nevşehir Belediyesi’nden Genç Yazarlara Davet Nevşehir Belediyesi, gençleri yazmaya teşvik etmek ve genç yeteneklerin keşfi amacıyla yeni bir uygulama…"
+excerpt: "Nevşehir Belediyesi’nden Genç Yazarlara Davet Nevşehir Belediyesi, gençleri yazmaya teşvik etmek ve genç yeteneklerin keşfi amacıyla yeni bir uygulama…"
 category: articles
 tags: [temmuz 2019, genel, makale yarışması]
 comments: true

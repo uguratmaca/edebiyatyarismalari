@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Ülke Sevgisi Hikaye Yarışması"
-description: "öykü yarışmaları, ülke sevgisi, hikaye yarışmaları"
+description: "1. Eserler; A4 kâğıdına 12 punto büyüklükte ve Times New Roman yazı stili ile bilgisayarla veya okunaklı bir şekilde elle yazılacaktır. 2."
+excerpt: "1. Eserler; A4 kâğıdına 12 punto büyüklükte ve Times New Roman yazı stili ile bilgisayarla veya okunaklı bir şekilde elle yazılacaktır. 2."
 category: articles
 tags: [mart 2019, hikaye yarışması, lise]
 comments: true

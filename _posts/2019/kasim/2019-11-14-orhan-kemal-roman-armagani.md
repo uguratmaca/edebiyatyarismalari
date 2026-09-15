@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "49. Orhan Kemal Roman Armağanı"
-description: "güncel roman yarışması 2020, ödüllü yarışmalar 2020"
+description: "Orhan Kemal Roman Armağanı’na, katılım süresi başladı. Konuya ilişkin yapılan açıklamada, Roman armağanı 20 Mayıs 2020 tarihinde seçici kurulun…"
+excerpt: "Orhan Kemal Roman Armağanı’na, katılım süresi başladı. Konuya ilişkin yapılan açıklamada, Roman armağanı 20 Mayıs 2020 tarihinde seçici kurulun…"
 category: articles
 tags: [ocak 2020, genel, roman yarışması]
 comments: true

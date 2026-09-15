@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "3. Reşat Nuri Güntekin Öykü Yarışması"
-description: "para ödüllü yarışmalar, vefa lisesi"
+description: "Vefa Lisesi, Türk Dili ve Edebiyatı zümresi, 2018-2019 eğitim-öğretim yılında Cumhuriyet Dönemi Türk Edebiyatının güçlü kalemi ve okulumuz Türk Dili ve…"
+excerpt: "Vefa Lisesi, Türk Dili ve Edebiyatı zümresi, 2018-2019 eğitim-öğretim yılında Cumhuriyet Dönemi Türk Edebiyatının güçlü kalemi ve okulumuz Türk Dili ve…"
 category: articles
 tags: [mart 2019, hikaye yarışması, lise, reşat nuri güntekin]
 comments: true

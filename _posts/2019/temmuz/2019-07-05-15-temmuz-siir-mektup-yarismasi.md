@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "15 Temmuz Demokrasi ve Milli Birlik Temalı Şiir/Mektup Yarışması"
-description: "van yüzüncü yıl üniversitesi, ödüllü yarışmalar 2019"
+description: "Van Yüzüncü Yıl Üniversitesi / VAYAP Demokrasi ve Milli Birlik Günü Temalı Şiir/Mektup Yarışması Yarışmaya Başvuru Şartları 1."
+excerpt: "Van Yüzüncü Yıl Üniversitesi / VAYAP Demokrasi ve Milli Birlik Günü Temalı Şiir/Mektup Yarışması Yarışmaya Başvuru Şartları 1."
 category: articles
 tags: [temmuz 2019, genel, şiir yarışması, mektup yarışması, 15 temmuz]
 comments: true

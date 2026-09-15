@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Eskişehir Liseler Arası Öykü Yarışması"
-description: "öykü yarışması, dorlion yayınları, ödüllü yarışmalar"
+description: "1. Yarışmaya Eskişehir ili içerisinde ikamet eden ve Eskişehir liselerinde öğrenim gören öğrenciler yarışmaya katılabilir. 2."
+excerpt: "1. Yarışmaya Eskişehir ili içerisinde ikamet eden ve Eskişehir liselerinde öğrenim gören öğrenciler yarışmaya katılabilir. 2."
 category: articles
 tags: [aralık 2019, lise, hikaye yarışması, eskişehir]
 comments: true

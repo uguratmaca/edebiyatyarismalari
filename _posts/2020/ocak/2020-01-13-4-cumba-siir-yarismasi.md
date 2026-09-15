@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "4. Cumba Şiir Yarışması"
-description: "4 cumba şiir yarışması, ödüllü şiir yarışmaları 2020"
+description: "Bu yıl yarışmamızın dördüncüsünü düzenliyoruz. İlk üç yıl öykü ve şiir dallarında düzenlediğimiz yarışmamızı bu yıl, ömrünün önemli bir kısmını, “Suyu”…"
+excerpt: "Bu yıl yarışmamızın dördüncüsünü düzenliyoruz. İlk üç yıl öykü ve şiir dallarında düzenlediğimiz yarışmamızı bu yıl, ömrünün önemli bir kısmını, “Suyu”…"
 category: articles
 tags: [mart 2020, genel, şiir yarışması]
 comments: true

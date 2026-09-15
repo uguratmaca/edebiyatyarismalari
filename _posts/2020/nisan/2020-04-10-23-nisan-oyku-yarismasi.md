@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "23 Nisan Öykü Yarışması"
-description: "23 nisan oyku yarismasi meb, 23 nisan hikaye yarismasi"
+description: "Meb 23 Nisan Öykü Yarışması, Serbest Konulu Hikaye Yarışması Dünyada hızla yayılan Koronavirüs (Covid-19j salgım nedeniyle ülkemizde de tedbirler alınmış,…"
+excerpt: "Meb 23 Nisan Öykü Yarışması, Serbest Konulu Hikaye Yarışması Dünyada hızla yayılan Koronavirüs (Covid-19j salgım nedeniyle ülkemizde de tedbirler alınmış,…"
 tags: [nisan 2020, ilkokul, ortaokul, hikaye yarışması]
 comments: true
 lastDate: 1586638800    

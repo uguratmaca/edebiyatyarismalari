@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Baklalı Köyü Şiir ve Türkü Yarışması"
-description: "baklalı kötü şiir yarışmaları 2019"
+description: "Bayram Hoca; farkındalık yaratmaya devam ediyor Sosyal sorumluluk projeleri gerçekleştirmek ve topluma hizmet etmek için kolları sıvayan Edebiyat…"
+excerpt: "Bayram Hoca; farkındalık yaratmaya devam ediyor Sosyal sorumluluk projeleri gerçekleştirmek ve topluma hizmet etmek için kolları sıvayan Edebiyat…"
 category: articles
 tags: [ekim 2019, genel, şiir yarışması, türkü yarışması]
 comments: true

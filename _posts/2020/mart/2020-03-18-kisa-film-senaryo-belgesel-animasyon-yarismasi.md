@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Alemlere Rahmet Kısa Film, Senaryo, Animasyon, Belgesel Yarışması"
-description: "para ödüllü senaryo yarışması, kısa film yarışması"
+description: "Tema: Her yıl insanlığın ihtiyaç duyduğu bir alan ve meseleyi gündem etmeye çalışan proje, bu yıl teknoloji çağının tehditleri ile karşı karşıya kalan,…"
+excerpt: "Tema: Her yıl insanlığın ihtiyaç duyduğu bir alan ve meseleyi gündem etmeye çalışan proje, bu yıl teknoloji çağının tehditleri ile karşı karşıya kalan,…"
 category: "senaryo-yarismasi"
 tags: [ekim 2020, genel, senaryo yarışması, kısa film yarışması]
 comments: true

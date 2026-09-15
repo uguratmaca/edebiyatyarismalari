@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Uluslararası Engelsiz Öykü Yarışması"
-description: "öykü yarışmaları 2020, hikaye yazma yarışması 2020"
+description: "Amaç: “Geleceğini Yarat” temalı Uluslararası Engelsiz Açıköğretim Öykü Yarışması; geleneksel olarak düzenlenen “Engelsiz Açıköğretim Çalıştayı”…"
+excerpt: "Amaç: “Geleceğini Yarat” temalı Uluslararası Engelsiz Açıköğretim Öykü Yarışması; geleneksel olarak düzenlenen “Engelsiz Açıköğretim Çalıştayı”…"
 tags: [nisan 2020, genel, hikaye yarışması]
 comments: true
 lastDate: 1588194000    

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "4. Vedat Günyol Deneme Ödülü"
-description: "kartal belediyesi, para ödüllü deneme yarışması 2019"
+description: "Bu yıl dördüncüsü verilecek olan Vedat Günyol Deneme Ödülleri ile ilgili önemli gelişmeler oldu, ödüllerimiz daha da güçlendi."
+excerpt: "Bu yıl dördüncüsü verilecek olan Vedat Günyol Deneme Ödülleri ile ilgili önemli gelişmeler oldu, ödüllerimiz daha da güçlendi."
 category: articles
 tags: [kasım 2019, genel, deneme yarışması]
 comments: true

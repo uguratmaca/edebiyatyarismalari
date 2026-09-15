@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Tuna Nehrine Öyküler"
-description: "güncel öykü yarışmaları 2019, 2019 hikaye yarışmaları"
+description: "TUNA NEHRİNE ÖYKÜLER Tuna Nehri ve ülkeleri konulu öykü yarışması Diversity in Unity: Intercultural Dialogue Through the Waves of Danube Birlikteki…"
+excerpt: "TUNA NEHRİNE ÖYKÜLER Tuna Nehri ve ülkeleri konulu öykü yarışması Diversity in Unity: Intercultural Dialogue Through the Waves of Danube Birlikteki…"
 category: articles
 tags: [eylül 2019, genel, hikaye yarışması]
 comments: true

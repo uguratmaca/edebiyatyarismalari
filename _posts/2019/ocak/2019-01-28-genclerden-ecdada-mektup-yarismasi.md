@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Gençlerden Ecdada Mektup 1919 Yarışması"
-description: "gençlerden ecdada mektup yarismasi"
+description: "Başvuru: 31 Mart 2019 Konu: Cumhuriyetimizin Kurucusu Mustafa Kemal Atatürk’ün 1919 yılında Samsun’dan başlatmış olduğu Milli Mücadele dönemini…"
+excerpt: "Başvuru: 31 Mart 2019 Konu: Cumhuriyetimizin Kurucusu Mustafa Kemal Atatürk’ün 1919 yılında Samsun’dan başlatmış olduğu Milli Mücadele dönemini…"
 category: articles
 tags: [mektup yarışması, mart 2019]
 comments: true

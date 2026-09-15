@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "10. PONART Resim Yarışması"
-description: "10. ponart resim yarışması, ödüllü resim yarışmaları 2020"
+description: "Yarışma; üniversitelerin ön lisans, lisans ve yüksek lisans öğrencilerine açıktır."
+excerpt: "Yarışma; üniversitelerin ön lisans, lisans ve yüksek lisans öğrencilerine açıktır."
 category: articles
 tags: [nisan 2020, üniversite, resim yarışması]
 comments: true

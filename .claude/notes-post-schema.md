@@ -70,11 +70,19 @@ listelerden olmalı ki filtrede görünsün:
   öğretmen
 
 Buna ek olarak ay/yıl tag'i (CLAUDE.md kuralı) ekleniyor. Evergreen postlarda
-`her yıl tekrarlanan` de eklenir — alt klasöre göre tür soneki alır:
-`_posts/evergreen/hikaye/` → `her yıl tekrarlanan hikaye`, `siir/` → `her yıl tekrarlanan şiir`,
-`roman/` → `her yıl tekrarlanan roman`, `diger/` (tek bir türe girmeyen veya birden fazla
-türü kapsayan yarışmalar) → sonek olmadan sade `her yıl tekrarlanan`. Evergreen'e taşıma sürecinin tamamı
-(hangi alt klasöre gideceği, `archived_to`, "Geçmiş Yıllar" bölümü vb.) için
+`her yıl tekrarlanan` de eklenir; **sadece** `_posts/evergreen/hikaye/`, `siir/`, `roman/`
+alt klasörlerine giden postlar tür soneki alır (`her yıl tekrarlanan hikaye`, `...şiir`,
+`...roman`) çünkü bunların `/her-yil-tekrarlanan-oyku-yarismalari/` gibi kendi özel menü
+sayfaları var (`menuler/ozel/her-yil-tekrarlanan-*.md`, `_layouts/monthly.html`'de
+`post.tags contains page.key` ile **tam string** eşleşmesi yapıyor; soneksiz/sonekli tag'ler
+birbirinin yerine geçmez). `senaryo/`, `kisa-film/` ve `diger/` (tek bir türe girmeyen veya
+birden fazla türü kapsayan yarışmalar) alt klasörlerine giden postlarda sonek olmadan sade
+`her yıl tekrarlanan` kullanılır; bu türler için zaten `menuler/diger/senaryo-yarismalari.md`
+(`/senaryo-yarismalari/`) ve `menuler/diger/kisa-film-yarismasi.md` (`/kisa-film-yarismalari/`)
+gibi genel (evergreen'e özel olmayan) kategori sayfaları olduğundan ayrıca bir
+`her-yil-tekrarlanan-senaryo/kisa-film` sayfası **açılmaz**; mevcut kategori sayfasıyla
+neredeyse birebir çakışan, ince içerikli bir sayfa üretir. Evergreen'e taşıma sürecinin
+tamamı (hangi alt klasöre gideceği, `archived_to`, "Geçmiş Yıllar" bölümü vb.) için
 README.md'deki "Evergreen (her yıl tekrarlanan yarışmalar)" bölümüne bak.
 
 ## `attendance` serbest metin ama normalize ediliyor

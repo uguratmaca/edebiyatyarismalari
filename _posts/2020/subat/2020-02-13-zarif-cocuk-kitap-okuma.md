@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Zarif Çocuk Uluslararası Kitap Okuma Yarışması"
-description: "zarif kitap okuma yarışması 2020, 2020 edebiyat yarışmaları"
+description: "- Yarışma Türkiye genelinde özel okullarda, devlet okullarında ve Türkiye Maarif Vakfı`na bağlı yurt dışı okullarda eğitim öğretim gören ilkokul 3. ve 4."
+excerpt: "- Yarışma Türkiye genelinde özel okullarda, devlet okullarında ve Türkiye Maarif Vakfı`na bağlı yurt dışı okullarda eğitim öğretim gören ilkokul 3. ve 4."
 category: articles
 tags: [şubat 2020, ilkokul, kitap okuma yarışması]
 comments: true

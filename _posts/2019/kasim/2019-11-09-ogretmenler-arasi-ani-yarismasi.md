@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Öğretmenler Arası Anı Yarışması"
-description: "güncel anı yarışmaları 2019, ödüllü yarışmalar 2019"
+description: "Yarışmanın Amacı: Öğretmenlik mesleğinin algı ve statüsünün yükselmesine katkı sağlayacak, birlik ve beraberliğini pekiştirmek, moral ve motivasyonlarını…"
+excerpt: "Yarışmanın Amacı: Öğretmenlik mesleğinin algı ve statüsünün yükselmesine katkı sağlayacak, birlik ve beraberliğini pekiştirmek, moral ve motivasyonlarını…"
 category: articles
 tags: [kasım 2019, öğretmen, anı yarışması]
 comments: true

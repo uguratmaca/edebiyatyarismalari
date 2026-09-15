@@ -1,7 +1,8 @@
 ---
 layout: simple
 title: "17. Tudem Edebiyat Ödülleri Roman Yarışması Sonuçları"
-description: "17. Tudem Edebiyat Ödülleri Roman Yarışması Sonuçları"
+description: "Edebiyatımıza çağdaş ve özgün eserler kazandırmak amacıyla 2003 yılından bu yana gerçekleştirilen Tudem Edebiyat Ödülleri, 17."
+excerpt: "Edebiyatımıza çağdaş ve özgün eserler kazandırmak amacıyla 2003 yılından bu yana gerçekleştirilen Tudem Edebiyat Ödülleri, 17."
 category: articles
 tags: [sonuç 2020]
 comments: true

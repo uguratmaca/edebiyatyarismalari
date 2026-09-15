@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "2019 Muzaffer İzgü Çocuk Öyküleri Yarışması"
-description: "muzaffer izgü çocuk öyküleri yarışması"
+description: "\"Çocuk okuru olmayan toplumun, yetişkin okuru da olmaz.\" Bu sözüyle çocuk edebiyatına verdiği önemi özetleyen Muzaffer İzgü, yüzü aşkın çocuk kitabıyla üç…"
+excerpt: "\"Çocuk okuru olmayan toplumun, yetişkin okuru da olmaz.\" Bu sözüyle çocuk edebiyatına verdiği önemi özetleyen Muzaffer İzgü, yüzü aşkın çocuk kitabıyla üç…"
 category: articles
 tags: [hikaye yarışması, ağustos 2019, genel]
 lastDate: 1567112400

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Sabahattin Kudret Aksal Yazın Ödülü"
-description: "sabahattin kudret aksal yazın ödülü şiir kitabı yarışması"
+description: "Başvuru: 31 Ocak 2019. Toplam para ödülü : 6 Bin TLdir. 2018 yılında yayımlanmış şiir kitapları ödül için başvurabilecek."
+excerpt: "Başvuru: 31 Ocak 2019. Toplam para ödülü : 6 Bin TLdir. 2018 yılında yayımlanmış şiir kitapları ödül için başvurabilecek."
 category: articles
 tags: []
 comments: true

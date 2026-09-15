@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Attila İlhan 11. Liseli Gençler Kompozisyon Yarışması"
-description: "Attila İlhan 11. Liseli Gençler Kompozisyon Yarışması"
+description: "Yarışma Ödülleri Birinciye 1.500 Türk Lirası İkinciye 1.250 Türk Lirası Üçüncüye 1.000 Türk Lirası Atilla İlhan Bilim Sanat Kültür Vakfı Kompozisyon…"
+excerpt: "Yarışma Ödülleri Birinciye 1.500 Türk Lirası İkinciye 1.250 Türk Lirası Üçüncüye 1.000 Türk Lirası Atilla İlhan Bilim Sanat Kültür Vakfı Kompozisyon…"
 category: articles
 tags: [attila ilhan]
 comments: true

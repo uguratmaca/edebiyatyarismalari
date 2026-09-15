@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "14. Kadın Kadına Öykü Yarışması"
-description: "Bir dostluktan neler doğar"
+description: "Kaos GL’nin 14. Kadın Kadına Öykü Yarışması’na başvurular başladı."
+excerpt: "Kaos GL’nin 14. Kadın Kadına Öykü Yarışması’na başvurular başladı."
 category: articles
 archived_to: "/kadin-kadina-oyku-yarismasi"
 tags: []

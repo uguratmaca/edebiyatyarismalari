@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Yaşar Nabi Nayır Gençlik Ödülleri"
-description: "yaşar nabi nayır gençlik ödülleri"
+description: "Varlık dergisi ve yayınlarının kurucusu Yaşar Nabi Nayır adına her yıl kuruluş yıldönümü olan Temmuz ayında şiir ve öykü dallarında verilen Gençlik…"
+excerpt: "Varlık dergisi ve yayınlarının kurucusu Yaşar Nabi Nayır adına her yıl kuruluş yıldönümü olan Temmuz ayında şiir ve öykü dallarında verilen Gençlik…"
 category: articles
 tags: [nisan 2019, şiir yarışması, hikaye yarışması]
 comments: true

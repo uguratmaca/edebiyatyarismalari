@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "İstiklal Yolunda Samsun’dan İzmir’e Makale Yarışması"
-description: "türk eğitim sen istiklal yolunda makale yarışması"
+description: "Yokluk, imkânsızlık ve her türlü sıkıntıya rağmen milleti esaretin sınırından kurtaran topyekûn verilmiş bir mücadelenin adıdır Türk İstiklâl Harbi."
+excerpt: "Yokluk, imkânsızlık ve her türlü sıkıntıya rağmen milleti esaretin sınırından kurtaran topyekûn verilmiş bir mücadelenin adıdır Türk İstiklâl Harbi."
 category: articles
 tags: [makale yarışması, mart 2019]
 comments: true

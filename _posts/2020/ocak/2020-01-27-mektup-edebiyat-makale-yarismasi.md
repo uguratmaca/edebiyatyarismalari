@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Liseli Gençler Makale Yarışması"
-description: "liseli gençler makale yarışması, mektup edebiyat dergisi"
+description: "Aile, toplumun en küçük birimidir. Anne, baba, çocuk, dede ve nineden oluşur. Anne, baba ve çocuklar çekirdek aileyi oluşturur."
+excerpt: "Aile, toplumun en küçük birimidir. Anne, baba, çocuk, dede ve nineden oluşur. Anne, baba ve çocuklar çekirdek aileyi oluşturur."
 category: articles
 tags: [mart 2020, lise, ankara, makale yarışması]
 comments: true

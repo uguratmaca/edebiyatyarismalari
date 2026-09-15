@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Gençlerden Ata'ya Mektup Yarışması"
-description: "güncel mektup yarışması 2020, para ödüllü yarışmalar 2020"
+description: "Konu: “Gençlerden Ata’ya” Konulu Mektup Yarışması Şartlar: a) Yarışmaya Küçükçekmece genelindeki resmi/özel liselerde (9, 10, 11, 12."
+excerpt: "Konu: “Gençlerden Ata’ya” Konulu Mektup Yarışması Şartlar: a) Yarışmaya Küçükçekmece genelindeki resmi/özel liselerde (9, 10, 11, 12."
 category: articles
 tags: [mayıs 2020, lise, mektup yarışması]
 comments: true

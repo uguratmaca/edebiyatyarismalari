@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Mutluluk Konulu Öykü Yarışması"
-description: "Bursa Kebap Evi Mutluluk Konulu Öykü Yarışması"
+description: "Toplam para ödülü 1750 TL lik hediye çeki. Bursa Kebap Evi’nin Türkiye genelinde 36 ilde, 94 şubesinde Mutluluk konulu ödüllü öykü yarışmamız 10 Ekim-31…"
+excerpt: "Toplam para ödülü 1750 TL lik hediye çeki. Bursa Kebap Evi’nin Türkiye genelinde 36 ilde, 94 şubesinde Mutluluk konulu ödüllü öykü yarışmamız 10 Ekim-31…"
 category: articles
 tags: []
 comments: true

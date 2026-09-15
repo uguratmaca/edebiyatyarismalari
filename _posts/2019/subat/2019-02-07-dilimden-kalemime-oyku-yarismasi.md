@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Dilimden Kalemime Öykü Yarışması"
-description: "2019, edebiyat yarışması, öykü yarışması, hikaye yarışması"
+description: "YARIŞMANIN AMACI: Öğrencilerin hayal dünyalarını, duyarlılıklarını, farkındalıklarını, yüreklerinden gelen sözcükler ve ana dil bilinciyle ortaya…"
+excerpt: "YARIŞMANIN AMACI: Öğrencilerin hayal dünyalarını, duyarlılıklarını, farkındalıklarını, yüreklerinden gelen sözcükler ve ana dil bilinciyle ortaya…"
 category: articles
 tags: [şubat 2019, hikaye yarışması]
 comments: true

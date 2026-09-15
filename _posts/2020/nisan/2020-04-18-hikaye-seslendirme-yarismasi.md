@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Hikayeye Ses Ver, Hikaye Seslendirme Yarışması"
-description: "hikayeye ses ver, hikaye seslendirme yarışması"
+description: "Amaç: - Çocuklarımızı evde kaldıkları süre içinde aileleriyle birlikte heyecan duyacakları bir atmosfere dahil etmek."
+excerpt: "Amaç: - Çocuklarımızı evde kaldıkları süre içinde aileleriyle birlikte heyecan duyacakları bir atmosfere dahil etmek."
 tags: [nisan 2020, ilkokul, hikaye seslendirme yarışması]
 comments: true
 lastDate: 1587848400    

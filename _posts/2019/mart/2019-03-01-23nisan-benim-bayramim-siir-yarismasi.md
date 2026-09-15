@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "23 Nisan Benim Bayramım Şiir Yarışması"
-description: "denizli, serinhisar"
+description: "23 Nisan Benim Bayramım konulu ortaokul öğrencileri arası il geneli şiir yarışması düzenlenmiştir.Genç neslimizde ´´vatan sevgisinin gelişmesini sağlamak…"
+excerpt: "23 Nisan Benim Bayramım konulu ortaokul öğrencileri arası il geneli şiir yarışması düzenlenmiştir.Genç neslimizde ´´vatan sevgisinin gelişmesini sağlamak…"
 category: articles
 tags: [mart 2019, şiir yarışması]
 comments: true

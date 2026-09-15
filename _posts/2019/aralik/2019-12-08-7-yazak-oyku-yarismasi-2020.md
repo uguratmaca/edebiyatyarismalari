@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "7. Yazak Öykü Yarışması"
-description: "7. yazak öykü yarışması 2020, güncel hikaye yarışması 2020"
+description: "Yazarlık Akademisi Derneği Yazak ile Acemi Edebiyat Dergisinin birlikte düzenlediği 7. Öykü Yarışması Başvuru Şartları: 1."
+excerpt: "Yazarlık Akademisi Derneği Yazak ile Acemi Edebiyat Dergisinin birlikte düzenlediği 7. Öykü Yarışması Başvuru Şartları: 1."
 category: articles
 tags: [ocak 2020, genel, hikaye yarışması]
 comments: true

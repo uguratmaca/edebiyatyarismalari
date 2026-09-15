@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Kastamonu Ödüllü Masal Yarışması"
-description: "Kastamonu Ödüllü Masal Yarışması"
+description: "Toplam para ödülü: 3bin TL. 2019 teması: Yalan'dır. Müdürlüğümüzce, Okul öncesi çocuklara yönelik, yeni ve özgün metinler yazılmasını teşvik etmek ve…"
+excerpt: "Toplam para ödülü: 3bin TL. 2019 teması: Yalan'dır. Müdürlüğümüzce, Okul öncesi çocuklara yönelik, yeni ve özgün metinler yazılmasını teşvik etmek ve…"
 category: articles
 tags: []
 comments: true

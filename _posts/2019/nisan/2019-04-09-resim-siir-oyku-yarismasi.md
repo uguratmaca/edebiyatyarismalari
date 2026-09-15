@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "19 Mayıs’ın 100. Yılında Milli Mücadele Resim, Şiir, Öykü Yarışması"
-description: "resim yarışması, resim yarışmaları, şiir yarışması"
+description: "KATILIM ŞARTLARI: Lise öğrencisi veya üniversite hazırlık öğrencisi olma mecburiyeti, 21 yaşından küçük olmak. YARIŞMA ŞARTLARI: 1. Başvuran kişiler, a."
+excerpt: "KATILIM ŞARTLARI: Lise öğrencisi veya üniversite hazırlık öğrencisi olma mecburiyeti, 21 yaşından küçük olmak. YARIŞMA ŞARTLARI: 1. Başvuran kişiler, a."
 category: articles
 tags: [mayıs 2019, resim yarışması, hikaye yarışması, şiir yarışması, lise]
 comments: true

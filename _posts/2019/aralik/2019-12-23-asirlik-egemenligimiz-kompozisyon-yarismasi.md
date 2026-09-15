@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Asırlık Egemenliğimiz Kompozisyon Yarışması"
-description: "kompozisyon yarışması 2020, kompozisyon yarışmaları"
+description: "Projenin Konusu: Milli Egemenliğin ilanının 100.yılında ASIRLIK EGEMENLİĞİMİZ konulu kompozisyon yarışması."
+excerpt: "Projenin Konusu: Milli Egemenliğin ilanının 100.yılında ASIRLIK EGEMENLİĞİMİZ konulu kompozisyon yarışması."
 category: articles
 tags: [mart 2020, lise, kompozisyon yarışması]
 comments: true

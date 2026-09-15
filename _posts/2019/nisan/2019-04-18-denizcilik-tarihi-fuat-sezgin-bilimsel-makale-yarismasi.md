@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Denizcilik Tarihi ve Prof.Dr.Fuat Sezgin Bilimsel Makale Yarışması"
-description: "para ödüllü yarışmalar, bilimsel makale yarışması"
+description: "Türk ve Dünya Denizcilik Tarihi alanındaki araştırmaları kapsayacak bilimsel makale yarışmasının konuları aşağıdadır. a."
+excerpt: "Türk ve Dünya Denizcilik Tarihi alanındaki araştırmaları kapsayacak bilimsel makale yarışmasının konuları aşağıdadır. a."
 category: articles
 tags: [mayıs 2019, genel, makale yarışması]
 comments: true

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Avrupa 2. Öykü Yarışması"
-description: "öykü yarışması, hikaye yarışması, ödüllü yarışma"
+description: "Avrupa 2. Öykü Yarışması hakkında Platform ve Kadın Dergisi genel yayın yönetmeni Ebubekir Turgut şu açıklamalarda bulundu; Elbette, anadili ile kimlik…"
+excerpt: "Avrupa 2. Öykü Yarışması hakkında Platform ve Kadın Dergisi genel yayın yönetmeni Ebubekir Turgut şu açıklamalarda bulundu; Elbette, anadili ile kimlik…"
 category: articles
 tags: [hikaye yarışması, mart 2019]
 comments: true

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Ümraniye Belediyesi 15. Geleneksel Hikaye Yarışması"
-description: "Ümraniye Belediyesi 15. Geleneksel Hikaye Yarışması"
+description: "Toplam para ödülü 25 Bin TL. Yarışmaya Seçici Kurul üyeleri ve geçmiş yıllarda Ümraniye Belediyesinin yaptığı hikaye yarışmalarında 1.lik ödülü alan…"
+excerpt: "Toplam para ödülü 25 Bin TL. Yarışmaya Seçici Kurul üyeleri ve geçmiş yıllarda Ümraniye Belediyesinin yaptığı hikaye yarışmalarında 1.lik ödülü alan…"
 category: articles
 tags: []
 comments: true

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Sakarya Evde Hayat Var Hikaye Yarışması"
-description: "evde hayat var hikaye yarışması, sakarya belediyesi"
+description: "Gençler Bu Yarışma Size Özel! Evlerimizde kalıyoruz.Ama hayat akmaya devam ediyor. Bizler ise senin hikâyeni merak ediyoruz. Öyleyse yaz."
+excerpt: "Gençler Bu Yarışma Size Özel! Evlerimizde kalıyoruz.Ama hayat akmaya devam ediyor. Bizler ise senin hikâyeni merak ediyoruz. Öyleyse yaz."
 tags: [mayıs 2020, ilkokul, ortaokul, lise, sakarya, hikaye yarışması]
 comments: true
 lastDate: 1588712400    

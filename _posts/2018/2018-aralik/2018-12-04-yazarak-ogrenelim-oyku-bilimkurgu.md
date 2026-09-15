@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Yazarak Öğrenelim Öykü Yarışması"
-description: "yazarak öğrenelim bilimkurgu proje öykü yarışması"
+description: "Sekizinci sınıf Fen Bilimleri dersi kavramlarının geçtiği bilimkurgu türü öykü yazmak Her öğrenci istediği kadar öyküyle yarışmaya katılabilir."
+excerpt: "Sekizinci sınıf Fen Bilimleri dersi kavramlarının geçtiği bilimkurgu türü öykü yazmak Her öğrenci istediği kadar öyküyle yarışmaya katılabilir."
 category: articles
 tags: []
 comments: true

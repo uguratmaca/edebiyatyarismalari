@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Ümraniye Belediyesi 15. Geleneksel Şiir Yarışması"
-description: "Ümraniye Belediyesi 15. Geleneksel Şiir Yarışması"
+description: "Toplam para ödülü 20 Bin TL. Yarışmaya Seçici Kurul Üyeleri ve geçmiş yıllarda Ümraniye Belediyesinin düzenlediği şiir yarışmalarında 1.lik ödülü alan…"
+excerpt: "Toplam para ödülü 20 Bin TL. Yarışmaya Seçici Kurul Üyeleri ve geçmiş yıllarda Ümraniye Belediyesinin düzenlediği şiir yarışmalarında 1.lik ödülü alan…"
 category: articles
 tags: []
 comments: true

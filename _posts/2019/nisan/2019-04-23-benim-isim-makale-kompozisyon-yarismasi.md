@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Benim İşim ... Kompozisyon Makale Yarışması"
-description: "para ödüllü yarışmalar, kto karatay üniversitesi"
+description: "Sevgili Üniversite Adayları; Hepimiz çeşitli sebeplerle bir mesleğin hayalini kurarız."
+excerpt: "Sevgili Üniversite Adayları; Hepimiz çeşitli sebeplerle bir mesleğin hayalini kurarız."
 category: articles
 tags: [mayıs 2019, lise, makale yarışması, kompozisyon yarışması]
 comments: true

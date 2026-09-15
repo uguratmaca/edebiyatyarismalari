@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Korona Günlerinde Umut İstanbul Öykü Yarışması"
-description: "korona günlerinde umut, chp, istanbul öykü yarışması 2020"
+description: "Amaç: Öykü yarışmasının amacı geleceğe dair belirsizliğin ve karamsarlığın arttığı pandemi döneminde insanlığı her türlü kötülük ve olumsuzluk karşısında…"
+excerpt: "Amaç: Öykü yarışmasının amacı geleceğe dair belirsizliğin ve karamsarlığın arttığı pandemi döneminde insanlığı her türlü kötülük ve olumsuzluk karşısında…"
 tags: [haziran 2020, istanbul, genel, hikaye yarışması]
 comments: true
 lastDate: 1593464400    

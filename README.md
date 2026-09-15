@@ -68,16 +68,27 @@ Yeni dönem duyurulunca o dosya güncellenir, sabit kalır.
 
 1. En güncel (son) yıla ait duyuru dosyasını `_posts/evergreen/` altına taşı
    (`git mv ...`), dosya adını `<tarih>-<temiz-slug>.md` şeklinde ver. `evergreen/` altında
-   dört alt klasör var: hikaye/öykü türü yarışmalar `hikaye/`, şiir yarışmaları `siir/`,
-   roman yarışmaları `roman/`, diğer tüm türler (deneme, senaryo, makale vb.) ve **birden
-   fazla türü birden kapsayan** (ör. hem şiir hem hikaye dallı) yarışmalar `diger/` alt
-   klasörüne gider — bir yarışma yalnızca tek bir türe (tag'lerinde sadece o türün tag'i
-   varsa) aitse kendi tür klasörüne, birden fazla türü kapsıyorsa `diger/`'e gider.
+   alt klasörler var: hikaye/öykü türü yarışmalar `hikaye/`, şiir yarışmaları `siir/`,
+   roman yarışmaları `roman/`, senaryo yarışmaları `senaryo/`, kısa film yarışmaları
+   `kisa-film/`, geri kalan tüm türler (deneme, makale, kompozisyon vb.) ve **birden fazla
+   türü birden kapsayan** (ör. hem şiir hem hikaye dallı) yarışmalar `diger/` alt klasörüne
+   gider; bir yarışma yalnızca tek bir türe (tag'lerinde sadece o türün tag'i varsa) aitse
+   kendi tür klasörüne, birden fazla türü kapsıyorsa `diger/`'e gider.
+   **Not:** Bu alt klasör ayrımı sadece repo içi düzen içindir, sitenin canlı menüsünü/
+   URL'lerini etkilemez; hangi klasörde olduğu `permalink`'i değiştirmez. Yalnızca
+   `hikaye/`, `siir/`, `roman/` klasörlerinin `tags`'te özel bir sonek karşılığı var (aşağıya
+   bakın, `/her-yil-tekrarlanan-...` sayfalarıyla ilgili); `senaryo/`, `kisa-film/` ve
+   `diger/`'deki postlar sade `her yıl tekrarlanan` tag'ini kullanmaya devam eder; bu
+   türler için zaten `/senaryo-yarismalari/` ve `/kisa-film-yarismalari/` gibi genel
+   (evergreen'e özel olmayan) kategori sayfaları var, yeni bir `her-yil-tekrarlanan-*` sayfası
+   açmak bunlarla neredeyse birebir çakışan, ince içerikli bir sayfa üretir.
 2. Başlıktan/alt başlıklardan sıra numarasını veya yılı kaldır (örn. "5. Filan Yarışması" →
    "Filan Yarışması"), o yıla özgü talimatları (e-posta konu başlığı gibi) olduğu gibi bırak.
-3. `date` alanını ekle, `tags` listesine evergreen etiketini ekle: gittiği alt klasöre göre
-   `her yıl tekrarlanan hikaye`, `her yıl tekrarlanan şiir`, `her yıl tekrarlanan roman`
-   (tür soneki ile) veya `diger/` alt klasörüne giden postlarda sade `her yıl tekrarlanan`.
+3. `date` alanını ekle, `tags` listesine evergreen etiketini ekle: yalnızca `hikaye/`, `siir/`,
+   `roman/` klasörlerine giden postlarda tür soneki kullanılır (`her yıl tekrarlanan hikaye`,
+   `her yıl tekrarlanan şiir`, `her yıl tekrarlanan roman`; bunların `/her-yil-tekrarlanan-...`
+   diye özel bir menü sayfası var). `senaryo/`, `kisa-film/` ve `diger/` alt klasörüne giden
+   postlarda sade `her yıl tekrarlanan` kullanılır.
 4. `permalink` için: eski yazılardan biri zaten temiz (yılsız) bir permalink kullanıyorsa onu
    evergreen sayfaya devret (o eski yazının permalink'ini `-<yıl>` ekleyerek değiştir); hiçbiri
    kullanmıyorsa yeni bir stabil slug seç.

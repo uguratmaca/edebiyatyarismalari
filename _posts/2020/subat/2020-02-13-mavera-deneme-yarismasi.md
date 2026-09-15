@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "2020 Mavera Ödülleri"
-description: "mavera deneme yarışması, ödüllü edebiyat yarışmaları 2020"
+description: "Mavera Eğitim ve Sağlık Vakfı; sahip olduğu ve vakıf senedinde yer verdiği değer ve tecrübelerin ‘genç nesil’ de aksülamel uyandırması amacıyla, çeşitli…"
+excerpt: "Mavera Eğitim ve Sağlık Vakfı; sahip olduğu ve vakıf senedinde yer verdiği değer ve tecrübelerin ‘genç nesil’ de aksülamel uyandırması amacıyla, çeşitli…"
 category: articles
 tags: [nisan 2020, üniversite, deneme yarışması]
 comments: true

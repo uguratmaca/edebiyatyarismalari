@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Anneler Günü Online Şiir Yarışması"
-description: "anneler günü şiir yarışması, gaziantep sankopark 2020"
+description: "- Yarışmaya 5-12 yaş arası çocuklar katılabilir. - Şiirler belirlenen “Anne” temasına uygun olarak yazılmalıdır."
+excerpt: "- Yarışmaya 5-12 yaş arası çocuklar katılabilir. - Şiirler belirlenen “Anne” temasına uygun olarak yazılmalıdır."
 tags: [nisan 2020, ilkokul, ortaokul, gaziantep, şiir yarışması]
 comments: true
 lastDate: 1588107600    

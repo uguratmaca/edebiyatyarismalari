@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Sufisin Ulusal Uzun Metraj Film Senaryo Yarışması"
-description: "güncel senaryo yarışması 2020, para ödüllü yarışmalar 2020"
+description: "Amaç: Sinemanın başlangıç noktası olan filmin içeriğini oluşturan fikir, bizim festivalimizin ana omurgasını oluşturmaktadır."
+excerpt: "Amaç: Sinemanın başlangıç noktası olan filmin içeriğini oluşturan fikir, bizim festivalimizin ana omurgasını oluşturmaktadır."
 category: articles
 tags: [nisan 2020, genel, senaryo yarışması]
 comments: true

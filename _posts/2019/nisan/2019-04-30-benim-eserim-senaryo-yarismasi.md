@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Benim Eserim Kısa Film Senaryo Yarışması"
-description: "kısa film, senaryo yarışması"
+description: "1.Amaç ve Konu: Sinema ve Televizyon Eseri Sahipleri Meslek Birliği (SETEM) tarafından T.C."
+excerpt: "1.Amaç ve Konu: Sinema ve Televizyon Eseri Sahipleri Meslek Birliği (SETEM) tarafından T.C."
 category: articles
 tags: [haziran 2019, genel, senaryo yarışması]
 comments: true

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "16. Dünya Çocukları Haiku Yarışması"
-description: "güncel şiir yarışması 2019, ödüllü yarışmalar 2019"
+description: "Japon Hava Yolları (JAL) Vakfı tarafından iki yılda bir dünya genelinde düzenlenen Dünya Çocukları Haiku Yarışması'nın onaltıcısı 2019/2020 gerçekleşiyor."
+excerpt: "Japon Hava Yolları (JAL) Vakfı tarafından iki yılda bir dünya genelinde düzenlenen Dünya Çocukları Haiku Yarışması'nın onaltıcısı 2019/2020 gerçekleşiyor."
 category: articles
 tags: [şubat 2020, lise, ortaokul, ilkokul, şiir yarışması]
 comments: true

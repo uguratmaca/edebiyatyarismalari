@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Günaydın Edebiyat Öykü Şiir Ve Masal Yarışması"
-description: "ozel ege lisesi gunaydin edebiyat turkiye geneli"
+description: "Yarışmaya Türkiye Geneli 6, 7 Ve 8. Sınıflar Masal Ve Öykü Dalında, 10, 11 Ve 12. Sınıflar Öykü Ve Şiir Dallarından Birinde Yarışmaya Katılabilir."
+excerpt: "Yarışmaya Türkiye Geneli 6, 7 Ve 8. Sınıflar Masal Ve Öykü Dalında, 10, 11 Ve 12. Sınıflar Öykü Ve Şiir Dallarından Birinde Yarışmaya Katılabilir."
 category: articles
 tags: []
 comments: true

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Zeynep Başak Gülsoy Anısına Deneme Yarışması"
-description: "deneme yarışması, zeynep başak gülsoy"
+description: "Ufuk Üniversitesi Hukuk Fakültesi'nde tam burslu öğrenim görmeye hak kazanan Zeynep Başak Gülsoy, 13 Mart 2016'da Ankara Güvenpark terör saldırısında…"
+excerpt: "Ufuk Üniversitesi Hukuk Fakültesi'nde tam burslu öğrenim görmeye hak kazanan Zeynep Başak Gülsoy, 13 Mart 2016'da Ankara Güvenpark terör saldırısında…"
 category: articles
 tags: [deneme yarışması, eylül 2019]
 comments: true

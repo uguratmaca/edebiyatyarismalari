@@ -7,6 +7,7 @@ next_page: /sayfa2/
 
 <section class="p-2">
 	<h1>{{page.headline}}</h1>
+	<p>Şu anda sitede <strong>{{ site.data.dynamic_pagination.active_count }}</strong> aktif edebiyat yarışması listeleniyor.</p>
 	<hr>
 
 	{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
