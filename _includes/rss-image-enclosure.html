@@ -1,6 +1,12 @@
 {%- comment -%}
-Mailchimp'in RSS kampanyalarında görsel göstermesi (*|RSSITEM:IMAGE|*) için
-standart RSS <enclosure> etiketi. Kullanım: {% include rss-image-enclosure.html post=post %}
+Mailchimp'in RSS kampanyalarında görsel göstermesi (*|RSSITEM:IMAGE|*) için hem
+standart RSS <enclosure> hem de Mailchimp'in kendi dokümantasyonunda önerdiği
+<media:content> (MRSS) etiketi. Sadece <enclosure> varken Mailchimp görseli
+<img> olarak değil, barındırıldığı yere düz bir link olarak göstermeye
+çalışıyor gibi görünüyor (webp formatındaki tüm görseller gerçek gönderilen
+maillerde boş <img src=""> çıktı, halbuki enclosure length doğruydu) —
+<media:content> eklemek bunu düzeltmek için. Kullanım:
+{% include rss-image-enclosure.html post=post %}
 {%- endcomment -%}
 {%- if include.post.image -%}
 {%- assign img_ext = include.post.image | split: '.' | last | downcase -%}
@@ -12,4 +18,5 @@ standart RSS <enclosure> etiketi. Kullanım: {% include rss-image-enclosure.html
   {%- else -%}{%- assign img_type = 'image/jpeg' -%}
 {%- endcase -%}
 <enclosure url="{{ include.post.image }}" type="{{ img_type }}" length="{{ include.post.image_bytes | default: 0 }}" />
+<media:content url="{{ include.post.image }}" type="{{ img_type }}" medium="image" />
 {%- endif -%}
