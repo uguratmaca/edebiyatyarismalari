@@ -16,6 +16,7 @@ requirements: "TC veya KKTC'daki yönetmen veya yapımcılar katılabilir."
 permalink: "sabanci-vakfi-kisa-film-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/agustos/sabanci-vakfi-kisa-film-yarismasi-2023.jpg"
 excerpt:  "Sabancı Vakfı <strong> 8. Kısa Film Yarışması </strong> düzenliyor."
+archived_to: "/sabanci-vakfi-kisa-film-yarismasi"
 ---
 
 ## 8. Kısa Film Yarışması

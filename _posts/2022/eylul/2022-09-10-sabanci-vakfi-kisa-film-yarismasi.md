@@ -13,9 +13,10 @@ organizer: "Sabancı Vakfı"
 totalPrize: "60 Bin TL'dir."
 hidden: true
 requirements: "İsteyen herkes katılabilir."
-permalink: "sabanci-vakfi-kisa-film-yarismasi"
+permalink: "sabanci-vakfi-kisa-film-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/sabanci-vakfi-kisa-film-yarismasi.jpg"
 excerpt:  "Sabancı Vakfı <strong> 7. Sabancı Vakfı Kısa Film Yarışması </strong> düzenliyor."
+archived_to: "/sabanci-vakfi-kisa-film-yarismasi"
 ---
 
 ## 7. Sabancı Vakfı Kısa Film Yarışması

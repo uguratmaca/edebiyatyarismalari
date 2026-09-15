@@ -13,6 +13,8 @@ requirements: "Yarışma’ya başvuran eserlerin yönetmen (Eser Sahibi) ve / v
 permalink: "sabanci-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2020/ekim/sabanci-vakfi-kisa-film-yarismasi.jpg"
 excerpt: "Sabancı Vakfı, toplumsal sorunların sanat aracılığıyla ele alınmasını desteklemek fikrinden hareketle Sabancı Vakfı Kısa Film Yarışması’nı düzenlemeye karar vermiştir. Yarışma ile amaçlanan, toplumsal konularda sinemanın yaratıcı bakış açısından, etki gücünden yararlanarak bilinç oluşturmak, farkındalık yaratmak ve toplumsal gelişmeye yönelik değişimleri tetiklemektir."
+hidden: true
+archived_to: "/sabanci-vakfi-kisa-film-yarismasi"
 ---
 
 Sabancı Vakfı, toplumsal sorunların sanat aracılığıyla ele alınmasını desteklemek fikrinden hareketle **Sabancı Vakfı Kısa Film Yarışması**’nı düzenlemeye karar vermiştir. Yarışma ile amaçlanan, toplumsal konularda sinemanın yaratıcı bakış açısından, etki gücünden yararlanarak bilinç oluşturmak, farkındalık yaratmak ve toplumsal gelişmeye yönelik değişimleri tetiklemektir.
