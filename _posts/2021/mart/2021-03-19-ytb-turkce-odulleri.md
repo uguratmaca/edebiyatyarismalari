@@ -14,6 +14,7 @@ permalink: "ytb-turkce-odulleri"
 requirements: "Yurtdışında en az 7 yıldır ikamet sahibi olan 15-40 yaş aralığındaki tüm vatandaşlarımız yarışmaya katılabilirler"
 image: "https://edebiyatyarismalari.com/images/2021/mart/ytb-turkce-odulleri.jpg"
 excerpt: "Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı öykü, şiir, deneme, kitap desteği yarışması düzenliyor"
+archived_to: "/ytb-bir-dunya-edebiyat-odulleri"
 ---
 
 ## YTB Türkçe Ödülleri Yunus Emre Özel Öykü, Şiir, Deneme, Kitap Desteği Yarışması

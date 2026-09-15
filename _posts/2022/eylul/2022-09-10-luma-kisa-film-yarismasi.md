@@ -13,9 +13,10 @@ organizer: "Yeditepe Üniversitesi Sinema Kulübü ve Ay Yapım"
 totalPrize: "35 Bin TL'dir."
 hidden: true
 requirements: "Sadece Türkiye Cumhuriyeti vatandaşı öğrencileri katılabilir."
-permalink: "luma-kisa-film-yarismasi"
+permalink: "luma-kisa-film-yarismasi-2022"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/luma-kisa-film-yarismasi.jpg"
 excerpt:  "Yeditepe Üniversitesi Sinema Kulübü ve Ay Yapım <strong> Luma Kısa Film Festivali </strong> düzenliyor."
+archived_to: "/luma-kisa-film-yarismasi"
 ---
 
 ## Luma Kısa Film Festivali

@@ -15,6 +15,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Arkadaş Z. Özger Şiir Ödülü** — [dosya](siir/2026-01-08-arkadas-z-ozger-siir-odulu.md) · `/arkadas-z-ozger-siir-odulu`
 - **Attila İlhan Liseli Gençler Kompozisyon Yarışması** — [dosya](2023-11-04-attila-ilhan-kompozisyon-yarismasi.md) · `/attila-ilhan-kompozisyon-yarismasi`
 - **Attilâ İlhan Edebiyat Ödülleri** — [dosya](2025-06-01-attila-ilhan-edebiyat-odulleri.md) · `/attila-ilhan-edebiyat-odulleri`
+- **Aydınlık Nesiller Derneği Öykü Ödülü (AND)** — [dosya](hikaye/2026-09-15-aydinlik-nesiller-dernegi-oyku-odulu.md) · `/aydinlik-nesiller-dernegi-oyku-odulu`
 - **Aydınlık Yarınlara Kitap Okuma Yarışması** — [dosya](2025-03-29-aydinlik-yarinlara-kitap-okuma-yarismasi.md) · `/aydinlik-yarinlara-kitap-okuma-yarismasi`
 - **Benim Eserim Senaryo Yarışması** — [dosya](2026-07-11-benim-eserim-senaryo-yarismasi.md) · `/benim-eserim-senaryo-yarismasi`
 - **Cafe Kitap Kulübü Öykü Yarışması** — [dosya](hikaye/2026-08-05-cafe-kitap-kulubu-oyku-yarismasi.md) · `/cafe-kitap-kulubu-oyku-yarismasi`
@@ -48,6 +49,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **KeKeMe Yayınları Öykü Ödülü** — [dosya](2025-06-23-kkm-yayinlari-oyku-odulu.md) · `/kkm-yayinlari-oyku-odulu`
 - **Kemal Özer Şiir Ödülü** — [dosya](siir/2026-07-27-kemal-ozer-siir-odulu.md) · `/kemal-ozer-siir-odulu`
 - **Kitapyurdu Türkiye Okur Ödülleri** — [dosya](2025-02-12-kitapyurdu-turkiye-okur-odulleri.md) · `/kitapyurdu-turkiye-okur-odulleri`
+- **Luma Kısa Film Festivali** — [dosya](diger/2026-09-15-luma-kisa-film-yarismasi.md) · `/luma-kisa-film-yarismasi`
 - **Mahal Edebiyat Öykü Yarışması** — [dosya](2026-01-29-mahal-edebiyat-oyku-yarismasi.md) · `/mahal-edebiyat-oyku-yarismasi`
 - **Mavera Edebiyat Ödülleri** — [dosya](2026-02-15-mavera-edebiyat-odulleri.md) · `/mavera-edebiyat-odulleri`
 - **Metin Altıok Şiir Ödülü** — [dosya](siir/2026-02-04-metin-altiok-siir-odulu.md) · `/metin-altiok-siir-odulu`
@@ -76,6 +78,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Yaşar Kemal Anısına Öykü, Şiir ve Halkbilim Yarışması** — [dosya](diger/2026-08-21-yasar-kemal-oyku-siir-yarisma.md) · `/yasar-kemal-oyku-siir-yarisma`
 - **Yaşar Nabi Nayır Gençlik Ödülleri** — [dosya](2025-12-21-yasar-nabi.md) · `/yasar-nabi-nayir-odulleri`
 - **Yunus Emre Edebiyat Armağanı (Eskişehir)** — [dosya](2023-06-24-eskisehir-yunus-emre-edebiyat-armagani.md) · `/eskisehir-yunus-emre-edebiyat-armagani`
+- **YTB Bir Dünya Edebiyat Ödülleri** — [dosya](diger/2026-09-15-ytb-bir-dunya-edebiyat-odulleri.md) · `/ytb-bir-dunya-edebiyat-odulleri`
 - **YAZAK Öykü Yarışması** — [dosya](hikaye/2026-09-13-yazak-hikaye-yarismasi.md) · `/yazak-hikaye-yarismasi`
 - **Zeynep Cemali Öykü Yarışması** — [dosya](2026-02-10-zeynep-cemali-oyku-yarismasi.md) · `/zeynep-cemali-oyku-yarismasi`
 - **Çığ Dergisi Öykü Yarışması** — [dosya](hikaye/2026-07-15-cig-dergisi-oyku-yarismasi.md) · `/cig-dergisi-oyku-yarismasi`

@@ -14,6 +14,7 @@ requirements: "18 yaşını doldurmuş, yurtiçi ve yurtdışından, T.C. vatand
 permalink: "kadin-temali-oyku-yarismasi-2024"
 image: "https://edebiyatyarismalari.com/images/2024/mart/kadin-temali-oyku-yarismasi-2024.jpg"
 excerpt:  "Aydınlık Nesiller Derneği (AND) <strong> Kadın Temalı Öykü Yarışması </strong> düzenliyor."
+archived_to: "/aydinlik-nesiller-dernegi-oyku-odulu"
 ---
 
 ## Kadın Temalı Öykü Yarışması
