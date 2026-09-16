@@ -28,6 +28,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Edebiyat Uyarlaması Uzun Metraj Senaryo Yarışması (Altın Koza)**: [dosya](senaryo/2026-08-01-adana-altin-koza-senaryo-yarismasi.md) · `/adana-altin-koza-senaryo-yarismasi`
 - **Emine Işınsu Roman Ödülü** — [dosya](roman/2026-07-11-emine-isinsu-roman-odulu.md) · `/emine-isinsu-roman-odulu`
 - **Enerji Bakanlığı Öykü Yarışması** — [dosya](2023-10-21-enerji-bakanligi-oyku-yarismasi.md) · `/enerji-bakanligi-oyku-yarismasi`
+- **Erdal Öz Edebiyat Ödülleri** — [dosya](diger/2026-02-17-erdal-oz-edebiyat-odulleri.md) · `/erdal-oz-edebiyat-odulleri`
 - **Enver Gökçe Toplumcu Gerçekçi Şiir Ödülü** — [dosya](siir/2026-02-28-enver-gokce-siir-odulu.md) · `/enver-gokce-siir-odulu`
 - **Eskişehir Yunus Emre Şiir Yarışması** — [dosya](siir/2025-08-23-yunus-emre-siir-yarismasi.md) · `/yunus-emre-siir-yarismasi`
 - **Everest Yayınları İlk Roman Yarışması** — [dosya](roman/2026-06-17-everest-yayinlari-ilk-roman-yarismasi.md) · `/everest-yayinlari-ilk-roman-yarismasi`
@@ -70,6 +71,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Simit Çay Edebiyat Etkinlikleri Şiir Yarışması** — [dosya](siir/2026-06-23-simit-cay-etkinlikleri-siir-yarismasi.md) · `/simit-cay-etkinlikleri-siir-yarismasi`
 - **Sürdürülebilirlik Fikir Yarışması** — [dosya](2023-07-02-surdurulebilirlik-fikir-yarismasi.md) · `/surdurulebilirlik-fikir-yarismasi`
 - **Süreyya Ağaoğlu Makale Yarışması** — [dosya](2026-06-17-sureyya-agaoglu-makale-yarismasi.md) · `/sureyya-agaoglu-makale-yarismasi`
+- **Talât Sait Halman Çeviri Ödülü** — [dosya](diger/2026-09-16-talat-sait-halman-ceviri-odulu.md) · `/talat-sait-halman-ceviri-odulu`
 - **Tanpınar Edebiyat Yarışması (Osmangazi)** — [dosya](2025-03-11-osmangazi-tanpinar-edebiyat-yarismasi.md) · `/osmangazi-tanpinar-edebiyat-yarismasi`
 - **TBD Bilişim Dergisi Bilimkurgu Öykü Yarışması** — [dosya](2026-07-28-tbd-bilisim-dergisi-bilimkurgu-oyku-yarismasi.md) · `/tbd-bilisim-dergisi-bilimkurgu-oyku-yarismasi`
 - **Telsim Kısa Öykü Yarışması** — [dosya](2025-01-25-telsim-kisa-oyku-yarismasi.md) · `/telsim-kisa-oyku-yarismasi`
