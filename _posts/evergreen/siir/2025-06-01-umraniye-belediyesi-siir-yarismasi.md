@@ -13,6 +13,7 @@ organizer: "Ümraniye Belediyesi"
 requirements: "İsteyen herkes katılabilir"
 totalPrize: "130 Bin TL'dir"
 permalink: "umraniye-belediyesi-siir-yarismasi"
+redirect_from: ["/articles/2018/12/11/bayrakta-al-olanlar-siir.html"]
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/umraniye-belediyesi-siir-yarismasi-2026.webp"
 excerpt: "130 Bin TL toplam ödüllü Ümraniye Belediyesi Geleneksel Şiir Yarışması'na her yıl başvurular açılıyor. Son başvuru: 31 Temmuz 2026."
 ---

@@ -12,6 +12,7 @@ attendance: "E-posta"
 organizer: "Bursa Barosu"
 requirements: "Avukat, hâkim, savcı, stajyer avukat, hukuk ve iletişim fakültesi öğrencileri ve gazeteciler  katılabilir."
 permalink: "cengiz-goral-makale-yarismasi"
+redirect_from: ["/articles/2019/03/12/avukat-cengiz-goral-makale-yarismasi.html"]
 image: "https://edebiyatyarismalari.com/images/2022/haziran/cengiz-goral-makale-yarismasi.jpg"
 excerpt:  "Bursa Barosu <strong> 2022 Cengiz Göral Makale Yarışması </strong> düzenliyor."
 ---

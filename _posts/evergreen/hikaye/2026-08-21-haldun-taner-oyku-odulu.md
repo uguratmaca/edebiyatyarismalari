@@ -12,6 +12,7 @@ attendance: "Elden, Kargo/Posta"
 organizer: "Milliyet Gazetesi"
 requirements: "Kısa öykülerden oluşan, 1 Ocak 2025-31 Aralık 2025 tarihleri arasında Türkçe yayımlanmış bir kitapla başvurulabilir; yayımlanmamış dosyalar kabul edilmez."
 permalink: "haldun-taner-oyku-odulu"
+redirect_from: ["/haldun-taner-oyku-odulu/"]
 image: "https://edebiyatyarismalari.com/images/2026/agustos/haldun-taner-oyku-odulu.webp"
 excerpt: "Milliyet Gazetesi <strong>Haldun Taner Öykü Ödülü</strong>'nü düzenliyor."
 ---

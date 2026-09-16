@@ -8,23 +8,28 @@
 # Bu script her evergreen dosyanın git geçmişini (rename'ler dahil) tarar,
 # o dosyanın bugüne kadar front matter'da kullandığı tüm permalink'leri
 # toplar ve hangilerinin artık hiçbir canlı post tarafından kullanılmadığını
-# (yani 404 verdiğini) raporlar.
+# (yani 404 verdiğini) raporlar. Bir eski permalink `redirect_from` ile
+# kapatılmışsa (jekyll-redirect-from gerçek bir yönlendirme sayfası üretiyor)
+# kayıp sayılmaz.
 #
 # Kullanım:
 #   bundle exec ruby scripts/find_lost_urls.rb
 
 require 'jekyll'
 
+def normalize(permalink)
+  p = permalink.to_s.strip.gsub(/^\/+|\/+$/, '')
+  "/#{p}"
+end
+
 config = Jekyll.configuration('source' => Dir.pwd)
 site = Jekyll::Site.new(config)
 site.read
 
 live_permalinks = {}
-site.posts.docs.each { |doc| live_permalinks[doc.url] = doc.relative_path }
-
-def normalize(permalink)
-  p = permalink.to_s.strip.gsub(/^\/+|\/+$/, '')
-  "/#{p}"
+site.posts.docs.each do |doc|
+  live_permalinks[doc.url] = doc.relative_path
+  Array(doc.data['redirect_from']).each { |r| live_permalinks[normalize(r)] = doc.relative_path }
 end
 
 def extract_permalink(content)

@@ -11,6 +11,7 @@ attendance: "E-Posta"
 organizer: "Yaşar Kemal Uluslararası Çukurova Kültür Festivali Tertip Komitesi"
 requirements: "18 yaş ve üzeri katılabilir (18 yaş altı katılımcılarda veli imzası aranır); bir yarışmacı en fazla iki eserle katılabilir; eserler yayımlanmış ya da yayımlanmamış olabilir."
 permalink: "yasar-kemal-oyku-siir-yarisma"
+redirect_from: ["/yasar-kemal-oyku-siir-yarisma/"]
 image: "https://edebiyatyarismalari.com/images/2026/agustos/yasar-kemal-oyku-siir-yarisma.webp"
 excerpt: "Yaşar Kemal Uluslararası Çukurova Kültür Festivali kapsamında <strong>öykü, şiir ve halkbilim</strong> yarışması düzenleniyor."
 ---

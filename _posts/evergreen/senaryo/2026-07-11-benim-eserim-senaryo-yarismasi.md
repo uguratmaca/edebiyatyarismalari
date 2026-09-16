@@ -13,6 +13,7 @@ organizer: "SETEM"
 requirements: "İsteyen herkes katılabilir."
 totalPrize: "22.500 TL'dir."
 permalink: "benim-eserim-senaryo-yarismasi"
+redirect_from: ["/benim-eserim-7-senaryo-yarismasi"]
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/benim-eserim-7-senaryo-yarismasi.webp"
 excerpt: "SETEM, T.C. Kültür ve Turizm Bakanlığı Telif Hakları Genel Müdürlüğü desteğiyle 'Benim Eserim' Kısa Film Senaryo Yarışması düzenliyor. Son başvuru: 1 Eylül 2026."
 ---

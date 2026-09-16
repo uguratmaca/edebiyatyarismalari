@@ -12,6 +12,7 @@ attendance: "Websitesi"
 organizer: "Bodrum Belediyesi"
 requirements: "Bodrum genelindeki 10., 11. ve 12. sınıf öğrencileri katılabilir."
 permalink: "bodrum-liseler-arasi-oyku-yarismasi"
+redirect_from: ["/bodrum-oyku-yarismasi"]
 image: "https://edebiyatyarismalari.com/images/2022/haziran/bodrum-liseler-arasi-oyku-yarismasi.jpg"
 excerpt:  "Bodrum Belediyesi <strong> Liseler Arası Öykü Yarışması </strong> düzenliyor."
 ---

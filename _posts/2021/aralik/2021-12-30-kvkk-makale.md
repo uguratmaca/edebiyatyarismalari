@@ -12,6 +12,7 @@ comTopic: "Makaleler; Kişisel Verilerin Korunması ve Öneminin - Ulusal ve Ulu
 attendance: "Websitesi"
 requirements: "Yarışmaya yalnızca öğrenim görmekte olan yüksek lisans ve doktora öğrencileri katılabilir."
 permalink: "kvkk-akademi-makale-yarismasi"
+redirect_from: ["/articles/2019/02/06/kvkk-akademi-makale-yarismasi.html"]
 image: "https://edebiyatyarismalari.com/images/2021/aralik/kvkk-akademi-makale-yarismasi.jpg"
 excerpt: "Makale yarışması ile 7 Nisan “Kişisel Verileri Koruma Günü” münasebetiyle, toplumda kişisel verilerin korunmasına yönelik farkındalık düzeyinin artırılması ve kişisel verilerin korunmasına dair yapılacak akademik çalışmaları teşvik etmek amaçlanmaktadır."
 ---

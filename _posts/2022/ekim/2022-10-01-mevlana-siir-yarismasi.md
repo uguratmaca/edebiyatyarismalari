@@ -12,6 +12,7 @@ organizer: "Bursa Osmangazi Belediyesi"
 requirements: "Türkiye genelindeki lise öğrencileri katılabilir."
 totalPrize: "24 Bin TL'dir."
 permalink: "mevlana-siir-yarismasi"
+redirect_from: ["/articles/2018/10/17/mevlana-liselerarasi-siir.html"]
 image: "https://edebiyatyarismalari.com/images/2022/ekim/mevlana-siir-yarismasi.jpg"
 excerpt:  "Bursa Osmangazi Belediyesi <strong> Liseler Arası Mevlana Şiir Yarışması </strong> düzenliyor."
 ---

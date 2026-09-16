@@ -11,6 +11,7 @@ price : "4 Bin 500 TL'dir"
 comTopic: "Kadın"
 requirements: "İsteyen herkes katılabilir"
 permalink: "kopru-dergisi-makale-yarismasi-2021"
+redirect_from: ["/kopru-dergisi-makale-yarismasi"]
 image: "https://edebiyatyarismalari.com/images/2021/ocak/kvkk-akademi-makale-yarismasi.jpg"
 excerpt: "Risale-i Nur Enstitüsü Ankara Şubesi’nin gelenekselleşen Köprü dergisi makale yarışması düzenliyor"
 ---

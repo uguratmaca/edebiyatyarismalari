@@ -10,6 +10,7 @@ attendance: "Websitesi"
 comTopic: "Serbest"
 requirements: "Yarışmaya herkes katılabilir."
 permalink: "o-belde-siir-yarismasi"
+redirect_from: ["/o-belde-makale-yarismasi"]
 image: "https://edebiyatyarismalari.com/images/2020/temmuz/o-belde-siir-yarismasi.jpg"
 excerpt: "Birincisine başlamış bulunduğumuz O Belde Şiir Yarışmasını sizlere büyük bir heyecan ile haber etmekteyim."
 ---
