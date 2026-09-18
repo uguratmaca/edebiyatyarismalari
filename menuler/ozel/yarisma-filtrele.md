@@ -48,6 +48,11 @@ filterGroups:
       - Okul/Kurum
       - Sosyal Medya
       - Diğer
+  - id: prize
+    label: "Para Ödülü Var mı?"
+    options:
+      - Evet
+      - Hayır
 ---
 
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
@@ -61,7 +66,7 @@ filterGroups:
 
   <section class="row">
     {% for group in page.filterGroups %}
-    <section class="col-md-4 col-sm-12 mb-3">
+    <section class="col-lg-3 col-md-6 col-sm-12 mb-3">
       <section class="dropdown filter-dropdown" onclick="event.stopPropagation()">
         <button class="btn btn-outline-secondary btn-block dropdown-toggle text-left" type="button"
           data-toggle="dropdown" aria-expanded="false" id="{{ group.id }}-dropdown-btn">

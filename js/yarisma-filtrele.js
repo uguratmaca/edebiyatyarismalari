@@ -44,13 +44,16 @@
     return Array.prototype.map.call(boxes, function (box) { return box.value; });
   }
 
-  function matchesFilters(post, audience, types, attendanceMethods) {
+  function matchesFilters(post, audience, types, attendanceMethods, prize) {
     var tags = post.tags || [];
     var methods = normalizeAttendance(post.attendance);
+    // totalPrize is only filled for cash prizes (see .claude/notes-post-schema.md).
+    var hasPrize = !!(post.totalPrize && String(post.totalPrize).trim());
+    var prizeMatch = prize.length === 0 || prize.indexOf(hasPrize ? 'Evet' : 'Hayır') !== -1;
     var audienceMatch = audience.length === 0 || audience.some(function (a) { return tags.indexOf(a) !== -1; });
     var typeMatch = types.length === 0 || types.some(function (t) { return tags.indexOf(t) !== -1; });
     var attendanceMatch = attendanceMethods.length === 0 || attendanceMethods.some(function (m) { return methods.indexOf(m) !== -1; });
-    return audienceMatch && typeMatch && attendanceMatch;
+    return audienceMatch && typeMatch && attendanceMatch && prizeMatch;
   }
 
   function cardHtml(post) {
@@ -75,8 +78,9 @@
     var audience = getSelected('audience-checkbox');
     var types = getSelected('type-checkbox');
     var attendanceMethods = getSelected('attendance-checkbox');
+    var prize = getSelected('prize-checkbox');
     var filtered = allPosts.filter(function (post) {
-      return matchesFilters(post, audience, types, attendanceMethods);
+      return matchesFilters(post, audience, types, attendanceMethods, prize);
     });
 
     countEl.textContent = filtered.length + ' yarışma bulundu';
