@@ -12,6 +12,7 @@ comTopic: "Serbest"
 organizer: "Akşehir Belediyesi"
 requirements: "Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir"
 permalink: "tarik-bugra-oyku-yarismasi-2025"
+archived_to: "/tarik-bugra-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/agustos/tarik-bugra-oyku-yarismasi.jpg"
 excerpt: "Akşehir Belediyesi Tarık Buğra Öykü Yarışması'nı duyurdu"
 ---
