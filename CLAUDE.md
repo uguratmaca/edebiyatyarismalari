@@ -5,6 +5,14 @@ Jekyll sitesi. Yarışma duyuruları `_posts/<yıl>/<ay>/` altında, klasör pos
 Yeni yarışma postu eklerken front matter alanları, `tags` filtre kategorileri ve görsel
 işleme (resize/watermark) için `.claude/notes-post-schema.md`'ye bak.
 
+## Genel kurallar (detayı `.claude/notes-post-schema.md`'de)
+
+- **Hiçbir URL 404 olmasın.** Permalink değişince dosyayı yeniden adlandırma, `archived_to`/`redirect_from` kullan, sonra `scripts/find_lost_urls.rb` ile doğrula.
+- **İç linklerde ve `archived_to`'da sonda `/` yok** (`/slug`, `/slug/` değil). Sayfalar `slug.html` olarak yayınlandığından slash'lı adres 404 verir ve canonical bozulur.
+- **Permalink'te edisyon numarası yok** (`...-oyku-yarismasi`, `...-2-oyku-yarismasi` değil); yarışma ileride evergreen olacakmış gibi adlandırılır.
+- **Yarışma sonucu gelince yeni post açma**, mevcut permalink'i (evergreen ise o yılın arşiv kopyasını) güncelle.
+- **Metinlerde em dash (—) kullanma** (post, sayfa, front matter, kod yorumu). Nokta, virgül, parantez veya iki nokta kullan.
+
 ## Öncelik: SEO ve GEO
 
 Bu proje için her zaman öncelik **SEO**'dur. Tasarım, UX, performans gibi konularda karar verirken de bu önceliği göz önünde bulundur (ör. semantic HTML, başlık hiyerarşisi, alt text, sayfa hızı, crawl edilebilirlik, structured data gibi etkenler tercih sebebidir).

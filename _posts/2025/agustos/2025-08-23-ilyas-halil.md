@@ -14,7 +14,7 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "4-ilyas-halil-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2025/agustos/4-ilyas-halil-oyku-odulu.webp"
 excerpt: "Mersin Sanat Edebiyat 4. İlyas Halil Öykü Ödülü'nü duyurdu"
-archived_to: "/ilyas-halil-oyku-odulu/"
+archived_to: "/ilyas-halil-oyku-odulu"
 ---
 
 ## 4. İlyas Halil Öykü Ödülü

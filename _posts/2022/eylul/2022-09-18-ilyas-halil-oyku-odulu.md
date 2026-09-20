@@ -14,7 +14,7 @@ requirements: "İsteyen herkes katılabilir."
 permalink: "ilyas-halil-oyku-odulu-2022"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/ilyas-halil-oyku-odulu.jpg"
 excerpt:  "Mersin Sanat Edebiyat Dergisi <strong> İlyas Halil Öykü Yarışması </strong> düzenliyor."
-archived_to: "/ilyas-halil-oyku-odulu/"
+archived_to: "/ilyas-halil-oyku-odulu"
 ---
 
 ## İlyas Halil Öykü Yarışması

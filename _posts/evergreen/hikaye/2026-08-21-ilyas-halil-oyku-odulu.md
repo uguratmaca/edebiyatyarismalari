@@ -47,7 +47,7 @@ Sonuçlar değerlendirme tamamlandıktan sonra www.mersinsanatedebiyat.com ve ba
 
 İlyas Halil Öykü Ödülü'nün önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
-- [2025](/4-ilyas-halil-oyku-odulu/)
-- [2024](/ilyas-halil-oyku-yarismasi-2024/)
-- [2023](/ilyas-halil-oyku-odulu-2023/)
-- [2022](/ilyas-halil-oyku-odulu-2022/)
+- [2025](/4-ilyas-halil-oyku-odulu)
+- [2024](/ilyas-halil-oyku-yarismasi-2024)
+- [2023](/ilyas-halil-oyku-odulu-2023)
+- [2022](/ilyas-halil-oyku-odulu-2022)

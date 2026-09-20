@@ -58,4 +58,4 @@ Yarışma Koordinatörü: Ezgi Aksoy
 
 Çünkü Kadınız Kolektifi Öykü Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
-- [2025](/cunku-kadiniz-oyku-yarismasi-2025/)
+- [2025](/cunku-kadiniz-oyku-yarismasi-2025)

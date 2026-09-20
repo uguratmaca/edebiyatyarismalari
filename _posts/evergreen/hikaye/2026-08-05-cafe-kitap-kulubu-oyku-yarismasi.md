@@ -56,7 +56,7 @@ Yarışmaya katılanlar yukarıda belirtilen şartları kabul etmiş sayılır.
 
 Cafe Kitap Kulübü Öykü Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
-- [4. yarışma (2025)](/4-cafe-kitap-kulubu-oyku-yarismasi/)
-- [3. yarışma (2024)](/3-cafe-kitap-kulubu-oyku-yarismasi/)
-- [2. yarışma (2023)](/cafe-kitap-kulubu-oyku-yarismasi-2023/)
-- [1. yarışma (2022)](/cafe-kitap-kulubu-oyku-yarismasi-2022/)
+- [4. yarışma (2025)](/4-cafe-kitap-kulubu-oyku-yarismasi)
+- [3. yarışma (2024)](/3-cafe-kitap-kulubu-oyku-yarismasi)
+- [2. yarışma (2023)](/cafe-kitap-kulubu-oyku-yarismasi-2023)
+- [1. yarışma (2022)](/cafe-kitap-kulubu-oyku-yarismasi-2022)

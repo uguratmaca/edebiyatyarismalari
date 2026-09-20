@@ -48,5 +48,5 @@ Katılım Koşulları:
 
 Seyhan Erözçelik İlk Kitap Şiir Ödülü'nün önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
-- [2025](/seyhan-erozcelik-siir-odulu-2025/)
-- [2022](/seyhan-erozcelik-siir-yarismasi-2022/)
+- [2025](/seyhan-erozcelik-siir-odulu-2025)
+- [2022](/seyhan-erozcelik-siir-yarismasi-2022)

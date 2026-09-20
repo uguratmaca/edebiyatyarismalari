@@ -21,8 +21,8 @@ totalPrize: "60 Bin TL'dir" # toplam para ödülü (sadece parasal ödül varsa 
 attendance: "E-Posta"       # gönderim şekli, serbest metin (bkz. aşağıdaki normalizasyon)
 organizer: "Eğitim Sen Amed Şubeleri"
 requirements: "Öykü alanında üretim yapan herkes katılabilir."
-permalink: "15-abdullah-duran-oyku-yarismasi"
-image: "https://edebiyatyarismalari.com/images/2026/temmuz/15-abdullah-duran-oyku-yarismasi.webp"
+permalink: "abdullah-duran-oyku-yarismasi"   # edisyon numarası (15.) permalink'e girmez, bkz. "Permalink ve URL kuralları"
+image: "https://edebiyatyarismalari.com/images/2026/temmuz/abdullah-duran-oyku-yarismasi.webp"
 excerpt: "Kısa özet, <strong> ile öne çıkan kısım vurgulanabilir."
 ---
 ```
@@ -53,6 +53,57 @@ yarışmalar" listesine girmez — parasal ödül yoksa alanı boş bırak, uydu
 
 `comTopic` yoksa (yarışmanın belirli bir konu şartı yoksa) alanı boş
 bırakmak/atlamak yerine `"Serbest"` yaz.
+
+## Permalink ve URL kuralları
+
+- **Permalink'te edisyon/sıra numarası ("1.", "2." vb.) olmaz.** İlk kez düzenlenen bir
+  yarışma bile, ileride tekrarlanıp evergreen'e dönüşecekmiş gibi verilir
+  (`tahta-gemi-uluslararasi-oyku-yarismasi`, `tahta-gemi-uluslararasi-1-oyku-yarismasi` değil).
+  Sayı içeren permalink sonraki yıl farklı bir URL gerektirir ve link/SEO değeri bölünür.
+  Başlıkta (`title`) numara kalabilir, kural sadece permalink/slug ve görsel adı içindir.
+- **İç linklerde ve `archived_to` değerinde sonda `/` yazılmaz.** Normal post permalink'leri
+  `slug.html` olarak yayınlanıyor: sayfa `/slug` adresinde 200 verir, `/slug/` ise çoğu zaman 404.
+  `archived_to` canonical etiketini de ürettiği için slash'lı yazılırsa canonical 404'e işaret eder.
+  Bu yüzden "Geçmiş Yıllar" listelerinde `(/slug)`, front matter'da `archived_to: "/slug"` yaz.
+  İstisna: `menuler/` altındaki dizin tarzı sayfalar (`/hikaye-yarismalari/`, aylık listeler vb.)
+  slash'lı da çalışır, onlara dokunma. Emin değilsen hedefi hem slash'lı hem slash'sız `curl` ile dene.
+- **Hiçbir URL 404'e düşmemeli.** Site 2018'den beri yayında, ~2000 duyuru var.
+  - Permalink değişiyorsa (özellikle evergreen dönüşümünde) dosyayı `git mv` ile yeniden
+    adlandırma. Yeni evergreen dosyası oluştur, eski dosyaları yerinde bırakıp `archived_to` ekle.
+  - Permalink gerçekten değişecekse `redirect_from` ekle (`jekyll-redirect-from` kurulu).
+  - Evergreen dönüşümü veya permalink değişikliğinden sonra
+    `bundle exec ruby scripts/find_lost_urls.rb` çalıştırıp yeni kayıp URL çıkmadığını doğrula.
+    Script'in raporladığı her adayı gerçekten araştır, "muhtemelen eski/alakasız" deyip geçme.
+  - Toplu dönüşümler için `scripts/convert_to_evergreen.rb` var (varsayılan dry-run, `--apply`
+    ile yazar), elle yaparken de aynı deseni izle.
+
+## Yarışma sonucu duyurulunca
+
+Kazananlar/sonuç geldiğinde **yeni post/permalink açma**, mevcut permalink'e "Sonuçlar" veya
+"Kazananlar" bölümü ekleyerek yerinde güncelle. "X yarışması" araması zaten o permalink'te
+sıralama ve backlink biriktirmiş, "X yarışması sonuçları" niyeti de büyük ölçüde aynı sayfada
+karşılanır. Ayrı permalink link otoritesini böler ve arşivi gereksiz büyütür.
+
+- Evergreen yarışmaysa (`_posts/evergreen/` altında, `her yıl tekrarlanan` tag'li) sonucu
+  evergreen sayfaya değil, o yılın **arşivlenmiş kopyasına** (`_posts/<yıl>/<ay>/...`,
+  `archived_to` alanı olan dosya) ekle. Evergreen sayfa bir sonraki dönemin duyurusunu temsil eder.
+- Evergreen değilse yarışmanın kendi postunu güncelle.
+- İstisna: sonuç haberi kendi başına büyük arama hacmi olan prestijli bir ödülse ayrı post
+  ve duyurudan link düşünülebilir, ama varsayılan davranış yukarıdaki.
+
+## Başka kaynaklarda bulunan yarışmayı siteye eklerken
+
+Yarışma bir haber/toplayıcı sitede, sosyal medyada vb. bulunup bizde karşılığı yoksa:
+
+1. **Son başvuru tarihi geçmişse "yeni/aktif" gibi gösterme.** Gövde "başvurular sürüyor/açıldı"
+   diliyle değil geçmiş bir kayıt gibi yazılır, `date:` alanı bugüne çekilip ana sayfada/RSS'te
+   taze bir duyuru gibi öne çıkarılmaz.
+2. **Tekrarlayan bir yarışmaysa evergreen yapıyı uygula** (`_posts/evergreen/<tür>/`,
+   "her yıl tekrarlanan ..." tag'i, bilinen geçmiş edisyonlar için "Geçmiş Yıllar" bölümü).
+3. **Edebiyat dışı veya karma yarışmalarda `hidden` kuralını uygula** (yukarıya bak).
+4. **Kaynak olarak yarışmayı düzenleyen kurumun kendi sitesi/sosyal medyası gösterilir.**
+   Bilgiyi bulduğun haber veya toplayıcı site post gövdesinde ve `organizer` alanında anılmaz.
+5. Ekleme bitince yukarıdaki URL kurallarını ve `find_lost_urls.rb` kontrolünü uygula.
 
 ## `tags` için sabit kategori listeleri
 

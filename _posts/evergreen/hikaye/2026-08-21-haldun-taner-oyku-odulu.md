@@ -52,8 +52,8 @@ Katılım Koşulları:
 
 Haldun Taner Öykü Ödülü'nün önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
-- [2025](/haldun-taner-oyku-odulu-2025/)
-- [2023](/haldun-taner-oyku-odulu-2023/)
-- [2022](/haldun-taner-oyku-odulu-2022/)
-- [2021](/32-haldun-taner-oyku-odulu/)
+- [2025](/haldun-taner-oyku-odulu-2025)
+- [2023](/haldun-taner-oyku-odulu-2023)
+- [2022](/haldun-taner-oyku-odulu-2022)
+- [2021](/32-haldun-taner-oyku-odulu)
 - [2019](/articles/2019/03/17/haldun-taner-oyku-odulu.html)

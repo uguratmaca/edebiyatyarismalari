@@ -1,5 +1,14 @@
 # GSC 404 raporu - redirect işi
 
+## GSC raporlarıyla çalışırken (genel kural)
+
+Search Console'dan gelen bir CSV'yi (404, keşfedildi ama dizine eklenmedi, tarandı ama dizine
+eklenmedi vb.) etkilenen URL'lerin **tam ve yetkili listesi** olarak kabul et, örnek değil.
+CSV'deki URL'leri düzelt. Bir bulguyu ("bu sayfa ince içerik") repodaki aynı desendeki tüm
+sayfalara genelleme ("hepsini düzeltelim"), repo genelinde grep ile daha fazla örnek çıksa bile.
+Daha geniş bir denetim değerliyse bunu ayrı ve isteğe bağlı bir öneri olarak sun, mevcut işin
+içine sessizce katma. Kullanıcı bir export verdiğinde listenin tam olup olmadığını teyit et.
+
 ## DURUM: Yapılacak #1 (redirect'ler) TAMAMLANDI
 
 37 URL'ye (5 git-history + 31 prefix-matching + 1 evergreen-yönlendirme) redirect_from eklendi, `bundle exec jekyll build` hatasız geçti, üretilen redirect stub'ları (meta-refresh + JS + noindex) doğru çalışıyor.

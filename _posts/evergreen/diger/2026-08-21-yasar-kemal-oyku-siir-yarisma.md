@@ -62,5 +62,5 @@ Yarışma sonuçları ve ödül töreni, 17 Ekim 2026 tarihinde Yaşar Kemal Kü
 
 Yaşar Kemal Anısına Öykü, Şiir ve Halkbilim Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
-- [2021](/yasar-kemal-oyku-siir-yarisma-2021/)
+- [2021](/yasar-kemal-oyku-siir-yarisma-2021)
 - [2019](/articles/2019/07/22/yasar-kemal-oyku-halkbilim-siir-yarismasi.html)
