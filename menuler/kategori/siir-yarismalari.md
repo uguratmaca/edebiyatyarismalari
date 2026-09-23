@@ -6,6 +6,7 @@ title: "Şiir Yarışması {{ site.year }} | Ödüllü ve Güncel Duyurular"
 key: "şiir yarışması"
 description: "{{ site.year }} yılı güncel şiir yarışmaları ve para ödüllü şiir yarışması duyuruları burada."
 permalink: "siir-yarismalari/"
+redirect_from: ["/gediz-istiklal-ruhu-siir-yarismasi", "/zeytinburnu-halk-kutuphanesi-siir-yarismasi", "/articles/2019/02/15/turk-polis-teskilati-siir-yarismasi.html", "/articles/2019/02/19/kadep-ofke-siir-yarisma.html"]
 ---
 
 Şiir yarışmaları, katılım şartları ve ölçütleri açısından edebiyat yarışmaları içinde en çeşitli gruplardan biridir. Kimi yarışmalar serbest nazımla yazılmış dizeleri kabul ederken kimileri belirli bir vezin veya nazım biçimini şart koşar; başvuru genellikle 1-3 şiirle sınırlandırılır ve dize sayısına üst sınır konur.

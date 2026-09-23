@@ -7,6 +7,7 @@ key: "hikaye yarışması, öykü yarışması"
 image: "https://edebiyatyarismalari.com/images/genel/oyku-hikaye-yarismasi.jpg"
 description: "{{ site.year }} yılı öykü ve hikaye yarışmaları: kısa öykü, para ödüllü ve yazı yazma yarışması güncel duyuruları burada."
 permalink: "hikaye-yarismalari/"
+redirect_from: ["/23-nisan-meb-eba-oyku-yarismasi-sonuclari-2020", "/bes-kelime-bir-hikaye-oyku-yarismasi", "/iyilik-hikaye-yarismasi", "/millet-kiraathaneleri-oyku-yarismasi", "/tehlikeli-sevgilim-yazma-yarismasi", "/articles/2018/11/28/mahmut-arslan-sesli-kitap-oyku.html"]
 ---
 
 Türkçede "öykü" ve "hikâye" kelimeleri çoğu zaman birbirinin yerine kullanılsa da, bazı yarışma şartnameleri ikisi arasında ince bir ayrım yapar: hikâye daha çok olay örgüsüne, öykü ise duygu ve atmosfere dayanan kısa anlatıları tanımlamak için tercih edilir. Pratikte başvuru kuralları neredeyse her zaman aynıdır: eserin daha önce yayımlanmamış ve başka bir yarışmada ödül almamış olması, genellikle 1500-5000 kelime arasında bir uzunlukta olması beklenir.

@@ -6,6 +6,7 @@ title: "Kompozisyon Yarışması {{ site.year }} | Öğrenci ve Genel Katılıml
 key: "kompozisyon yarışması"
 description: "{{ site.year }} yılı kompozisyon yarışmaları ve güncel kompozisyon yarışması duyuruları bu sayfada."
 permalink: "kompozisyon-yarismalari/"
+redirect_from: ["/articles/2018/11/15/kimseyi-geride-birakmamak-kompozisyon.html", "/articles/2019/02/22/kudus-konulu-kompozisyon-yarismasi.html", "/articles/2019/05/02/resim-siir-kompozisyon-yarismasi.html"]
 ---
 
 Kompozisyon, ilkokul ve ortaokul çağındaki öğrencilerin belirli bir konu etrafında düzenli ve anlaşılır bir şekilde yazma becerisini geliştirmeyi amaçlayan bir yazı türüdür. Bu nedenle kompozisyon yarışmaları büyük ölçüde okul çağı öğrencilerine yöneliktir ve genellikle Millî Eğitim Bakanlığı'na bağlı okullar, il/ilçe millî eğitim müdürlükleri veya belediyeler tarafından düzenlenir.

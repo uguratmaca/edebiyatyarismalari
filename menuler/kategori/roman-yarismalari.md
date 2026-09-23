@@ -6,6 +6,7 @@ title: "Roman Yarışması {{ site.year }} | Roman Yazma Yarışmaları"
 key: "roman yarışması"
 description: "{{ site.year }} yılı roman yarışmaları, roman yazma yarışmaları ve roman ödülleri güncel duyuruları burada."
 permalink: "roman-yarismalari/"
+redirect_from: ["/sah-eserim-kitap-yarismasi"]
 ---
 
 Roman yarışmaları, diğer yazı türlerine göre daha uzun soluklu bir katılım süreci gerektirir. Başvurular genellikle tamamlanmış bir roman dosyasıyla ya da romanın belirli bir bölümü ve sinopsisiyle yapılır. Bazı yarışmalar özellikle "ilk roman" kategorisine odaklanarak daha önce kitabı yayımlanmamış yazarları teşvik eder.

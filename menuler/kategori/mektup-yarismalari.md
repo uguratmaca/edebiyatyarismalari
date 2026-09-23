@@ -6,6 +6,7 @@ key: "mektup yarışması"
 subline: "Ülkemizde düzenlenen <strong>mektup yarışması</strong> duyurularına bu sayfadan ulaşabilirsiniz. {{ site.year }} yılı güncel <strong>mektup yazma yarışmaları</strong> aşağıda listelenmektedir."
 description: "{{ site.year }} yılı mektup yarışmaları ve mektup yazma yarışması duyuruları burada."
 permalink: "mektup-yarismalari/"
+redirect_from: ["/articles/2019/02/14/bursaya-mektuplar-yarismasi.html"]
 ---
 
 Mektup yarışmaları, katılımcılardan belirli bir kişiye -genellikle tarihi bir figüre, bir değere ya da soyut bir kavrama- hitaben yazılmış bir metin ister. Bu tür, içtenlik ve doğrudan hitap biçimiyle diğer yazı türlerinden ayrılır; yazarın duygularını doğrudan bir muhataba aktarmasına imkân tanır.

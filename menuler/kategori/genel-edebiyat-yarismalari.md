@@ -6,6 +6,7 @@ key: "genel"
 subline: "Her yaştan edebiyat severin katılabileceği <strong>edebiyat yarışmaları</strong> {{ site.year }} yılı güncel duyurularıyla bu sayfada listelenmektedir."
 description: "{{ site.year }} yılında her yaştan edebiyat severin katılabileceği genel katılımlı edebiyat yarışmaları ve güncel duyurular bu sayfada."
 permalink: "genel-edebiyat-yarismalari/"
+redirect_from: ["/2-mavi-kus-edebiyat-odulleri", "/dersim-oyku-siir-resim-fotograf-yarismasi", "/articles/2018/11/06/mutlugiller-yeni-yazarlarini-ariyor.html"]
 ---
 
 Genel katılımlı edebiyat yarışmaları, yaş veya meslek sınırı gözetmeksizin her edebiyatseverin başvurabileceği yarışmaları kapsar. Bu sayfada listelenen yarışmalar şiir, öykü, deneme gibi farklı türlerden oluşabilir; ortak özellikleri katılımcı profilini kısıtlamamalarıdır.

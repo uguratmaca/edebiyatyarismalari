@@ -12,6 +12,7 @@ organizer: "Mersin Sanat Edebiyat Derneği"
 totalPrize: "10 Bin TL'dir."
 requirements: "İsteyen herkes katılabilir."
 permalink: "ilyas-halil-oyku-odulu-2023"
+redirect_from: ["/ilyas-halil-oyku-odulu-2023/"]
 image: "https://edebiyatyarismalari.com/images/2023/haziran/ilyas-halil-oyku-odulu.jpg"
 excerpt:  "Mersin Sanat Edebiyat Derneği <strong> İlyas Halil Öykü Ödülü Yarışması </strong> düzenliyor."
 archived_to: "/ilyas-halil-oyku-odulu"
