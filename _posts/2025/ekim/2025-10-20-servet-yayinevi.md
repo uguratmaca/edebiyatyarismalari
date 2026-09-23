@@ -11,6 +11,7 @@ comTopic: "Serbest"
 organizer: "Servet Yayınevi"
 requirements: "18 yaşını dolduran herkese açıktır"
 permalink: "1-servet-yayinevi-oyku-odulu"
+archived_to: "/servet-yayinevi-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2025/ekim/1-servet-yayinevi-oyku-odulu.webp"
 excerpt: "1. Servet Yayınevi Öykü Ödülü Yarışması başvuruları başladı"
 ---

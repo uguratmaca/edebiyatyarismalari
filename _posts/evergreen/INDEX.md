@@ -67,6 +67,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Sabancı Vakfı Kısa Film Yarışması** (hidden): [dosya](kisa-film/2026-09-15-sabanci-vakfi-kisa-film-yarismasi.md) · `/sabanci-vakfi-kisa-film-yarismasi`
 - **Sait Faik Hikaye Armağanı (Darüşşafaka)** — [dosya](2024-01-05-darussafaka-sait-faik-hikaye-armagani.md) · `/darussafaka-sait-faik-hikaye-armagani`
 - **Sağlıklı Fikirler Kısa Film Yarışması**: [dosya](kisa-film/2023-07-09-saglikli-fikirler-kisa-film-yarismasi.md) · `/saglikli-fikirler-kisa-film-yarismasi`
+- **Servet Yayınevi Öykü Ödülü**: [dosya](hikaye/2026-09-23-servet-yayinevi-oyku-odulu.md) · `/servet-yayinevi-oyku-odulu`
 - **Seyhan Erözçelik İlk Kitap Şiir Ödülü** — [dosya](siir/2026-08-21-seyhan-erozcelik-siir-yarismasi.md) · `/seyhan-erozcelik-siir-yarismasi`
 - **Seyhan Livaneli Öykü Yarışması** — [dosya](2024-07-13-seyhan-livaneli-oyku-yarismasi.md) · `/seyhan-livaneli-oyku-yarismasi`
 - **Simit Çay Edebiyat Etkinlikleri Şiir Yarışması** — [dosya](siir/2026-06-23-simit-cay-etkinlikleri-siir-yarismasi.md) · `/simit-cay-etkinlikleri-siir-yarismasi`
