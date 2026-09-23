@@ -68,7 +68,8 @@ layout: compress
     }
     </script>
 
-  <script async id="mcjs">!function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/ac6dc70b4478502afbb68305c/95444d640d01fdb514b577b3e.js");</script>
+  <!-- Mailchimp popup: ilk yüklemeyi yavaşlatmasın diye sayfa tamamen yüklendikten 3 sn sonra yüklenir -->
+  <script id="mcjs">window.addEventListener("load", function () { setTimeout(function () { var m = document.createElement("script"); m.async = true; m.src = "https://chimpstatic.com/mcjs-connected/js/users/ac6dc70b4478502afbb68305c/95444d640d01fdb514b577b3e.js"; document.body.appendChild(m); }, 3000); });</script>
 
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W25RZB6" height="0" width="0"
       style="display:none;visibility:hidden"></iframe></noscript>
