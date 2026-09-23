@@ -62,6 +62,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Oğuz Atay Öykü Ödülü** — [dosya](2026-03-03-oguz-atay-oyku-odulu.md) · `/oguz-atay-oyku-odulu`
 - **Reşat Nuri Güntekin Öykü Yarışması** — [dosya](2022-04-06-resat-nuri-guntekin-oyku-yarismasi.md) · `/resat-nuri-guntekin-oyku-yarismasi`
 - **Rıfat Ilgaz Şiir Ödülü** — [dosya](siir/2024-02-03-rifat-ilgaz-siir-odulu.md) · `/rifat-ilgaz-siir-odulu`
+- **Ruhi Türkyılmaz Sanatevi Şiir Ödülü**: [dosya](siir/2026-09-23-ruhi-turkyilmaz-siir-odulu.md) · `/ruhi-turkyilmaz-siir-odulu`
 - **Sabahattin Ali Öykü Yazma Yarışması** — [dosya](2022-04-08-sabahattin-ali-oyku-yazma-yarismasi.md) · `/sabahattin-ali-oyku-yazma-yarismasi`
 - **Sabancı Vakfı Kısa Film Yarışması** (hidden): [dosya](kisa-film/2026-09-15-sabanci-vakfi-kisa-film-yarismasi.md) · `/sabanci-vakfi-kisa-film-yarismasi`
 - **Sait Faik Hikaye Armağanı (Darüşşafaka)** — [dosya](2024-01-05-darussafaka-sait-faik-hikaye-armagani.md) · `/darussafaka-sait-faik-hikaye-armagani`
