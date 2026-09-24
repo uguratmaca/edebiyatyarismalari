@@ -24,6 +24,10 @@ Site Türkçe'dir ve içeriği Türkiye'deki edebiyat yarışmalarına odaklanı
 - [Senaryo Yarışmaları](https://edebiyatyarismalari.com/senaryo-yarismalari/)
 - [Kompozisyon Yarışmaları](https://edebiyatyarismalari.com/kompozisyon-yarismalari/)
 
+## Yarışma düzenleyenler için
+
+- [Sponsorlu Duyuru ve Reklam](https://edebiyatyarismalari.com/sponsorluk/): Yarışma düzenleyen kurumlar için ana sayfa sabitleme ve bülten/sosyal medya duyuru paketleri, fiyatlar, site trafiği ve kitle bilgileri.
+
 ## Veri
 
 - [Sitemap](https://edebiyatyarismalari.com/sitemap.xml): Tüm yarışma duyurularının ve sayfaların tam listesi.
