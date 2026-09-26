@@ -39,6 +39,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Genç Kalemler Deneme, Hikaye ve Şiir Yarışması** — [dosya](2024-01-20-sancaktepe-deneme-hikaye-siir-yarismasi.md) · `/sancaktepe-deneme-hikaye-siir-yarismasi`
 - **Gençler Arası Öykü Yarışması** — [dosya](2024-03-02-genclik-oyku-yarismasi.md) · `/gencler-arasi-oyku-yarismasi`
 - **Gönen Belediyesi Ömer Seyfettin Hikaye Yarışması** — [dosya](2025-12-21-omer-seyfettin-hikaye-yarismasi.md) · `/omer-seyfettin-hikaye-yarismasi`
+- **Günhan Kuşkanat Roman Ödülü**: [dosya](roman/2026-09-26-gunhan-kuskanat-roman-odulu.md) · `/gunhan-kuskanat-roman-odulu`
 - **Haldun Taner Öykü Ödülü** — [dosya](hikaye/2026-08-21-haldun-taner-oyku-odulu.md) · `/haldun-taner-oyku-odulu`
 - **Hasan Özderin Makale Yarışması** — [dosya](2023-01-05-hasan-ozderin-makale-yarismasi.md) · `/hasan-ozderin-makale-yarismasi`
 - **Hasibe Ayten Şiir Ödülü** — [dosya](siir/2025-07-06-hasibe-ayten-siir-odulu.md) · `/hasibe-ayten-siir-odulu`
