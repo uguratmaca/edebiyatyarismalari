@@ -57,6 +57,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Mavera Edebiyat Ödülleri** — [dosya](2026-02-15-mavera-edebiyat-odulleri.md) · `/mavera-edebiyat-odulleri`
 - **Metin Altıok Şiir Ödülü** — [dosya](siir/2026-02-04-metin-altiok-siir-odulu.md) · `/metin-altiok-siir-odulu`
 - **Millet Derneği Düzyazı Yarışması** — [dosya](2025-01-05-millet-dernegi-duzyazi-yarismasi.md) · `/millet-dernegi-duzyazi-yarismasi`
+- **Muammer Hacıoğlu Şiir Ödülü**: [dosya](siir/2026-09-26-muammer-hacioglu-siir-odulu.md) · `/muammer-hacioglu-siir-odulu`
 - **Muzaffer İzgü Çocuk Romanı Yarışması** — [dosya](roman/2025-07-06-muzaffer-izgu-roman-yarismasi.md) · `/muzaffer-izgu-roman-yarismasi`
 - **Myrina Yayınları Öykü Yarışması** — [dosya](2026-02-04-myrina-yayinlari-oyku-yarismasi.md) · `/myrina-yayinlari-oyku-yarismasi`
 - **Oğuz Atay Öykü Ödülü** — [dosya](2026-03-03-oguz-atay-oyku-odulu.md) · `/oguz-atay-oyku-odulu`
