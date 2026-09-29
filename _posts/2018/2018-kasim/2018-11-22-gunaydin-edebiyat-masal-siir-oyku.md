@@ -17,4 +17,3 @@ Başvuru Koşuları
 Adaylar Yarışmaya Yalnızca Bir Dalda Katılabilir.
 Adaylar Yarışmaya Daha Önce Bir Yerde Yayınlanmamış Yapıtlarıyla Katılabilir.
 
-[Detaylar ve Başvuru için](https://www.guncel-egitim.org/gunaydin-edebiyat-oyku-siir-ve-masal-yarismasi/?utm_source=edebiyatyarismalari.com&utm_medium=affiliate&utm_campaign=cpc){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

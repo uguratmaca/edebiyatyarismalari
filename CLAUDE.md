@@ -12,6 +12,7 @@ işleme (resize/watermark) için `.claude/notes-post-schema.md`'ye bak.
 - **Permalink'te edisyon numarası yok** (`...-oyku-yarismasi`, `...-2-oyku-yarismasi` değil); yarışma ileride evergreen olacakmış gibi adlandırılır.
 - **Yarışma sonucu gelince yeni post açma**, mevcut permalink'i (evergreen ise o yılın arşiv kopyasını) güncelle.
 - **Yeni postta kilit nokta alanlarını doldur** (`workLimit`, `workCount`, `ageRange`, `typicalAgeRange`, `resultDate`, `keyPoints`, `submissionType`, `authorCondition`, `entryFee`): sadece şartnamede yazanlar, tam şartname metni kısaltılmadan korunur.
+- **Repo public.** Commit edilen dosyalara (CLAUDE.md, README, `.claude/notes-post-schema.md`, kod yorumları, postlar) iç strateji, rakip analizi, gelir/abone gibi dışarıya açık olmaması gereken bilgi yazılmaz. Bu tür notlar git'e girmeyen `.claude/notes-*.md` dosyalarına (bkz. `.gitignore`) yazılır. Commit öncesi yeni/değişen dosyalar bu gözle kontrol edilir.
 - **Metinlerde em dash (—) kullanma** (post, sayfa, front matter, kod yorumu). Nokta, virgül, parantez veya iki nokta kullan.
 
 ## Öncelik: SEO ve GEO

@@ -50,4 +50,4 @@ Katılım Koşulları:
 - Cüneyt Cebenoyan Özel Jürü Ödülü (Mansiyon Ödülü): 10.000 TL
 
 
-### [Başvuru Formu](https://kameraelindegelecegincebinde.com/?ref=guncel-egitim.org/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
+### [Başvuru Formu](https://kameraelindegelecegincebinde.com/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

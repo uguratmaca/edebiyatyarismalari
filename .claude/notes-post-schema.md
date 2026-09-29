@@ -139,9 +139,9 @@ karşılanır. Ayrı permalink link otoritesini böler ve arşivi gereksiz büy�
 - İstisna: sonuç haberi kendi başına büyük arama hacmi olan prestijli bir ödülse ayrı post
   ve duyurudan link düşünülebilir, ama varsayılan davranış yukarıdaki.
 
-## Başka kaynaklarda bulunan yarışmayı siteye eklerken
+## Sitede henüz olmayan bir yarışmayı eklerken
 
-Yarışma bir haber/toplayıcı sitede, sosyal medyada vb. bulunup bizde karşılığı yoksa:
+Duyurusu geç fark edilen veya sitede hiç karşılığı olmayan bir yarışma eklenirken:
 
 1. **Son başvuru tarihi geçmişse "yeni/aktif" gibi gösterme.** Gövde "başvurular sürüyor/açıldı"
    diliyle değil geçmiş bir kayıt gibi yazılır, `date:` alanı bugüne çekilip ana sayfada/RSS'te
@@ -149,8 +149,8 @@ Yarışma bir haber/toplayıcı sitede, sosyal medyada vb. bulunup bizde karşı
 2. **Tekrarlayan bir yarışmaysa evergreen yapıyı uygula** (`_posts/evergreen/<tür>/`,
    "her yıl tekrarlanan ..." tag'i, bilinen geçmiş edisyonlar için "Geçmiş Yıllar" bölümü).
 3. **Edebiyat dışı veya karma yarışmalarda `hidden` kuralını uygula** (yukarıya bak).
-4. **Kaynak olarak yarışmayı düzenleyen kurumun kendi sitesi/sosyal medyası gösterilir.**
-   Bilgiyi bulduğun haber veya toplayıcı site post gövdesinde ve `organizer` alanında anılmaz.
+4. **Kaynak olarak her zaman yarışmayı düzenleyen kurumun resmi sitesi veya sosyal medya
+   hesabı gösterilir**, `organizer` alanına da kurumun adı yazılır.
 5. Ekleme bitince yukarıdaki URL kurallarını ve `find_lost_urls.rb` kontrolünü uygula.
 
 ## `tags` için sabit kategori listeleri
