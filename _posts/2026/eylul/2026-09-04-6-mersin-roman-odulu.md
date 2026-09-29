@@ -14,6 +14,14 @@ requirements: "18 yaşını doldurmuş Türkiye Cumhuriyeti vatandaşları"
 permalink: "6-mersin-roman-odulu"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/6-mersin-roman-odulu.webp"
 excerpt: "Mersin Büyükşehir Belediyesi 6.Mersin Roman Ödülü'nü duyurdu"
+workCount: "Kişi başı 1 roman"
+ageRange: "18 yaşını doldurmuş T.C. vatandaşları"
+typicalAgeRange: "18-"
+resultDate: "27 Ocak 2027"
+keyPoints:
+  - "Başvuruda gerçek ad soyad yerine rumuz kullanılmalıdır."
+  - "Roman özgün olmalı ve daha önce yayımlanmamış olmalıdır."
+  - "Daha önce Mersin Roman Ödülü kazananlar tekrar başvuramaz."
 ---
 
 ## 6.Mersin Roman Ödülü

@@ -13,6 +13,15 @@ requirements: "18 yaşını doldurmuş, yurt içi ve yurt dışından, Türkçe 
 permalink: "aydinlik-nesiller-dernegi-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/aydinlik-nesiller-dernegi-oyku-odulu.webp"
 excerpt: "Aydınlık Nesiller Derneği'nin (AND) düzenlediği, 2027 teması <strong>\"Adalet\"</strong> olan Öykü Ödülü'ne başvurular başladı. Son başvuru tarihi 1 Ocak 2027."
+workLimit: "500-2.000 kelime (Word, Times New Roman, 12 punto, 1,5 satır aralığı)"
+workCount: "Kişi başı 1 öykü"
+ageRange: "18 yaşını doldurmuş olmak"
+typicalAgeRange: "18-"
+keyPoints:
+  - "Tek kelimelik rumuz öykü sayfasının sağ üst köşesine yazılmalı, gerçek ad metinde yer almamalıdır."
+  - "Özgeçmiş ve iletişim bilgileri ayrı bir Word dosyasında aynı e-postayla gönderilmelidir."
+  - "Yapay zekâ kullanımı kesinlikle kabul edilmez, özgünlük kontrolü yapılır."
+  - "Noktalama, imla ve dil kurallarına uymayan öyküler değerlendirme dışı kalır."
 ---
 
 ## Aydınlık Nesiller Derneği Öykü Ödülü

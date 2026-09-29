@@ -14,6 +14,14 @@ requirements: "Başvuru tarihinde 18 yaşından büyük olan, öykü alanında �
 permalink: "2-rota-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/2-rota-oyku-yarismasi.webp"
 excerpt: "Ankara Kent Rotary Kulübü tarafından düzenlenen <strong>2. Rotaöykü Yarışması</strong>'na başvurular başladı."
+workLimit: "En fazla 1.250 kelime (Times New Roman, 12 punto)"
+workCount: "Kişi başı 1 öykü"
+ageRange: "Başvuru tarihinde 18 yaşından büyük olmak"
+typicalAgeRange: "18-"
+resultDate: "Mart 2027 (Ankara'daki gala gecesinde)"
+keyPoints:
+  - "Öykü rumuzla imzalanmalı, kimlik bilgileri ayrı bir özgeçmiş dosyasıyla Google Form'a yüklenmelidir."
+  - "Öykü daha önce başka bir yarışmada derece almamış ve yapay zekâ kullanılmadan yazılmış olmalıdır."
 ---
 
 ## 2. Rotaöykü Yarışması

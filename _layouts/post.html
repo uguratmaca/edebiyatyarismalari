@@ -53,6 +53,22 @@ layout: default
       <p>🏢 Düzenleyen: <b>{{page.organizer}}</b></p>
       {% endif %}
 
+      {% if page.workLimit %}
+      <p>📄 Uzunluk sınırı: <b>{{page.workLimit}}</b></p>
+      {% endif %}
+
+      {% if page.workCount %}
+      <p>🔢 Gönderilebilecek eser sayısı: <b>{{page.workCount}}</b></p>
+      {% endif %}
+
+      {% if page.ageRange %}
+      <p>🎂 Yaş şartı: <b>{{page.ageRange}}</b></p>
+      {% endif %}
+
+      {% if page.resultDate %}
+      <p>📢 Sonuçların açıklanma tarihi: <b>{{page.resultDate}}</b></p>
+      {% endif %}
+
       {% if page.dateHuman %}
       {% if page.lastDate > nowDateInt %}
       <p class="text-success">Yarışma başvurusu devam ediyor...</p>
@@ -68,6 +84,17 @@ layout: default
       {% endif %}
     </section>
   </section>
+
+  {% if page.keyPoints %}
+  <section class="alert alert-warning">
+    <h2 class="h5">⚠️ Başvurmadan önce dikkat edilecekler</h2>
+    <ul class="mb-0">
+      {% for point in page.keyPoints %}
+      <li>{{ point }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
 
   <br>
   <section class="post">
@@ -149,7 +176,8 @@ layout: default
       "@type": "VirtualLocation",
       "url": "{{site.url}}{{page.url}}"
     },
-    "image": "{{page.image}}",
+    "image": "{{page.image}}",{% if page.typicalAgeRange %}
+    "typicalAgeRange": {{ page.typicalAgeRange | jsonify }},{% endif %}
     "organizer": {
       "@type": "Organization",
       "name": {{ page.organizer | default: "Edebiyat Yarışmaları" | jsonify }}

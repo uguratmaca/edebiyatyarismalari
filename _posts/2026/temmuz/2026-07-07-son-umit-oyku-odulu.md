@@ -13,6 +13,15 @@ requirements: "18 yaş ve üzeri yazmaya ilgi duyan herkes katılabilir"
 permalink: "son-umit-oyku-odulu-2027"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/son-umit-oyku-odulu.jpg"
 excerpt: "Son Ümit'in düzenlediği yarışmaya 18 yaş ve üzeri herkes katılabilir. Son başvuru: 11 Ekim 2026."
+workLimit: "En fazla 5 sayfa (Word, Times New Roman, 12 punto, 1,5 satır aralığı)"
+workCount: "Kişi başı 1 öykü"
+ageRange: "18 yaş ve üzeri"
+typicalAgeRange: "18-"
+resultDate: "Ocak 2027"
+keyPoints:
+  - "E-postanın konusu \"Ödül İçin; Öykü Adı - Yazar Adı\" biçiminde olmalıdır."
+  - "Öz geçmiş ve iletişim bilgileri öyküden ayrı bir Word belgesinde gönderilmelidir."
+  - "Öykü daha önce yayımlanmamış, dereceye girmemiş ve yapay zekâ kullanılmadan yazılmış olmalıdır."
 ---
 
 ## Son Ümit Öykü Ödülü 2027

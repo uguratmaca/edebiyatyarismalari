@@ -15,6 +15,11 @@ requirements: "Ödül herkese açıktır. 2026 yılında Türkiye'de yayımlanm�
 permalink: "gunhan-kuskanat-roman-odulu"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/gunhan-kuskanat-roman-odulu.webp"
 excerpt: "Bu yıl üçüncüsü düzenlenen <strong>Günhan Kuşkanat Roman Ödülü 2027</strong> başvuruları başladı. Ödül 40.000 TL ve plaket, son başvuru: 18 Aralık 2026."
+resultDate: "Nisan 2027"
+keyPoints:
+  - "Yalnızca 2026 yılında Türkiye'de yayımlanmış ve daha önce ödül almamış romanlar katılabilir."
+  - "Romandan 5 nüsha, yazarın kısa özgeçmişiyle birlikte posta veya kargoyla gönderilmelidir."
+  - "Gönderilen kitaplar iade edilmez."
 ---
 
 ## Günhan Kuşkanat Roman Ödülü

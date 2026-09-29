@@ -13,6 +13,11 @@ requirements: "Türkçe yayımlanmış, tezden üretilmemiş, metin yayını nit
 permalink: "soylem-filoloji-odulu"
 image: "https://edebiyatyarismalari.com/images/2026/agustos/soylem-filoloji-odulu.webp"
 excerpt: "Söylem Filoloji Dergisi <strong>Söylem Filoloji Ödülü</strong>'nü düzenliyor."
+resultDate: "10 Ocak 2027"
+keyPoints:
+  - "Kitabın ilk basımı Aralık 2025 ile Kasım 2026 arasında yapılmış olmalıdır."
+  - "Kitaptan 4 adet posta veya kargoyla gönderilmelidir."
+  - "Tezden üretilmiş kitaplar, metin yayınları, çeviriler ve ders kitapları kabul edilmez."
 ---
 
 ## Söylem Filoloji Ödülü

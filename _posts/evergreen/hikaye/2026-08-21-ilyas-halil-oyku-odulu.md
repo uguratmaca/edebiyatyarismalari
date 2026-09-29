@@ -13,6 +13,14 @@ requirements: "18 yaşını tamamlamış, daha önce öykü kitabı yayımlanmam
 permalink: "ilyas-halil-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2026/agustos/ilyas-halil-oyku-odulu.webp"
 excerpt: "Mersin Sanat Edebiyat Derneği <strong>İlyas Halil Öykü Ödülü</strong>'nü düzenliyor."
+workLimit: "En az 10 öyküden oluşan 60-70 sayfalık dosya (A4, Times New Roman, 12 punto, 1,5 satır aralığı)"
+workCount: "1 öykü dosyası"
+ageRange: "18 yaşını tamamlamış olmak"
+typicalAgeRange: "18-"
+keyPoints:
+  - "Daha önce öykü kitabı yayımlamış yazarlar başvuramaz."
+  - "Kapakta yalnızca kitap adı, her sayfanın sol üst köşesinde rumuz bulunmalı, yazar adı yer almamalıdır."
+  - "Öyküler yayımlanmamış, ödül almamış ve yapay zekâ kullanılmadan yazılmış olmalıdır."
 ---
 
 ## 5. İlyas Halil Öykü Ödülü

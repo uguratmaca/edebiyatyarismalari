@@ -16,6 +16,14 @@ requirements: "2025-2026-2027 eğitim ve öğretim yılında 5, 6, 7 ve 8. sın�
 permalink: "dogan-cocuk-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/nisan/dogan-cocuk-oyku-yarismasi.webp"
 excerpt: "Doğan Çocuk Yayınları'nın 5, 6, 7 ve 8. sınıf öğrencilerine yönelik düzenlediği yarışmada her sınıf kategorisinde 30.000 TL, 20.000 TL ve 10.000 TL ödül var. Son başvuru: 30 Ekim 2026."
+workLimit: "En az 2, en fazla 4 sayfa (A4, Times New Roman, 12 punto, 1,5 satır aralığı)"
+workCount: "Öğrenci başı 1 öykü"
+ageRange: "5, 6, 7 ve 8. sınıf öğrencileri"
+resultDate: "30 Ocak 2027"
+keyPoints:
+  - "Öykü .doc uzantılı Word dosyası olarak yüklenmelidir, el yazısıyla gönderilen öyküler değerlendirilmez."
+  - "Başvuruda veli ve öğretmen onay belgeleri eksiksiz gönderilmelidir."
+  - "Öykü tek bir kişi tarafından yazılmış olmalı ve daha önce başka bir yarışmada ödül almamış olmalıdır."
 ---
 
 ## Doğan Çocuk Öykü Yarışması

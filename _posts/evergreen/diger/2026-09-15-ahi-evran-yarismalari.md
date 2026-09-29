@@ -13,6 +13,14 @@ requirements: "Türkiye'nin yanı sıra dünyanın her ülkesinde, her kategori 
 permalink: "ahi-evran-yarismalari"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/ahi-evran-yarismalari.webp"
 excerpt: "Türk Dünyası Parlamenterler Vakfı'nın (TDPV) düzenlediği <strong>Uluslararası Ahilik ve Ahi Evran Yarışması</strong>'nda Masal/Öykü ve Deneme dallarında öğrencilerden başvuru kabul ediliyor. Son başvuru: 15 Haziran 2027."
+workLimit: "Masal/öykü 2-6, deneme 2-10 A4 sayfa (Times New Roman, 12 punto, 1,5 satır aralığı)"
+workCount: "Her kategoride kişi başı 1 eser"
+ageRange: "Masal/öykü dalında ortaokul, deneme dalında lise öğrencileri"
+resultDate: "Eylül 2027 (planlanan)"
+keyPoints:
+  - "Dosya adında, eser adında ve içerikte yarışmacının kimliğini belli eden hiçbir ibare olmamalıdır."
+  - "Farklı kategorilere başvurmak için her kategoride ayrı üyelik açılmalıdır."
+  - "Yapay zekâ kullanımı kabul edilmez, eser yardım alınmadan hazırlanmalıdır."
 ---
 
 ## Uluslararası Ahilik ve Ahi Evran Yarışması

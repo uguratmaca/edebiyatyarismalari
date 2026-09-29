@@ -13,6 +13,12 @@ requirements: "Yaş sınırı olmaksızın Marvel evrenine ilgi duyan herkes kat
 permalink: "tuvall-topluluk-marvel-hikaye-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/tuvall-topluluk-marvel-hikaye-resim-yarismasi.webp"
 excerpt: "Tuv'all Topluluk tarafından düzenlenen <strong>Marvel Temalı Hikaye ve Resim Yarışması</strong>'na başvurular başladı."
+workLimit: "Yazı dalında en az 1.100 kelime (Times New Roman, 12 punto)"
+ageRange: "Yaş sınırı yok"
+keyPoints:
+  - "Eserler PDF olarak hazırlanmalı, son sayfada ad soyad, telefon, e-posta ve doğum tarihi yer almalıdır."
+  - "Başvuru için önce Instagram'da @tuvalltopluluk hesabına DM atılmalı, ardından eser e-postayla gönderilmelidir."
+  - "Resim dalında eser 4 parçadan oluşur: karakter resmi, simge veya özel eşya, isim tasarımı ve özellik tablosu."
 ---
 
 ## Tuv'all Topluluk Marvel Temalı Hikaye ve Resim Yarışması

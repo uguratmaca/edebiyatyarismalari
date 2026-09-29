@@ -14,6 +14,12 @@ requirements: "Kitap dalında yaş sınırı yoktur, dosya dalına 35 yaş ve al
 permalink: "muammer-hacioglu-siir-odulu"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/muammer-hacioglu-siir-odulu.webp"
 excerpt: "Artshop Yayıncılık ve Hacıoğlu Ailesi tarafından 8. kez düzenlenen <strong>2026 Muammer Hacıoğlu Şiir Ödülü</strong> için başvurular başladı. Son başvuru: 1 Mart 2027."
+ageRange: "Kitap dalında yaş sınırı yok, dosya dalında 35 yaş ve altı"
+resultDate: "Nisan 2027"
+keyPoints:
+  - "Kitap 2026 yılında yayımlanmış olmalı, kitap ya da dosya daha önce ödül almamış olmalıdır."
+  - "Kitap veya dosyadan 5 adet, ad, açık adres ve kısa özgeçmişle birlikte gönderilmelidir."
+  - "Zarfın üzerine \"Muammer Hacıoğlu 2026 Şiir Ödülü\" yazılmalıdır."
 ---
 
 ## Muammer Hacıoğlu Şiir Ödülü

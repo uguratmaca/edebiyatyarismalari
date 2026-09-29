@@ -14,6 +14,14 @@ requirements: "Yarışmaya 18 yaş üzeri kişiler sadece bir öykü ile katıla
 permalink: "cig-dergisi-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/cig-dergisi-3-oyku-yarismasi.jpeg"
 excerpt: "Çığ Dergisi tarafından her yıl düzenlenen Öykü Yarışması'na başvurular açıldı."
+workLimit: "En fazla 1.500 sözcük (Word, Arial, 12 punto, 1,5 satır aralığı)"
+workCount: "Kişi başı 1 öykü"
+ageRange: "18 yaş üzeri"
+typicalAgeRange: "18-"
+keyPoints:
+  - "E-postaya iki Word dosyası eklenmelidir: biri kimlik, iletişim ve özgeçmiş bilgilerini, diğeri sağ üst köşesinde yalnızca rumuz bulunan öyküyü içerir."
+  - "Her iki dosya da rumuz adıyla kaydedilmelidir."
+  - "Öykü daha önce dijital veya basılı olarak yayımlanmamış olmalıdır."
 ---
 
 ## Çığ Dergisi Öykü Yarışması

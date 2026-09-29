@@ -13,6 +13,10 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "emine-isinsu-roman-odulu"
 image: "https://edebiyatyarismalari.com/images/2024/haziran/emine-isinsu-roman-odulu-2025.jpg"
 excerpt: "Emine Işınsu Roman Ödülü'ne daha önce yayımlanmamış eserlerle isteyen herkes katılabilir."
+resultDate: "17 Mayıs 2027"
+keyPoints:
+  - "Yalnızca daha önce yayımlanmamış romanlarla başvurulabilir."
+  - "Roman Word formatında hazırlanıp e-postayla gönderilmelidir."
 ---
 
 ## Emine Işınsu Roman Ödülü

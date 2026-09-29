@@ -13,6 +13,12 @@ requirements: "18 yaşından büyük, daha önce en az bir yapımda senarist, y�
 permalink: "siradaki-hikaye-netflix-proje-sunum-gunu"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/siradaki-hikaye-netflix-proje-sunum-gunu.webp"
 excerpt: "Netflix, Türkiye'deki senarist, yönetmen ve yapımcıları projelerini içerik ekiplerine sunmaya davet ediyor. Son başvuru: 6 Ekim 2026."
+ageRange: "18 yaşından büyük"
+typicalAgeRange: "18-"
+keyPoints:
+  - "Başvuranın daha önce en az bir yapımda senarist, yönetmen veya yapımcı olarak görev almış olması gerekir."
+  - "Daha önce bir Netflix Türkiye yapımında bu görevlerde bulunanlar başvuramaz."
+  - "Proje kurmaca ve Türkçe olmalı, sunum materyalleri Türkçe ve İngilizce hazırlanmalıdır."
 ---
 
 ## Sıradaki Hikaye: Netflix Proje Sunum Günü

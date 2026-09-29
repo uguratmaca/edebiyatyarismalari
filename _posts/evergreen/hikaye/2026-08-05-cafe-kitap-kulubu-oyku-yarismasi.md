@@ -14,6 +14,15 @@ requirements: "Yarışmaya 18 yaş ve üstü herkes katılabilir."
 permalink: "cafe-kitap-kulubu-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/haziran/cafe-kitap-kulubu-oyku-yarismasi-2023.jpg"
 excerpt: "Cafe Kitap Kulübü <strong>Öykü Yarışması</strong> düzenliyor."
+workLimit: "En az 2, en fazla 3 A4 sayfa (Times New Roman, 12 punto, 1,5 satır aralığı)"
+workCount: "Kişi başı 1 öykü"
+ageRange: "18 yaş ve üstü"
+typicalAgeRange: "18-"
+resultDate: "15 Kasım 2026"
+keyPoints:
+  - "Öykü başlığının sağ tarafına mutlaka rumuz yazılmalıdır."
+  - "E-postaya iki Word dosyası eklenmelidir: öykü ve kişisel bilgilerin (rumuz, ad soyad, özgeçmiş, adres, telefon, e-posta) yer aldığı dosya."
+  - "Daha önce ödül almış veya bir kitapta yayımlanmış öyküler kazansa bile iptal edilir."
 ---
 
 ## Cafe Kitap Kulübü Öykü Yarışması

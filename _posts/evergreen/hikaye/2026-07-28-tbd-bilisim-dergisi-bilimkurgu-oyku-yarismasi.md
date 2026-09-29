@@ -15,6 +15,13 @@ requirements: "Daha önce herhangi bir yarışmada ödül almamış ve bu yarı�
 permalink: "tbd-bilisim-dergisi-bilimkurgu-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/tbd-bilisim-dergisi-bilimkurgu-oyku-yarismasi.webp"
 excerpt: "Türkiye Bilişim Derneği'nin (TBD) her yıl düzenlediği <strong>Bilimkurgu Öykü Yarışması</strong>'na başvurular başladı."
+workLimit: "En fazla 2.000 sözcük"
+workCount: "Kişi başı 1 öykü"
+resultDate: "31 Aralık 2026"
+keyPoints:
+  - "Öyküler rumuzla değil, gerçek ad ve soyadla gönderilmelidir."
+  - "Başvuruda öykü ve özgeçmiş dosyasının yanı sıra Onaylıyorum Formu da doldurulmalıdır."
+  - "Öykü daha önce yayımlanmamış ve hiçbir yarışmada ödül almamış olmalıdır."
 ---
 
 ## TBD Bilişim Dergisi Bilimkurgu Öykü Yarışması

@@ -14,6 +14,13 @@ requirements: "Sadece Türkiye Cumhuriyeti vatandaşı öğrenciler katılabilir
 permalink: "luma-kisa-film-festivali-senaryo-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/luma-kisa-film-yarismasi.webp"
 excerpt: "Yeditepe Üniversitesi Sinema Kulübü ve Ay Yapım'ın düzenlediği Luma Kısa Film Festivali kapsamında <strong>Kısa Film Senaryo</strong> ve <strong>Uzun Metraj Senaryo</strong> dallarında öğrencilerden başvuru kabul ediliyor."
+workLimit: "Kısa film senaryosu en fazla 20 sayfa"
+workCount: "Uzun metraj dalında 1 senaryo"
+resultDate: "22 Ekim 2026 (kapanış töreni)"
+keyPoints:
+  - "Kısa film senaryosu dalının başvuruları 27 Eylül 2026'da kapandı, uzun metraj dalı 4 Ekim 2026'ya kadar açık."
+  - "Başvuruda geçerli öğrenci belgesi gönderilmelidir."
+  - "Senaryo Fade In, Final Draft veya Celtx gibi profesyonel bir senaryo programında yazılmalıdır."
 ---
 
 ## Luma Kısa Film Festivali Senaryo Yarışması

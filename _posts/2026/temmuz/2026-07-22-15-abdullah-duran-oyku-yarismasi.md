@@ -14,6 +14,9 @@ requirements: "Öykü alanında üretim yapan herkes katılabilir."
 permalink: "15-abdullah-duran-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/15-abdullah-duran-oyku-yarismasi.webp"
 excerpt: "Eğitim Sen Amed Şubeleri tarafından bu yıl 15.'si düzenlenen <strong>Abdullah Duran Öykü Yarışması</strong>'na başvurular başladı."
+resultDate: "22 Mart 2027"
+keyPoints:
+  - "Öyküler Türkçe ya da Kürtçenin Kurmancî veya Kırdkî (Zazakî) lehçelerinde yazılabilir."
 ---
 
 ## 15. Abdullah Duran Öykü Yarışması

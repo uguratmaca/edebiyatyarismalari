@@ -14,6 +14,10 @@ requirements: "İsteyen herkes, özgün ve kendisine ait bir şiirle katılabili
 permalink: "ayna-yilin-sairi-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/ayna-yilin-sairi-siir-yarismasi.webp"
 excerpt: "Ayna Yazarlık ve Editörlük Danışmanlığı, aşk temalı <strong>Yılın Şairi Şiir Yarışması</strong>'nı düzenliyor."
+workCount: "Kişi başı 1 şiir"
+keyPoints:
+  - "Yapay zekâ ile yazılmış şiirler kabul edilmez."
+  - "Katılan tüm şiirler bir derlemede yayımlanacaktır."
 ---
 
 ## Ayna Yılın Şairi Şiir Yarışması

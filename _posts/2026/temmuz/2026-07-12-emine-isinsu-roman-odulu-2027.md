@@ -15,6 +15,10 @@ permalink: "emine-isinsu-roman-odulu-2027"
 archived_to: "/emine-isinsu-roman-odulu"
 image: "https://edebiyatyarismalari.com/images/2024/haziran/emine-isinsu-roman-odulu-2025.jpg"
 excerpt: "Emine Işınsu Roman Ödülü'ne daha önce yayımlanmamış eserlerle isteyen herkes katılabilir. Son başvuru: 1 Şubat 2027."
+resultDate: "17 Mayıs 2027"
+keyPoints:
+  - "Yalnızca daha önce yayımlanmamış romanlarla başvurulabilir."
+  - "Roman Word formatında hazırlanıp e-postayla gönderilmelidir."
 ---
 
 ## 2027 Emine Işınsu Roman Ödülü

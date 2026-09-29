@@ -48,6 +48,31 @@ film vb.) ayrı, `hidden: true` bir post/evergreen sayfa olsun — bkz.
 `akbank-kisa-film-festivali-senaryo-yarismasi` (görünür) ve
 `akbank-kisa-film-festivali` (hidden, artık güncellenmiyor) örneği).
 
+### Kilit nokta alanları (isteğe bağlı, yeni postlarda doldur)
+
+Şartnamede açıkça yazıyorsa doldurulur, yazmıyorsa alan hiç eklenmez (uydurma).
+Post sayfasının üstündeki ikonlu özet kutusunda görünürler; gövdedeki tam
+şartname metni **kısaltılmaz**, bu alanlar onun yerine değil üstüne gelir
+(ayrıntılı sorgular için SEO/GEO değeri tam metinde).
+
+```yaml
+workLimit: "En fazla 10 sayfa (A4, 12 punto)"  # 📄 uzunluk/sayfa/kelime/dize sınırı
+workCount: "Kişi başı en fazla 3 öykü"         # 🔢 gönderilebilecek eser sayısı
+ageRange: "18 yaş ve üzeri"                    # 🎂 yaş şartı, insan-okur metin
+typicalAgeRange: "18-"                         # sadece JSON-LD (Event), schema.org formatı: "18-", "14-18"
+resultDate: "Mart 2027"                        # 📢 sonuçların açıklanacağı tarih
+keyPoints:                                     # ⚠️ "Başvurmadan önce dikkat edilecekler" kutusu
+  - "Eserler daha önce yayımlanmamış olmalı."
+  - "Dosya rumuzla gönderilir, kimlik bilgileri ayrı zarfa konur."
+  - "Eserler 5 nüsha basılı olarak kargoyla gönderilir."
+```
+
+`keyPoints` 2-5 maddeyi geçmesin; sadece katılımcının en sık hata yaptığı,
+başvuruyu geçersiz kılan şartlar (yayımlanmamış olma, rumuz, nüsha sayısı,
+dosya formatı, e-posta konu satırı vb.) yazılır. Yukarıdaki alanlarda zaten
+görünen bilgi (tarih, ödül, yaş) tekrar edilmez. Her madde tek başına
+anlaşılır, tam bir cümle olmalı (AI motorları maddeyi tek başına alıntılayabilir).
+
 `totalPrize` yoksa post, `money.html` layout'unun kullandığı "para ödüllü
 yarışmalar" listesine girmez — parasal ödül yoksa alanı boş bırak, uydurma.
 

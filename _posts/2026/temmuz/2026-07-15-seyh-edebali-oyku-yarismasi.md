@@ -14,6 +14,13 @@ permalink: "seyh-edebali-oyku-yarismasi"
 redirect_from: ["/seyh-edebali-oyku-"]
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/seyh-edebali-oyku-yarismasi.webp"
 excerpt: "Bilecik Kültür ve Sanat Derneği, Şeyh Edebali'nin hayatını ve öğretilerini konu alan öykü yarışması düzenliyor. Son başvuru: 1 Ekim 2026."
+workLimit: "En az 1.500, en fazla 5.000 kelime (A4, Times New Roman, 12 punto, 1,5 satır aralığı)"
+workCount: "Kişi başı 1 öykü"
+resultDate: "5 Kasım 2026"
+keyPoints:
+  - "Öykü ve özgeçmiş iki ayrı Word dosyası olarak (ör. ABC123-öykü.docx ve ABC123-özgeçmiş.docx) gönderilmelidir."
+  - "Öykü dosyasında yazarın kimliğini belli eden hiçbir bilgi yer almamalıdır."
+  - "Yapay zekâ ile üretilmiş veya ağırlıklı olarak yapay zekâ desteğiyle yazılmış metinler değerlendirilmez."
 ---
 
 ## Şeyh Edebali Öykü Yarışması

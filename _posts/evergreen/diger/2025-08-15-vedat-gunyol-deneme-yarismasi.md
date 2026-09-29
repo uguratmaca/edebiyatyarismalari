@@ -15,6 +15,12 @@ totalPrize: "90 Bin TL'dir"
 permalink: "vedat-gunyol-deneme-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/vedat-gunyol-deneme-odulu.jpg"
 excerpt: "Kartal Belediyesi'nin her yıl düzenlediği <strong>Vedat Günyol Deneme Ödülü</strong> tüm yazarları bekliyor."
+workLimit: "Yayımlanmamış çalışmalarda en az 30 sayfa (12 punto Arial veya Times New Roman, 1,5 satır aralığı)"
+keyPoints:
+  - "Kitaptan veya spiral ciltli dosyadan ve imzalı başvuru dilekçesinden 9'ar adet gönderilmelidir."
+  - "Yalnızca son 2 yıl içinde yayımlanan kitaplar aday olabilir."
+  - "Ödüllerden biri 35 yaş altı genç deneme yazarlarından birine verilir."
+  - "Postadaki gecikmeler kabul edilmez, gönderilen kitap ve dosyalar iade edilmez."
 ---
 
 ## Vedat Günyol Deneme Ödülü

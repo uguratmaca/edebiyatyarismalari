@@ -13,6 +13,11 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "ilk-polisiye-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/ilk-polisiye-roman-yarismasi.webp"
 excerpt: "Mahal Edebiyat ve SUÇÜSTÜ iş birliğiyle 3. İlk Polisiye Roman Yarışması başvuruları başladı"
+workLimit: "En fazla 30.000 kelime"
+resultDate: "2027 içinde"
+keyPoints:
+  - "Daha önce herhangi bir türde kitabı yayımlanmış yazarlar başvuramaz (kolektif öykü derlemeleri hariç)."
+  - "Roman, polisiye türünün gereği olan suç ve muamma unsurlarını içermelidir."
 ---
 
 ## İlk Polisiye Roman Yarışması

@@ -13,6 +13,14 @@ requirements: "18 yaş üzeri herkes katılabilir"
 permalink: "tahta-gemi-uluslararasi-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/tahta-gemi-uluslararasi-oyku-yarismasi.webp"
 excerpt: "Tahta Gemi Kültür, Edebiyat ve Düşünce Dergisi, <strong>Uluslararası 1. Öykü Yarışması</strong>'nı düzenliyor."
+workLimit: "En fazla 3 sayfa (Word, Times New Roman, 12 punto, 1,5 satır aralığı)"
+ageRange: "18 yaş üzeri"
+typicalAgeRange: "18-"
+resultDate: "15 Ekim 2026"
+keyPoints:
+  - "Eser, anı ile öykünün birleştiği anı-öykü türünde olmalıdır."
+  - "Rumuzlu eser dosyası ve kişisel bilgileri içeren bilgi dosyası iki ayrı Word dosyası olarak gönderilmelidir."
+  - "Yapay zekâ katkısıyla üretilen eserler diskalifiye edilir."
 ---
 
 ## Tahta Gemi Uluslararası 1. Öykü Yarışması

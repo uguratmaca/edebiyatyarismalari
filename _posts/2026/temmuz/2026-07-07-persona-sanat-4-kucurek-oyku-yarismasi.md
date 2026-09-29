@@ -13,6 +13,10 @@ requirements: "Yurtiçi ve yurtdışından herkes katılabilir"
 permalink: "persona-sanat-4-kucurek-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/persona-sanat-4-kucurek-oyku-yarismasi.webp"
 excerpt: "Persona Sanat Topluluğu'nun düzenlediği yarışmaya yurtiçi ve yurtdışından herkes katılabilir. Son başvuru: 1 Ekim 2026."
+workLimit: "En fazla 1 A4 sayfa (Times New Roman, 12 punto)"
+resultDate: "Ekim 2026"
+keyPoints:
+  - "Yarışmanın türü küçürek öyküdür, şiir veya salt ağıt biçimindeki metinler değerlendirilmez."
 ---
 
 ## Persona Sanat 4. Küçürek Öykü Yarışması
@@ -20,7 +24,7 @@ excerpt: "Persona Sanat Topluluğu'nun düzenlediği yarışmaya yurtiçi ve yur
 Persona Sanat Topluluğu bu sene küçürek öykü yarışmalarının dördüncüsünü gerçekleştiriyor. Yarışmanın konusu "ağıt"tır; yarışmacılar insanlığın kadim feryat biçimi olan ağıdı diledikleri bağlamda kullanabilir.
 
 - Öyküler Times New Roman fontuyla, 12 punto ile yazılmalı ve bir (1) A4 sayfasını geçmemelidir.
-- Yarışmanın türü küçürek öyküdür; şiir veya saat ağıt eserler değerlendirmeye alınmayacaktır.
+- Yarışmanın türü küçürek öyküdür; şiir veya salt ağıt eserler değerlendirmeye alınmayacaktır.
 - Yarışmaya yurtiçinden ve yurtdışından herkes katılabilir.
 - Öyküler **agittdestann@gmail.com** e-posta adresine gönderilmelidir.
 - Son başvuru tarihi 1 Ekim 2026, saat 23.59'dur. Bu tarihten sonra gelen öyküler değerlendirmeye alınmayacaktır.

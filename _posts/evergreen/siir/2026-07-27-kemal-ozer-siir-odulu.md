@@ -14,6 +14,12 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "kemal-ozer-siir-odulu"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/kemal-ozer-siir-odulu.webp"
 excerpt: "Kemal Özer ve Simge Özer Pınarbaşı anısına ailesi ve Artshop Yayıncılık tarafından düzenlenen Kemal Özer Şiir Ödülü'ne son başvuru: 31 Ocak 2027."
+workLimit: "Dosya dalında en az 30 şiir"
+resultDate: "Şubat 2027"
+keyPoints:
+  - "Kitap dalına yalnızca 2026 yılında yayımlanmış kitaplar katılabilir, seçme şiirler kabul edilmez."
+  - "Kitap veya dosyadan 5 adet, özgeçmiş ve iletişim bilgilerini içeren dilekçeyle posta veya kargoyla gönderilmelidir."
+  - "Dosya dalında rumuz değil gerçek ad ve soyad kullanılmalıdır."
 ---
 
 ## Kemal Özer Şiir Ödülü

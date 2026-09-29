@@ -14,6 +14,15 @@ requirements: "18 yaş üzeri herkes katılabilir."
 permalink: "seyhan-livaneli-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/seyhan-livaneli-oyku-yarismasi-2026.jpg"
 excerpt: "Edisyon Kitap'ın öykü türünde kitabı yayımlanmamış 18 yaş üstü yazar ve yazar adaylarına yönelik Seyhan Livaneli Öykü Yarışması'na başvurular başladı."
+workLimit: "Her öykü en fazla 1.500 sözcük"
+workCount: "Tam olarak 2 öykü (tek Word dosyasında)"
+ageRange: "18 yaş üzeri"
+typicalAgeRange: "18-"
+resultDate: "22 Ocak 2027"
+keyPoints:
+  - "Öykü türünde kitabı yayımlanmış yazarlar başvuramaz (diğer türlerde kitabı olmak engel değildir)."
+  - "E-postada iki Word dosyası olmalıdır: kimlik ve iletişim bilgileri bir dosyada, yazar adı içermeyen iki öykü diğerinde; dosyalar \"rumuz-1\" ve \"rumuz-2\" adıyla kaydedilir."
+  - "Önceki yıllarda ödül alan veya finale kalan yazarlar başvuramaz."
 ---
 
 ## Seyhan Livaneli Öykü Yarışması

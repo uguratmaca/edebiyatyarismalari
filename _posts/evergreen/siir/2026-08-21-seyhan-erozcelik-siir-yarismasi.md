@@ -13,6 +13,11 @@ requirements: "Şairler ilk kitabı ya da ilk kitap niteliğindeki şiir dosyas�
 permalink: "seyhan-erozcelik-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/agustos/seyhan-erozcelik-siir-yarismasi.webp"
 excerpt: "ŞiirAtı'nın düzenlediği <strong>Seyhan Erözçelik İlk Kitap Şiir Ödülü</strong>'ne ilk kitap niteliğindeki şiir kitabı/dosyalarıyla katılabilirsiniz."
+resultDate: "Ocak 2027"
+keyPoints:
+  - "Yalnızca ilk kitap veya ilk kitap niteliğindeki dosyalar kabul edilir, şiir defteri niteliğindeki eserler değerlendirilmez."
+  - "Kitaptan 6 adet veya dosyadan 6 nüsha, özgeçmiş ve iletişim bilgileriyle posta veya kargoyla gönderilmelidir."
+  - "Gönderilen kitap ve dosyalar iade edilmez."
 ---
 
 ## Seyhan Erözçelik İlk Kitap Şiir Ödülü

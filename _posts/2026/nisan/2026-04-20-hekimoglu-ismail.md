@@ -15,6 +15,14 @@ requirements: "18 yaş üzeri yazar ve yazar adaylarına açıktır"
 permalink: "hekimoglu-ismail-hikaye-yarismasi-2026"
 image: "https://edebiyatyarismalari.com/images/2026/nisan/hekimoglu-ismail-hikaye-yarismasi-2026.jpg"
 excerpt: "Timaş Yayın Grubu'nun 18 yaş üzeri yazarlara yönelik düzenlediği yarışmada toplam ödül 157 bin 500 TL. Son başvuru: 30 Ekim 2026."
+workLimit: "En az 3.000, en fazla 4.000 kelime (Word, Times New Roman, 12 punto)"
+workCount: "Kişi başı en fazla 3 eser"
+ageRange: "18 yaş üzeri"
+typicalAgeRange: "18-"
+keyPoints:
+  - "Eserler 7-9 yaş grubuna yönelik çocuk hikâyesi olmalıdır."
+  - "Eserler daha önce hiçbir yerde yayımlanmamış olmalıdır."
+  - "Başvuru formu doldurulurken kopyala-yapıştır yapılmamalıdır, aksi halde başvuru gerçekleşmez."
 ---
 
 ## 4. Hekimoğlu İsmail Hikaye Yarışması 2026

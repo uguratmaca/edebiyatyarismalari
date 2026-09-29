@@ -15,6 +15,14 @@ totalPrize: "90 Bin TL'dir."
 permalink: "tudem-edebiyat-odulleri"
 image: "https://edebiyatyarismalari.com/images/2026/subat/24-tudem-edebiyat-odulleri.jpg"
 excerpt: "Tudem Yayın Grubu'nun 2003'ten bu yana düzenlediği Tudem Edebiyat Ödülleri'nin güncel (24.) dönem konusu: Romanla Tanışıyorum (Kısa Çocuk Romanı)."
+workLimit: "4.000-8.000 sözcük (7-9 yaş grubuna yönelik bölümlü kısa roman)"
+ageRange: "18 yaş üzeri"
+typicalAgeRange: "18-"
+keyPoints:
+  - "Dosya spiral ciltli 6 kopya ve bir USB bellekle iadeli taahhütlü posta veya kargoyla gönderilmelidir, elden ve internetten teslim kabul edilmez."
+  - "Kopyalarda, USB bellekte ve zarfta yazar adı değil yalnızca 5 karakterli rumuz yer almalıdır."
+  - "Kimlik formu, taahhütname ve kısa özgeçmiş, üzerinde yalnızca rumuz ve eser adı yazan kapalı bir zarfa konmalıdır."
+  - "Dosyanın en geç 1 Kasım 2026 saat 17.00'de adrese ulaşmış olması gerekir, postadaki gecikmeler dikkate alınmaz."
 ---
 
 ## Tudem Edebiyat Ödülleri

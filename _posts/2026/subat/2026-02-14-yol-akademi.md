@@ -14,6 +14,12 @@ permalink: "yol-akademi-edebiyat-yarismasi-2026"
 redirect_from: ["/yol-akademi-"]
 image: "https://edebiyatyarismalari.com/images/2026/ocak/yol-akademi-edebiyat-yarismalari-2026.jpeg"
 excerpt:  "Yol Akademi Aylık Edebiyat Yarışmaları 2026'yı duyurdu."
+workLimit: "Öykü kitabı dalında en az 40 A4 sayfa (Word, Calibri, 11 punto, 1,08 satır aralığı)"
+ageRange: "18 yaşını tamamlamış olmak"
+typicalAgeRange: "18-"
+keyPoints:
+  - "Eser dosyasına ad soyad değil yalnızca rumuz yazılmalı, kişisel bilgiler başvuru formuna eklenmelidir."
+  - "Şiir kitapları bu yarışmaya kabul edilmez."
 ---
 
 ## Yol Akademi Aylık Edebiyat Yarışmaları 2025

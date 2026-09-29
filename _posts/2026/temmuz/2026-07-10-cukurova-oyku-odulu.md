@@ -14,6 +14,14 @@ permalink: "cukurova-oyku-odulu-2026"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/cukurova-oyku-odulu.jpeg"
 excerpt: "Mersin Yenişehir Belediyesi ve Uluslararası Öykü Günleri Derneği iş birliğiyle düzenlenen 2026 Çukurova Öykü Ödülü duyuruldu."
 archived_to: "/cukurova-oyku-yarismasi"
+workLimit: "En fazla 7 sayfa (Times New Roman, 12 punto, 1,5 satır aralığı)"
+workCount: "Kişi başı 1 öykü"
+ageRange: "18 yaş üzeri"
+typicalAgeRange: "18-"
+resultDate: "25 Aralık 2026"
+keyPoints:
+  - "Başvuru rumuzla yapılır, e-postaya rumuzla adlandırılmış 2 dosya eklenir (\"RUMUZ - Öykü Adı\" ve \"RUMUZ - Özgeçmiş\")."
+  - "Öykü dijital veya basılı hiçbir yerde yayımlanmamış ve ödül almamış olmalıdır."
 ---
 
 ## 2026 Çukurova Öykü Ödülü

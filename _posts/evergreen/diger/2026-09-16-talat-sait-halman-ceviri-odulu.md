@@ -14,6 +14,12 @@ requirements: "Yayınevleri (en fazla 3 çeviriyle) veya çevirmenler başvurabi
 permalink: "talat-sait-halman-ceviri-odulu"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/talat-sait-halman-ceviri-odulu.webp"
 excerpt: "İKSV'nin düzenlediği <strong>Talât Sait Halman Çeviri Ödülü</strong>'ne özgün dilinden Türkçeye çevrilmiş öykü ve roman çevirileriyle başvurulabilir. Son başvuru: 2 Ekim 2026."
+workCount: "Yayınevi başına en fazla 3 çeviri"
+resultDate: "Yıl sonu"
+keyPoints:
+  - "Yalnızca özgün dilinden Türkçeye çevrilmiş, ISBN almış öykü ve roman çevirileri başvurabilir."
+  - "Başvuru formu iksv.org üzerinden alınmalıdır."
+  - "Dosyaların 2 Ekim 2026 saat 17.00'ye kadar adrese ulaşmış olması gerekir."
 ---
 
 ## Talât Sait Halman Çeviri Ödülü
@@ -30,7 +36,7 @@ Katılım Koşulları:
 
 ## Talât Sait Halman Çeviri Ödülü Jürisi
 
-- Ayşe Sarısayın (yazar, çevirmen) — Jüri Başkanı
+- Ayşe Sarısayın (yazar, çevirmen), Jüri Başkanı
 - Emrah İmre (editör, çevirmen)
 - Begüm Kovulmaz (çevirmen)
 - Lale Özcan (akademisyen, çevirmen)

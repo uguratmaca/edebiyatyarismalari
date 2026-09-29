@@ -15,11 +15,18 @@ requirements: "Yönetmen ve/veya yapımcısından en az biri T.C. veya K.K.T.C. 
 permalink: "sabanci-vakfi-kisa-film-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/sabanci-vakfi-kisa-film-yarismasi.webp"
 excerpt: "Sabancı Vakfı'nın 11.'sini düzenlediği <strong>Kısa Film Yarışması</strong>'nın teması 'Hızlı Tüketim'. Son başvuru tarihi 20 Kasım 2026."
+workLimit: "Jenerik dahil en fazla 5 dakika"
+workCount: "Sınırsız (her film için ayrı form)"
+keyPoints:
+  - "Film daha önce hiçbir yerde gösterilmemiş ve ödül almamış olmalıdır."
+  - "Daha önce uzun metraj filmi olan yönetmenler başvuramaz."
+  - "Filmler Türkçe ve İngilizce altyazılı, en az 1920x1080 çözünürlükte olmalıdır."
+  - "Film YouTube'a liste dışı veya Vimeo'ya şifreli olarak yüklenip linki başvuru formuyla gönderilmelidir."
 ---
 
 ## Sabancı Vakfı Kısa Film Yarışması
 
-Sabancı Vakfı, toplumsal sorunların sanat aracılığıyla ele alınmasını desteklemek amacıyla düzenlediği **Kısa Film Yarışması**'nın 11.'sine başvuruları açtı. Bu yılki tema **"Hızlı Tüketim"** — insan ilişkileri ve psikolojiden dijital dünyaya, doğa ve çevreye uzanan kapsamda, hızlı tüketimin birey ve toplum üzerindeki etkilerinin genç sinemacıların farklı bakış açılarıyla ele alınması bekleniyor.
+Sabancı Vakfı, toplumsal sorunların sanat aracılığıyla ele alınmasını desteklemek amacıyla düzenlediği **Kısa Film Yarışması**'nın 11.'sine başvuruları açtı. Bu yılki tema **"Hızlı Tüketim"**. İnsan ilişkileri ve psikolojiden dijital dünyaya, doğa ve çevreye uzanan kapsamda, hızlı tüketimin birey ve toplum üzerindeki etkilerinin genç sinemacıların farklı bakış açılarıyla ele alınması bekleniyor.
 
 Katılım Koşulları:
 - Yarışmaya başvuran eserlerin yönetmeni ve/veya yapımcısından en az birinin T.C. veya K.K.T.C. vatandaşı olması gerekir; tüzel kişiler başvuramaz.

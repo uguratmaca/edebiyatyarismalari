@@ -15,6 +15,13 @@ requirements: "Türkiye Cumhuriyeti vatandaşı olan herkes katılabilir. Tüzel
 permalink: "tarik-bugra-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/tarik-bugra-oyku-yarismasi.webp"
 excerpt: "Akşehir Belediyesi, Tarık Buğra anma etkinlikleri kapsamında <strong>Tarık Buğra Ulusal Öykü Yarışması</strong>'nın ikinci edisyonunu duyurdu. Konu sınırı yok, başvurular e-posta ile 27 Kasım 2026'ya kadar alınıyor."
+workLimit: "En az 2, en fazla 5 sayfa (A4, Times New Roman, 12 punto, 1,5 satır aralığı)"
+workCount: "Kişi başı 1 öykü"
+resultDate: "2 Şubat 2027"
+keyPoints:
+  - "Eserin ilk sayfasında yalnızca rumuz yer almalı, kişisel bilgiler ayrı bir Word dosyasında gönderilmelidir."
+  - "Öykü daha önce yayımlanmamış ve hiçbir yarışmada ödül almamış olmalıdır."
+  - "Dereceye giren öykülerin telif hakları süresiz ve bedelsiz olarak Akşehir Belediyesi'ne devredilir."
 ---
 
 ## Akşehir Belediyesi Tarık Buğra Ulusal Öykü Yarışması

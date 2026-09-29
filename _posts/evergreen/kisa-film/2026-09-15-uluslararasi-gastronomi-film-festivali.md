@@ -14,6 +14,12 @@ requirements: "Ulusal ve uluslararası tüm sinemacılar katılabilir"
 permalink: "uluslararasi-gastronomi-film-festivali"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/uluslararasi-gastronomi-film-festivali.webp"
 excerpt: "UGFF'nin düzenlediği <strong>Uluslararası Gastronomi Film Festivali Kısa Film Yarışması</strong>'nda Tematik Ana Yarışma ve Yapay Zekâ Destekli Gastronomi Filmleri kategorilerinde başvurular kabul ediliyor. Son başvuru: 21 Mart 2027."
+workLimit: "En fazla 20 dakika"
+resultDate: "Mayıs 2027 (finalistler)"
+keyPoints:
+  - "Başvuru FilmFreeway platformu üzerinden yapılır."
+  - "MP4 (H.264) izleme kopyası, yüksek çözünürlüklü afiş ve İngilizce altyazı eksiksiz yüklenmelidir."
+  - "Her film yalnızca bir ana kategoride değerlendirilir, kategori sonradan değiştirilemez."
 ---
 
 ## Uluslararası Gastronomi Film Festivali Kısa Film Yarışması

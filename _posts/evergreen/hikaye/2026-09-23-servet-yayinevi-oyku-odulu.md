@@ -13,6 +13,15 @@ requirements: "Seçici kurul üyelerinin birinci derece yakınları dışında 1
 permalink: "servet-yayinevi-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/servet-yayinevi-oyku-odulu.webp"
 excerpt: "Servet Yayınevi <strong>2. Servet Yayınevi Öykü Ödülü Yarışması</strong> başvurularını açtı."
+workLimit: "En fazla 2.000 kelime (Word, Times New Roman, 12 punto, 1,5 satır aralığı)"
+workCount: "Kişi başı 1 öykü"
+ageRange: "18 yaşını doldurmuş olmak"
+typicalAgeRange: "18-"
+resultDate: "15 Şubat 2027"
+keyPoints:
+  - "E-posta konusu \"Servet Yayınevi Öykü Ödülü - [Rumuz] - [Öykü Adı]\" biçiminde yazılmalıdır."
+  - "E-postaya iki Word dosyası eklenmelidir: sağ üst köşesinde rumuz bulunan öykü ve kimlik bilgilerini içeren dosya."
+  - "Sosyal medya dahil hiçbir mecrada yayımlanmış veya ödül almış öyküler kabul edilmez."
 ---
 
 ## 2. Servet Yayınevi Öykü Ödülü Yarışması

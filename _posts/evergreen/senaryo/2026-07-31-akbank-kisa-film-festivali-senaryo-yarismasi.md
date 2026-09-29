@@ -14,6 +14,14 @@ requirements: "T.C. uyruklu, senaryosu tamamlanmış ve henüz filme dönüşmem
 permalink: "akbank-kisa-film-festivali-senaryo-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/akbank-kisa-film-festivali-senaryo-yarismasi.webp"
 excerpt: "Akbank Kısa Film Festivali'nin Forum bölümü kapsamında düzenlenen <strong>senaryo yarışması</strong>na başvurular başladı."
+workLimit: "En fazla 30 sayfa (A4, Courier, 12 punto)"
+workCount: "Birden fazla senaryoyla katılım serbest"
+ageRange: "Yaş sınırı yok"
+resultDate: "Festivalin kapanış gecesi (Mart 2027)"
+keyPoints:
+  - "Online form doldurulduktan sonra formun imzalı çıktısı senaryoyla birlikte e-postayla gönderilmelidir."
+  - "Takma adla yapılan başvurular kabul edilmez."
+  - "Senaryo tamamlanmış ve henüz filme dönüşmemiş olmalıdır."
 ---
 
 ## Akbank Kısa Film Festivali Senaryo Yarışması

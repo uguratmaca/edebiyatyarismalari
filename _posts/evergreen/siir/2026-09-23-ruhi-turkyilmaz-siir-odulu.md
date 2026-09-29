@@ -14,6 +14,9 @@ requirements: "1 Ocak 2026 ile 25 Mart 2027 arasında yayımlanmış bir şiir k
 permalink: "ruhi-turkyilmaz-siir-odulu"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/ruhi-turkyilmaz-siir-odulu.webp"
 excerpt: "Ruhi Türkyılmaz Sanatevi <strong>2027 Ruhi Türkyılmaz Sanatevi Şiir Ödülü</strong> başvurularını açtı."
+keyPoints:
+  - "Kitap veya dosyanın 5 örneği, başvuru dilekçesi ve kısa özgeçmişle kargoyla gönderilmelidir, internetten gönderilenler değerlendirilmez."
+  - "Gönderilen kitap ve dosyalar iade edilmez."
 ---
 
 ## 2027 Ruhi Türkyılmaz Sanatevi Şiir Ödülü

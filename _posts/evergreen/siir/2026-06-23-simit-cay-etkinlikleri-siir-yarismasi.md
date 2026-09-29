@@ -17,6 +17,12 @@ permalink: "simit-cay-etkinlikleri-siir-yarismasi"
 redirect_from: ["/simit-cay-", "/simit-cay-edebiyat"]
 image: "https://edebiyatyarismalari.com/images/2026/haziran/simit-cay-edebiyat-siir-yarismasi-13.webp"
 excerpt: "Simit Çay Edebiyat Etkinlikleri'nin düzenlediği ödüllü şiir yarışmasına herkes katılabilir, toplam ödül 8 bin TL. Son başvuru: 31 Aralık 2026."
+workCount: "Kişi başı en fazla 3 şiir"
+resultDate: "15 Şubat 2027'ye kadar"
+keyPoints:
+  - "Katılım ücretlidir."
+  - "Başvurular yalnızca internet üzerinden alınır."
+  - "Sonuçlar simitcay.com'da duyurulur, katılımcılara ayrıca bildirim yapılmaz."
 ---
 
 ## Simit Çay Edebiyat Etkinlikleri Şiir Yarışması

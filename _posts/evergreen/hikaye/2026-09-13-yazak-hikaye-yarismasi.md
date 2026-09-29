@@ -14,6 +14,16 @@ requirements: "18 yaşından büyük olan herkes katılabilir."
 permalink: "yazak-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/yazak-hikaye-yarismasi.webp"
 excerpt: "Yazarlık Akademisi Derneği (YAZAK) ve Acemi edebiyat dergisinin birlikte düzenlediği <strong>Öykü Yarışması</strong> başvuruları duyuruldu."
+workLimit: "En fazla 5 A4 sayfa (Word, Times New Roman, 12 punto, 1,5 satır aralığı)"
+workCount: "Kişi başı 1 öykü"
+ageRange: "18 yaşından büyük olmak"
+typicalAgeRange: "18-"
+resultDate: "11 Nisan 2027"
+keyPoints:
+  - "Katılım formu eksiksiz ve fotoğraflı doldurulmalıdır, form yerine kendi özgeçmişini gönderenlerin başvurusu geçersiz sayılır."
+  - "Eser ve form PDF değil Word formatında gönderilmelidir."
+  - "Rumuz tek kelime olmalı, ad soyadı çağrıştırmamalı, rakam ve noktalama işareti içermemelidir."
+  - "Bir hafta içinde dönüş gelmezse e-postayla sorulmalıdır."
 ---
 
 ## YAZAK Öykü Yarışması

@@ -14,6 +14,15 @@ requirements: "Yarışmanın dili Türkçedir, yarışmaya katılım için yaş 
 permalink: "yildirim-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/agustos/yildirim-roman-yarismasi.webp"
 excerpt: "Yıldırım Belediyesi <strong>Roman Yarışması</strong> düzenliyor."
+workLimit: "En fazla 75.000 kelime (A4, Times New Roman, 12 punto, 1,5 satır aralığı)"
+workCount: "Kişi başı 1 eser"
+ageRange: "Yaş sınırı yok"
+resultDate: "30 Eylül 2027"
+keyPoints:
+  - "Eserde ad soyad yerine üç harf ve dört rakamdan oluşan bir müstear isim (ör. ABC1234) kullanılmalıdır."
+  - "Eserle birlikte gerçek ad, müstear isim, telefon ve e-posta içeren öz geçmiş Word veya PDF olarak gönderilmelidir."
+  - "Eser daha önce hiçbir yerde yayımlanmamış ve hiçbir yarışmaya katılmamış olmalıdır."
+  - "Yapay zekâ katkısı tespit edilen eserler elenir."
 ---
 
 ## Yıldırım Roman Yarışması

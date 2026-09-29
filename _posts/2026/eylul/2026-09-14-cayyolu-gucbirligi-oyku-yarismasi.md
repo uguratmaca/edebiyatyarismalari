@@ -14,6 +14,14 @@ requirements: "18 yaşını doldurmuş amatör ve profesyonel tüm yazarlar kat�
 permalink: "cayyolu-gucbirligi-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/cayyolu-gucbirligi-oyku-yarismasi.webp"
 excerpt: "Çayyolu Güçbirliği, <strong>\"Değişen Dünyada Değişen Kadın\"</strong> temalı Öykü Yarışması düzenliyor."
+workLimit: "Kelime sınırı yok (Word, Times New Roman, 12 punto, 1,5 satır aralığı)"
+workCount: "Kişi başı en fazla 2 öykü"
+ageRange: "18 yaşını doldurmuş olmak"
+typicalAgeRange: "18-"
+resultDate: "En geç 30 Kasım 2026"
+keyPoints:
+  - "Öykü daha önce basılı veya dijital hiçbir mecrada (blog ve sosyal medya dahil) yayımlanmamış ve ödül almamış olmalıdır."
+  - "Kısa özgeçmiş ve iletişim bilgileri, öykünün yazılı olduğu Word dosyasının sonuna eklenmelidir."
 ---
 
 ## Çayyolu Güçbirliği Öykü Yarışması

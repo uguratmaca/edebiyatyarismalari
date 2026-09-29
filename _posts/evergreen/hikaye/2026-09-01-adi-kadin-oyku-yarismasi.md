@@ -14,6 +14,15 @@ requirements: "18 yaşını doldurmuş, yurtiçi ve yurtdışından, T.C. vatand
 permalink: "adi-kadin-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/adi-kadin-oyku-yarismasi.webp"
 excerpt: "Ana karakteri kadın olan öykülerin katıldığı <strong>Adı: Kadın Öykü Yarışması</strong> düzenleniyor."
+workLimit: "1.000-2.000 kelime (Word, Times New Roman, 12 punto, 1,5 satır aralığı)"
+workCount: "Kişi başı 1 öykü"
+ageRange: "18 yaşını doldurmuş kadın yazarlar"
+typicalAgeRange: "18-"
+resultDate: "15 Şubat 2027"
+keyPoints:
+  - "Öykünün ana karakteri kadın olmalıdır."
+  - "Öykü metninde gerçek ad yer almamalı, özgeçmiş ve iletişim bilgileri ayrı bir dosyada aynı e-postayla gönderilmelidir."
+  - "Öykü daha önce dergi, e-dergi, fanzin veya kitapta yayımlanmamış ve yapay zekâ desteğiyle yazılmamış olmalıdır."
 ---
 
 ## Adı: Kadın Öykü Yarışması

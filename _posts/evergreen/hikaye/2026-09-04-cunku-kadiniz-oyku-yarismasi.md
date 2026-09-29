@@ -13,6 +13,16 @@ requirements: "18 yaş üzeri herkes katılabilir; daha önce yayımlanmış kit
 permalink: "cunku-kadiniz-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/eylul/cunku-kadiniz-oyku-yarismasi.webp"
 excerpt: "Çünkü Kadınız Kolektifi <strong>Öykü Yarışması</strong>'nı düzenliyor; kazananlar bu yıl okur oylamasıyla belirlenecek."
+workLimit: "En fazla 1.500 kelime (A4, Times New Roman, 12 punto, 1,5 satır aralığı)"
+workCount: "Kişi başı 1 öykü"
+ageRange: "18 yaş üzeri"
+typicalAgeRange: "18-"
+resultDate: "9 Ocak 2027"
+keyPoints:
+  - "Öykü dosyasında yalnızca sol üst köşede büyük harflerle rumuz yer almalı, dosya adı \"Öykü Adı-Rumuz\" olmalıdır."
+  - "Kimlik bilgileri, kısa biyografi, iletişim bilgisi ve Instagram kullanıcı adı ayrı bir \"Başvuru Yazısı\" Word dosyasında gönderilmelidir."
+  - "E-posta konusu \"Yarışma Başvurusu - Katılımcı Adı - Öykü Adı\" biçiminde yazılmalıdır."
+  - "Kazananlar jüri yerine herkese açık okur oylamasıyla belirlenir."
 ---
 
 ## Çünkü Kadınız Kolektifi 2. Öykü Yarışması

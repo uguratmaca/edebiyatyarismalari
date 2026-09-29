@@ -13,6 +13,12 @@ requirements: "Son bir yıl içinde yayınlanmış kitaplaşmış eserlerin yaza
 permalink: "sedat-simavi-odulleri-2026"
 image: "https://edebiyatyarismalari.com/images/2026/temmuz/2026-sedat-simavi-odulleri.webp"
 excerpt: "Türkiye Gazeteciler Cemiyeti (TGC), <strong>Sedat Simavi Ödülleri 2026</strong> için Edebiyat dalı dahil dokuz dalda başvuruları başlattı."
+workCount: "Bir dalda 1 eser"
+resultDate: "Aralık 2026"
+keyPoints:
+  - "Kitap 1 Ekim 2025 ile 30 Eylül 2026 arasında yayımlanmış olmalıdır."
+  - "Daha önce ulusal yarışmalardan derece almış eserler aday gösterilemez."
+  - "Başvurular 30 Eylül 2026 saat 17.00'de kapanır."
 ---
 
 ## Sedat Simavi Ödülleri 2026

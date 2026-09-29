@@ -11,6 +11,7 @@ işleme (resize/watermark) için `.claude/notes-post-schema.md`'ye bak.
 - **İç linklerde ve `archived_to`'da sonda `/` yok** (`/slug`, `/slug/` değil). Sayfalar `slug.html` olarak yayınlandığından slash'lı adres 404 verir ve canonical bozulur.
 - **Permalink'te edisyon numarası yok** (`...-oyku-yarismasi`, `...-2-oyku-yarismasi` değil); yarışma ileride evergreen olacakmış gibi adlandırılır.
 - **Yarışma sonucu gelince yeni post açma**, mevcut permalink'i (evergreen ise o yılın arşiv kopyasını) güncelle.
+- **Yeni postta kilit nokta alanlarını doldur** (`workLimit`, `workCount`, `ageRange`, `typicalAgeRange`, `resultDate`, `keyPoints`): sadece şartnamede yazanlar, tam şartname metni kısaltılmadan korunur.
 - **Metinlerde em dash (—) kullanma** (post, sayfa, front matter, kod yorumu). Nokta, virgül, parantez veya iki nokta kullan.
 
 ## Öncelik: SEO ve GEO
