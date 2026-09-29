@@ -5,6 +5,7 @@ description: "Trafik kazasında yaşamını yitiren Onur Güvener adına düzenl
 category: articles
 tags: []
 comments: true
+archived_to: "/onur-guvener-oyku-yarismasi"
 ---
 
 Son Başvuru Tarihi: 5 Ocak 2019.

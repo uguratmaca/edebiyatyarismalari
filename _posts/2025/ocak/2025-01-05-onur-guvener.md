@@ -11,6 +11,7 @@ attendance: "E-Posta"
 organizer: "İstanbul Anadolu Yakası Lions Kulüpleri"
 requirements: "9-12 Yaş arasındaki çocuklar"
 permalink: "21-onur-guvener-oyku-yarismasi"
+archived_to: "/onur-guvener-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/subat/onur-guvener-oyku-yarismasi.jpg"
 excerpt: "Uluslararası Lions Dernekleri 118 Y İstanbul Anadolu Yakası Yönetim Çevresi tarafından <strong>21.Onur Güvener Öykü Yarışması</strong> düzenleniyor."
 ---

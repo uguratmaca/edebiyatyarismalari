@@ -62,6 +62,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Muzaffer İzgü Çocuk Romanı Yarışması** — [dosya](roman/2025-07-06-muzaffer-izgu-roman-yarismasi.md) · `/muzaffer-izgu-roman-yarismasi`
 - **Myrina Yayınları Öykü Yarışması** — [dosya](2026-02-04-myrina-yayinlari-oyku-yarismasi.md) · `/myrina-yayinlari-oyku-yarismasi`
 - **Oğuz Atay Öykü Ödülü** — [dosya](2026-03-03-oguz-atay-oyku-odulu.md) · `/oguz-atay-oyku-odulu`
+- **Onur Güvener Öykü Yarışması**: [dosya](hikaye/2026-09-29-onur-guvener-oyku-yarismasi.md) · `/onur-guvener-oyku-yarismasi`
 - **Reşat Nuri Güntekin Öykü Yarışması** — [dosya](2022-04-06-resat-nuri-guntekin-oyku-yarismasi.md) · `/resat-nuri-guntekin-oyku-yarismasi`
 - **Rıfat Ilgaz Şiir Ödülü** — [dosya](siir/2024-02-03-rifat-ilgaz-siir-odulu.md) · `/rifat-ilgaz-siir-odulu`
 - **Ruhi Türkyılmaz Sanatevi Şiir Ödülü**: [dosya](siir/2026-09-23-ruhi-turkyilmaz-siir-odulu.md) · `/ruhi-turkyilmaz-siir-odulu`
