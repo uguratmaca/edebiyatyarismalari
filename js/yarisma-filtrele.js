@@ -1,87 +1,127 @@
 (function () {
   var PAGE_SIZE = 30;
+  var GROUPS = ['type', 'audience', 'attendance', 'prize'];
+  var Profil = window.EDYProfil;
   var allPosts = [];
   var visibleCount = PAGE_SIZE;
-
-  // Mirrors _plugins/attendance_normalizer.rb. Done client-side (instead of
-  // relying on the post.attendanceMethods field baked into yarismalar.json)
-  // because that field was observed to come through unnormalized in
-  // production despite building correctly locally - keeping this logic here
-  // makes the filter correct regardless of what the JSON contains.
-  var EPOSTA_PATTERN = /e[\s-]?post\w*|e[\s-]?mail/i;
-  var OTHER_CATEGORIES = [
-    ['Online/Web Sitesi', /web ?sitesi|wesitesi|online|internet sitesi|e-?devlet|çevrimiçi/i],
-    ['Kargo/Posta', /kargo|posta|ptt|aps\b/i],
-    ['Elden', /elden|şahsen|yüz ?yüze|teslim/i],
-    ['Okul/Kurum', /okul|müdürl|müftül|milli eğitim|öğretmen|veli|kurum|danışman|konsoloslu|bilgi evi|gençlik merkezi/i],
-    ['Sosyal Medya', /instagram|facebook|twitter|whatsapp|telegram|sosyal medya|mesaj/i]
-  ];
-
-  function normalizeAttendance(input) {
-    if (!input) return [];
-    var text = String(input).replace(/İ/g, 'i');
-    var matched = [];
-
-    if (EPOSTA_PATTERN.test(text)) {
-      matched.push('E-posta');
-      text = text.replace(EPOSTA_PATTERN, '');
-    }
-
-    OTHER_CATEGORIES.forEach(function (entry) {
-      if (entry[1].test(text)) matched.push(entry[0]);
-    });
-
-    return matched.length ? matched : ['Diğer'];
-  }
+  var saved = Profil.load();
+  // "Yeni" rozeti, bu ziyaretten önceki son bakışa göre hesaplanır.
+  var lastSeen = Profil.lastSeen() || (saved ? Math.floor(saved.savedAt / 1000) : null);
 
   var resultsEl = document.getElementById('filter-results');
   var countEl = document.getElementById('filter-count');
   var moreBtn = document.getElementById('filter-more');
   var resetBtn = document.getElementById('filter-reset');
+  var birthEl = document.getElementById('profil-dogum');
+  var bookEl = document.getElementById('profil-kitap');
+  var paidEl = document.getElementById('profil-ucretli');
+  var womenEl = document.getElementById('profil-kadin');
+  var saveBtn = document.getElementById('profil-kaydet');
+  var statusEl = document.getElementById('profil-durum');
+  var messageEl = document.getElementById('profil-mesaj');
 
-  function getSelected(className) {
-    var boxes = document.querySelectorAll('.' + className + ':checked');
+  function escapeHtml(str) {
+    return String(str).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+
+  function getSelected(group) {
+    var boxes = document.querySelectorAll('.' + group + '-checkbox:checked');
     return Array.prototype.map.call(boxes, function (box) { return box.value; });
   }
 
-  function matchesFilters(post, audience, types, attendanceMethods, prize) {
-    var tags = post.tags || [];
-    var methods = normalizeAttendance(post.attendance);
-    // totalPrize is only filled for cash prizes (see .claude/notes-post-schema.md).
-    var hasPrize = !!(post.totalPrize && String(post.totalPrize).trim());
-    var prizeMatch = prize.length === 0 || prize.indexOf(hasPrize ? 'Evet' : 'Hayır') !== -1;
-    var audienceMatch = audience.length === 0 || audience.some(function (a) { return tags.indexOf(a) !== -1; });
-    var typeMatch = types.length === 0 || types.some(function (t) { return tags.indexOf(t) !== -1; });
-    var attendanceMatch = attendanceMethods.length === 0 || attendanceMethods.some(function (m) { return methods.indexOf(m) !== -1; });
-    return audienceMatch && typeMatch && attendanceMatch && prizeMatch;
+  function currentProfile() {
+    var p = {};
+    GROUPS.forEach(function (g) { p[g] = getSelected(g); });
+    var year = parseInt(birthEl.value, 10);
+    var thisYear = new Date().getFullYear();
+    p.birthYear = year >= 1900 && year <= thisYear ? year : null;
+    p.book = bookEl.value || null;
+    p.hidePaid = paidEl.checked;
+    p.hideWomenOnly = womenEl.checked;
+    return p;
+  }
+
+  function applyProfile(p) {
+    GROUPS.forEach(function (g) {
+      var values = p[g] || [];
+      document.querySelectorAll('.' + g + '-checkbox').forEach(function (box) {
+        box.checked = values.indexOf(box.value) !== -1;
+      });
+    });
+    birthEl.value = p.birthYear || '';
+    bookEl.value = p.book || '';
+    paidEl.checked = !!p.hidePaid;
+    womenEl.checked = !!p.hideWomenOnly;
+  }
+
+  function normalized(p) {
+    var n = {};
+    GROUPS.forEach(function (g) { n[g] = (p[g] || []).slice().sort(); });
+    n.birthYear = p.birthYear || null;
+    n.book = p.book || null;
+    n.hidePaid = !!p.hidePaid;
+    n.hideWomenOnly = !!p.hideWomenOnly;
+    return JSON.stringify(n);
+  }
+
+  function sameAsSaved(p) {
+    return !!saved && normalized(p) === normalized(saved);
+  }
+
+  function isNew(post) {
+    return lastSeen && post.date && post.date > lastSeen;
   }
 
   function cardHtml(post) {
+    var badge = isNew(post) ? ' <span class="badge badge-success">Yeni</span>' : '';
     var requirementsHtml = post.requirements
-      ? '<p>❗ Yarışmadaki kısıtlar: <b>' + post.requirements + '</b></p>'
+      ? '<p>❗ Yarışmadaki kısıtlar: <b>' + escapeHtml(post.requirements) + '</b></p>'
       : '';
     var attendanceHtml = post.attendance
-      ? '<p>📮 Gönderim şekli: <b>' + post.attendance + '</b></p>'
+      ? '<p>📮 Gönderim şekli: <b>' + escapeHtml(post.attendance) + '</b></p>'
+      : '';
+    var submissionHtml = post.submissionType && post.submissionType.length
+      ? '<p>📚 Başvuru biçimi: <b>' + escapeHtml(post.submissionType.join(' veya ')) + '</b></p>'
       : '';
     return (
       '<article>' +
-      '<h2><a href="' + post.url + '">' + post.title + '</a></h2>' +
-      '<p>🗓️ Yarışmanın son başvuru tarihi: <b>' + post.dateHuman + '</b></p>' +
+      '<h2><a href="' + escapeHtml(post.url) + '">' + escapeHtml(post.title) + '</a>' + badge + '</h2>' +
+      '<p>🗓️ Yarışmanın son başvuru tarihi: <b>' + escapeHtml(post.dateHuman) + '</b></p>' +
       requirementsHtml +
       attendanceHtml +
-      '<p>' + post.excerpt + '</p>' +
+      submissionHtml +
+      '<p>' + escapeHtml(post.excerpt || '') + '</p>' +
       '</article><hr>'
     );
   }
 
+  function renderStatus(p) {
+    if (!saved) {
+      statusEl.hidden = true;
+      saveBtn.textContent = 'Tüm seçimlerimi kaydet';
+      return;
+    }
+    var unsaved = !sameAsSaved(p);
+    statusEl.innerHTML =
+      '📌 <b>Kayıtlı seçimlerinle gösteriliyor:</b> ' + escapeHtml(Profil.summary(saved)) +
+      (unsaved ? ' <em>(kaydedilmemiş değişiklikler var)</em>' : '') +
+      ' · <a href="#bana-ozel">Değiştir</a>' +
+      ' · <button type="button" class="btn btn-link btn-sm p-0 align-baseline" id="profil-sil">Kaydı sil</button>';
+    statusEl.hidden = false;
+    saveBtn.textContent = unsaved ? 'Değişiklikleri kaydet' : 'Seçimlerin kayıtlı';
+    document.getElementById('profil-sil').addEventListener('click', onClear);
+  }
+
+  function showMessage(html) {
+    messageEl.innerHTML = html;
+    messageEl.hidden = false;
+  }
+
   function render() {
-    var audience = getSelected('audience-checkbox');
-    var types = getSelected('type-checkbox');
-    var attendanceMethods = getSelected('attendance-checkbox');
-    var prize = getSelected('prize-checkbox');
-    var filtered = allPosts.filter(function (post) {
-      return matchesFilters(post, audience, types, attendanceMethods, prize);
-    });
+    var p = currentProfile();
+    var filtered = allPosts.filter(function (post) { return Profil.matches(post, p); });
 
     countEl.textContent = filtered.length + ' yarışma bulundu';
 
@@ -91,6 +131,7 @@
       : '<p>Seçtiğiniz kriterlere uygun aktif yarışma bulunamadı.</p>';
 
     moreBtn.style.display = filtered.length > visibleCount ? 'inline-block' : 'none';
+    renderStatus(p);
   }
 
   function updateDropdownLabels() {
@@ -106,6 +147,30 @@
 
   function onFilterChange() {
     visibleCount = PAGE_SIZE;
+    messageEl.hidden = true;
+    updateDropdownLabels();
+    render();
+  }
+
+  function onSave() {
+    var p = currentProfile();
+    if (!Profil.save(p)) {
+      showMessage('Seçimler kaydedilemedi. Tarayıcın site verilerini kaydetmeye izin vermiyor olabilir (ör. gizli sekme).');
+      return;
+    }
+    saved = Profil.load();
+    showMessage(
+      '✅ <b>Seçimlerin kaydedildi:</b> ' + escapeHtml(Profil.summary(saved)) + '. ' +
+      'Bu sayfaya bir dahaki gelişinde bu seçimlerle listelenecek. Sadece bu tarayıcıda saklanır, bize gönderilmez.'
+    );
+    render();
+  }
+
+  function onClear() {
+    Profil.clear();
+    saved = null;
+    applyProfile({});
+    showMessage('Kayıtlı seçimlerin silindi. Tüm açık yarışmalar listeleniyor.');
     updateDropdownLabels();
     render();
   }
@@ -113,9 +178,14 @@
   document.querySelectorAll('.filter-checkbox').forEach(function (box) {
     box.addEventListener('change', onFilterChange);
   });
+  [bookEl, paidEl, womenEl].forEach(function (el) {
+    el.addEventListener('change', onFilterChange);
+  });
+  birthEl.addEventListener('input', onFilterChange);
+  saveBtn.addEventListener('click', onSave);
 
   resetBtn.addEventListener('click', function () {
-    document.querySelectorAll('.filter-checkbox').forEach(function (box) { box.checked = false; });
+    applyProfile({});
     onFilterChange();
   });
 
@@ -124,11 +194,17 @@
     render();
   });
 
+  if (saved) {
+    applyProfile(saved);
+    updateDropdownLabels();
+  }
+
   fetch('/yarismalar.json')
     .then(function (res) { return res.json(); })
     .then(function (data) {
       allPosts = data.sort(function (a, b) { return a.lastDate - b.lastDate; });
       render();
+      Profil.markSeen();
     })
     .catch(function () {
       countEl.textContent = '';

@@ -8,6 +8,9 @@ next_page: /sayfa2/
 <section class="p-2">
 	<h1>{{page.headline}}</h1>
 	<p>Şu anda sitede <strong>{{ site.data.dynamic_pagination.active_count }}</strong> aktif edebiyat yarışması listeleniyor.</p>
+	<p class="alert alert-info" id="bana-ozel-metin" data-link="{{ site.url }}/yarisma-filtrele/">🎯 Sadece sana uygun yarışmaları görmek ister misin? Türünü, yaşını ve başvuru şeklini seç, tercihlerin kaydedilsin: <a href="{{ site.url }}/yarisma-filtrele/">Bana özel yarışmalar</a></p>
+	<script src="/js/profil.js" defer></script>
+	<script src="/js/bana-ozel-kutu.js" defer></script>
 	<hr>
 
 	{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
