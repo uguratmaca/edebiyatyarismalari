@@ -23,6 +23,7 @@ keyPoints:
   - "Öykünün ana karakteri kadın olmalıdır."
   - "Öykü metninde gerçek ad yer almamalı, özgeçmiş ve iletişim bilgileri ayrı bir dosyada aynı e-postayla gönderilmelidir."
   - "Öykü daha önce dergi, e-dergi, fanzin veya kitapta yayımlanmamış ve yapay zekâ desteğiyle yazılmamış olmalıdır."
+entryFee: "Ücretsiz"
 ---
 
 ## Adı: Kadın Öykü Yarışması

@@ -5,7 +5,7 @@ description: "Çiğli Belediyesi'nin her yıl düzenlediği Fakir Baykurt Roman 
 date: 2026-03-16
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [her yıl tekrarlanan roman, mart 2026, roman yarışması, genel, fakir baykurt]
+tags: [her yıl tekrarlanan roman, mart 2026, roman yarışması, genel, fakir baykurt, kitap dosyası]
 lastDate: 1773608400
 dateHuman: "16 Mart 2026"
 attendance: "Posta/Kargo"
@@ -15,6 +15,7 @@ totalPrize: "30 Bin TL'dir."
 permalink: "fakir-baykurt-roman-odulu"
 image: "https://edebiyatyarismalari.com/images/2024/mart/fakir-baykurt-roman-yarismasi-2024.jpg"
 excerpt:  "Çiğli Belediyesi'nin her yıl düzenlediği <strong> Fakir Baykurt Roman Ödülü </strong> düzenliyor."
+submissionType: ["kitap dosyası"]
 ---
 
 ## Fakir Baykurt Roman Ödülü

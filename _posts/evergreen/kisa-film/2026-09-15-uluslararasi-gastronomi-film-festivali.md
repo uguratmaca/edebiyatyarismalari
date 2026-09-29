@@ -20,6 +20,7 @@ keyPoints:
   - "Başvuru FilmFreeway platformu üzerinden yapılır."
   - "MP4 (H.264) izleme kopyası, yüksek çözünürlüklü afiş ve İngilizce altyazı eksiksiz yüklenmelidir."
   - "Her film yalnızca bir ana kategoride değerlendirilir, kategori sonradan değiştirilemez."
+entryFee: "Ücretsiz"
 ---
 
 ## Uluslararası Gastronomi Film Festivali Kısa Film Yarışması

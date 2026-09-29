@@ -14,6 +14,7 @@ requirements: "Yarışma tüm yazarlara açıktır"
 permalink: "attila-ilhan-edebiyat-odulleri"
 image: "https://edebiyatyarismalari.com/images/2025/haziran/attila-ilhan-edebiyat-odulleri.jpg"
 excerpt: "Attilâ İlhan Bilim, Sanat ve Kültür Vakfı'nın Türkiye İş Bankası Kültür Yayınları desteğiyle her yıl düzenlediği Attilâ İlhan Edebiyat Ödülleri'nde roman, şiir ve senaryo dalları ödüllendiriliyor."
+submissionType: ["yayımlanmış kitap", "tek eser"]
 ---
 
 ## Attilâ İlhan Edebiyat Ödülleri

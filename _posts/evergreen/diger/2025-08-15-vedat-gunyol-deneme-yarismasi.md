@@ -4,7 +4,7 @@ title: "Vedat Günyol Deneme Ödülü"
 description: "Kartal Belediyesi'nin her yıl düzenlediği Vedat Günyol Deneme Ödülü'nde birinciye 45 Bin TL ödül veriliyor. Son başvuru: 13 Kasım 2026."
 date: 2026-07-17
 category: articles
-tags: [her yıl tekrarlanan, kasım 2026, deneme yarışması, genel]
+tags: [her yıl tekrarlanan, kasım 2026, deneme yarışması, genel, kitap dosyası]
 lastDate: 1794517200
 dateHuman: "13 Kasım 2026"
 comTopic: "Serbest"
@@ -21,6 +21,7 @@ keyPoints:
   - "Yalnızca son 2 yıl içinde yayımlanan kitaplar aday olabilir."
   - "Ödüllerden biri 35 yaş altı genç deneme yazarlarından birine verilir."
   - "Postadaki gecikmeler kabul edilmez, gönderilen kitap ve dosyalar iade edilmez."
+submissionType: ["yayımlanmış kitap", "kitap dosyası"]
 ---
 
 ## Vedat Günyol Deneme Ödülü

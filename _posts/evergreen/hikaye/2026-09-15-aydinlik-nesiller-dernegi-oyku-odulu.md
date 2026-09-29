@@ -22,6 +22,7 @@ keyPoints:
   - "Özgeçmiş ve iletişim bilgileri ayrı bir Word dosyasında aynı e-postayla gönderilmelidir."
   - "Yapay zekâ kullanımı kesinlikle kabul edilmez, özgünlük kontrolü yapılır."
   - "Noktalama, imla ve dil kurallarına uymayan öyküler değerlendirme dışı kalır."
+entryFee: "Ücretsiz"
 ---
 
 ## Aydınlık Nesiller Derneği Öykü Ödülü

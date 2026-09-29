@@ -4,7 +4,7 @@ title: "Ali Rıza Ertan Şiir Yarışması"
 description: "Buca Belediyesi'nin her yıl düzenlediği Ali Rıza Ertan Şiir Ödülü'nde ödül 10 bin TL değerinde hediye çeki. Son başvuru: 30 Nisan 2026."
 date: 2026-04-08
 category: articles
-tags: [her yıl tekrarlanan şiir, nisan 2026, şiir yarışması, genel]
+tags: [her yıl tekrarlanan şiir, nisan 2026, şiir yarışması, genel, kitap dosyası]
 lastDate: 1777500000
 totalPrize: "10 Bin TL'dir"
 dateHuman: "30 Nisan 2026"
@@ -15,6 +15,7 @@ requirements: "1991 yılı ve sonrası doğumlular katılabilir"
 permalink: "ali-riza-ertan-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/nisan/ali-riza-erten-siir-yarismasi.jpg"
 excerpt: "Buca Belediyesi'nin her yıl düzenlediği Ali Rıza Ertan Şiir Ödülü'nde ödül 10 bin TL değerinde hediye çeki. Son başvuru: 30 Nisan 2026."
+submissionType: ["kitap dosyası"]
 ---
 
 ## Ali Rıza Ertan Şiir Yarışması

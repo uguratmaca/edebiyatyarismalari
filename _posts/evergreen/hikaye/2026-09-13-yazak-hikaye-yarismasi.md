@@ -24,6 +24,7 @@ keyPoints:
   - "Eser ve form PDF değil Word formatında gönderilmelidir."
   - "Rumuz tek kelime olmalı, ad soyadı çağrıştırmamalı, rakam ve noktalama işareti içermemelidir."
   - "Bir hafta içinde dönüş gelmezse e-postayla sorulmalıdır."
+entryFee: "Ücretsiz"
 ---
 
 ## YAZAK Öykü Yarışması

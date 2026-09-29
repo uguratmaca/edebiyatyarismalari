@@ -15,6 +15,10 @@
     "requirements": {{ post.requirements | jsonify }},
     "attendance": {{ post.attendance | jsonify }},
     "attendanceMethods": {{ post.attendance | normalize_attendance | jsonify }},
+    "typicalAgeRange": {{ post.typicalAgeRange | jsonify }},
+    "submissionType": {{ post.submissionType | jsonify }},
+    "authorCondition": {{ post.authorCondition | jsonify }},
+    "entryFee": {{ post.entryFee | jsonify }},
     "excerpt": {{ post.excerpt | strip_html | strip_newlines | truncate: 160 | jsonify }}
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}

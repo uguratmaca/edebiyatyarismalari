@@ -53,6 +53,20 @@ layout: default
       <p>🏢 Düzenleyen: <b>{{page.organizer}}</b></p>
       {% endif %}
 
+      {% if page.submissionType %}
+      <p>📚 Başvuru biçimi: <b>{{ page.submissionType | join: " veya " | tr_capitalize }}</b></p>
+      {% endif %}
+
+      {% if page.authorCondition == "kitabı olmayanlar" %}
+      <p>🌱 Yazar şartı: <b>Daha önce kitabı yayımlanmamış olmak</b></p>
+      {% elsif page.authorCondition == "ilk kitap" %}
+      <p>🌱 Yazar şartı: <b>Yalnızca ilk kitap veya ilk kitap niteliğindeki dosyalar</b></p>
+      {% endif %}
+
+      {% if page.entryFee %}
+      <p>💳 Katılım ücreti: <b>{{ page.entryFee }}</b></p>
+      {% endif %}
+
       {% if page.workLimit %}
       <p>📄 Uzunluk sınırı: <b>{{page.workLimit}}</b></p>
       {% endif %}
@@ -177,7 +191,8 @@ layout: default
       "url": "{{site.url}}{{page.url}}"
     },
     "image": "{{page.image}}",{% if page.typicalAgeRange %}
-    "typicalAgeRange": {{ page.typicalAgeRange | jsonify }},{% endif %}
+    "typicalAgeRange": {{ page.typicalAgeRange | jsonify }},{% endif %}{% if page.entryFee == "Ücretsiz" %}
+    "isAccessibleForFree": true,{% endif %}
     "organizer": {
       "@type": "Organization",
       "name": {{ page.organizer | default: "Edebiyat Yarışmaları" | jsonify }}

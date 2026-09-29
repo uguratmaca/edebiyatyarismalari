@@ -13,6 +13,7 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "a7-kitap-sevim-burak-oyku-odulu"
 image: "https://edebiyatyarismalari.com/images/2025/aralik/sevim-burak-oyku-odulu-2026.jpg"
 excerpt: "A7 Kitap Sevim Burak Öykü Ödülü'nü duyurdu"
+submissionType: ["kitap dosyası"]
 ---
 
 ## A7 Kitap Sevim Burak Öykü Ödülü

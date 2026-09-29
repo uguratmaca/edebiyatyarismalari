@@ -21,6 +21,9 @@ keyPoints:
   - "Daha önce öykü kitabı yayımlamış yazarlar başvuramaz."
   - "Kapakta yalnızca kitap adı, her sayfanın sol üst köşesinde rumuz bulunmalı, yazar adı yer almamalıdır."
   - "Öyküler yayımlanmamış, ödül almamış ve yapay zekâ kullanılmadan yazılmış olmalıdır."
+submissionType: ["kitap dosyası"]
+authorCondition: "kitabı olmayanlar"
+entryFee: "Ücretsiz"
 ---
 
 ## 5. İlyas Halil Öykü Ödülü

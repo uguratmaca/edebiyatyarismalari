@@ -22,6 +22,8 @@ keyPoints:
   - "Başvuruda gerçek ad soyad yerine rumuz kullanılmalıdır."
   - "Roman özgün olmalı ve daha önce yayımlanmamış olmalıdır."
   - "Daha önce Mersin Roman Ödülü kazananlar tekrar başvuramaz."
+submissionType: ["kitap dosyası"]
+entryFee: "Ücretsiz"
 ---
 
 ## 6.Mersin Roman Ödülü

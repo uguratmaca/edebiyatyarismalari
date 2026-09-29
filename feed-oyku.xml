@@ -1,0 +1,5 @@
+---
+layout:
+sitemap: false
+---
+{% include interest-feed.xml title="Öykü yarışmaları" path="/feed-oyku.xml" tags="hikaye yarışması" %}

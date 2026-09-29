@@ -14,6 +14,7 @@ requirements: "Roman Ödülü için bir önceki yıl ilk kez basılmış Türkç
 permalink: "erdal-oz-edebiyat-odulleri"
 image: "https://edebiyatyarismalari.com/images/2026/subat/erdal-oz-edebiyat-odulleri.webp"
 excerpt: "Can Yayınları'nın düzenlediği <strong>Erdal Öz Edebiyat Ödülleri</strong>'ne 2026'dan itibaren Roman Ödülü ve İlk Öykü Kitabı Ödülü kategorileri eklendi."
+submissionType: ["yayımlanmış kitap"]
 ---
 
 ## Erdal Öz Edebiyat Ödülleri

@@ -15,6 +15,7 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "fakir-baykurt-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/ocak/fakir-baykurt-oyku-yarismasi.jpeg"
 excerpt: "Sarıyer Belediyesi'nin her yıl düzenlediği Fakir Baykurt Öykü Yarışması'nda 4 kategoride toplam 93 Bin 500 TL'lik ödül dağıtılıyor. Son başvuru: 06 Şubat 2026."
+submissionType: ["tek eser", "yayımlanmış kitap"]
 ---
 
 ## Fakir Baykurt Öykü Yarışması

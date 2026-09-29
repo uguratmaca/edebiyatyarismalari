@@ -19,6 +19,7 @@ resultDate: "17 Mayıs 2027"
 keyPoints:
   - "Yalnızca daha önce yayımlanmamış romanlarla başvurulabilir."
   - "Roman Word formatında hazırlanıp e-postayla gönderilmelidir."
+submissionType: ["kitap dosyası"]
 ---
 
 ## 2027 Emine Işınsu Roman Ödülü

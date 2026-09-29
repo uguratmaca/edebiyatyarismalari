@@ -20,6 +20,7 @@ keyPoints:
   - "Yalnızca 2026 yılında Türkiye'de yayımlanmış ve daha önce ödül almamış romanlar katılabilir."
   - "Romandan 5 nüsha, yazarın kısa özgeçmişiyle birlikte posta veya kargoyla gönderilmelidir."
   - "Gönderilen kitaplar iade edilmez."
+submissionType: ["yayımlanmış kitap"]
 ---
 
 ## Günhan Kuşkanat Roman Ödülü

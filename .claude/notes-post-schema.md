@@ -73,6 +73,29 @@ dosya formatı, e-posta konu satırı vb.) yazılır. Yukarıdaki alanlarda zate
 görünen bilgi (tarih, ödül, yaş) tekrar edilmez. Her madde tek başına
 anlaşılır, tam bir cümle olmalı (AI motorları maddeyi tek başına alıntılayabilir).
 
+### Kitap şartı ve katılım ücreti alanları
+
+```yaml
+submissionType: ["yayımlanmış kitap", "kitap dosyası"]  # 📚 ne gönderiliyor
+authorCondition: "kitabı olmayanlar"                    # 🌱 yazarın kitap geçmişi şartı
+entryFee: "Ücretsiz"                                    # 💳 "Ücretsiz", "60 TL (+KDV)" veya "Ücretli (tutar belirtilmemiş)"
+```
+
+- `submissionType` değerleri sabit, sadece şu üçü: `"tek eser"` (tek öykü/şiir/senaryo vb.),
+  `"kitap dosyası"` (yayımlanmamış, kitap bütünlüğünde dosya), `"yayımlanmış kitap"`
+  (ISBN'li basılmış kitap, çeviri dahil). Alan **yoksa tek eser** kabul edilir, sadece tek
+  eser alan yarışmalara ekleme. Birden fazla dal varsa hepsini yaz (ör. Kemal Özer:
+  kitap + dosya, Fakir Baykurt Öykü: tek eser + kitap).
+- `submissionType` içinde `"kitap dosyası"` veya `"yayımlanmış kitap"` varsa `tags`'e
+  `kitap dosyası` da eklenir (`/kitap-dosyasi-yarismalari` kategori sayfası bu tag'le dolar).
+- `authorCondition` değerleri: `"kitabı olmayanlar"` (daha önce kitabı yayımlanmamış olma
+  şartı; "öykü türünde kitabı olmayanlar" gibi tür kısıtı varsa ayrıntısı `keyPoints`'e),
+  `"ilk kitap"` (sadece ilk kitap veya ilk kitap niteliğindeki dosya). Şart yarışmanın
+  yalnızca bir dalı için geçerliyse alanı ekleme, `keyPoints`'te belirt.
+- `entryFee`: şartname "katılım ücretsizdir" diyorsa `"Ücretsiz"` (JSON-LD'ye
+  `isAccessibleForFree: true` olarak geçer), ücret varsa tutarıyla yaz. Şartname ücretten
+  hiç bahsetmiyorsa alanı ekleme.
+
 `totalPrize` yoksa post, `money.html` layout'unun kullandığı "para ödüllü
 yarışmalar" listesine girmez — parasal ödül yoksa alanı boş bırak, uydurma.
 

@@ -20,9 +20,9 @@ excerpt: "Simit Çay Edebiyat Etkinlikleri'nin düzenlediği ödüllü şiir yar
 workCount: "Kişi başı en fazla 3 şiir"
 resultDate: "15 Şubat 2027'ye kadar"
 keyPoints:
-  - "Katılım ücretlidir."
   - "Başvurular yalnızca internet üzerinden alınır."
   - "Sonuçlar simitcay.com'da duyurulur, katılımcılara ayrıca bildirim yapılmaz."
+entryFee: "Ücretli (tutar belirtilmemiş)"
 ---
 
 ## Simit Çay Edebiyat Etkinlikleri Şiir Yarışması

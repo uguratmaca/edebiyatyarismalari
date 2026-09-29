@@ -22,6 +22,7 @@ resultDate: "Mart 2027 (Ankara'daki gala gecesinde)"
 keyPoints:
   - "Öykü rumuzla imzalanmalı, kimlik bilgileri ayrı bir özgeçmiş dosyasıyla Google Form'a yüklenmelidir."
   - "Öykü daha önce başka bir yarışmada derece almamış ve yapay zekâ kullanılmadan yazılmış olmalıdır."
+entryFee: "Ücretsiz"
 ---
 
 ## 2. Rotaöykü Yarışması

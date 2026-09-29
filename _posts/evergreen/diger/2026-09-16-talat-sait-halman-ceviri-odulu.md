@@ -3,7 +3,7 @@ layout: post
 title: "Talât Sait Halman Çeviri Ödülü"
 description: "İKSV'nin düzenlediği Talât Sait Halman Çeviri Ödülü'ne özgün dilinden Türkçeye çevrilmiş öykü ve roman çevirileriyle başvurulabilir. Son başvuru: 2 Ekim 2026."
 category: articles
-tags: [her yıl tekrarlanan, ekim 2026, çeviri yarışması, genel]
+tags: [her yıl tekrarlanan, ekim 2026, çeviri yarışması, genel, kitap dosyası]
 lastDate: 1790888400
 dateHuman: "2 Ekim 2026"
 comTopic: "Serbest (özgün dilinden Türkçeye çevrilmiş öykü veya roman)"
@@ -20,6 +20,7 @@ keyPoints:
   - "Yalnızca özgün dilinden Türkçeye çevrilmiş, ISBN almış öykü ve roman çevirileri başvurabilir."
   - "Başvuru formu iksv.org üzerinden alınmalıdır."
   - "Dosyaların 2 Ekim 2026 saat 17.00'ye kadar adrese ulaşmış olması gerekir."
+submissionType: ["yayımlanmış kitap"]
 ---
 
 ## Talât Sait Halman Çeviri Ödülü

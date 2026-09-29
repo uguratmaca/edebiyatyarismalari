@@ -21,6 +21,7 @@ keyPoints:
   - "Dosya adında, eser adında ve içerikte yarışmacının kimliğini belli eden hiçbir ibare olmamalıdır."
   - "Farklı kategorilere başvurmak için her kategoride ayrı üyelik açılmalıdır."
   - "Yapay zekâ kullanımı kabul edilmez, eser yardım alınmadan hazırlanmalıdır."
+entryFee: "Ücretsiz"
 ---
 
 ## Uluslararası Ahilik ve Ahi Evran Yarışması

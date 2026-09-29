@@ -4,7 +4,7 @@ title: "Metin Altıok Şiir Ödülü"
 description: "Kırmızı Kedi Yayınevi'nin her yıl bir önceki yılda yayımlanmış şiir kitaplarına verdiği Metin Altıok Şiir Ödülü'ne son başvuru: 4 Mart 2026."
 date: 2026-02-04
 category: articles
-tags: [her yıl tekrarlanan şiir, mart 2026, şiir yarışması, genel]
+tags: [her yıl tekrarlanan şiir, mart 2026, şiir yarışması, genel, kitap dosyası]
 lastDate: 1772578800
 dateHuman: "4 Mart 2026"
 attendance: "Kargo/Posta"
@@ -13,6 +13,7 @@ requirements: "İsteyen herkes katılabilir."
 permalink: "metin-altiok-siir-odulu"
 image: "https://edebiyatyarismalari.com/images/2026/subat/19-metin-altiok-siir-odulu.webp"
 excerpt: "Kırmızı Kedi Yayınevi'nin her yıl bir önceki yılda yayımlanmış şiir kitaplarına verdiği Metin Altıok Şiir Ödülü'ne son başvuru: 4 Mart 2026."
+submissionType: ["yayımlanmış kitap"]
 ---
 
 ## Metin Altıok Şiir Ödülü

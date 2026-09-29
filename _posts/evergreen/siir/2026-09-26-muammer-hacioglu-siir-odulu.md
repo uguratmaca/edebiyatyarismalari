@@ -20,6 +20,7 @@ keyPoints:
   - "Kitap 2026 yılında yayımlanmış olmalı, kitap ya da dosya daha önce ödül almamış olmalıdır."
   - "Kitap veya dosyadan 5 adet, ad, açık adres ve kısa özgeçmişle birlikte gönderilmelidir."
   - "Zarfın üzerine \"Muammer Hacıoğlu 2026 Şiir Ödülü\" yazılmalıdır."
+submissionType: ["yayımlanmış kitap", "kitap dosyası"]
 ---
 
 ## Muammer Hacıoğlu Şiir Ödülü

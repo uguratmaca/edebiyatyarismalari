@@ -22,6 +22,7 @@ keyPoints:
   - "Daha önce uzun metraj filmi olan yönetmenler başvuramaz."
   - "Filmler Türkçe ve İngilizce altyazılı, en az 1920x1080 çözünürlükte olmalıdır."
   - "Film YouTube'a liste dışı veya Vimeo'ya şifreli olarak yüklenip linki başvuru formuyla gönderilmelidir."
+entryFee: "Ücretsiz"
 ---
 
 ## Sabancı Vakfı Kısa Film Yarışması

@@ -4,7 +4,7 @@ title: "Vedat Türkali Edebiyat Ödülleri"
 description: "Atakum Belediyesi 'Vedat Türkali Edebiyat Ödülleri' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [her yıl tekrarlanan, mayıs 2023, roman yarışması, hikaye yarışması, şiir yarışması, çeviri yarışması, genel]
+tags: [her yıl tekrarlanan, mayıs 2023, roman yarışması, hikaye yarışması, şiir yarışması, çeviri yarışması, genel, kitap dosyası]
 lastDate: 1685480400
 dateHuman: "31 Mayıs 2023"
 attendance: "Elden/Kargo/Posta"
@@ -13,6 +13,7 @@ requirements: "İsteyen herkes katılabilir."
 permalink: "vedat-turkali-edebiyat-odulleri"
 image: "https://edebiyatyarismalari.com/images/2023/nisan/vedat-turkali-edebiyat-odulleri-2023.jpg"
 excerpt:  "Atakum Belediyesi <strong> Vedat Türkali Edebiyat Ödülleri </strong> düzenliyor."
+submissionType: ["yayımlanmış kitap"]
 ---
 
 ## Vedat Türkali Edebiyat Ödülleri

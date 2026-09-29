@@ -23,6 +23,7 @@ keyPoints:
   - "Öykü türünde kitabı yayımlanmış yazarlar başvuramaz (diğer türlerde kitabı olmak engel değildir)."
   - "E-postada iki Word dosyası olmalıdır: kimlik ve iletişim bilgileri bir dosyada, yazar adı içermeyen iki öykü diğerinde; dosyalar \"rumuz-1\" ve \"rumuz-2\" adıyla kaydedilir."
   - "Önceki yıllarda ödül alan veya finale kalan yazarlar başvuramaz."
+authorCondition: "kitabı olmayanlar"
 ---
 
 ## Seyhan Livaneli Öykü Yarışması

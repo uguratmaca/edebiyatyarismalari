@@ -21,6 +21,7 @@ keyPoints:
   - "Kısa film senaryosu dalının başvuruları 27 Eylül 2026'da kapandı, uzun metraj dalı 4 Ekim 2026'ya kadar açık."
   - "Başvuruda geçerli öğrenci belgesi gönderilmelidir."
   - "Senaryo Fade In, Final Draft veya Celtx gibi profesyonel bir senaryo programında yazılmalıdır."
+entryFee: "Ücretsiz"
 ---
 
 ## Luma Kısa Film Festivali Senaryo Yarışması

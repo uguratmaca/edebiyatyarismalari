@@ -17,6 +17,7 @@ excerpt: "Ruhi Türkyılmaz Sanatevi <strong>2027 Ruhi Türkyılmaz Sanatevi Şi
 keyPoints:
   - "Kitap veya dosyanın 5 örneği, başvuru dilekçesi ve kısa özgeçmişle kargoyla gönderilmelidir, internetten gönderilenler değerlendirilmez."
   - "Gönderilen kitap ve dosyalar iade edilmez."
+submissionType: ["yayımlanmış kitap", "kitap dosyası"]
 ---
 
 ## 2027 Ruhi Türkyılmaz Sanatevi Şiir Ödülü

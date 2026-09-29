@@ -20,6 +20,7 @@ keyPoints:
   - "Kitap dalına yalnızca 2026 yılında yayımlanmış kitaplar katılabilir, seçme şiirler kabul edilmez."
   - "Kitap veya dosyadan 5 adet, özgeçmiş ve iletişim bilgilerini içeren dilekçeyle posta veya kargoyla gönderilmelidir."
   - "Dosya dalında rumuz değil gerçek ad ve soyad kullanılmalıdır."
+submissionType: ["yayımlanmış kitap", "kitap dosyası"]
 ---
 
 ## Kemal Özer Şiir Ödülü

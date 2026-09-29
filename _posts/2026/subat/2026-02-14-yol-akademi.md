@@ -20,6 +20,7 @@ typicalAgeRange: "18-"
 keyPoints:
   - "Eser dosyasına ad soyad değil yalnızca rumuz yazılmalı, kişisel bilgiler başvuru formuna eklenmelidir."
   - "Şiir kitapları bu yarışmaya kabul edilmez."
+submissionType: ["kitap dosyası"]
 ---
 
 ## Yol Akademi Aylık Edebiyat Yarışmaları 2025

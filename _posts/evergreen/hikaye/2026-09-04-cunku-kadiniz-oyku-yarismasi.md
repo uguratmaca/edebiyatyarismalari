@@ -23,6 +23,7 @@ keyPoints:
   - "Kimlik bilgileri, kısa biyografi, iletişim bilgisi ve Instagram kullanıcı adı ayrı bir \"Başvuru Yazısı\" Word dosyasında gönderilmelidir."
   - "E-posta konusu \"Yarışma Başvurusu - Katılımcı Adı - Öykü Adı\" biçiminde yazılmalıdır."
   - "Kazananlar jüri yerine herkese açık okur oylamasıyla belirlenir."
+entryFee: "Ücretsiz"
 ---
 
 ## Çünkü Kadınız Kolektifi 2. Öykü Yarışması

@@ -22,6 +22,7 @@ keyPoints:
   - "Online form doldurulduktan sonra formun imzalı çıktısı senaryoyla birlikte e-postayla gönderilmelidir."
   - "Takma adla yapılan başvurular kabul edilmez."
   - "Senaryo tamamlanmış ve henüz filme dönüşmemiş olmalıdır."
+entryFee: "Ücretsiz"
 ---
 
 ## Akbank Kısa Film Festivali Senaryo Yarışması

@@ -18,6 +18,8 @@ keyPoints:
   - "Kitabın ilk basımı Aralık 2025 ile Kasım 2026 arasında yapılmış olmalıdır."
   - "Kitaptan 4 adet posta veya kargoyla gönderilmelidir."
   - "Tezden üretilmiş kitaplar, metin yayınları, çeviriler ve ders kitapları kabul edilmez."
+submissionType: ["yayımlanmış kitap"]
+entryFee: "Ücretsiz"
 ---
 
 ## Söylem Filoloji Ödülü

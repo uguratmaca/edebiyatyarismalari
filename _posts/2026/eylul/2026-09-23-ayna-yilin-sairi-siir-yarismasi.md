@@ -18,6 +18,7 @@ workCount: "Kişi başı 1 şiir"
 keyPoints:
   - "Yapay zekâ ile yazılmış şiirler kabul edilmez."
   - "Katılan tüm şiirler bir derlemede yayımlanacaktır."
+entryFee: "Ücretsiz"
 ---
 
 ## Ayna Yılın Şairi Şiir Yarışması

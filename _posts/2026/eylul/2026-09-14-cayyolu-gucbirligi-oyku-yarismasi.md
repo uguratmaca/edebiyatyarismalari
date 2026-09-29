@@ -22,6 +22,7 @@ resultDate: "En geç 30 Kasım 2026"
 keyPoints:
   - "Öykü daha önce basılı veya dijital hiçbir mecrada (blog ve sosyal medya dahil) yayımlanmamış ve ödül almamış olmalıdır."
   - "Kısa özgeçmiş ve iletişim bilgileri, öykünün yazılı olduğu Word dosyasının sonuna eklenmelidir."
+entryFee: "Ücretsiz"
 ---
 
 ## Çayyolu Güçbirliği Öykü Yarışması

@@ -22,6 +22,7 @@ keyPoints:
   - "E-posta konusu \"Servet Yayınevi Öykü Ödülü - [Rumuz] - [Öykü Adı]\" biçiminde yazılmalıdır."
   - "E-postaya iki Word dosyası eklenmelidir: sağ üst köşesinde rumuz bulunan öykü ve kimlik bilgilerini içeren dosya."
   - "Sosyal medya dahil hiçbir mecrada yayımlanmış veya ödül almış öyküler kabul edilmez."
+entryFee: "Ücretsiz"
 ---
 
 ## 2. Servet Yayınevi Öykü Ödülü Yarışması

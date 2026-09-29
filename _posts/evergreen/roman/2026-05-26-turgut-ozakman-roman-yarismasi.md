@@ -5,7 +5,7 @@ description: "Bilgi Yayınevi'nin her yıl düzenlediği İlk Roman Yarışması
 date: 2026-05-26
 author: "Ümit Atmaca"
 category: articles
-tags: [her yıl tekrarlanan roman, mayıs 2026, roman yarışması, genel]
+tags: [her yıl tekrarlanan roman, mayıs 2026, roman yarışması, genel, kitap dosyası]
 lastDate: 1781470800
 totalPrize: "25 Bin TL'dir"
 dateHuman: "15 Haziran 2026"
@@ -17,6 +17,8 @@ permalink: "turgut-ozakman-roman-yarismasi"
 redirect_from: ["/2026-turgut-ozakman-ilk-roman-yarismasi"]
 image: "https://edebiyatyarismalari.com/images/2026/mayıs/Turgut-ozakaman-yarisma-web.webp"
 excerpt: "Bilgi Yayınevi'nin her yıl düzenlediği İlk Roman Yarışması'nda ödül 25 bin TL. Son başvuru: 15 Haziran 2026."
+submissionType: ["kitap dosyası"]
+authorCondition: "kitabı olmayanlar"
 ---
 
 ## Turgut Özakman İlk Roman Yarışması

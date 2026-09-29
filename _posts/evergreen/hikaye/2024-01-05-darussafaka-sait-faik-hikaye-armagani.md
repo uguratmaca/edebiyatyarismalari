@@ -5,7 +5,7 @@ description: "Darüşşafaka Cemiyeti'nin Türkiye İş Bankası Kültür Yayın
 date: 2026-02-27
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [her yıl tekrarlanan hikaye, şubat 2026, hikaye yarışması, genel, sait faik abasıyanık]
+tags: [her yıl tekrarlanan hikaye, şubat 2026, hikaye yarışması, genel, sait faik abasıyanık, kitap dosyası]
 lastDate: 1772139600
 dateHuman: "27 Şubat 2026"
 attendance: "Elden/Kargo/Posta"
@@ -14,6 +14,7 @@ requirements: "İsteyen herkes katılabilir."
 permalink: "darussafaka-sait-faik-hikaye-armagani"
 image: "https://edebiyatyarismalari.com/images/2024/ocak/sait-faik-70-hikaye-yarismasi.jpg"
 excerpt: "Darüşşafaka Cemiyeti'nin Türkiye İş Bankası Kültür Yayınları iş birliğiyle her yıl düzenlediği <strong>Sait Faik Hikaye Armağanı</strong>'nda bir önceki yıl yayımlanmış hikaye kitapları ödüllendiriliyor."
+submissionType: ["yayımlanmış kitap"]
 ---
 
 ## Sait Faik Hikaye Armağanı

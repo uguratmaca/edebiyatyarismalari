@@ -3,7 +3,7 @@ layout: post
 title: "Muzaffer İzgü Çocuk Romanı Yarışması"
 description: "Bilgi Yayınevi 2025 yılı Muzaffer İzgü Çocuk Romanı Yarışması'nı duyurdu"
 category: articles
-tags: [her yıl tekrarlanan roman, eylül 2025, roman yarışması, muzaffer izgü, genel]
+tags: [her yıl tekrarlanan roman, eylül 2025, roman yarışması, muzaffer izgü, genel, kitap dosyası]
 lastDate: 1759183200
 dateHuman: "​30 Eylül 202​5"
 attendance: "E-Posta"
@@ -14,6 +14,7 @@ requirements: "Yarışmamıza 18 yaş ve üzerindeki herkes davetlidir"
 permalink: "muzaffer-izgu-roman-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/temmuz/muzaffer-izgu-cocuk-romani-yarismasi.webp"
 excerpt: "Bilgi Yayınevi 2025 yılı Muzaffer İzgü Çocuk Romanı Yarışması'nı duyurdu"
+submissionType: ["kitap dosyası"]
 ---
 
 ## Muzaffer İzgü Çocuk Romanı Yarışması

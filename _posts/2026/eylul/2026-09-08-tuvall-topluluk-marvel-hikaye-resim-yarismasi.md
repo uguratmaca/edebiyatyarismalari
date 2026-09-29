@@ -19,6 +19,7 @@ keyPoints:
   - "Eserler PDF olarak hazırlanmalı, son sayfada ad soyad, telefon, e-posta ve doğum tarihi yer almalıdır."
   - "Başvuru için önce Instagram'da @tuvalltopluluk hesabına DM atılmalı, ardından eser e-postayla gönderilmelidir."
   - "Resim dalında eser 4 parçadan oluşur: karakter resmi, simge veya özel eşya, isim tasarımı ve özellik tablosu."
+entryFee: "Ücretsiz"
 ---
 
 ## Tuv'all Topluluk Marvel Temalı Hikaye ve Resim Yarışması

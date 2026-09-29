@@ -3,7 +3,7 @@ layout: post
 title: "Yıldırım Roman Yarışması"
 description: "Yıldırım Belediyesi 170 Bin TL para ödüllü Yıldırım Roman Yarışması'nı duyurdu."
 category: articles
-tags: [nisan 2027, roman yarışması, genel]
+tags: [nisan 2027, roman yarışması, genel, kitap dosyası]
 lastDate: 1809032400
 dateHuman: "30 Nisan 2027"
 attendance: "E-Posta"
@@ -23,6 +23,7 @@ keyPoints:
   - "Eserle birlikte gerçek ad, müstear isim, telefon ve e-posta içeren öz geçmiş Word veya PDF olarak gönderilmelidir."
   - "Eser daha önce hiçbir yerde yayımlanmamış ve hiçbir yarışmaya katılmamış olmalıdır."
   - "Yapay zekâ katkısı tespit edilen eserler elenir."
+submissionType: ["kitap dosyası"]
 ---
 
 ## Yıldırım Roman Yarışması

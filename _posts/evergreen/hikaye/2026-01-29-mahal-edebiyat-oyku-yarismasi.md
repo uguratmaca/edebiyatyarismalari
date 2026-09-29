@@ -3,7 +3,7 @@ layout: post
 title: "Mahal Edebiyat Öykü Yarışması"
 description: "Mahal Edebiyat 3. sünü düzenlediği Mahal Edebiyat Öykü Yarışması'nı duyurdu."
 category: articles
-tags: [her yıl tekrarlanan hikaye, nisan 2026, genel, hikaye yarışması]
+tags: [her yıl tekrarlanan hikaye, nisan 2026, genel, hikaye yarışması, kitap dosyası]
 lastDate: 1774994400
 dateHuman: "1 Nisan 2026"
 comTopic: "Serbest"
@@ -13,6 +13,7 @@ requirements: "18 yaş üzeri yazar ve yazar adaylarına açıktır."
 permalink: "mahal-edebiyat-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/ocak/mahal-edebiyat-2026-oyku-yarismasi.jpg"
 excerpt: "Mahal Edebiyat 3. sünü düzenlediği Mahal Edebiyat Öykü Yarışması'nı duyurdu."
+submissionType: ["kitap dosyası"]
 ---
 
 ## Mahal Edebiyat Öykü Yarışması

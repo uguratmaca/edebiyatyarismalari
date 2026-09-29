@@ -19,6 +19,7 @@ keyPoints:
   - "Başvuranın daha önce en az bir yapımda senarist, yönetmen veya yapımcı olarak görev almış olması gerekir."
   - "Daha önce bir Netflix Türkiye yapımında bu görevlerde bulunanlar başvuramaz."
   - "Proje kurmaca ve Türkçe olmalı, sunum materyalleri Türkçe ve İngilizce hazırlanmalıdır."
+entryFee: "Ücretsiz"
 ---
 
 ## Sıradaki Hikaye: Netflix Proje Sunum Günü

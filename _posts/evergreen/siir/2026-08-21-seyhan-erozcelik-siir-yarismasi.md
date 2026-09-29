@@ -18,6 +18,9 @@ keyPoints:
   - "Yalnızca ilk kitap veya ilk kitap niteliğindeki dosyalar kabul edilir, şiir defteri niteliğindeki eserler değerlendirilmez."
   - "Kitaptan 6 adet veya dosyadan 6 nüsha, özgeçmiş ve iletişim bilgileriyle posta veya kargoyla gönderilmelidir."
   - "Gönderilen kitap ve dosyalar iade edilmez."
+submissionType: ["yayımlanmış kitap", "kitap dosyası"]
+authorCondition: "ilk kitap"
+entryFee: "Ücretsiz"
 ---
 
 ## Seyhan Erözçelik İlk Kitap Şiir Ödülü

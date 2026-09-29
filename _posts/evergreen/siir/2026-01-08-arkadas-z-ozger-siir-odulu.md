@@ -3,7 +3,7 @@ layout: post
 title: "Arkadaş Z. Özger Şiir Ödülü"
 description: "Mayıs Yayınları Arkadaş Z. Özger Şiir Ödülünü duyurdu."
 category: articles
-tags: [her yıl tekrarlanan şiir, mart 2026, şiir yarışması, genel]
+tags: [her yıl tekrarlanan şiir, mart 2026, şiir yarışması, genel, kitap dosyası]
 lastDate: 1773529200
 dateHuman: "15 Mart 2026"
 comTopic: "Serbest"
@@ -13,6 +13,8 @@ requirements: "İsteyen herkes katılabilir"
 permalink: "arkadas-z-ozger-siir-odulu"
 image: "https://edebiyatyarismalari.com/images/2026/ocak/arkadas-zekai-siir-odulu.jpg"
 excerpt: "Mayıs Yayınları Arkadaş Z. Özger Şiir Ödülünü duyurdu."
+submissionType: ["kitap dosyası"]
+authorCondition: "kitabı olmayanlar"
 ---
 
 ## Arkadaş Z. Özger Şiir Ödülü
