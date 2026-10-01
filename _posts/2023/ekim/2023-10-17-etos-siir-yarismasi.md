@@ -11,6 +11,7 @@ comTopic: "Cumhuriyet'in Kazanımları"
 organizer: "Eskişehir Toplum ve Sanat Derneği"
 requirements: "İsteyen herkes katılabilir."
 permalink: "etos-cumhuriyet-siir-yarismasi"
+archived_to: "/etos-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/ekim/etos-yuzuncu-yil-siir-yarismasi.jpg"
 excerpt:  "Eskişehir Toplum ve Sanat Derneği <strong>Cumhuriyet'in Yüzüncü Yılı Şiir Yarışması</strong> düzenliyor."
 ---

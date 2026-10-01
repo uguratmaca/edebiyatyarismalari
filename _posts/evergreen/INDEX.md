@@ -30,6 +30,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Enerji Bakanlığı Öykü Yarışması** — [dosya](2023-10-21-enerji-bakanligi-oyku-yarismasi.md) · `/enerji-bakanligi-oyku-yarismasi`
 - **Erdal Öz Edebiyat Ödülleri** — [dosya](diger/2026-02-17-erdal-oz-edebiyat-odulleri.md) · `/erdal-oz-edebiyat-odulleri`
 - **Enver Gökçe Toplumcu Gerçekçi Şiir Ödülü** — [dosya](siir/2026-02-28-enver-gokce-siir-odulu.md) · `/enver-gokce-siir-odulu`
+- **ETOS Geleneksel Şiir Yarışması (Eskişehir Toplum ve Sanat Derneği)**: [dosya](siir/2026-10-01-etos-siir-yarismasi.md) · `/etos-siir-yarismasi`
 - **Eskişehir Yunus Emre Şiir Yarışması** — [dosya](siir/2025-08-23-yunus-emre-siir-yarismasi.md) · `/yunus-emre-siir-yarismasi`
 - **Everest Yayınları İlk Roman Yarışması** — [dosya](roman/2026-06-17-everest-yayinlari-ilk-roman-yarismasi.md) · `/everest-yayinlari-ilk-roman-yarismasi`
 - **Evrenkent Kalemleri Öykü Yarışması** — [dosya](hikaye/2026-08-02-evrenkent-kalemleri-oyku-yarismasi.md) · `/evrenkent-kalemleri-oyku-yarismasi`

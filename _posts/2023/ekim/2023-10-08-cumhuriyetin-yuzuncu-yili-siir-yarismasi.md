@@ -12,6 +12,7 @@ attendance: "E-Posta"
 organizer: "Eskişehir Toplum Ve Sanat Derneği (ETOS)"
 requirements: "İsteyen herkes katılabilir."
 permalink: "cumhuriyetin-yuzuncu-yili-siir-yarismasi"
+archived_to: "/etos-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/ekim/cumhuriyetin-yuzuncu-yili-siir-yarismasi.jpg"
 excerpt:  "Eskişehir Toplum Ve Sanat Derneği (ETOS) <strong> Cumhuriyet’in Yüzüncü Yılı Şiir Yarışması </strong> düzenliyor."
 ---
