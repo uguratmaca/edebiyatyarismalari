@@ -25,6 +25,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Dedektif Dergi Zehirli Kalem Öykü Yarışması** — [dosya](2026-06-17-dedektif-dergi-zehirli-kalem-oyku-yarismasi.md) · `/dedektif-dergi-zehirli-kalem-oyku-yarismasi`
 - **Dr.Kamil Furtun Öykü Yarışması** — [dosya](2026-01-11-dr-kamil-furtun-oyku-yarismasi.md) · `/dr-kamil-furtun-oyku-yarismasi`
 - **Duygu Asena Roman Ödülü** — [dosya](roman/2026-03-02-duygu-asena-roman-odulu.md) · `/duygu-asena-roman-odulu`
+- **EÇEV ÇOGED Gençler Öykü ve Şiir Yazma Yarışması (İzmir)**: [dosya](diger/2026-10-05-ecev-coged-oyku-siir-yarismasi.md) · `/ecev-coged-oyku-siir-yarismasi`
 - **Edebiyat Uyarlaması Uzun Metraj Senaryo Yarışması (Altın Koza)**: [dosya](senaryo/2026-08-01-adana-altin-koza-senaryo-yarismasi.md) · `/adana-altin-koza-senaryo-yarismasi`
 - **Emine Işınsu Roman Ödülü** — [dosya](roman/2026-07-11-emine-isinsu-roman-odulu.md) · `/emine-isinsu-roman-odulu`
 - **Enerji Bakanlığı Öykü Yarışması** — [dosya](2023-10-21-enerji-bakanligi-oyku-yarismasi.md) · `/enerji-bakanligi-oyku-yarismasi`
@@ -50,9 +51,11 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Kabataş Erkek Lisesi Ömer Seyfettin Öykü Yarışması** — [dosya](2024-12-18-kabatas-omer-seyfettin-oyku-yarismasi.md) · `/kabatas-omer-seyfettin-oyku-yarismasi`
 - **Kadın Kadına Öykü Yarışması** — [dosya](hikaye/2026-08-01-kadin-kadina-oyku-yarismasi.md) · `/kadin-kadina-oyku-yarismasi`
 - **Kardelen Sanat Derneği Şiir Yarışması** — [dosya](siir/2026-08-11-kardelen-sanat-dernegi-siir-yarismasi.md) · `/kardelen-sanat-dernegi-siir-yarismasi`
+- **Kaygusuz Abdal Öykü ve Şiir Yarışması (Güncel Sanat Dergisi)**: [dosya](diger/2026-10-05-kaygusuz-abdal-oyku-siir-yarismasi.md) · `/kaygusuz-abdal-oyku-siir-yarismasi`
 - **KeKeMe Yayınları Öykü Ödülü** — [dosya](2025-06-23-kkm-yayinlari-oyku-odulu.md) · `/kkm-yayinlari-oyku-odulu`
 - **Kemal Özer Şiir Ödülü** — [dosya](siir/2026-07-27-kemal-ozer-siir-odulu.md) · `/kemal-ozer-siir-odulu`
 - **Kitapyurdu Türkiye Okur Ödülleri** — [dosya](2025-02-12-kitapyurdu-turkiye-okur-odulleri.md) · `/kitapyurdu-turkiye-okur-odulleri`
+- **Kocaeli Yüksek Öğrenim Vakfı (KYÖV) Çocuk Edebiyatı Ödülleri**: [dosya](diger/2026-10-05-kyov-cocuk-edebiyati-odulleri.md) · `/kyov-cocuk-edebiyati-odulleri`
 - **Luma Kısa Film Festivali Senaryo Yarışması**: [dosya](senaryo/2026-09-15-luma-kisa-film-festivali-senaryo-yarismasi.md) · `/luma-kisa-film-festivali-senaryo-yarismasi`
 - **Luma Kısa Film Yarışması** (hidden): [dosya](kisa-film/2026-09-15-luma-kisa-film-yarismasi.md) · `/luma-kisa-film-yarismasi`
 - **Mahal Edebiyat Öykü Yarışması** — [dosya](2026-01-29-mahal-edebiyat-oyku-yarismasi.md) · `/mahal-edebiyat-oyku-yarismasi`

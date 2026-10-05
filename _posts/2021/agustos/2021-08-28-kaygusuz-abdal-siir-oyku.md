@@ -11,6 +11,7 @@ comTopic: "Serbest"
 attendance: "E-Posta"
 requirements: "İsteyen herkes katılabilir"
 permalink: "12-kaygusuz-abdal-siir-oyku-yarisma"
+archived_to: "/kaygusuz-abdal-oyku-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/agustos/kaygusuz-abdal-siir-oyku-yarismasi.jpg"
 excerpt: "Alanya Güncel Sanat Dergisi 12. Kaygusuz Abdal Öykü ve Şiir Yarışması düzenliyor."
 ---

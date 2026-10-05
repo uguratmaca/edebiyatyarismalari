@@ -10,6 +10,7 @@ attendance: "E-Posta"
 comTopic: "Serbest"
 requirements: "İsteyen herkes katılabilir"
 permalink: "guncel-sanat-oyku-siir-yarismasi"
+archived_to: "/kaygusuz-abdal-oyku-siir-yarismasi"
 excerpt: "Güncel Sanat Dergisi Öykü ve Kaygusuz Abdal Şiir yarışması düzenliyor."
 ---
 

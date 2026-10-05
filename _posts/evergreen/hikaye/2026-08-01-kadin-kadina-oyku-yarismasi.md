@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Kadın Kadına Öykü Yarışması"
-description: "Kaos GL'nin her yıl düzenlediği Kadın Kadına Öykü Yarışması'na başvurular sürüyor, bu yılın teması 'Sahip Çık'"
+description: "Kaos GL'nin her yıl düzenlediği Kadın Kadına Öykü Yarışması'na başvurular sürüyor, bu yılın teması 'Sahip Çık'. Son başvuru 15 Ekim 2026'ya uzatıldı."
 date: 2026-08-01
 category: articles
-tags: [her yıl tekrarlanan hikaye, eylül 2026, hikaye yarışması, kadın]
-lastDate: 1788210000
-dateHuman: "1 Eylül 2026"
+tags: [her yıl tekrarlanan hikaye, ekim 2026, hikaye yarışması, kadın]
+lastDate: 1792011600
+dateHuman: "15 Ekim 2026"
 comTopic: "Sahip Çık"
 totalPrize: "10.500 TL'dir"
 attendance: "E-Posta, Posta"
@@ -28,7 +28,7 @@ Katılım Koşulları:
 - Metinler Times New Roman karakterinde, 12 punto ile yazılmalı ve en fazla 4 sayfa olmalıdır.
 - Adaylar yarışmaya en fazla bir öykü ile katılabilir.
 - Başvuru, imzalı özgeçmiş ve KVKK Onam Formu ile birlikte **kadin@kaosgl.org** adresine e-posta yoluyla ya da posta yoluyla yapılabilir.
-- Son başvuru tarihi 1 Eylül 2026'dır.
+- Son başvuru tarihi 1 Eylül 2026 iken **15 Ekim 2026**'ya uzatılmıştır.
 - Yarışmaya katılım ücretsizdir.
 
 ## Kadın Kadına Öykü Yarışması Ödülleri

@@ -5,6 +5,7 @@ description: "EÇEV 5. İzmir Çocuk ve Gençlik Edebiyatı Günleri Gençler Ö
 category: articles
 tags: []
 comments: true
+archived_to: "/ecev-coged-oyku-siir-yarismasi"
 ---
 
 Son Başvuru Tarihi: 21 Aralık 2018. Ödül töreni: 13 Ocak 2019

@@ -5,6 +5,7 @@ description: "öykü yarışması, hikaye yarışması, para ödüllü yarışma
 category: articles
 tags: [aralık 2019, genel, hikaye yarışması, roman yarışması, şiir yarışması]
 comments: true
+archived_to: "/kyov-cocuk-edebiyati-odulleri"
 lastDate: 1572901200
 dateHuman: "5 Kasım 2019"
 comTopic: "Serbest"

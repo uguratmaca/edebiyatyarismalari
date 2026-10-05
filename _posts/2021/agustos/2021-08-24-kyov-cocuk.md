@@ -12,6 +12,7 @@ attendance: "Elden, Kargo"
 totalPrize: "4 Bin TL'dir"
 requirements: "İsteyen herkes katılabilir"
 permalink: "cocuk-edebiyati-oyku-roman-yarismasi"
+archived_to: "/kyov-cocuk-edebiyati-odulleri"
 excerpt: "Kocaeli Yüksek Öğrenim Vakfı Öykü ve Roman Dalında Çocuk Edebiyatı Ödülleri yarışması düzenliyor"
 ---
 

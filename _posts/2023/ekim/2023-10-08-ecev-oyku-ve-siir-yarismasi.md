@@ -12,6 +12,7 @@ attendance: "Çevrimiçi/Online/Websitesi"
 organizer: "Ege Çağdaş Eğitim Vakfı (EÇEV)"
 requirements: "İzmir il sınırları içinde yer alan resmi-özel ortaokul ve liselerin öğrencileri katılabilir."
 permalink: "ecev-oyku-ve-siir-yarismasi"
+archived_to: "/ecev-coged-oyku-siir-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/ekim/ecev-oyku-ve-siir-yarismasi.jpg"
 excerpt:  "Ege Çağdaş Eğitim Vakfı (EÇEV) <strong> Gençler Öykü ve Şiir Yazma Yarışması </strong> düzenliyor."
 ---
