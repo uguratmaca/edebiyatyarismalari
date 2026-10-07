@@ -1,0 +1,26 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  {% comment %}Google News sitemap: yalnızca son 2 günde yayımlanan duyurular (Google kuralı). Liste build anına göre hesaplanır.{% endcomment %}
+  {% assign now_epoch = site.time | date: "%s" | plus: 0 %}
+  {% assign window_start = now_epoch | minus: 172800 %}
+  {% for post in site.posts %}
+    {% assign post_epoch = post.date | date: "%s" | plus: 0 %}
+    {% if post_epoch < window_start %}{% break %}{% endif %}
+    {% if post_epoch > now_epoch or post.hidden == true or post.noindex or post.archived_to or post.sitemap == false %}{% continue %}{% endif %}
+    <url>
+      <loc>{{ post.url | absolute_url | xml_escape }}</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Edebiyat Yarışmaları</news:name>
+          <news:language>tr</news:language>
+        </news:publication>
+        <news:publication_date>{{ post.date | date_to_xmlschema }}</news:publication_date>
+        <news:title>{{ post.title | xml_escape }}</news:title>
+      </news:news>
+    </url>
+  {% endfor %}
+</urlset>
