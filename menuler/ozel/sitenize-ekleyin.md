@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Sitenize Güncel Edebiyat Yarışmalarını Ekleyin | Ücretsiz Widget"
-description: "Blogger, Wix, Squarespace veya herhangi bir web sitesine tek satır kodla güncel edebiyat yarışmalarını otomatik listeleyen ücretsiz widget. Kayıt, API anahtarı gerekmez."
+title: "Sitenize Güncel Edebiyat Yarışmalarını Ekleyin | Ücretsiz Widget ve WordPress Eklentisi"
+description: "Blogger, Wix, Squarespace veya herhangi bir web sitesine tek satır kodla, WordPress sitelerine ücretsiz eklentiyle güncel edebiyat yarışmalarını otomatik listeleyin. Türe, kitleye ve ücretsiz katılıma göre filtrelenebilir."
 permalink: "sitenize-ekleyin/"
 ---
 
@@ -100,7 +100,7 @@ permalink: "sitenize-ekleyin/"
   </section>
 
   <h2>WordPress Kullanıyorsanız</h2>
-  <p>WordPress siteniz varsa, bu genel script yerine resmi <a href="https://wordpress.com/tr/plugins/edebiyat-yarismalari-widget" target="_blank" rel="nofollow noopener">Edebiyat Yarışmaları Widget eklentisini</a> kurmanızı öneririz. Aynı listeyi <code>[edyw_widget]</code> kısa kodu ile, WordPress panelinden yönetilebilir şekilde gösterir.</p>
+  <p>WordPress siteniz varsa, bu genel script yerine resmi <a href="https://wordpress.org/plugins/edebiyat-yarismalari-widget/" target="_blank" rel="noopener">Edebiyat Yarışmaları Widget eklentisini</a> kurmanızı öneririz. Aynı listeyi <code>[edyw_widget]</code> kısa kodu ile, WordPress panelinden yönetilebilir şekilde gösterir.</p>
 
   <p>Kısa kod, yukarıdaki parametrelerin hepsini <code>data-</code> öneki olmadan kabul eder (<code>count</code>, <code>tip</code>, <code>baslik</code>, <code>ucretsiz</code>, <code>bicim</code>, <code>kitapsiz</code>, <code>rozet</code>). <code>ucretsiz</code>, <code>bicim</code>, <code>kitapsiz</code>, <code>rozet</code> ve virgülle birden fazla <code>tip</code> eklentinin 1.1.0 sürümüyle geldi; eski sürümü kullanıyorsanız eklentiyi güncelleyin.</p>
 
@@ -127,6 +127,9 @@ permalink: "sitenize-ekleyin/"
 
   <h3>Hangi sitelerde çalışır?</h3>
   <p>Bir <code>&lt;script&gt;</code> etiketi kabul eden her platformda çalışır: Blogger, Wix, Squarespace, WordPress (özel HTML bloğu) ve düz HTML siteler dahil. WordPress kullanıcıları için ayrıca yukarıda bahsedilen özel bir eklenti de mevcut.</p>
+
+  <h3>Sadece belirli yarışmaları gösterebilir miyim?</h3>
+  <p>Evet. Türe (şiir, öykü, roman vb.), kitleye (ilkokul, ortaokul, lise, üniversite), katılımı ücretsiz olmaya, gönderim biçimine (tek eser, kitap dosyası, yayımlanmış kitap) ve daha önce kitabı yayımlanmamış yazarlara açık olmaya göre filtreleyebilirsiniz. Parametreler ve örnekler yukarıda; aynı filtreler WordPress eklentisinde de var.</p>
 
   <h3>Veriler ne sıklıkla güncelleniyor?</h3>
   <p>Widget, sayfanız her yüklendiğinde edebiyatyarismalari.com'daki güncel listeyi anlık olarak çeker; kaynak veri en fazla birkaç dakikada bir tazelenir.</p>
@@ -161,6 +164,14 @@ permalink: "sitenize-ekleyin/"
     },
     {
       "@type": "Question",
+      "name": "Sadece belirli yarışmaları gösterebilir miyim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet. Türe (şiir, öykü, roman vb.), kitleye (ilkokul, ortaokul, lise, üniversite), katılımı ücretsiz olmaya, gönderim biçimine (tek eser, kitap dosyası, yayımlanmış kitap) ve daha önce kitabı yayımlanmamış yazarlara açık olmaya göre filtreleyebilirsiniz. Aynı filtreler WordPress eklentisinde de var."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Veriler ne sıklıkla güncelleniyor?",
       "acceptedAnswer": {
         "@type": "Answer",
@@ -185,4 +196,37 @@ permalink: "sitenize-ekleyin/"
     }
   ]
 }
+</script>
+
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Edebiyat Yarışmaları Widget",
+    "description": "edebiyatyarismalari.com'daki güncel edebiyat yarışması duyurularını tek satır JavaScript koduyla herhangi bir web sitesinde listeleyen, türe, kitleye, ücretsiz katılıma ve gönderim biçimine göre filtrelenebilen ücretsiz widget.",
+    "url": "https://edebiyatyarismalari.com/sitenize-ekleyin/",
+    "applicationCategory": "WebApplication",
+    "operatingSystem": "Web",
+    "inLanguage": "tr",
+    "isAccessibleForFree": true,
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "TRY" },
+    "publisher": { "@type": "Organization", "name": "Edebiyat Yarışmaları", "url": "https://edebiyatyarismalari.com" }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Edebiyat Yarışmaları Widget (WordPress eklentisi)",
+    "description": "Güncel edebiyat yarışması duyurularını WordPress sitelerinde [edyw_widget] kısa koduyla listeleyen ücretsiz eklenti.",
+    "url": "https://wordpress.org/plugins/edebiyat-yarismalari-widget/",
+    "downloadUrl": "https://downloads.wordpress.org/plugin/edebiyat-yarismalari-widget.zip",
+    "softwareVersion": "1.1.0",
+    "applicationCategory": "WebApplication",
+    "operatingSystem": "WordPress",
+    "inLanguage": "tr",
+    "isAccessibleForFree": true,
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "TRY" },
+    "publisher": { "@type": "Organization", "name": "Edebiyat Yarışmaları", "url": "https://edebiyatyarismalari.com" }
+  }
+]
 </script>

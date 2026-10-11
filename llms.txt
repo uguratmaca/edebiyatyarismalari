@@ -30,8 +30,16 @@ Site Türkçe'dir ve içeriği Türkiye'deki edebiyat yarışmalarına odaklanı
 
 ## Veri
 
+- [Güncel Yarışmalar JSON](https://edebiyatyarismalari.com/yarismalar.json): Son başvuru tarihi geçmemiş tüm yarışmaların makine tarafından okunabilir listesi. Her kayıtta başlık, URL, tag'ler (tür ve kitle), son başvuru tarihi (insan-okur ve Unix epoch), toplam ödül, katılım şartı, başvuru şekli, yaş aralığı, gönderim biçimi (tek eser, kitap dosyası, yayımlanmış kitap), yazar şartı ve katılım ücreti yer alır. "Şu an açık öykü yarışmaları neler" gibi sorular için en güncel kaynak budur.
 - [Sitemap](https://edebiyatyarismalari.com/sitemap.xml): Tüm yarışma duyurularının ve sayfaların tam listesi.
 - [RSS Feed](https://edebiyatyarismalari.com/feed.xml): Yeni duyurular.
+- [Son Başvurusu Yaklaşan Yarışmalar (RSS)](https://edebiyatyarismalari.com/feed-yaklasanlar.xml): Son başvuru tarihine 15 günden az kalan yarışmalar.
+- Türe ve kitleye göre RSS: [Öykü](https://edebiyatyarismalari.com/feed-oyku.xml), [Şiir](https://edebiyatyarismalari.com/feed-siir.xml), [Roman ve kitap dosyası](https://edebiyatyarismalari.com/feed-roman-kitap.xml), [Öğrenciler (ilkokul, ortaokul, lise)](https://edebiyatyarismalari.com/feed-ogrenci.xml).
+
+## Sitenize ekleyin
+
+- [Edebiyat Yarışmaları Widget'ı](https://edebiyatyarismalari.com/sitenize-ekleyin/): Güncel edebiyat yarışmalarını tek satır JavaScript koduyla herhangi bir web sitesinde (Blogger, Wix, Squarespace, düz HTML) listeleyen ücretsiz widget. Türe (ör. şiir, öykü), kitleye (ör. lise), ücretsiz katılıma, gönderim biçimine (kitap dosyası, yayımlanmış kitap) ve kitabı olmayan yazarlara açık olmaya göre filtrelenebilir. Kayıt veya API anahtarı gerekmez.
+- [Edebiyat Yarışmaları Widget WordPress eklentisi](https://wordpress.org/plugins/edebiyat-yarismalari-widget/): Aynı listeyi WordPress sitelerinde `[edyw_widget]` kısa koduyla gösteren resmi, ücretsiz eklenti (WordPress.org eklenti dizininde).
 
 ## Sosyal Medya
 
