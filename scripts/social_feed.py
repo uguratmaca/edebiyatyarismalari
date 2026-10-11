@@ -160,9 +160,9 @@ def build(posts: list[dict], site: Path, now: dt.datetime) -> list[dict]:
         reminder_at = at_istanbul(post["deadline"].date() - dt.timedelta(days=REMINDER_DAYS), POST_HOUR)
         is_new = today - post["added"] <= dt.timedelta(days=NEW_DAYS)
         # The reminder is listed from shortly before its time (the poster waits
-        # for publish_at) until the poster would drop it as stale anyway. A
-        # contest added just before its reminder gets only the "new" post.
-        wants_reminder = (now - dt.timedelta(days=3) < reminder_at <= now + dt.timedelta(days=2)
+        # for publish_at) until a day after: later, "one week left" isn't true.
+        # A contest added just before its reminder gets only the "new" post.
+        wants_reminder = (now - dt.timedelta(days=1) < reminder_at <= now + dt.timedelta(days=2)
                           and reminder_at - added_at > dt.timedelta(days=3))
         if not is_new and not wants_reminder:
             continue
