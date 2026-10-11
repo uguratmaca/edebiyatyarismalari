@@ -4,7 +4,7 @@ Tags: literature, competitions, widget, writing, contest
 Requires at least: 5.8
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.0.1
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,6 +30,26 @@ With a heading:
 
 `[edyw_widget baslik="Current Literary Competitions"]`
 
+Several categories at once (comma-separated, any match is shown):
+
+`[edyw_widget tip="şiir yarışması,hikaye yarışması"]`
+
+Only competitions that are explicitly free to enter:
+
+`[edyw_widget ucretsiz="1"]`
+
+Filter by what is submitted (`tek eser` = single work, `kitap dosyası` = unpublished book manuscript, `yayımlanmış kitap` = published book):
+
+`[edyw_widget bicim="kitap dosyası"]`
+
+Only competitions open to authors who have not published a book yet:
+
+`[edyw_widget kitapsiz="1"]`
+
+Show small badges (free entry, book manuscript, etc.) under each competition:
+
+`[edyw_widget rozet="1"]`
+
 == Frequently Asked Questions ==
 
 = How often is the data updated? =
@@ -49,6 +69,12 @@ It sends a plain server-side HTTP GET request to `https://edebiyatyarismalari.co
 This service is provided by edebiyatyarismalari.com: [Privacy Policy](https://edebiyatyarismalari.com/gizlilik/). The site does not publish a separate terms-of-use page; the JSON feed is offered as public data for reuse.
 
 == Changelog ==
+
+= 1.1.0 =
+* New optional filters: `ucretsiz="1"` (free to enter), `bicim` (submission type), `kitapsiz="1"` (authors without a published book).
+* `tip` now accepts several comma-separated categories.
+* New optional `rozet="1"` attribute shows small badges under each competition.
+* Default output (without the new attributes) is unchanged.
 
 = 1.0.1 =
 * Prefixed all functions, classes, hooks, options and the shortcode tag with `edyw_`/`EDYW_` to avoid namespace collisions (shortcode is now `[edyw_widget]`).

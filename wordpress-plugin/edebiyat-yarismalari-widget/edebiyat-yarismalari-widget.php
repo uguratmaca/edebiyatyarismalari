@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Edebiyat Yarışmaları Widget
  * Description:        edebiyatyarismalari.com'daki güncel edebiyat yarışması duyurularını [edyw_widget] shortcode'u ile sitenizde listeler.
- * Version:            1.0.1
+ * Version:            1.1.0
  * Requires at least:  5.8
  * Requires PHP:       7.4
  * Author:             edebiyatyarismalari.com
@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Doğrudan erişim engellendi.
 }
 
-define( 'EDYW_VERSION', '1.0.1' );
+define( 'EDYW_VERSION', '1.1.0' );
 define( 'EDYW_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'EDYW_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 define( 'EDYW_FEED_URL', 'https://edebiyatyarismalari.com/yarismalar.json' );

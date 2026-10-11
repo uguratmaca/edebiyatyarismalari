@@ -26,9 +26,13 @@ class EDYW_Shortcode {
 	public static function render( $atts ) {
 		$atts = shortcode_atts(
 			array(
-				'count'  => 5,
-				'tip'    => '',
-				'baslik' => '',
+				'count'    => 5,
+				'tip'      => '',
+				'baslik'   => '',
+				'ucretsiz' => '',
+				'bicim'    => '',
+				'kitapsiz' => '',
+				'rozet'    => '',
 			),
 			$atts,
 			'edyw_widget'
@@ -39,6 +43,20 @@ class EDYW_Shortcode {
 		if ( '' !== $atts['tip'] ) {
 			$items = EDYW_Data_Source::filter_by_tag( $items, $atts['tip'] );
 		}
+
+		if ( '1' === (string) $atts['ucretsiz'] ) {
+			$items = EDYW_Data_Source::filter_free( $items );
+		}
+
+		if ( '' !== $atts['bicim'] ) {
+			$items = EDYW_Data_Source::filter_by_submission_type( $items, $atts['bicim'] );
+		}
+
+		if ( '1' === (string) $atts['kitapsiz'] ) {
+			$items = EDYW_Data_Source::filter_no_book( $items );
+		}
+
+		$show_badges = '1' === (string) $atts['rozet'];
 
 		$count = max( 1, (int) $atts['count'] );
 		$items = array_slice( $items, 0, $count );
@@ -87,6 +105,14 @@ class EDYW_Shortcode {
 									)
 								);
 								?>
+							</span>
+						<?php endif; ?>
+						<?php $badges = $show_badges ? EDYW_Data_Source::badges( $item ) : array(); ?>
+						<?php if ( ! empty( $badges ) ) : ?>
+							<span class="edyw-widget__badges">
+								<?php foreach ( $badges as $badge ) : ?>
+									<span class="edyw-widget__badge"><?php echo esc_html( $badge ); ?></span>
+								<?php endforeach; ?>
 							</span>
 						<?php endif; ?>
 					</li>

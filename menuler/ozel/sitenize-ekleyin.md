@@ -24,6 +24,10 @@ permalink: "sitenize-ekleyin/"
 
   <p>Script, bulunduğu yere kendi listesini basar; ayrıca bir <code>&lt;div&gt;</code> ya da CSS dosyası eklemenize gerek yoktur.</p>
 
+  <p>Örneğin yalnızca katılımı ücretsiz kitap dosyası yarışmalarını etiketleriyle listelemek için:</p>
+
+  <pre><code class="language-html">&lt;script src="https://edebiyatyarismalari.com/js/embed-widget.js" data-count="5" data-bicim="kitap dosyası" data-ucretsiz="1" data-rozet="1" async&gt;&lt;/script&gt;</code></pre>
+
   <h2>Parametreler</h2>
   <table class="table">
     <thead>
@@ -41,8 +45,28 @@ permalink: "sitenize-ekleyin/"
       </tr>
       <tr>
         <td><code>data-tip</code></td>
-        <td>Sadece belirli bir kategoriyi göster</td>
-        <td><code>data-tip="hikaye yarışması"</code></td>
+        <td>Sadece belirli bir kategoriyi göster. Birden fazla kategori virgülle ayrılarak yazılabilir.</td>
+        <td><code>data-tip="hikaye yarışması"</code><br><code>data-tip="şiir yarışması,hikaye yarışması"</code></td>
+      </tr>
+      <tr>
+        <td><code>data-ucretsiz</code></td>
+        <td>Sadece şartnamesinde katılımın ücretsiz olduğu açıkça yazan yarışmaları göster</td>
+        <td><code>data-ucretsiz="1"</code></td>
+      </tr>
+      <tr>
+        <td><code>data-bicim</code></td>
+        <td>Gönderilecek esere göre süz: <code>tek eser</code>, <code>kitap dosyası</code> (yayımlanmamış kitap bütünlüğünde dosya) veya <code>yayımlanmış kitap</code>. Virgülle birden fazlası yazılabilir.</td>
+        <td><code>data-bicim="kitap dosyası"</code></td>
+      </tr>
+      <tr>
+        <td><code>data-kitapsiz</code></td>
+        <td>Sadece daha önce kitabı yayımlanmamış yazarlara açık yarışmaları göster</td>
+        <td><code>data-kitapsiz="1"</code></td>
+      </tr>
+      <tr>
+        <td><code>data-rozet</code></td>
+        <td>Her yarışmanın altında "Ücretsiz", "Kitap dosyası" gibi küçük etiketler göster</td>
+        <td><code>data-rozet="1"</code></td>
       </tr>
       <tr>
         <td><code>data-baslik</code></td>

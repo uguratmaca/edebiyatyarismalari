@@ -69,28 +69,28 @@ class EDYW_Data_Source {
 	}
 
 	/**
-	 * Verilen tag'e (tip) göre süzer. Karşılaştırma büyük/küçük harf ve Türkçe karakter duyarsızdır.
+	 * Verilen tag'e (tip) göre süzer. Virgülle ayrılmış birden fazla tag verilebilir, herhangi
+	 * biri eşleşen yarışma gösterilir. Karşılaştırma büyük/küçük harf duyarsızdır.
 	 *
 	 * @param array  $items Yarışma listesi.
-	 * @param string $tag   Aranacak tag, örn. "hikaye yarışması".
+	 * @param string $tag   Aranacak tag(ler), örn. "hikaye yarışması" veya "şiir yarışması,hikaye yarışması".
 	 * @return array
 	 */
 	public static function filter_by_tag( array $items, $tag ) {
-		if ( '' === trim( (string) $tag ) ) {
+		$needles = self::split_list( $tag );
+		if ( empty( $needles ) ) {
 			return $items;
 		}
-
-		$needle = mb_strtolower( trim( $tag ), 'UTF-8' );
 
 		return array_values(
 			array_filter(
 				$items,
-				function ( $item ) use ( $needle ) {
+				function ( $item ) use ( $needles ) {
 					if ( empty( $item['tags'] ) || ! is_array( $item['tags'] ) ) {
 						return false;
 					}
 					foreach ( $item['tags'] as $item_tag ) {
-						if ( mb_strtolower( (string) $item_tag, 'UTF-8' ) === $needle ) {
+						if ( in_array( self::lower( $item_tag ), $needles, true ) ) {
 							return true;
 						}
 					}
@@ -98,5 +98,129 @@ class EDYW_Data_Source {
 				}
 			)
 		);
+	}
+
+	/**
+	 * Sadece şartnamesinde açıkça "Ücretsiz" yazan yarışmaları bırakır (entryFee boşsa elenir).
+	 *
+	 * @param array $items Yarışma listesi.
+	 * @return array
+	 */
+	public static function filter_free( array $items ) {
+		return array_values(
+			array_filter(
+				$items,
+				function ( $item ) {
+					return 'ücretsiz' === self::lower( $item['entryFee'] ?? '' );
+				}
+			)
+		);
+	}
+
+	/**
+	 * Gönderim biçimine (submissionType) göre süzer: "tek eser", "kitap dosyası", "yayımlanmış kitap".
+	 * Virgülle birden fazla değer verilebilir. submissionType yoksa yarışma "tek eser" sayılır.
+	 *
+	 * @param array  $items Yarışma listesi.
+	 * @param string $bicim Aranacak biçim(ler).
+	 * @return array
+	 */
+	public static function filter_by_submission_type( array $items, $bicim ) {
+		$needles = self::split_list( $bicim );
+		if ( empty( $needles ) ) {
+			return $items;
+		}
+
+		return array_values(
+			array_filter(
+				$items,
+				function ( $item ) use ( $needles ) {
+					foreach ( self::submission_types( $item ) as $type ) {
+						if ( in_array( self::lower( $type ), $needles, true ) ) {
+							return true;
+						}
+					}
+					return false;
+				}
+			)
+		);
+	}
+
+	/**
+	 * Daha önce kitabı yayımlanmamış yazarlara açık yarışmaları bırakır.
+	 *
+	 * @param array $items Yarışma listesi.
+	 * @return array
+	 */
+	public static function filter_no_book( array $items ) {
+		return array_values(
+			array_filter(
+				$items,
+				function ( $item ) {
+					return 'kitabı olmayanlar' === self::lower( $item['authorCondition'] ?? '' );
+				}
+			)
+		);
+	}
+
+	/**
+	 * Yarışma satırında gösterilecek rozet etiketlerini döndürür.
+	 *
+	 * @param array $item Yarışma.
+	 * @return string[]
+	 */
+	public static function badges( array $item ) {
+		$labels = array();
+		$types  = array_map( array( __CLASS__, 'lower' ), self::submission_types( $item ) );
+		$author = self::lower( $item['authorCondition'] ?? '' );
+
+		if ( 'ücretsiz' === self::lower( $item['entryFee'] ?? '' ) ) {
+			$labels[] = 'Ücretsiz';
+		}
+		if ( in_array( 'kitap dosyası', $types, true ) ) {
+			$labels[] = 'Kitap dosyası';
+		}
+		if ( in_array( 'yayımlanmış kitap', $types, true ) ) {
+			$labels[] = 'Yayımlanmış kitap';
+		}
+		if ( 'kitabı olmayanlar' === $author ) {
+			$labels[] = 'Kitabı olmayanlara';
+		}
+		if ( 'ilk kitap' === $author ) {
+			$labels[] = 'İlk kitap';
+		}
+
+		return $labels;
+	}
+
+	/**
+	 * Yarışmanın gönderim biçimlerini döndürür; alan yoksa "tek eser" sayılır.
+	 *
+	 * @param array $item Yarışma.
+	 * @return array
+	 */
+	private static function submission_types( array $item ) {
+		if ( ! empty( $item['submissionType'] ) && is_array( $item['submissionType'] ) ) {
+			return $item['submissionType'];
+		}
+		return array( 'tek eser' );
+	}
+
+	/**
+	 * Virgülle ayrılmış metni küçük harfli, boşlukları temizlenmiş bir listeye çevirir.
+	 *
+	 * @param string $str Virgülle ayrılmış liste.
+	 * @return string[]
+	 */
+	private static function split_list( $str ) {
+		return array_values( array_filter( array_map( array( __CLASS__, 'lower' ), explode( ',', (string) $str ) ) ) );
+	}
+
+	/**
+	 * @param mixed $str Metin.
+	 * @return string
+	 */
+	private static function lower( $str ) {
+		return mb_strtolower( trim( (string) $str ), 'UTF-8' );
 	}
 }

@@ -41,11 +41,12 @@ Katılım Koşulları:
 - İkinci: Tablet
 - Üçüncü: Tablet
 
-Sonuçlar Şubat 2026'da açıklanmıştır.
+2025-2026 döneminin sonuçları Şubat 2026'da açıklandı, dereceye giren okullar için: [Enerji Bakanlığı Öykü Yarışması (2025-2026)](/enerji-bakanligi-oyku-yarismasi-2025).
 
 ### Geçmiş Yıllar
 
 Enerji Bakanlığı Öykü Yarışması'nın önceki dönemlerine aşağıdan ulaşabilirsiniz:
 
+- [2025-2026](/enerji-bakanligi-oyku-yarismasi-2025)
 - [2023](/enerji-bakanligi-oyku-yarismasi-2023)
 - [2022](/enerji-bakanligi-oyku-yarismasi-2022)
