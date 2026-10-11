@@ -11,6 +11,12 @@ on:
   push:
     branches: ["master"]
 
+  # Daily rebuild (06:17 Istanbul): pages that depend on the date
+  # (yarismalar.json, social.json reminders and the Monday list) stay current
+  # on days nothing is pushed. Off the hour: GitHub delays top-of-hour runs.
+  schedule:
+    - cron: "17 3 * * *"
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -49,6 +55,17 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      - name: Setup Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: "3.11"
+      - name: Social media feed
+        # _site/social.json and the contests' JPEG images (scripts/social_feed.py).
+        # A failure here must not stop the site from deploying.
+        continue-on-error: true
+        run: |
+          pip install pillow==12.3.0 PyYAML==6.0.3
+          python scripts/social_feed.py --site _site
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3

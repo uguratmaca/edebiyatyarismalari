@@ -15,6 +15,10 @@ işleme (resize/watermark) için `.claude/notes-post-schema.md`'ye bak.
 - **Repo public.** Commit edilen dosyalara (CLAUDE.md, README, `.claude/notes-post-schema.md`, kod yorumları, postlar) iç strateji, rakip analizi, gelir/abone gibi dışarıya açık olmaması gereken bilgi yazılmaz. Bu tür notlar git'e girmeyen `.claude/notes-*.md` dosyalarına (bkz. `.gitignore`) yazılır. Commit öncesi yeni/değişen dosyalar bu gözle kontrol edilir.
 - **Metinlerde em dash (—) kullanma** (post, sayfa, front matter, kod yorumu). Nokta, virgül, parantez veya iki nokta kullan.
 
+## Sosyal medya feed'i
+
+`scripts/social_feed.py` Pages build'inde (`.github/workflows/jekyll.yml`, push'ta ve her gün) `_site/social.json`'u ve listelenen yarışmaların `<görsel>-social.jpg` kopyalarını (1080x1350, afiş kırpılmadan, bulanık arka plan) üretir; bunlar commit edilmez. Sosyal medya hesaplarına otomatik paylaşım bu feed'den yapılır: yeni yarışma, son başvurudan 1 hafta önce hatırlatma, pazartesi o haftanın kapanan yarışmaları. `hidden: true` postlar paylaşılmaz. Paylaşım metni `title`, `description`, `dateHuman` ve `totalPrize`'dan, hashtag'ler "... yarışması" ile biten tag'lerden gelir; bu yüzden bu alanlar paylaşılabilir durumda tutulur.
+
 ## Öncelik: SEO ve GEO
 
 Bu proje için her zaman öncelik **SEO**'dur. Tasarım, UX, performans gibi konularda karar verirken de bu önceliği göz önünde bulundur (ör. semantic HTML, başlık hiyerarşisi, alt text, sayfa hızı, crawl edilebilirlik, structured data gibi etkenler tercih sebebidir).
