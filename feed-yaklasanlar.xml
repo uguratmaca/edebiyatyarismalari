@@ -21,7 +21,7 @@ layout:
     {% for post in closing_posts limit:20 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.dateHuman | prepend: "Son başvuru: " | append: " — " | append: post.excerpt | strip_html | xml_escape }}</description>
+        <description>{{ post.dateHuman | prepend: "Son başvuru: " | append: ". " | append: post.excerpt | strip_html | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <dc:creator>{{ post.author | default: "Uğur Atmaca" | xml_escape }}</dc:creator>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>

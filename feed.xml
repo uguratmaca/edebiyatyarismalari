@@ -12,8 +12,15 @@ layout:
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% assign feed_posts = site.posts | slice: 0, 10 %}
-    {% for post in feed_posts %}
+    {% comment %}Ana sayfada gizlenen (hidden) edebiyat dışı postlar ve son başvurusu geçmiş yarışmalar bültene girmez.{% endcomment %}
+    {% capture nowunix %}{{ 'now' | date: '%s' }}{% endcapture %}
+    {% assign nowDateInt = nowunix | plus: 0 %}
+    {% assign shown = 0 %}
+    {% for post in site.posts %}
+      {% if shown >= 10 %}{% break %}{% endif %}
+      {% if post.hidden == true %}{% continue %}{% endif %}
+      {% if post.lastDate and post.lastDate <= nowDateInt %}{% continue %}{% endif %}
+      {% assign shown = shown | plus: 1 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.excerpt | xml_escape }}</description>

@@ -9,9 +9,14 @@
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% assign wanted = include.tags | split: "," %}
+    {% comment %}Ana sayfada gizlenen (hidden) edebiyat dışı postlar ve son başvurusu geçmiş yarışmalar bültene girmez.{% endcomment %}
+    {% capture nowunix %}{{ 'now' | date: '%s' }}{% endcapture %}
+    {% assign nowDateInt = nowunix | plus: 0 %}
     {% assign shown = 0 %}
     {% for post in site.posts %}
       {% if shown >= 10 %}{% break %}{% endif %}
+      {% if post.hidden == true %}{% continue %}{% endif %}
+      {% if post.lastDate and post.lastDate <= nowDateInt %}{% continue %}{% endif %}
       {% assign match = false %}
       {% for w in wanted %}{% if post.tags contains w %}{% assign match = true %}{% endif %}{% endfor %}
       {% if match %}
