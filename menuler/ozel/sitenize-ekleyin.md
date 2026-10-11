@@ -24,10 +24,6 @@ permalink: "sitenize-ekleyin/"
 
   <p>Script, bulunduğu yere kendi listesini basar; ayrıca bir <code>&lt;div&gt;</code> ya da CSS dosyası eklemenize gerek yoktur.</p>
 
-  <p>Örneğin yalnızca katılımı ücretsiz kitap dosyası yarışmalarını etiketleriyle listelemek için:</p>
-
-  <pre><code class="language-html">&lt;script src="https://edebiyatyarismalari.com/js/embed-widget.js" data-count="5" data-bicim="kitap dosyası" data-ucretsiz="1" data-rozet="1" async&gt;&lt;/script&gt;</code></pre>
-
   <h2>Parametreler</h2>
   <table class="table">
     <thead>
@@ -76,8 +72,53 @@ permalink: "sitenize-ekleyin/"
     </tbody>
   </table>
 
+  <p>Parametreler birlikte kullanılabilir; birden fazla filtre verildiğinde yalnızca hepsine uyan yarışmalar listelenir. Filtrelere uyan güncel yarışma yoksa widget hiçbir şey göstermez.</p>
+
+  <h2>Örnek Kullanımlar</h2>
+
+  <h3>Sadece şiir yarışmaları</h3>
+  <pre><code class="language-html">&lt;script src="https://edebiyatyarismalari.com/js/embed-widget.js" data-count="5" data-tip="şiir yarışması" data-baslik="Güncel Şiir Yarışmaları" async&gt;&lt;/script&gt;</code></pre>
+
+  <h3>Öykü ve şiir yarışmaları bir arada</h3>
+  <pre><code class="language-html">&lt;script src="https://edebiyatyarismalari.com/js/embed-widget.js" data-count="8" data-tip="hikaye yarışması,şiir yarışması" data-baslik="Öykü ve Şiir Yarışmaları" async&gt;&lt;/script&gt;</code></pre>
+
+  <h3>Lise öğrencilerine yönelik yarışmalar</h3>
+  <p>Okul ve öğretmen siteleri için. <code>data-tip</code> türlerin yanında kitle etiketlerini de kabul eder: <code>ilkokul</code>, <code>ortaokul</code>, <code>lise</code>, <code>üniversite</code>, <code>öğretmen</code>, <code>kadın</code>.</p>
+  <pre><code class="language-html">&lt;script src="https://edebiyatyarismalari.com/js/embed-widget.js" data-count="5" data-tip="lise" data-baslik="Liselilere Edebiyat Yarışmaları" async&gt;&lt;/script&gt;</code></pre>
+
+  <h3>Kitap dosyası ve yayımlanmış kitap yarışmaları</h3>
+  <pre><code class="language-html">&lt;script src="https://edebiyatyarismalari.com/js/embed-widget.js" data-count="5" data-bicim="kitap dosyası,yayımlanmış kitap" data-baslik="Kitap Yarışmaları" async&gt;&lt;/script&gt;</code></pre>
+
+  <h3>Henüz kitabı olmayan yazarlar için</h3>
+  <pre><code class="language-html">&lt;script src="https://edebiyatyarismalari.com/js/embed-widget.js" data-count="5" data-kitapsiz="1" data-baslik="İlk Kitabını Arayanlara" async&gt;&lt;/script&gt;</code></pre>
+
+  <h3>Katılımı ücretsiz yarışmalar, etiketleriyle</h3>
+  <p>Aşağıdaki kutu bu kodun canlı önizlemesidir:</p>
+  <pre><code class="language-html">&lt;script src="https://edebiyatyarismalari.com/js/embed-widget.js" data-count="5" data-ucretsiz="1" data-rozet="1" data-baslik="Ücretsiz Katılımlı Yarışmalar" async&gt;&lt;/script&gt;</code></pre>
+  <section class="border rounded p-3 mb-4" style="max-width: 480px;">
+    <script src="/js/embed-widget.js" data-count="5" data-ucretsiz="1" data-rozet="1" data-baslik="Ücretsiz Katılımlı Yarışmalar" async></script>
+  </section>
+
   <h2>WordPress Kullanıyorsanız</h2>
   <p>WordPress siteniz varsa, bu genel script yerine resmi <a href="https://wordpress.com/tr/plugins/edebiyat-yarismalari-widget" target="_blank" rel="nofollow noopener">Edebiyat Yarışmaları Widget eklentisini</a> kurmanızı öneririz. Aynı listeyi <code>[edyw_widget]</code> kısa kodu ile, WordPress panelinden yönetilebilir şekilde gösterir.</p>
+
+  <p>Kısa kod, yukarıdaki parametrelerin hepsini <code>data-</code> öneki olmadan kabul eder (<code>count</code>, <code>tip</code>, <code>baslik</code>, <code>ucretsiz</code>, <code>bicim</code>, <code>kitapsiz</code>, <code>rozet</code>). <code>ucretsiz</code>, <code>bicim</code>, <code>kitapsiz</code>, <code>rozet</code> ve virgülle birden fazla <code>tip</code> eklentinin 1.1.0 sürümüyle geldi; eski sürümü kullanıyorsanız eklentiyi güncelleyin.</p>
+
+  <pre><code>[edyw_widget count="5" baslik="Güncel Edebiyat Yarışmaları"]
+
+[edyw_widget count="5" tip="şiir yarışması" baslik="Güncel Şiir Yarışmaları"]
+
+[edyw_widget count="8" tip="hikaye yarışması,şiir yarışması"]
+
+[edyw_widget tip="lise" baslik="Liselilere Edebiyat Yarışmaları"]
+
+[edyw_widget bicim="kitap dosyası,yayımlanmış kitap" baslik="Kitap Yarışmaları"]
+
+[edyw_widget kitapsiz="1" baslik="İlk Kitabını Arayanlara"]
+
+[edyw_widget ucretsiz="1" rozet="1" baslik="Ücretsiz Katılımlı Yarışmalar"]</code></pre>
+
+  <p>Kısa kodu bir yazıya, sayfaya ya da Görünüm &gt; Bileşenler bölümündeki "Kısa kod" bileşenine ekleyerek kenar çubuğunda gösterebilirsiniz. Eklenti verileri 12 saatte bir yeniler.</p>
 
   <h2>Sıkça Sorulan Sorular</h2>
 
