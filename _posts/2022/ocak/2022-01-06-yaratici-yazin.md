@@ -14,6 +14,7 @@ requirements: "Lise öğrencileri katılabilir"
 permalink: "11-ingilizce-yaratici-yazin-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/ocak/yaratici-yazin.jpg"
 excerpt: "Çankaya Üniversitesi <strong>Geleceğe Mektuplar konulu 11. İngilizce Yaratıcı Yazın Kompozisyon Yarışması</strong> düzenliyor."
+archived_to: "/ingilizce-yaratici-yazin-yarismasi"
 ---
 
 ## 11. İngilizce Yaratıcı Yazın Yarışması

@@ -12,6 +12,7 @@ organizer: "Anadolu Üniversitesi İletişim Bilimleri Fakültesi"
 totalPrize: "8 Bin TL'dir."
 requirements: "Sinema alanında çalışan düşünür, yazar ve akademisyenler katılabilir."
 permalink: "eskisehir-film-festivali"
+archived_to: "/hakan-savas-sinema-kulturune-katki-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/eylul/eskisehir-film-festivali.jpg"
 excerpt:  "Anadolu Üniversitesi İletişim Bilimleri Fakültesi <strong> 22. Eskişehir Uluslararası Film Festivali </strong> düzenliyor."
 ---

@@ -15,6 +15,7 @@ totalPrize: "2 Bin 500 TL'lik Hediye Çeki"
 permalink: "gelecege-dokun-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/aralik/gelecege-dokun-oyku-yarismasi.jpg"
 excerpt:  "Demirtaş Anadolu İmam Hatip Lisesi <strong> 2. Bilim Kurgu Öykü Yarışması </strong> düzenliyor."
+archived_to: "/gelecege-dokun-bilim-kurgu-oyku-yarismasi"
 ---
 
 ## 2. Bilim Kurgu Öykü Yarışması

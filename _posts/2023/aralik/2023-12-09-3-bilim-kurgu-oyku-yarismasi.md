@@ -14,6 +14,7 @@ totalPrize: "10 Bin 500 TL'dir."
 permalink: "3-bilim-kurgu-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/aralik/3-bilim-kurgu-oyku-yarismasi.jpg"
 excerpt:  "Demirtaş Anadolu İmam Hatip Lisesi <strong> Geleceğe Dokun Bilim Kurgu Öykü Yarışması </strong> düzenliyor."
+archived_to: "/gelecege-dokun-bilim-kurgu-oyku-yarismasi"
 ---
 
 ## Geleceğe Dokun Bilim Kurgu Öykü Yarışması

@@ -14,6 +14,7 @@ requirements: "Türkiye geneli resmî/özel lise ve dengi okullarda öğrenim g�
 permalink: "gelece-dokun-bilimkurgu-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/ocak/gelecege-dokun-4-bilim-kurgu-oyku-yarismasi.jpg"
 excerpt: "Demirtaş Anadolu İmam Hatip Lisesi Geleceğe Dokun 4. Bilim Kurgu Öykü Yarışmasını duyurdu"
+archived_to: "/gelecege-dokun-bilim-kurgu-oyku-yarismasi"
 ---
 
 ## Geleceğe Dokun 4. Bilim Kurgu Öykü Yarışması

@@ -11,6 +11,7 @@ comTopic: "Geleceğin Yeni Meslekleri ve Eğitim"
 attendance: "Web sitesi"
 requirements: "Yarışma, Türkiye’deki tüm lise öğrencilerinin katılımına açık olacaktır."
 image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ingilizce-yaratici-yazin-yarismasi.png?alt=media&token=9e0850c9-11e8-41e7-9f39-75951c535042"
+archived_to: "/ingilizce-yaratici-yazin-yarismasi"
 ---
 
 Türkiye genelindeki liseleri kapsayacak olan yarışmamıza, İl Milli Eğitim Müdürlüklerine bağlı liseler katılabilecektir. Yarışma iki aşamadan oluşacaktır. İlk aşamada, öğrencilerden konusu “Geleceğin Yeni Meslekleri ve Eğitim” olarak belirlenen bir **kompozisyon** yazmaları istenecektir. İkinci aşamada ise, ilk 100’e giren öğrencilere tören sabahı çoktan seçmeli bir İngilizce sınavı uygulanacaktır. Kompozisyon notunun %60’ı ile sınav notunun %40’ı alınarak yapılacak hesaplama sonucunda, ilk 10’a giren öğrenciler ödül,  ikinci 10’a giren öğrenciler de mansiyon almaya hak kazanacaktır.  Ayrıca, ilk 100’e girip finale kalan tüm öğrencilere t-shirt verilecektir.

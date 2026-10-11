@@ -12,6 +12,7 @@ requirements: "Yarışma, Türkiye’deki tüm lise öğrencilerinin gönüllü 
 permalink: "yaratici-yazin-kompozisyon-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/subat/10-yaratici-yazin-kompozisyon-yarismasi.jpg"
 excerpt: "Çankaya Üniversitesi İngiliz Dili ve Edebiyatı ile Mütercim-Tercümanlık Bölümleri tarafından ve Yabancı Diller Anabilim Dalı’nın desteğiyle 28.05.2021 tarihinde X. İngilizce Yaratıcı Yazın Yarışması düzenlenecektir."
+archived_to: "/ingilizce-yaratici-yazin-yarismasi"
 ---
 
 ## X. İngilizce Yaratıcı Yazın Kompozisyon Yarışması
