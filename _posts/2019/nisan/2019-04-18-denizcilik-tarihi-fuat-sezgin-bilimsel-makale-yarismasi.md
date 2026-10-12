@@ -9,7 +9,6 @@ comments: true
 lastDate: 1558040400
 dateHuman: "17 Mayıs 2019"
 totalPrize: "22 Bin TL'dir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/fuat-sezgin-makale-yarismasi.jpg?alt=media&token=79591c25-a64e-4268-8836-81cd3057ef2b"
 ---
 
 Türk ve Dünya Denizcilik Tarihi alanındaki araştırmaları kapsayacak bilimsel makale yarışmasının konuları aşağıdadır.

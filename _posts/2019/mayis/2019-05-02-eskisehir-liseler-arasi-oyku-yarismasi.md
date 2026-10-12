@@ -9,7 +9,6 @@ comments: true
 lastDate: 1575147600
 dateHuman: "1 Aralık 2019"
 comTopic: "Eskişehir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/eskisehir-oyku-yarismasi-dorlion.png?alt=media&token=f83c4b4c-1a9a-41eb-aae2-94f606b56d7f"
 ---
 
 1. Yarışmaya Eskişehir ili içerisinde ikamet eden ve Eskişehir liselerinde öğrenim gören öğrenciler yarışmaya katılabilir.

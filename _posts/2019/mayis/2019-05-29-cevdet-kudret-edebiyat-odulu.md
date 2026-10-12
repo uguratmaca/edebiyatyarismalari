@@ -8,7 +8,6 @@ tags: [ağustos 2019, genel, roman yarışması]
 comments: true
 lastDate: 1567198800
 dateHuman: "31 Ağustos 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/cevdet-kudret-edebiyat-odulleri.jpeg?alt=media&token=814acf77-7fee-4a20-9f64-002945237114"
 ---
 
 Cevdet Kudret Edebiyat Ödülü bu yıl  “Roman” türüne verilecektir.  Ödüle, 1 Eylül 2018 – 31 Ağustos 2019 tarihleri arasında yayımlanmış romanlar aday olabilir. Seçici Kurulu Fatih Altuğ, Oğuz Demiralp, Handan İnci, Asuman Kafaoğlu Büke ve İbrahim Yıldırım’dan oluşan ödülün sonucu Ekim ayında açıklanacak, ödül töreni 2019 TÜYAP Kitap Fuarı’nda yapılacaktır. 

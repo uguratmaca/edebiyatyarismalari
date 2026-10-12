@@ -9,7 +9,6 @@ dateHuman: "20 Nisan 2019"
 lastDate: 1555707600
 totalPrize: "4 Bin 500 TL'dir"
 comTopic: "Cengiz Dağcı'nın eserleri"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/cengiz-dagci.jpg?alt=media&token=f7746ec5-30ce-4957-8243-08f1dfb215aa"
 ---
 
 Türk Ocakları Bursa Şubesi tarafından ortaöğretim öğrencilerine yönelik olarak meşhur Kırım Tatar yazar Cengiz Dağcı'nın eserleriyle alakalı makale yarışması düzenleniyor.

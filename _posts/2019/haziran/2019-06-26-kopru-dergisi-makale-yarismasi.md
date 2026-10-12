@@ -7,7 +7,6 @@ tags: [mart 2020, genel, makale yarışması]
 comments: true
 lastDate: 1584910800
 dateHuman: "20 Mart 2020"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kopru-dergisi-makale-yarismasi.jpeg?alt=media&token=40d90c9d-4cc1-4d5f-9786-b3043b4478f0"
 totalPrize: "2500 TL'dir"
 ---
 

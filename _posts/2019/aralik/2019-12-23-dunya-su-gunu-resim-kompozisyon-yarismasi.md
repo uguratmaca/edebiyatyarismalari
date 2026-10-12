@@ -11,7 +11,6 @@ totalPrize: "12 Bin TL'dir"
 comTopic: "Kompozisyon: Su ve İklim Değişikliği - Resim: Su ve Atıksu"
 attendance: "Posta/Kargo"
 requirements: "Ortaokulların 7. ve 8. sınıfındaki öğrenciler bu yarışmaya katılabileceklerdir."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/22-mart-resim-kompozisyon-yarismasi-2020.jpg?alt=media&token=38ff7c05-bd7b-442a-a1a9-5bb19e4aba37"
 ---
 
 **Kompozisyon Yarışması:**  

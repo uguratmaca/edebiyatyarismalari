@@ -8,7 +8,6 @@ tags: [mayıs 2019, üniversite, hikaye yarışması]
 comments: true
 lastDate: 1557781200
 dateHuman: "14 Mayıs 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ankara-oyku-yarismasi.jpg?alt=media&token=eb91e505-4b68-4447-ae36-03f557ee72b8"
 ---
 
 “BİR ÖYKÜ YAZ İÇİNDE ANKARA OLSUN” öykü yarışmasına başvurular başladı. Şartnameyi oku, sen de katıl!

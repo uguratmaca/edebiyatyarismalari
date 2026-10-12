@@ -11,7 +11,6 @@ totalPrize: "D&R Hediye çekleri"
 comTopic: "Kadın"
 attendance: "Websitesi"
 requirements: "İsteyen herkes katılabilir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/anlatsam-film-olur.JPG?alt=media&token=c7913a1e-0b8a-4e93-b633-3bc3ce70b257"
 ---
 
 Film fikri yolla, ödül kazan!

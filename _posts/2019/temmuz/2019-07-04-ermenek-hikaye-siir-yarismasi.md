@@ -8,7 +8,6 @@ comments: true
 lastDate: 1564434000
 dateHuman: "30 Temmuz 2019"
 totalPrize: "12 Bin TL'dir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ermenek-konulu-hikaye-siir-yarismasi.jpg?alt=media&token=4964f6f9-1c71-4500-af3d-4072da892cce"
 ---
 
 Ermenek 24. Taşeli Kültür, Sanat ve Sıla Festivali

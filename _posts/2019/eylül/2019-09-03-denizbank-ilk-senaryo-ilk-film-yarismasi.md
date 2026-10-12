@@ -9,7 +9,6 @@ lastDate: 1572555600
 dateHuman: "1 Kasım 2019"
 totalPrize: "50 Bin TL'dir."
 comTopic: "Sigarasız Yaşam"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ilk-senaryo-ilk-film-yarismasi.jpg?alt=media&token=bd8f1b1a-0d15-485b-ae04-ca714613042f"
 ---
 
 DenizBank ve Türsak Vakfı iş birliğinde hayata geçirilen **4. DenizBank İlk Senaryo İlk Film Yarışması** için başvurular başladı. Yarışmanın İlk Senaryo ayağı için son başvuru tarihi 1 Kasım 2019, İlk Film ayağı için son başvuru tarihi 2 Aralık 2019.

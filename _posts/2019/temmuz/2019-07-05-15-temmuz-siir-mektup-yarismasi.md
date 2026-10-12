@@ -8,7 +8,6 @@ tags: [temmuz 2019, genel, şiir yarışması, mektup yarışması, 15 temmuz]
 comments: true
 lastDate: 1562878800
 dateHuman: "12 Temmuz 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/15-temmuz-siir-mektup-yarismasi.jpeg?alt=media&token=dbbd74bf-4674-4d5c-9d56-9983569eab1a"
 ---
 
 Van Yüzüncü Yıl Üniversitesi / VAYAP Demokrasi ve Milli Birlik Günü Temalı Şiir/Mektup Yarışması

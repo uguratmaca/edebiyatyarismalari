@@ -11,7 +11,6 @@ comTopic: "Merhamet"
 totalPrize: "12 Bin TL'dir"
 attendance: "Posta/Kargo"
 requirements: "Her yaştan isteyen herkes katılabilir"  
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/sefer-eksi-kultur-sanat-odulleri-oyku-yarismasi.jpg?alt=media&token=e419164e-1554-4693-b16e-c2642e8c37bb"
 ---
 
 Yarışmanın Amacı

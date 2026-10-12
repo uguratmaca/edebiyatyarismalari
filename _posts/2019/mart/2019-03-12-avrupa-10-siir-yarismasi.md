@@ -7,7 +7,6 @@ tags: [mart 2019, şiir yarışması]
 comments: true
 lastDate: 1553979600
 dateHuman: "31 Mart 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/avrupa-siir-yarismasi.jpg?alt=media&token=580feb31-4906-4790-a9ce-86553ea45742"
 ---
 
 Platform ve Kadın Dergisi'nin ortaklaşa gerçekleştirdiği, Avrupa Şiir Yarışması'nın 10.su düzenleniyor. Geleneksel olarak her yıl düzenlenen yarışmaya Türkiye dışında ikamet eden şair veya şair adayları katılabiliyor. 31 Mart'a  kadar devam edecek ve sonuçlar Platform ve Kadın Dergisi'nin Mayıs sayısında ilan edilecek. Şiirlerde konu ve ölçü seçimini tamamen şaire bırakan yarışmanın, yine büyük ilgi toplaması bekleniyor.

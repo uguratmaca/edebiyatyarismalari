@@ -10,7 +10,6 @@ dateHuman: "6 Mart 2020"
 comTopic: "Serbest"
 attendance: "Posta/Elden"
 requirements: "Türk Eğitim Sen ve Türkiye Kamu Sen Üyeleri, Üniversite Öğrencileri ve Ortaöğretim Öğrencileri katılabilir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/omer-seyfettin-anisi-hikaye-yarismasi-2020.jpg?alt=media&token=8838d888-aa14-473a-8df2-858371d3eb27"
 ---
 
 Amaç:  

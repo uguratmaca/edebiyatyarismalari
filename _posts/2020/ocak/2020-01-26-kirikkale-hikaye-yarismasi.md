@@ -11,7 +11,6 @@ totalPrize: "6 Bin TL'dir"
 comTopic: "Kırıkkale"
 attendance: "Elden"
 requirements: "Yarışma, Türkiye'de ve başka ülkelerde yaşayan bütün Türkiye Cumhuriyeti vatandaşlarına açıktır"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/k%C4%B1r%C4%B1kkalem-icin-hikayem-var.jpg?alt=media&token=31a08bd3-02e4-4914-83d5-7ec0f4839800"
 ---
 
 İlimizin hafızasını; unutulan, yazıya geçmemiş hikayelerini kayıt altına almak, bunları kitaplaştırmak; bu alandaki birikimleri gelecek nesillere aktarmak.

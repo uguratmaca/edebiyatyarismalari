@@ -8,7 +8,6 @@ tags: [mayıs 2019, resim yarışması, hikaye yarışması, şiir yarışması,
 comments: true
 lastDate: 1557176400
 dateHuman: "7 Mayıs 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/talebe-19-mayis-resim-siir-oyku-yarismasi.jpg?alt=media&token=33edbfb5-ec7d-48aa-9434-1973fe4f3826"
 ---
 
 KATILIM ŞARTLARI: Lise öğrencisi veya üniversite hazırlık öğrencisi olma mecburiyeti, 21 yaşından küçük olmak.

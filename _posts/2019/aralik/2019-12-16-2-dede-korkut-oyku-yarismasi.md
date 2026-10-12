@@ -11,7 +11,6 @@ comTopic: "Serbest"
 totalPrize: "13 Bin TL'dir"
 attendance: "Posta/Kargo"
 requirements: "Yetişkin kategorisine herkes katılabilir, öğrenci kategorisine sadece Elazığ'da öğrenim görenler katılabilir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/2-uluslararasi-dede-korkut-oyku-yarismasi-2020.jpg?alt=media&token=3cdc4cba-6552-4dab-a4ea-fc8867f95c9f"
 ---
 
 Elazığ Belediyesi ve Bizim Külliye Dergisi tarafından hikâye yazma geleneğini teşvik etmek ve yeni nesillerin yazma eylemiyle daha yakın bir bağ kurmasına katkı sağlamak amacıyla düzenlenen 2. Dede Korkut Uluslararası Hikâye Yarışması başvuruları başladı. Ortaokul ve lise öğrencileri ile yetişkinlere yönelik iki ayrı kategoride düzenlenecek yarışmaya son başvuru tarihi ise 30 Mart 2020 tarihinde sona erecek.

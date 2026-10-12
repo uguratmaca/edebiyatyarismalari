@@ -9,7 +9,6 @@ lastDate: 1560978000
 dateHuman: "20 Haziran 2019"
 totalPrize: "10 Bin TL'dir."
 comTopic: "Sivas Kongresinin 100. Yılı"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/sivas-kongresi-100-yil-siir-yarismasi.png?alt=media&token=54afb458-73b2-4244-8036-f7cbccfd4339"
 ---
 
 Sivas Kongresi’nin 100. Yılı Etkinlikleri kapsamında Sivas Valiliği koordinesinde İl Kültür ve Turizm Müdürlüğü tarafından ‘Ozanların Dilinden-Şairlerin Kaleminden Sivas Kongresi’nin 100. Yılı’ konulu şiir yarışması düzenlenecek.

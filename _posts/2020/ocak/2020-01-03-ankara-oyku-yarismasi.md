@@ -11,7 +11,6 @@ totalPrize: "7 Bin TL'dir"
 comTopic: "Ankara"
 attendance: "Elden/APS/Kargo/Posta"
 requirements: "Yarışmaya, herkes katılabilir. Yaş vs. sınırlaması yoktur"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/edebiyat-ortami-1-ankara-oyku-yarismasi.jpg?alt=media&token=4b64a3da-89b0-4735-b129-364c8dfe0e56"
 ---
 
 Edebiyat Ortamı Dergisi 2020 yılından başlamak üzere, I. Ankara Öykü yarışması düzenlemeyi kararlaştırmıştır.

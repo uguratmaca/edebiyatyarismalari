@@ -10,7 +10,6 @@ lastDate: 1551992400
 dateHuman: "8 Mart 2019"
 totalPrize: "7 Bin 250 TL'dir"
 comTopic: "Vatan, Ahlaki Değerler, Doğa, Sevgi, Saygı"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kadim.jpg?alt=media&token=547d7e8c-cb86-49a6-89c1-ab38e417679c"
 ---
 
 Mardin İl Milli Eğitim Müdürlüğü Ortaokul ile Ortaöğretimde okuyan öğrenciler arasında iki farklı kategoride, teması 4 Başlık 7 Adım Projesi Değerler Eğitim Konuları “Vatan, Ahlaki Değerler, Doğa, Sevgi, Saygı” olan,  “Kadim Şehirde Bir Şair Olsam” adlı şiir yarışma yapılacaktır. Ödüllü olan bu yarışmaya tüm

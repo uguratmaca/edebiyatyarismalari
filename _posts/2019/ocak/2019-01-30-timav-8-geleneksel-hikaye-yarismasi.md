@@ -7,7 +7,6 @@ tags: [mayıs 2019, hikaye yarışması]
 comments: true
 dateHuman: "5 Mayıs 2019"
 lastDate: 1557003600
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/timav.jpg?alt=media&token=7f79e3d3-60dd-45d5-98b1-e28b55f85fa1"
 comTopic: "Serbest"
 ---
 

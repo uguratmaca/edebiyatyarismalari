@@ -9,7 +9,6 @@ lastDate: 1569790800
 dateHuman: "30 Eylül 2019"
 comTopic: "Anadolu"
 totalPrize: "19 Bin 500 TL'dir."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/hasan-ali-yucel-kisa-oyku-yarismasi.PNG?alt=media&token=44b1a53a-fe0c-485b-980a-0ac94bdd86a0"
 ---
 
 Türk edebiyatının önemli eserleri yıllar boyunca öğretmen yazarlar tarafından verilmiştir. Mehmet Âkif’ten Refik Halid’e, Necip Fazıl’dan Tanpınar’a, Yahya Kemal’den Çamlıbel’e, Halide Edip’ten Gülten Dayıoğlu’na edebiyata önemli eserler kazandıran isimler, aynı zamanda öğretmendir ve edebiyatın sesi okullardan yükselmiştir. Millî Eğitim Bakanlığı, bu geleneğin devamını sağlamak ve okullarımızdaki suskun kalemlerin sesini duyurmak için, bu yıl ilki gerçekleştirilecek olan **Hasan Âli Yücel Edebiyat Ödülleri kapsamında Öğretmenler Arası Kısa Öykü Yarışması** düzenlemiştir.

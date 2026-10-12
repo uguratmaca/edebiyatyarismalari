@@ -11,7 +11,6 @@ comTopic: "Serbest"
 attendance: "E-Posta"
 totalPrize: "5 Bin TL'dir"
 requirements: "Yarışmaya Türkiye genelinde, Millî Eğitim Bakanlığına bağlı tüm resmî-özel okullarda öğrenim gören lise öğrencileri katılabilir."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/5-bestami-yazgan-siir-yarismasi-2020.jpg?alt=media&token=31493299-b0f9-499f-b5ae-c4c6eb8f60bf"
 ---
 
 Yarışmanın amacı, genç kuşakları şiirle buluştururken aynı zamanda onlara kültür hazinemizin kapısını aralamaktır. Yarışmanın diğer bir amacı ise gençlerimizin kendilerini ifade edebilecekleri şiir sanatına ilgi duymaları, edebî zevk kazanmaları ve şiir dünyasına genç kuşak şairler kazandırmaktır.

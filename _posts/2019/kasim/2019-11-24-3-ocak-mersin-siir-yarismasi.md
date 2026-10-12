@@ -11,7 +11,6 @@ dateHuman: "13 Aralık 2019"
 attendance: "Posta/Kargo"
 comTopic: "3 Ocak Mersin’in Kurtuluşu konulu şiir"
 requirements: "18 yaşını doldurmuş olan herkes katılabilir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/3-ocak-mersin-siir-yarismasi.jpg?alt=media&token=143d6c82-7559-4c07-bc9c-a0574f5cb883"
 ---
 
 3 Ocak Mersin’in Kurtuluşu Konulu, **Şiir Yarışması**nın 4.sü Yapılacak

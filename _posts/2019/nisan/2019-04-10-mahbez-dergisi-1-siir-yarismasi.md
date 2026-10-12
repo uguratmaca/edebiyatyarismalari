@@ -8,7 +8,6 @@ tags: [mayıs 2019, şiir yarışması, genel]
 comments: true
 lastDate: 1555880400
 dateHuman: "22 Nisan 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/mahbez-dergi-siir-yarismasi.jpg?alt=media&token=54971e07-3563-47ee-a266-f8a44243d35b"
 ---
 
 MAHBEZ DERGİSİ

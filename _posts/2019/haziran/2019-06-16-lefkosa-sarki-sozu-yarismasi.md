@@ -9,7 +9,6 @@ comments: true
 totalPrize: "2500 TL'dir"
 lastDate: 1561064400
 dateHuman: "21 Haziran 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/lefkosa-sarki-sozu-yazma-yarismasi.png?alt=media&token=3d363068-2b1d-452c-90f1-35bf072b8b61"
 ---
 
 Lefkoşa Türk Belediyesi (LTB) başkent Lefkoşa’ya ait ve şehri anlatacak şarkının sözlerinin yazımı için yarışma düzenliyor.

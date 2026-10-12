@@ -11,7 +11,6 @@ totalPrize: "19 Bin 500 TL'dir"
 comTopic: "Uyuşturucu madde kullanımını önleme"
 attendance: "Posta ve E-Posta"
 requirements: "Yarışmaya üniversitelerde öğrenim gören herkes katılabilir."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/uyusturucu-madde-kullanimi-onleme-oyku-yarismasi.png?alt=media&token=3211fb38-d42c-41ed-8ebc-087c96fc8d12"
 ---
 
 Yarışmanın amacı uyuşturucu madde bağımlılığının sağlığa, insan ilişkilerine ve topluma verdiği olumsuz etkileri ortaya koymak ve özellikle üniversite gençliği arasında uyuşturucu madde kullanımını önlemek ve uyuşturucunun zararlarına dikkat çekmektir.
@@ -82,5 +81,3 @@ göndermeleri gerekmektedir.
 Tel : 0312 462 80 68
       0312 462 80 72
 E-Posta : narkoyarisma@egm.gov.tr ve oykuyarismasi@egm.gov.tr
-
-[Katılım Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/uyusturucu-madde-kullanimi-onleme-oyku-yarismasi-katilim-formu.pdf?alt=media&token=be7fcf23-e1d5-444a-9401-9ca9db105f1a){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -12,7 +12,6 @@ comTopic: "Opera"
 totalPrize: "22 Bin TL'dir"
 requirements: "Üniversitelerin sanat eğitimi veren fakültelerinin sanat eğitimi veren bölümlerinde veya Eğitim Fakülteleri’nin Resim-İş
 Öğretmenliği Bölümü’nde eğitimini sürdüren lisans öğrencileri ve tüm bu bölümlerin lisansüstü programlarında eğitim gören lisansüstü öğrenciler katılabilir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/hayal-melodileri-resim-yarismasi-2020.jpg?alt=media&token=526948a6-a57b-4c98-8bd9-45a0ab5cd39d"
 ---
 
 “Hayal Melodileri” Resim Yarışması, opera sanatına olan ilgiyi arttırmak, sanat eğitimi alan öğrencilerin sanatsal üretimlerine destek vermek ve ülkenin sanat ve kültür hayatına çeşitlilik getirerek katkıda bulunmak amacıyla düzenlenir. Bu amaç çerçevesinde katılımcılardan, belirlenen bir operayı dinlemeleri, operanın kendisini ya da içinde geçen bir bölümü, şarkıyı veya melodiyi (anlamını bilerek ya da bilmeyerek) resimsel bir anlatım dili ile ifade etmeleri ve bu eseri oluşturma sürecinde yaşadıkları duygu ve düşünceleri özetleyen bir metin yazmaları beklenmektedir.
@@ -90,5 +89,3 @@ Diğer Hususlar
 İrtibat Tel: 0 216 688 10 96 Tarih: 21.10.2019
 İrtibat e mail: 3nokta@3nokta.com
 İrtibat Kurulacak İlgili: Sabrican Akpına
-
-[Katılım Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/hayal-melodileri-resim-yarismasi-katilim-formu.pdf?alt=media&token=ddd86bbd-9d50-4248-b1b5-c36ae09b1f10){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

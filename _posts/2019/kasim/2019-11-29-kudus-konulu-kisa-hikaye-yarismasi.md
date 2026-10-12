@@ -11,7 +11,6 @@ comTopic: "Kudüs şehri"
 totalPrize: "3 Bin 750 TL'dir"
 attendance: "E-Mail - Online"
 requirements: "İmam Hatip Liselerinde okuyan öğrenciler arasında düzenlenecektir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kudus-konulu-hikaye-yarismasi.jpg?alt=media&token=1fbed096-4471-4d22-93ff-4dcf13de6bb1"
 ---
 
 Yarışmanın Organizasyonu:

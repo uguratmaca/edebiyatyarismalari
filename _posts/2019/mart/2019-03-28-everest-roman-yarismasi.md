@@ -8,7 +8,6 @@ tags: [haziran 2019, roman yarışması, genel]
 comments: true
 lastDate: 1560546000
 dateHuman: "15 Haziran 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/everest-ilk-roman.-yarismasi.jpg?alt=media&token=6e105277-de36-4cb0-98da-1409089d9dda"
 ---
 
 - Daha önce hiçbir edebi türde kitabı yayımlanmamış yazarların ilk romanlarıyla katılabilecekleri yarışmada yaş sınırı yoktur.

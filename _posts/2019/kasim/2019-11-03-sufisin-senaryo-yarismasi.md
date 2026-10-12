@@ -11,7 +11,6 @@ dateHuman: "1 Nisan 2020"
 attendance: "Posta/Kargo"
 totalPrize: "30 Bin TL'dir"
 requirements: "Her yaştan yarışmacı başvurabilir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/sufisin-senaryo-yarismasi.jpg?alt=media&token=ff1c04ec-fbeb-4df9-b066-6f7b872e084a"
 ---
 
 Amaç:
@@ -54,5 +53,3 @@ Aziziye Mahallesi Aslanlı Kışla Caddesi No: 5
 42030 / KARATAY - KONYA
 0332 353 40 20-21 / Dahili Hat:151
 12- Başvuran, başvuru formunda beyan ettiği bilgilerin doğruluğunu teyit eder. Senarist senaryo yarışmasına başvuruda bulunduktan sonra senaryosunu daha sonra geri çekmemeyi taahhüt eder.
-
-[Başvuru için](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/sufisin-senaryo-yarismasi-ba%C5%9Fvuru-formu.pdf?alt=media&token=1ce77ce1-ddac-4b1c-b883-e02aae76bc75){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

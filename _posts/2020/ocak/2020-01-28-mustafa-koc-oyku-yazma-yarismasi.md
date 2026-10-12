@@ -10,7 +10,6 @@ dateHuman: "4 Mart 2020"
 comTopic: "Hoşgörü"
 attendance: "E-Posta"
 requirements: "İstanbul'daki ortaokul 7 ve 8. sınıf öğrencileri"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/mustafa-v-koc-oyku-yazma-yarismasi.jpg?alt=media&token=1f4ffebc-dbaf-4e65-9de6-fe2966915299"
 ---
 
 Yarışmanın Amacı:  

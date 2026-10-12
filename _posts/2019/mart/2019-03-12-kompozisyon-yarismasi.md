@@ -10,7 +10,6 @@ lastDate: 1557435600
 dateHuman: "10 Mayıs 2019"
 totalPrize: "4 Bin 500 TL'dir."
 comTopic: "Kurtuluş Savaşımızın 100. yılında 19 Mayıs 1919'u Anlamak"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ataturk-tekirdag-kompozisyon.jpg?alt=media&token=fe1488ff-c6b4-4711-aa11-7dbf9b60fe31"
 ---
 
 Yarışmanın konusu ve amacı:

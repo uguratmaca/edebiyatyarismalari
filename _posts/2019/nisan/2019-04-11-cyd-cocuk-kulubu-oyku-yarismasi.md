@@ -8,7 +8,6 @@ comments: true
 lastDate: 1556226000
 dateHuman: "26 Nisan 2019"
 comTopic: "Geleceği Düşlemek"
-image : "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/%C3%A7a%C4%9Fda%C5%9F-ya%C5%9Fam%C4%B1-destekleme-derne%C4%9Fi-%C3%A7ocuk-kulub%C3%BC-%C3%B6yk%C3%BC-yar%C4%B1%C5%9Fmas%C4%B1.png?alt=media&token=3987216b-d489-4fcd-8263-73d68e9fde25"
 ---
 
 KATILIM YAŞI

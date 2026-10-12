@@ -9,7 +9,6 @@ lastDate: 1573765200
 dateHuman: "15 Kasım 2019"
 attendance: "E-Posta"
 requirements: "Akhisarlı ortaokul ve lise öğrencileri"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/akhisar-ajandasini-olusturuyor-resim-siir-fotograf-yarismasi.jpg?alt=media&token=900f1a80-fed8-4eaf-b7fa-9efa0f7d9bcf"
 ---
 
 Akhisar, ajandasını oluşturuyor!

@@ -8,7 +8,6 @@ tags: [mayıs 2019, lise, şiir yarışması, samsun]
 comments: true
 lastDate: 1557003600
 dateHuman: "5 Mayıs 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kurtulus-siir-yarismasi.jpg?alt=media&token=ce7ae8a7-0b98-4c09-8fd0-fe5aa34f798a"
 comTopic: "1919 yılında başlayan Ulusal Kurtuluş Savaşı sonrasında gelişen bağımsızlık duygusu"
 ---
 

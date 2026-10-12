@@ -10,7 +10,6 @@ dateHuman: "3 Aralık 2019"
 comTopic: "Serbest"
 attendance: "E-Posta-Online"
 requirements: "TED Okullarındaki Lise Öğrencileri (9–10-11-12. Sınıflar Düzeyinde)"  
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/5-oguz-atay-oyku-yarismasi.jpg?alt=media&token=b15718e9-a8c6-4302-b244-9f235fc27749"
 ---
 
 Yarışma Amacı:

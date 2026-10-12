@@ -6,6 +6,7 @@ layout: default
   <h1>{{ page.title }}</h1>
 
   {% assign article_author = page.author | default: "Uğur Atmaca" %}
+  {% assign schema_image = page.image | default: site.image %}
   {% assign published_str = page.date | date: "%Y-%m-%d" %}
   {% assign modified_str = page.last_modified_at | date: "%Y-%m-%d" %}
   <p class="text-muted">
@@ -163,7 +164,7 @@ layout: default
     "mainEntityOfPage": "{{site.url}}{{page.url}}",
     "image": {
       "@type": "ImageObject",
-      "url": "{{page.image}}",
+      "url": "{{ schema_image }}",
       "width": 1200,
       "height": 630
     },
@@ -195,7 +196,7 @@ layout: default
       "@type": "VirtualLocation",
       "url": "{{site.url}}{{page.url}}"
     },
-    "image": "{{page.image}}",{% if page.typicalAgeRange %}
+    "image": "{{ schema_image }}",{% if page.typicalAgeRange %}
     "typicalAgeRange": {{ page.typicalAgeRange | jsonify }},{% endif %}{% if page.entryFee == "Ücretsiz" %}
     "isAccessibleForFree": true,{% endif %}
     "organizer": {

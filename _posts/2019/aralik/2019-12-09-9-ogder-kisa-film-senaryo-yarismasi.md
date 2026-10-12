@@ -11,7 +11,6 @@ attendance: "Elden/Kurye/Posta"
 totalPrize: "12 Bin TL'dir"
 comTopic: "Irkçılık, ötekileştirme ve ayrımcılık gibi konularla ilgili kısa film senaryoları drama tarzında yazılabilir. "
 requirements: "Her yaştan yarışmacı başvurabilir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/9-k%C4%B1sa-film-senaryo-yarismasi.jpg?alt=media&token=3dbeb206-dfc2-4c94-a8cf-3f6cd4960208"
 ---
 
 Konu ve Amaç:  
@@ -80,5 +79,3 @@ Tel: +90 312 286 18 83
 Fax: +90 312 287 61 80
 Web Adresi:
 E-posta: info@ogder.org
-
-[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ogder-senaryo-yarismasi-basvuru-formu.docx?alt=media&token=b248f295-8ede-4a78-8822-b21ff28eb77f){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

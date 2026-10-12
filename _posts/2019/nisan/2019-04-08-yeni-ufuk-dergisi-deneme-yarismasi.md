@@ -9,7 +9,6 @@ comments: true
 lastDate: 1556571600
 dateHuman: "30 Nisan 2019"
 comTopic: "1919’dan 2019’a Aynı Ruh, Aynı İman"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/yeni-ufuk-deneme-yarismasi.jpeg?alt=media&token=4cac5023-640e-4a21-a53a-42c1c544dd06"
 ---
 
 AMAÇ

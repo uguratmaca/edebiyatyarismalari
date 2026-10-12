@@ -11,7 +11,6 @@ totalPrize: "14 Bin TL'dir"
 comTopic: "Kahramanmaraş’ın düşman işgaline karşı verdiği kurtuluş mücadelesinin anlam ve önemi"
 attendance: "E-Posta"
 requirements: "Ülke genelinde 18 yaşından büyük bireyler yarışmaya katılabilecektir."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/100-yil-anisina-kahramanmaras-siir-yarismasi.jpg?alt=media&token=bd7d74a4-a684-4540-a1d8-e411c19adf78"
 ---
 
 Bu yarışma, Milli Mücadelenin 100. yılı münasebetiyle; Türkiye Cumhuriyeti Cumhurbaşkanlığı Himayelerinde yürütülen Kahramanmaraş’ın düşman işgalinden kurtuluşunun 100. Yılı Etkinlikleri kapsamında, Kahramanmaraş Büyükşehir Belediyesi tarafından düzenlenmiştir.
@@ -47,5 +46,3 @@ Mansiyon alan yarışmacıya: 2.000TL
 Ödül Törenine Katılım:  
 Ödül töreni dereceye giren yarışmacılara ayrıca bildirilecek olup dereceye giren yarışmacılar Kahramanmaraş’taki ödül törenine davet edilecek; il dışından dereceye giren yarışmacıların yol ücreti ile konaklama giderleri Kahramanmaraş Büyükşehir Belediyesi tarafından karşılanacaktır. 
 İletişim adresi: Kahramanmaraş Büyükşehir Belediyesi Kültür ve Turizm Şube Müdürlüğü Kayabaşı Mahallesi Vakıf Tarla Caddesi, No: 6  Tlf: (0344) 225 24 15-16  Dulkadiroğlu / Kahramanmaraş
-
-[Katılım Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/siir_yarismasi_yetiskinler_.docx?alt=media&token=5f2c86d5-c22a-43c5-8104-1007891e6427){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

@@ -10,7 +10,6 @@ dateHuman: "2 Kasım 2020"
 totalPrize: "22 Bin 500 TL'dir"
 attendance: "Posta/Kargo"
 requirements: "Yarışma tüm yazarlara açıktır. Uyruğu ve öğrenim durumu ne olursa olsun 18 yaşın üzerinde olan ve şartname koşullarına uyan herkes katılabilir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/18-tudem-edebiyat-odulleri-roman-yarismasi.jpg?alt=media&token=b7f52b49-184d-4baf-ba18-a55064e653dd"
 archived_to: "/tudem-edebiyat-odulleri"
 ---
 
@@ -73,5 +72,3 @@ Eserlerin Yayımlanması:
 1. Yarışmaya katılan tüm eserlerin yayın hakkı, yarışma tarihinden itibaren bir yıl süre ile Tudem Eğitim Hizmetleri San. Tic. AŞ’ye ait olacaktır. Bu süre içinde eserini başka bir yayınevinde yayımlatmak isteyen eser sahiplerine Tudem Yayınları, yazılı bir feragat belgesi verecektir.
 2. Ödül kazanan eserlerin yayın hakkı ise 5 (beş) yıl süre ile Tudem Eğitim Hizmetleri San. Tic. AŞ’ye devredilmiş olup eserin yayımlanmasına karar verilmesi hâlinde, taraflar arasında yayımcının ve eser sahibinin hak ve sorumluluklarını düzenleyen bir telif hakkı devri sözleşmesi imzalanacaktır.
 3. Tudem Yayın Grubu, ödül alan eserleri yayımlamak zorunda olmadığı gibi, ödül almayan eserlerin arasından bazılarını yayımlamak isteyebilir. Bu durum, yayınevi ile eser sahibi arasında görüşülecektir. Seçici kurulun bu konuda herhangi bir sorumluluğu yoktur. Seçici kurulun kararı, yayınevinden bağımsızdır.
-
-[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/18-tudem-edebiyat-odulleri-roman-yarismasi-basvuru-formu.pdf?alt=media&token=8aef611b-a8bf-4696-be1b-12fba13d2df0){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

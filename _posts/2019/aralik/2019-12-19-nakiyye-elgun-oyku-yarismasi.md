@@ -11,7 +11,6 @@ comTopic: "Fark Yaratan İnsanlar"
 totalPrize: "3 Bin TL'dir"
 attendance: "Online/Web sitesi"
 requirements: "Türkiye’deki resmî ve özel okulların 5, 6, 7 ve 8. sınıf öğrencileri"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/nakiyye-elgun-ulusal-oyku-yarismasi.jpg?alt=media&token=b2133ea4-d176-43a6-9c29-d578877718fe"
 ---
 
 Katılım Koşulları:  

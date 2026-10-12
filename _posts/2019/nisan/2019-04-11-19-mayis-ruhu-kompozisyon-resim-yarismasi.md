@@ -8,7 +8,6 @@ comments: true
 lastDate: 1556830800
 dateHuman: "3 Mayıs 2019"
 comTopic: "100. Yılında 19 Mayıs Ruhu"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/19-mayis-kompozisyon-resim-yarismasi.jpg?alt=media&token=3d83fd13-f106-42e3-a570-c9def23ac537"
 ---
 
 KOMPOZİSYON YARIŞMASI

@@ -7,7 +7,6 @@ tags: [şiir yarışması, mart 2019]
 comments: true
 lastDate: 1551992400
 dateHuman: "8 Mart 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/izmi-sairler-bes-dern-siir-yarismasi-2019.jpg?alt=media&token=af4c94e4-f7b8-4cd3-ba7a-9a07f3ceb597"
 ---
 
 İzmir Şairler ve Bestekarlar Derneği tarafından bu yıl ikincisi şair TURAN ATASEVER adına düzenlenen şiir yarışmasının başvuruları başladı.

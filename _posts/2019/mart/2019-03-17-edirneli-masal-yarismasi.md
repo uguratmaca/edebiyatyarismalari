@@ -9,7 +9,6 @@ lastDate: 1555275600
 dateHuman: "15 Nisan 2019"
 comTopic: "Serbest"
 totalPrize: "3 Bin TL'dir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/edirneli-masallar.png?alt=media&token=07265e61-861c-4955-85c8-2fe6048e5e1f"
 ---
 
 Amaç:

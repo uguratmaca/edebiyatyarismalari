@@ -8,7 +8,6 @@ comments: true
 lastDate: 1565384400
 dateHuman: "10 Temmuz 2019"
 comTopic: "15 Temmuz, Demokrasi, Milli Birlik"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/bulgaristan-15-temmuz-siir-yarismasi.jpg?alt=media&token=4d29b564-90a5-4221-83d3-ec3798fd5a23"
 ---
 
 Bulgaristan’da “15 Temmuz, Demokrasi, Milli Birlik” Temalı Şiir Yarışması

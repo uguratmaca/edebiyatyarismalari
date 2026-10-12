@@ -11,7 +11,6 @@ dateHuman: "31 Mart 2020"
 comTopic: "Serbest"
 attendance: "Posta"
 requirements: "İsteyen herkes katılabilir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/4-cumba-siir-yarismasi.jfif?alt=media&token=12028251-935f-46c5-a0de-7087347ee50c"
 archived_to: "/cumba-edebiyat-yarismasi"
 ---
 

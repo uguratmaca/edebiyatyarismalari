@@ -9,7 +9,6 @@ comments: true
 lastDate: 1553202000
 dateHuman: "22 Mart 2019"
 totalPrize: "6 Bin TL'dir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/avim-makale.jpg?alt=media&token=7214e139-86ce-4a3f-a8d3-fa535b634c1a"
 ---
 
 1917 Ekim Devrimi sonrasında oluşturulan ve Stepan Şaumyan’ın liderliğindeki Bakü Komünü gözetiminde 50.000’e yakın Türk’ün katledilmesi ile sonuçlanan 31 Mart – 4 Nisan 1918 olayları, Azerbaycan’ın bağımsızlığı sürecinde maruz kaldığı en çarpıcı şiddet olaylarından birisidir. Azerbaycan’da Mart ayında başlayan bu olaylar Eylül ayında Nuri Paşa komutasındaki Kafkas İslam Ordusu’nun Bakü’ye gelmesine kadar devam etmiştir. Bu katliamda toplam 50 bin’e yakın Azerbaycan Türkü öldürülmüştür. Bakü’ye yardıma gelen Kafkasya İslam Ordusu ise 1.100 asker ve 30 subay şehit vermiştir.

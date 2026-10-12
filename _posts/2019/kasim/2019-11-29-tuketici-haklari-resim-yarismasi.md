@@ -10,7 +10,6 @@ dateHuman: "7 Şubat 2020"
 attendance: "Elden/Posta/Kargo"
 comTopic: "Tüketici Hakları"
 requirements: "Yarışma ortaokul 5,6,7 ve 8 inci sınıflar için yapılacaktır"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/tuketici-haklari-resim-yarismasi.jpg?alt=media&token=f2af0ba6-a99d-4714-9527-9439abcac357"
 ---
 
 Eğitim çağındaki çocuklarımızı ve gençlerimizi bilinçli tüketim ve tüketici hakları konusunda bilinçlendirmek, farkındalık yaratmak, sanatsal çalışmalarını desteklemek, değerlendirmek, sergilemek ve kalıcı eserler bırakmaya özendirmek amacı ile Genel Müdürlüğümüzce 2019-2020 Eğitim Öğretim yılı içerisinde “Tüketici Hakları” konulu, ülke çapında resmi ve özel okulların, ortaokul 5.6.7.8. sınıf öğrencileri için RESİM YARIŞMASI düzenlenmiştir.

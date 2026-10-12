@@ -8,7 +8,6 @@ comments: true
 lastDate: 1573160400
 dateHuman: "8 Kasım 2019"
 attendance: "EPosta"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/mevlana-liseler-arasi-siir-yarismasi.jpg?alt=media&token=acd91f2a-7a93-4c1a-b414-c3be71833963"
 ---
 
 Bizlere farklı gönül pencereleri açan büyük alimlerimiz,düşünürlerimiz eserleri ve felsefeleri ile bize emanettir. 

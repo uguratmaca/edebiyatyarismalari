@@ -7,7 +7,6 @@ tags: [sonuç 2020]
 comments: true
 hidden: true
 permalink: "omer-seyfettin-hikaye-yarismasi-sonuclari-2020"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/omer-seyfettin-anisi-hikaye-yarismasi-2020.jpg?alt=media&token=8838d888-aa14-473a-8df2-858371d3eb27"
 ---
 
 Yarışmada; Ortaöğretim Öğrencileri Kategorisinde 215 hikaye, Yükseköğretim Öğrencileri (Ön lisans, Lisans ve Lisansüstü ) Kategorisinde 63 hikaye, üyeler katagorisinde Türk Eğitim-Sen ve Türkiye Kamu Sen’e bağlı sendikaların üyeleri 392 hikaye olmak üzere toplam 670 hikaye değerlendirmeye alındı. Ömer Seyfettin’i hatırlayıp, O’nun fikirlerini hatırlatmanın ya da  anılarını yaad etmenin, aynı zamanda da yeni hikayeleri ve hikayecilerimizi Türk edebiyatına kazandırmanın amaçlandığı yarışmada, jüri üyeleri hikayeleri hummalı bir çalışma ile titizlikle inceledi.  

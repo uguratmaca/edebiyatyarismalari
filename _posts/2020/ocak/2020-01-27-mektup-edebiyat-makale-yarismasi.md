@@ -11,7 +11,6 @@ dateHuman: "30 Mart 2020"
 comTopic: "Öğrenci gözüyle kaybolan değerlerimiz; Kadın, Anne ve Aile"
 attendance: "E-Posta"
 requirements: "Yarışmaya sadece Ankara'da eğitim gören lise öğrencileri katılabilir."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/mektup-edebiyat-dergisi-makale-yarismasi.png?alt=media&token=d465b24a-8988-45b9-8671-62125ec72f9c"
 ---
 
 Aile, toplumun en küçük birimidir. Anne, baba, çocuk, dede ve nineden oluşur. Anne, baba ve çocuklar çekirdek aileyi oluşturur.  Her ailenin sosyal ve kültürel yaşantısı, bilgi ve görgüsü farklıdır. Bunun sebebi, aile yapısını oluşturan çevresel, sosyal ve kültürel farklılıklardır. Bu temel unsurlar ne kadar farklı olursa olsun sağlam temeller üzerine kurulmuş sosyal ve kültürel bilgilerle donatılmış bir aile sağlıklı bir yapı arz eder. Toplumun sağlıklı olması demek, iyi ilişkilerin kurulması, iletişimin sağlıklı olması, barış, hoşgörü, yardımlaşma ve dayanışma içinde yaşanması demektir. Bu donanıma sahip toplumlar varlıklarını uzun süre devam ettirirler.

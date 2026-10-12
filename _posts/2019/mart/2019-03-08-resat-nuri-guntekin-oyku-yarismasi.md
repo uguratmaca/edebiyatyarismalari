@@ -10,7 +10,6 @@ lastDate: 1553029200
 dateHuman: "20 Mart 2019"
 comTopic: "Serbest"
 totalPrize: "3 Bin 250 TL'dir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/resat-nuri.jpg?alt=media&token=ee95e63b-1ad8-4202-a997-c2c1ee7910c1"
 archived_to: "/resat-nuri-guntekin-oyku-yarismasi"
 ---
 

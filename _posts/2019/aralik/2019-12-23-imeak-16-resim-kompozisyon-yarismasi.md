@@ -11,7 +11,6 @@ totalPrize: "4 Bin 700 TL'dir"
 comTopic: "Kompozisyon: Denizlerimizden Nasıl Yararlanabiliriz? (ortaokul) - Resim: Denizde Eğlence (ilkokul)"
 attendance: "Posta/Kargo"
 requirements: "İzmir İl Milli Eğitim Müdürlüğü’ne bağlı resmi/özel tüm ilkokullar ve ortaokullar katılabilir."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/imeak-16-resim-kompozisyon-yarismasi-2020.jpg?alt=media&token=29303bf3-d7f5-4f9d-9d08-97e8bbec83af"
 ---
 
 Yarışmanın Amacı:  

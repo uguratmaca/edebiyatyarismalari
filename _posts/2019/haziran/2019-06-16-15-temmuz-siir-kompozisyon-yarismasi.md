@@ -10,7 +10,6 @@ totalPrize: "6 Bin TL'dir"
 lastDate: 1562274000
 dateHuman: "05 Temmuz 2019"
 comTopic: "15 Temmuz Demokrasi ve Milli Birlik Günü"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/15-temmuz-siir-ve-kompozisyon-yarismasi.jpg?alt=media&token=ea54ec30-c5b3-4273-a168-a52274e67a26"
 ---
 
 Yarışmanın Amacı:

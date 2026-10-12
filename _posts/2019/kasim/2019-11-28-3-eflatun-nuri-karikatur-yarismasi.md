@@ -11,7 +11,6 @@ attendance: "Posta/Kargo/Elden"
 comTopic: "Şiddet"
 totalPrize: "16 Bin 500 TL'dir"
 requirements: "Yarışma amatör ya da profesyonel bütün karikatür çizerlerine açıktır"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/3-eflatun-nuri-ulusal-karikat%C3%BCr-yarismasi-2019.jpg?alt=media&token=d7627666-8f4a-4fd9-82aa-0557f06f995f"
 ---
 
 Çizim tekniği serbesttir. Bilgisayar ortamında hazırlanan eserlerin çıktılarında sanatçının ıslak imzası bulunmalıdır. Boyut:  A4.  En fazla 3 (üç) karikatür ile katılınabilir. 

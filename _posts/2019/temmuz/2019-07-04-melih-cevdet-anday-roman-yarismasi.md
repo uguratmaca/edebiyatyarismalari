@@ -8,7 +8,6 @@ comments: true
 lastDate: 1564520400
 dateHuman: "31 Temmuz 2019"
 totalPrize: "3 Bin TL'dir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/melih-cevdet-anday-roman-yarismasi.jpg?alt=media&token=a3f96559-272c-4e53-be5d-52b553e0531e"
 ---
 
 Deneme, Tiyatro, Roman ve Şiir dallarında özgün eserlerin yaratıcısı Melih Cevdet Anday artık bu türlerde verilecek ödüllerle de anılacak.Her yıl ayrı dalda verilecek ödülün türü 2019 yılında “ROMAN” olarak belirlendi.

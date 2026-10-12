@@ -10,7 +10,6 @@ dateHuman: "10 Şubat 2020"
 comTopic: "Çorlu"
 attendance: "Kargo ve E-Posta"
 requirements: "Yarışma herkese açıktır."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/corlu-belediyesi-oyku-yarismasi.jpg?alt=media&token=141f25a4-8c04-4d76-af74-e7c2dd9b66bb"
 ---
 
 Amaç:  

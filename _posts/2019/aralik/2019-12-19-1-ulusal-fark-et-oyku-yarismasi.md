@@ -11,7 +11,6 @@ comTopic: "Fark Et"
 totalPrize: "6 Bin 500 TL'dir"
 attendance: "Posta"
 requirements: "Yarışma 18 yaş üzeri herkese açıktır."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/1-ulusal-fark-et-oyku-yarismasi.jpg?alt=media&token=85fab6b5-95de-472b-a3ad-022de683731d"
 ---
 
 Farkındalık Yaratma ve Dayanışma Derneği (A-Fark) Öykü Yarışması Teknik Şartnamesi:  

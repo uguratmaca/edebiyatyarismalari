@@ -8,7 +8,6 @@ comments: true
 lastDate: 1560114000
 dateHuman: "10 Haziran 2019"
 totalPrize: "22 Bin 500 TL'dir."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/marsta-hayat-kisa-hikaye-yarismasi.jpg?alt=media&token=f4b4edf1-1071-454b-b780-eb55d56a11d2"
 ---
 
 Türkiye’ye sathına hitap eden, ortaokul öğrencilerinin, uzay bilimlerine ilgi duyanların proje süresi boyunca, “Mars’ta Yaşam” konulu hikaye yazmaları konusunda onları cesaretlendirmek, zihin ve gönül dünyalarını yazıya aktarmalarını sağlamayı amaçlamaktayız.

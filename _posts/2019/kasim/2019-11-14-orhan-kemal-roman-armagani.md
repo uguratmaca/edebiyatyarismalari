@@ -10,7 +10,6 @@ lastDate: 1578603600
 dateHuman: "10 Ocak 2020"
 attendance: "Kargo/Posta/Elden"
 requirements: "İsteyen herkes katılabilir"  
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/orhan-kemal-roman-armagani.jpg?alt=media&token=5a64d0f4-f82a-4de6-89c4-5a1b3c7022cc"
 ---
 
 **Orhan Kemal Roman Armağanı**’na, katılım süresi başladı. Konuya ilişkin yapılan açıklamada, Roman armağanı 20 Mayıs 2020 tarihinde seçici kurulun toplantısında belirlenecek, kazanan yazara ödülü 2 Haziran 2020 tarihinde yapılacak olan Orhan Kemal’i anma gününde verilecektir” denildi.

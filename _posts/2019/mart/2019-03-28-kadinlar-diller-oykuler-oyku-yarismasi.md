@@ -8,7 +8,6 @@ tags: [ağustos 2019, hikaye yarışması, kadın]
 comments: true
 lastDate: 1565816400
 dateHuman: "15 Ağustos 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kadinlar-diller-oykuler.jpg?alt=media&token=8f6bfe9d-50ee-4b3e-b41c-0fd8a7c1ddc7"
 ---
 
 Yarışma Şartnamesi

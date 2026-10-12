@@ -10,7 +10,6 @@ dateHuman: "1 Mart 2020"
 comTopic: "Serbest"
 attendance: "Websitesi"
 requirements: "Katılım herkese açıktır."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/alt-kitap-oyku-odulu.jpg?alt=media&token=7bfc2e34-6791-458c-aa66-f5e1f8064faa"
 ---
 
 Sadece öykü başvuruları kabul edilmektedir. Roman, deneme, şiir, vb. türlerde yapılan başvurular değerlendirme dışı bırakılacaktır.  

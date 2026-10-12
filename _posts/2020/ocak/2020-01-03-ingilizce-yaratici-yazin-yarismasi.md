@@ -10,7 +10,6 @@ dateHuman: "2 Mart 2020"
 comTopic: "Geleceğin Yeni Meslekleri ve Eğitim"
 attendance: "Web sitesi"
 requirements: "Yarışma, Türkiye’deki tüm lise öğrencilerinin katılımına açık olacaktır."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ingilizce-yaratici-yazin-yarismasi.png?alt=media&token=9e0850c9-11e8-41e7-9f39-75951c535042"
 archived_to: "/ingilizce-yaratici-yazin-yarismasi"
 ---
 

@@ -8,7 +8,6 @@ comments: true
 lastDate: 1571086800
 dateHuman: "15 Ekim 2019"
 comTopic: "Sigarasız Yaşam"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/sigarasiz-yasam-senaryo-yarismasi.jpg?alt=media&token=ccfcefc8-8f8c-4862-bb21-d3a7ad1ac14e"
 ---
 
 Yarışmanın Amacı: Sigaranın Zararlarını Yazılı Olarak Nitelendirmek, Sigarasız Yaşamı Desteklemek.

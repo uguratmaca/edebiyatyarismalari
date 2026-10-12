@@ -8,7 +8,6 @@ tags: [mayıs 2019, üniversite, makale yarışması, samsun]
 comments: true
 lastDate: 1557003600
 dateHuman: "5 Mayıs 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/kurtulus-makale-yarismasi.jpg?alt=media&token=87f4d262-8338-4118-8b23-4f381b20cb13"
 comTopic: "1919 yılında başlayan Ulusal Kurtuluş Savaşı sonrasında gelişen bağımsızlık duygusu"
 ---
 

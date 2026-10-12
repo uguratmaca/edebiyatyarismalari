@@ -10,7 +10,6 @@ dateHuman: "1 Haziran 2020"
 comTopic: "Kemal Karpat Anısına"
 attendance: "E-Posta"
 requirements: "Lisans ya da lisansüstü öğrencisi veya mezunu olmak"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/akademik-kaynak-makale-yarismasi.JPG?alt=media&token=dcbac7f2-1809-4610-bc92-0b7962ffddc4"
 ---
 
 Akademik Düşünce Enstitüsü’nün yayın organlarından biri olan Akademik Kaynak, genç araştırmacıların eserlerinin yayınlandığı, yazar ekibi olarak farkındalık yaratacak

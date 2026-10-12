@@ -10,7 +10,6 @@ dateHuman: "13 Mart 2020"
 comTopic: "Engelsizsiniz"
 attendance: "E-Posta"
 requirements: "Yarışmaya katılmak için, Eskişehir‘de yaşamak ve 18 yaşını doldurmuş olmak gerekmektedir."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/engelsizsiniz-oyku-yarismasi-2020.jpg?alt=media&token=72dd83dd-6871-4e56-af2f-44678da4befd"
 ---
 
 Öykü Yarışmasının Amacı:  
@@ -69,5 +68,3 @@ Adı Soyadı: Dalca Üreyen, Cevat Efe
 Tel: 0 222 255 11 00 / 1230
 Adres: Arifiye mah. İki Eylül Cad. No:53 Odunpazarı / ESKİŞEHİR
 E-Posta Adresi: oykuyarismasi@eskisehir.bel.tr
-
-[Başvuru Formu](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/engelsizsiniz-oyku-yarismasi-basvuru-formu.pdf?alt=media&token=48a17212-e40d-48a6-99ab-e85799e89ad0){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

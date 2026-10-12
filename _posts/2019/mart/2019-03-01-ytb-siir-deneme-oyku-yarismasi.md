@@ -8,7 +8,6 @@ comments: true
 lastDate: 1557781200
 dateHuman: "14 Mayıs 2019"
 totalPrize: "145 Bin TL'dir 💰"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ytb.jpg?alt=media&token=600f003a-ed59-49fd-899e-a8f5a14e7837"
 ---
 
 Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı (YTB), yurt dışında yaşayan vatandaşlarımızın anadil konusundaki yetkinliklerini artırmak ve Türk Diasporasına özgü edebiyat alanında yeni açılımları teşvik etmek amacıyla “YTB Türkçe Ödülleri” yarışması düzenliyor.

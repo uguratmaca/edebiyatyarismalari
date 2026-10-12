@@ -9,7 +9,6 @@ lastDate: 1566507600
 dateHuman: "23 Ağustos 2019"
 totalPrize: "18 Bin TL'dir."
 comTopic: "Serbest"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/yaman-dede-siir-yarismasi.jpg?alt=media&token=fc3f4fe5-bddb-462f-bbc8-c57104b7931b"
 ---
 
 Katılım Şartları:

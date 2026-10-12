@@ -11,7 +11,6 @@ attendance: "E-Posta"
 totalPrize: "5 Bin TL'dir"
 comTopic: "Karkamış Antik Kenti"
 requirements: "Yarışma amatör ya da profesyonel bütün karikatür çizerlerine açıktır"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/karkamis-karikatur-yarismasi.jpg?alt=media&token=4d6e4c16-20b6-4e0e-a368-1e6e8c0119c8"
 ---
 
 Şartname:

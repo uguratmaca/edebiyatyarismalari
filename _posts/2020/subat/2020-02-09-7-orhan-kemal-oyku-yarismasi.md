@@ -10,7 +10,6 @@ dateHuman: "14 Şubat 2020"
 comTopic: "Yaşam"
 attendance: "Websitesi"
 requirements: "İstanbul’daki Tüm Resmi ve Özel Ortaokulların 1, 2, 3, 4. Sınıf Öğrencileri"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/orhan-kemal-7-geleneksel-%C3%B6yk%C3%BC-yar%C4%B1%C5%9Fmas%C4%B1.jpg?alt=media&token=1a7fefb7-bcac-47cb-9432-1695166f618f"
 ---
 
 Beylerbeyi Anaokulu, İlkokulu ve Ortaokulumuz tarafından geleneksel olarak gerçekleştirilen ve bu yıl “Yaşam” konusunu ile yapılacak olan Öykü Yarışmamıza başvurular başladı.  

@@ -10,7 +10,6 @@ dateHuman: "10 Ocak 2020"
 comTopic: "Serbest"
 attendance: "E-Mail"
 requirements: "İzmir çapında tüm ortaokullardan 5,6,7,8. sınıf öğrencileri ücretsiz katılabilir."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/cok-kisa-oyku-yarismasi-2020.jpg?alt=media&token=da1013df-bd16-4fde-b21c-61dcd1f4c047"
 ---
 
 Amaç:  

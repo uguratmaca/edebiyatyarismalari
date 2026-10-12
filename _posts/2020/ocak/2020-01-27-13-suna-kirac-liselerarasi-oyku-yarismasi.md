@@ -11,7 +11,6 @@ totalPrize: "4 Bin 500 TL'dir"
 comTopic: "Su"
 attendance: "Websitesi"
 requirements: "Yarışma İstanbul genelindeki devlet liselerini ve özel liseleri kapsamaktadır."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/koc-okulu-oyku-yarismasi.jpg?alt=media&token=cefe09ad-2178-4a08-b496-076f0c312d21"
 ---
 
 Koç Lisesi 13. Suna Kıraç Liseler Arası Öykü Yarışması’nın teması “su”. Dünyanın dörtte üçünü kaplayan, bedenimizin yarıdan fazlasını oluşturan, insanın evrendeki ve anne karnındaki yolculuğunun başlangıcı olan yaşam kaynağımızı düşünelim istedik bu yıl. Suyun değişken hallerini, saflığını, cömertliğini, gücünü andık. Kimi zaman bir kaynaktan gürlercesine fışkırıp okyanuslara ulaşan, kimi zaman bir çatlaktan incecik sızan, yanağımızdan sessizce süzülen, aşığın gönlündeki ateşi yatıştıran, dileklerimize ve vedalarımıza kattığımız, kana kana içtiğimiz, kolayca erişip düşünmeden tükettiğimiz su; candır, canlılıktır. Suyun size çağrıştırdıklarından hareketle yazacağınız öykülerinizi heyecanla bekliyoruz.

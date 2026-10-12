@@ -10,7 +10,6 @@ dateHuman: "20 Haziran 2020"
 comTopic: "Serbest"
 attendance: "Websitesi"
 requirements: "Herkes katılabilir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/usayed-siir-oyku-yarismasi.jpg?alt=media&token=fbae53e3-4ca9-492e-84de-274f3c3a5b8d"
 ---
 
 Amaç:  

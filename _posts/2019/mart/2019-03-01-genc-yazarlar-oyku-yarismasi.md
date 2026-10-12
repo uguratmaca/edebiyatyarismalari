@@ -9,7 +9,6 @@ comments: true
 lastDate: 1553029200
 dateHuman: "20 Mart 2019"
 comTopic: "Evrensel ve İnsani Değerler"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/yukselen-genc-yildizlar.jpg?alt=media&token=365bd02a-0f65-4fc3-829d-4311c3fad70f"
 ---
 
 Türk Millî Eğitimi’nin genel amaçları doğrultusunda; bu yarışmayla Denizli’nin Pamukkale ve

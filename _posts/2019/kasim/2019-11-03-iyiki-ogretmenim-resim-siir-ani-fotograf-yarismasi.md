@@ -10,7 +10,6 @@ dateHuman: "11 Kasım 2019"
 attendance: "E-Posta"
 requirements: "Büyükçekmece İlçe Milli Eğitim Müdürlüğüne bağlı tüm resmi ve özel okul öğretmenleri katılabilir"
 comTopic: "İyiki Öğretmenim"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/iyiki-%C3%B6%C4%9Fretmenim-resim-%C5%9Fiir-an%C4%B1-fotograf-yarismasi.jpg?alt=media&token=a5340486-03a6-431f-9510-463260a059d2"
 ---
 
 Yarışmanın Amaçları:

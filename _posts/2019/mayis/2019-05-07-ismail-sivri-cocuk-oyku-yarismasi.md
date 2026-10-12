@@ -8,7 +8,6 @@ tags: [mayıs 2019, lise, ortaokul, hikaye yarışması]
 comments: true
 lastDate: 1559077200
 dateHuman: "29 Mayıs 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ismail-sivri-cocuk-oykuleri-yarismasi.jpg?alt=media&token=0de0763f-e9d7-4b17-9ea2-f700b34a2fc1"
 ---
 
 İzmir Gazeteciler Cemiyeti’ne 14 yıl başkan olarak hizmet veren, Türkiye Gazeteciler Federasyonu Kurucu Genel Başkanı İsmail Sivri’nin adını yaşatmak ve gelecek nesillere taşımak amacıyla bu yıl yedincisi düzenlenen “İsmail Sivri Çocuk Öyküleri Yarışması”na başvurular başladı. İzmir Gazeteciler Cemiyeti tarafından düzenlenen yarışmaya; ortaokul  ve lise öğrenimine devam eden öğrenciler başvurabiliyor. Başvurular 29 Mayıs 2019 tarihine kadar devam edecek. Kazanan eserler, 4 yıl arayla kitapta bir araya getirilerek okurlara da sunuluyor.

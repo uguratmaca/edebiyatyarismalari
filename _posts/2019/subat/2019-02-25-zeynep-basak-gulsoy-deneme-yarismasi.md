@@ -10,7 +10,6 @@ lastDate: 1567285200
 comTopic: "Dostluk"
 dateHuman: "1 Eylül 2019"
 totalPrize: "6 Bin TL'dir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/zeynep-basak-gulsoy-deneme-yarismasi.jpg?alt=media&token=07b688b9-ac84-4dd2-8b00-cb5f14ba2595"
 ---
 
 Ufuk Üniversitesi Hukuk Fakültesi'nde tam burslu öğrenim görmeye hak kazanan Zeynep Başak Gülsoy, 13 Mart 2016'da Ankara Güvenpark terör saldırısında hayatını kaybettiğinde birinci sınıf öğrencisiydi ve daha yirmi yaşında bile değildi. 

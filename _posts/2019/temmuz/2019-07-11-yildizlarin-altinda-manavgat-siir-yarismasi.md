@@ -10,7 +10,6 @@ lastDate: 1567026000
 dateHuman: "29 Ağustos 2019"
 comTopic: "Manavgat"
 totalPrize: "18 Bin TL'dir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/yildizlarin-altinda-manavgat-siir-yarismasi.jpg?alt=media&token=266f3314-542f-412c-ba48-b5bb3a90141f"
 ---
 
 AMAÇ: Tarihi binlerce yıl öncesine dayanan Manavgat'ımızın gerek tarihsel, kültürel

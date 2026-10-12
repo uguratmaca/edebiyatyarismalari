@@ -8,7 +8,6 @@ tags: [eylül 2019, genel, hikaye yarışması]
 comments: true
 lastDate: 1567976400
 dateHuman: "9 Eylül 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/tuna-nehri-oyku-yarismasi.jpg?alt=media&token=3a58ccdd-ab66-4c10-98e3-64b084c2071b"
 ---
 
 TUNA NEHRİNE ÖYKÜLER

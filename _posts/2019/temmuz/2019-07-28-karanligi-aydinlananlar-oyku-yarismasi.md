@@ -7,7 +7,6 @@ tags: [eylül 2019, genel, hikaye yarışması]
 comments: true
 lastDate: 1568322000
 dateHuman: "13 Eylül 2019"
-image: "https://firebasestorage.googleapis.com/v0/b/boiga-cyanea.appspot.com/o/karanligi-aydinlatanlar-oyku-yarismasi.png?alt=media&token=5590b8a2-2614-4759-ac0c-91fa10b68e7f"
 ---
 
 YARIŞMANIN AMACI

@@ -9,7 +9,6 @@ lastDate: 1569790800
 dateHuman: "30 Eylül 2019"
 comTopic: "Dayanışma"
 totalPrize: "4 Bin 750 TL değerinde kitap/kırtasiye hediye çekidir."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/yekuv-lise-oyku-yarismasi.PNG?alt=media&token=d7320793-7c12-47ee-9b55-fb9a8cde114b"
 ---
 
 Amaç: 

@@ -9,7 +9,6 @@ lastDate: 1566507600
 dateHuman: "23 Ağustos 2019"
 totalPrize: "8 Bin TL'dir."
 comTopic: "Serbest"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/nezihe-meric-oyku-odulu.jpg?alt=media&token=66d2c313-1fba-4dbd-baac-dfdbbf12448d"
 ---
 
 Nilüfer Belediyesi'nin “Yılın Yazarı” etkinlikleri kapsamında, o yılın adandığı yazar adına düzenlediği Öykü Ödülü başvuru süreci başlıyor. Bu yıl Nezihe Meriç anısına verilen ödüle başvurular 17 Haziran-23 Ağustos tarihleri arasında olacak. 

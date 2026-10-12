@@ -11,7 +11,6 @@ dateHuman: "18 Kasım 2019"
 comTopic: "Öğretmenlerin meslek yaşamları süresindeki eğitim öğretim ile ilgili yaşanmışlıkları yarışmanın konusunu oluşturmaktadır."
 attendance: "Okul müdürlüklerine teslim"
 requirements: "Biga İlçe Milli Eğitim Müdürlüğüne bağlı resmî ve özel okul/kurumlarda aktif olarak görev yapan öğretmen ve yöneticiler başvuru yapabileceklerdir"  
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/ogretmenler-arasi-ani-yarismasi.jpg?alt=media&token=b91fbb9b-5062-4b66-95d1-7bdd8a505955"
 ---
 
 Yarışmanın Amacı:

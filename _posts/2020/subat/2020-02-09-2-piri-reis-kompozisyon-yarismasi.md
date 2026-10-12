@@ -12,7 +12,6 @@ totalPrize: "7 Bin TL'dir"
 comTopic: "İsraf"
 attendance: "E-Posta"
 requirements: "Türkiye’deki tüm ortaöğretim (lise) öğrencileri katılabilir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/piri-reis-2-kompozisyon-yarismasi.jpg?alt=media&token=e8ecad4c-94ef-4ac0-9b5a-4047358dbc73"
 ---
 
 Amaç  
@@ -52,5 +51,3 @@ Yunus Emre Yerleşkesi 70100/KARAMAN
 Telefon : 0338 226 20 80
 Belgegeçer : 0338 226 20 74
 E-posta : sks@kmu.edu.tr
-
-[Taahhütname](https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/piri-reis-israf-kompozisyon-yarismasi.docx?alt=media&token=9faca44c-985d-467f-94e8-da2765c5c2c8){:rel="nofollow"}{:target="_blank"}{:class="gtag"}

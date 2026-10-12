@@ -10,7 +10,6 @@ dateHuman: "10 Ocak 2020"
 comTopic: "Serbest"
 attendance: "E-Posta ya da Posta"
 requirements: "Dileyen herkes katılabilir"  
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/luna-yayinlari-oyku-ve-kucurek-oyku-yarismasi.jpg?alt=media&token=68464410-e3cf-4a58-94f2-ccae09008cf0"
 ---
 
 Yarışmanın Amacı:

@@ -10,7 +10,6 @@ dateHuman: "6 Aralık 2019"
 attendance: "Posta/Kargo/Elden"
 comTopic: "Dijital Vatandaşlık: Bağımlı ve Zorba Olma, İnterneti Bilinçli ve Güvenli Kullan."
 requirements: "Yarışma, ulusal ve uluslararası tüm çizerlere açıktır."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/dijital-vatandaslik-karikatur-yarismasi.jpg?alt=media&token=3a088114-ef9f-4dd5-8a89-c8f934de9b12"
 ---
 
 Şartname:

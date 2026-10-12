@@ -10,7 +10,6 @@ dateHuman: "14 Kasım 2019"
 comTopic: "İnsan Hakları Odağında Hukuk Güvenliği"
 attendance: "Posta ya da Elden"
 totalPrize: "6 Bin TL'dir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/avukat-kazim-kolcuoglu-makale-yarismasi.jpg?alt=media&token=13535dad-1ad9-4775-a5dc-4ba26895f523"
 ---
 
 **Yarışma**nın amacı, hem İstanbul Barosu önceki dönem başkanlarından Değerli Üstad Av. Kazım Kolcuoğlu akademik bir çalışma ile anmak hem de stajyer meslektaşlarımızın kendilerini geliştirmelerine olanak sağlayarak onları bu yönde teşvik etmektir

@@ -11,7 +11,6 @@ attendance: "Web sitesi"
 comTopic: "Serbest"
 totalPrize: "25 Bin TL'dir"
 requirements: "Yaş sınırı olmadan isteyen herkes katılabilir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/16-umraniye-hikaye-yarismasi-2020.jpg?alt=media&token=4725de49-e6c4-494c-a474-0de7a363a6d2"
 archived_to: "/umraniye-belediyesi-hikaye-yarismasi"
 ---
 

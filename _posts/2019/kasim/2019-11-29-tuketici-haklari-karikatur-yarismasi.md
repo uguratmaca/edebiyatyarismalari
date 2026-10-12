@@ -10,7 +10,6 @@ dateHuman: "7 Şubat 2020"
 attendance: "Elden/Posta/Kargo"
 comTopic: "Tüketici Hakları"
 requirements: "Yarışma lise 9,10,11 ve 12 inci sınıflar için yapılacaktır"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/tuketici-haklari-karikatur-yarismasi.jpg?alt=media&token=87cc2ef5-4a02-4e72-bbef-f1cd6b2e3065"
 ---
 
 Eğitim çağındaki çocuklarımızı ve gençlerimizi bilinçli tüketim ve tüketici hakları konusunda bilinçlendirmek, farkındalık yaratmak, sanatsal çalışmalarını desteklemek, değerlendirmek, sergilemek ve kalıcı eserler bırakmaya özendirmek amacı ile Genel Müdürlüğümüzce 2019-2020 Eğitim Öğretim yılı içerisinde “Tüketici Hakları” konulu, ülke çapında resmi ve özel okulların, lise 9.10.11.12. sınıf öğrencileri için KARİKATÜR YARIŞMASI düzenlenmiştir.

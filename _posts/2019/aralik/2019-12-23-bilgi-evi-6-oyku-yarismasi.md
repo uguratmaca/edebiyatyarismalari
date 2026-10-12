@@ -11,7 +11,6 @@ dateHuman: "7 Ocak 2020"
 comTopic: "Serbest"
 attendance: "Elden/Posta"
 requirements: "3 Kategoride: İlkokul, lise, üniversite öğrencileri katılabilir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/bilgi-evleri-6-oyku-yarismasi-2020.jpg?alt=media&token=128843ba-a48d-4d8e-a231-b0f8049b03fb"
 ---
 
 İşte Sizin 'Öykü'nüz..!  

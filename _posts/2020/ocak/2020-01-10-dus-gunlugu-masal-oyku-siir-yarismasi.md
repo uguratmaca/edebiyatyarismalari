@@ -11,7 +11,6 @@ totalPrize: "4 Bin 200 TL'dir"
 comTopic: "Serbest"
 attendance: "Posta/Elden"
 requirements: "Türkiye geneli ortaokulu, lise öğrencileri katılabilir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/8-dus-gunlugu-masal-oyku-siir-yarismasi.jpg?alt=media&token=86d93077-5b31-45f8-a4c8-897b4fcb0249"
 ---
 
 Rota Koleji, 2019-2020 Eğitim-Öğretim Yılı’nda Türkiye geneli ortaokul, lise ve dengi okullara yönelik “Düş Günlüğü” adıyla “masal - öykü - şiir” alanlarında edebiyat ödülleri verecektir.

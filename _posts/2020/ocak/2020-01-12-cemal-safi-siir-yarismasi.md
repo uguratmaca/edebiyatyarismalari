@@ -11,7 +11,6 @@ totalPrize: "16 Bin 500 TL'dir"
 comTopic: "Aşk"
 attendance: "E-Posta"
 requirements: "Yarışmaya 18 yaş ve üzeri herkes katılabilir."
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/cemal-safi-siir-yarismasi.jpeg?alt=media&token=faac28a3-b849-44ca-8d50-e9be82aae1b4"
 archived_to: "/cemal-safi-siir-yarismasi"
 ---
 

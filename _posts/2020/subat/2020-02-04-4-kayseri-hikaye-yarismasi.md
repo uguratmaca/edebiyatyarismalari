@@ -10,7 +10,6 @@ dateHuman: "30 Nisan 2020"
 comTopic: "Serbest"
 attendance: "Websitesi"
 requirements: "İsteyen herkes katılabilir"
-image: "https://firebasestorage.googleapis.com/v0/b/edebiyat-yarismalari.appspot.com/o/4-kayseri-hikaye-yarismasi-2020.jpg?alt=media&token=71c3c5c2-734c-4146-9d33-1155f23b6b45"
 ---
 
 Kayseri Büyükşehir Belediyesi tarafından her yıl geleneksel olarak düzenlenen ve her kesim tarafından merakla beklenen Hikaye Yarışması başvuruları 01 Şubat 2020 tarihi itibari ile başlıyor. Bu sene 4.sünü düzenleyeceğimiz Hikaye Yarışmamızın konusu serbest olup seçici kurulda birbirinden önemli isimler yer almaktadır. Ayrıca dereceye girenlere ödüllerin de verilceği yarışmamızın son katılım tarihi 30 Nisan 2020 olarak belirlenmiştir.  
