@@ -14,7 +14,12 @@ module Jekyll
         timestamp = nil
 
         Dir.chdir(site_source) do
-          IO.popen(["git", "log", "--name-only", "--no-renames", "--pretty=format:%x00%ct"]) do |io|
+          # core.quotepath=false: otherwise git prints a path with non-ASCII
+          # characters quoted and escaped ("_posts/2026/may\304\261s/..."), it
+          # never matches, and the post falls back to the checkout's mtime,
+          # a new lastmod on every build.
+          IO.popen(["git", "-c", "core.quotepath=false", "log", "--name-only", "--no-renames",
+                    "--pretty=format:%x00%ct"], encoding: "UTF-8") do |io|
             io.each_line do |line|
               line.chomp!
               next if line.empty?
