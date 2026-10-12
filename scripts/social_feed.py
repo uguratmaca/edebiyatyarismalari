@@ -15,6 +15,8 @@ Instagram takes JPEG only, with an aspect ratio between 4:5 and 1.91:1, and
 contest images are WebP posters of any shape. So each listed contest's image
 is drawn whole on a 1080x1350 canvas over a blurred copy of itself (nothing
 cropped) and saved as <image>-social.jpg next to the original in _site.
+The weekly list gets a card of its own (logo, the week, the contests by
+deadline) at images/social/haftalik-<year>-W<week>.jpg.
 Nothing here is committed: the feed and the JPEGs exist only in the build.
 """
 
@@ -28,7 +30,7 @@ import sys
 from pathlib import Path
 
 import yaml
-from PIL import Image, ImageEnhance, ImageFilter
+from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = "https://edebiyatyarismalari.com"
@@ -43,6 +45,20 @@ MAX_UPSCALE = 1.5  # small images stay sharp rather than filling the canvas
 
 FILENAME = re.compile(r"^(\d{4})-(\d{2})-(\d{2})-")
 BASE_HASHTAGS = ["edebiyat", "yarışma"]
+
+# The weekly list's card: the logo's navy and gold on paper white.
+LOGO = ROOT / "images" / "edebiyat-yarismalari-logo-icon-512.png"
+PAPER, NAVY, GOLD, GREY = (250, 247, 240), (27, 54, 107), (201, 148, 46), (96, 104, 120)
+# DejaVu is on the Ubuntu runners, Georgia/Arial for a local preview on Windows.
+# Without any of them the weekly list goes out without a card.
+FONTS = {
+    "serif": ["/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf", "C:/Windows/Fonts/georgiab.ttf"],
+    "bold": ["/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", "C:/Windows/Fonts/arialbd.ttf"],
+    "regular": ["/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", "C:/Windows/Fonts/arial.ttf"],
+}
+MONTHS = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım",
+          "Aralık"]
+DAYS = ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"]
 
 
 def front_matter(path: Path) -> dict | None:
@@ -149,6 +165,120 @@ def render(source: Path, out_path: Path) -> None:
     canvas.save(out_path, "JPEG", quality=88, optimize=True)
 
 
+def font(kind: str, size: int) -> ImageFont.FreeTypeFont | None:
+    for path in FONTS[kind]:
+        if Path(path).exists():
+            return ImageFont.truetype(path, size)
+    return None
+
+
+def wrap(text: str, face: ImageFont.FreeTypeFont, width: float) -> list[str]:
+    lines, line = [], ""
+    for word in text.split():
+        candidate = f"{line} {word}".strip()
+        if line and face.getlength(candidate) > width:
+            lines.append(line)
+            line = word
+        else:
+            line = candidate
+    return lines + [line] if line else lines
+
+
+def week_label(monday: dt.date) -> str:
+    sunday = monday + dt.timedelta(days=6)
+    if monday.month == sunday.month:
+        return f"{monday.day}-{sunday.day} {MONTHS[sunday.month - 1]} {sunday.year}"
+    return f"{monday.day} {MONTHS[monday.month - 1]} - {sunday.day} {MONTHS[sunday.month - 1]} {sunday.year}"
+
+
+def list_lines(groups: list[tuple[dt.date, list[str]]], size: int, width: int, limit: int | None = None):
+    """(font, text, colour, indent, space before) per line; None when a font is missing."""
+    day_face, title_face = font("bold", size), font("regular", size)
+    if not day_face or not title_face:
+        return None
+    lines, shown = [], 0
+    for day, titles in groups:
+        if limit is not None and shown >= limit:
+            break
+        lines.append((day_face, f"{day.day} {MONTHS[day.month - 1]} {DAYS[day.weekday()]}", GOLD, 0,
+                      size if lines else 0))
+        for title in titles:
+            if limit is not None and shown >= limit:
+                break
+            bullet = title_face.getlength("• ")
+            for i, part in enumerate(wrap(title, title_face, width - bullet)):
+                lines.append((title_face, ("• " if i == 0 else "") + part, NAVY, 0 if i == 0 else bullet,
+                              size // 3 if i == 0 else 0))
+            shown += 1
+    total = sum(len(titles) for _, titles in groups)
+    if shown < total:
+        lines.append((title_face, f"ve {total - shown} yarışma daha", GREY, 0, size // 2))
+    return lines
+
+
+def weekly_image(this_week: list[dict], monday: dt.date, site: Path) -> str | None:
+    """URL of the weekly list's card (written into the site), None without the fonts."""
+    w, h = SOCIAL_SIZE
+    margin, footer = 80, 120
+    title_face, week_face, footer_face = font("serif", 60), font("bold", 40), font("bold", 38)
+    if not title_face or not week_face or not footer_face:
+        print("weekly card skipped: no font found", file=sys.stderr)
+        return None
+    canvas = Image.new("RGB", SOCIAL_SIZE, PAPER)
+    draw = ImageDraw.Draw(canvas)
+
+    with Image.open(LOGO) as logo:
+        logo = logo.convert("RGBA").resize((150, 150), Image.LANCZOS)
+        canvas.paste(logo, ((w - logo.width) // 2, 60), logo)
+    y = 230
+    for line in wrap("Bu hafta son başvurusu olan yarışmalar", title_face, w - 2 * margin):
+        draw.text((w / 2, y), line, font=title_face, fill=NAVY, anchor="ma")
+        y += 74
+    y += 10
+    draw.text((w / 2, y), week_label(monday), font=week_face, fill=GOLD, anchor="ma")
+    y += 80
+    draw.line((w / 2 - 120, y, w / 2 + 120, y), fill=GOLD, width=4)
+    y += 50
+
+    groups: dict[dt.date, list[str]] = {}
+    for post in this_week:
+        groups.setdefault(post["deadline"].date(), []).append(str(post["title"]))
+    room = h - footer - 50 - y
+
+    def height(lines):
+        return sum(face.size * 1.3 + before for face, _, _, _, before in lines)
+
+    # The largest type that fits; past the smallest, as many contests as fit.
+    lines = None
+    for size in range(42, 27, -2):
+        lines = list_lines(list(groups.items()), size, w - 2 * margin)
+        if lines is None or height(lines) <= room:
+            break
+    else:
+        total = len(this_week)
+        for limit in range(total - 1, 0, -1):
+            lines = list_lines(list(groups.items()), 28, w - 2 * margin, limit)
+            if height(lines) <= room:
+                break
+    if lines is None:
+        print("weekly card skipped: no font found", file=sys.stderr)
+        return None
+    for face, text, colour, indent, before in lines:
+        y += before
+        draw.text((margin + indent, y), text, font=face, fill=colour)
+        y += face.size * 1.3
+
+    draw.rectangle((0, h - footer, w, h), fill=NAVY)
+    draw.text((w / 2, h - footer / 2), "edebiyatyarismalari.com", font=footer_face, fill=PAPER, anchor="mm")
+
+    year, week, _ = monday.isocalendar()
+    out_relative = f"images/social/haftalik-{year}-W{week:02d}.jpg"
+    out_path = site / out_relative
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    canvas.save(out_path, "JPEG", quality=90, optimize=True)
+    return f"{SITE}/{out_relative}"
+
+
 def build(posts: list[dict], site: Path, now: dt.datetime) -> list[dict]:
     items = []
     today = now.astimezone(ISTANBUL).date()
@@ -190,9 +320,13 @@ def build(posts: list[dict], site: Path, now: dt.datetime) -> list[dict]:
         year, week, _ = monday.isocalendar()
         lines = "\n".join(f"• {p['title']} ({p.get('dateHuman') or p['deadline'].date()})" for p in this_week)
         weekly_at = at_istanbul(monday, POST_HOUR)
-        items.append({"id": f"haftalik-{year}-W{week:02d}", "created_at": iso(weekly_at), "publish_at": iso(weekly_at),
-                      "text": f"Bu hafta son başvurusu olan yarışmalar\n\n{lines}", "link": SITE + "/", "lang": "tr",
-                      "hashtags": BASE_HASHTAGS})
+        weekly = {"id": f"haftalik-{year}-W{week:02d}", "created_at": iso(weekly_at), "publish_at": iso(weekly_at),
+                  "text": f"Bu hafta son başvurusu olan yarışmalar\n\n{lines}", "link": SITE + "/", "lang": "tr",
+                  "hashtags": BASE_HASHTAGS}
+        image = weekly_image(this_week, monday, site)
+        if image:
+            weekly["image_url"] = image
+        items.append(weekly)
     return sorted(items, key=lambda i: (i.get("publish_at") or i["created_at"], i["id"]))
 
 
