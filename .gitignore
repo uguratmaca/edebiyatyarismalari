@@ -9,3 +9,4 @@ vendor/
 .claude/*
 !.claude/notes-post-schema.md
 !.claude/notes-404-redirects.md
+__pycache__/
