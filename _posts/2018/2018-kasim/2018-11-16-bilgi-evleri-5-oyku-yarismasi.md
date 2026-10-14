@@ -6,6 +6,7 @@ excerpt: "İnsana, topluma yeni bir bakış ve yorumlar yazmaya yönelenlerin, y
 category: articles
 tags: []
 comments: true
+archived_to: "/zeytinburnu-bilgi-evleri-oyku-yarismasi"
 ---
 
 Son Başvuru Tarihi: 9 Ocak 2019. Toplam ödül: 30 Bin Tl'dir.

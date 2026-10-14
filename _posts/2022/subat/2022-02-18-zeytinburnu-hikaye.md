@@ -14,6 +14,7 @@ requirements: "İstanbul Zeytinburnu Ortaokul, lise, üniversite, yetişkinler k
 permalink: "zeytinburnu-7-hikaye-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/subat/zeytinburnu-7-oyku-yarismasi.jpg"
 excerpt: "Zeytinburnu Bilgi Evleri <strong>7. Öykü Yarışması</strong> düzenliyor."
+archived_to: "/zeytinburnu-bilgi-evleri-oyku-yarismasi"
 ---
 
 ## 7. Öykü Yarışması

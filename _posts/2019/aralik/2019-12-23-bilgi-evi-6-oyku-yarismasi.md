@@ -11,6 +11,7 @@ dateHuman: "7 Ocak 2020"
 comTopic: "Serbest"
 attendance: "Elden/Posta"
 requirements: "3 Kategoride: İlkokul, lise, üniversite öğrencileri katılabilir"
+archived_to: "/zeytinburnu-bilgi-evleri-oyku-yarismasi"
 ---
 
 İşte Sizin 'Öykü'nüz..!  

@@ -14,6 +14,7 @@ totalPrize: "65 Bin TL'dir"
 permalink: "zeytinburnu-oyku-yarismasi-2023"
 image: "https://edebiyatyarismalari.com/images/2023/ekim/zeytinburnu-oyku-yarismasi-2023.jpg"
 excerpt:  "Zeytinburnu Bilgi Evleri ve Gençlik Merkezi <strong> 9. Öykü Yarışması </strong> düzenliyor."
+archived_to: "/zeytinburnu-bilgi-evleri-oyku-yarismasi"
 ---
 
 ## 9. Öykü Yarışması

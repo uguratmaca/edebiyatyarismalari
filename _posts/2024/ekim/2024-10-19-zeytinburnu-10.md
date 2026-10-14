@@ -13,6 +13,7 @@ permalink: "zeytinburnu-10-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2024/ekim/zeytinburnu-10-oyku-yarismasi-2024.webp"
 organizer: "Zeytinburnu Belediyesi Bilgi Evleri"
 excerpt: "Zeytinburnu Belediyesi 10. Öykü Yarışmasını duyurdu."
+archived_to: "/zeytinburnu-bilgi-evleri-oyku-yarismasi"
 ---
 
 ## Zeytinburnu Belediyesi 10. Öykü Yarışması

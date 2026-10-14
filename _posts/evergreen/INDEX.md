@@ -101,6 +101,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **YTB Bir Dünya Edebiyat Ödülleri** — [dosya](diger/2026-09-15-ytb-bir-dunya-edebiyat-odulleri.md) · `/ytb-bir-dunya-edebiyat-odulleri`
 - **YAZAK Öykü Yarışması** — [dosya](hikaye/2026-09-13-yazak-hikaye-yarismasi.md) · `/yazak-hikaye-yarismasi`
 - **Zeynep Cemali Öykü Yarışması** — [dosya](2026-02-10-zeynep-cemali-oyku-yarismasi.md) · `/zeynep-cemali-oyku-yarismasi`
+- **Zeytinburnu Bilgi Evleri Öykü Yarışması** — [dosya](hikaye/2026-10-14-zeytinburnu-bilgi-evleri-oyku-yarismasi.md) · `/zeytinburnu-bilgi-evleri-oyku-yarismasi`
 - **Çankaya Üniversitesi İngilizce Yaratıcı Yazın Yarışması**: [dosya](diger/2026-01-05-ingilizce-yaratici-yazin-yarismasi.md) · `/ingilizce-yaratici-yazin-yarismasi`
 - **Çığ Dergisi Öykü Yarışması** — [dosya](hikaye/2026-07-15-cig-dergisi-oyku-yarismasi.md) · `/cig-dergisi-oyku-yarismasi`
 - **Çukurova Öykü Yarışması** — [dosya](2025-06-29-cukurova-oyku-odulu.md) · `/cukurova-oyku-yarismasi`

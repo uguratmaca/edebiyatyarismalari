@@ -37,11 +37,21 @@ to_fix = []
 mismatches = []
 unresolved = []
 
+# Sadece "Geçmiş Yıllar" başlığından sonraki linkler arşiv kabul edilir; gövdedeki
+# diğer iç linkler (kardeş yarışma, yazar hakkında sayfası vb.) arşiv değildir.
+def past_year_links(doc)
+  idx = doc.content.index(/^#+\s*Geçmiş Yıllar/)
+  return [] unless idx
+
+  doc.content[idx..].scan(/\]\((\/[^\s\)]+)\)/).flatten.uniq
+end
+
+links_by_evergreen = evergreen_docs.to_h { |doc| [doc.url, past_year_links(doc)] }
+
 evergreen_docs.each do |doc|
   target_url = doc.url
-  links = doc.content.scan(/\]\((\/[^\s\)]+)\)/).flatten.uniq
 
-  links.each do |link|
+  links_by_evergreen[target_url].each do |link|
     old_doc = lookup(url_to_doc, link)
     if old_doc.nil?
       unresolved << [doc.relative_path, link]
@@ -53,7 +63,10 @@ evergreen_docs.each do |doc|
     if current.nil?
       to_fix << [old_doc.relative_path, target_url]
     elsif current != target_url
-      mismatches << [old_doc.relative_path, current, target_url]
+      # Eski post birden fazla evergreen'in geçmişinde listelenebilir (ör. bir festivalin
+      # hem senaryo hem kısa film sayfası); archived_to bunlardan birini gösteriyorsa sorun yok.
+      shared = links_by_evergreen.fetch(current, []).any? { |l| lookup(url_to_doc, l) == old_doc }
+      mismatches << [old_doc.relative_path, current, target_url] unless shared
     end
   end
 end

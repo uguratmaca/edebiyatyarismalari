@@ -15,6 +15,7 @@ totalPrize: "135 Bin TL'dir."
 permalink: "8-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2022/kasim/8-oyku-yarismasi.jpg"
 excerpt:  "Zeytinburnu Bilgi Evleri ve Gençlik Merkezi <strong> Bilgi Evleri 8. Öykü Yarışması </strong> düzenliyor."
+archived_to: "/zeytinburnu-bilgi-evleri-oyku-yarismasi"
 ---
 
 ## Bilgi Evleri 8. Öykü Yarışması
