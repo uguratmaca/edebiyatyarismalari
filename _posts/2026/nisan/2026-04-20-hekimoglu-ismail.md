@@ -5,7 +5,7 @@ description: "Timaş Yayın Grubu'nun 18 yaş üzeri yazarlara yönelik düzenle
 author: "Ümit Atmaca"
 category: articles
 tags: [ekim 2026, hikaye yarışması, genel]
-lastDate: 1795986000
+lastDate: 1793307600
 dateHuman: "30 Ekim 2026"
 comTopic: "Serbest"
 totalPrize: "157 Bin 500 TL'dir"
