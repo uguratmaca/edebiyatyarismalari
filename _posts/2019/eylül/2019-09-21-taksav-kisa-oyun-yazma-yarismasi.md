@@ -8,6 +8,7 @@ comments: true
 lastDate: 1573419600
 dateHuman: "11 Kasım 2019"
 comTopic: "Birlikte Yaparız"
+archived_to: "/izmir-tiyatro-oyun-yazma-yarismasi"
 ---
 
 Toplumsal Araştırmalar Kültür Ve Sanat İçin Vakıf(TAKSAV) Uluslararası İzmir Tiyatro Festivali kapsamında **Kısa Oyun Yazma Yarışması** düzenledi.
