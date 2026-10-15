@@ -48,5 +48,6 @@ Site Türkçe'dir ve içeriği Türkiye'deki edebiyat yarışmalarına odaklanı
 - [Telegram kanalı](https://t.me/edebiyatyarismalari): yeni yarışmalar çıktıkça
 - [YouTube](https://www.youtube.com/@edebiyatyarismalari): her hafta son başvurusu yaklaşan yarışmalar, yarışma arşivinden veri videoları
 - [Threads](https://www.threads.com/@edebiyatyarisma)
+- [WhatsApp topluluğu](https://chat.whatsapp.com/EQ5KuLh0Vzu1oOqH9Csoe7): yeni yarışma duyuruları
 
 Her yarışma sayfası şu yapılandırılmış bilgileri (hem düz metin hem schema.org JSON-LD olarak) içerir: yarışma adı, düzenleyen kurum, son başvuru tarihi, konu/tema şartı, katılım koşulları, ödül tutarı, başvuru şekli.
