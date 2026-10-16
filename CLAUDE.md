@@ -22,6 +22,7 @@ işleme (resize/watermark) için `.claude/notes-post-schema.md`'ye bak.
 Her öğenin `people` alanı düzenleyen kurumu (`organizer`) ve jüriyi (`## ... Jürisi` başlığı altındaki maddeler, unvansız ad) adıyla verir; Instagram paylaşımında bunların hesapları etiketlenir. **Instagram hesapları bu repoya yazılmaz**: ad ile hesap eşleşmesi paylaşımı yapan, kardeş klasördeki özel `social-poster` reposunun `data/instagram/edebiyat.yml` dosyasında tutulur. Yeni yarışma eklerken:
 - Düzenleyen kurumun ve jüri üyelerinin Instagram hesaplarını ara. Hesapları social-poster'da `python -m poster.ig_lookup <kullanıcı adları>` ile doğrula (ad, takipçi, bio; kişisel hesaplar "not found" döner); kişisel jüri hesaplarını kullanıcıya onaylat. Yanlış etiket hiç etiketten kötüdür.
 - Bulunanları ve aranıp bulunamayanları (`null`, bir daha aranmasın diye) o dosyaya ekle, social-poster'da commit et; bulamadıklarını kullanıcıya sor.
+- Eşleşme ada göre: dosyada zaten olan bir ad yeni yarışmanın jürisinde geçiyorsa aynı kişi mi bak (unvan, şehir, hesabın bio'su). Emin değilsen kullanıcıya sor; başka biriyse o yarışmanın postunda adı ayırt edecek biçimde yaz (ör. ikinci adıyla) ki yanlış kişi etiketlenmesin.
 - Jüri adlarını `## {title} Jürisi` altında `- Ad Soyad (unvan) – rol` biçiminde yaz; ad bu satırdan ayıklanır.
 
 ## Öncelik: SEO ve GEO
