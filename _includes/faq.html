@@ -1,0 +1,87 @@
+{% comment %}
+  Yarışma sayfasının "Sık sorulan sorular" bölümü ve aynı soru-cevapların FAQPage
+  JSON-LD'si. Sadece front matter'da dolu olan alanlardan üretilir; en az iki soru
+  çıkmazsa hiçbir şey basılmaz. Görünen metin ile JSON-LD aynı dizilerden gelir.
+  (Google FAQ zengin sonucunu 2023'ten beri az siteye gösteriyor; asıl fayda yapay
+  zekâ motorlarının etiketli, net cevapları alıntılayabilmesi.)
+{% endcomment %}
+{% assign faq_q = "" | split: "" %}
+{% assign faq_a = "" | split: "" %}
+
+{% if page.dateHuman %}
+  {% assign faq_q = faq_q | push: "Son başvuru tarihi ne zaman?" %}
+  {% assign d = page.dateHuman | strip %}{% assign first = d | slice: 0 %}{% assign last = d | slice: -1 %}
+  {% capture a %}{% if "0123456789" contains first %}Son başvuru tarihi {{ d }}{% else %}{{ d }}{% endif %}{% unless ".?!…" contains last %}.{% endunless %}{% endcapture %}
+  {% assign faq_a = faq_a | push: a %}
+{% endif %}
+
+{% if page.requirements or page.ageRange %}
+  {% assign faq_q = faq_q | push: "Kimler katılabilir?" %}
+  {% capture a %}{% if page.requirements %}{{ page.requirements | strip_html | strip }}{% assign last = page.requirements | strip | slice: -1 %}{% unless ".?!…" contains last %}.{% endunless %}{% endif %}{% if page.ageRange %} Yaş şartı: {{ page.ageRange }}.{% endif %}{% if page.authorCondition == "kitabı olmayanlar" %} Daha önce kitabı yayımlanmamış olmak gerekiyor.{% elsif page.authorCondition == "ilk kitap" %} Yalnızca ilk kitap veya ilk kitap niteliğindeki dosyalar kabul ediliyor.{% endif %}{% endcapture %}
+  {% assign a = a | strip %}{% assign faq_a = faq_a | push: a %}
+{% endif %}
+
+{% if page.totalPrize %}
+  {% assign faq_q = faq_q | push: "Ödül ne kadar?" %}
+  {% assign last = page.totalPrize | strip | slice: -1 %}
+  {% capture a %}Yarışmanın toplam para ödülü {{ page.totalPrize | strip }}{% unless ".?!…" contains last %}.{% endunless %}{% endcapture %}
+  {% assign faq_a = faq_a | push: a %}
+{% endif %}
+
+{% if page.entryFee %}
+  {% assign faq_q = faq_q | push: "Katılım ücreti var mı?" %}
+  {% capture a %}{% if page.entryFee == "Ücretsiz" %}Hayır, katılım ücretsiz.{% else %}Katılım ücreti: {{ page.entryFee }}.{% endif %}{% endcapture %}
+  {% assign faq_a = faq_a | push: a %}
+{% endif %}
+
+{% if page.attendance or page.submissionType %}
+  {% assign faq_q = faq_q | push: "Başvuru nasıl yapılır?" %}
+  {% capture a %}{% if page.attendance %}Başvuru şekli: {{ page.attendance | strip }}.{% endif %}{% if page.submissionType %} Başvuru biçimi: {{ page.submissionType | join: " veya " }}.{% endif %} Başvuru bağlantısı ve şartnamenin tamamı bu sayfada.{% endcapture %}
+  {% assign a = a | strip %}{% assign faq_a = faq_a | push: a %}
+{% endif %}
+
+{% if page.workLimit or page.workCount %}
+  {% assign faq_q = faq_q | push: "Eserin uzunluğu ve sayısı için sınır var mı?" %}
+  {% capture a %}{% if page.workLimit %}Uzunluk sınırı: {{ page.workLimit }}.{% endif %}{% if page.workCount %} Gönderilebilecek eser sayısı: {{ page.workCount }}.{% endif %}{% endcapture %}
+  {% assign a = a | strip %}{% assign faq_a = faq_a | push: a %}
+{% endif %}
+
+{% if page.comTopic %}
+  {% assign faq_q = faq_q | push: "Yarışmanın konusu nedir?" %}
+  {% assign topic = page.comTopic | strip %}
+  {% capture a %}{% if topic == "Serbest" %}Konu serbest.{% else %}Konu: {{ topic }}{% assign last = topic | slice: -1 %}{% unless ".?!…" contains last %}.{% endunless %}{% endif %}{% endcapture %}
+  {% assign faq_a = faq_a | push: a %}
+{% endif %}
+
+{% if page.resultDate %}
+  {% assign faq_q = faq_q | push: "Sonuçlar ne zaman açıklanır?" %}
+  {% capture a %}Sonuçların açıklanma tarihi: {{ page.resultDate }}.{% endcapture %}
+  {% assign faq_a = faq_a | push: a %}
+{% endif %}
+
+{% if faq_q.size >= 2 %}
+<section class="faq">
+  <h2 class="h5">Sık sorulan sorular</h2>
+  {% for q in faq_q %}
+  <h3 class="h6 mb-1">{{ q }}</h3>
+  <p>{{ faq_a[forloop.index0] }}</p>
+  {% endfor %}
+</section>
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{% for q in faq_q %}
+      {
+        "@type": "Question",
+        "name": {{ q | jsonify }},
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": {{ faq_a[forloop.index0] | strip_html | normalize_whitespace | jsonify }}
+        }
+      }{% unless forloop.last %},{% endunless %}{% endfor %}
+    ]
+  }
+</script>
+{% endif %}

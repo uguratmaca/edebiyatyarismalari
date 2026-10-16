@@ -8,7 +8,7 @@ comments: true
 lastDate: 1573592400
 dateHuman: "13 Kasım 2019"
 attendance: "Okula teslim"
-requirements: "İstanbul'daki resmi ve özel okullarda eğitim gören öğrencisi olmak.."
+requirements: "İstanbul'daki resmi ve özel okullarda eğitim gören öğrencisi olmak."
 comTopic: "Benim Öğretmenim"
 ---
 
