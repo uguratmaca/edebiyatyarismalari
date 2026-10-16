@@ -10,6 +10,8 @@ once. Items:
 - a reminder one week before the deadline,
 - every Monday, the contests whose deadline falls in that week.
 Posts with `hidden: true` are left out.
+Each item's `people` names the organizer (front matter `organizer`) and the
+jury (the bullets under "## ... Jürisi"), for the poster to tag on Instagram.
 
 Instagram takes JPEG only, with an aspect ratio between 4:5 and 1.91:1, and
 contest images are WebP posters of any shape. So each listed contest's image
@@ -98,8 +100,36 @@ def load_posts() -> list[dict]:
         added = added_date(path, data)
         if added is None:
             continue
-        posts.append({**data, "added": added, "deadline": dt.datetime.fromtimestamp(int(data["lastDate"]), ISTANBUL)})
+        posts.append({**data, "added": added, "deadline": dt.datetime.fromtimestamp(int(data["lastDate"]), ISTANBUL),
+                      "jury": jury(path.read_text(encoding="utf-8").split("\n---", 1)[-1])})
     return posts
+
+
+JURY_SECTION = re.compile(r"^##[^\n]*J[üu]ri[^\n]*\n(.*?)(?=^#|\Z)", re.S | re.M)
+TITLES = re.compile(r"^(?:(?:Prof|Doç|Yrd|Dr|Öğr|Gör|Üyesi|Arş)\.?\s+)+")
+
+
+def jury(body: str) -> list[str]:
+    """The names under the post's "## ... Jürisi" heading: "- Ad Soyad (unvan) – rol" -> "Ad Soyad"."""
+    section = JURY_SECTION.search(body)
+    names = []
+    for line in section.group(1).splitlines() if section else []:
+        line = line.strip()
+        if not line.startswith(("-", "*")):
+            continue
+        name = re.sub(r"\[([^\]]*)\]\([^)]*\)(\{[^}]*\})*", r"\1", line.lstrip("-* "))  # a link: its text
+        name = re.split(r"\s+[–-]\s+|\s*\(|,", name)[0]
+        name = TITLES.sub("", name.strip()).strip(" .")
+        if name:
+            names.append(name)
+    return names
+
+
+def people(post: dict) -> list[str]:
+    """The organizer and the jury, by name. The poster tags their Instagram
+    accounts from its own list; the accounts aren't kept in this repo."""
+    organizer = str(post.get("organizer") or "").strip()
+    return ([organizer] if organizer else []) + post.get("jury", [])
 
 
 def at_istanbul(day: dt.date, hour: int = 0) -> dt.datetime:
@@ -297,7 +327,7 @@ def build(posts: list[dict], site: Path, now: dt.datetime) -> list[dict]:
         if not is_new and not wants_reminder:
             continue
         image = social_image(post, site)
-        common = {"link": url(post), "lang": "tr", "hashtags": hashtags(post)}
+        common = {"link": url(post), "lang": "tr", "hashtags": hashtags(post), "people": people(post)}
         if image:
             common["image_url"] = image
         if is_new:
@@ -322,7 +352,9 @@ def build(posts: list[dict], site: Path, now: dt.datetime) -> list[dict]:
         weekly_at = at_istanbul(monday, POST_HOUR)
         weekly = {"id": f"haftalik-{year}-W{week:02d}", "created_at": iso(weekly_at), "publish_at": iso(weekly_at),
                   "text": f"Bu hafta son başvurusu olan yarışmalar\n\n{lines}", "link": SITE + "/", "lang": "tr",
-                  "hashtags": BASE_HASHTAGS}
+                  "hashtags": BASE_HASHTAGS,
+                  # The organizers only: every jury of the week would be too many tags.
+                  "people": list(dict.fromkeys(p for post in this_week for p in people(post)[:1]))}
         image = weekly_image(this_week, monday, site)
         if image:
             weekly["image_url"] = image

@@ -19,6 +19,11 @@ işleme (resize/watermark) için `.claude/notes-post-schema.md`'ye bak.
 
 `scripts/social_feed.py` Pages build'inde (`.github/workflows/jekyll.yml`, push'ta ve her gün) `_site/social.json`'u ve listelenen yarışmaların `<görsel>-social.jpg` kopyalarını (1080x1350, afiş kırpılmadan, bulanık arka plan) ile haftalık listenin kartını (`images/social/haftalik-<yıl>-W<hafta>.jpg`) üretir; bunlar commit edilmez. Sosyal medya hesaplarına otomatik paylaşım bu feed'den yapılır: yeni yarışma, son başvurudan 1 hafta önce hatırlatma, pazartesi o haftanın kapanan yarışmaları. `hidden: true` postlar paylaşılmaz. Paylaşım metni `title`, `description`, `dateHuman` ve `totalPrize`'dan, hashtag'ler "... yarışması" ile biten tag'lerden gelir; bu yüzden bu alanlar paylaşılabilir durumda tutulur.
 
+Her öğenin `people` alanı düzenleyen kurumu (`organizer`) ve jüriyi (`## ... Jürisi` başlığı altındaki maddeler, unvansız ad) adıyla verir; Instagram paylaşımında bunların hesapları etiketlenir. **Instagram hesapları bu repoya yazılmaz**: ad ile hesap eşleşmesi paylaşımı yapan, kardeş klasördeki özel `social-poster` reposunun `data/instagram/edebiyat.yml` dosyasında tutulur. Yeni yarışma eklerken:
+- Düzenleyen kurumun ve jüri üyelerinin Instagram hesaplarını ara. Hesapları social-poster'da `python -m poster.ig_lookup <kullanıcı adları>` ile doğrula (ad, takipçi, bio; kişisel hesaplar "not found" döner); kişisel jüri hesaplarını kullanıcıya onaylat. Yanlış etiket hiç etiketten kötüdür.
+- Bulunanları ve aranıp bulunamayanları (`null`, bir daha aranmasın diye) o dosyaya ekle, social-poster'da commit et; bulamadıklarını kullanıcıya sor.
+- Jüri adlarını `## {title} Jürisi` altında `- Ad Soyad (unvan) – rol` biçiminde yaz; ad bu satırdan ayıklanır.
+
 ## Öncelik: SEO ve GEO
 
 Bu proje için her zaman öncelik **SEO**'dur. Tasarım, UX, performans gibi konularda karar verirken de bu önceliği göz önünde bulundur (ör. semantic HTML, başlık hiyerarşisi, alt text, sayfa hızı, crawl edilebilirlik, structured data gibi etkenler tercih sebebidir).
