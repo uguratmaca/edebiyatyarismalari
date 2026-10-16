@@ -1,44 +1,52 @@
 ---
 layout: post
-title: "Ümit Kaftancıoğlu Öykü Yarışması"
-description: "Gazeteci yazar Ümit Kaftancıoğlu anısına her yıl düzenlenen Ümit Kaftancıoğlu Öykü Yarışması'na başvurular başladı."
-date: 2025-10-12
+title: "23. Ümit Kaftancıoğlu Öykü Yarışması"
+description: "Gazeteci yazar Ümit Kaftancıoğlu anısına bu yıl 23. kez düzenlenen Ümit Kaftancıoğlu Öykü Yarışması'na başvurular 15 Aralık 2026'ya kadar sürüyor."
+date: 2026-10-15
 category: articles
-tags: [her yıl tekrarlanan hikaye, aralık 2025, hikaye yarışması, genel]
-lastDate: 1767135600
-dateHuman: "31 Aralık 2025"
+tags: [her yıl tekrarlanan hikaye, aralık 2026, hikaye yarışması, genel]
+lastDate: 1797282000
+dateHuman: "15 Aralık 2026"
 attendance: "Posta, Kargo"
 comTopic: "Serbest"
 organizer: "Öztürk Tatar"
 requirements: "İsteyen herkes katılabilir"
 permalink: "umit-kaftancioglu-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/ekim/umit-kaftancioglu-oyku-yarismasi.jpg"
-excerpt: "Gazeteci yazar Ümit Kaftancıoğlu anısına her yıl düzenlenen Ümit Kaftancıoğlu Öykü Yarışması'na başvurular başladı."
+excerpt: "Gazeteci yazar Ümit Kaftancıoğlu anısına bu yıl 23. kez düzenlenen Ümit Kaftancıoğlu Öykü Yarışması'na başvurular 15 Aralık 2026'ya kadar sürüyor."
+workLimit: "En az 2, en çok 14 sayfa (bilgisayarda, 12 punto)"
+workCount: "Kişi başı 1 öykü"
+resultDate: "30 Mart 2027"
+keyPoints:
+  - "Öykü daha önce yayımlanmamış ve herhangi bir ödül almamış olmalıdır."
+  - "Birinci sayfanın sağ üst köşesine yalnızca büyük harflerle rumuz yazılır, metinde gerçek ad ve soyad yer almaz."
+  - "Öykü 4 kopya gönderilir, kısa özgeçmiş ve iletişim bilgileri (adres, telefon) zarfın içinde ayrı bir dosyaya konur."
 ---
 
-## Ümit Kaftancıoğlu Öykü Yarışması
+## 23. Ümit Kaftancıoğlu Öykü Yarışması
 
-11 Nisan 1980'de öldürülen TRT İstanbul Radyosu Prodüktörü, gazeteci yazar Ümit Kaftancıoğlu adına her yıl bir **Öykü Yarışması** düzenlenmektedir. Yarışma, iki aşamalı bir değerlendirme sistemiyle yürütülür.
+11 Nisan 1980'de katledilen TRT İstanbul Radyosu Prodüktörü, gazeteci ve yazar Ümit Kaftancıoğlu anısına her yıl bir **Öykü Yarışması** düzenlenmektedir. Bu yıl 23'üncüsü düzenlenen yarışmanın başvuruları **15 Ekim 2026 - 15 Aralık 2026** tarihleri arasında kabul edilecek. Yarışma, iki aşamalı bir değerlendirme sistemiyle yürütülür.
 
 Katılım Koşulları:
-- Eser sahipleri yayımlanmamış ve ödül almamış tek öykü ile katılacaklardır. Konu sınırı yoktur.
-- Öyküler bilgisayarda 12 punto ile yazılmış olarak en az 3 en çok 14 sayfa olacaktır.
-- Öykülerin yazılı olduğu dosyanın sağ üst köşesine büyük harflerle rumuz yazılacaktır. Kesinlikle gerçek ad ve soyadı belirtilmeyecektir.
-- Katılımcılar öykülerini 4 kopya olarak gönderecekler ve gönderinin içine ayrı bir dosyada kısa özyaşamı, adresi ve telefon bilgilerini belirteceklerdir. Aksi durumda öyküler değerlendirmeye alınmayacaktır.
-- Son katılım tarihi her yıl aralık ayı sonudur (en güncel dönem için 31 Aralık 2025).
-- Öykü yarışması sonuçları, son başvuru tarihinden yaklaşık üç ay sonra basın yolu ile açıklanır ve Ümit Kaftancıoğlu Öykü Ödülleri Gecesi'nde ödüller sahiplerine verilir.
-- Değerlendirme 1., 2. ve 3. şeklinde olacak, ilk 10'a giren öyküler kitap olarak basılacaktır. Dereceye giren katılımcılar plaket ve kitap seti ile ödüllendirilecektir.
-- Yarışmaya katılacak olan tüm katılımcılar dereceye giren öykülerin kitap olarak basımını kabul etmiş sayılır.
+- Eser sahipleri, daha önce yayımlanmamış ve herhangi bir ödül almamış tek bir öykü ile yarışmaya katılabilecek. Konu sınırlaması bulunmuyor.
+- Öykülerin bilgisayarda 12 punto ile yazılmış olması ve en az 2, en çok 14 sayfa uzunluğunda hazırlanması gerekiyor.
+- Öykü dosyasının birinci sayfasının sağ üst köşesine yalnızca büyük harflerle rumuz yazılacak; metin üzerinde gerçek ad ve soyad kesinlikle yer almayacak.
+- Katılımcılar öykülerini 4 kopya olarak gönderecek ve zarfın içine ayrı bir dosyada kısa özgeçmişleri ile iletişim bilgilerini (adres ve telefon) koyacaklar. Bu kurala uymayan başvurular değerlendirmeye alınmayacak.
+- Yarışmanın son başvuru tarihi **15 Aralık 2026** olup, yaşanabilecek gecikmelerden ve kaybolmalardan düzenleyen kurum sorumlu tutulmayacak. Sonuçlar **30 Mart 2027** tarihinde basın yoluyla kamuoyuna duyurulacak.
+- Yarışmaya katılan tüm yazarlar, dereceye giren öykülerin kitap olarak basılmasını peşinen kabul etmiş sayılacak.
+
+### Ödüller
+- Dereceye giren ilk üç katılımcıya plaket ve kitap seti verilecek.
+- İlk 10'a giren öyküler kitap haline getirilerek yayımlanacak.
 
 ### Ümit Kaftancıoğlu Öykü Yarışması Seçici Kurulu
 - Adnan Özyalçıner
-- Zeynep Aliye
 - Mehmet Güler
-- Öner Yağcı
+- Alper Akçam
+- Ali Naki Kaftancıoğlu
 - Feyza Akbulut Öner
 - Eşref Karadağ
 - Hakan Cucunel
-- Armağan Can
 - Öztürk Tatar
 
 ### Teslim ve Gönderim Adresi
