@@ -296,3 +296,31 @@ pre {
 .table td {
   border-color: var(--border);
 }
+
+/* Sayfa içindeki satırlar (.row) Bootstrap'ta iki yana -15px taşar; bu ancak
+   saran kutunun 15px iç boşluğu varken sorunsuzdur. main içindeki kutular p-2
+   (8px) kullandığından telefonda sayfa 7px yana kayıyordu. Satırın taşmasını ve
+   sütun boşluğunu 8px'e eşitle (scripts/mobile_check.py ile kontrol edilir). */
+main .row {
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+main .row > [class*="col"] {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+/* Üst menü 10 öğeyle tek satıra ancak 1440px'te sığıyor; 992-1439px arası
+   (yaygın laptop genişlikleri) sayfayı sağa taşırıyordu. O aralıkta menü alt
+   satıra kırılsın. Telefonda açılır menü kullanıldığından etkilenmez. */
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-collapse {
+    flex-wrap: wrap;
+    min-width: 0;
+  }
+
+  .navbar-expand-lg .navbar-nav {
+    flex-wrap: wrap;
+  }
+}
