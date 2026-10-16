@@ -11,6 +11,7 @@ comTopic: "Serbest"
 organizer: "İzmir Yazarlar Kooperatifi"
 requirements: "18 yaşını geçmiş herkes herkes katılabilir"
 permalink: "3-erdogan-baysal-oyku-yarismasi"
+archived_to: "/izmir-yazarlar-kooperatifi-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2025/haziran/3-erdogan-baysal-oyku-yarismasi.jpg"
 excerpt: "İzmir Yazarlar Kooperatifi 3. Erdoğan Baysal Öykü Yarışması duyuruldu."
 ---
