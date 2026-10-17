@@ -325,6 +325,24 @@ main .row > [class*="col"] {
   }
 }
 
+/* Menü sarılınca marka adı daralıp tema düğmesinin altına giriyordu. Marka ve
+   düğme küçülmesin, düğmenin markayla arası açık olsun. */
+.navbar-brand,
+#theme-toggle {
+  flex-shrink: 0;
+}
+
+#theme-toggle {
+  margin-left: 0.75rem;
+}
+
+@media (max-width: 991.98px) {
+  #theme-toggle {
+    margin-left: auto;
+    margin-right: 0.5rem;
+  }
+}
+
 /* main, dış satırın (.row) sütun sınıfı olmayan esnek öğesi: genişliği içeriğine
    göre büyüyordu. AdSense'in tam genişlik otomatik reklamı (ekran genişliğinde,
    -8px kenarla) telefonda onu 8px taşırıyordu. Satır genişliğiyle sınırla. */
