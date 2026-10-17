@@ -1,10 +1,10 @@
 ---
 layout: category
-headline: "Senaryo Yarışması"
-subline: "Kısa film senaryosu, tiyatro senaryosu, uzun metraj film senaryosu ve reklam filmi senaryou gibi <strong>senaryo yarışması</strong> içeriklerini bu sayfada bulabilirsiniz. <strong>Senaryo yazma yarışmaları</strong> listesinin yanında para ödülü miktarları, son başvuru tarihleri, katılım şekilleri ve kısıtlar bulunmaktadır."
-title: "Senaryo Yarışmaları"
+headline: "Senaryo Yarışmaları {{ site.year }}"
+subline: "Kısa film senaryosu, tiyatro senaryosu, uzun metraj film senaryosu ve reklam filmi senaryosu gibi <strong>senaryo yarışması</strong> içeriklerini bu sayfada bulabilirsiniz. <strong>Senaryo yazma yarışmaları</strong> listesinin yanında para ödülü miktarları, son başvuru tarihleri, katılım şekilleri ve kısıtlar bulunmaktadır."
+title: "Senaryo Yarışması {{ site.year }} | Ödüllü ve Güncel Duyurular"
 key: "senaryo yarışması"
-description: "Senaryo yarışması {{ site.year }}, senaryo yazma yarışması, uzun metraj senaryo, Senaryo yarışmaları, Para ödüllü yarışmalar {{ site.year }}"
+description: "{{ site.year }} yılı güncel senaryo yarışmaları: kısa film, uzun metraj ve tiyatro senaryosu yazma yarışması duyuruları, ödülleri ve son başvuru tarihleri."
 permalink: "senaryo-yarismalari/"
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: category
-headline: "Liseler Arası Edebiyat Yarışmaları {{ site.year }}"
-title: "Lise Edebiyat Yarışmaları {{ site.year }} | Liseler Arası Yazı Yarışmaları"
+headline: "Lise Yarışmaları {{ site.year }}: Liseler Arası Edebiyat Yarışmaları"
+title: "Lise Yarışmaları {{ site.year }} | Liseler Arası Edebiyat Yarışmaları"
 key: "lise"
 subline: "Lise çağındaki (9-12. sınıf) öğrencilerin katılabileceği <strong>liseler arası edebiyat yarışmaları {{ site.year }}</strong> güncel duyuruları, üniversiteye hazırlık sürecinde özgeçmişe eklenebilecek başarı fırsatlarıyla birlikte bu sayfada listelenmektedir."
-description: "{{ site.year }} yılı liseler arası edebiyat yarışmaları ve lise öğrencilerine yönelik yazı yazma yarışması duyuruları burada."
+description: "{{ site.year }} lise yarışmaları: liseler arası şiir, öykü, kompozisyon ve deneme yarışmaları, son başvuru tarihleri ve ödülleriyle."
 permalink: "lise-edebiyat-yarismalari/"
 ---
 
