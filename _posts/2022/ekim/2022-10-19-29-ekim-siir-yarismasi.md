@@ -4,7 +4,7 @@ title: "29 Ekim Şiir Yarışması"
 description: "Zafer Partisi İstanbul İl Gençlik Kolları '29 Ekim Şiir Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [kasım 2022, şiir yarışması, genel]
+tags: [kasım 2022, şiir yarışması, genel, 29 ekim]
 lastDate: 1667509200
 dateHuman: "4 Kasım 2022"
 comTopic: "Cumhuriyetimizin 99. Yılında Türkiye"

@@ -4,7 +4,7 @@ title: "Osmaniye Belediyesi Kompozisyon Yarışması"
 description: "Osmaniye Belediyesi 'kompozisyon yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [ekim 2023, kompozisyon yarışması, genel]
+tags: [ekim 2023, kompozisyon yarışması, genel, 29 ekim]
 lastDate: 1697403600
 dateHuman: "16 Ekim 2023"
 comTopic: "Cumhuriyet (29 Ekim Cumhuriyet Bayramı)"

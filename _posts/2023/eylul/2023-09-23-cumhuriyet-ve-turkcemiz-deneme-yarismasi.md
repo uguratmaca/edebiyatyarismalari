@@ -4,7 +4,7 @@ title: "Cumhuriyet ve Türkçemiz Deneme Yarışması"
 description: "Milli Eğitim Bakanlığı 'Cumhuriyet ve Türkçemiz Deneme Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [ekim 2023, deneme yarışması, lise]
+tags: [ekim 2023, deneme yarışması, lise, 29 ekim]
 lastDate: 1696798800
 dateHuman: "9 Ekim 2023"
 attendance: "Okul Müdürlüğü"

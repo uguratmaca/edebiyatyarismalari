@@ -4,7 +4,7 @@ title: "29 Ekim Okul Panosu Tasarım Yarışması"
 description: "Osmaniye Belediyesi '29 Ekim Okul Panosu Tasarım Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [ekim 2022, tasarım yarışması, ilkokul]
+tags: [ekim 2022, tasarım yarışması, ilkokul, 29 ekim]
 lastDate: 1666299600
 hidden: true
 dateHuman: "21 Ekim 2022"

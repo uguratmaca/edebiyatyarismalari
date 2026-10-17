@@ -4,7 +4,7 @@ title: "100. Yılında Cumhuriyetin Değerleri Öykü Ve Şiir Yarışması"
 description: "İzmir Büyükşehir Belediyesi '100. Yılında Cumhuriyetin Değerleri Öykü Ve Şiir Yarışması' düzenliyor."
 author: "Yasemin Eyüpoğlu"
 category: articles
-tags: [ocak 2024, hikaye yarışması, şiir yarışması, genel]
+tags: [ocak 2024, hikaye yarışması, şiir yarışması, genel, 29 ekim]
 lastDate: 1705611600
 dateHuman: "19 Ocak 2024"
 comTopic: "Cumhuriyet ve Özgürlük / Cumhuriyet ve Kadın"
