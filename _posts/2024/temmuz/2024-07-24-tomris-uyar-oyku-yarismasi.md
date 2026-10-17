@@ -10,6 +10,7 @@ attendance: "E-Posta"
 organizer: "Alakarga Yayınları"
 requirements: "İsteyen herkes katılabilir"
 permalink: "3-tomris-uyar-oyku-armagani"
+archived_to: "/tomris-uyar-oyku-armagani"
 image: "https://edebiyatyarismalari.com/images/2024/temmuz/tomris-uyar-oyku-armagani.webp"
 excerpt:  "Alakarga Yayınları <strong>3. Tomris Uyar Öykü Armağanı</strong>'nı duyurdu."
 ---

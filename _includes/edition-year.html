@@ -1,0 +1,17 @@
+{%- comment -%}
+  Her yıl tekrarlanan bir yarışmanın (evergreen) sayfası için güncel edisyonun yılı:
+  dosyadaki başlık yılsız kalır (README), yıl sayfa başlığına ve h1'e burada eklenir,
+  insanlar "... yarışması 2026" diye aradığı için. Yıl dateHuman'ın son kelimesinden
+  gelir; bu yıldan eskiyse (sayfa henüz güncellenmediyse) ya da başlıkta zaten
+  geçiyorsa boş döner. Arşiv kopyalarında (archived_to) eklenmez.
+{%- endcomment -%}
+{%- assign _ey = "" -%}
+{%- assign _ey_tags = page.tags | join: "|" -%}
+{%- if _ey_tags contains "her yıl tekrarlanan" and page.dateHuman and page.archived_to == nil -%}
+  {%- assign _ey_year = page.dateHuman | strip | split: " " | last -%}
+  {%- assign _ey_num = _ey_year | plus: 0 -%}
+  {%- if _ey_year.size == 4 and _ey_num >= site.year and _ey_num < 2100 -%}
+    {%- unless page.title contains _ey_year -%}{%- assign _ey = _ey_year -%}{%- endunless -%}
+  {%- endif -%}
+{%- endif -%}
+{{- _ey -}}

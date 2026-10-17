@@ -11,6 +11,8 @@
 {%- assign page_title = site.description -%}
 {%- if page.title -%}
   {%- capture bare_title -%}{% include dynamic-year.html text=page.title %}{%- endcapture -%}
+  {%- capture edition_year -%}{% include edition-year.html %}{%- endcapture -%}
+  {%- if edition_year != "" -%}{%- assign bare_title = bare_title | append: " " | append: edition_year -%}{%- endif -%}
   {%- assign page_title = bare_title -%}
   {%- if page.title != site.title -%}
     {%- assign full_title = bare_title | append: " – " | append: site.name -%}

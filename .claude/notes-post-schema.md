@@ -136,7 +136,12 @@ karşılanır. Ayrı permalink link otoritesini böler ve arşivi gereksiz büy�
 - Evergreen yarışmaysa (`_posts/evergreen/` altında, `her yıl tekrarlanan` tag'li) sonucu
   evergreen sayfaya değil, o yılın **arşivlenmiş kopyasına** (`_posts/<yıl>/<ay>/...`,
   `archived_to` alanı olan dosya) ekle. Evergreen sayfa bir sonraki dönemin duyurusunu temsil eder.
+  Evergreen sayfaya da kısa bir satır ekle: "{yıl} sonuçları ve kazananlar: [buradan](/arşiv-kopyası)".
+  "Kazananlar", "kazanan şiirler", "sonuçları" aramaları çoğunlukla evergreen sayfaya gelir.
 - Evergreen değilse yarışmanın kendi postunu güncelle.
+- Bölüm başlığı aranan biçimde olsun: `## {title} {yıl} Sonuçları ve Kazananlar`; derece
+  alanların adları ve (varsa) eser adları, resmî sonuç duyurusunun bağlantısı. Eserlerin tam
+  metni (şiir, öykü) telif nedeniyle konmaz; yayımlandığı yer varsa bağlantısı verilir.
 - İstisna: sonuç haberi kendi başına büyük arama hacmi olan prestijli bir ödülse ayrı post
   ve duyurudan link düşünülebilir, ama varsayılan davranış yukarıdaki.
 

@@ -91,6 +91,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Tarık Buğra Ulusal Öykü Yarışması (Akşehir)** — [dosya](hikaye/2026-09-18-tarik-bugra-oyku-yarismasi.md) · `/tarik-bugra-oyku-yarismasi`
 - **TBD Bilişim Dergisi Bilimkurgu Öykü Yarışması** — [dosya](2026-07-28-tbd-bilisim-dergisi-bilimkurgu-oyku-yarismasi.md) · `/tbd-bilisim-dergisi-bilimkurgu-oyku-yarismasi`
 - **Telsim Kısa Öykü Yarışması** — [dosya](2025-01-25-telsim-kisa-oyku-yarismasi.md) · `/telsim-kisa-oyku-yarismasi`
+- **Tomris Uyar Öykü Armağanı** — [dosya](hikaye/2026-04-20-tomris-uyar-oyku-armagani.md) · `/tomris-uyar-oyku-armagani`
 - **Tudem Edebiyat Ödülleri** — [dosya](roman/2026-02-01-tudem-edebiyat-odulleri.md) · `/tudem-edebiyat-odulleri`
 - **Turgut Özakman İlk Roman Yarışması** — [dosya](roman/2026-05-26-turgut-ozakman-roman-yarismasi.md) · `/turgut-ozakman-roman-yarismasi`
 - **Ulusal Sait Faik Hikâye Yarışması** — [dosya](2022-11-27-sait-faik-hikaye-yarismasi.md) · `/sait-faik-hikaye-yarismasi`
