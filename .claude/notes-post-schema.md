@@ -38,7 +38,8 @@ kaynağı olan `feed.xml`'de postu en üste çıkarır — bkz. `_plugins/feed_o
 `hidden: true` (postu ana sayfa listelemesinden — `index.html`/`sayfa2..5` —
 düşürür, bkz. `_plugins/homepage_pagination_generator.rb`; site edebiyat
 yarışmaları odaklı olduğu için resim/fotoğraf/tasarım/karikatür/beste/kısa film
-gibi **edebiyat dışı** yarışmalarda kullanılır — post yine de kendi URL'sinden,
+gibi **edebiyat dışı** yarışmalarda kullanılır (**resim yarışmaları da eklenir**, her
+zaman `hidden: true` ile; yarışma bulurken onları da tara) — post yine de kendi URL'sinden,
 tag filtresinden ve aramadan erişilebilir kalır, sadece ana sayfada öne
 çıkmaz. Bir yarışma hem edebiyat hem edebiyat-dışı kategoriler içeriyorsa
 (ör. bir festivalin hem senaryo hem kısa film dalı varsa), Akbank Kısa Film
