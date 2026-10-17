@@ -13,6 +13,7 @@ ve CHANNEL = None.)
     bundle exec jekyll build
     python scripts/mobile_check.py                      # varsayılan sayfalar
     python scripts/mobile_check.py /yarisma-filtrele/   # belirli sayfalar
+    python scripts/mobile_check.py --live               # canlı site (reklamlar yalnız orada çıkar)
 """
 
 import functools
@@ -69,8 +70,9 @@ def serve() -> int:
 
 
 def main() -> int:
-    pages = sys.argv[1:] or PAGES
-    port = serve()
+    live = "--live" in sys.argv
+    pages = [a for a in sys.argv[1:] if a != "--live"] or PAGES
+    base = LIVE if live else f"http://127.0.0.1:{serve()}"
     failed = 0
     with sync_playwright() as p:
         browser = p.chromium.launch(channel=CHANNEL)
@@ -81,10 +83,13 @@ def main() -> int:
             context = browser.new_context(**options)
             # Sayfalar CSS/JS'i tam adresle (site.url) yükler: bunlar da yerel derlemeden gelsin,
             # yoksa canlı sitenin dosyaları test edilir.
-            context.route(f"{LIVE}/**", local_file)
+            if not live:
+                context.route(f"{LIVE}/**", local_file)
             page = context.new_page()
             for path in pages:
-                page.goto(f"http://127.0.0.1:{port}{path}", wait_until="load")
+                page.goto(f"{base}{path}", wait_until="load")
+                if live:
+                    page.wait_for_timeout(2500)  # otomatik reklamların yerleşmesi
                 scroll, client = page.evaluate(
                     "() => [document.documentElement.scrollWidth, document.documentElement.clientWidth]")
                 if scroll > client:

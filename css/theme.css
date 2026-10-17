@@ -324,3 +324,12 @@ main .row > [class*="col"] {
     flex-wrap: wrap;
   }
 }
+
+/* main, dış satırın (.row) sütun sınıfı olmayan esnek öğesi: genişliği içeriğine
+   göre büyüyordu. AdSense'in tam genişlik otomatik reklamı (ekran genişliğinde,
+   -8px kenarla) telefonda onu 8px taşırıyordu. Satır genişliğiyle sınırla. */
+main {
+  flex: 1 1 0%;
+  min-width: 0;
+  max-width: 100%;
+}
