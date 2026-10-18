@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "MEB 29 Ekim Cumhuriyet Bayramı Resim Yarışması"
-description: "Millî Eğitim Bakanlığı'nın her yıl 29 Ekim için ilkokul ve ortaokullar arasında düzenlediği resim yarışması. 2026 konusu \"Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim\", ödül tablet."
+title: "MEB 29 Ekim Resim Yarışması 2026: Konu, Şartname, Sonuç"
+description: "MEB 29 Ekim Cumhuriyet Bayramı Resim Yarışması 2026: konu \"Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim\", ilkokul ve ortaokul, şartname, ödül tablet, sonuçlar 23 Ekim."
 date: 2026-09-07
 category: articles
 tags: [ekim 2026, her yıl tekrarlanan, resim yarışması, ilkokul, ortaokul, 29 ekim]

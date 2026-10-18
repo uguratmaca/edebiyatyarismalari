@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "MEB 29 Ekim Cumhuriyet Bayramı Şiir ve Kompozisyon Yarışması"
-description: "Millî Eğitim Bakanlığı'nın her yıl 29 Ekim için ortaokullar arasında düzenlediği şiir ve kompozisyon yarışması. 2026 konusu \"Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim\", ödül tablet."
+title: "MEB 29 Ekim Şiir ve Kompozisyon Yarışması 2026: Şartname"
+description: "MEB 29 Ekim Cumhuriyet Bayramı Şiir ve Kompozisyon Yarışması 2026: ortaokul 5-8. sınıf, konu \"Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim\", şartname, ödül tablet, sonuçlar 23 Ekim."
 date: 2026-09-07
 category: articles
 tags: [ekim 2026, her yıl tekrarlanan, şiir yarışması, kompozisyon yarışması, ortaokul, 29 ekim]
