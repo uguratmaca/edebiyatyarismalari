@@ -14,6 +14,10 @@ Site Türkçe'dir ve içeriği Türkiye'deki edebiyat yarışmalarına odaklanı
 - [Her Yıl Tekrarlanan Şiir Yarışmaları](https://edebiyatyarismalari.com/her-yil-tekrarlanan-siir-yarismalari/)
 - [Her Yıl Tekrarlanan Roman Yarışmaları](https://edebiyatyarismalari.com/her-yil-tekrarlanan-roman-yarismalari/)
 
+## Katılımcılar için
+
+- [Başvurum Ulaştı mı? Yarışma Sonuçları Ne Zaman Açıklanır?](https://edebiyatyarismalari.com/basvurum-ulasti-mi/): Onay e-postası gelmediğinde başvurunun ulaştığından nasıl emin olunur, sonuçlar genelde ne zaman ve nerede açıklanır, düzenleyene nasıl sorulur.
+
 ## Türe göre kategori sayfaları
 
 - [Hikaye/Öykü Yarışmaları](https://edebiyatyarismalari.com/hikaye-yarismalari/)
