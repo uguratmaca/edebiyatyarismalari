@@ -11,6 +11,7 @@ comTopic: "Mekan Tasviri"
 totalPrize: "10000 TL'dir"
 requirements: "Yarışmaya KKTC veya TC vatandaşı olup, KTMMOB ve TMMOB’a bağlı meslek örgütlerinden herhangi birine üye olan herkes katılabilir"
 permalink: "mimarca-mekan-anlatimi-metin-yarismasi"
+archived_to: "/mekan-anlatimi-metin-yarismasi"
 excerpt: "Mimarca Mekan Anlatımı Metin Yarışması düz yazılar öykü, hikaye ya da deneme türünde olabilir."
 ---
 

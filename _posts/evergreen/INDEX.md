@@ -66,6 +66,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Mavera Edebiyat Ödülleri** — [dosya](2026-02-15-mavera-edebiyat-odulleri.md) · `/mavera-edebiyat-odulleri`
 - **MEB 29 Ekim Cumhuriyet Bayramı Resim Yarışması**: [dosya](diger/2026-09-07-meb-cumhuriyet-bayrami-resim-yarismasi.md) · `/meb-cumhuriyet-bayrami-resim-yarismasi`
 - **MEB 29 Ekim Cumhuriyet Bayramı Şiir ve Kompozisyon Yarışması**: [dosya](diger/2026-09-07-meb-cumhuriyet-bayrami-siir-kompozisyon-yarismasi.md) · `/meb-cumhuriyet-bayrami-siir-kompozisyon-yarismasi`
+- **Mekân Anlatımı Metin Yarışması**: [dosya](diger/2026-10-20-mekan-anlatimi-metin-yarismasi.md) · `/mekan-anlatimi-metin-yarismasi`
 - **Metin Altıok Şiir Ödülü** — [dosya](siir/2026-02-04-metin-altiok-siir-odulu.md) · `/metin-altiok-siir-odulu`
 - **Millet Derneği Düzyazı Yarışması** — [dosya](2025-01-05-millet-dernegi-duzyazi-yarismasi.md) · `/millet-dernegi-duzyazi-yarismasi`
 - **Muammer Hacıoğlu Şiir Ödülü**: [dosya](siir/2026-09-26-muammer-hacioglu-siir-odulu.md) · `/muammer-hacioglu-siir-odulu`
