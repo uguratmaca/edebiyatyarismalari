@@ -311,17 +311,21 @@ main .row > [class*="col"] {
   padding-right: 8px;
 }
 
-/* Üst menü 10 öğeyle tek satıra ancak 1440px'te sığıyor; 992-1439px arası
-   (yaygın laptop genişlikleri) sayfayı sağa taşırıyordu. O aralıkta menü alt
-   satıra kırılsın. Telefonda açılır menü kullanıldığından etkilenmez. */
-@media (min-width: 992px) {
-  .navbar-expand-lg .navbar-collapse {
+/* Üst menü tek satıra ancak 1440px'te sığıyor; 1200px altında açılır menü
+   kullanılıyor. 1200-1439px arası (yaygın laptop genişlikleri) menü sayfayı
+   sağa taşırmasın, alt satıra kırılsın. */
+@media (min-width: 1200px) {
+  .navbar-expand-xl .navbar-collapse {
     flex-wrap: wrap;
     min-width: 0;
   }
 
-  .navbar-expand-lg .navbar-nav {
+  .navbar-expand-xl .navbar-nav {
     flex-wrap: wrap;
+  }
+
+  .navbar-expand-xl .nav-link {
+    white-space: nowrap;
   }
 }
 
@@ -336,7 +340,7 @@ main .row > [class*="col"] {
   margin-left: 0.75rem;
 }
 
-@media (max-width: 991.98px) {
+@media (max-width: 1199.98px) {
   #theme-toggle {
     margin-left: auto;
     margin-right: 0.5rem;
@@ -356,4 +360,13 @@ main {
 .ad-slot {
   min-height: 280px;
   margin: 1rem 0;
+}
+
+/* Footer: bağlantılar sütun başlıklarıyla hizalı, sosyal hesaplar tek satırda */
+footer .nav-link {
+  padding-left: 0;
+}
+
+.footer-social .nav-link {
+  padding-right: 1.25rem;
 }
