@@ -15,7 +15,7 @@ Esrarengiz Müze, 8-12 yaş için interaktif bir çocuk kitabı: okur hikâyenin
 
 Bulduğun esrarengiz bir kemik seni bir davetiyeye, davetiye de şehirde yeni açılan "Her Şey Müzesi"nin özel açılış gecesine götürüyor. Önünde üç kapı var: Görünmeyen Güçler, Paleontoloji ve Sanat kanatları. Hangisini seçersen seç, orada seni bir şifre bekliyor: bir yerde Mors kodu, bir yerde havada beliren bir sembol. Müzenin her köşesinde karşına çıkan gözlü, sarmallı işaretin sırrını ise ancak maceranın sonunda öğreniyorsun.
 
-Her kanatta gerçek bir bilim ya da sanat bilgisi de saklı. Çocuklar bir yandan şifre çözüp macera yaşarken bir yandan fizik, paleontoloji ve sanat hakkında yeni şeyler öğreniyor. Kitapta on iki farklı son var; hangisine ulaşacağına okurun seçimleri karar veriyor.
+Her kanatta gerçek bir bilim ya da sanat bilgisi de saklı. Çocuklar bir yandan şifre çözüp macera yaşarken bir yandan fizik, paleontoloji ve sanat hakkında yeni şeyler öğreniyor. 112 sayfalık kitapta on iki farklı son var; hangisine ulaşacağına okurun seçimleri karar veriyor.
 
 Okumayı bir oyuna dönüştürmek, çocuğuyla birlikte seçimleri tartışmak ve aynı kitabı tekrar tekrar farklı yollardan okumak isteyen aileler için.
 

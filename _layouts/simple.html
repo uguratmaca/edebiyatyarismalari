@@ -5,12 +5,12 @@ layout: default
 <section class="p-2">
     <h1>{{ page.headline | default: page.title }}</h1>
 
-    <section class="row align-items-center">
+    <section class="row {% if page.avatar %}align-items-start{% else %}align-items-center{% endif %}">
         {% if page.image %}
         <section class="col-md-6 col-sm-12 justify-content-center">
             {{ content }}
         </section>
-        <section class="col-md-6 col-sm-12">
+        <section class="col-md-6 col-sm-12{% if page.avatar %} order-first order-md-last text-center mb-3{% endif %}">
             <img src="{{page.image}}" alt="{% if page.imageAlt %}{{ page.imageAlt }}{% elsif page.avatar %}{{ page.title }} fotoğrafı{% else %}{{ page.title }} görseli{% endif %}" loading="lazy" width="1200" height="630" class="img-fluid{% if page.avatar %} rounded-circle author-avatar{% else %} hero-img{% endif %}" />
         </section>
         {% else %}

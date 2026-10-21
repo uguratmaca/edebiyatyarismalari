@@ -15,7 +15,7 @@ Esrarengiz Park, 8-12 yaş için interaktif bir çocuk kitabı: okur hikâyenin 
 
 Okul gezisiyle ülkenin en büyük vahşi yaşam parkına gidiyorsun. Daha kapıdan girmeden ilk kararını vermen gerekiyor: Sevda Öğretmen'in grubuyla mı gezeceksin, Metin Öğretmen'in grubuyla mı? Kaybolan bir kamera, yeni bir arkadaşlık, hayvan hakları için verilen bir mücadele derken kimi yollar sıradan bir park gezisinde kalıyor, kimileri ise parkın kimsenin bilmediği köşelerine uzanıyor.
 
-Kitap, eski "kendi maceranı seç" kitaplarının tarzında kurgulandı: ilk andan itibaren dallanan onlarca farklı macera, kader ve şansın da rol oynadığı, okuru gerçekten düşündüren seçim noktaları. Yol boyunca gerçek hayvanları ve onların şaşırtıcı dünyasını da tanıyorsun.
+Kitap, eski "kendi maceranı seç" kitaplarının tarzında kurgulandı: 112 sayfada 20 farklı son, ilk andan itibaren dallanan onlarca farklı macera, kader ve şansın da rol oynadığı, okuru gerçekten düşündüren seçim noktaları. Yol boyunca gerçek hayvanları ve onların şaşırtıcı dünyasını da tanıyorsun.
 
 Hayvanları seven, macera kitaplarını elinden bırakamayan ve okumayı bir oyuna dönüştürmek isteyen çocuklar için.
 
