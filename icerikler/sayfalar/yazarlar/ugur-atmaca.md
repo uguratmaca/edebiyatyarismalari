@@ -31,7 +31,9 @@ Yazmayı ve yazma yarışmalarına katılmayı sevdiğim için 2018'de [Edebiyat
 
 ## Müzik
 
-Şarkı sözlerinin yanında melodiler de yazıyorum. [The Letters: Volume 1](https://open.spotify.com/artist/24iwo2DLZKcch5gxBNvX7j){:rel="nofollow"}{:target="_blank"}{:class="gtag"} albümündeki melodileri eski mektupları okurken gitar ve piyanoyla yazdım; her parçanın adı o mektuplardaki bir kelimeden geliyor. Melodiler bana ait, aranjede yapay zekâdan yararlandım.
+Şarkı sözleri de yazıyorum: [Fer-Ruh](https://open.spotify.com/artist/5BbGNTnL4dRwiUxePO3kVj){:rel="nofollow"}{:target="_blank"}{:class="gtag"}'un Türkçe rap şarkılarının ve [GEJE](https://open.spotify.com/artist/76wNmHVtmK3Q265T12n113){:rel="nofollow"}{:target="_blank"}{:class="gtag"}'nin İngilizce şarkılarının sözleri bana ait.
+
+Sözlerin yanında melodiler de yazıyorum. [The Letters: Volume 1](https://open.spotify.com/artist/24iwo2DLZKcch5gxBNvX7j){:rel="nofollow"}{:target="_blank"}{:class="gtag"} albümündeki melodileri eski mektupları okurken gitar ve piyanoyla yazdım; her parçanın adı o mektuplardaki bir kelimeden geliyor.
 
 ## Beni takip edin
 
