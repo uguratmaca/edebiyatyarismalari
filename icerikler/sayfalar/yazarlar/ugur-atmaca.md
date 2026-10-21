@@ -15,7 +15,7 @@ Yazmayı ve yazma yarışmalarına katılmayı sevdiğim için 2018'de [Edebiyat
 
 ## Kitaplarım
 
-Çocukluğumda okuduğum kitapların verdiği o "maceranın kahramanı benim" duygusunu bugünün çocuklarına da yaşatmak istiyorum. Amacım çocuklara okuma alışkanlığı kazandırmak ve karar verme becerilerini geliştirmek.
+Çocukluğumda okuduğum kitapların verdiği o "maceranın kahramanı benim" duygusunu bugünün çocuklarına da yaşatmak istiyorum. Amacım çocuklara okuma alışkanlığı kazandırmak, karar verme becerilerini geliştirmek ve okurken onlara yeni şeyler öğretmek: hayvanlar, bilim, sanat.
 
 - **[Esrarengiz Park]({{ site.url }}/blog/esrarengiz-park)** (Okutan Çocuk, 8-12 yaş): Okul gezisiyle gidilen bir vahşi yaşam parkında, 20 farklı sonu olan bir macera. Oğlumun doğacağını öğrendiğimde yazmaya karar verdiğim kitap.
 - **[Esrarengiz Müze]({{ site.url }}/blog/esrarengiz-muze)** (Okutan Çocuk, 8-12 yaş): Şifreler ve gizemli bir sembolle dolu "Her Şey Müzesi"nde, 12 farklı sonu olan bir macera.
