@@ -1,5 +1,6 @@
 ---
 layout: post
+archived_to: "/altin-defne-siir-odulu"
 title: "2025 Altın Defne Genç Şiir Ödülü"
 description: "Aalen-Antakya Kültür Derneği, 2025 Altın Defne Genç Şiir Ödülü düzenleniyor."
 category: articles

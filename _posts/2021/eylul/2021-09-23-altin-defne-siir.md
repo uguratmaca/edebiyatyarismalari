@@ -1,5 +1,6 @@
 ---
 layout: post
+archived_to: "/altin-defne-siir-odulu"
 title: "Altın Defne Şiir Ödülü 2022"
 description: "Aalen-Antakya Kültür Derneği, Altın Defne Şiir Ödülü düzenleniyor."
 category: articles
@@ -10,7 +11,7 @@ dateHuman: "31 Ocak 2022"
 comTopic: "Serbest"
 attendance: "Elden, Posta, Kargo"
 requirements: "1987 doğumlu veya daha küçük yaşta olması gerekir."
-permalink: "altin-defne-siir-odulu"
+permalink: "altin-defne-siir-odulu-2022"
 image: "https://edebiyatyarismalari.com/images/2021/eylul/altin-defne-siir-yarismasi.jpeg"
 excerpt: "Aalen-Antakya Kültür Derneği, Altın Defne Şiir Ödülü düzenleniyor."
 ---

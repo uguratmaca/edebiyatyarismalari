@@ -12,6 +12,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Ahilik ve Ahi Evran Yarışması (Uluslararası)** — [dosya](diger/2026-09-15-ahi-evran-yarismalari.md) · `/ahi-evran-yarismalari`
 - **Ahmet Hamdi Tanpınar Edebiyat Yarışması** — [dosya](2022-06-26-ahmet-hamdi-tanpinar-edebiyat-yarismasi.md) · `/ahmet-hamdi-tanpinar-edebiyat-yarismasi`
 - **Akbank Kısa Film Festivali Senaryo Yarışması**: [dosya](senaryo/2026-07-31-akbank-kisa-film-festivali-senaryo-yarismasi.md) · `/akbank-kisa-film-festivali-senaryo-yarismasi`
+- **Altın Defne Genç Şiir Ödülü**: [dosya](siir/2026-10-21-altin-defne-genc-siir-odulu.md) · `/altin-defne-siir-odulu`
 - **Ali Rıza Ertan Şiir Yarışması** — [dosya](siir/2026-04-08-ali-riza-ertan-siir-yarismasi.md) · `/ali-riza-ertan-siir-yarismasi`
 - **Arkadaş Z. Özger Şiir Ödülü** — [dosya](siir/2026-01-08-arkadas-z-ozger-siir-odulu.md) · `/arkadas-z-ozger-siir-odulu`
 - **Attila İlhan Liseli Gençler Kompozisyon Yarışması** — [dosya](2023-11-04-attila-ilhan-kompozisyon-yarismasi.md) · `/attila-ilhan-kompozisyon-yarismasi`
