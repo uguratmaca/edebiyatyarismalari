@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mr. Forkhead Yayıncılık Ayın Kalemi Eser Yarışması"
-description: "Mr. Forkhead Yayıncılık'ın aylık Ayın Kalemi yarışmasında her ay seçilen bir roman, öykü veya şiir dosyası ücretsiz kitaplaştırılıyor."
+description: "Mr. Forkhead Yayıncılık'ın Ekim 2026 Ayın Kalemi yarışmasında seçilen bir roman, öykü veya şiir dosyası ücretsiz kitaplaştırılıyor; başvurular 31 Ekim'de kapanıyor."
 category: articles
 tags: [ekim 2026, hikaye yarışması, şiir yarışması, roman yarışması, kitap dosyası, genel]
 lastDate: 1793394000
@@ -12,17 +12,19 @@ organizer: "Mr. Forkhead Yayıncılık"
 requirements: "Roman, öykü ve şiir alanında yazan herkes katılabilir."
 permalink: "mr-forkhead-ayin-kalemi-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/ekim/mr-forkhead-ayin-kalemi-yarismasi.webp"
-excerpt: "Mr. Forkhead Yayıncılık'ın aylık <strong>Ayın Kalemi Eser Yarışması</strong>'nda her ay seçilen bir eser ücretsiz kitaplaştırılıyor."
+excerpt: "Mr. Forkhead Yayıncılık'ın yalnızca Ekim 2026 ayını kapsayan <strong>Ayın Kalemi Eser Yarışması</strong>'nda seçilen eser ücretsiz kitaplaştırılıyor."
 submissionType: ["kitap dosyası"]
-resultDate: "Her ayın sonunda"
+resultDate: "Ekim 2026 sonunda"
 entryFee: "Ücretsiz"
 keyPoints:
   - "Başvuruda eserin tamamı ile birlikte 500 kelimelik bir özeti gönderilmelidir."
   - "Şiir dosyalarında özet yerine dosyanın genel konseptini veya temasını açıklayan bir metin gönderilir."
-  - "Yarışma her ay ayrı değerlendirilir; her ayın sonunda bir kazanan eser belirlenir."
+  - "Bu duyuru yalnızca Ekim 2026 ayını kapsar; başvuru süresi 31 Ekim 2026'da dolar."
 ---
 
 ## Mr. Forkhead Yayıncılık Ayın Kalemi Eser Yarışması
+
+**Not:** Yayınevinin bildirdiğine göre bu yarışma yalnızca **Ekim 2026** ayını kapsamaktadır. Başvuru süresi 31 Ekim 2026'da dolar; Kasım ayı ve sonrası için başvuru alınmamaktadır.
 
 Alanya merkezli **Mr. Forkhead Yayıncılık**, edebiyat dünyasına yeni kalemler kazandırmak amacıyla aylık **"Ayın Kalemi" Eser Yarışması**'nı başlattı. Roman, öykü ve şiir dosyalarıyla katılınabilen yarışmada her ay bir eser seçilerek yayınevi tarafından ücretsiz kitaplaştırılıyor.
 
@@ -36,7 +38,7 @@ Mr. Forkhead Yayıncılık olarak edebiyat dünyasına yeni kalemler kazandırma
 - Katılım ücretsizdir.
 - Eserin tamamı ve 500 kelimelik özeti (şiir dosyaları için genel konsept/tema açıklama metni) gönderilir.
 - Başvurular yayınevinin internet sitesindeki yazar paneli üzerinden yapılır: [mrforkheadyayincilik.com.tr](https://www.mrforkheadyayincilik.com.tr/login/?ref=edebiyatyarismalari.com){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
-- Yarışma aylık olarak düzenlenir, her ayın sonunda yeni bir kazanan eser belirlenir. Bu ayın değerlendirmesi için son gün 31 Ekim 2026'dır.
+- Yarışma yalnızca Ekim 2026 ayını kapsar; son başvuru tarihi 31 Ekim 2026'dır.
 
 ## Mr. Forkhead Yayıncılık Ayın Kalemi Eser Yarışması Ödülleri
 
