@@ -1,5 +1,6 @@
 ---
 layout: post
+archived_to: "/mersinin-kurtulusu-siir-yarismasi"
 title: "3 Ocak Mersin Şiir Yarışması"
 description: "Mersin Yazarlar Derneği 3 Ocak Mersin’in Kurtuluşu konulu şiir yarışmasını duyurdu"
 category: articles

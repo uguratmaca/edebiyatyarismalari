@@ -1,5 +1,6 @@
 ---
 layout: post
+archived_to: "/mersinin-kurtulusu-siir-yarismasi"
 title: "11. 3 Ocak Mersin’in Kurtuluşu ve Mersin Konulu Şiir Yarışması"
 description: "Mersin Yazarlar Derneği ve Erdemli Belediyesi’nden duyurdu. 3 Ocak Mersin’in Kurtuluşu, Şiir Yarışmasının 11. si Yapılacak."
 category: articles

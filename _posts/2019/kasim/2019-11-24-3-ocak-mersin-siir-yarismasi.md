@@ -1,5 +1,6 @@
 ---
 layout: post
+archived_to: "/mersinin-kurtulusu-siir-yarismasi"
 title: "3 Ocak Şiir Yarışması"
 description: "3 Ocak Mersin’in Kurtuluşu Konulu, Şiir Yarışmasının 4.sü Yapılacak Yarışmanın amacı: Mersin’in düşman işgalinden kurtuluş gününü anlatan, o günkü duygu…"
 excerpt: "3 Ocak Mersin’in Kurtuluşu Konulu, Şiir Yarışmasının 4.sü Yapılacak Yarışmanın amacı: Mersin’in düşman işgalinden kurtuluş gününü anlatan, o günkü duygu…"
