@@ -4,6 +4,10 @@ aktif (hidden/sticky olmayan, lastDate'i geçmemiş) yarışma sayısına göre 
 site.data.dynamic_pagination.total_pages'e yazılıyor — kaç aktif içerik varsa o kadar
 sayfa linklenir, sabit bir üst sınır yok. Kullanım: {% include pagination.html current=N %}
 {% endcomment %}
+{% comment %}Ana sayfa sayfalarında 8 kart olmadığından ikinci reklam listenin sonunda.{% endcomment %}
+{% if ad_cards > 3 and ad_cards < 8 %}
+{% include ad.html slot="liste" %}
+{% endif %}
 {% assign totalPages = site.data.dynamic_pagination.total_pages | default: 1 %}
 
 {% if totalPages > 1 %}

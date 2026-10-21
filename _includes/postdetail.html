@@ -30,3 +30,9 @@
 </article>
 
 <hr>
+
+{% comment %}Liste sayfalarında reklam 3. ve 8. karttan sonra (sayaç sayfa boyunca ortak).{% endcomment %}
+{% assign ad_cards = ad_cards | plus: 1 %}
+{% if ad_cards == 3 or ad_cards == 8 %}
+{% include ad.html slot="liste" %}
+{% endif %}

@@ -113,10 +113,13 @@ layout: default
   </section>
   {% endif %}
 
-  <br>
+  {% include ad.html slot="yarisma" %}
+
   <section class="post">
     {{ content }}
   </section>
+
+  {% include ad.html slot="yarisma" %}
 
   {% include faq.html %}
 
