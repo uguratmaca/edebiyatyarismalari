@@ -27,7 +27,8 @@ excerpt: "Kısa özet, <strong> ile öne çıkan kısım vurgulanabilir."
 ---
 ```
 
-Nadiren kullanılan ek alanlar: `imageAlt` (görsel `alt`i özelleştirmek için,
+Nadiren kullanılan ek alanlar: `hideImage: true` (`simple` layout'ta görseli
+sayfada gösterme, yalnız og:image için kullan), `imageAlt` (görsel `alt`i özelleştirmek için,
 yoksa `"{title} duyuru görseli"` kullanılır), `author`/`authorUrl` (varsayılan
 "Uğur Atmaca"), `archived_to` (sadece evergreen arşiv kopyalarında —
 bkz. README.md), `redirect_from` (eski URL'den yönlendirme), `noindex: true`

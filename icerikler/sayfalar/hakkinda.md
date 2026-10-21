@@ -5,6 +5,7 @@ title: Edebiyat Yarışmaları Hakkında
 permalink: "hakkinda/"
 description: "Edebiyat Yarışmaları'nın kuruluş hikâyesi, yarışmaların nasıl bulunup kontrol edildiği ve iletişim bilgileri."
 image: "https://edebiyatyarismalari.com/images/icons/icon-384x384.png"
+hideImage: true  # logo yalnız paylaşım önizlemesi (og:image) için
 ---
 
 Merhaba, ben [Uğur Atmaca]({{ site.url }}/ugur-atmaca/){:class="gtag"}. **Edebiyat Yarışmaları**'nı Temmuz 2018'de kurdum. Ara sıra katılmak için internette **öykü yarışmaları** arardım, ama ya çok zor bulurdum ya da tarihleri çoktan geçmiş olurdu. Aynı sorunu yaşayanların olduğunu düşünerek bu siteyi hayata geçirdim.
