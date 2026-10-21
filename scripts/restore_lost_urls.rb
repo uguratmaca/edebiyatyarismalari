@@ -76,7 +76,7 @@ evergreen_docs.each do |doc|
   seen_permalinks = {}
   commit_order.each do |c|
     path = path_for_commit[c]
-    content = `git show #{c}:"#{path}" 2>nul`
+    content = `git show #{c}:"#{path}" 2>#{File::NULL}`
     next if content.strip.empty?
     perm = extract_permalink(content)
     next unless perm
@@ -88,7 +88,7 @@ evergreen_docs.each do |doc|
     if path.start_with?('_posts/evergreen/') && last_non_evergreen_path
       # evergreen/ icindeki ara hal yerine, evergreen'e girmeden onceki
       # son gercek tarihli konumu ve icerigini kullan
-      real_content = `git show #{last_non_evergreen_commit}:"#{last_non_evergreen_path}" 2>nul`
+      real_content = `git show #{last_non_evergreen_commit}:"#{last_non_evergreen_path}" 2>#{File::NULL}`
       unless real_content.strip.empty?
         c = last_non_evergreen_commit
         path = last_non_evergreen_path

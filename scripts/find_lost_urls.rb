@@ -64,7 +64,7 @@ evergreen_docs.each do |doc|
 
   historical_permalinks = {}
   path_for_commit.each do |c, path|
-    content = `git show #{c}:"#{path}" 2>nul`
+    content = `git show #{c}:"#{path}" 2>#{File::NULL}`
     next if content.strip.empty?
     perm = extract_permalink(content)
     next unless perm
