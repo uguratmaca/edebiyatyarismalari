@@ -25,7 +25,7 @@ Planlanan bu proje ile öğrenciler, milli ve manevi kültürüne sahip şiirler
 - Yarışmaya ortaokula giden her genç bireyin başvurusu kabul edilecektir.
 - Yarışma her ilden katılım sağlanabilecektır.
 - Video süresi maksimum 3 dakika olmalıdır.
-- Yarışmaya 3 — 10 Nisan tanhleri arasında katılım sağlanabilecektir.
+- Yarışmaya 3-10 Nisan tanhleri arasında katılım sağlanabilecektir.
 - Birinci 13 Nisan Pazartesi günü sosyal medya hesaplarından duyurulacaktır
 
 ## Yarışma Ödülleri

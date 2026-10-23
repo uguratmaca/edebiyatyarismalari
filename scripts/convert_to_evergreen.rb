@@ -135,7 +135,7 @@ GROUPS.each do |g|
     add_archived_to(o[:path], new_url)
   end
 
-  index_entries << "- **#{g[:name]}** — [dosya](#{File.basename(new_path)}) · `/#{new_permalink}`"
+  index_entries << "- **#{g[:name]}**: [dosya](#{File.basename(new_path)}) · `/#{new_permalink}`"
 end
 
 if APPLY

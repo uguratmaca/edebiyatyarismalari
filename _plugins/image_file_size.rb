@@ -1,4 +1,4 @@
-# feed.xml's <enclosure> needs a real byte length — Mailchimp's *|RSSITEM:IMAGE|*
+# feed.xml's <enclosure> needs a real byte length, Mailchimp's *|RSSITEM:IMAGE|*
 # merge tag appears to treat length="0" as an invalid enclosure and returns
 # nothing. This precomputes each post's front-matter `image` file size at
 # build time so feed.xml can emit an accurate length.

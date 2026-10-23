@@ -1,5 +1,5 @@
 # Front matter `totalPrize` is free text ("60 Bin TL'dir", "5.000 USD + 50 Bin
-# TL'dir.", "Bisiklet", "Altın", "2 Bin 500 TL'lik Hediye Çeki", ...) — money,
+# TL'dir.", "Bisiklet", "Altın", "2 Bin 500 TL'lik Hediye Çeki", ...), money,
 # other currencies, and non-monetary prizes are all mixed in. This filter
 # extracts a plain TRY integer only for the unambiguous, TL-only, cash-amount
 # case; anything else (other currencies, mixed/non-cash prizes, unparseable
@@ -18,7 +18,7 @@ module Jekyll
       tl_index = words.index { |w| w =~ TL_WORD }
       return nil if tl_index.nil?
 
-      # Anything after the TL word must be decorative (emoji/punctuation) —
+      # Anything after the TL word must be decorative (emoji/punctuation),
       # real trailing text means it's a mixed or non-cash prize.
       trailing = words[(tl_index + 1)..]
       return nil if trailing.any? { |w| w =~ /[\p{L}\p{N}]/ }

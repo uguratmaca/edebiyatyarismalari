@@ -22,10 +22,10 @@ submissionType: ["tek eser", "yayımlanmış kitap"]
 
 "Herkesin bir öyküsü vardır" sloganı ve edebiyatın bütünleştirici etkisi ile halkımızın okuma-yazmaya olan ilgisini artırmak amacıyla Sarıyer Belediyesi her yıl **Fakir Baykurt Öykü Yarışması**'nı düzenlemektedir.
 
-- 1.Kategori: Ortaokul (10-14 yaş) — Adaylar yarışmaya sadece bir öyküyle katılabilirler.
-- 2.Kategori: Lise (15-19 yaş) — Adaylar yarışmaya sadece bir öyküyle katılabilirler.
-- 3.Kategori: Yetişkinler Kategorisi 1 (Ortaokul – Lise öğrencisi olmayan, 18 yaş üzeri) — Adaylar yarışmaya sadece bir öyküyle katılabilirler.
-- 4.Kategori: Yetişkinler Kategorisi 2 — bir önceki yıl içinde yayımlanmış olan bir öykü kitabıyla katılabilirler.
+- 1.Kategori: Ortaokul (10-14 yaş): Adaylar yarışmaya sadece bir öyküyle katılabilirler.
+- 2.Kategori: Lise (15-19 yaş): Adaylar yarışmaya sadece bir öyküyle katılabilirler.
+- 3.Kategori: Yetişkinler Kategorisi 1 (Ortaokul – Lise öğrencisi olmayan, 18 yaş üzeri): Adaylar yarışmaya sadece bir öyküyle katılabilirler.
+- 4.Kategori: Yetişkinler Kategorisi 2: bir önceki yıl içinde yayımlanmış olan bir öykü kitabıyla katılabilirler.
 - Yarışmacı; bir A4 kâğıdını aşmayan özgeçmişini, nüfus cüzdanı fotokopisini küçük zarfa koyacaktır. Küçük zarfın içinde bulunan özgeçmişte adayın yaşı, açık adresi, telefon numaraları ve e-posta adresi mutlaka yazılmalıdır. Küçük zarfın üzerine sadece yarışma kategorisi yazılacaktır.
 - Öykülerde, öykü yazarının kimliğini belirten hiçbir bilgi bulunmayacaktır.
 - Yarışmaya katılacak öyküler ve özgeçmiş; 12 punto ile Times New Roman karakterinde A4 kâğıda yazılacaktır. Öyküler (4 nüsha olarak) ve küçük zarf, büyük zarfın içine konarak tek zarf halinde teslim edilecektir.

@@ -2,7 +2,7 @@
 # (yoksa/<30 karakter) açısından zayıf postlar için gövdeden otomatik bir
 # açıklama üretip `description`/`excerpt` alanlarını doldurur. Bu postlar
 # şu anda meta description'da generic site.description'a düşüyor (bkz.
-# _includes/head.html) — hepsi aynı meta description'ı paylaşıyor.
+# _includes/head.html) ve hepsi aynı meta description'ı paylaşıyor.
 #
 # Kullanım:
 #   ruby scripts/backfill_old_descriptions.rb          # dry-run, ne değişecek gösterir

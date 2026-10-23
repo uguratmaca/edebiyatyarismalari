@@ -1,6 +1,6 @@
 # Ana sayfa sayfalaması (index.html + sayfa2../sayfa5/) elle bakımı gereken sabit
 # counter aralıklarına dayanıyordu ve pagination.html en fazla 5 sayfa linkliyordu
-# — aktif (hidden/sticky olmayan, lastDate'i geçmemiş) yarışma sayısı 34'ü geçince
+#, aktif (hidden/sticky olmayan, lastDate'i geçmemiş) yarışma sayısı 34'ü geçince
 # fazlası sayfalamadan tamamen düşüyordu.
 #
 # Bu generator, build-time'da aktif sayıya göre kaç sayfa gerektiğini hesaplar:

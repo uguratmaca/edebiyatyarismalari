@@ -20,7 +20,7 @@ module Jekyll
       text = input.to_s.gsub("İ", "i").downcase
       matched = []
 
-      # "e-posta" contains "posta", so it must be matched and stripped first —
+      # "e-posta" contains "posta", so it must be matched and stripped first,
       # otherwise every email-only submission would also match Kargo/Posta.
       if text =~ EPOSTA_PATTERN
         matched << "E-posta"

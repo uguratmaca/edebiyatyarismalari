@@ -24,7 +24,7 @@ archived_to: "/seyhan-erozcelik-siir-yarismasi"
 	- İçinde çok iyi şiirler bulunsa dahi "kitap" niteliği taşımayan eserler/ dosyalar değerlendirme dışı tutulacaktır
 - Başvurular matbu yolla yapılmak zorundadır. Kitap yayınlanmışsa 6 adet, dosya halindeyse 6 nüsha çıkışı alınmış, özgeçmiş ve iletişim bilgileriyle birlikte ilgili adrese yollanmalıdır. (Yollanan kitap yahut dosyalar geri verilmez.)
 - Dosyası bulunan adaylar, dilerlerse kitaplarını Umaket-kitap biçiminde de yollayabilirler.
-- Ödül, eser odaklıdır. İdeali ödülün tek bir dosya yahut kitaba verilmesidir. Ancak, nitelik baz alındığından Seçici Kurul bu konuda —ittifakla olmak koşuluyla- yetkisini kullanıp, birden fazla kitabı ödüllendirebilir,
+- Ödül, eser odaklıdır. İdeali ödülün tek bir dosya yahut kitaba verilmesidir. Ancak, nitelik baz alındığından Seçici Kurul bu konuda (ittifakla olmak koşuluyla) yetkisini kullanıp, birden fazla kitabı ödüllendirebilir,
 - Ödülü basılı kitap kazanmışsa. ödül heykelciği verilecek ve tören sırasında kitaba ödül sticker'ı takılacaktır. Kazanan eğer basılmamış dosyaysa, yayıncı kuruluş kitaba bu sticker'ı basabilir
 - Ödüle şairin kendi başvurabileceği gibi yayınevi yahut arkadaşları, dostları, tanıdıkları da aday önerebilir. Seçici Kurul üyeleri de- tek kişi olmak koşuluyla- aday gösterme hakkına sahiplerdir.
 - Kitaplar yahut dosyalar 15 Eylül'e kadar; Ahmet Taner Kışlalı Mahallesi, 6843 sokak, no:38 Evka-2, Çiğli İZMİR adresine yollanacaktır.

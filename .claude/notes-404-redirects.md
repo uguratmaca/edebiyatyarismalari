@@ -13,12 +13,12 @@ içine sessizce katma. Kullanıcı bir export verdiğinde listenin tam olup olma
 
 37 URL'ye (5 git-history + 31 prefix-matching + 1 evergreen-yönlendirme) redirect_from eklendi, `bundle exec jekyll build` hatasız geçti, üretilen redirect stub'ları (meta-refresh + JS + noindex) doğru çalışıyor.
 
-- `simit-cay-` → tek bir evergreen sayfaya (`_posts/evergreen/diger/2026-06-23-simit-cay-etkinlikleri-siir-yarismasi.md`, permalink `simit-cay-etkinlikleri-siir-yarismasi`) yönlendirildi — bu, edisyon belirsizliğini evergreen sayfaya yönlendirerek çözdü.
+- `simit-cay-` → tek bir evergreen sayfaya (`_posts/evergreen/diger/2026-06-23-simit-cay-etkinlikleri-siir-yarismasi.md`, permalink `simit-cay-etkinlikleri-siir-yarismasi`) yönlendirildi, bu, edisyon belirsizliğini evergreen sayfaya yönlendirerek çözdü.
 - `anadolu-` ve `2020-` hâlâ bilerek atlandı: bunlar aynı yarışmanın farklı yılları değil, birbiriyle alakasız farklı yarışmalar aynı öneki paylaşıyor, birleştiren evergreen sayfa da yok.
 
 Detaylar aşağıda korunuyor.
 
-Sıradaki: **Yapılacak #2** (protokol eksik linkler) ve **Yapılacak #3** (legacy articles/ URL'leri) — henüz başlanmadı. Ayrıca değişiklikler henüz commit edilmedi.
+Sıradaki: **Yapılacak #2** (protokol eksik linkler) ve **Yapılacak #3** (legacy articles/ URL'leri), henüz başlanmadı. Ayrıca değişiklikler henüz commit edilmedi.
 
 ---
 (Aşağısı eski/orijinal plan notu, referans için duruyor)
@@ -41,7 +41,7 @@ Kaynak: Google Search Console "Page indexing - Not found (404)" raporu, 43 URL (
    - `/rifat-ilgaz-` → `_posts/2024/subat/2024-02-03-rifat-ilgaz-siir-yarismasi-2024.md` (git'te iz yok ama kullanıcı canlıda olduğunu doğruladı)
 
 3. Redirect gerekmeyen (gerçekten silinmiş, karşılığı yok):
-   - `/articles/2019/02/01/subat-diger-edebiyat-yarismalari.html` — tek seferlik 2019 "diğer yarışmalar" derleme postu, evergreen karşılığı yok.
+   - `/articles/2019/02/01/subat-diger-edebiyat-yarismalari.html`, tek seferlik 2019 "diğer yarışmalar" derleme postu, evergreen karşılığı yok.
 
 4. Kapsam dışı bırakılan (ayrı sorunlar, bu redirect işinin parçası değil):
    - `/essaycompetition.tkbb.org.tr/?ref=...` ve `/www.odemis.bel.tr` → bunlar permalink değil, postlardaki linklerde `https://` eksikliğinden kaynaklanan ayrı bir bug (bkz. "Yapılacak #2" aşağıda).
@@ -50,7 +50,7 @@ Kaynak: Google Search Console "Page indexing - Not found (404)" raporu, 43 URL (
 
 ## Önemli bulgu (metodoloji notu)
 
-Trailing-hyphen'li slug'lar (örn. `/rifat-ilgaz-`, `/kadin-haklari-`) muhtemelen kullanıcının permalink'i eksik yazıp canlıya alması, sonra düzeltmesinden kaynaklanıyor — ANCAK bu düzeltme ilk commit'ten önce oluyor, o yüzden git geçmişinde İZ YOK. Git-history yöntemi bu kalan URL'ler için işe yaramıyor.
+Trailing-hyphen'li slug'lar (örn. `/rifat-ilgaz-`, `/kadin-haklari-`) muhtemelen kullanıcının permalink'i eksik yazıp canlıya alması, sonra düzeltmesinden kaynaklanıyor, ANCAK bu düzeltme ilk commit'ten önce oluyor, o yüzden git geçmişinde İZ YOK. Git-history yöntemi bu kalan URL'ler için işe yaramıyor.
 
 **Bir sonraki oturumda kullanılacak yöntem:** git'e bakmadan, mevcut canlı postların `permalink:` alanlarıyla ÖNEK eşleştirmesi yap (prefix match):
 - Tek aday varsa → kesin eşleşme, redirect ekle.
@@ -96,7 +96,7 @@ Trailing-hyphen'li slug'lar (örn. `/rifat-ilgaz-`, `/kadin-haklari-`) muhtemele
 | /hasan-ozkilic-oyku- | 2026-01-09 |
 | /14-subat-polisiye- | 2026-01-09 |
 
-Not: `/2-ganesa-mitolojik-` ve `/ganesa-mitolojik-` iki ayrı satır — "2-" önekli olan muhtemelen o yarışmanın 2. edisyonuna özel, ayrı ele alınmalı.
+Not: `/2-ganesa-mitolojik-` ve `/ganesa-mitolojik-` iki ayrı satır, "2-" önekli olan muhtemelen o yarışmanın 2. edisyonuna özel, ayrı ele alınmalı.
 
 ## Sıradaki adımlar (yarın)
 

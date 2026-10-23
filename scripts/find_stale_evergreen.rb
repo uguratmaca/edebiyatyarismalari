@@ -52,5 +52,5 @@ puts "Bugün: #{Date.today} (yıl: #{CURRENT_YEAR})"
 puts "Tekrar etmemiş (en eski önce): #{results.size} yarışma\n\n"
 
 results.each do |r|
-  puts "- #{r[:title]} — son bilinen: #{r[:dateHuman]} (#{CURRENT_YEAR - r[:year]} yıl önce) — /#{r[:permalink]} — #{r[:path]}"
+  puts "- #{r[:title]}: son bilinen #{r[:dateHuman]} (#{CURRENT_YEAR - r[:year]} yıl önce) /#{r[:permalink]} (#{r[:path]})"
 end

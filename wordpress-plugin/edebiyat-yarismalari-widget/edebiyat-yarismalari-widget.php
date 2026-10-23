@@ -28,7 +28,7 @@ require_once EDYW_PLUGIN_DIR . 'includes/class-edyw-shortcode.php';
 
 add_action( 'wp_enqueue_scripts', 'edyw_register_assets' );
 /**
- * Stil dosyasını kaydeder (henüz kuyruğa almaz — asıl enqueue shortcode render edildiğinde yapılır).
+ * Stil dosyasını kaydeder (henüz kuyruğa almaz, asıl enqueue shortcode render edildiğinde yapılır).
  */
 function edyw_register_assets() {
 	wp_register_style( 'edyw-style', EDYW_PLUGIN_URL . 'assets/edyw-style.css', array(), EDYW_VERSION );

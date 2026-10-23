@@ -30,7 +30,7 @@ Her öğenin `people` alanı düzenleyen kurumu (`organizer`) ve jüriyi (`## ..
 
 Bu proje için her zaman öncelik **SEO**'dur. Tasarım, UX, performans gibi konularda karar verirken de bu önceliği göz önünde bulundur (ör. semantic HTML, başlık hiyerarşisi, alt text, sayfa hızı, crawl edilebilirlik, structured data gibi etkenler tercih sebebidir).
 
-**GEO** (Generative Engine Optimization — ChatGPT, Perplexity, Google AI Overviews, Claude gibi yapay zekâ motorları tarafından keşfedilmek/atıf almak) de SEO kadar önemli bir önceliktir. Kullanıcılar artık "şu an açık öykü yarışmaları neler" gibi soruları arama motoru yerine bir AI'a soruyor; sitenin bu tür yanıtlarda kaynak gösterilmesi de SEO kadar değerli. Kararlarda bunu da göz önünde bulundur: içeriğin AI tarafından kolayca çıkarılabilir/alıntılanabilir olması (net, etiketli gerçekler; belirsiz olmayan tek-konu sayfalar), yapılandırılmış veri (schema.org), ve AI crawler'ların engellenmemesi gibi etkenler tercih sebebidir.
+**GEO** (Generative Engine Optimization, ChatGPT, Perplexity, Google AI Overviews, Claude gibi yapay zekâ motorları tarafından keşfedilmek/atıf almak) de SEO kadar önemli bir önceliktir. Kullanıcılar artık "şu an açık öykü yarışmaları neler" gibi soruları arama motoru yerine bir AI'a soruyor; sitenin bu tür yanıtlarda kaynak gösterilmesi de SEO kadar değerli. Kararlarda bunu da göz önünde bulundur: içeriğin AI tarafından kolayca çıkarılabilir/alıntılanabilir olması (net, etiketli gerçekler; belirsiz olmayan tek-konu sayfalar), yapılandırılmış veri (schema.org), ve AI crawler'ların engellenmemesi gibi etkenler tercih sebebidir.
 
 ## Front matter `tags` kuralları
 
@@ -39,11 +39,11 @@ Bu proje için her zaman öncelik **SEO**'dur. Tasarım, UX, performans gibi kon
 
 ## `lastDate` hesaplama
 
-`lastDate`, son başvuru tarihinin (dateHuman) İstanbul saatiyle gece yarısı (00:00) karşılığının Unix epoch'udur — yani `dateHuman` gününden bir gün önce, saat 21:00 UTC.
+`lastDate`, son başvuru tarihinin (dateHuman) İstanbul saatiyle gece yarısı (00:00) karşılığının Unix epoch'udur, yani `dateHuman` gününden bir gün önce, saat 21:00 UTC.
 
 ## Değerlendirilecek: eski/bitmiş postlarda noindex
 
-Sitede binlerce (2018'den beri ~2000) yarışma duyurusu var; çoğu tek seferlik ve bir daha tekrarlanmayan, bitmiş yarışmalar. Şu an hepsi `index, follow` — hiçbirine `noindex` uygulanmıyor.
+Sitede binlerce (2018'den beri ~2000) yarışma duyurusu var; çoğu tek seferlik ve bir daha tekrarlanmayan, bitmiş yarışmalar. Şu an hepsi `index, follow`, hiçbirine `noindex` uygulanmıyor.
 
 Bu bilinçli olarak ertelendi (2026-07 tarihli SEO incelemesinde gündeme geldi): eski postlara noindex eklemek sitenin "güncel/aktif" sinyalini güçlendirebilir, ama bazı eski sayfalar backlink/referans değeri taşıyabilir ve noindex bunu siler. Binlerce dosyayı tek tek "gerçekten tekrarlanmıyor mu" diye evergreen sistemle karşılaştırmak da hata payı yüksek, zaman alıcı bir iş.
 

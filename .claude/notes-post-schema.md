@@ -30,23 +30,23 @@ excerpt: "Kısa özet, <strong> ile öne çıkan kısım vurgulanabilir."
 Nadiren kullanılan ek alanlar: `hideImage: true` (`simple` layout'ta görseli
 sayfada gösterme, yalnız og:image için kullan), `imageAlt` (görsel `alt`i özelleştirmek için,
 yoksa `"{title} duyuru görseli"` kullanılır), `author`/`authorUrl` (varsayılan
-"Uğur Atmaca"), `archived_to` (sadece evergreen arşiv kopyalarında —
+"Uğur Atmaca"), `archived_to` (sadece evergreen arşiv kopyalarında,
 bkz. README.md), `redirect_from` (eski URL'den yönlendirme), `noindex: true`
-(bkz. CLAUDE.md "eski/bitmiş postlarda noindex" — şu an bilinçli olarak
+(bkz. CLAUDE.md "eski/bitmiş postlarda noindex", şu an bilinçli olarak
 kullanılmıyor), `featured: true` (haftalık Mailchimp RSS-otomasyonunun
-kaynağı olan `feed.xml`'de postu en üste çıkarır — bkz. `_plugins/feed_order.rb`;
+kaynağı olan `feed.xml`'de postu en üste çıkarır, bkz. `_plugins/feed_order.rb`;
 `sticky` ile karıştırma, o ayrı bir alan ve ana sayfa sabitlemesi için),
-`hidden: true` (postu ana sayfa listelemesinden — `index.html`/`sayfa2..5` —
+`hidden: true` (postu ana sayfa listelemesinden, `index.html`/`sayfa2..5`,
 düşürür, bkz. `_plugins/homepage_pagination_generator.rb`; site edebiyat
 yarışmaları odaklı olduğu için resim/fotoğraf/tasarım/karikatür/beste/kısa film
 gibi **edebiyat dışı** yarışmalarda kullanılır (**resim yarışmaları da eklenir**, her
-zaman `hidden: true` ile; yarışma bulurken onları da tara) — post yine de kendi URL'sinden,
+zaman `hidden: true` ile; yarışma bulurken onları da tara), post yine de kendi URL'sinden,
 tag filtresinden ve aramadan erişilebilir kalır, sadece ana sayfada öne
 çıkmaz. Bir yarışma hem edebiyat hem edebiyat-dışı kategoriler içeriyorsa
 (ör. bir festivalin hem senaryo hem kısa film dalı varsa), Akbank Kısa Film
 Festivali örneğindeki gibi **ikiye böl**: edebiyat kategorisi (senaryo vb.)
 ayrı, görünür bir post/evergreen sayfa olsun; edebiyat dışı kategori (kısa
-film vb.) ayrı, `hidden: true` bir post/evergreen sayfa olsun — bkz.
+film vb.) ayrı, `hidden: true` bir post/evergreen sayfa olsun, bkz.
 `akbank-kisa-film-festivali-senaryo-yarismasi` (görünür) ve
 `akbank-kisa-film-festivali` (hidden, artık güncellenmiyor) örneği).
 
@@ -99,7 +99,7 @@ entryFee: "Ücretsiz"                                    # 💳 "Ücretsiz", "60
   hiç bahsetmiyorsa alanı ekleme.
 
 `totalPrize` yoksa post, `money.html` layout'unun kullandığı "para ödüllü
-yarışmalar" listesine girmez — parasal ödül yoksa alanı boş bırak, uydurma.
+yarışmalar" listesine girmez, parasal ödül yoksa alanı boş bırak, uydurma.
 
 `comTopic` yoksa (yarışmanın belirli bir konu şartı yoksa) alanı boş
 bırakmak/atlamak yerine `"Serbest"` yaz.
@@ -163,7 +163,7 @@ Duyurusu geç fark edilen veya sitede hiç karşılığı olmayan bir yarışma 
 ## `tags` için sabit kategori listeleri
 
 `tags` serbest olsa da, `menuler/ozel/yarisma-filtrele.md` içindeki filtre
-iki sabit liste kullanıyor — yeni post eklerken tag'lerden en az biri bu
+iki sabit liste kullanıyor, yeni post eklerken tag'lerden en az biri bu
 listelerden olmalı ki filtrede görünsün:
 
 - **Tür** (`type`): hikaye yarışması, şiir yarışması, roman yarışması, deneme
@@ -200,13 +200,13 @@ sabit kovalara eşliyor: **E-posta**, **Online/Web Sitesi**, **Kargo/Posta**,
 yazılabilir ama anahtar kelimeler (`e-posta`/`mail`, `web sitesi`/`online`,
 `kargo`/`posta`, `elden`/`şahsen`/`yüz yüze`, `okul`/`müdürlük`/`kurum`,
 `instagram`/`whatsapp`/... ) geçmeli ki doğru kovaya düşsün. Örn. "yüz yüze"
-katılım için `attendance` metninde "elden" veya "yüz yüze" geçmeli — sadece
+katılım için `attendance` metninde "elden" veya "yüz yüze" geçmeli, sadece
 "Yüzyüze" yazmak da regex'i (`yüz ?yüze`) eşler, sorun yok.
 
 ## Görsel işleme
 
 Kullanıcı görseli genelde kendisi sağlıyor (Instagram, kurum web sitesi vb.
-kaynaklardan) — genelde jpeg/png. Post eklenirken görsel de `images/<yıl>/<ay>/`
+kaynaklardan), genelde jpeg/png. Post eklenirken görsel de `images/<yıl>/<ay>/`
 altına eklenir; işlenmemiş haliyle bırakılmaz:
 
 1. `scripts/process_image.py` ile sağ-alt köşeye yarı saydam
@@ -223,12 +223,12 @@ altına eklenir; işlenmemiş haliyle bırakılmaz:
    **Boyutu 1200x630'a zorlamaya gerek yok.** `og:image`/schema ImageObject
    meta'ları bu boyutu sabit beyan etse de, sayfadaki gerçek görüntüleme
    `css/theme.css`'teki `.hero-img { aspect-ratio: 1200/630; object-fit: contain; }`
-   kuralıyla çözülüyor — dikey (Instagram story, 1440x1920) veya kare
+   kuralıyla çözülüyor, dikey (Instagram story, 1440x1920) veya kare
    (1080x1080) kaynak görseller de sayfada düzgün görünür, kırpılmaz. Script
    varsayılan olarak orijinal boyutu korur; gerçekten hard-crop gerekiyorsa
    `--resize` bayrağı var.
 2. Front matter `image:` alanına tam URL (`https://edebiyatyarismalari.com/images/...`) yazılır.
-3. WebP standart format — avif de teknik olarak destekleniyor (script
+3. WebP standart format, avif de teknik olarak destekleniyor (script
    `--no-watermark` dışında format seçeneği sunmuyor, gerekirse script'e
    `.avif` çıktı desteği eklenebilir) ama şu an tutarlılık için webp tercih
    ediliyor.
@@ -253,16 +253,16 @@ Katılım Koşulları:
 - {Dil, tür, konu (comTopic) şartı}
 - {Kelime/sayfa/karakter limiti, font, punto gibi biçim şartları}
 - {Daha önce ödül almamış/yayımlanmamış olma gibi özgünlük şartları}
-- {Başvuru şekli — attendance ile tutarlı: e-posta adresi, online form, posta adresi vb.}
+- {Başvuru şekli: attendance ile tutarlı: e-posta adresi, online form, posta adresi vb.}
 - {Son başvuru tarihi (dateHuman ile aynı) ve varsa saat}
 - {Katılım ücreti (genelde "ücretsizdir")}
 
 {`attendance` "Online"/"İnternet Sitesi"/"Web Sitesi" gibi bir değerse, katılım
 koşulları listesindeki başvuru cümlesinde mutlaka gerçek başvuru URL'sine giden
-bir markdown linki olmalı — sadece domain adını düz metin yazma:
+bir markdown linki olmalı, sadece domain adını düz metin yazma:
 `[doganyayinlari.com.tr/oyku-yarismasi](https://doganyayinlari.com.tr/oyku-yarismasi){:rel="nofollow"}{:target="_blank"}{:class="gtag"}`}
 
-{Opsiyonel — başvuru ayrı, öne çıkan bir link/buton olarak da verilebilir:}
+{Opsiyonel: başvuru ayrı, öne çıkan bir link/buton olarak da verilebilir:}
 #### [Başvuru Formu](https://...){:rel="nofollow"}{:target="_blank"}{:class="gtag"}
 
 ## {title} Ödülleri
@@ -271,15 +271,15 @@ bir markdown linki olmalı — sadece domain adını düz metin yazma:
 - İkincilik Ödülü: {tutar}
 - Üçüncülük Ödülü: {tutar}
 
-{Opsiyonel — mansiyon, sonuç açıklama tarihi, ödül töreni bilgisi.}
+{Opsiyonel: mansiyon, sonuç açıklama tarihi, ödül töreni bilgisi.}
 
-{Opsiyonel, sadece jüri varsa — bkz. aşağıdaki not:}
+{Opsiyonel, sadece jüri varsa: bkz. aşağıdaki not:}
 ## {title} Jürisi
 
 - {Ad Soyad} ({unvan/meslek}) – {varsa "Jüri Başkanı" gibi rol}
 - {Ad Soyad} ({unvan/meslek})
 
-{Opsiyonel kapanış paragrafı — yarışmanın anlamı/önemi üzerine.}
+{Opsiyonel kapanış paragrafı: yarışmanın anlamı/önemi üzerine.}
 ```
 
 Jüri üyeleri her zaman ayrı `## {title} Jürisi` başlığı altında bullet

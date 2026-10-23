@@ -64,7 +64,7 @@ No, links are marked with `rel="nofollow sponsored"`.
 
 This plugin connects to edebiyatyarismalari.com, the site it is published by, to retrieve the list of current literary competition announcements shown by the `[edyw_widget]` shortcode.
 
-It sends a plain server-side HTTP GET request to `https://edebiyatyarismalari.com/yarismalar.json` (a static, publicly available JSON feed) whenever the 12-hour cache has expired. No visitor data (IP address, cookies, user agent, or any other personal or site data) is included in this request — it is a fixed URL with no parameters. The response (competition titles, URLs, deadlines and prize info) is cached locally as a WordPress transient for 12 hours.
+It sends a plain server-side HTTP GET request to `https://edebiyatyarismalari.com/yarismalar.json` (a static, publicly available JSON feed) whenever the 12-hour cache has expired. No visitor data (IP address, cookies, user agent, or any other personal or site data) is included in this request, it is a fixed URL with no parameters. The response (competition titles, URLs, deadlines and prize info) is cached locally as a WordPress transient for 12 hours.
 
 This service is provided by edebiyatyarismalari.com: [Privacy Policy](https://edebiyatyarismalari.com/gizlilik/). The site does not publish a separate terms-of-use page; the JSON feed is offered as public data for reuse.
 

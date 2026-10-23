@@ -1,41 +1,12 @@
 # Edebiyat Yarışmaları
 
-## Yazarlar
-sabahattin ali
-https://edebiyatyarismalari.com/sabahattin-ali-yarismalari/
-      
-rıfat ılgaz
-https://edebiyatyarismalari.com/rifat-ilgaz-yarismalari/
-
-attila ilhan
-https://edebiyatyarismalari.com/attila-ilhan-yarismalari/
-
-cemal süreya
-https://edebiyatyarismalari.com/cemal-sureya-yarismalari/
-
-mehmet akif ersoy
-https://edebiyatyarismalari.com/mehmet-akif-ersoy-yarismalari/
-
-ahmet hamdi tanpınar
-https://edebiyatyarismalari.com/ahmet-hamdi-tanpinar-yarismalari/
-
-ömer seyfettin
-https://edebiyatyarismalari.com/omer-seyfettin-yarismalari/
-
-reşat nuri güntekin
-https://edebiyatyarismalari.com/resat-nuri-guntekin-yarismalari/
-
-sait faik abasıyanık
-https://edebiyatyarismalari.com/sait-faik-abasiyanik-yarismalari/
-
-fakir baykurt
-https://edebiyatyarismalari.com/fakir-baykurt-yarismalari/
+Jekyll sitesi. Çalışma kuralları CLAUDE.md'de, yarışma postu şeması `.claude/notes-post-schema.md`'de.
 
 ## Local Serve
 - install ruby
 - gem install bundler
 - bundle install
-- jekyll serve
+- bundle exec jekyll serve
 
 ## Evergreen Yarışmalar (Her Yıl Tekrarlanan Yarışmalar)
 
@@ -56,11 +27,11 @@ Yeni dönem duyurulunca o dosya güncellenir, sabit kalır.
 2. Evergreen dosyasında şu alanları yeni yılın bilgisiyle güncelle:
    - `date` (duyurunun yapıldığı gün)
    - `description`, `excerpt` (yeni ödül/tarih bilgisiyle)
-   - `tags` (ay/yıl etiketini güncelle, evergreen etiketini —`her yıl tekrarlanan` veya
-     `her yıl tekrarlanan hikaye`— olduğu gibi koru)
-   - `lastDate` (yeni son başvuru tarihinin epoch/Unix timestamp karşılığı — bkz. aşağıdaki "Date" bölümü)
+   - `tags` (ay/yıl etiketini güncelle, evergreen etiketini (`her yıl tekrarlanan` veya
+     `her yıl tekrarlanan hikaye`) olduğu gibi koru)
+   - `lastDate` (yeni son başvuru tarihinin epoch/Unix timestamp karşılığı, bkz. aşağıdaki "Date" bölümü)
    - `dateHuman`, `price`, `comTopic`, `requirements`, `image` (varsa yeni bilgiyle)
-   - **`permalink`'e dokunma** — sabit kalmalı, sitedeki tüm linkler ona göre çalışıyor
+   - **`permalink`'e dokunma**, sabit kalmalı, sitedeki tüm linkler ona göre çalışıyor
    - Gövde metnindeki katılım koşulları, ödüller, seçici kurul gibi bölümleri yeni bilgiyle güncelle
 3. Dosyanın sonundaki "Geçmiş Yıllar" listesine, artık geçmiş olan yılın satırını en üste ekle.
 
@@ -108,7 +79,7 @@ kalabiliyor. Bu script Jekyll'in kendi site modelini yükleyip iki şeyi kontrol
   evergreen sayfaya `archived_to` ile işaret edip etmediğini (eksikse veya başka bir hedefe
   işaret ediyorsa raporlar).
 - Henüz evergreen'e çevrilmemiş olası tekrarlanan yarışma serilerini (aynı `organizer` + yıl/sıra
-  numarası çıkarılınca aynı `title` ile eşleşen, 2+ yıla yayılmış postlar) listeler — bunlar elle
+  numarası çıkarılınca aynı `title` ile eşleşen, 2+ yıla yayılmış postlar) listeler, bunlar elle
   incelenip yukarıdaki "Yeni bir yarışmayı ilk kez evergreen'e çevirmek" adımlarıyla taşınmalı,
   script bu kısmı otomatik yapmaz.
 
@@ -127,17 +98,10 @@ matter'ında `archived_to` unutulmuş dosyalara dokunur; yeni evergreen sayfa ol
 
 Bir yarışma tamamen değişmiş (farklı bir programa dönüşmüş, bir daha düzenlenmemiş vb.) ve
 güncellemeye değmiyorsa ama sayfayı silmek istemiyorsanız (eski link/bookmark kırılmasın diye),
-front matter'a `noindex: true` ekleyin — sayfa sitede kalır ama arama motorlarına indekslenmez.
+front matter'a `noindex: true` ekleyin, sayfa sitede kalır ama arama motorlarına indekslenmez.
 
 İçeriğin hiçbir değeri kalmadıysa (ör. tamamen başka bir formata dönüşmüş, güncel bir karşılığı
 da yazılmayacaksa) dosyayı `git rm` ile silin; GitHub Pages statik olduğu için gerçek bir 410
-status kodu veremiyoruz, silinen sayfa doğal olarak 404 döner — Google bunu 410'a yakın şekilde
+status kodu veremiyoruz, silinen sayfa doğal olarak 404 döner, Google bunu 410'a yakın şekilde
 değerlendirip zamanla indeksten düşürür. `robots.txt` ile engellemeyin, o zaman Google `noindex`
 etiketini bile göremez.
-
-## Date  
-- https://jsbin.com/yodinefodu/edit?js,console
-- console.log(new Date(2022,4,9).getTime()/1000)
-
-## Add Google Calendar
-https://calendar.google.com/calendar/u/1?cid=ZWRlYml5YXQueWFyaXNtYWxhcmlAZ21haWwuY29t
