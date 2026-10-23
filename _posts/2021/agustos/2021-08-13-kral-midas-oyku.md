@@ -11,6 +11,7 @@ comTopic: "Düşler, Masallar, Kentler"
 attendance: "E-Posta"
 requirements: "Yarışmaya katılım 18 yaş üzeri herkese açıktır"
 permalink: "3-kral-midas-oyku-yarismasi"
+archived_to: "/kral-midas-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2021/agustos/3-kral-midas-oyku-yarismasi.jpg"
 excerpt: "Eskişehir Sanat Dergisi 3. Kral Midas Öykü Yarışması düzenliyor."
 ---

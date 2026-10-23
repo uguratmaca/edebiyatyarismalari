@@ -12,6 +12,7 @@ attendance: "Kargo/Posta"
 organizer: "Eskişehir Sanat Derneği"
 requirements: "İsteyen herkes katılabilir."
 permalink: "kral-midas-oyku-yarismasi-2023"
+archived_to: "/kral-midas-oyku-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2023/ekim/kral-midas-oyku-yarismasi-2023.jpg"
 excerpt:  "Eskişehir Sanat Derneği <strong> 4. Eskişehir Kral Midas Öykü Yarışması </strong> düzenliyor."
 ---

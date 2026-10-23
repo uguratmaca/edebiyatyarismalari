@@ -61,6 +61,7 @@ Yeni bir evergreen sayfa eklendiğinde bu listeye de eklemeyi unutma.
 - **Kemal Özer Şiir Ödülü**: [dosya](siir/2026-07-27-kemal-ozer-siir-odulu.md) · `/kemal-ozer-siir-odulu`
 - **Kitapyurdu Türkiye Okur Ödülleri**: [dosya](2025-02-12-kitapyurdu-turkiye-okur-odulleri.md) · `/kitapyurdu-turkiye-okur-odulleri`
 - **Kocaeli Yüksek Öğrenim Vakfı (KYÖV) Çocuk Edebiyatı Ödülleri**: [dosya](diger/2026-10-05-kyov-cocuk-edebiyati-odulleri.md) · `/kyov-cocuk-edebiyati-odulleri`
+- **Kral Midas Öykü Yarışması**: [dosya](hikaye/2026-10-24-kral-midas-oyku-yarismasi.md) · `/kral-midas-oyku-yarismasi`
 - **Luma Kısa Film Festivali Senaryo Yarışması**: [dosya](senaryo/2026-09-15-luma-kisa-film-festivali-senaryo-yarismasi.md) · `/luma-kisa-film-festivali-senaryo-yarismasi`
 - **Luma Kısa Film Yarışması** (hidden): [dosya](kisa-film/2026-09-15-luma-kisa-film-yarismasi.md) · `/luma-kisa-film-yarismasi`
 - **Mahal Edebiyat Öykü Yarışması**: [dosya](2026-01-29-mahal-edebiyat-oyku-yarismasi.md) · `/mahal-edebiyat-oyku-yarismasi`
