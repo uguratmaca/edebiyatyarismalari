@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "MEB 29 Ekim Şiir ve Kompozisyon Yarışması 2026: Şartname"
-description: "MEB 29 Ekim Cumhuriyet Bayramı Şiir ve Kompozisyon Yarışması 2026: ortaokul 5-8. sınıf, konu \"Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim\", şartname, ödül tablet, sonuçlar 23 Ekim."
+title: "MEB 29 Ekim Şiir ve Kompozisyon Yarışması 2026: Şartname ve Sonuçlar"
+description: "MEB 29 Ekim Cumhuriyet Bayramı Şiir ve Kompozisyon Yarışması 2026: ortaokul 5-8. sınıf, konu \"Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim\", şartname, ödül tablet, sonuçlar açıklandı."
 date: 2026-09-07
 category: articles
 tags: [ekim 2026, her yıl tekrarlanan, şiir yarışması, kompozisyon yarışması, ortaokul, 29 ekim]
@@ -13,7 +13,7 @@ organizer: "Millî Eğitim Bakanlığı Temel Eğitim Genel Müdürlüğü"
 requirements: "Resmî ortaokullar ve imam hatip ortaokullarında (5-8. sınıf) okuyan öğrenciler, okulları aracılığıyla katılabilir."
 permalink: "meb-cumhuriyet-bayrami-siir-kompozisyon-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/ekim/meb-cumhuriyet-bayrami-siir-kompozisyon-yarismasi.webp"
-excerpt: "MEB'in ortaokullar arası <strong>29 Ekim Cumhuriyet Bayramı Şiir ve Kompozisyon Yarışması</strong>. 2026 konusu \"Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim\", sonuçlar 23 Ekim 2026'da."
+excerpt: "MEB'in ortaokullar arası <strong>29 Ekim Cumhuriyet Bayramı Şiir ve Kompozisyon Yarışması</strong>. 2026 konusu \"Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim\", sonuçlar 23 Ekim 2026'da açıklandı."
 workLimit: "En fazla 2 sayfa (A4, Word, Times New Roman, 12 punto)"
 workCount: "Kişi başı 1 eser, tek dalda"
 ageRange: "5-8. sınıf ortaokul ve imam hatip ortaokulu öğrencileri"
@@ -31,7 +31,7 @@ keyPoints:
 
 Millî Eğitim Bakanlığı Temel Eğitim Genel Müdürlüğü, her yıl 29 Ekim Cumhuriyet Bayramı kutlamaları kapsamında okullar arasında resim, şiir ve kompozisyon yarışması düzenliyor. Şiir ve kompozisyon dalları resmî ortaokullar ve imam hatip ortaokullarındaki öğrencilere açık. Yarışmanın resim dalı için: [MEB 29 Ekim Cumhuriyet Bayramı Resim Yarışması](/meb-cumhuriyet-bayrami-resim-yarismasi).
 
-Bu sayfada yarışmanın 2026 dönemi, yani **Cumhuriyet'in 103. yıl dönümü kapsamında düzenlenen "Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim" konulu yarışma** bilgileri yer alıyor. Bu dönemin okul aşaması Eylül 2026'da tamamlandı, sonuçlar 23 Ekim 2026'da [tegm.meb.gov.tr](http://tegm.meb.gov.tr){:rel="nofollow"}{:target="_blank"}{:class="gtag"} adresinde açıklanacak. Bir önceki yıl (2025) yarışmanın konusu "Köklü Geçmişten Güçlü Cumhuriyete" idi. Yeni dönem duyurulduğunda sayfa güncellenecektir.
+Bu sayfada yarışmanın 2026 dönemi, yani **Cumhuriyet'in 103. yıl dönümü kapsamında düzenlenen "Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim" konulu yarışma** bilgileri yer alıyor. Bu dönemin okul aşaması Eylül 2026'da tamamlandı, sonuçlar 23 Ekim 2026'da [tegm.meb.gov.tr](http://tegm.meb.gov.tr){:rel="nofollow"}{:target="_blank"}{:class="gtag"} adresinde açıklandı (aşağıda "Sonuçları ve Kazananlar" bölümünde). Bir önceki yıl (2025) yarışmanın konusu "Köklü Geçmişten Güçlü Cumhuriyete" idi. Yeni dönem duyurulduğunda sayfa güncellenecektir.
 
 ### Yarışmanın Amacı
 
@@ -77,3 +77,21 @@ Katılım Koşulları (2026):
 - Mansiyon Ödülü: Tablet
 
 Ödül alan öğrenciler velileriyle birlikte 29 Ekim Cumhuriyet Bayramı kutlamaları kapsamında Ankara'ya davet edilecek, ödüller Bakanlığın düzenleyeceği törenle verilecektir.
+
+## MEB 29 Ekim Şiir ve Kompozisyon Yarışması 2026 Sonuçları ve Kazananlar
+
+MEB Temel Eğitim Genel Müdürlüğü, "Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim" konulu yarışmanın sonuçlarını 23 Ekim 2026'da açıkladı. Ödüller 29 Ekim 2026'da MEB Şura Salonu'nda düzenlenecek törenle verilecek. Resmî sonuç listesi: [Yarışma sonuçları (PDF)](https://tegm.meb.gov.tr/meb_iys_dosyalar/2026_10/6adb3e83c5deb373241642_yar%C4%B1%C5%9Fma_sonu%C3%A7.pdf){:rel="nofollow"}{:target="_blank"}{:class="gtag"}. Duyuru: [tegm.meb.gov.tr](https://tegm.meb.gov.tr/www/quot29-ekim-cumhuriyet-bayrami-103-yil-donumu-kutlamalari-kapsaminda-quotbirlik-bizim-kardeslik-bizim-cumhuriyet-bizimquot-konulu-resim-siir-ve-kompozisyon-yarismasi-sonuclandi/icerik/1348/tr){:rel="nofollow"}{:target="_blank"}{:class="gtag"}.
+
+### Ortaokul Şiir
+
+- Birincilik: Nisa Asya Demirci (Kadirli 100. Yıl Ortaokulu, Osmaniye)
+- İkincilik: Ilgın Hayat Demirdiş (Mamak Şehit Hamza Irmak Ortaokulu, Ankara)
+- Üçüncülük: Efsa İsan (Merkez Atatürk Ortaokulu, Tokat)
+- Mansiyon: Öykü Su Kayabaşı (Merkez 100. Yıl Ortaokulu, Bolu)
+
+### Ortaokul Kompozisyon
+
+- Birincilik: İrem Türk (İnegöl Müşerref-Muzaffer Samda Ortaokulu, Bursa)
+- İkincilik: Nisa Nur Yavuz (Merkez Turgut Özal Kız Anadolu İmam Hatip Ortaokulu, Batman)
+- Üçüncülük: Alya Rana Arslan (Seydişehir İsmet Şen Ortaokulu, Konya)
+- Mansiyon: Buğlem Derin Çıngı (Bodrum Havva Torun Ortaokulu, Muğla)

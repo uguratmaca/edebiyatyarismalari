@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MEB 29 Ekim Resim Yarışması 2026: Konu, Şartname, Sonuç"
-description: "MEB 29 Ekim Cumhuriyet Bayramı Resim Yarışması 2026: konu \"Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim\", ilkokul ve ortaokul, şartname, ödül tablet, sonuçlar 23 Ekim."
+description: "MEB 29 Ekim Cumhuriyet Bayramı Resim Yarışması 2026: konu \"Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim\", ilkokul ve ortaokul, şartname, ödül tablet, sonuçlar açıklandı."
 date: 2026-09-07
 category: articles
 tags: [ekim 2026, her yıl tekrarlanan, resim yarışması, ilkokul, ortaokul, 29 ekim]
@@ -13,7 +13,7 @@ organizer: "Millî Eğitim Bakanlığı Temel Eğitim Genel Müdürlüğü"
 requirements: "Resmî ilkokullar, birleştirilmiş sınıf uygulaması yapan ilkokullar, resmî ortaokullar ve imam hatip ortaokullarındaki öğrenciler okulları aracılığıyla katılabilir."
 permalink: "meb-cumhuriyet-bayrami-resim-yarismasi"
 image: "https://edebiyatyarismalari.com/images/2026/ekim/meb-cumhuriyet-bayrami-resim-yarismasi.webp"
-excerpt: "MEB'in ilkokul ve ortaokullar arası <strong>29 Ekim Cumhuriyet Bayramı Resim Yarışması</strong>. 2026 konusu \"Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim\", sonuçlar 23 Ekim 2026'da."
+excerpt: "MEB'in ilkokul ve ortaokullar arası <strong>29 Ekim Cumhuriyet Bayramı Resim Yarışması</strong>. 2026 konusu \"Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim\", sonuçlar 23 Ekim 2026'da açıklandı."
 workLimit: "35x50 cm resim kâğıdı, teknik serbest"
 workCount: "Kişi başı 1 resim"
 ageRange: "1-8. sınıf öğrencileri"
@@ -26,7 +26,7 @@ hidden: true
 
 Millî Eğitim Bakanlığı Temel Eğitim Genel Müdürlüğü'nün her yıl 29 Ekim Cumhuriyet Bayramı kapsamında düzenlediği yarışmanın resim dalı. Yarışmanın şiir ve kompozisyon dalları, ortak takvimi ve genel koşulları için: [MEB 29 Ekim Cumhuriyet Bayramı Şiir ve Kompozisyon Yarışması](/meb-cumhuriyet-bayrami-siir-kompozisyon-yarismasi).
 
-2026 döneminin konusu "Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim" başlığı altında Cumhuriyet Bayramı coşkusunu hissettiren duyguların resim yoluyla ifade edilmesiydi. Okul aşaması Eylül 2026'da tamamlandı, sonuçlar 23 Ekim 2026'da açıklanacak.
+2026 döneminin konusu "Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim" başlığı altında Cumhuriyet Bayramı coşkusunu hissettiren duyguların resim yoluyla ifade edilmesiydi. Okul aşaması Eylül 2026'da tamamlandı, sonuçlar 23 Ekim 2026'da açıklandı (aşağıda "Sonuçları ve Kazananlar" bölümünde).
 
 Katılım Koşulları (2026):
 - Yarışmanın hedef kitlesi resmî ilkokullar, birleştirilmiş sınıf uygulaması yapan ilkokullar, resmî ortaokul ve imam hatip ortaokullarında öğrenim gören öğrencilerdir. Birleştirilmiş sınıf uygulaması yapan ilkokullar kendi aralarında değerlendirilir.
@@ -41,3 +41,28 @@ Katılım Koşulları (2026):
 ## Ödüller (2026)
 
 İlkokul, birleştirilmiş sınıf ve ortaokul kategorilerinde birincilik, ikincilik, üçüncülük ve mansiyon ödülü olarak tablet verilecektir.
+
+## MEB 29 Ekim Resim Yarışması 2026 Sonuçları ve Kazananlar
+
+MEB Temel Eğitim Genel Müdürlüğü, "Birlik Bizim, Kardeşlik Bizim, Cumhuriyet Bizim" konulu yarışmanın sonuçlarını 23 Ekim 2026'da açıkladı. Ödüller 29 Ekim 2026'da MEB Şura Salonu'nda düzenlenecek törenle verilecek. Resmî sonuç listesi: [Yarışma sonuçları (PDF)](https://tegm.meb.gov.tr/meb_iys_dosyalar/2026_10/6adb3e83c5deb373241642_yar%C4%B1%C5%9Fma_sonu%C3%A7.pdf){:rel="nofollow"}{:target="_blank"}{:class="gtag"}. Duyuru: [tegm.meb.gov.tr](https://tegm.meb.gov.tr/www/quot29-ekim-cumhuriyet-bayrami-103-yil-donumu-kutlamalari-kapsaminda-quotbirlik-bizim-kardeslik-bizim-cumhuriyet-bizimquot-konulu-resim-siir-ve-kompozisyon-yarismasi-sonuclandi/icerik/1348/tr){:rel="nofollow"}{:target="_blank"}{:class="gtag"}.
+
+### İlkokul Resim
+
+- Birincilik: Melike Çankal (Seyhan İsmail Hazar İlkokulu, Adana)
+- İkincilik: Ece Türkeri (Merkez 15 Temmuz Şehitler İlkokulu, Bartın)
+- Üçüncülük: İpek Mutlu (İnegöl Yenice Perihan Coşkun İlkokulu, Bursa)
+- Mansiyon: Ümmü Erva Karınca (Çivril İsmail Özcan İlkokulu, Denizli)
+
+### Birleştirilmiş Sınıf Uygulaması Yapan İlkokullar Resim
+
+- Birincilik: Oğuz Çakır (Merkez Alanyurt İlkokulu, Uşak)
+- İkincilik: Meryem İlengiz (Merkez Aşağıkaraboy Köyü İlkokulu, Bitlis)
+- Üçüncülük: Zehra Yaren Altay (Merkez Çine İlkokulu, Burdur)
+- Mansiyon: Muhammet Mustafa Korkmaz (Merkez Kayı Köyü Şehit Ekrem Çelik İlkokulu, Isparta)
+
+### Ortaokul Resim
+
+- Birincilik: Buğlem Batur (Safranbolu Vilayetler Birliği Ortaokulu, Karabük)
+- İkincilik: Hilal Yıldız Bölük (Hassa Akbez İnönü Ortaokulu, Hatay)
+- Üçüncülük: Meryem Tural (Merkez Hürriyet Ortaokulu / Bahçeşehir BİLSEM, Düzce)
+- Mansiyon: Berra Dilara Köksal (Canik Dereler Ortaokulu, Samsun)
